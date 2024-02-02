@@ -17,10 +17,28 @@ type Genres struct {
 
 func main() {
 	allBooks := retrieveFile("output.json")
+	allBooks = removeDuplicates(allBooks)
 	fmt.Println("Length of all books: ", len(allBooks))
 
 	genreToBooks := sortByGenre(allBooks)
 	createJsons(genreToBooks)
+}
+
+func removeDuplicates(books []book.Book) []book.Book {
+	idToBook := make(map[string]book.Book)
+
+	for i := 0; i < len(books); i++ {
+		b := books[i]
+		idToBook[b.ID] = b
+	}
+
+	books = []book.Book{}
+
+	for id := range idToBook {
+		books = append(books, idToBook[id])
+	}
+
+	return books
 }
 
 func createJsons(genreToBooks map[string][]book.Book) {

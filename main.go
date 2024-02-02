@@ -12,7 +12,7 @@ import (
 )
 
 type Genres struct {
-	Genres []string
+	Genres []string `json:"genres"`
 }
 
 func main() {

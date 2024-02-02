@@ -6,9 +6,14 @@ import (
 	"io"
 	"os"
 	"sort"
+	"strings"
 
 	"github.com/dchooyc/book"
 )
+
+type Genres struct {
+	Genres []string
+}
 
 func main() {
 	allBooks := retrieveFile("output.json")
@@ -19,38 +24,83 @@ func main() {
 }
 
 func createJsons(genreToBooks map[string][]book.Book) {
+	genres := Genres{}
+	err := os.Mkdir("./jsons", 0755)
+	if err != nil {
+		fmt.Println("failed creating dir: ", err)
+		return
+	}
+
 	for genre := range genreToBooks {
+		if len(genre) == 0 || strings.Contains(genre, "%") {
+			continue
+		}
+
 		books := book.Books{Books: genreToBooks[genre]}
 		filename := "jsons/" + genre + ".json"
 
-		file, err := os.Create(filename)
+		err := createJsonBooks(filename, books)
 		if err != nil {
-			fmt.Println("Error creating json for: ", genre)
+			fmt.Println(genre, err)
 			continue
 		}
 
-		sort.Slice(books.Books, func(i, j int) bool {
-			return books.Books[i].Ratings > books.Books[j].Ratings
-		})
-
-		if len(books.Books) > 1000 {
-			books.Books = books.Books[:1000]
-		}
-
-		jsonData, err := json.Marshal(books)
-		if err != nil {
-			fmt.Println("Error marshalling json for: ", genre)
-			continue
-		}
-
-		_, err = file.Write(jsonData)
-		if err != nil {
-			fmt.Println("Error writing to json for: ", genre)
-			continue
-		}
-
-		fmt.Println("Created: ", filename, " with length: ", len(books.Books))
+		genres.Genres = append(genres.Genres, genre)
 	}
+
+	err = createJsonGenres("genres.json", genres)
+	if err != nil {
+		fmt.Println("failed creating genres json: ", err)
+	}
+}
+
+func createJsonGenres(filename string, genres Genres) error {
+	file, err := os.Create(filename)
+	if err != nil {
+		return fmt.Errorf("failed creating json: %w", err)
+	}
+
+	sort.Strings(genres.Genres)
+
+	jsonData, err := json.Marshal(genres)
+	if err != nil {
+		return fmt.Errorf("failed marshalling json: %w", err)
+	}
+
+	_, err = file.Write(jsonData)
+	if err != nil {
+		return fmt.Errorf("failed writing json: %w", err)
+	}
+
+	return nil
+}
+
+func createJsonBooks(filename string, books book.Books) error {
+	file, err := os.Create(filename)
+	if err != nil {
+		return fmt.Errorf("failed creating json: %w", err)
+	}
+
+	sort.Slice(books.Books, func(i, j int) bool {
+		return books.Books[i].Ratings > books.Books[j].Ratings
+	})
+
+	if len(books.Books) > 1000 {
+		books.Books = books.Books[:1000]
+	}
+
+	jsonData, err := json.Marshal(books)
+	if err != nil {
+		return fmt.Errorf("failed marshalling json: %w", err)
+	}
+
+	_, err = file.Write(jsonData)
+	if err != nil {
+		return fmt.Errorf("failed writing json: %w", err)
+	}
+
+	fmt.Println("Created: ", filename, " with length: ", len(books.Books))
+	return nil
 }
 
 func sortByGenre(books []book.Book) map[string][]book.Book {

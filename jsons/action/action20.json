@@ -1,147 +1,928 @@
 {
   "books": [
     {
-      "title": "The Tiger's Nest",
-      "url": "https://www.goodreads.com/book/show/50351445-the-tiger-s-nest",
-      "id": "75296379",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1603143656i/50351445.jpg",
+      "title": "The Bourne Treachery",
+      "url": "https://www.goodreads.com/book/show/56155832-the-bourne-treachery",
+      "id": "87474984",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1607055920i/56155832.jpg",
       "authors": [
-        "Trudi Trueit"
+        "Brian Freeman"
+      ],
+      "genres": [
+        "fiction",
+        "thriller",
+        "espionage",
+        "mystery",
+        "mystery-thriller",
+        "suspense",
+        "action"
+      ],
+      "rating": 4.25,
+      "ratings": 2615,
+      "reviews": 139
+    },
+    {
+      "title": "Forbidden Region",
+      "url": "https://www.goodreads.com/book/show/55924457-forbidden-region",
+      "id": "87136955",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1605669147i/55924457.jpg",
+      "authors": [
+        "Michael Sisa"
+      ],
+      "genres": [
+        "fantasy",
+        "magic",
+        "fiction",
+        "elves",
+        "young-adult",
+        "action",
+        "adult"
+      ],
+      "rating": 4.34,
+      "ratings": 2615,
+      "reviews": 126
+    },
+    {
+      "title": "Vortex",
+      "url": "https://www.goodreads.com/book/show/627976.Vortex",
+      "id": "614319",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1356476187i/627976.jpg",
+      "authors": [
+        "Larry Bond"
+      ],
+      "genres": [
+        "fiction",
+        "thriller",
+        "military-fiction",
+        "war",
+        "historical-fiction",
+        "action",
+        "suspense"
+      ],
+      "rating": 4.02,
+      "ratings": 2606,
+      "reviews": 72
+    },
+    {
+      "title": "Kinetic Strike",
+      "url": "https://www.goodreads.com/book/show/53493658-kinetic-strike",
+      "id": "83801809",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1590607564i/53493658.jpg",
+      "authors": [
+        "Rick Partlow"
+      ],
+      "genres": [
+        "science-fiction",
+        "military-fiction",
+        "fiction",
+        "war",
+        "aliens",
+        "action",
+        "space-opera"
+      ],
+      "rating": 4.39,
+      "ratings": 2605,
+      "reviews": 92
+    },
+    {
+      "title": "Fight To Survive",
+      "url": "https://www.goodreads.com/book/show/42902630-fight-to-survive",
+      "id": "66689952",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1559855528i/42902630.jpg",
+      "authors": [
+        "Alan McDermott"
+      ],
+      "genres": [
+        "thriller",
+        "fiction",
+        "action",
+        "military-fiction"
+      ],
+      "rating": 4.4,
+      "ratings": 2600,
+      "reviews": 88
+    },
+    {
+      "title": "Nine Lives",
+      "url": "https://www.goodreads.com/book/show/13939023-nine-lives",
+      "id": "19573970",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1353856005i/13939023.jpg",
+      "authors": [
+        "Tom Barber"
+      ],
+      "genres": [
+        "thriller",
+        "fiction",
+        "action",
+        "suspense",
+        "amazon",
+        "mystery",
+        "adventure"
+      ],
+      "rating": 4.14,
+      "ratings": 2600,
+      "reviews": 233
+    },
+    {
+      "title": "Kill for Me",
+      "url": "https://www.goodreads.com/book/show/37640252-kill-for-me",
+      "id": "59227663",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1519940656i/37640252.jpg",
+      "authors": [
+        "Tom  Wood"
+      ],
+      "genres": [
+        "thriller",
+        "fiction",
+        "action",
+        "crime",
+        "suspense",
+        "espionage",
+        "mystery"
+      ],
+      "rating": 4.38,
+      "ratings": 2599,
+      "reviews": 195
+    },
+    {
+      "title": "April",
+      "url": "https://www.goodreads.com/book/show/7066731-april",
+      "id": "7319356",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348540339i/7066731.jpg",
+      "authors": [
+        "Gabrielle Lord"
+      ],
+      "genres": [
+        "young-adult",
+        "mystery",
+        "adventure",
+        "action",
+        "fiction",
+        "teen",
+        "conspiracy-theories"
+      ],
+      "rating": 4.18,
+      "ratings": 2598,
+      "reviews": 148
+    },
+    {
+      "title": "Magus",
+      "url": "https://www.goodreads.com/book/show/42772673-magus",
+      "id": "18507733",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1542147482i/42772673.jpg",
+      "authors": [
+        "Honor Raconteur"
+      ],
+      "genres": [
+        "fantasy",
+        "magic",
+        "young-adult",
+        "high-fantasy",
+        "adventure",
+        "action",
+        "medieval"
+      ],
+      "rating": 4.24,
+      "ratings": 2588,
+      "reviews": 57
+    },
+    {
+      "title": "Guns of the Timberlands",
+      "url": "https://www.goodreads.com/book/show/1123610.Guns_of_the_Timberlands",
+      "id": "1116895",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320523249i/1123610.jpg",
+      "authors": [
+        "Louis L'Amour"
+      ],
+      "genres": [
+        "westerns",
+        "fiction",
+        "historical-fiction",
+        "adventure",
+        "audiobook",
+        "action",
+        "adult"
+      ],
+      "rating": 4.08,
+      "ratings": 2584,
+      "reviews": 138
+    },
+    {
+      "title": "Odin's Wolves",
+      "url": "https://www.goodreads.com/book/show/13531842-odin-s-wolves",
+      "id": "14619615",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1344371525i/13531842.jpg",
+      "authors": [
+        "Giles Kristian"
+      ],
+      "genres": [
+        "historical-fiction",
+        "fiction",
+        "historical",
+        "fantasy",
+        "adventure",
+        "medieval",
+        "action"
+      ],
+      "rating": 4.31,
+      "ratings": 2578,
+      "reviews": 162
+    },
+    {
+      "title": "ONE PIECE 97",
+      "url": "https://www.goodreads.com/book/show/52458008-one-piece-97",
+      "id": "77896980",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1599597883i/52458008.jpg",
+      "authors": [
+        "Eiichiro Oda"
+      ],
+      "genres": [
+        "manga",
+        "fantasy",
+        "comics",
+        "adventure",
+        "action",
+        "graphic-novels",
+        "fiction"
+      ],
+      "rating": 4.65,
+      "ratings": 2575,
+      "reviews": 119
+    },
+    {
+      "title": "Switchback",
+      "url": "https://www.goodreads.com/book/show/48815272-switchback",
+      "id": "72653240",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1573794118i/48815272.jpg",
+      "authors": [
+        "Pamela Fagan Hutchins"
+      ],
+      "genres": [
+        "mystery",
+        "fiction",
+        "suspense",
+        "audiobook",
+        "adventure",
+        "action",
+        "mystery-thriller"
+      ],
+      "rating": 4.13,
+      "ratings": 2571,
+      "reviews": 264
+    },
+    {
+      "title": "Gold in the Keys",
+      "url": "https://www.goodreads.com/book/show/37780519-gold-in-the-keys",
+      "id": "59429815",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1514717365i/37780519.jpg",
+      "authors": [
+        "Matthew  Rief"
+      ],
+      "genres": [
+        "fiction",
+        "mystery",
+        "mystery-thriller",
+        "action",
+        "audiobook"
+      ],
+      "rating": 4.29,
+      "ratings": 2569,
+      "reviews": 89
+    },
+    {
+      "title": "Claymore, Vol. 13: The Defiant Ones",
+      "url": "https://www.goodreads.com/book/show/1930557.Claymore_Vol_13",
+      "id": "1932907",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1362559267i/1930557.jpg",
+      "authors": [
+        "Norihiro Yagi"
+      ],
+      "genres": [
+        "manga",
+        "fantasy",
+        "horror",
+        "comics",
+        "graphic-novels",
+        "shonen",
+        "action"
+      ],
+      "rating": 4.25,
+      "ratings": 2566,
+      "reviews": 88
+    },
+    {
+      "title": "Claymore, Vol. 10: The Battle of the North",
+      "url": "https://www.goodreads.com/book/show/777425.Claymore_Vol_10",
+      "id": "763454",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388731423i/777425.jpg",
+      "authors": [
+        "Norihiro Yagi"
+      ],
+      "genres": [
+        "manga",
+        "fantasy",
+        "horror",
+        "comics",
+        "graphic-novels",
+        "action",
+        "fiction"
+      ],
+      "rating": 4.32,
+      "ratings": 2565,
+      "reviews": 112
+    },
+    {
+      "title": "Against All Enemies",
+      "url": "https://www.goodreads.com/book/show/24435611-against-all-enemies",
+      "id": "42295344",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1441574658i/24435611.jpg",
+      "authors": [
+        "John Gilstrap"
+      ],
+      "genres": [
+        "thriller",
+        "fiction",
+        "mystery",
+        "action",
+        "suspense",
+        "mystery-thriller",
+        "military-fiction"
+      ],
+      "rating": 4.14,
+      "ratings": 2561,
+      "reviews": 114
+    },
+    {
+      "title": "Indiana Jones and the Temple of Doom",
+      "url": "https://www.goodreads.com/book/show/407224.Indiana_Jones_and_the_Temple_of_Doom",
+      "id": "396548",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320511900i/407224.jpg",
+      "authors": [
+        "James Kahn"
       ],
       "genres": [
         "adventure",
         "fiction",
-        "middle-grade",
-        "mystery",
-        "action",
         "fantasy",
-        "childrens"
+        "historical-fiction",
+        "media-tie-in",
+        "action",
+        "thriller"
       ],
-      "rating": 4.57,
-      "ratings": 683,
-      "reviews": 73
+      "rating": 4.06,
+      "ratings": 2559,
+      "reviews": 77
     },
     {
-      "title": "Wild Fire",
-      "url": "https://www.goodreads.com/book/show/61428388-wild-fire",
-      "id": "96937242",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1657593095i/61428388.jpg",
+      "title": "Eat, Slay, Love",
+      "url": "https://www.goodreads.com/book/show/53847161-eat-slay-love",
+      "id": "84173882",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1591383810i/53847161.jpg",
       "authors": [
-        "Nicholas Sansbury Smith"
+        "Eric Ugland"
       ],
       "genres": [
-        "post-apocalyptic",
-        "action",
+        "fantasy",
         "fiction",
-        "science-fiction",
-        "audiobook"
+        "audiobook",
+        "adventure",
+        "science-fiction-fantasy",
+        "humor",
+        "action"
       ],
-      "rating": 4.46,
-      "ratings": 680,
-      "reviews": 51
+      "rating": 4.43,
+      "ratings": 2554,
+      "reviews": 128
     },
     {
-      "title": "Bodyguard of Lies",
-      "url": "https://www.goodreads.com/book/show/8787505-bodyguard-of-lies",
-      "id": "13661291",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1351094255i/8787505.jpg",
+      "title": "The Redeemers",
+      "url": "https://www.goodreads.com/book/show/23398911-the-redeemers",
+      "id": "42955420",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1417982173i/23398911.jpg",
       "authors": [
-        "Bob Mayer"
+        "Ace Atkins"
+      ],
+      "genres": [
+        "mystery",
+        "crime",
+        "thriller",
+        "fiction",
+        "mystery-thriller",
+        "action",
+        "suspense"
+      ],
+      "rating": 4.02,
+      "ratings": 2552,
+      "reviews": 243
+    },
+    {
+      "title": "The Armada Legacy",
+      "url": "https://www.goodreads.com/book/show/17794066-the-armada-legacy",
+      "id": "24889591",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1376756262i/17794066.jpg",
+      "authors": [
+        "Scott Mariani"
       ],
       "genres": [
         "thriller",
         "fiction",
-        "suspense",
-        "mystery",
+        "adventure",
+        "crime",
         "action",
-        "military-fiction",
-        "science-fiction"
+        "mystery-thriller",
+        "mystery"
       ],
-      "rating": 4.01,
-      "ratings": 679,
-      "reviews": 57
+      "rating": 4.17,
+      "ratings": 2550,
+      "reviews": 125
     },
     {
-      "title": "Anxiety",
-      "url": "https://www.goodreads.com/book/show/34036406-anxiety",
-      "id": "55037969",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1485612005i/34036406.jpg",
+      "title": "Battle Group Avalon",
+      "url": "https://www.goodreads.com/book/show/40655922-battle-group-avalon",
+      "id": "50476317",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1530119399i/40655922.jpg",
       "authors": [
-        "Jack Hunt"
+        "Glynn Stewart"
       ],
       "genres": [
-        "post-apocalyptic",
+        "science-fiction",
+        "space-opera",
+        "military-fiction",
+        "military-science-fiction",
         "fiction",
-        "apocalyptic",
-        "dystopia",
-        "action"
+        "action",
+        "science-fiction-fantasy"
       ],
-      "rating": 4.24,
-      "ratings": 676,
-      "reviews": 49
+      "rating": 4.21,
+      "ratings": 2549,
+      "reviews": 73
     },
     {
-      "title": "Devilman: The Classic Collection Vol. 2",
-      "url": "https://www.goodreads.com/book/show/38111222-devilman",
-      "id": "59792110",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1531172091i/38111222.jpg",
+      "title": "Flight of Eagles",
+      "url": "https://www.goodreads.com/book/show/458526.Flight_of_Eagles",
+      "id": "447016",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1299114130i/458526.jpg",
       "authors": [
-        "Go Nagai"
+        "Jack Higgins"
+      ],
+      "genres": [
+        "fiction",
+        "thriller",
+        "historical-fiction",
+        "espionage",
+        "action",
+        "adventure",
+        "military-fiction"
+      ],
+      "rating": 4,
+      "ratings": 2546,
+      "reviews": 120
+    },
+    {
+      "title": "In the Wind",
+      "url": "https://www.goodreads.com/book/show/24639831-in-the-wind",
+      "id": "43149661",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1422777387i/24639831.jpg",
+      "authors": [
+        "Robert J. Crane"
+      ],
+      "genres": [
+        "fantasy",
+        "urban-fantasy",
+        "fiction",
+        "paranormal",
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "rating": 4.21,
+      "ratings": 2545,
+      "reviews": 68
+    },
+    {
+      "title": "One Way",
+      "url": "https://www.goodreads.com/book/show/17912350-one-way",
+      "id": "25099772",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1370531302i/17912350.jpg",
+      "authors": [
+        "Tom Barber"
+      ],
+      "genres": [
+        "mystery",
+        "thriller",
+        "fiction",
+        "amazon",
+        "suspense",
+        "mystery-thriller",
+        "action"
+      ],
+      "rating": 4.42,
+      "ratings": 2544,
+      "reviews": 200
+    },
+    {
+      "title": "Deadman Wonderland Volume 6",
+      "url": "https://www.goodreads.com/book/show/10157514-deadman-wonderland-volume-6",
+      "id": "15055983",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1396127879i/10157514.jpg",
+      "authors": [
+        "Jinsei Kataoka"
       ],
       "genres": [
         "manga",
         "horror",
-        "comics",
-        "fantasy",
+        "science-fiction",
         "graphic-novels",
-        "comics-manga",
-        "action"
+        "comics",
+        "action",
+        "fantasy"
       ],
-      "rating": 4.28,
-      "ratings": 674,
-      "reviews": 51
+      "rating": 4.19,
+      "ratings": 2539,
+      "reviews": 111
     },
     {
-      "title": "Going Rogue",
-      "url": "https://www.goodreads.com/book/show/48495283-going-rogue",
-      "id": "73805085",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1571338982i/48495283.jpg",
+      "title": "Shadows of Steel",
+      "url": "https://www.goodreads.com/book/show/201071.Shadows_of_Steel",
+      "id": "841199",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1172634167i/201071.jpg",
       "authors": [
-        "Neil Lancaster"
+        "Dale Brown"
+      ],
+      "genres": [
+        "fiction",
+        "military-fiction",
+        "thriller",
+        "adventure",
+        "action",
+        "war",
+        "aviation"
+      ],
+      "rating": 4.06,
+      "ratings": 2535,
+      "reviews": 70
+    },
+    {
+      "title": "Secret Honor",
+      "url": "https://www.goodreads.com/book/show/140104.Secret_Honor",
+      "id": "1822198",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1339564461i/140104.jpg",
+      "authors": [
+        "W.E.B. Griffin"
+      ],
+      "genres": [
+        "fiction",
+        "historical-fiction",
+        "military-fiction",
+        "thriller",
+        "war",
+        "espionage",
+        "action"
+      ],
+      "rating": 4.24,
+      "ratings": 2528,
+      "reviews": 41
+    },
+    {
+      "title": "Boneshaker",
+      "url": "https://www.goodreads.com/book/show/52893805-boneshaker",
+      "id": "79172113",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1585844303i/52893805.jpg",
+      "authors": [
+        "Joshua Dalzelle"
+      ],
+      "genres": [
+        "science-fiction",
+        "military-fiction",
+        "space-opera",
+        "espionage",
+        "action",
+        "space",
+        "fiction"
+      ],
+      "rating": 4.51,
+      "ratings": 2520,
+      "reviews": 103
+    },
+    {
+      "title": "The Disciple",
+      "url": "https://www.goodreads.com/book/show/6614550-the-disciple",
+      "id": "6808611",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1441851114i/6614550.jpg",
+      "authors": [
+        "Stephen Coonts"
+      ],
+      "genres": [
+        "fiction",
+        "thriller",
+        "espionage",
+        "action",
+        "military-fiction",
+        "mystery",
+        "mystery-thriller"
+      ],
+      "rating": 4.08,
+      "ratings": 2517,
+      "reviews": 116
+    },
+    {
+      "title": "The Counterfeit Candidate",
+      "url": "https://www.goodreads.com/book/show/58578887-the-counterfeit-candidate",
+      "id": "91952334",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1626609642i/58578887.jpg",
+      "authors": [
+        "Brian Klein"
       ],
       "genres": [
         "thriller",
+        "fiction",
+        "historical-fiction",
+        "historical",
+        "world-war-ii",
+        "action",
+        "mystery"
+      ],
+      "rating": 4.3,
+      "ratings": 2515,
+      "reviews": 156
+    },
+    {
+      "title": "Kilo Class",
+      "url": "https://www.goodreads.com/book/show/43051.Kilo_Class",
+      "id": "2913707",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1389616912i/43051.jpg",
+      "authors": [
+        "Patrick Robinson"
+      ],
+      "genres": [
+        "fiction",
+        "thriller",
+        "military-fiction",
+        "war",
+        "action",
+        "adventure",
+        "audiobook"
+      ],
+      "rating": 4.1,
+      "ratings": 2513,
+      "reviews": 88
+    },
+    {
+      "title": "Vanilla Ride",
+      "url": "https://www.goodreads.com/book/show/5768980-vanilla-ride",
+      "id": "5940721",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320488010i/5768980.jpg",
+      "authors": [
+        "Joe R. Lansdale"
+      ],
+      "genres": [
+        "crime",
+        "mystery",
+        "fiction",
+        "thriller",
+        "noir",
+        "humor",
+        "action"
+      ],
+      "rating": 4.04,
+      "ratings": 2510,
+      "reviews": 226
+    },
+    {
+      "title": "Dragonslayer",
+      "url": "https://www.goodreads.com/book/show/981869.Dragonslayer",
+      "id": "966758",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1179978731i/981869.jpg",
+      "authors": [
+        "William King"
+      ],
+      "genres": [
+        "fantasy",
+        "fiction",
+        "audiobook",
+        "high-fantasy",
+        "science-fiction-fantasy",
+        "action",
+        "novels"
+      ],
+      "rating": 4.08,
+      "ratings": 2505,
+      "reviews": 79
+    },
+    {
+      "title": "Counter Strike",
+      "url": "https://www.goodreads.com/book/show/59760960-counter-strike",
+      "id": "94123173",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1638758446i/59760960.jpg",
+      "authors": [
+        "David Bruns"
+      ],
+      "genres": [
+        "military-fiction",
+        "fiction",
+        "thriller",
+        "action",
+        "war"
+      ],
+      "rating": 4.59,
+      "ratings": 2502,
+      "reviews": 94
+    },
+    {
+      "title": "Claymore, Vol. 11: Kindred of Paradise",
+      "url": "https://www.goodreads.com/book/show/1822316.Claymore_Vol_11",
+      "id": "1821951",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348390114i/1822316.jpg",
+      "authors": [
+        "Norihiro Yagi"
+      ],
+      "genres": [
+        "manga",
+        "fantasy",
+        "horror",
+        "comics",
+        "graphic-novels",
+        "action",
+        "fiction"
+      ],
+      "rating": 4.33,
+      "ratings": 2500,
+      "reviews": 114
+    },
+    {
+      "title": "Romeo's Rules",
+      "url": "https://www.goodreads.com/book/show/26810193-romeo-s-rules",
+      "id": "46836316",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1443124688i/26810193.jpg",
+      "authors": [
+        "James Scott Bell"
+      ],
+      "genres": [
+        "mystery",
+        "thriller",
+        "fiction",
+        "suspense",
+        "mystery-thriller",
         "crime",
         "action"
       ],
-      "rating": 4.48,
-      "ratings": 673,
-      "reviews": 63
+      "rating": 4.26,
+      "ratings": 2497,
+      "reviews": 257
     },
     {
-      "title": "To Face A Savage Land: A Mountain Man Classic Western",
-      "url": "https://www.goodreads.com/book/show/23353884-to-face-a-savage-land",
-      "id": "42910959",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1429936475i/23353884.jpg",
+      "title": "Red Cell",
+      "url": "https://www.goodreads.com/book/show/294993.Red_Cell",
+      "id": "286243",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1382902994i/294993.jpg",
       "authors": [
-        "John Legg"
+        "Richard Marcinko"
       ],
       "genres": [
-        "westerns",
+        "military-fiction",
+        "fiction",
         "action",
-        "historical-fiction"
+        "war",
+        "thriller",
+        "mystery-thriller",
+        "espionage"
       ],
-      "rating": 4.35,
-      "ratings": 673,
-      "reviews": 7
+      "rating": 4,
+      "ratings": 2492,
+      "reviews": 65
     },
     {
-      "title": "Betrayal",
-      "url": "https://www.goodreads.com/book/show/17706984-betrayal",
-      "id": "19180738",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1365401953i/17706984.jpg",
+      "title": "Planet Killer",
+      "url": "https://www.goodreads.com/book/show/48509566-planet-killer",
+      "id": "73823969",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1571533344i/48509566.jpg",
       "authors": [
-        "Julian Stockwin"
+        "Lindsay Buroker"
+      ],
+      "genres": [
+        "science-fiction",
+        "space-opera",
+        "adventure",
+        "fantasy",
+        "fiction",
+        "action",
+        "audiobook"
+      ],
+      "rating": 4.63,
+      "ratings": 2489,
+      "reviews": 177
+    },
+    {
+      "title": "Deadlock",
+      "url": "https://www.goodreads.com/book/show/16100368-deadlock",
+      "id": "21910387",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1370552258i/16100368.jpg",
+      "authors": [
+        "Mark Walden"
+      ],
+      "genres": [
+        "science-fiction",
+        "young-adult",
+        "adventure",
+        "action",
+        "fiction",
+        "middle-grade",
+        "teen"
+      ],
+      "rating": 4.41,
+      "ratings": 2485,
+      "reviews": 80
+    },
+    {
+      "title": "Call to Treason",
+      "url": "https://www.goodreads.com/book/show/20864.Call_to_Treason",
+      "id": "17029064",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1309206600i/20864.jpg",
+      "authors": [
+        "Jeff Rovin"
+      ],
+      "genres": [
+        "fiction",
+        "thriller",
+        "espionage",
+        "action",
+        "adventure",
+        "suspense",
+        "military-fiction"
+      ],
+      "rating": 4.02,
+      "ratings": 2481,
+      "reviews": 46
+    },
+    {
+      "title": "Forever",
+      "url": "https://www.goodreads.com/book/show/58341195-forever",
+      "id": "91047104",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1623684710i/58341195.jpg",
+      "authors": [
+        "Janie Crouch"
+      ],
+      "genres": [
+        "romantic-suspense",
+        "romance",
+        "suspense",
+        "military-fiction",
+        "military-romance",
+        "mystery",
+        "action"
+      ],
+      "rating": 4.56,
+      "ratings": 2481,
+      "reviews": 187
+    },
+    {
+      "title": "Killing Them Awfully",
+      "url": "https://www.goodreads.com/book/show/57219218-killing-them-awfully",
+      "id": "89556255",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1614388091i/57219218.jpg",
+      "authors": [
+        "Eric Ugland"
+      ],
+      "genres": [
+        "fantasy",
+        "fiction",
+        "audiobook",
+        "adventure",
+        "science-fiction-fantasy",
+        "action"
+      ],
+      "rating": 4.4,
+      "ratings": 2481,
+      "reviews": 140
+    },
+    {
+      "title": "Jasmine",
+      "url": "https://www.goodreads.com/book/show/38230910-jasmine",
+      "id": "54759016",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1517225120i/38230910.jpg",
+      "authors": [
+        "Kris Michaels"
+      ],
+      "genres": [
+        "military-fiction",
+        "romance",
+        "romantic-suspense",
+        "contemporary",
+        "adult",
+        "military-romance",
+        "action"
+      ],
+      "rating": 4.62,
+      "ratings": 2478,
+      "reviews": 145
+    },
+    {
+      "title": "Ramage",
+      "url": "https://www.goodreads.com/book/show/852721.Ramage",
+      "id": "838225",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1674019603i/852721.jpg",
+      "authors": [
+        "Dudley Pope"
       ],
       "genres": [
         "historical-fiction",
@@ -149,1856 +930,115 @@
         "historical",
         "adventure",
         "war",
-        "action"
-      ],
-      "rating": 4.02,
-      "ratings": 672,
-      "reviews": 31
-    },
-    {
-      "title": "Callsign: King II - Underworld",
-      "url": "https://www.goodreads.com/book/show/13015130-callsign",
-      "id": "18177155",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1426049880i/13015130.jpg",
-      "authors": [
-        "Jeremy Robinson"
-      ],
-      "genres": [
-        "thriller",
-        "fiction",
-        "adventure",
-        "action",
-        "science-fiction",
         "military-fiction",
-        "novella"
-      ],
-      "rating": 4.26,
-      "ratings": 672,
-      "reviews": 39
-    },
-    {
-      "title": "Trailblazer",
-      "url": "https://www.goodreads.com/book/show/44168970-trailblazer",
-      "id": "67614372",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1551473892i/44168970.jpg",
-      "authors": [
-        "Michelle Diener"
-      ],
-      "genres": [
-        "science-fiction",
-        "romance",
-        "science-fiction-romance",
-        "fantasy",
-        "space",
-        "adventure",
-        "action"
-      ],
-      "rating": 4.35,
-      "ratings": 672,
-      "reviews": 77
-    },
-    {
-      "title": "Warlords Ascending",
-      "url": "https://www.goodreads.com/book/show/40664498-warlords-ascending",
-      "id": "63212184",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1530218489i/40664498.jpg",
-      "authors": [
-        "Honor Raconteur"
-      ],
-      "genres": [
-        "fantasy",
-        "magic",
-        "romance",
-        "action",
-        "young-adult"
-      ],
-      "rating": 4.53,
-      "ratings": 668,
-      "reviews": 31
-    },
-    {
-      "title": "The Nameless Hero",
-      "url": "https://www.goodreads.com/book/show/17190375-the-nameless-hero",
-      "id": "23642526",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1359385105i/17190375.jpg",
-      "authors": [
-        "Lee Bacon"
-      ],
-      "genres": [
-        "fantasy",
-        "middle-grade",
-        "science-fiction",
-        "superheroes",
-        "young-adult",
-        "childrens",
-        "action"
-      ],
-      "rating": 4.14,
-      "ratings": 665,
-      "reviews": 35
-    },
-    {
-      "title": "Ice and Monsters",
-      "url": "https://www.goodreads.com/book/show/60209265-ice-and-monsters",
-      "id": "94950301",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1643090493i/60209265.jpg",
-      "authors": [
-        "Peter Nealen"
-      ],
-      "genres": [
-        "fantasy",
-        "action",
-        "science-fiction",
-        "military-fiction",
-        "audiobook",
-        "monsters",
-        "magic"
-      ],
-      "rating": 4.2,
-      "ratings": 664,
-      "reviews": 56
-    },
-    {
-      "title": "So I'm a Spider, So What?, Vol. 14",
-      "url": "https://www.goodreads.com/book/show/60104893-so-i-m-a-spider-so-what-vol-14",
-      "id": "88401616",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1655485263i/60104893.jpg",
-      "authors": [
-        "Okina Baba"
-      ],
-      "genres": [
-        "light-novel",
-        "fantasy",
-        "action",
-        "fiction",
-        "comedy",
-        "adventure",
-        "manga"
-      ],
-      "rating": 4.44,
-      "ratings": 662,
-      "reviews": 8
-    },
-    {
-      "title": "Project Legion",
-      "url": "https://www.goodreads.com/book/show/32737583-project-legion",
-      "id": "53328170",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1477346775i/32737583.jpg",
-      "authors": [
-        "Jeremy Robinson"
-      ],
-      "genres": [
-        "fiction",
-        "science-fiction",
-        "thriller",
-        "horror",
-        "fantasy",
-        "action",
-        "aliens"
-      ],
-      "rating": 4.44,
-      "ratings": 661,
-      "reviews": 70
-    },
-    {
-      "title": "Fire From the Sky : Embers",
-      "url": "https://www.goodreads.com/book/show/59047094-fire-from-the-sky",
-      "id": "93100004",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1632242822i/59047094.jpg",
-      "authors": [
-        "N.C. Reed"
-      ],
-      "genres": [
-        "action",
-        "post-apocalyptic"
-      ],
-      "rating": 4.72,
-      "ratings": 659,
-      "reviews": 79
-    },
-    {
-      "title": "The Bonding",
-      "url": "https://www.goodreads.com/book/show/41944956-the-bonding",
-      "id": "65436859",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1537482552i/41944956.jpg",
-      "authors": [
-        "Vickie Knestaut"
-      ],
-      "genres": [
-        "fantasy",
-        "dragons",
-        "amazon",
-        "action",
-        "fiction",
-        "young-adult"
-      ],
-      "rating": 4.46,
-      "ratings": 658,
-      "reviews": 64
-    },
-    {
-      "title": "Crossing the Line",
-      "url": "https://www.goodreads.com/book/show/23566919-crossing-the-line",
-      "id": "43165894",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1436808558i/23566919.jpg",
-      "authors": [
-        "Meghan Rogers"
-      ],
-      "genres": [
-        "young-adult",
-        "thriller",
-        "mystery",
-        "fiction",
-        "contemporary",
-        "action",
-        "romance"
-      ],
-      "rating": 4.36,
-      "ratings": 656,
-      "reviews": 111
-    },
-    {
-      "title": "Betrayed",
-      "url": "https://www.goodreads.com/book/show/41427651-betrayed",
-      "id": "64646885",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1534903404i/41427651.jpg",
-      "authors": [
-        "Vanessa  Nelson"
-      ],
-      "genres": [
-        "fantasy",
-        "urban-fantasy",
-        "paranormal",
-        "action",
-        "magic",
-        "fae",
-        "mystery"
-      ],
-      "rating": 4.46,
-      "ratings": 655,
-      "reviews": 35
-    },
-    {
-      "title": "Angron: Slave of Nuceria",
-      "url": "https://www.goodreads.com/book/show/40593235-angron",
-      "id": "63038529",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1545477731i/40593235.jpg",
-      "authors": [
-        "Ian St. Martin"
-      ],
-      "genres": [
-        "40k",
-        "science-fiction",
-        "fiction",
-        "audiobook",
-        "military-fiction",
-        "action"
-      ],
-      "rating": 4.23,
-      "ratings": 654,
-      "reviews": 65
-    },
-    {
-      "title": "Tower of God T04",
-      "url": "https://www.goodreads.com/book/show/60345121-tower-of-god-t04",
-      "id": "103948973",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1644257764i/60345121.jpg",
-      "authors": [
-        "S.I.U"
-      ],
-      "genres": [
-        "manga",
-        "fantasy",
-        "manhwa",
-        "webcomic",
-        "graphic-novels",
-        "comics",
-        "action"
-      ],
-      "rating": 4.51,
-      "ratings": 654,
-      "reviews": 33
-    },
-    {
-      "title": "Stealth",
-      "url": "https://www.goodreads.com/book/show/63120184-stealth",
-      "id": "99014428",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1678988648i/63120184.jpg",
-      "authors": [
-        "Reese Knightley"
-      ],
-      "genres": [
-        "m-m-romance",
-        "action",
-        "military-fiction",
-        "romance",
-        "suspense",
-        "romantic-suspense",
-        "contemporary"
-      ],
-      "rating": 4.34,
-      "ratings": 653,
-      "reviews": 38
-    },
-    {
-      "title": "The Collapse",
-      "url": "https://www.goodreads.com/book/show/55155307-the-collapse",
-      "id": "85980474",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1598643735i/55155307.jpg",
-      "authors": [
-        "Michael Stephen Fuchs"
-      ],
-      "genres": [
-        "zombies",
-        "horror",
-        "military-fiction",
-        "fiction",
-        "action",
-        "audiobook"
-      ],
-      "rating": 4.52,
-      "ratings": 652,
-      "reviews": 45
-    },
-    {
-      "title": "Combust",
-      "url": "https://www.goodreads.com/book/show/61331075-combust",
-      "id": "96711727",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1655773405i/61331075.jpg",
-      "authors": [
-        "Tana Stone"
-      ],
-      "genres": [
-        "science-fiction-romance",
-        "science-fiction",
-        "aliens",
-        "romance",
-        "paranormal",
-        "action"
-      ],
-      "rating": 4.5,
-      "ratings": 652,
-      "reviews": 57
-    },
-    {
-      "title": "Fledge",
-      "url": "https://www.goodreads.com/book/show/15764009-fledge",
-      "id": "21466525",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1363477917i/15764009.jpg",
-      "authors": [
-        "J.A. Huss"
-      ],
-      "genres": [
-        "science-fiction",
-        "fantasy",
-        "dystopia",
-        "romance",
-        "action",
-        "new-adult",
-        "paranormal-romance"
-      ],
-      "rating": 4.08,
-      "ratings": 649,
-      "reviews": 81
-    },
-    {
-      "title": "The Immortality Curse",
-      "url": "https://www.goodreads.com/book/show/34624843-the-immortality-curse",
-      "id": "55748404",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1489943858i/34624843.jpg",
-      "authors": [
-        "Greig Beck"
-      ],
-      "genres": [
-        "thriller",
-        "fiction",
-        "adventure",
-        "horror",
-        "science-fiction",
-        "action",
-        "fantasy"
-      ],
-      "rating": 4.23,
-      "ratings": 648,
-      "reviews": 43
-    },
-    {
-      "title": "Fuze",
-      "url": "https://www.goodreads.com/book/show/63058019-fuze",
-      "id": "98931137",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1666409408i/63058019.jpg",
-      "authors": [
-        "Brian Christopher Shea"
-      ],
-      "genres": [
-        "action",
-        "thriller",
-        "suspense",
-        "lgbt"
-      ],
-      "rating": 4.28,
-      "ratings": 646,
-      "reviews": 42
-    },
-    {
-      "title": "Teenage Mutant Ninja Turtles Micro-Series, Volume 1",
-      "url": "https://www.goodreads.com/book/show/14540014-teenage-mutant-ninja-turtles-micro-series-volume-1",
-      "id": "20182693",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1578723762i/14540014.jpg",
-      "authors": [
-        "Brian Lynch"
-      ],
-      "genres": [
-        "comics",
-        "graphic-novels",
-        "superheroes",
-        "science-fiction",
-        "fiction",
-        "fantasy",
-        "action"
-      ],
-      "rating": 4.05,
-      "ratings": 646,
-      "reviews": 37
-    },
-    {
-      "title": "The Champion",
-      "url": "https://www.goodreads.com/book/show/54241347-the-champion",
-      "id": "84641263",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1605305788i/54241347.jpg",
-      "authors": [
-        "Taran Matharu"
-      ],
-      "genres": [
-        "fantasy",
-        "young-adult",
-        "science-fiction",
-        "science-fiction-fantasy",
-        "fiction",
-        "action",
-        "dystopia"
-      ],
-      "rating": 4.14,
-      "ratings": 645,
-      "reviews": 78
-    },
-    {
-      "title": "One Piece. Omnibus, Vol. 9",
-      "url": "https://www.goodreads.com/book/show/18775120-one-piece-omnibus-vol-9",
-      "id": "26680249",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1389588704i/18775120.jpg",
-      "authors": [
-        "Eiichiro Oda"
-      ],
-      "genres": [
-        "manga",
-        "adventure",
-        "fantasy",
-        "comics",
-        "pirates",
-        "action",
-        "comedy"
-      ],
-      "rating": 4.36,
-      "ratings": 645,
-      "reviews": 44
-    },
-    {
-      "title": "Ravishing Reign",
-      "url": "https://www.goodreads.com/book/show/92978409-ravishing-reign",
-      "id": "117259085",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1675185416i/92978409.jpg",
-      "authors": [
-        "Aleatha Romig"
-      ],
-      "genres": [
-        "romance",
-        "romantic-suspense",
-        "contemporary",
-        "suspense",
-        "drama",
-        "action",
-        "contemporary-romance"
-      ],
-      "rating": 4.44,
-      "ratings": 643,
-      "reviews": 125
-    },
-    {
-      "title": "Callsign: Bishop",
-      "url": "https://www.goodreads.com/book/show/13069318-callsign",
-      "id": "18235374",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327876922i/13069318.jpg",
-      "authors": [
-        "Jeremy Robinson"
-      ],
-      "genres": [
-        "thriller",
-        "fiction",
-        "adventure",
-        "action",
-        "military-fiction",
-        "science-fiction",
-        "novella"
-      ],
-      "rating": 4.22,
-      "ratings": 643,
-      "reviews": 30
-    },
-    {
-      "title": "Fire and Forget",
-      "url": "https://www.goodreads.com/book/show/36481791-fire-and-forget",
-      "id": "58192363",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1509063200i/36481791.jpg",
-      "authors": [
-        "Andrew   Warren"
-      ],
-      "genres": [
-        "thriller",
-        "amazon",
-        "fiction",
-        "action",
-        "suspense"
-      ],
-      "rating": 4.37,
-      "ratings": 642,
-      "reviews": 54
-    },
-    {
-      "title": "One Beats the Bush",
-      "url": "https://www.goodreads.com/book/show/176892613-one-beats-the-bush",
-      "id": "183223026",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1686573305i/176892613.jpg",
-      "authors": [
-        "Riall Nolan"
-      ],
-      "genres": [
-        "action"
-      ],
-      "rating": 4.19,
-      "ratings": 642,
-      "reviews": 22
-    },
-    {
-      "title": "Daniel X: The Manga, Vol. 3",
-      "url": "https://www.goodreads.com/book/show/11652092-daniel-x",
-      "id": "16596497",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1466032656i/11652092.jpg",
-      "authors": [
-        "James Patterson"
-      ],
-      "genres": [
-        "manga",
-        "graphic-novels",
-        "science-fiction",
-        "young-adult",
-        "fiction",
-        "adventure",
-        "action"
-      ],
-      "rating": 4.24,
-      "ratings": 641,
-      "reviews": 36
-    },
-    {
-      "title": "Rescuing Barbi",
-      "url": "https://www.goodreads.com/book/show/123013338-rescuing-barbi",
-      "id": "144301524",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1689347861i/123013338.jpg",
-      "authors": [
-        "Ellie Masters"
-      ],
-      "genres": [
-        "action",
-        "romantic-suspense",
-        "romance",
-        "suspense",
-        "military-fiction"
-      ],
-      "rating": 4.68,
-      "ratings": 639,
-      "reviews": 115
-    },
-    {
-      "title": "High Flyer",
-      "url": "https://www.goodreads.com/book/show/54275487-high-flyer",
-      "id": "77441823",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1593170185i/54275487.jpg",
-      "authors": [
-        "Michelle Diener"
-      ],
-      "genres": [
-        "romance",
-        "science-fiction",
-        "science-fiction-romance",
-        "adventure",
-        "action",
-        "space",
-        "adult"
-      ],
-      "rating": 4.27,
-      "ratings": 639,
-      "reviews": 75
-    },
-    {
-      "title": "JoJo's Bizarre Adventure: Golden Wind, Tome 3",
-      "url": "https://www.goodreads.com/book/show/5147179-jojo-s-bizarre-adventure",
-      "id": "5214084",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348021287i/5147179.jpg",
-      "authors": [
-        "Hirohiko Araki"
-      ],
-      "genres": [
-        "manga",
-        "fantasy",
-        "adventure",
-        "supernatural",
-        "fiction",
-        "action",
-        "comics"
-      ],
-      "rating": 4.36,
-      "ratings": 639,
-      "reviews": 32
-    },
-    {
-      "title": "Levon's Trade",
-      "url": "https://www.goodreads.com/book/show/23941019-levon-s-trade",
-      "id": "43546090",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1440151985i/23941019.jpg",
-      "authors": [
-        "Chuck Dixon"
-      ],
-      "genres": [
-        "thriller",
-        "action",
-        "crime",
-        "adventure",
-        "suspense"
-      ],
-      "rating": 4.23,
-      "ratings": 639,
-      "reviews": 64
-    },
-    {
-      "title": "Poison Hearts",
-      "url": "https://www.goodreads.com/book/show/123414676-poison-hearts",
-      "id": "144808793",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1679502870i/123414676.jpg",
-      "authors": [
-        "Jennifer Cody"
-      ],
-      "genres": [
-        "m-m-romance",
-        "romance",
-        "contemporary",
-        "lgbt",
-        "crime",
-        "action",
-        "humor"
-      ],
-      "rating": 4.41,
-      "ratings": 636,
-      "reviews": 106
-    },
-    {
-      "title": "Axrel",
-      "url": "https://www.goodreads.com/book/show/60492746-axrel",
-      "id": "95336170",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1645776645i/60492746.jpg",
-      "authors": [
-        "Olivia  Riley"
-      ],
-      "genres": [
-        "aliens",
-        "science-fiction",
-        "romance",
-        "science-fiction-romance",
-        "action"
-      ],
-      "rating": 4.2,
-      "ratings": 633,
-      "reviews": 70
-    },
-    {
-      "title": "Blackbird Crowned",
-      "url": "https://www.goodreads.com/book/show/55521579-blackbird-crowned",
-      "id": "86577563",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1612858968i/55521579.jpg",
-      "authors": [
-        "Keri Arthur"
-      ],
-      "genres": [
-        "urban-fantasy",
-        "fantasy",
-        "romance",
-        "shapeshifters",
-        "witches",
-        "action",
-        "paranormal"
-      ],
-      "rating": 4.31,
-      "ratings": 632,
-      "reviews": 66
-    },
-    {
-      "title": "Rocket Repo",
-      "url": "https://www.goodreads.com/book/show/57599142-rocket-repo",
-      "id": "90206471",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1617293158i/57599142.jpg",
-      "authors": [
-        "C.P.  James"
-      ],
-      "genres": [
-        "science-fiction",
-        "humor",
-        "action",
-        "space-opera",
-        "aliens"
-      ],
-      "rating": 4.21,
-      "ratings": 631,
-      "reviews": 64
-    },
-    {
-      "title": "Damon's Deal",
-      "url": "https://www.goodreads.com/book/show/57022709-damon-s-deal",
-      "id": "89223939",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1612986948i/57022709.jpg",
-      "authors": [
-        "Dale Mayer"
-      ],
-      "genres": [
-        "military-fiction",
-        "romance",
-        "romantic-suspense",
-        "mystery",
-        "drama",
-        "action"
-      ],
-      "rating": 4.47,
-      "ratings": 630,
-      "reviews": 77
-    },
-    {
-      "title": "Broken Fate",
-      "url": "https://www.goodreads.com/book/show/62928479-broken-fate",
-      "id": "98752871",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1665381996i/62928479.jpg",
-      "authors": [
-        "Willow Winters"
-      ],
-      "genres": [
-        "paranormal",
-        "romance",
-        "fantasy",
-        "shapeshifters",
-        "paranormal-romance",
-        "abuse",
-        "action"
-      ],
-      "rating": 4.21,
-      "ratings": 630,
-      "reviews": 214
-    },
-    {
-      "title": "Hollow Point",
-      "url": "https://www.goodreads.com/book/show/39318320-hollow-point",
-      "id": "60926612",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1521421262i/39318320.jpg",
-      "authors": [
-        "Mike  Ryan"
-      ],
-      "genres": [
-        "action",
-        "fiction"
-      ],
-      "rating": 4.05,
-      "ratings": 626,
-      "reviews": 18
-    },
-    {
-      "title": "The Eminence in Shadow, (Light Novel) Vol. 3",
-      "url": "https://www.goodreads.com/book/show/56870162-the-eminence-in-shadow-light-novel-vol-3",
-      "id": "88917836",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1620335981i/56870162.jpg",
-      "authors": [
-        "Daisuke Aizawa"
-      ],
-      "genres": [
-        "light-novel",
-        "fantasy",
-        "comedy",
-        "harem",
-        "action",
-        "manga",
-        "magic"
-      ],
-      "rating": 4.46,
-      "ratings": 626,
-      "reviews": 17
-    },
-    {
-      "title": "Teenage Mutant Ninja Turtles, Volume 7: City Fall, Part 2",
-      "url": "https://www.goodreads.com/book/show/18734040-teenage-mutant-ninja-turtles-volume-7",
-      "id": "26609421",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1410419206i/18734040.jpg",
-      "authors": [
-        "Kevin Eastman"
-      ],
-      "genres": [
-        "comics",
-        "graphic-novels",
-        "science-fiction",
-        "superheroes",
-        "action",
-        "comic-book",
-        "urban-fantasy"
-      ],
-      "rating": 4.37,
-      "ratings": 623,
-      "reviews": 52
-    },
-    {
-      "title": "Pursuit of the Apocalypse",
-      "url": "https://www.goodreads.com/book/show/30124513-pursuit-of-the-apocalypse",
-      "id": "50552070",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1462570946i/30124513.jpg",
-      "authors": [
-        "Benjamin  Wallace"
-      ],
-      "genres": [
-        "fiction",
-        "science-fiction",
-        "post-apocalyptic",
-        "humor",
-        "fantasy",
-        "dystopia",
-        "action"
-      ],
-      "rating": 4.11,
-      "ratings": 621,
-      "reviews": 50
-    },
-    {
-      "title": "Halo: Shadow of Intent",
-      "url": "https://www.goodreads.com/book/show/25750819-halo",
-      "id": "45593308",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1441468183i/25750819.jpg",
-      "authors": [
-        "Joseph Staten"
-      ],
-      "genres": [
-        "science-fiction",
-        "fiction",
-        "video-games",
-        "short-stories",
-        "military-fiction",
-        "action"
-      ],
-      "rating": 4.28,
-      "ratings": 621,
-      "reviews": 27
-    },
-    {
-      "title": "The Rocks of Albion",
-      "url": "https://www.goodreads.com/book/show/55558337-the-rocks-of-albion",
-      "id": "86639012",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1601852618i/55558337.jpg",
-      "authors": [
-        "David Leadbeater"
-      ],
-      "genres": [
-        "mystery-thriller",
-        "action",
-        "thriller"
-      ],
-      "rating": 4.51,
-      "ratings": 621,
-      "reviews": 20
-    },
-    {
-      "title": "StrikeForce Reborn",
-      "url": "https://www.goodreads.com/book/show/45864924-strikeforce-reborn",
-      "id": "70681169",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1558095285i/45864924.jpg",
-      "authors": [
-        "Kevin Lee Swaim"
-      ],
-      "genres": [
-        "thriller",
-        "action",
-        "mystery"
-      ],
-      "rating": 4.18,
-      "ratings": 620,
-      "reviews": 33
-    },
-    {
-      "title": "Stray Cat Strut: A Young Lady's Journey to Becoming a Pop-Up Samurai",
-      "url": "https://www.goodreads.com/book/show/57735991-stray-cat-strut",
-      "id": "90435011",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1618386593i/57735991.jpg",
-      "authors": [
-        "Ravens Dagger"
-      ],
-      "genres": [
-        "science-fiction",
-        "cyberpunk",
-        "fantasy",
-        "aliens",
-        "audiobook",
-        "dystopia",
-        "action"
-      ],
-      "rating": 4.38,
-      "ratings": 619,
-      "reviews": 43
-    },
-    {
-      "title": "The Rising of the Shield Hero, Volume 3: The Manga Companion",
-      "url": "https://www.goodreads.com/book/show/26591832-the-rising-of-the-shield-hero-volume-3",
-      "id": "58005581",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1444893321i/26591832.jpg",
-      "authors": [
-        "Aneko Yusagi"
-      ],
-      "genres": [
-        "manga",
-        "fantasy",
-        "adventure",
-        "action",
-        "magic",
-        "fiction",
-        "seinen"
-      ],
-      "rating": 4.15,
-      "ratings": 619,
-      "reviews": 25
-    },
-    {
-      "title": "The Vostok Enigma",
-      "url": "https://www.goodreads.com/book/show/60776179-the-vostok-enigma",
-      "id": "95833525",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1649459259i/60776179.jpg",
-      "authors": [
-        "Christopher Cartwright"
-      ],
-      "genres": [
-        "adventure",
-        "fantasy",
-        "action",
-        "thriller"
-      ],
-      "rating": 4.43,
-      "ratings": 617,
-      "reviews": 44
-    },
-    {
-      "title": "Absolutely Nothing",
-      "url": "https://www.goodreads.com/book/show/18710121-absolutely-nothing",
-      "id": "26568130",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1382452818i/18710121.jpg",
-      "authors": [
-        "Mark A. Cooper"
-      ],
-      "genres": [
-        "young-adult",
-        "action",
-        "espionage",
-        "fiction",
-        "thriller",
-        "sports",
-        "adventure"
-      ],
-      "rating": 4.37,
-      "ratings": 617,
-      "reviews": 16
-    },
-    {
-      "title": "Solo Leveling, Tome 1",
-      "url": "https://www.goodreads.com/book/show/57624081-solo-leveling-tome-1",
-      "id": "167610284",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1617547684i/57624081.jpg",
-      "authors": [
-        "Chugong"
-      ],
-      "genres": [
-        "manga",
-        "fantasy",
-        "manhwa",
-        "graphic-novels",
-        "bande-dessin%C3%A9e",
-        "action",
-        "webcomic"
-      ],
-      "rating": 4.35,
-      "ratings": 615,
-      "reviews": 59
-    },
-    {
-      "title": "The Keys To The Kingdom Collection: Mister Monday, Grim Tuesday, Drowned Wednesday, Sir Thursday, Lady Friday, Superior Saturday, Lord Sunday",
-      "url": "https://www.goodreads.com/book/show/10782222-the-keys-to-the-kingdom-collection",
-      "id": "15694309",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1677801201i/10782222.jpg",
-      "authors": [
-        "Garth Nix"
-      ],
-      "genres": [
-        "fantasy",
-        "young-adult",
-        "childrens",
-        "middle-grade",
-        "fiction",
-        "action"
-      ],
-      "rating": 4.33,
-      "ratings": 613,
-      "reviews": 36
-    },
-    {
-      "title": "Death March to the Parallel World Rhapsody, (Light Novel) Vol. 9",
-      "url": "https://www.goodreads.com/book/show/44308710-death-march-to-the-parallel-world-rhapsody-light-novel-vol-9",
-      "id": "54122022",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1568816889i/44308710.jpg",
-      "authors": [
-        "Hiro Ainana"
-      ],
-      "genres": [
-        "light-novel",
-        "fantasy",
-        "harem",
-        "slice-of-life",
-        "comedy",
-        "fiction",
-        "action"
-      ],
-      "rating": 4.39,
-      "ratings": 612,
-      "reviews": 16
-    },
-    {
-      "title": "A Journey of Black and Red",
-      "url": "https://www.goodreads.com/book/show/54655512-a-journey-of-black-and-red",
-      "id": "85275733",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1595569181i/54655512.jpg",
-      "authors": [
-        "Álex Gilbert"
-      ],
-      "genres": [
-        "fantasy",
-        "vampires",
-        "urban-fantasy",
-        "horror",
-        "action",
-        "dark",
-        "paranormal"
-      ],
-      "rating": 4.44,
-      "ratings": 612,
-      "reviews": 36
-    },
-    {
-      "title": "Dragons Beyond the Pale",
-      "url": "https://www.goodreads.com/book/show/57781572-dragons-beyond-the-pale",
-      "id": "90514177",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1618808404i/57781572.jpg",
-      "authors": [
-        "Maria Grace"
-      ],
-      "genres": [
-        "fantasy",
-        "dragons",
-        "regency",
-        "romance",
-        "historical-fiction",
-        "fiction",
-        "action"
-      ],
-      "rating": 4.49,
-      "ratings": 611,
-      "reviews": 61
-    },
-    {
-      "title": "Covert Ops",
-      "url": "https://www.goodreads.com/book/show/75296674-covert-ops",
-      "id": "100487247",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1672009950i/75296674.jpg",
-      "authors": [
-        "Traci Hunter Abramson"
-      ],
-      "genres": [
-        "suspense",
-        "romance",
-        "contemporary",
-        "fiction",
-        "lds-fiction",
-        "action",
-        "mystery"
-      ],
-      "rating": 4.4,
-      "ratings": 610,
-      "reviews": 119
-    },
-    {
-      "title": "Real Murder",
-      "url": "https://www.goodreads.com/book/show/22372895-real-murder",
-      "id": "41785223",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1401404919i/22372895.jpg",
-      "authors": [
-        "Lauren Carr"
-      ],
-      "genres": [
-        "mystery",
-        "contemporary",
-        "suspense",
-        "fiction",
-        "action"
-      ],
-      "rating": 4.22,
-      "ratings": 609,
-      "reviews": 39
-    },
-    {
-      "title": "Valhalla Found",
-      "url": "https://www.goodreads.com/book/show/55456799-valhalla-found",
-      "id": "86482259",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1601093094i/55456799.jpg",
-      "authors": [
-        "Christopher Cartwright"
-      ],
-      "genres": [
-        "action"
-      ],
-      "rating": 4.42,
-      "ratings": 608,
-      "reviews": 35
-    },
-    {
-      "title": "The Last Christmas",
-      "url": "https://www.goodreads.com/book/show/51993626-the-last-christmas",
-      "id": "71172829",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1569219607l/51993626.jpg",
-      "authors": [
-        "F. Paul Wilson"
-      ],
-      "genres": [
-        "horror",
-        "thriller",
-        "fantasy",
-        "urban-fantasy",
-        "christmas",
-        "action",
-        "fiction"
-      ],
-      "rating": 4.4,
-      "ratings": 604,
-      "reviews": 111
-    },
-    {
-      "title": "The Nugget",
-      "url": "https://www.goodreads.com/book/show/42275425-the-nugget",
-      "id": "64320806",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1539227026i/42275425.jpg",
-      "authors": [
-        "P.T. Deutermann"
-      ],
-      "genres": [
-        "historical-fiction",
-        "fiction",
-        "military-fiction",
-        "world-war-ii",
-        "war",
-        "audiobook",
-        "action"
-      ],
-      "rating": 4.28,
-      "ratings": 604,
-      "reviews": 82
-    },
-    {
-      "title": "Feast",
-      "url": "https://www.goodreads.com/book/show/30359048-feast",
-      "id": "50867695",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1465185857i/30359048.jpg",
-      "authors": [
-        "Jeremiah Knight"
-      ],
-      "genres": [
-        "horror",
-        "thriller",
-        "science-fiction",
-        "apocalyptic",
-        "fiction",
-        "action",
-        "post-apocalyptic"
-      ],
-      "rating": 4.3,
-      "ratings": 603,
-      "reviews": 51
-    },
-    {
-      "title": "I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too, (Light Novel) Vol. 1",
-      "url": "https://www.goodreads.com/book/show/61113330-i-got-a-cheat-skill-in-another-world-and-became-unrivaled-in-the-real-wo",
-      "id": "96325028",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1652761933i/61113330.jpg",
-      "authors": [
-        "MIKU"
-      ],
-      "genres": [
-        "light-novel",
-        "fantasy",
-        "action",
-        "slice-of-life",
-        "fiction",
-        "harem"
-      ],
-      "rating": 4.36,
-      "ratings": 601,
-      "reviews": 40
-    },
-    {
-      "title": "Stolen Princess",
-      "url": "https://www.goodreads.com/book/show/41945661-stolen-princess",
-      "id": "65438119",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1538450985i/41945661.jpg",
-      "authors": [
-        "Kelly St. Clare"
-      ],
-      "genres": [
-        "fantasy",
-        "pirates",
-        "young-adult",
-        "romance",
-        "high-fantasy",
-        "action",
-        "historical"
-      ],
-      "rating": 4.3,
-      "ratings": 601,
-      "reviews": 60
-    },
-    {
-      "title": "Lullaby Lake",
-      "url": "https://www.goodreads.com/book/show/36127400-lullaby-lake",
-      "id": "57722878",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1507986560i/36127400.jpg",
-      "authors": [
-        "Katrina Charman"
-      ],
-      "genres": [
-        "fantasy",
-        "childrens",
-        "chapter-books",
-        "fiction",
-        "middle-grade",
-        "action",
-        "adventure"
-      ],
-      "rating": 4.51,
-      "ratings": 600,
-      "reviews": 16
-    },
-    {
-      "title": "Alien Warrior Untamed",
-      "url": "https://www.goodreads.com/book/show/60180290-alien-warrior-untamed",
-      "id": "94916713",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1642850808i/60180290.jpg",
-      "authors": [
-        "Ava  Ross"
-      ],
-      "genres": [
-        "aliens",
-        "romance",
-        "science-fiction-romance",
-        "science-fiction",
-        "fantasy",
-        "action"
-      ],
-      "rating": 4.28,
-      "ratings": 600,
-      "reviews": 77
-    },
-    {
-      "title": "The Immortal Throne",
-      "url": "https://www.goodreads.com/book/show/23346341-the-immortal-throne",
-      "id": "42905076",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1460698667i/23346341.jpg",
-      "authors": [
-        "Stella Gemmell"
-      ],
-      "genres": [
-        "fantasy",
-        "fiction",
-        "high-school",
-        "epic",
-        "adult",
         "action"
       ],
       "rating": 4.01,
-      "ratings": 598,
-      "reviews": 41
+      "ratings": 2477,
+      "reviews": 116
     },
     {
-      "title": "Solar Fury",
-      "url": "https://www.goodreads.com/book/show/53461469-solar-fury",
-      "id": "83411109",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1591012716i/53461469.jpg",
+      "title": "Sea Strike",
+      "url": "https://www.goodreads.com/book/show/57742388-sea-strike",
+      "id": "90444407",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1618447205i/57742388.jpg",
       "authors": [
-        "E.A. Chance"
+        "James H. Cobb"
       ],
       "genres": [
-        "post-apocalyptic",
-        "science-fiction",
-        "action",
-        "apocalyptic",
-        "dystopia",
-        "audiobook",
-        "romance"
-      ],
-      "rating": 4.2,
-      "ratings": 597,
-      "reviews": 70
-    },
-    {
-      "title": "They Called Me Madder",
-      "url": "https://www.goodreads.com/book/show/57725784-they-called-me-madder",
-      "id": "90415868",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1618280823i/57725784.jpg",
-      "authors": [
-        "J.  Pal"
-      ],
-      "genres": [
-        "post-apocalyptic",
-        "fantasy",
+        "thriller",
+        "military-fiction",
+        "fiction",
+        "war",
         "action"
       ],
-      "rating": 4.38,
-      "ratings": 597,
-      "reviews": 32
+      "rating": 4.46,
+      "ratings": 2473,
+      "reviews": 72
     },
     {
-      "title": "Failure Frame: I Became the Strongest and Annihilated Everything With Low-Level Spells (Light Novel) Vol. 2",
-      "url": "https://www.goodreads.com/book/show/57829883-failure-frame",
-      "id": "88973455",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1619206375i/57829883.jpg",
+      "title": "Fallen Mangrove",
+      "url": "https://www.goodreads.com/book/show/23289003-fallen-mangrove",
+      "id": "42846426",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1412077089i/23289003.jpg",
       "authors": [
-        "Kaoru Shinozaki"
+        "Wayne Stinnett"
       ],
       "genres": [
-        "fantasy",
-        "light-novel",
         "adventure",
-        "gods",
-        "romance",
+        "thriller",
+        "fiction",
         "action",
-        "fiction"
-      ],
-      "rating": 4.4,
-      "ratings": 597,
-      "reviews": 12
-    },
-    {
-      "title": "The Seventh Princess",
-      "url": "https://www.goodreads.com/book/show/60590178-the-seventh-princess",
-      "id": "95506006",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1647014146i/60590178.jpg",
-      "authors": [
-        "D.C. Haenlien"
-      ],
-      "genres": [
-        "fantasy",
-        "magic",
-        "action",
-        "elves"
-      ],
-      "rating": 4.36,
-      "ratings": 596,
-      "reviews": 55
-    },
-    {
-      "title": "Hero",
-      "url": "https://www.goodreads.com/book/show/179846483-hero",
-      "id": "185159310",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1699586237i/179846483.jpg",
-      "authors": [
-        "Thomas Perry"
-      ],
-      "genres": [
+        "crime",
         "mystery",
-        "fiction",
-        "thriller",
-        "mystery-thriller",
-        "crime",
-        "action",
-        "adult-fiction"
+        "audiobook"
       ],
-      "rating": 4.19,
-      "ratings": 595,
-      "reviews": 106
+      "rating": 4.37,
+      "ratings": 2467,
+      "reviews": 94
     },
     {
-      "title": "The Temple of Skulls",
-      "url": "https://www.goodreads.com/book/show/60730348-the-temple-of-skulls",
-      "id": "95751116",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1675411153i/60730348.jpg",
+      "title": "Ex Meridian",
+      "url": "https://www.goodreads.com/book/show/50250631-ex-meridian",
+      "id": "75160517",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1577977481i/50250631.jpg",
       "authors": [
-        "Andy McDermott"
-      ],
-      "genres": [
-        "thriller",
-        "fiction",
-        "action",
-        "adventure",
-        "fantasy"
-      ],
-      "rating": 4.29,
-      "ratings": 594,
-      "reviews": 26
-    },
-    {
-      "title": "The Last Bazaar",
-      "url": "https://www.goodreads.com/book/show/28816953-the-last-bazaar",
-      "id": "49033491",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1454284897i/28816953.jpg",
-      "authors": [
-        "David Leadbeater"
-      ],
-      "genres": [
-        "adventure",
-        "fantasy",
-        "action",
-        "thriller"
-      ],
-      "rating": 4.43,
-      "ratings": 585,
-      "reviews": 18
-    },
-    {
-      "title": "Mission Delivery",
-      "url": "https://www.goodreads.com/book/show/24235735-mission-delivery",
-      "id": "43821670",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1420145580i/24235735.jpg",
-      "authors": [
-        "Jessie Lane"
-      ],
-      "genres": [
-        "military-fiction",
-        "novella",
-        "romance",
-        "romantic-suspense",
-        "contemporary-romance",
-        "military-romance",
-        "action"
-      ],
-      "rating": 4.12,
-      "ratings": 584,
-      "reviews": 31
-    },
-    {
-      "title": "Deep Cover",
-      "url": "https://www.goodreads.com/book/show/36386387-deep-cover",
-      "id": "58077094",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1507637675i/36386387.jpg",
-      "authors": [
-        "Scarlett Cole"
-      ],
-      "genres": [
-        "romantic-suspense",
-        "romance",
-        "suspense",
-        "contemporary",
-        "military-fiction",
-        "action",
-        "contemporary-romance"
-      ],
-      "rating": 4.04,
-      "ratings": 584,
-      "reviews": 274
-    },
-    {
-      "title": "Bleach Box Set: Volumes 1-21",
-      "url": "https://www.goodreads.com/book/show/4838255-bleach-box-set",
-      "id": "4903507",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1414368756i/4838255.jpg",
-      "authors": [
-        "Tite Kubo"
-      ],
-      "genres": [
-        "manga",
-        "fantasy",
-        "comics",
-        "action",
-        "young-adult",
-        "paranormal",
-        "japanese-literature"
-      ],
-      "rating": 4.47,
-      "ratings": 582,
-      "reviews": 18
-    },
-    {
-      "title": "Breakeven",
-      "url": "https://www.goodreads.com/book/show/42178341-breakeven",
-      "id": "65768651",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1538666670i/42178341.jpg",
-      "authors": [
-        "Michelle Diener"
-      ],
-      "genres": [
-        "romance",
-        "science-fiction",
-        "science-fiction-romance",
-        "space-opera",
-        "aliens",
-        "crime",
-        "action"
-      ],
-      "rating": 4.19,
-      "ratings": 582,
-      "reviews": 49
-    },
-    {
-      "title": "The Black Art of Killing",
-      "url": "https://www.goodreads.com/book/show/50242592-the-black-art-of-killing",
-      "id": "73349342",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1577913577i/50242592.jpg",
-      "authors": [
-        "Matthew   Hall"
-      ],
-      "genres": [
-        "thriller",
-        "action"
-      ],
-      "rating": 4.09,
-      "ratings": 582,
-      "reviews": 54
-    },
-    {
-      "title": "The Valley: A Lee Harden Novel (Lee Harden Series",
-      "url": "https://www.goodreads.com/book/show/125436494-the-valley",
-      "id": "146886196",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1680736516i/125436494.jpg",
-      "authors": [
-        "D.J. Molles"
-      ],
-      "genres": [
-        "horror",
-        "zombies",
-        "action",
-        "fiction",
-        "thriller"
-      ],
-      "rating": 4.65,
-      "ratings": 581,
-      "reviews": 74
-    },
-    {
-      "title": "The Recluse",
-      "url": "https://www.goodreads.com/book/show/73879803-the-recluse",
-      "id": "100358124",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1680269857i/73879803.jpg",
-      "authors": [
-        "Silvia Violet"
+        "A.E. Via"
       ],
       "genres": [
         "m-m-romance",
-        "military-fiction",
         "romance",
         "contemporary",
-        "gay",
+        "military-fiction",
+        "crime",
         "action",
         "lgbt"
       ],
-      "rating": 4.36,
-      "ratings": 580,
-      "reviews": 67
+      "rating": 4.42,
+      "ratings": 2467,
+      "reviews": 320
     },
     {
-      "title": "Sentinel",
-      "url": "https://www.goodreads.com/book/show/58567976-sentinel",
-      "id": "92057443",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1626451431i/58567976.jpg",
+      "title": "Lust",
+      "url": "https://www.goodreads.com/book/show/60090251-lust",
+      "id": "91311410",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1641780412i/60090251.jpg",
       "authors": [
-        "Anthony J. Melchiorri"
-      ],
-      "genres": [
-        "science-fiction",
-        "audiobook",
-        "fiction",
-        "action",
-        "military-science-fiction",
-        "aliens",
-        "military-fiction"
-      ],
-      "rating": 4.17,
-      "ratings": 580,
-      "reviews": 54
-    },
-    {
-      "title": "Warrior",
-      "url": "https://www.goodreads.com/book/show/41208314-warrior",
-      "id": "24991394",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1534527491i/41208314.jpg",
-      "authors": [
-        "A.D. Starrling"
-      ],
-      "genres": [
-        "urban-fantasy",
-        "thriller",
-        "fantasy",
-        "fiction",
-        "action",
-        "adventure",
-        "audiobook"
-      ],
-      "rating": 4.48,
-      "ratings": 579,
-      "reviews": 59
-    },
-    {
-      "title": "The Grid",
-      "url": "https://www.goodreads.com/book/show/24393171-the-grid",
-      "id": "44476855",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1434996682i/24393171.jpg",
-      "authors": [
-        "Harry Hunsicker"
-      ],
-      "genres": [
-        "mystery-thriller",
-        "thriller",
-        "suspense",
-        "action",
-        "mystery",
-        "crime"
-      ],
-      "rating": 4.13,
-      "ratings": 579,
-      "reviews": 29
-    },
-    {
-      "title": "Courage",
-      "url": "https://www.goodreads.com/book/show/53671272-courage",
-      "id": "83990561",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1596589524i/53671272.jpg",
-      "authors": [
-        "J.L. Drake"
+        "Eva Charles"
       ],
       "genres": [
         "romance",
-        "military-fiction",
+        "dark",
         "contemporary-romance",
         "romantic-suspense",
-        "suspense",
-        "action"
-      ],
-      "rating": 4.65,
-      "ratings": 575,
-      "reviews": 84
-    },
-    {
-      "title": "The Giant",
-      "url": "https://www.goodreads.com/book/show/29058345-the-giant",
-      "id": "45433462",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1461534505i/29058345.jpg",
-      "authors": [
-        "Lex Thomas"
-      ],
-      "genres": [
-        "science-fiction",
-        "dystopia",
-        "young-adult",
-        "horror",
-        "action",
-        "fiction",
-        "survival"
-      ],
-      "rating": 4.16,
-      "ratings": 572,
-      "reviews": 49
-    },
-    {
-      "title": "Peace Maker",
-      "url": "https://www.goodreads.com/book/show/62334402-peace-maker",
-      "id": "97981190",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1662646213i/62334402.jpg",
-      "authors": [
-        "Michelle Diener"
-      ],
-      "genres": [
-        "science-fiction",
-        "romance",
-        "aliens",
-        "action",
-        "fantasy",
-        "adventure",
-        "science-fiction-romance"
-      ],
-      "rating": 4.44,
-      "ratings": 571,
-      "reviews": 67
-    },
-    {
-      "title": "Survive",
-      "url": "https://www.goodreads.com/book/show/59982187-survive",
-      "id": "94530095",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1642477707i/59982187.jpg",
-      "authors": [
-        "K.E. Osborn"
-      ],
-      "genres": [
-        "romance",
-        "family",
-        "suspense",
-        "mystery",
-        "love",
         "contemporary",
-        "action"
+        "action",
+        "abuse"
       ],
-      "rating": 4.64,
-      "ratings": 571,
-      "reviews": 89
+      "rating": 4.32,
+      "ratings": 2463,
+      "reviews": 223
     },
     {
-      "title": "Black Horn",
-      "url": "https://www.goodreads.com/book/show/2570123-black-horn",
-      "id": "2580327",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1214587435i/2570123.jpg",
+      "title": "Over on the Dry Side",
+      "url": "https://www.goodreads.com/book/show/699710.Over_on_the_Dry_Side",
+      "id": "116559",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1344369631i/699710.jpg",
       "authors": [
-        "A.J. Quinnell"
+        "Louis L'Amour"
       ],
       "genres": [
-        "thriller",
+        "westerns",
         "fiction",
+        "historical-fiction",
         "adventure",
+        "historical",
+        "novels",
         "action"
-      ],
-      "rating": 4.2,
-      "ratings": 569,
-      "reviews": 19
-    },
-    {
-      "title": "Halo: Fall of Reach - Covenant",
-      "url": "https://www.goodreads.com/book/show/10325618-halo",
-      "id": "15228062",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1310813902i/10325618.jpg",
-      "authors": [
-        "Brian Reed"
-      ],
-      "genres": [
-        "graphic-novels",
-        "comics",
-        "science-fiction",
-        "fiction",
-        "fantasy",
-        "video-games",
-        "action"
-      ],
-      "rating": 4.37,
-      "ratings": 568,
-      "reviews": 14
-    },
-    {
-      "title": "The Violent Enemy",
-      "url": "https://www.goodreads.com/book/show/19113212-the-violent-enemy",
-      "id": "9596270",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386036536i/19113212.jpg",
-      "authors": [
-        "Hugh Marlowe"
-      ],
-      "genres": [
-        "thriller",
-        "fiction",
-        "action",
-        "mystery"
-      ],
-      "rating": 4.1,
-      "ratings": 567,
-      "reviews": 29
-    },
-    {
-      "title": "Endgame",
-      "url": "https://www.goodreads.com/book/show/26001164-endgame",
-      "id": "45918186",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1445237801i/26001164.jpg",
-      "authors": [
-        "Chris Ryan"
-      ],
-      "genres": [
-        "fiction",
-        "thriller",
-        "young-adult",
-        "action",
-        "espionage",
-        "spy-thriller",
-        "adventure"
-      ],
-      "rating": 4.38,
-      "ratings": 566,
-      "reviews": 25
-    },
-    {
-      "title": "Ascent",
-      "url": "https://www.goodreads.com/book/show/33413914-ascent",
-      "id": "54173034",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1520607245i/33413914.jpg",
-      "authors": [
-        "Roland Smith"
-      ],
-      "genres": [
-        "adventure",
-        "young-adult",
-        "sports",
-        "survival",
-        "realistic-fiction",
-        "action",
-        "middle-grade"
-      ],
-      "rating": 4.13,
-      "ratings": 565,
-      "reviews": 53
-    },
-    {
-      "title": "Seirei Gensouki: Spirit Chronicles Volume 2",
-      "url": "https://www.goodreads.com/book/show/42086876-seirei-gensouki",
-      "id": "65639049",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1538114762i/42086876.jpg",
-      "authors": [
-        "Yuri Kitayama"
-      ],
-      "genres": [
-        "light-novel",
-        "fantasy",
-        "adventure",
-        "action",
-        "romance",
-        "harem",
-        "drama"
-      ],
-      "rating": 4.25,
-      "ratings": 564,
-      "reviews": 16
-    },
-    {
-      "title": "Ride the Wreck",
-      "url": "https://www.goodreads.com/book/show/59352843-ride-the-wreck",
-      "id": "93518231",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1634299265i/59352843.jpg",
-      "authors": [
-        "Max  Walker"
-      ],
-      "genres": [
-        "m-m-romance",
-        "mystery",
-        "romance",
-        "gay",
-        "action",
-        "lgbt",
-        "romantic-suspense"
       ],
       "rating": 4.05,
-      "ratings": 563,
-      "reviews": 62
+      "ratings": 2459,
+      "reviews": 95
     }
   ]
 }

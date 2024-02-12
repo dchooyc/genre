@@ -52,7 +52,7 @@ func createJsons(genreToBooks map[string][]book.Book) {
 
 		books := book.Books{Books: genreToBooks[genre]}
 
-		err := createJsonBooks(genre, books)
+		err := createJsonBooks(genre, 50, books)
 		if err != nil {
 			fmt.Println(genre, err)
 			continue
@@ -88,7 +88,7 @@ func createJsonGenres(filename string, genres Genres) error {
 	return nil
 }
 
-func createJsonBooks(genre string, books book.Books) error {
+func createJsonBooks(genre string, limit int, books book.Books) error {
 	sort.Slice(books.Books, func(i, j int) bool {
 		return books.Books[i].Ratings > books.Books[j].Ratings
 	})
@@ -107,9 +107,9 @@ func createJsonBooks(genre string, books book.Books) error {
 
 		cur := book.Books{}
 
-		if len(books.Books) >= 100 {
-			cur.Books = books.Books[:100]
-			books.Books = books.Books[100:]
+		if len(books.Books) >= limit {
+			cur.Books = books.Books[:limit]
+			books.Books = books.Books[limit:]
 		} else {
 			cur.Books = books.Books
 			books.Books = books.Books[len(books.Books):]

@@ -1,52 +1,826 @@
 {
   "books": [
     {
-      "title": "L'enlèvement de Circé",
-      "url": "https://www.goodreads.com/book/show/60197978-l-enl-vement-de-circ",
-      "id": "94939028",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1643032662i/60197978.jpg",
+      "title": "Great Goddesses: Life Lessons from Myths and Monsters",
+      "url": "https://www.goodreads.com/book/show/44157727-great-goddesses",
+      "id": "68679470",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1562702090i/44157727.jpg",
       "authors": [
-        "Liv Stone"
+        "Nikita Gill"
       ],
       "genres": [
-        "romance",
-        "fantasy",
+        "poetry",
         "mythology",
+        "fantasy",
+        "feminism",
         "greek-mythology",
-        "paranormal",
-        "witches",
-        "young-adult"
+        "retellings",
+        "fiction"
       ],
-      "rating": 4.06,
-      "ratings": 1537,
-      "reviews": 148
+      "rating": 4.17,
+      "ratings": 7262,
+      "reviews": 1003
     },
     {
-      "title": "The Greek Myths 1",
-      "url": "https://www.goodreads.com/book/show/510569.The_Greek_Myths_1",
-      "id": "8809972",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327196945i/510569.jpg",
+      "title": "The Greek Myths: Complete Edition",
+      "url": "https://www.goodreads.com/book/show/820461.The_Greek_Myths",
+      "id": "50975",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347652599i/820461.jpg",
       "authors": [
         "Robert Graves"
       ],
       "genres": [
         "mythology",
-        "history",
-        "non-fiction",
         "classics",
-        "religion",
+        "non-fiction",
+        "history",
         "greek-mythology",
-        "reference"
+        "reference",
+        "greece"
       ],
-      "rating": 4.07,
-      "ratings": 1470,
-      "reviews": 94
+      "rating": 4.16,
+      "ratings": 7170,
+      "reviews": 304
     },
     {
-      "title": "Erebus",
-      "url": "https://www.goodreads.com/book/show/55575792-erebus",
-      "id": "86668364",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1601943555i/55575792.jpg",
+      "title": "Homeric Hymns",
+      "url": "https://www.goodreads.com/book/show/278316.Homeric_Hymns",
+      "id": "269935",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1379562251i/278316.jpg",
+      "authors": [
+        "Homer"
+      ],
+      "genres": [
+        "poetry",
+        "classics",
+        "mythology",
+        "fiction",
+        "greek-mythology",
+        "literature",
+        "ancient"
+      ],
+      "rating": 4.04,
+      "ratings": 5821,
+      "reviews": 243
+    },
+    {
+      "title": "Enslaved",
+      "url": "https://www.goodreads.com/book/show/12811730-enslaved",
+      "id": "17960844",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327097808i/12811730.jpg",
+      "authors": [
+        "Elisabeth Naughton"
+      ],
+      "genres": [
+        "paranormal",
+        "paranormal-romance",
+        "romance",
+        "fantasy",
+        "mythology",
+        "demons",
+        "greek-mythology"
+      ],
+      "rating": 4.31,
+      "ratings": 5267,
+      "reviews": 278
+    },
+    {
+      "title": "Aphrodite the Beauty",
+      "url": "https://www.goodreads.com/book/show/7199828-aphrodite-the-beauty",
+      "id": "7869407",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1387611493i/7199828.jpg",
+      "authors": [
+        "Joan Holub"
+      ],
+      "genres": [
+        "fantasy",
+        "mythology",
+        "middle-grade",
+        "greek-mythology",
+        "fiction",
+        "childrens",
+        "young-adult"
+      ],
+      "rating": 4.15,
+      "ratings": 4844,
+      "reviews": 223
+    },
+    {
+      "title": "Persephone the Phony",
+      "url": "https://www.goodreads.com/book/show/7199829-persephone-the-phony",
+      "id": "7869408",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388382450i/7199829.jpg",
+      "authors": [
+        "Joan Holub"
+      ],
+      "genres": [
+        "mythology",
+        "fantasy",
+        "middle-grade",
+        "childrens",
+        "greek-mythology",
+        "fiction",
+        "romance"
+      ],
+      "rating": 4.17,
+      "ratings": 4767,
+      "reviews": 308
+    },
+    {
+      "title": "Percy Jackson and the Last Olympian",
+      "url": "https://www.goodreads.com/book/show/42845868-percy-jackson-and-the-last-olympian",
+      "id": "66609129",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1629909886i/42845868.jpg",
+      "authors": [
+        "Robert Venditti"
+      ],
+      "genres": [
+        "graphic-novels",
+        "fantasy",
+        "mythology",
+        "middle-grade",
+        "comics",
+        "young-adult",
+        "greek-mythology"
+      ],
+      "rating": 4.45,
+      "ratings": 4694,
+      "reviews": 273
+    },
+    {
+      "title": "Girl, Goddess, Queen",
+      "url": "https://www.goodreads.com/book/show/63057457-girl-goddess-queen",
+      "id": "98929860",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1676307882i/63057457.jpg",
+      "authors": [
+        "Bea Fitzgerald"
+      ],
+      "genres": [
+        "fantasy",
+        "romance",
+        "mythology",
+        "greek-mythology",
+        "young-adult",
+        "retellings",
+        "fiction"
+      ],
+      "rating": 4.11,
+      "ratings": 4404,
+      "reviews": 1051
+    },
+    {
+      "title": "Punderworld, Volume 1",
+      "url": "https://www.goodreads.com/book/show/58155191-punderworld-volume-1",
+      "id": "75033045",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1622648017i/58155191.jpg",
+      "authors": [
+        "Linda Šejić"
+      ],
+      "genres": [
+        "graphic-novels",
+        "fantasy",
+        "romance",
+        "mythology",
+        "comics",
+        "retellings",
+        "greek-mythology"
+      ],
+      "rating": 4.22,
+      "ratings": 4188,
+      "reviews": 628
+    },
+    {
+      "title": "Athena: Grey-Eyed Goddess",
+      "url": "https://www.goodreads.com/book/show/7059447-athena",
+      "id": "7311269",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1465513446i/7059447.jpg",
+      "authors": [
+        "George  O'Connor"
+      ],
+      "genres": [
+        "graphic-novels",
+        "mythology",
+        "comics",
+        "fantasy",
+        "young-adult",
+        "greek-mythology",
+        "middle-grade"
+      ],
+      "rating": 4.15,
+      "ratings": 4059,
+      "reviews": 351
+    },
+    {
+      "title": "Hades: Lord of the Dead",
+      "url": "https://www.goodreads.com/book/show/11504610-hades",
+      "id": "16440309",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1483379850i/11504610.jpg",
+      "authors": [
+        "George  O'Connor"
+      ],
+      "genres": [
+        "graphic-novels",
+        "mythology",
+        "fantasy",
+        "comics",
+        "greek-mythology",
+        "young-adult",
+        "middle-grade"
+      ],
+      "rating": 4.18,
+      "ratings": 4002,
+      "reviews": 383
+    },
+    {
+      "title": "Artemis the Brave",
+      "url": "https://www.goodreads.com/book/show/7775569-artemis-the-brave",
+      "id": "10681995",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388438306i/7775569.jpg",
+      "authors": [
+        "Joan Holub"
+      ],
+      "genres": [
+        "fantasy",
+        "mythology",
+        "middle-grade",
+        "greek-mythology",
+        "childrens",
+        "fiction",
+        "romance"
+      ],
+      "rating": 4.16,
+      "ratings": 3931,
+      "reviews": 165
+    },
+    {
+      "title": "Bound",
+      "url": "https://www.goodreads.com/book/show/17208048-bound",
+      "id": "23687910",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1357313625i/17208048.jpg",
+      "authors": [
+        "Elisabeth Naughton"
+      ],
+      "genres": [
+        "paranormal",
+        "paranormal-romance",
+        "romance",
+        "fantasy",
+        "mythology",
+        "demons",
+        "greek-mythology"
+      ],
+      "rating": 4.28,
+      "ratings": 3900,
+      "reviews": 205
+    },
+    {
+      "title": "The Bull from the Sea",
+      "url": "https://www.goodreads.com/book/show/248632.The_Bull_from_the_Sea",
+      "id": "2077262",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1329522898i/248632.jpg",
+      "authors": [
+        "Mary Renault"
+      ],
+      "genres": [
+        "historical-fiction",
+        "fiction",
+        "mythology",
+        "historical",
+        "greek-mythology",
+        "fantasy",
+        "greece"
+      ],
+      "rating": 4.1,
+      "ratings": 3888,
+      "reviews": 240
+    },
+    {
+      "title": "The Blood of the Hydra",
+      "url": "https://www.goodreads.com/book/show/26876374-the-blood-of-the-hydra",
+      "id": "46921412",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1453534816i/26876374.jpg",
+      "authors": [
+        "Michelle Madow"
+      ],
+      "genres": [
+        "fantasy",
+        "young-adult",
+        "mythology",
+        "romance",
+        "paranormal",
+        "magic",
+        "greek-mythology"
+      ],
+      "rating": 4.02,
+      "ratings": 3824,
+      "reviews": 281
+    },
+    {
+      "title": "The Temple of Fortuna",
+      "url": "https://www.goodreads.com/book/show/61185028-the-temple-of-fortuna",
+      "id": "96453443",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1669222048i/61185028.jpg",
+      "authors": [
+        "Elodie Harper"
+      ],
+      "genres": [
+        "historical-fiction",
+        "mythology",
+        "fiction",
+        "greek-mythology",
+        "historical",
+        "fantasy",
+        "retellings"
+      ],
+      "rating": 4.43,
+      "ratings": 3231,
+      "reviews": 534
+    },
+    {
+      "title": "A Spartan's Sorrow",
+      "url": "https://www.goodreads.com/book/show/55677399-a-spartan-s-sorrow",
+      "id": "86826622",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1602754032i/55677399.jpg",
+      "authors": [
+        "Hannah M. Lynn"
+      ],
+      "genres": [
+        "mythology",
+        "greek-mythology",
+        "historical-fiction",
+        "fantasy",
+        "fiction",
+        "retellings",
+        "historical"
+      ],
+      "rating": 4,
+      "ratings": 3092,
+      "reviews": 297
+    },
+    {
+      "title": "The Head of Medusa",
+      "url": "https://www.goodreads.com/book/show/28176867-the-head-of-medusa",
+      "id": "48195776",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1460302497i/28176867.jpg",
+      "authors": [
+        "Michelle Madow"
+      ],
+      "genres": [
+        "fantasy",
+        "young-adult",
+        "mythology",
+        "romance",
+        "magic",
+        "paranormal",
+        "greek-mythology"
+      ],
+      "rating": 4.04,
+      "ratings": 3024,
+      "reviews": 209
+    },
+    {
+      "title": "Treasury of Greek Mythology: Classic Stories of Gods, Goddesses, Heroes & Monsters",
+      "url": "https://www.goodreads.com/book/show/10455110-treasury-of-greek-mythology",
+      "id": "15359998",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320504516i/10455110.jpg",
+      "authors": [
+        "Donna Jo Napoli"
+      ],
+      "genres": [
+        "mythology",
+        "non-fiction",
+        "greek-mythology",
+        "folklore",
+        "classics",
+        "history",
+        "reference"
+      ],
+      "rating": 4.04,
+      "ratings": 2856,
+      "reviews": 340
+    },
+    {
+      "title": "Liebe mich nicht",
+      "url": "https://www.goodreads.com/book/show/33826329-liebe-mich-nicht",
+      "id": "54750034",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1483991898i/33826329.jpg",
+      "authors": [
+        "Marah Woolf"
+      ],
+      "genres": [
+        "fantasy",
+        "romance",
+        "young-adult",
+        "german-literature",
+        "mythology",
+        "urban-fantasy",
+        "greek-mythology"
+      ],
+      "rating": 4.07,
+      "ratings": 2758,
+      "reviews": 229
+    },
+    {
+      "title": "Tales from Ovid: 24 Passages from the Metamorphoses",
+      "url": "https://www.goodreads.com/book/show/133951.Tales_from_Ovid",
+      "id": "34981901",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1317791638i/133951.jpg",
+      "authors": [
+        "Ted Hughes"
+      ],
+      "genres": [
+        "poetry",
+        "classics",
+        "mythology",
+        "fiction",
+        "literature",
+        "greek-mythology",
+        "ancient-history"
+      ],
+      "rating": 4.25,
+      "ratings": 2733,
+      "reviews": 190
+    },
+    {
+      "title": "Artemis the Loyal",
+      "url": "https://www.goodreads.com/book/show/11175319-artemis-the-loyal",
+      "id": "16099688",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1319469943i/11175319.jpg",
+      "authors": [
+        "Joan Holub"
+      ],
+      "genres": [
+        "fantasy",
+        "mythology",
+        "middle-grade",
+        "fiction",
+        "greek-mythology",
+        "childrens",
+        "young-adult"
+      ],
+      "rating": 4.28,
+      "ratings": 2721,
+      "reviews": 98
+    },
+    {
+      "title": "A Touch of Chaos",
+      "url": "https://www.goodreads.com/book/show/56670031-a-touch-of-chaos",
+      "id": "88569919",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1610664026i/56670031.jpg",
+      "authors": [
+        "Scarlett St.  Clair"
+      ],
+      "genres": [
+        "fantasy",
+        "romance",
+        "mythology",
+        "greek-mythology",
+        "fantasy-romance",
+        "retellings",
+        "fiction"
+      ],
+      "rating": 4.21,
+      "ratings": 2712,
+      "reviews": 46
+    },
+    {
+      "title": "The Marriage of Cadmus and Harmony",
+      "url": "https://www.goodreads.com/book/show/753252.The_Marriage_of_Cadmus_and_Harmony",
+      "id": "594061",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1618619324i/753252.jpg",
+      "authors": [
+        "Roberto Calasso"
+      ],
+      "genres": [
+        "mythology",
+        "fiction",
+        "philosophy",
+        "greek-mythology",
+        "classics",
+        "literature",
+        "italian-literature"
+      ],
+      "rating": 4.24,
+      "ratings": 2534,
+      "reviews": 296
+    },
+    {
+      "title": "Poseidon: Earth Shaker",
+      "url": "https://www.goodreads.com/book/show/15062370-poseidon",
+      "id": "20717081",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1483381509i/15062370.jpg",
+      "authors": [
+        "George  O'Connor"
+      ],
+      "genres": [
+        "graphic-novels",
+        "mythology",
+        "fantasy",
+        "comics",
+        "young-adult",
+        "greek-mythology",
+        "middle-grade"
+      ],
+      "rating": 4.07,
+      "ratings": 2421,
+      "reviews": 223
+    },
+    {
+      "title": "An Oresteia",
+      "url": "https://www.goodreads.com/book/show/4770925-an-oresteia",
+      "id": "169742323",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1312074533i/4770925.jpg",
+      "authors": [
+        "Anne Carson"
+      ],
+      "genres": [
+        "classics",
+        "plays",
+        "poetry",
+        "mythology",
+        "drama",
+        "fiction",
+        "greek-mythology"
+      ],
+      "rating": 4.38,
+      "ratings": 2317,
+      "reviews": 347
+    },
+    {
+      "title": "Greek Mythology: The Gods, Goddesses, and Heroes Handbook: From Aphrodite to Zeus, a Profile of Who's Who in Greek Mythology",
+      "url": "https://www.goodreads.com/book/show/54303554-greek-mythology",
+      "id": "84736879",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1615129912i/54303554.jpg",
+      "authors": [
+        "Liv Albert"
+      ],
+      "genres": [
+        "mythology",
+        "non-fiction",
+        "greek-mythology",
+        "history",
+        "historical",
+        "adult",
+        "reference"
+      ],
+      "rating": 4.3,
+      "ratings": 2244,
+      "reviews": 349
+    },
+    {
+      "title": "The Warrior God",
+      "url": "https://www.goodreads.com/book/show/55102084-the-warrior-god",
+      "id": "85901812",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1598281044i/55102084.jpg",
+      "authors": [
+        "Eliza Raine"
+      ],
+      "genres": [
+        "fantasy",
+        "mythology",
+        "romance",
+        "fantasy-romance",
+        "paranormal-romance",
+        "paranormal",
+        "greek-mythology"
+      ],
+      "rating": 4.12,
+      "ratings": 2145,
+      "reviews": 177
+    },
+    {
+      "title": "Hasse mich nicht!",
+      "url": "https://www.goodreads.com/book/show/35015362-hasse-mich-nicht",
+      "id": "56298166",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1567798132i/35015362.jpg",
+      "authors": [
+        "Marah Woolf"
+      ],
+      "genres": [
+        "fantasy",
+        "romance",
+        "young-adult",
+        "german-literature",
+        "mythology",
+        "urban-fantasy",
+        "greek-mythology"
+      ],
+      "rating": 4.13,
+      "ratings": 2093,
+      "reviews": 112
+    },
+    {
+      "title": "Aphrodite: Goddess of Love",
+      "url": "https://www.goodreads.com/book/show/17934391-aphrodite",
+      "id": "25142252",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1483392161i/17934391.jpg",
+      "authors": [
+        "George  O'Connor"
+      ],
+      "genres": [
+        "graphic-novels",
+        "mythology",
+        "comics",
+        "fantasy",
+        "young-adult",
+        "greek-mythology",
+        "middle-grade"
+      ],
+      "rating": 4.1,
+      "ratings": 2087,
+      "reviews": 239
+    },
+    {
+      "title": "Medusa",
+      "url": "https://www.goodreads.com/book/show/57658262-medusa",
+      "id": "90312354",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1617807715i/57658262.jpg",
+      "authors": [
+        "Rosie Hewlett"
+      ],
+      "genres": [
+        "mythology",
+        "greek-mythology",
+        "fantasy",
+        "retellings",
+        "historical-fiction",
+        "fiction",
+        "feminism"
+      ],
+      "rating": 4.08,
+      "ratings": 2072,
+      "reviews": 461
+    },
+    {
+      "title": "The Complete World of Greek Mythology",
+      "url": "https://www.goodreads.com/book/show/23520.The_Complete_World_of_Greek_Mythology",
+      "id": "24478",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1453837137i/23520.jpg",
+      "authors": [
+        "Richard Buxton"
+      ],
+      "genres": [
+        "mythology",
+        "greek-mythology",
+        "non-fiction",
+        "history",
+        "classics",
+        "greece",
+        "reference"
+      ],
+      "rating": 4.23,
+      "ratings": 1996,
+      "reviews": 72
+    },
+    {
+      "title": "Medusa",
+      "url": "https://www.goodreads.com/book/show/53252144-medusa",
+      "id": "80801130",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1587679872i/53252144.jpg",
+      "authors": [
+        "Alessa Thorn"
+      ],
+      "genres": [
+        "romance",
+        "fantasy",
+        "mythology",
+        "paranormal-romance",
+        "paranormal",
+        "urban-fantasy",
+        "greek-mythology"
+      ],
+      "rating": 4.14,
+      "ratings": 1950,
+      "reviews": 109
+    },
+    {
+      "title": "Hades",
+      "url": "https://www.goodreads.com/book/show/53463575-hades",
+      "id": "83434516",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1590196910i/53463575.jpg",
+      "authors": [
+        "Alessa Thorn"
+      ],
+      "genres": [
+        "fantasy",
+        "romance",
+        "mythology",
+        "paranormal-romance",
+        "paranormal",
+        "urban-fantasy",
+        "greek-mythology"
+      ],
+      "rating": 4.26,
+      "ratings": 1941,
+      "reviews": 115
+    },
+    {
+      "title": "Medusa's Sisters",
+      "url": "https://www.goodreads.com/book/show/63273108-medusa-s-sisters",
+      "id": "93702344",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1668116440i/63273108.jpg",
+      "authors": [
+        "Lauren J.A. Bear"
+      ],
+      "genres": [
+        "mythology",
+        "fantasy",
+        "greek-mythology",
+        "historical-fiction",
+        "fiction",
+        "retellings",
+        "adult"
+      ],
+      "rating": 4.22,
+      "ratings": 1931,
+      "reviews": 410
+    },
+    {
+      "title": "Game of Gods - Discesa agli Inferi",
+      "url": "https://www.goodreads.com/book/show/199410877-game-of-gods---discesa-agli-inferi",
+      "id": "203855942",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1697050601i/199410877.jpg",
+      "authors": [
+        "Hazel Riley"
+      ],
+      "genres": [
+        "romance",
+        "young-adult",
+        "fantasy",
+        "greek-mythology"
+      ],
+      "rating": 4.55,
+      "ratings": 1857,
+      "reviews": 224
+    },
+    {
+      "title": "Verlasse mich nicht!",
+      "url": "https://www.goodreads.com/book/show/35015371-verlasse-mich-nicht",
+      "id": "56298175",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1493540291i/35015371.jpg",
+      "authors": [
+        "Marah Woolf"
+      ],
+      "genres": [
+        "fantasy",
+        "romance",
+        "german-literature",
+        "young-adult",
+        "mythology",
+        "urban-fantasy",
+        "greek-mythology"
+      ],
+      "rating": 4.15,
+      "ratings": 1783,
+      "reviews": 101
+    },
+    {
+      "title": "Destroyer of Light",
+      "url": "https://www.goodreads.com/book/show/26830535-destroyer-of-light",
+      "id": "46861760",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1453178558i/26830535.jpg",
+      "authors": [
+        "Rachel Alexander"
+      ],
+      "genres": [
+        "romance",
+        "mythology",
+        "fantasy",
+        "greek-mythology",
+        "fiction",
+        "retellings",
+        "fantasy-romance"
+      ],
+      "rating": 4.34,
+      "ratings": 1776,
+      "reviews": 140
+    },
+    {
+      "title": "Demigods of Olympus: An Interactive Adventure",
+      "url": "https://www.goodreads.com/book/show/25840679-demigods-of-olympus",
+      "id": "45704859",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1435899904i/25840679.jpg",
+      "authors": [
+        "Rick Riordan"
+      ],
+      "genres": [
+        "fantasy",
+        "mythology",
+        "young-adult",
+        "middle-grade",
+        "adventure",
+        "fiction",
+        "greek-mythology"
+      ],
+      "rating": 4.12,
+      "ratings": 1740,
+      "reviews": 103
+    },
+    {
+      "title": "Hermes",
+      "url": "https://www.goodreads.com/book/show/54128031-hermes",
+      "id": "84479482",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1592353441i/54128031.jpg",
       "authors": [
         "Alessa Thorn"
       ],
@@ -59,36 +833,141 @@
         "greek-mythology",
         "urban-fantasy"
       ],
-      "rating": 4.41,
-      "ratings": 1467,
-      "reviews": 88
+      "rating": 4.27,
+      "ratings": 1740,
+      "reviews": 77
     },
     {
-      "title": "Cassandra the Lucky",
-      "url": "https://www.goodreads.com/book/show/17334484-cassandra-the-lucky",
-      "id": "24066025",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1360594754i/17334484.jpg",
+      "title": "Divine Might: Goddesses in Greek Myth",
+      "url": "https://www.goodreads.com/book/show/187016352-divine-might",
+      "id": "145252305",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1694098216i/187016352.jpg",
       "authors": [
-        "Joan Holub"
+        "Natalie Haynes"
+      ],
+      "genres": [
+        "mythology",
+        "non-fiction",
+        "greek-mythology",
+        "history",
+        "feminism",
+        "retellings",
+        "classics"
+      ],
+      "rating": 4.17,
+      "ratings": 1737,
+      "reviews": 340
+    },
+    {
+      "title": "The Savage God",
+      "url": "https://www.goodreads.com/book/show/55534425-the-savage-god",
+      "id": "86601709",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1610316677i/55534425.jpg",
+      "authors": [
+        "Eliza Raine"
       ],
       "genres": [
         "fantasy",
+        "romance",
         "mythology",
+        "paranormal-romance",
+        "greek-mythology",
+        "gods",
+        "magic"
+      ],
+      "rating": 4.25,
+      "ratings": 1706,
+      "reviews": 117
+    },
+    {
+      "title": "Have a Hot Time, Hades!",
+      "url": "https://www.goodreads.com/book/show/578200.Have_a_Hot_Time_Hades_",
+      "id": "565137",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328001764i/578200.jpg",
+      "authors": [
+        "Kate McMullan"
+      ],
+      "genres": [
+        "mythology",
+        "fantasy",
         "middle-grade",
         "childrens",
         "fiction",
         "greek-mythology",
+        "humor"
+      ],
+      "rating": 4.16,
+      "ratings": 1669,
+      "reviews": 147
+    },
+    {
+      "title": "Persephone the Daring",
+      "url": "https://www.goodreads.com/book/show/16074488-persephone-the-daring",
+      "id": "21869431",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1359069228i/16074488.jpg",
+      "authors": [
+        "Joan Holub"
+      ],
+      "genres": [
+        "mythology",
+        "fantasy",
+        "middle-grade",
+        "fiction",
+        "greek-mythology",
+        "childrens",
         "retellings"
       ],
       "rating": 4.25,
-      "ratings": 1457,
-      "reviews": 60
+      "ratings": 1598,
+      "reviews": 59
     },
     {
-      "title": "Charon",
-      "url": "https://www.goodreads.com/book/show/55286624-charon",
-      "id": "86215413",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1599701179i/55286624.jpg",
+      "title": "Pheme the Gossip",
+      "url": "https://www.goodreads.com/book/show/15801150-pheme-the-gossip",
+      "id": "21524511",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1374779475i/15801150.jpg",
+      "authors": [
+        "Joan Holub"
+      ],
+      "genres": [
+        "mythology",
+        "fantasy",
+        "middle-grade",
+        "greek-mythology",
+        "fiction",
+        "childrens",
+        "retellings"
+      ],
+      "rating": 4.17,
+      "ratings": 1598,
+      "reviews": 75
+    },
+    {
+      "title": "Mythology",
+      "url": "https://www.goodreads.com/book/show/464262.Mythology",
+      "id": "452687",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388209651i/464262.jpg",
+      "authors": [
+        "Dugald A. Steer"
+      ],
+      "genres": [
+        "mythology",
+        "fantasy",
+        "greek-mythology",
+        "childrens",
+        "fiction",
+        "picture-books",
+        "reference"
+      ],
+      "rating": 4.23,
+      "ratings": 1581,
+      "reviews": 77
+    },
+    {
+      "title": "Thanatos",
+      "url": "https://www.goodreads.com/book/show/54782239-thanatos",
+      "id": "85459419",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1596335019i/54782239.jpg",
       "authors": [
         "Alessa Thorn"
       ],
@@ -97,803 +976,76 @@
         "romance",
         "mythology",
         "paranormal-romance",
+        "greek-mythology",
         "paranormal",
-        "greek-mythology",
-        "gods"
-      ],
-      "rating": 4.29,
-      "ratings": 1448,
-      "reviews": 51
-    },
-    {
-      "title": "Cupid and Psyche",
-      "url": "https://www.goodreads.com/book/show/630686.Cupid_and_Psyche",
-      "id": "617006",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347589283i/630686.jpg",
-      "authors": [
-        "M. Charlotte Craft"
-      ],
-      "genres": [
-        "picture-books",
-        "mythology",
-        "fantasy",
-        "romance",
-        "childrens",
-        "fairy-tales",
-        "greek-mythology"
-      ],
-      "rating": 4.34,
-      "ratings": 1433,
-      "reviews": 95
-    },
-    {
-      "title": "House of Odysseus",
-      "url": "https://www.goodreads.com/book/show/61346131-house-of-odysseus",
-      "id": "96747665",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1666289816i/61346131.jpg",
-      "authors": [
-        "Claire North"
-      ],
-      "genres": [
-        "mythology",
-        "greek-mythology",
-        "fantasy",
-        "historical-fiction",
-        "retellings",
-        "fiction",
-        "historical"
-      ],
-      "rating": 4.19,
-      "ratings": 1301,
-      "reviews": 339
-    },
-    {
-      "title": "Artemis: Wild Goddess of the Hunt",
-      "url": "https://www.goodreads.com/book/show/29102903-artemis",
-      "id": "49340939",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1485972805i/29102903.jpg",
-      "authors": [
-        "George  O'Connor"
-      ],
-      "genres": [
-        "graphic-novels",
-        "mythology",
-        "fantasy",
-        "comics",
-        "young-adult",
-        "greek-mythology",
-        "fiction"
-      ],
-      "rating": 4.19,
-      "ratings": 1277,
-      "reviews": 126
-    },
-    {
-      "title": "The Threads Of Life",
-      "url": "https://www.goodreads.com/book/show/53450713-the-threads-of-life",
-      "id": "83254888",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1589995018i/53450713.jpg",
-      "authors": [
-        "Elisa S. Amore"
-      ],
-      "genres": [
-        "fantasy",
-        "mythology",
-        "gods",
-        "paranormal-romance",
-        "greek-mythology",
-        "young-adult",
-        "new-adult"
-      ],
-      "rating": 4.2,
-      "ratings": 1270,
-      "reviews": 49
-    },
-    {
-      "title": "Ares",
-      "url": "https://www.goodreads.com/book/show/54337586-ares",
-      "id": "84792486",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1611933142i/54337586.jpg",
-      "authors": [
-        "Carly Spade"
-      ],
-      "genres": [
-        "greek-mythology",
-        "fantasy",
-        "romance",
-        "mythology",
-        "paranormal",
-        "paranormal-romance",
-        "sports"
-      ],
-      "rating": 4.08,
-      "ratings": 1265,
-      "reviews": 187
-    },
-    {
-      "title": "Phone Home, Persephone!",
-      "url": "https://www.goodreads.com/book/show/725944.Phone_Home_Persephone_",
-      "id": "2195674",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1329078602i/725944.jpg",
-      "authors": [
-        "Kate McMullan"
-      ],
-      "genres": [
-        "mythology",
-        "fantasy",
-        "childrens",
-        "middle-grade",
-        "fiction",
-        "greek-mythology",
-        "retellings"
-      ],
-      "rating": 4.17,
-      "ratings": 1241,
-      "reviews": 79
-    },
-    {
-      "title": "Secret of the Broken King",
-      "url": "https://www.goodreads.com/book/show/60324384-secret-of-the-broken-king",
-      "id": "95101885",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1644216002i/60324384.jpg",
-      "authors": [
-        "Eliza Raine"
-      ],
-      "genres": [
-        "fantasy",
-        "mythology",
-        "romance",
-        "greek-mythology",
-        "fantasy-romance",
-        "gods",
-        "retellings"
-      ],
-      "rating": 4.15,
-      "ratings": 1236,
-      "reviews": 106
-    },
-    {
-      "title": "Göttlich-Trilogie",
-      "url": "https://www.goodreads.com/book/show/18631820-g-ttlich-trilogie",
-      "id": "26425440",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1381097629i/18631820.jpg",
-      "authors": [
-        "Josephine Angelini"
-      ],
-      "genres": [
-        "fantasy",
-        "romance",
-        "greek-mythology",
-        "young-adult",
-        "mythology"
-      ],
-      "rating": 4.38,
-      "ratings": 1220,
-      "reviews": 31
-    },
-    {
-      "title": "Eros",
-      "url": "https://www.goodreads.com/book/show/54337637-eros",
-      "id": "84792592",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1622645248i/54337637.jpg",
-      "authors": [
-        "Carly Spade"
-      ],
-      "genres": [
-        "romance",
-        "mythology",
-        "greek-mythology",
-        "fantasy",
-        "paranormal-romance",
-        "gods",
-        "retellings"
-      ],
-      "rating": 4.21,
-      "ratings": 1177,
-      "reviews": 175
-    },
-    {
-      "title": "24 Hours in Ancient Athens: A Day in the Life of the People Who Lived There",
-      "url": "https://www.goodreads.com/book/show/44585295-24-hours-in-ancient-athens",
-      "id": "69204778",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1553462368i/44585295.jpg",
-      "authors": [
-        "Philip Matyszak"
-      ],
-      "genres": [
-        "history",
-        "non-fiction",
-        "greece",
-        "ancient-history",
-        "historical",
-        "mythology",
-        "greek-mythology"
-      ],
-      "rating": 4.01,
-      "ratings": 1092,
-      "reviews": 112
-    },
-    {
-      "title": "Zeus",
-      "url": "https://www.goodreads.com/book/show/54337642-zeus",
-      "id": "84792601",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1643035549i/54337642.jpg",
-      "authors": [
-        "Carly Spade"
-      ],
-      "genres": [
-        "romance",
-        "mythology",
-        "fantasy",
-        "greek-mythology",
-        "contemporary",
-        "retellings",
-        "gods"
-      ],
-      "rating": 4.17,
-      "ratings": 1066,
-      "reviews": 181
-    },
-    {
-      "title": "Say Cheese, Medusa!",
-      "url": "https://www.goodreads.com/book/show/1913178.Say_Cheese_Medusa_",
-      "id": "1915153",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328035890i/1913178.jpg",
-      "authors": [
-        "Kate McMullan"
-      ],
-      "genres": [
-        "mythology",
-        "fantasy",
-        "childrens",
-        "greek-mythology",
-        "middle-grade",
-        "young-adult",
-        "humor"
+        "urban-fantasy"
       ],
       "rating": 4.22,
-      "ratings": 1060,
-      "reviews": 74
+      "ratings": 1569,
+      "reviews": 68
     },
     {
-      "title": "The Greek and Roman Myths: A Guide to the Classical Stories",
-      "url": "https://www.goodreads.com/book/show/8583388-the-greek-and-roman-myths",
-      "id": "13452643",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347608416i/8583388.jpg",
-      "authors": [
-        "Philip Matyszak"
-      ],
-      "genres": [
-        "mythology",
-        "non-fiction",
-        "history",
-        "classics",
-        "greek-mythology",
-        "ancient-history",
-        "historical"
-      ],
-      "rating": 4,
-      "ratings": 1058,
-      "reviews": 90
-    },
-    {
-      "title": "El silbido del arquero",
-      "url": "https://www.goodreads.com/book/show/25525971-el-silbido-del-arquero",
-      "id": "45312760",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1431433209i/25525971.jpg",
-      "authors": [
-        "Irene Vallejo"
-      ],
-      "genres": [
-        "fiction",
-        "novels",
-        "historical-fiction",
-        "mythology",
-        "retellings",
-        "spanish-literature",
-        "greek-mythology"
-      ],
-      "rating": 4.09,
-      "ratings": 1057,
-      "reviews": 165
-    },
-    {
-      "title": "Hermes: Tales of the Trickster",
-      "url": "https://www.goodreads.com/book/show/34506917-hermes",
-      "id": "55632803",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1499216968i/34506917.jpg",
-      "authors": [
-        "George  O'Connor"
-      ],
-      "genres": [
-        "graphic-novels",
-        "mythology",
-        "fantasy",
-        "comics",
-        "young-adult",
-        "middle-grade",
-        "greek-mythology"
-      ],
-      "rating": 4.33,
-      "ratings": 1053,
-      "reviews": 113
-    },
-    {
-      "title": "Insoumise Méroé",
-      "url": "https://www.goodreads.com/book/show/61647333-insoumise-m-ro",
-      "id": "97230924",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1658447092i/61647333.jpg",
-      "authors": [
-        "Liv Stone"
-      ],
-      "genres": [
-        "romance",
-        "fantasy",
-        "mythology",
-        "greek-mythology",
-        "magic"
-      ],
-      "rating": 4.26,
-      "ratings": 1050,
-      "reviews": 89
-    },
-    {
-      "title": "The Mythology Book: Big Ideas Simply Explained",
-      "url": "https://www.goodreads.com/book/show/36747326-the-mythology-book",
-      "id": "58537236",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1518380094i/36747326.jpg",
-      "authors": [
-        "Shulamit Ambalu"
-      ],
-      "genres": [
-        "non-fiction",
-        "mythology",
-        "history",
-        "reference",
-        "religion",
-        "greek-mythology",
-        "literature"
-      ],
-      "rating": 4.05,
-      "ratings": 1036,
-      "reviews": 102
-    },
-    {
-      "title": "Sacrifice of the Brave King",
-      "url": "https://www.goodreads.com/book/show/60724507-sacrifice-of-the-brave-king",
-      "id": "95740086",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1648706149i/60724507.jpg",
-      "authors": [
-        "Eliza Raine"
-      ],
-      "genres": [
-        "fantasy",
-        "mythology",
-        "romance",
-        "gods",
-        "greek-mythology",
-        "paranormal",
-        "new-adult"
-      ],
-      "rating": 4.28,
-      "ratings": 1036,
-      "reviews": 74
-    },
-    {
-      "title": "The Golden Fleece",
-      "url": "https://www.goodreads.com/book/show/634067.The_Golden_Fleece",
-      "id": "772141",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1207115110i/634067.jpg",
-      "authors": [
-        "Franz Grillparzer"
-      ],
-      "genres": [
-        "mythology",
-        "historical-fiction",
-        "fiction",
-        "classics",
-        "fantasy",
-        "greece",
-        "greek-mythology"
-      ],
-      "rating": 4.06,
-      "ratings": 1035,
-      "reviews": 102
-    },
-    {
-      "title": "Poseidon",
-      "url": "https://www.goodreads.com/book/show/60495098-poseidon",
-      "id": "84792575",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1645807134i/60495098.jpg",
+      "title": "Apollo",
+      "url": "https://www.goodreads.com/book/show/54337577-apollo",
+      "id": "84792473",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1601650127i/54337577.jpg",
       "authors": [
         "Carly Spade"
       ],
       "genres": [
+        "romance",
         "mythology",
         "fantasy",
-        "romance",
         "greek-mythology",
-        "contemporary",
-        "magic",
-        "paranormal-romance"
+        "paranormal",
+        "paranormal-romance",
+        "contemporary"
       ],
-      "rating": 4,
-      "ratings": 1029,
-      "reviews": 165
+      "rating": 4.03,
+      "ratings": 1550,
+      "reviews": 214
     },
     {
-      "title": "The Ares Trials: The Complete Collection",
-      "url": "https://www.goodreads.com/book/show/58758557-the-ares-trials",
-      "id": "92502003",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1628818641i/58758557.jpg",
+      "title": "The Golden God",
+      "url": "https://www.goodreads.com/book/show/56667119-the-golden-god",
+      "id": "88564874",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1610641579i/56667119.jpg",
       "authors": [
         "Eliza Raine"
       ],
       "genres": [
+        "fantasy",
         "romance",
         "mythology",
+        "greek-mythology",
         "fantasy-romance",
-        "fantasy",
-        "greek-mythology"
-      ],
-      "rating": 4.38,
-      "ratings": 849,
-      "reviews": 36
-    },
-    {
-      "title": "Thief of Spring",
-      "url": "https://www.goodreads.com/book/show/58225315-thief-of-spring",
-      "id": "91264667",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1622509032i/58225315.jpg",
-      "authors": [
-        "Katherine  Macdonald"
-      ],
-      "genres": [
-        "fantasy",
-        "romance",
-        "mythology",
-        "retellings",
-        "fae",
-        "fantasy-romance",
-        "greek-mythology"
-      ],
-      "rating": 4,
-      "ratings": 847,
-      "reviews": 171
-    },
-    {
-      "title": "Nice Shot, Cupid!",
-      "url": "https://www.goodreads.com/book/show/1583529.Nice_Shot_Cupid_",
-      "id": "2839266",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328006351i/1583529.jpg",
-      "authors": [
-        "Kate McMullan"
-      ],
-      "genres": [
-        "mythology",
-        "fantasy",
-        "fiction",
-        "greek-mythology",
-        "humor",
-        "middle-grade",
-        "childrens"
-      ],
-      "rating": 4.21,
-      "ratings": 824,
-      "reviews": 41
-    },
-    {
-      "title": "Persephone Made Me Do It",
-      "url": "https://www.goodreads.com/book/show/75581026-persephone-made-me-do-it",
-      "id": "100905886",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1680343943i/75581026.jpg",
-      "authors": [
-        "Trista Mateer"
-      ],
-      "genres": [
-        "poetry",
-        "mythology",
-        "feminism",
-        "fantasy",
-        "adult",
-        "greek-mythology",
-        "fiction"
-      ],
-      "rating": 4.24,
-      "ratings": 769,
-      "reviews": 210
-    },
-    {
-      "title": "By Helen's Hand",
-      "url": "https://www.goodreads.com/book/show/27429680-by-helen-s-hand",
-      "id": "47481126",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1450319912i/27429680.jpg",
-      "authors": [
-        "Amalia Carosella"
-      ],
-      "genres": [
-        "historical-fiction",
-        "mythology",
-        "greek-mythology",
-        "fantasy",
-        "historical",
-        "ancient",
-        "greece"
-      ],
-      "rating": 4.02,
-      "ratings": 669,
-      "reviews": 90
-    },
-    {
-      "title": "Zeus and Hera",
-      "url": "https://www.goodreads.com/book/show/62872570-zeus-and-hera",
-      "id": "98665669",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1664828867i/62872570.jpg",
-      "authors": [
-        "Katee Robert"
-      ],
-      "genres": [
-        "romance",
-        "fantasy",
-        "mythology",
-        "short-stories",
-        "retellings",
-        "greek-mythology",
-        "fiction"
-      ],
-      "rating": 4.07,
-      "ratings": 667,
-      "reviews": 90
-    },
-    {
-      "title": "La casa de Asterión",
-      "url": "https://www.goodreads.com/book/show/21795236-la-casa-de-asteri-n",
-      "id": "55430227",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1401425384i/21795236.jpg",
-      "authors": [
-        "Jorge Luis Borges"
-      ],
-      "genres": [
-        "short-stories",
-        "classics",
-        "spanish-literature",
-        "fantasy",
-        "read-for-school",
-        "fiction",
-        "greek-mythology"
-      ],
-      "rating": 4.24,
-      "ratings": 659,
-      "reviews": 100
-    },
-    {
-      "title": "Trials of Apollo, The 5 Book Hardcover Boxed Set",
-      "url": "https://www.goodreads.com/book/show/50998919-trials-of-apollo-the-5-book-hardcover-boxed-set",
-      "id": "75845763",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1601941067i/50998919.jpg",
-      "authors": [
-        "Rick Riordan"
-      ],
-      "genres": [
-        "fantasy",
-        "mythology",
-        "middle-grade",
-        "greek-mythology",
-        "fiction",
-        "queer",
-        "lgbt"
-      ],
-      "rating": 4.51,
-      "ratings": 608,
-      "reviews": 25
-    },
-    {
-      "title": "The New Gods",
-      "url": "https://www.goodreads.com/book/show/60862339-the-new-gods",
-      "id": "95890088",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1650648928i/60862339.jpg",
-      "authors": [
-        "Ripley Proserpina"
-      ],
-      "genres": [
-        "reverse-harem",
-        "fantasy",
-        "romance",
-        "mythology",
-        "paranormal",
-        "greek-mythology",
+        "paranormal-romance",
         "gods"
       ],
-      "rating": 4.15,
-      "ratings": 605,
-      "reviews": 62
+      "rating": 4.2,
+      "ratings": 1547,
+      "reviews": 90
     },
     {
-      "title": "The Armour of Achilles",
-      "url": "https://www.goodreads.com/book/show/9872884-the-armour-of-achilles",
-      "id": "14764577",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328831851i/9872884.jpg",
-      "authors": [
-        "Glyn Iliffe"
-      ],
-      "genres": [
-        "historical-fiction",
-        "mythology",
-        "fantasy",
-        "greece",
-        "fiction",
-        "greek-mythology",
-        "literature"
-      ],
-      "rating": 4.23,
-      "ratings": 587,
-      "reviews": 35
-    },
-    {
-      "title": "Storm of Olympus",
-      "url": "https://www.goodreads.com/book/show/60766877-storm-of-olympus",
-      "id": "95817790",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1672782366i/60766877.jpg",
+      "title": "Blood of Troy",
+      "url": "https://www.goodreads.com/book/show/60021197-blood-of-troy",
+      "id": "90112283",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1641409047i/60021197.jpg",
       "authors": [
         "Claire M. Andrews"
       ],
       "genres": [
         "fantasy",
         "mythology",
-        "greek-mythology",
-        "young-adult",
         "historical-fiction",
-        "romance",
-        "retellings"
-      ],
-      "rating": 4.08,
-      "ratings": 582,
-      "reviews": 101
-    },
-    {
-      "title": "Conversazione su Tiresia",
-      "url": "https://www.goodreads.com/book/show/43837757-conversazione-su-tiresia",
-      "id": "68220159",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1549321300i/43837757.jpg",
-      "authors": [
-        "Andrea Camilleri"
-      ],
-      "genres": [
-        "theatre",
-        "fiction",
-        "greek-mythology",
-        "italian-literature",
-        "historical-fiction"
-      ],
-      "rating": 4,
-      "ratings": 571,
-      "reviews": 58
-    },
-    {
-      "title": "The New Achilles",
-      "url": "https://www.goodreads.com/book/show/41159274-the-new-achilles",
-      "id": "64334813",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1563767739i/41159274.jpg",
-      "authors": [
-        "Christian Cameron"
-      ],
-      "genres": [
-        "historical-fiction",
-        "greece",
-        "mythology",
-        "fiction",
-        "greek-mythology",
-        "historical",
-        "war"
-      ],
-      "rating": 4.1,
-      "ratings": 555,
-      "reviews": 66
-    },
-    {
-      "title": "Seeds Volume Three",
-      "url": "https://www.goodreads.com/book/show/18039197-seeds-volume-three",
-      "id": "25311935",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1376489236i/18039197.jpg",
-      "authors": [
-        "M.M. Kin"
-      ],
-      "genres": [
-        "mythology",
-        "romance",
-        "greek-mythology",
-        "fantasy",
-        "retellings",
         "young-adult",
-        "gods"
-      ],
-      "rating": 4.01,
-      "ratings": 551,
-      "reviews": 36
-    },
-    {
-      "title": "Dead of Spring: A Hades and Persephone Retelling",
-      "url": "https://www.goodreads.com/book/show/60601131-dead-of-spring",
-      "id": "95525182",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1660010954i/60601131.jpg",
-      "authors": [
-        "Colette Rhodes"
-      ],
-      "genres": [
-        "fantasy",
-        "romance",
-        "mythology",
         "greek-mythology",
-        "fantasy-romance",
         "retellings",
-        "adult"
+        "romance"
       ],
-      "rating": 4.01,
-      "ratings": 539,
-      "reviews": 97
-    },
-    {
-      "title": "Titans",
-      "url": "https://www.goodreads.com/book/show/42201315-titans",
-      "id": "65813916",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1560679550i/42201315.jpg",
-      "authors": [
-        "Kate O'Hearn"
-      ],
-      "genres": [
-        "fantasy",
-        "mythology",
-        "middle-grade",
-        "animals",
-        "greek-mythology",
-        "mystery",
-        "gods"
-      ],
-      "rating": 4.27,
-      "ratings": 538,
-      "reviews": 34
-    },
-    {
-      "title": "Greek Myths",
-      "url": "https://www.goodreads.com/book/show/10232668-greek-myths",
-      "id": "15132589",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328767031i/10232668.jpg",
-      "authors": [
-        "Arthur Pober"
-      ],
-      "genres": [
-        "mythology",
-        "classics",
-        "fantasy",
-        "childrens",
-        "greek-mythology",
-        "school",
-        "short-stories"
-      ],
-      "rating": 4.22,
-      "ratings": 525,
-      "reviews": 44
-    },
-    {
-      "title": "H of H Playbook",
-      "url": "https://www.goodreads.com/book/show/56760369-h-of-h-playbook",
-      "id": "88711517",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1634327856i/56760369.jpg",
-      "authors": [
-        "Anne Carson"
-      ],
-      "genres": [
-        "poetry",
-        "plays",
-        "classics",
-        "mythology",
-        "art",
-        "drama",
-        "greek-mythology"
-      ],
-      "rating": 4.42,
-      "ratings": 519,
-      "reviews": 96
+      "rating": 4.15,
+      "ratings": 1538,
+      "reviews": 213
     }
   ]
 }

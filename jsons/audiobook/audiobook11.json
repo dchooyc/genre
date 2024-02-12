@@ -1,75 +1,768 @@
 {
   "books": [
     {
-      "title": "Fortune and Glory",
-      "url": "https://www.goodreads.com/book/show/49779612-fortune-and-glory",
-      "id": "74914032",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1593634635i/49779612.jpg",
+      "title": "True Colors",
+      "url": "https://www.goodreads.com/book/show/3975186-true-colors",
+      "id": "4020951",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442893974i/3975186.jpg",
       "authors": [
-        "Janet Evanovich"
+        "Kristin Hannah"
+      ],
+      "genres": [
+        "fiction",
+        "chick-lit",
+        "romance",
+        "contemporary",
+        "family",
+        "adult",
+        "audiobook"
+      ],
+      "rating": 4.04,
+      "ratings": 91449,
+      "reviews": 6104
+    },
+    {
+      "title": "We Are Legion (We Are Bob)",
+      "url": "https://www.goodreads.com/book/show/32109569-we-are-legion-we-are-bob",
+      "id": "52752877",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1474344826i/32109569.jpg",
+      "authors": [
+        "Dennis E. Taylor"
+      ],
+      "genres": [
+        "science-fiction",
+        "fiction",
+        "audiobook",
+        "space-opera",
+        "humor",
+        "fantasy",
+        "space"
+      ],
+      "rating": 4.28,
+      "ratings": 91370,
+      "reviews": 7101
+    },
+    {
+      "title": "The Last Mile",
+      "url": "https://www.goodreads.com/book/show/26245853-the-last-mile",
+      "id": "46239650",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1450227326i/26245853.jpg",
+      "authors": [
+        "David Baldacci"
       ],
       "genres": [
         "mystery",
         "fiction",
-        "humor",
+        "thriller",
+        "crime",
+        "mystery-thriller",
         "audiobook",
-        "romance",
-        "chick-lit",
-        "contemporary"
+        "suspense"
       ],
-      "rating": 4.04,
-      "ratings": 42240,
-      "reviews": 3583
+      "rating": 4.23,
+      "ratings": 91191,
+      "reviews": 5290
     },
     {
-      "title": "The Midwife's Confession",
-      "url": "https://www.goodreads.com/book/show/10059498-the-midwife-s-confession",
-      "id": "14955690",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1323870279i/10059498.jpg",
+      "title": "Columbine",
+      "url": "https://www.goodreads.com/book/show/5632446-columbine",
+      "id": "5803859",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442939134i/5632446.jpg",
+      "authors": [
+        "Dave Cullen"
+      ],
+      "genres": [
+        "non-fiction",
+        "true-crime",
+        "history",
+        "crime",
+        "audiobook",
+        "psychology",
+        "journalism"
+      ],
+      "rating": 4.29,
+      "ratings": 90996,
+      "reviews": 9966
+    },
+    {
+      "title": "A Reaper at the Gates",
+      "url": "https://www.goodreads.com/book/show/30809786-a-reaper-at-the-gates",
+      "id": "51397188",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1507476834i/30809786.jpg",
+      "authors": [
+        "Sabaa Tahir"
+      ],
+      "genres": [
+        "fantasy",
+        "young-adult",
+        "young-adult-fantasy",
+        "romance",
+        "fiction",
+        "audiobook",
+        "magic"
+      ],
+      "rating": 4.16,
+      "ratings": 90898,
+      "reviews": 10613
+    },
+    {
+      "title": "Heir to the Empire",
+      "url": "https://www.goodreads.com/book/show/40604754-heir-to-the-empire",
+      "id": "1133995",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1529605994i/40604754.jpg",
+      "authors": [
+        "Timothy Zahn"
+      ],
+      "genres": [
+        "star-wars",
+        "science-fiction",
+        "fiction",
+        "fantasy",
+        "space-opera",
+        "science-fiction-fantasy",
+        "audiobook"
+      ],
+      "rating": 4.16,
+      "ratings": 90811,
+      "reviews": 4448
+    },
+    {
+      "title": "The One Hundred Years of Lenni and Margot",
+      "url": "https://www.goodreads.com/book/show/54798488-the-one-hundred-years-of-lenni-and-margot",
+      "id": "73624547",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1603142894i/54798488.jpg",
+      "authors": [
+        "Marianne Cronin"
+      ],
+      "genres": [
+        "fiction",
+        "contemporary",
+        "audiobook",
+        "romance",
+        "lgbt",
+        "young-adult",
+        "adult"
+      ],
+      "rating": 4.3,
+      "ratings": 90691,
+      "reviews": 11595
+    },
+    {
+      "title": "Year of Yes",
+      "url": "https://www.goodreads.com/book/show/29540318-year-of-yes",
+      "id": "45519636",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1458219457i/29540318.jpg",
+      "authors": [
+        "Shonda Rhimes"
+      ],
+      "genres": [
+        "non-fiction",
+        "memoir",
+        "audiobook",
+        "self-help",
+        "biography",
+        "personal-development",
+        "biography-memoir"
+      ],
+      "rating": 4.06,
+      "ratings": 90419,
+      "reviews": 9220
+    },
+    {
+      "title": "Prisoners of Geography: Ten Maps That Tell You Everything You Need to Know About Global Politics",
+      "url": "https://www.goodreads.com/book/show/25135194-prisoners-of-geography",
+      "id": "44832697",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1432827094i/25135194.jpg",
+      "authors": [
+        "Tim  Marshall"
+      ],
+      "genres": [
+        "non-fiction",
+        "history",
+        "geography",
+        "science",
+        "economics",
+        "audiobook",
+        "politics"
+      ],
+      "rating": 4.2,
+      "ratings": 90213,
+      "reviews": 7696
+    },
+    {
+      "title": "In an Instant",
+      "url": "https://www.goodreads.com/book/show/51037979-in-an-instant",
+      "id": "68794775",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1562407147l/51037979.jpg",
+      "authors": [
+        "Suzanne Redfearn"
+      ],
+      "genres": [
+        "fiction",
+        "contemporary",
+        "young-adult",
+        "romance",
+        "drama",
+        "audiobook",
+        "family"
+      ],
+      "rating": 4.35,
+      "ratings": 90003,
+      "reviews": 8253
+    },
+    {
+      "title": "And Every Morning the Way Home Gets Longer and Longer",
+      "url": "https://www.goodreads.com/book/show/31373633-and-every-morning-the-way-home-gets-longer-and-longer",
+      "id": "51766600",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1472074835i/31373633.jpg",
+      "authors": [
+        "Fredrik Backman"
+      ],
+      "genres": [
+        "fiction",
+        "contemporary",
+        "short-stories",
+        "audiobook",
+        "novella",
+        "adult",
+        "literary-fiction"
+      ],
+      "rating": 4.33,
+      "ratings": 89776,
+      "reviews": 14871
+    },
+    {
+      "title": "Big Lies in a Small Town",
+      "url": "https://www.goodreads.com/book/show/45046808-big-lies-in-a-small-town",
+      "id": "69749711",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1561879570i/45046808.jpg",
       "authors": [
         "Diane Chamberlain"
       ],
       "genres": [
+        "historical-fiction",
         "fiction",
         "mystery",
-        "chick-lit",
-        "contemporary",
-        "drama",
         "audiobook",
-        "womens-fiction"
+        "thriller",
+        "historical",
+        "mystery-thriller"
       ],
-      "rating": 4.08,
-      "ratings": 42172,
-      "reviews": 3819
+      "rating": 4.13,
+      "ratings": 89628,
+      "reviews": 7284
     },
     {
-      "title": "Black Sun",
-      "url": "https://www.goodreads.com/book/show/50892360-black-sun",
-      "id": "61321587",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1601212809i/50892360.jpg",
+      "title": "Smoke Gets in Your Eyes & Other Lessons from the Crematory",
+      "url": "https://www.goodreads.com/book/show/25189315-smoke-gets-in-your-eyes-other-lessons-from-the-crematory",
+      "id": "39962326",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1436549658i/25189315.jpg",
       "authors": [
-        "Rebecca Roanhorse"
+        "Caitlin Doughty"
+      ],
+      "genres": [
+        "non-fiction",
+        "memoir",
+        "death",
+        "science",
+        "biography",
+        "audiobook",
+        "biography-memoir"
+      ],
+      "rating": 4.22,
+      "ratings": 89427,
+      "reviews": 10861
+    },
+    {
+      "title": "The House at Pooh Corner",
+      "url": "https://www.goodreads.com/book/show/776407.The_House_at_Pooh_Corner",
+      "id": "3244521",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348195621i/776407.jpg",
+      "authors": [
+        "A.A. Milne"
+      ],
+      "genres": [
+        "classics",
+        "childrens",
+        "fiction",
+        "fantasy",
+        "animals",
+        "middle-grade",
+        "audiobook"
+      ],
+      "rating": 4.37,
+      "ratings": 89303,
+      "reviews": 2160
+    },
+    {
+      "title": "Only Time Will Tell",
+      "url": "https://www.goodreads.com/book/show/10872085-only-time-will-tell",
+      "id": "14570985",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442866312i/10872085.jpg",
+      "authors": [
+        "Jeffrey Archer"
+      ],
+      "genres": [
+        "fiction",
+        "historical-fiction",
+        "historical",
+        "mystery",
+        "audiobook",
+        "thriller",
+        "drama"
+      ],
+      "rating": 4.1,
+      "ratings": 89293,
+      "reviews": 6364
+    },
+    {
+      "title": "Exhalation",
+      "url": "https://www.goodreads.com/book/show/41160292-exhalation",
+      "id": "64336454",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1534388394i/41160292.jpg",
+      "authors": [
+        "Ted Chiang"
+      ],
+      "genres": [
+        "short-stories",
+        "science-fiction",
+        "fiction",
+        "fantasy",
+        "science-fiction-fantasy",
+        "speculative-fiction",
+        "audiobook"
+      ],
+      "rating": 4.28,
+      "ratings": 89290,
+      "reviews": 11322
+    },
+    {
+      "title": "Best Served Cold",
+      "url": "https://www.goodreads.com/book/show/2315892.Best_Served_Cold",
+      "id": "2322406",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347732723i/2315892.jpg",
+      "authors": [
+        "Joe Abercrombie"
       ],
       "genres": [
         "fantasy",
         "fiction",
-        "lgbt",
-        "adult",
-        "science-fiction",
-        "queer",
-        "audiobook"
+        "epic-fantasy",
+        "dark-fantasy",
+        "audiobook",
+        "high-fantasy",
+        "adventure"
       ],
-      "rating": 4.2,
-      "ratings": 42164,
-      "reviews": 7946
+      "rating": 4.22,
+      "ratings": 89217,
+      "reviews": 4809
     },
     {
-      "title": "Code Name Hélène",
-      "url": "https://www.goodreads.com/book/show/50089336-code-name-h-l-ne",
-      "id": "71956932",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1572993343l/50089336.jpg",
+      "title": "Scar Tissue",
+      "url": "https://www.goodreads.com/book/show/96647.Scar_Tissue",
+      "id": "908343",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348688305i/96647.jpg",
       "authors": [
-        "Ariel Lawhon"
+        "Anthony Kiedis"
+      ],
+      "genres": [
+        "music",
+        "non-fiction",
+        "biography",
+        "memoir",
+        "autobiography",
+        "biography-memoir",
+        "audiobook"
+      ],
+      "rating": 4.11,
+      "ratings": 88942,
+      "reviews": 3859
+    },
+    {
+      "title": "Aristotle and Dante Dive into the Waters of the World",
+      "url": "https://www.goodreads.com/book/show/56980548-aristotle-and-dante-dive-into-the-waters-of-the-world",
+      "id": "48780057",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1614709171i/56980548.jpg",
+      "authors": [
+        "Benjamin Alire Sáenz"
+      ],
+      "genres": [
+        "romance",
+        "lgbt",
+        "young-adult",
+        "contemporary",
+        "queer",
+        "fiction",
+        "audiobook"
+      ],
+      "rating": 4.14,
+      "ratings": 88753,
+      "reviews": 16467
+    },
+    {
+      "title": "Razorblade Tears",
+      "url": "https://www.goodreads.com/book/show/54860585-razorblade-tears",
+      "id": "85600094",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1636739235i/54860585.jpg",
+      "authors": [
+        "S.A. Cosby"
+      ],
+      "genres": [
+        "fiction",
+        "thriller",
+        "mystery",
+        "mystery-thriller",
+        "crime",
+        "audiobook",
+        "lgbt"
+      ],
+      "rating": 4.1,
+      "ratings": 88672,
+      "reviews": 12953
+    },
+    {
+      "title": "Go the F**k to Sleep",
+      "url": "https://www.goodreads.com/book/show/39291659-go-the-f-k-to-sleep",
+      "id": "16117490",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1521147714i/39291659.jpg",
+      "authors": [
+        "Adam Mansbach"
+      ],
+      "genres": [
+        "humor",
+        "fiction",
+        "picture-books",
+        "childrens",
+        "comedy",
+        "audiobook",
+        "parenting"
+      ],
+      "rating": 4.27,
+      "ratings": 88669,
+      "reviews": 4060
+    },
+    {
+      "title": "Twenty Years Later",
+      "url": "https://www.goodreads.com/book/show/57645345-twenty-years-later",
+      "id": "90292879",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1632079606i/57645345.jpg",
+      "authors": [
+        "Charlie Donlea"
+      ],
+      "genres": [
+        "mystery",
+        "thriller",
+        "mystery-thriller",
+        "fiction",
+        "audiobook",
+        "suspense",
+        "crime"
+      ],
+      "rating": 4.24,
+      "ratings": 88635,
+      "reviews": 6096
+    },
+    {
+      "title": "The Last Devil to Die",
+      "url": "https://www.goodreads.com/book/show/62226126-the-last-devil-to-die",
+      "id": "98346098",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1680740298i/62226126.jpg",
+      "authors": [
+        "Richard Osman"
+      ],
+      "genres": [
+        "mystery",
+        "fiction",
+        "crime",
+        "audiobook",
+        "mystery-thriller",
+        "cozy-mystery",
+        "thriller"
+      ],
+      "rating": 4.52,
+      "ratings": 87867,
+      "reviews": 8757
+    },
+    {
+      "title": "What Lies Between Us",
+      "url": "https://www.goodreads.com/book/show/53142315-what-lies-between-us",
+      "id": "73358163",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1576829724l/53142315.jpg",
+      "authors": [
+        "John Marrs"
+      ],
+      "genres": [
+        "thriller",
+        "mystery",
+        "mystery-thriller",
+        "fiction",
+        "audiobook",
+        "suspense",
+        "psychological-thriller"
+      ],
+      "rating": 4.08,
+      "ratings": 87864,
+      "reviews": 9513
+    },
+    {
+      "title": "A Knight of the Seven Kingdoms",
+      "url": "https://www.goodreads.com/book/show/18635622-a-knight-of-the-seven-kingdoms",
+      "id": "24992268",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1693445229i/18635622.jpg",
+      "authors": [
+        "George R.R. Martin"
+      ],
+      "genres": [
+        "fantasy",
+        "fiction",
+        "short-stories",
+        "audiobook",
+        "adventure",
+        "high-fantasy",
+        "epic-fantasy"
+      ],
+      "rating": 4.23,
+      "ratings": 87705,
+      "reviews": 6184
+    },
+    {
+      "title": "Beautiful Boy: A Father's Journey Through His Son's Addiction",
+      "url": "https://www.goodreads.com/book/show/35721089-beautiful-boy",
+      "id": "3099735",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1530843357i/35721089.jpg",
+      "authors": [
+        "David Sheff"
+      ],
+      "genres": [
+        "non-fiction",
+        "memoir",
+        "biography",
+        "audiobook",
+        "mental-health",
+        "biography-memoir",
+        "psychology"
+      ],
+      "rating": 4.15,
+      "ratings": 87641,
+      "reviews": 7997
+    },
+    {
+      "title": "False Witness",
+      "url": "https://www.goodreads.com/book/show/55809780-false-witness",
+      "id": "87097744",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1615850400i/55809780.jpg",
+      "authors": [
+        "Karin Slaughter"
+      ],
+      "genres": [
+        "thriller",
+        "mystery",
+        "fiction",
+        "mystery-thriller",
+        "audiobook",
+        "crime",
+        "suspense"
+      ],
+      "rating": 4.1,
+      "ratings": 87469,
+      "reviews": 8637
+    },
+    {
+      "title": "The First Fifteen Lives of Harry August",
+      "url": "https://www.goodreads.com/book/show/35066358-the-first-fifteen-lives-of-harry-august",
+      "id": "25807847",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1493966668i/35066358.jpg",
+      "authors": [
+        "Claire North"
+      ],
+      "genres": [
+        "science-fiction",
+        "fiction",
+        "fantasy",
+        "time-travel",
+        "historical-fiction",
+        "audiobook",
+        "adult"
+      ],
+      "rating": 4.03,
+      "ratings": 87443,
+      "reviews": 10591
+    },
+    {
+      "title": "The Vanishing Stair",
+      "url": "https://www.goodreads.com/book/show/39893545-the-vanishing-stair",
+      "id": "49916464",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1529970325i/39893545.jpg",
+      "authors": [
+        "Maureen Johnson"
+      ],
+      "genres": [
+        "mystery",
+        "young-adult",
+        "mystery-thriller",
+        "audiobook",
+        "contemporary",
+        "fiction",
+        "thriller"
+      ],
+      "rating": 4.15,
+      "ratings": 87259,
+      "reviews": 10934
+    },
+    {
+      "title": "The Late Show",
+      "url": "https://www.goodreads.com/book/show/34091380-the-late-show",
+      "id": "55105895",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1493672854i/34091380.jpg",
+      "authors": [
+        "Michael Connelly"
+      ],
+      "genres": [
+        "mystery",
+        "fiction",
+        "crime",
+        "thriller",
+        "mystery-thriller",
+        "audiobook",
+        "suspense"
+      ],
+      "rating": 4.11,
+      "ratings": 87092,
+      "reviews": 6486
+    },
+    {
+      "title": "The Keeper of Happy Endings",
+      "url": "https://www.goodreads.com/book/show/57429914-the-keeper-of-happy-endings",
+      "id": "89680176",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1621719041i/57429914.jpg",
+      "authors": [
+        "Barbara  Davis"
+      ],
+      "genres": [
+        "historical-fiction",
+        "fiction",
+        "romance",
+        "historical",
+        "world-war-ii",
+        "audiobook",
+        "france"
+      ],
+      "rating": 4.48,
+      "ratings": 86984,
+      "reviews": 5038
+    },
+    {
+      "title": "Prelude to Foundation",
+      "url": "https://www.goodreads.com/book/show/30013.Prelude_to_Foundation",
+      "id": "1128436",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1335782474i/30013.jpg",
+      "authors": [
+        "Isaac Asimov"
+      ],
+      "genres": [
+        "science-fiction",
+        "fiction",
+        "science-fiction-fantasy",
+        "classics",
+        "fantasy",
+        "space-opera",
+        "audiobook"
+      ],
+      "rating": 4.16,
+      "ratings": 86845,
+      "reviews": 2488
+    },
+    {
+      "title": "The Blinding Knife",
+      "url": "https://www.goodreads.com/book/show/12499290-the-blinding-knife",
+      "id": "17484647",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1659765885i/12499290.jpg",
+      "authors": [
+        "Brent Weeks"
+      ],
+      "genres": [
+        "fantasy",
+        "fiction",
+        "epic-fantasy",
+        "high-fantasy",
+        "magic",
+        "audiobook",
+        "epic"
+      ],
+      "rating": 4.41,
+      "ratings": 86833,
+      "reviews": 2983
+    },
+    {
+      "title": "Brown Girl Dreaming",
+      "url": "https://www.goodreads.com/book/show/20821284-brown-girl-dreaming",
+      "id": "39959105",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1424308405i/20821284.jpg",
+      "authors": [
+        "Jacqueline Woodson"
+      ],
+      "genres": [
+        "poetry",
+        "memoir",
+        "non-fiction",
+        "middle-grade",
+        "biography",
+        "audiobook",
+        "childrens"
+      ],
+      "rating": 4.15,
+      "ratings": 86819,
+      "reviews": 11277
+    },
+    {
+      "title": "Iron Gold",
+      "url": "https://www.goodreads.com/book/show/33257757-iron-gold",
+      "id": "49451841",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1482475064i/33257757.jpg",
+      "authors": [
+        "Pierce Brown"
+      ],
+      "genres": [
+        "science-fiction",
+        "fantasy",
+        "fiction",
+        "dystopia",
+        "audiobook",
+        "young-adult",
+        "adult"
+      ],
+      "rating": 4.24,
+      "ratings": 86651,
+      "reviews": 6697
+    },
+    {
+      "title": "The Traitor Queen",
+      "url": "https://www.goodreads.com/book/show/50719471-the-traitor-queen",
+      "id": "60177252",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1599853320i/50719471.jpg",
+      "authors": [
+        "Danielle L. Jensen"
+      ],
+      "genres": [
+        "fantasy",
+        "romance",
+        "fantasy-romance",
+        "new-adult",
+        "audiobook",
+        "fiction",
+        "adult"
+      ],
+      "rating": 4.24,
+      "ratings": 85797,
+      "reviews": 8215
+    },
+    {
+      "title": "The Orphan's Tale",
+      "url": "https://www.goodreads.com/book/show/29239940-the-orphan-s-tale",
+      "id": "49482555",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1477339189i/29239940.jpg",
+      "authors": [
+        "Pam Jenoff"
       ],
       "genres": [
         "historical-fiction",
@@ -78,395 +771,143 @@
         "historical",
         "audiobook",
         "war",
-        "adult"
+        "holocaust"
       ],
-      "rating": 4.42,
-      "ratings": 42116,
-      "reviews": 4983
+      "rating": 4.04,
+      "ratings": 85745,
+      "reviews": 7335
     },
     {
-      "title": "An Invisible Thread",
-      "url": "https://www.goodreads.com/book/show/12902549-an-invisible-thread",
-      "id": "18056954",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328320486i/12902549.jpg",
+      "title": "A Time for Mercy",
+      "url": "https://www.goodreads.com/book/show/53529219-a-time-for-mercy",
+      "id": "81396031",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1595450825i/53529219.jpg",
       "authors": [
-        "Laura Schroff"
-      ],
-      "genres": [
-        "non-fiction",
-        "memoir",
-        "biography",
-        "biography-memoir",
-        "book-club",
-        "audiobook",
-        "inspirational"
-      ],
-      "rating": 4.05,
-      "ratings": 42080,
-      "reviews": 5209
-    },
-    {
-      "title": "Unsouled",
-      "url": "https://www.goodreads.com/book/show/30558257-unsouled",
-      "id": "51106215",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1654571019i/30558257.jpg",
-      "authors": [
-        "Will Wight"
-      ],
-      "genres": [
-        "fantasy",
-        "fiction",
-        "young-adult",
-        "magic",
-        "high-fantasy",
-        "audiobook",
-        "epic-fantasy"
-      ],
-      "rating": 4.16,
-      "ratings": 42060,
-      "reviews": 2470
-    },
-    {
-      "title": "The Mountains Sing",
-      "url": "https://www.goodreads.com/book/show/49631287-the-mountains-sing",
-      "id": "71323104",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1584656214i/49631287.jpg",
-      "authors": [
-        "Nguyễn Phan Quế Mai"
-      ],
-      "genres": [
-        "historical-fiction",
-        "fiction",
-        "historical",
-        "war",
-        "audiobook",
-        "literary-fiction",
-        "adult"
-      ],
-      "rating": 4.32,
-      "ratings": 41974,
-      "reviews": 5816
-    },
-    {
-      "title": "Rita Hayworth and Shawshank Redemption",
-      "url": "https://www.goodreads.com/book/show/39664.Rita_Hayworth_and_Shawshank_Redemption",
-      "id": "24951203",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1315100686i/39664.jpg",
-      "authors": [
-        "Stephen King"
+        "John Grisham"
       ],
       "genres": [
         "fiction",
-        "short-stories",
-        "horror",
-        "thriller",
-        "audiobook",
-        "classics",
-        "crime"
-      ],
-      "rating": 4.51,
-      "ratings": 41944,
-      "reviews": 3148
-    },
-    {
-      "title": "Island Beneath the Sea",
-      "url": "https://www.goodreads.com/book/show/7005479-island-beneath-the-sea",
-      "id": "6825396",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1501991943i/7005479.jpg",
-      "authors": [
-        "Isabel Allende"
-      ],
-      "genres": [
-        "historical-fiction",
-        "fiction",
-        "magical-realism",
-        "historical",
-        "novels",
-        "audiobook",
-        "spanish-literature"
-      ],
-      "rating": 4.1,
-      "ratings": 41812,
-      "reviews": 3934
-    },
-    {
-      "title": "Fool's Quest",
-      "url": "https://www.goodreads.com/book/show/40610956-fool-s-quest",
-      "id": "42704733",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1529677338i/40610956.jpg",
-      "authors": [
-        "Robin Hobb"
-      ],
-      "genres": [
-        "fantasy",
-        "fiction",
-        "epic-fantasy",
-        "high-fantasy",
-        "dragons",
-        "audiobook",
-        "science-fiction-fantasy"
-      ],
-      "rating": 4.53,
-      "ratings": 41759,
-      "reviews": 2335
-    },
-    {
-      "title": "We Are Not Like Them",
-      "url": "https://www.goodreads.com/book/show/56898303-we-are-not-like-them",
-      "id": "89546469",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1633444431i/56898303.jpg",
-      "authors": [
-        "Christine Pride"
-      ],
-      "genres": [
-        "fiction",
-        "contemporary",
-        "race",
-        "audiobook",
-        "literary-fiction",
-        "adult",
-        "adult-fiction"
-      ],
-      "rating": 4.07,
-      "ratings": 41736,
-      "reviews": 4243
-    },
-    {
-      "title": "Ghosted",
-      "url": "https://www.goodreads.com/book/show/36065344-ghosted",
-      "id": "57646853",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1503089054i/36065344.jpg",
-      "authors": [
-        "J.M. Darhower"
-      ],
-      "genres": [
-        "romance",
-        "contemporary-romance",
-        "contemporary",
-        "new-adult",
-        "adult",
-        "fiction",
-        "audiobook"
-      ],
-      "rating": 4.03,
-      "ratings": 41671,
-      "reviews": 5353
-    },
-    {
-      "title": "The Singing Trees",
-      "url": "https://www.goodreads.com/book/show/56806042-the-singing-trees",
-      "id": "87155296",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1624661795i/56806042.jpg",
-      "authors": [
-        "Boo Walker"
-      ],
-      "genres": [
-        "historical-fiction",
-        "fiction",
-        "romance",
-        "historical",
-        "art",
-        "audiobook",
-        "contemporary"
-      ],
-      "rating": 4.23,
-      "ratings": 41536,
-      "reviews": 1635
-    },
-    {
-      "title": "Live to Tell",
-      "url": "https://www.goodreads.com/book/show/7180727-live-to-tell",
-      "id": "7192827",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1440316621i/7180727.jpg",
-      "authors": [
-        "Lisa Gardner"
-      ],
-      "genres": [
         "mystery",
         "thriller",
-        "fiction",
-        "suspense",
+        "legal-thriller",
+        "audiobook",
         "crime",
-        "mystery-thriller",
-        "audiobook"
+        "suspense"
       ],
-      "rating": 4.18,
-      "ratings": 41434,
-      "reviews": 2363
+      "rating": 4.29,
+      "ratings": 85622,
+      "reviews": 6534
     },
     {
-      "title": "The Girl in His Shadow",
-      "url": "https://www.goodreads.com/book/show/54717137-the-girl-in-his-shadow",
-      "id": "85366835",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1601847110i/54717137.jpg",
-      "authors": [
-        "Audrey  Blake"
-      ],
-      "genres": [
-        "historical-fiction",
-        "fiction",
-        "historical",
-        "audiobook",
-        "romance",
-        "adult",
-        "medical"
-      ],
-      "rating": 4.16,
-      "ratings": 41408,
-      "reviews": 3399
-    },
-    {
-      "title": "A Little Hatred",
-      "url": "https://www.goodreads.com/book/show/35606041-a-little-hatred",
-      "id": "57338685",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1558367199i/35606041.jpg",
-      "authors": [
-        "Joe Abercrombie"
-      ],
-      "genres": [
-        "fantasy",
-        "fiction",
-        "epic-fantasy",
-        "audiobook",
-        "high-fantasy",
-        "dark-fantasy",
-        "adult"
-      ],
-      "rating": 4.45,
-      "ratings": 41313,
-      "reviews": 3469
-    },
-    {
-      "title": "Legion",
-      "url": "https://www.goodreads.com/book/show/13452375-legion",
-      "id": "18978261",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1338512017i/13452375.jpg",
+      "title": "Starsight",
+      "url": "https://www.goodreads.com/book/show/42769202-starsight",
+      "id": "66521196",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1569876576i/42769202.jpg",
       "authors": [
         "Brandon Sanderson"
       ],
       "genres": [
-        "fantasy",
         "science-fiction",
+        "young-adult",
+        "fantasy",
         "fiction",
-        "mystery",
-        "urban-fantasy",
         "audiobook",
-        "novella"
+        "space",
+        "adventure"
       ],
-      "rating": 4.13,
-      "ratings": 41029,
-      "reviews": 3301
+      "rating": 4.37,
+      "ratings": 85565,
+      "reviews": 8764
     },
     {
-      "title": "Broken",
-      "url": "https://www.goodreads.com/book/show/54305363-broken",
-      "id": "84739109",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1597856341i/54305363.jpg",
+      "title": "Nothing to Envy: Ordinary Lives in North Korea",
+      "url": "https://www.goodreads.com/book/show/40604846-nothing-to-envy",
+      "id": "6358552",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1529606621i/40604846.jpg",
       "authors": [
-        "Jenny  Lawson"
+        "Barbara Demick"
       ],
       "genres": [
         "non-fiction",
-        "humor",
-        "memoir",
-        "audiobook",
-        "mental-health",
+        "history",
+        "politics",
         "biography",
-        "essays"
-      ],
-      "rating": 4.03,
-      "ratings": 40970,
-      "reviews": 5836
-    },
-    {
-      "title": "The Life She Was Given: A Moving and Emotional Saga of Family and Resilient Women",
-      "url": "https://www.goodreads.com/book/show/32926258-the-life-she-was-given",
-      "id": "53543599",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1483427018i/32926258.jpg",
-      "authors": [
-        "Ellen Marie Wiseman"
-      ],
-      "genres": [
-        "historical-fiction",
-        "fiction",
-        "mystery",
-        "historical",
-        "adult",
         "audiobook",
-        "adult-fiction"
+        "journalism",
+        "travel"
       ],
-      "rating": 4.1,
-      "ratings": 40942,
-      "reviews": 4568
+      "rating": 4.44,
+      "ratings": 85549,
+      "reviews": 9232
     },
     {
-      "title": "Smooth Talking Stranger",
-      "url": "https://www.goodreads.com/book/show/4066312-smooth-talking-stranger",
-      "id": "4113404",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388444124i/4066312.jpg",
+      "title": "Blood Song",
+      "url": "https://www.goodreads.com/book/show/13569581-blood-song",
+      "id": "19148922",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1421573407i/13569581.jpg",
       "authors": [
-        "Lisa Kleypas"
+        "Anthony Ryan"
       ],
       "genres": [
-        "romance",
-        "contemporary-romance",
-        "contemporary",
-        "chick-lit",
-        "adult",
+        "fantasy",
+        "epic-fantasy",
         "fiction",
-        "audiobook"
-      ],
-      "rating": 4.14,
-      "ratings": 40935,
-      "reviews": 2158
-    },
-    {
-      "title": "Becoming Mrs. Lewis",
-      "url": "https://www.goodreads.com/book/show/39189837-becoming-mrs-lewis",
-      "id": "60213322",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1520907629i/39189837.jpg",
-      "authors": [
-        "Patti Callahan Henry"
-      ],
-      "genres": [
-        "historical-fiction",
-        "fiction",
-        "romance",
+        "high-fantasy",
+        "magic",
         "audiobook",
-        "historical",
-        "christian-fiction",
-        "christian"
+        "adult"
       ],
-      "rating": 4.05,
-      "ratings": 40926,
-      "reviews": 5670
+      "rating": 4.41,
+      "ratings": 85181,
+      "reviews": 4704
     },
     {
-      "title": "The Summer House",
-      "url": "https://www.goodreads.com/book/show/52588702-the-summer-house",
-      "id": "73673841",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1579614036i/52588702.jpg",
+      "title": "Girl, Forgotten",
+      "url": "https://www.goodreads.com/book/show/59445976-girl-forgotten",
+      "id": "93498159",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1653943157i/59445976.jpg",
       "authors": [
-        "James Patterson"
+        "Karin Slaughter"
       ],
       "genres": [
-        "mystery",
-        "fiction",
         "thriller",
+        "mystery",
+        "audiobook",
+        "fiction",
         "mystery-thriller",
         "crime",
-        "audiobook",
         "suspense"
       ],
-      "rating": 4.23,
-      "ratings": 40924,
-      "reviews": 1967
+      "rating": 4.03,
+      "ratings": 85112,
+      "reviews": 5922
     },
     {
-      "title": "Battle Ground",
-      "url": "https://www.goodreads.com/book/show/23106013-battle-ground",
-      "id": "42654036",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1587778549i/23106013.jpg",
+      "title": "The Ink Black Heart",
+      "url": "https://www.goodreads.com/book/show/60144955-the-ink-black-heart",
+      "id": "94115574",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1658242219i/60144955.jpg",
+      "authors": [
+        "Robert Galbraith"
+      ],
+      "genres": [
+        "mystery",
+        "fiction",
+        "crime",
+        "audiobook",
+        "thriller",
+        "mystery-thriller",
+        "contemporary"
+      ],
+      "rating": 4.12,
+      "ratings": 84917,
+      "reviews": 8561
+    },
+    {
+      "title": "Skin Game",
+      "url": "https://www.goodreads.com/book/show/19486421-skin-game",
+      "id": "23811929",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1654573059i/19486421.jpg",
       "authors": [
         "Jim Butcher"
       ],
@@ -474,1631 +915,140 @@
         "fantasy",
         "urban-fantasy",
         "fiction",
+        "mystery",
         "paranormal",
         "magic",
-        "audiobook",
-        "mystery"
-      ],
-      "rating": 4.42,
-      "ratings": 40826,
-      "reviews": 3972
-    },
-    {
-      "title": "Dear Wife",
-      "url": "https://www.goodreads.com/book/show/41587116-dear-wife",
-      "id": "66588849",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1548075328i/41587116.jpg",
-      "authors": [
-        "Kimberly Belle"
-      ],
-      "genres": [
-        "thriller",
-        "mystery",
-        "fiction",
-        "mystery-thriller",
-        "suspense",
-        "audiobook",
-        "adult"
-      ],
-      "rating": 4.01,
-      "ratings": 40686,
-      "reviews": 4490
-    },
-    {
-      "title": "The Indigo Girl: A Novel",
-      "url": "https://www.goodreads.com/book/show/34412073-the-indigo-girl",
-      "id": "55515604",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1493814273i/34412073.jpg",
-      "authors": [
-        "Natasha Boyd"
-      ],
-      "genres": [
-        "historical-fiction",
-        "fiction",
-        "historical",
-        "audiobook",
-        "romance",
-        "adult",
-        "southern"
-      ],
-      "rating": 4.21,
-      "ratings": 40683,
-      "reviews": 4298
-    },
-    {
-      "title": "The Cold Dish",
-      "url": "https://www.goodreads.com/book/show/109901.The_Cold_Dish",
-      "id": "105919",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1398028367i/109901.jpg",
-      "authors": [
-        "Craig Johnson"
-      ],
-      "genres": [
-        "mystery",
-        "fiction",
-        "westerns",
-        "crime",
-        "mystery-thriller",
-        "audiobook",
-        "thriller"
-      ],
-      "rating": 4.12,
-      "ratings": 40683,
-      "reviews": 4417
-    },
-    {
-      "title": "When All Is Said",
-      "url": "https://www.goodreads.com/book/show/39863464-when-all-is-said",
-      "id": "61659678",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1542078980i/39863464.jpg",
-      "authors": [
-        "Anne  Griffin"
-      ],
-      "genres": [
-        "fiction",
-        "contemporary",
-        "ireland",
-        "literary-fiction",
-        "irish-literature",
-        "audiobook",
-        "book-club"
-      ],
-      "rating": 4.02,
-      "ratings": 40671,
-      "reviews": 4924
-    },
-    {
-      "title": "Close to Home",
-      "url": "https://www.goodreads.com/book/show/35458732-close-to-home",
-      "id": "52827908",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1518317876i/35458732.jpg",
-      "authors": [
-        "Cara Hunter"
-      ],
-      "genres": [
-        "mystery",
-        "crime",
-        "thriller",
-        "fiction",
-        "mystery-thriller",
-        "suspense",
         "audiobook"
       ],
-      "rating": 4.02,
-      "ratings": 40561,
-      "reviews": 3696
+      "rating": 4.56,
+      "ratings": 84883,
+      "reviews": 5308
     },
     {
-      "title": "Marrying Winterborne",
-      "url": "https://www.goodreads.com/book/show/26242354-marrying-winterborne",
-      "id": "46235584",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1446189058i/26242354.jpg",
+      "title": "Between Sisters",
+      "url": "https://www.goodreads.com/book/show/217432.Between_Sisters",
+      "id": "969953",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388240280i/217432.jpg",
       "authors": [
-        "Lisa Kleypas"
+        "Kristin Hannah"
       ],
       "genres": [
-        "historical-romance",
+        "fiction",
         "romance",
-        "historical",
-        "historical-fiction",
-        "fiction",
-        "adult",
-        "audiobook"
-      ],
-      "rating": 4.12,
-      "ratings": 40439,
-      "reviews": 4013
-    },
-    {
-      "title": "You Should See Me in a Crown",
-      "url": "https://www.goodreads.com/book/show/50160619-you-should-see-me-in-a-crown",
-      "id": "69288604",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1568912283l/50160619.jpg",
-      "authors": [
-        "Leah  Johnson"
-      ],
-      "genres": [
-        "young-adult",
-        "lgbt",
+        "chick-lit",
         "contemporary",
-        "romance",
-        "audiobook",
-        "fiction",
-        "queer"
-      ],
-      "rating": 4.1,
-      "ratings": 40371,
-      "reviews": 7993
-    },
-    {
-      "title": "The Lager Queen of Minnesota",
-      "url": "https://www.goodreads.com/book/show/42203363-the-lager-queen-of-minnesota",
-      "id": "65789907",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1544545367i/42203363.jpg",
-      "authors": [
-        "J. Ryan Stradal"
-      ],
-      "genres": [
-        "fiction",
-        "audiobook",
-        "contemporary",
-        "food",
         "family",
-        "adult-fiction",
-        "adult"
-      ],
-      "rating": 4.01,
-      "ratings": 40213,
-      "reviews": 5975
-    },
-    {
-      "title": "Raising Steam",
-      "url": "https://www.goodreads.com/book/show/11275323-raising-steam",
-      "id": "16202400",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1582860489i/11275323.jpg",
-      "authors": [
-        "Terry Pratchett"
-      ],
-      "genres": [
-        "fantasy",
-        "fiction",
-        "humor",
-        "comedy",
         "audiobook",
-        "science-fiction-fantasy",
-        "steampunk"
+        "womens-fiction"
       ],
-      "rating": 4.01,
-      "ratings": 40165,
-      "reviews": 3018
+      "rating": 4.05,
+      "ratings": 84868,
+      "reviews": 4523
     },
     {
-      "title": "14th Deadly Sin",
-      "url": "https://www.goodreads.com/book/show/23346918-14th-deadly-sin",
-      "id": "42742312",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1425682789i/23346918.jpg",
+      "title": "Bury Your Dead",
+      "url": "https://www.goodreads.com/book/show/7945049-bury-your-dead",
+      "id": "11453665",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1439067695i/7945049.jpg",
       "authors": [
-        "James Patterson"
+        "Louise Penny"
       ],
       "genres": [
         "mystery",
         "fiction",
-        "thriller",
-        "crime",
         "audiobook",
-        "suspense",
-        "mystery-thriller"
-      ],
-      "rating": 4.09,
-      "ratings": 40117,
-      "reviews": 2295
-    },
-    {
-      "title": "New York",
-      "url": "https://www.goodreads.com/book/show/8258519-new-york",
-      "id": "6232309",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320424062i/8258519.jpg",
-      "authors": [
-        "Edward Rutherfurd"
-      ],
-      "genres": [
-        "historical-fiction",
-        "fiction",
-        "historical",
-        "new-york",
-        "american-history",
-        "audiobook",
-        "novels"
-      ],
-      "rating": 4.17,
-      "ratings": 40109,
-      "reviews": 3568
-    },
-    {
-      "title": "Will My Cat Eat My Eyeballs? And other Questions about Dead Bodies",
-      "url": "https://www.goodreads.com/book/show/52672113-will-my-cat-eat-my-eyeballs-and-other-questions-about-dead-bodies",
-      "id": "68120089",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1593186716i/52672113.jpg",
-      "authors": [
-        "Caitlin Doughty"
-      ],
-      "genres": [
-        "non-fiction",
-        "science",
-        "humor",
-        "death",
-        "audiobook",
-        "adult",
-        "history"
-      ],
-      "rating": 4.13,
-      "ratings": 40089,
-      "reviews": 6021
-    },
-    {
-      "title": "The Last Days of Night",
-      "url": "https://www.goodreads.com/book/show/28363972-the-last-days-of-night",
-      "id": "48435714",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1470731930i/28363972.jpg",
-      "authors": [
-        "Graham Moore"
-      ],
-      "genres": [
-        "historical-fiction",
-        "fiction",
-        "historical",
-        "mystery",
-        "audiobook",
-        "new-york",
-        "adult-fiction"
-      ],
-      "rating": 4.15,
-      "ratings": 40078,
-      "reviews": 4839
-    },
-    {
-      "title": "Mercy",
-      "url": "https://www.goodreads.com/book/show/57892302-mercy",
-      "id": "89346378",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1619707701i/57892302.jpg",
-      "authors": [
-        "David Baldacci"
-      ],
-      "genres": [
-        "fiction",
-        "thriller",
-        "mystery",
-        "crime",
-        "suspense",
-        "audiobook",
-        "mystery-thriller"
-      ],
-      "rating": 4.35,
-      "ratings": 40028,
-      "reviews": 2190
-    },
-    {
-      "title": "A Mother's Reckoning: Living in the Aftermath of Tragedy",
-      "url": "https://www.goodreads.com/book/show/25937671-a-mother-s-reckoning",
-      "id": "45835034",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1453261078i/25937671.jpg",
-      "authors": [
-        "Sue Klebold"
-      ],
-      "genres": [
-        "non-fiction",
-        "memoir",
-        "true-crime",
-        "biography",
-        "audiobook",
-        "crime",
-        "biography-memoir"
-      ],
-      "rating": 4.13,
-      "ratings": 39937,
-      "reviews": 5410
-    },
-    {
-      "title": "All the Sinners Bleed",
-      "url": "https://www.goodreads.com/book/show/61884832-all-the-sinners-bleed",
-      "id": "97563754",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1663544598i/61884832.jpg",
-      "authors": [
-        "S.A. Cosby"
-      ],
-      "genres": [
-        "mystery",
-        "fiction",
-        "thriller",
-        "mystery-thriller",
-        "crime",
-        "audiobook",
-        "suspense"
-      ],
-      "rating": 4.28,
-      "ratings": 39769,
-      "reviews": 5349
-    },
-    {
-      "title": "The Gray Man",
-      "url": "https://www.goodreads.com/book/show/6547865-the-gray-man",
-      "id": "6740331",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1335649192i/6547865.jpg",
-      "authors": [
-        "Mark Greaney"
-      ],
-      "genres": [
-        "thriller",
-        "fiction",
-        "action",
-        "espionage",
-        "mystery",
-        "mystery-thriller",
-        "audiobook"
-      ],
-      "rating": 4.15,
-      "ratings": 39756,
-      "reviews": 2706
-    },
-    {
-      "title": "The Emperor's Blades",
-      "url": "https://www.goodreads.com/book/show/17910124-the-emperor-s-blades",
-      "id": "25095579",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1369246817i/17910124.jpg",
-      "authors": [
-        "Brian Staveley"
-      ],
-      "genres": [
-        "fantasy",
-        "epic-fantasy",
-        "fiction",
-        "high-fantasy",
-        "adult",
-        "audiobook",
-        "adventure"
-      ],
-      "rating": 4.09,
-      "ratings": 39726,
-      "reviews": 2860
-    },
-    {
-      "title": "One for the Blackbird, One for the Crow",
-      "url": "https://www.goodreads.com/book/show/41692854-one-for-the-blackbird-one-for-the-crow",
-      "id": "65033149",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1555132621i/41692854.jpg",
-      "authors": [
-        "Olivia Hawker"
-      ],
-      "genres": [
-        "historical-fiction",
-        "fiction",
-        "historical",
-        "westerns",
-        "romance",
-        "literary-fiction",
-        "audiobook"
-      ],
-      "rating": 4.2,
-      "ratings": 39602,
-      "reviews": 3513
-    },
-    {
-      "title": "Under Currents",
-      "url": "https://www.goodreads.com/book/show/42289976-under-currents",
-      "id": "63286307",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1539784152i/42289976.jpg",
-      "authors": [
-        "Nora Roberts"
-      ],
-      "genres": [
-        "romance",
-        "romantic-suspense",
-        "fiction",
-        "mystery",
-        "contemporary",
-        "suspense",
-        "audiobook"
-      ],
-      "rating": 4.13,
-      "ratings": 39554,
-      "reviews": 3676
-    },
-    {
-      "title": "The Highland Fling",
-      "url": "https://www.goodreads.com/book/show/56236716-the-highland-fling",
-      "id": "87022989",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1609362317i/56236716.jpg",
-      "authors": [
-        "Meghan Quinn"
-      ],
-      "genres": [
-        "romance",
-        "contemporary-romance",
-        "contemporary",
-        "audiobook",
-        "fiction",
-        "adult",
-        "chick-lit"
-      ],
-      "rating": 4.01,
-      "ratings": 39549,
-      "reviews": 3446
-    },
-    {
-      "title": "A Night Divided",
-      "url": "https://www.goodreads.com/book/show/40944461-a-night-divided",
-      "id": "41342451",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1532530105i/40944461.jpg",
-      "authors": [
-        "Jennifer A. Nielsen"
-      ],
-      "genres": [
-        "historical-fiction",
-        "middle-grade",
-        "young-adult",
-        "historical",
-        "fiction",
-        "audiobook",
-        "war"
-      ],
-      "rating": 4.34,
-      "ratings": 39540,
-      "reviews": 4729
-    },
-    {
-      "title": "Children of Ruin",
-      "url": "https://www.goodreads.com/book/show/40376072-children-of-ruin",
-      "id": "62663185",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1693752895i/40376072.jpg",
-      "authors": [
-        "Adrian Tchaikovsky"
-      ],
-      "genres": [
-        "science-fiction",
-        "fiction",
-        "audiobook",
-        "space-opera",
-        "fantasy",
-        "space",
-        "aliens"
-      ],
-      "rating": 4.06,
-      "ratings": 39517,
-      "reviews": 3475
-    },
-    {
-      "title": "She Said: Breaking the Sexual Harassment Story That Helped Ignite a Movement",
-      "url": "https://www.goodreads.com/book/show/44767249-she-said",
-      "id": "69397793",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1573830483i/44767249.jpg",
-      "authors": [
-        "Jodi Kantor"
-      ],
-      "genres": [
-        "non-fiction",
-        "feminism",
-        "audiobook",
-        "true-crime",
-        "politics",
-        "journalism",
-        "history"
-      ],
-      "rating": 4.35,
-      "ratings": 39514,
-      "reviews": 4042
-    },
-    {
-      "title": "From Here to Eternity: Traveling the World to Find the Good Death",
-      "url": "https://www.goodreads.com/book/show/38212121-from-here-to-eternity",
-      "id": "55079092",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1533310414i/38212121.jpg",
-      "authors": [
-        "Caitlin Doughty"
-      ],
-      "genres": [
-        "non-fiction",
-        "death",
-        "science",
-        "history",
-        "travel",
-        "audiobook",
-        "anthropology"
-      ],
-      "rating": 4.3,
-      "ratings": 39464,
-      "reviews": 4711
-    },
-    {
-      "title": "No Second Chance",
-      "url": "https://www.goodreads.com/book/show/43927.No_Second_Chance",
-      "id": "14596877",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1309281936i/43927.jpg",
-      "authors": [
-        "Harlan Coben"
-      ],
-      "genres": [
-        "mystery",
-        "thriller",
-        "fiction",
-        "suspense",
+        "canada",
         "crime",
         "mystery-thriller",
-        "audiobook"
-      ],
-      "rating": 4.09,
-      "ratings": 39456,
-      "reviews": 2248
-    },
-    {
-      "title": "The Other Miss Bridgerton",
-      "url": "https://www.goodreads.com/book/show/36137912-the-other-miss-bridgerton",
-      "id": "56666009",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1515705362i/36137912.jpg",
-      "authors": [
-        "Julia Quinn"
-      ],
-      "genres": [
-        "romance",
-        "historical-romance",
-        "historical",
-        "historical-fiction",
-        "fiction",
-        "regency",
-        "audiobook"
-      ],
-      "rating": 4.04,
-      "ratings": 39429,
-      "reviews": 2935
-    },
-    {
-      "title": "The Burning Girls",
-      "url": "https://www.goodreads.com/book/show/53387949-the-burning-girls",
-      "id": "76013027",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1608637998i/53387949.jpg",
-      "authors": [
-        "C.J. Tudor"
-      ],
-      "genres": [
-        "horror",
-        "thriller",
-        "mystery",
-        "fiction",
-        "mystery-thriller",
-        "audiobook",
-        "crime"
-      ],
-      "rating": 4.02,
-      "ratings": 39406,
-      "reviews": 6075
-    },
-    {
-      "title": "Catch Me",
-      "url": "https://www.goodreads.com/book/show/11720382-catch-me",
-      "id": "16668559",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1325628802i/11720382.jpg",
-      "authors": [
-        "Lisa Gardner"
-      ],
-      "genres": [
-        "mystery",
-        "thriller",
-        "fiction",
-        "suspense",
-        "mystery-thriller",
-        "crime",
-        "audiobook"
-      ],
-      "rating": 4.2,
-      "ratings": 39354,
-      "reviews": 2492
-    },
-    {
-      "title": "Dopesick: Dealers, Doctors, and the Drug Company that Addicted America",
-      "url": "https://www.goodreads.com/book/show/37486540-dopesick",
-      "id": "59097428",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1533010748i/37486540.jpg",
-      "authors": [
-        "Beth Macy"
-      ],
-      "genres": [
-        "non-fiction",
-        "history",
-        "audiobook",
-        "politics",
-        "science",
-        "health",
-        "medicine"
-      ],
-      "rating": 4.08,
-      "ratings": 39320,
-      "reviews": 4506
-    },
-    {
-      "title": "Silent Scream",
-      "url": "https://www.goodreads.com/book/show/24483265-silent-scream",
-      "id": "44077500",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1582272656i/24483265.jpg",
-      "authors": [
-        "Angela Marsons"
-      ],
-      "genres": [
-        "mystery",
-        "thriller",
-        "crime",
-        "fiction",
-        "mystery-thriller",
-        "audiobook",
         "detective"
       ],
-      "rating": 4.06,
-      "ratings": 39258,
-      "reviews": 3065
+      "rating": 4.36,
+      "ratings": 84253,
+      "reviews": 7331
     },
     {
-      "title": "The War I Finally Won",
-      "url": "https://www.goodreads.com/book/show/33865643-the-war-i-finally-won",
-      "id": "54819046",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1498909398i/33865643.jpg",
+      "title": "Between Two Kingdoms: A Memoir of a Life Interrupted",
+      "url": "https://www.goodreads.com/book/show/50743767-between-two-kingdoms",
+      "id": "62275027",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1579614170i/50743767.jpg",
       "authors": [
-        "Kimberly Brubaker Bradley"
-      ],
-      "genres": [
-        "historical-fiction",
-        "middle-grade",
-        "fiction",
-        "young-adult",
-        "historical",
-        "world-war-ii",
-        "audiobook"
-      ],
-      "rating": 4.48,
-      "ratings": 39244,
-      "reviews": 4419
-    },
-    {
-      "title": "The Happiness Hypothesis: Finding Modern Truth in Ancient Wisdom",
-      "url": "https://www.goodreads.com/book/show/96884.The_Happiness_Hypothesis",
-      "id": "3587",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348779688i/96884.jpg",
-      "authors": [
-        "Jonathan Haidt"
-      ],
-      "genres": [
-        "psychology",
-        "non-fiction",
-        "philosophy",
-        "self-help",
-        "science",
-        "personal-development",
-        "audiobook"
-      ],
-      "rating": 4.1,
-      "ratings": 39227,
-      "reviews": 2471
-    },
-    {
-      "title": "Happy-Go-Lucky",
-      "url": "https://www.goodreads.com/book/show/58989873-happy-go-lucky",
-      "id": "92997332",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1642710101i/58989873.jpg",
-      "authors": [
-        "David Sedaris"
-      ],
-      "genres": [
-        "humor",
-        "non-fiction",
-        "memoir",
-        "essays",
-        "audiobook",
-        "short-stories",
-        "comedy"
-      ],
-      "rating": 4.19,
-      "ratings": 39204,
-      "reviews": 3891
-    },
-    {
-      "title": "The Arrangement",
-      "url": "https://www.goodreads.com/book/show/56484743-the-arrangement",
-      "id": "88133200",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1609368217i/56484743.jpg",
-      "authors": [
-        "Kiersten Modglin"
-      ],
-      "genres": [
-        "thriller",
-        "audiobook",
-        "mystery-thriller",
-        "mystery",
-        "fiction",
-        "suspense",
-        "psychological-thriller"
-      ],
-      "rating": 4.07,
-      "ratings": 39173,
-      "reviews": 4964
-    },
-    {
-      "title": "Jasper Vale",
-      "url": "https://www.goodreads.com/book/show/61431600-jasper-vale",
-      "id": "96944776",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1657652479i/61431600.jpg",
-      "authors": [
-        "Devney Perry"
-      ],
-      "genres": [
-        "romance",
-        "contemporary-romance",
-        "contemporary",
-        "adult",
-        "audiobook",
-        "romantic-suspense",
-        "new-adult"
-      ],
-      "rating": 4.15,
-      "ratings": 39170,
-      "reviews": 4262
-    },
-    {
-      "title": "Heavy",
-      "url": "https://www.goodreads.com/book/show/63026545-heavy",
-      "id": "49695308",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1666034773i/63026545.jpg",
-      "authors": [
-        "Kiese Laymon"
+        "Suleika Jaouad"
       ],
       "genres": [
         "memoir",
         "non-fiction",
-        "race",
         "audiobook",
         "biography",
         "biography-memoir",
-        "anti-racist"
+        "travel",
+        "health"
       ],
-      "rating": 4.48,
-      "ratings": 39153,
-      "reviews": 5126
+      "rating": 4.43,
+      "ratings": 84226,
+      "reviews": 7813
     },
     {
-      "title": "Assassin's Fate",
-      "url": "https://www.goodreads.com/book/show/30688013-assassin-s-fate",
-      "id": "44600531",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1492869860i/30688013.jpg",
+      "title": "The Storm Sister",
+      "url": "https://www.goodreads.com/book/show/25905342-the-storm-sister",
+      "id": "45613628",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1441074023i/25905342.jpg",
       "authors": [
-        "Robin Hobb"
-      ],
-      "genres": [
-        "fantasy",
-        "fiction",
-        "epic-fantasy",
-        "high-fantasy",
-        "dragons",
-        "adventure",
-        "audiobook"
-      ],
-      "rating": 4.65,
-      "ratings": 39117,
-      "reviews": 3554
-    },
-    {
-      "title": "A Killer's Wife",
-      "url": "https://www.goodreads.com/book/show/46224901-a-killer-s-wife",
-      "id": "70195821",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1578494269i/46224901.jpg",
-      "authors": [
-        "Victor Methos"
-      ],
-      "genres": [
-        "thriller",
-        "mystery",
-        "fiction",
-        "audiobook",
-        "mystery-thriller",
-        "crime",
-        "suspense"
-      ],
-      "rating": 4.32,
-      "ratings": 39107,
-      "reviews": 2462
-    },
-    {
-      "title": "Be Careful What You Wish For",
-      "url": "https://www.goodreads.com/book/show/18404285-be-careful-what-you-wish-for",
-      "id": "25746450",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1392576182i/18404285.jpg",
-      "authors": [
-        "Jeffrey Archer"
-      ],
-      "genres": [
-        "fiction",
-        "historical-fiction",
-        "mystery",
-        "audiobook",
-        "historical",
-        "thriller",
-        "drama"
-      ],
-      "rating": 4.12,
-      "ratings": 39097,
-      "reviews": 2301
-    },
-    {
-      "title": "The Skull Throne",
-      "url": "https://www.goodreads.com/book/show/13630171-the-skull-throne",
-      "id": "19237752",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1408637760i/13630171.jpg",
-      "authors": [
-        "Peter V. Brett"
-      ],
-      "genres": [
-        "fantasy",
-        "fiction",
-        "epic-fantasy",
-        "high-fantasy",
-        "magic",
-        "audiobook",
-        "dark-fantasy"
-      ],
-      "rating": 4.13,
-      "ratings": 39076,
-      "reviews": 1793
-    },
-    {
-      "title": "A Briefer History of Time",
-      "url": "https://www.goodreads.com/book/show/2094.A_Briefer_History_of_Time",
-      "id": "16552333",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386924782i/2094.jpg",
-      "authors": [
-        "Stephen Hawking"
-      ],
-      "genres": [
-        "science",
-        "non-fiction",
-        "physics",
-        "history",
-        "astronomy",
-        "popular-science",
-        "audiobook"
-      ],
-      "rating": 4.26,
-      "ratings": 39073,
-      "reviews": 1614
-    },
-    {
-      "title": "A Prisoner of Birth",
-      "url": "https://www.goodreads.com/book/show/1611988.A_Prisoner_of_Birth",
-      "id": "3062843",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442339900i/1611988.jpg",
-      "authors": [
-        "Jeffrey Archer"
-      ],
-      "genres": [
-        "fiction",
-        "thriller",
-        "mystery",
-        "crime",
-        "suspense",
-        "mystery-thriller",
-        "audiobook"
-      ],
-      "rating": 4.19,
-      "ratings": 38988,
-      "reviews": 2743
-    },
-    {
-      "title": "Minor Feelings: An Asian American Reckoning",
-      "url": "https://www.goodreads.com/book/show/52845775-minor-feelings",
-      "id": "72657866",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1580788273l/52845775.jpg",
-      "authors": [
-        "Cathy Park Hong"
-      ],
-      "genres": [
-        "non-fiction",
-        "memoir",
-        "essays",
-        "race",
-        "audiobook",
-        "social-justice",
-        "anti-racist"
-      ],
-      "rating": 4.22,
-      "ratings": 38980,
-      "reviews": 4681
-    },
-    {
-      "title": "American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer",
-      "url": "https://www.goodreads.com/book/show/80571.American_Prometheus",
-      "id": "1932215",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1686079247i/80571.jpg",
-      "authors": [
-        "Kai Bird"
-      ],
-      "genres": [
-        "biography",
-        "history",
-        "non-fiction",
-        "science",
-        "politics",
-        "biography-memoir",
-        "audiobook"
-      ],
-      "rating": 4.29,
-      "ratings": 38976,
-      "reviews": 3620
-    },
-    {
-      "title": "Devil in Spring",
-      "url": "https://www.goodreads.com/book/show/30179647-devil-in-spring",
-      "id": "50618062",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1467895208i/30179647.jpg",
-      "authors": [
-        "Lisa Kleypas"
-      ],
-      "genres": [
-        "historical-romance",
-        "romance",
-        "historical",
-        "historical-fiction",
-        "fiction",
-        "adult",
-        "audiobook"
-      ],
-      "rating": 4.09,
-      "ratings": 38935,
-      "reviews": 4118
-    },
-    {
-      "title": "The Good Samaritan",
-      "url": "https://www.goodreads.com/book/show/37422823-the-good-samaritan",
-      "id": "56813938",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1513021394i/37422823.jpg",
-      "authors": [
-        "John Marrs"
-      ],
-      "genres": [
-        "thriller",
-        "fiction",
-        "mystery",
-        "mystery-thriller",
-        "suspense",
-        "audiobook",
-        "crime"
-      ],
-      "rating": 4.08,
-      "ratings": 38935,
-      "reviews": 3924
-    },
-    {
-      "title": "The Girl Beneath the Sea",
-      "url": "https://www.goodreads.com/book/show/48526390-the-girl-beneath-the-sea",
-      "id": "73449316",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1571634473i/48526390.jpg",
-      "authors": [
-        "Andrew Mayne"
-      ],
-      "genres": [
-        "mystery",
-        "thriller",
-        "fiction",
-        "mystery-thriller",
-        "crime",
-        "audiobook",
-        "suspense"
-      ],
-      "rating": 4.06,
-      "ratings": 38910,
-      "reviews": 2330
-    },
-    {
-      "title": "Novecento. Un monologo",
-      "url": "https://www.goodreads.com/book/show/61266.Novecento_Un_monologo",
-      "id": "59587",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1577055397i/61266.jpg",
-      "authors": [
-        "Alessandro Baricco"
-      ],
-      "genres": [
-        "fiction",
-        "italian-literature",
-        "classics",
-        "plays",
-        "italy",
-        "novels",
-        "audiobook"
-      ],
-      "rating": 4.18,
-      "ratings": 38903,
-      "reviews": 2728
-    },
-    {
-      "title": "The Curse of Chalion",
-      "url": "https://www.goodreads.com/book/show/61886.The_Curse_of_Chalion",
-      "id": "1129349",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1322571773i/61886.jpg",
-      "authors": [
-        "Lois McMaster Bujold"
-      ],
-      "genres": [
-        "fantasy",
-        "fiction",
-        "high-fantasy",
-        "epic-fantasy",
-        "science-fiction-fantasy",
-        "romance",
-        "audiobook"
-      ],
-      "rating": 4.17,
-      "ratings": 38890,
-      "reviews": 2947
-    },
-    {
-      "title": "A Rogue of One's Own",
-      "url": "https://www.goodreads.com/book/show/49202118-a-rogue-of-one-s-own",
-      "id": "73028567",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1578931679i/49202118.jpg",
-      "authors": [
-        "Evie Dunmore"
-      ],
-      "genres": [
-        "romance",
-        "historical-romance",
-        "historical-fiction",
-        "historical",
-        "fiction",
-        "adult",
-        "audiobook"
-      ],
-      "rating": 4.02,
-      "ratings": 38872,
-      "reviews": 4558
-    },
-    {
-      "title": "Half the World",
-      "url": "https://www.goodreads.com/book/show/22055283-half-the-world",
-      "id": "40431126",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1402314017i/22055283.jpg",
-      "authors": [
-        "Joe Abercrombie"
-      ],
-      "genres": [
-        "fantasy",
-        "young-adult",
-        "fiction",
-        "epic-fantasy",
-        "adventure",
-        "high-fantasy",
-        "audiobook"
-      ],
-      "rating": 4.19,
-      "ratings": 38825,
-      "reviews": 2960
-    },
-    {
-      "title": "The Innocent",
-      "url": "https://www.goodreads.com/book/show/43926.The_Innocent",
-      "id": "14597050",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1309197260i/43926.jpg",
-      "authors": [
-        "Harlan Coben"
-      ],
-      "genres": [
-        "mystery",
-        "thriller",
-        "fiction",
-        "crime",
-        "suspense",
-        "mystery-thriller",
-        "audiobook"
-      ],
-      "rating": 4,
-      "ratings": 38768,
-      "reviews": 2241
-    },
-    {
-      "title": "Mating in Captivity: Reconciling the Erotic and the Domestic",
-      "url": "https://www.goodreads.com/book/show/27485.Mating_in_Captivity",
-      "id": "1074496",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1432358684i/27485.jpg",
-      "authors": [
-        "Esther Perel"
-      ],
-      "genres": [
-        "non-fiction",
-        "psychology",
-        "relationships",
-        "self-help",
-        "sexuality",
-        "audiobook",
-        "marriage"
-      ],
-      "rating": 4.18,
-      "ratings": 38695,
-      "reviews": 2940
-    },
-    {
-      "title": "Ahsoka",
-      "url": "https://www.goodreads.com/book/show/29749107-ahsoka",
-      "id": "50105366",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1468595529i/29749107.jpg",
-      "authors": [
-        "E.K. Johnston"
-      ],
-      "genres": [
-        "star-wars",
-        "science-fiction",
-        "fiction",
-        "young-adult",
-        "fantasy",
-        "audiobook",
-        "space-opera"
-      ],
-      "rating": 4.08,
-      "ratings": 38629,
-      "reviews": 4071
-    },
-    {
-      "title": "What My Bones Know: A Memoir of Healing from Complex Trauma",
-      "url": "https://www.goodreads.com/book/show/58214328-what-my-bones-know",
-      "id": "91253723",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1644336652i/58214328.jpg",
-      "authors": [
-        "Stephanie Foo"
-      ],
-      "genres": [
-        "memoir",
-        "non-fiction",
-        "psychology",
-        "mental-health",
-        "audiobook",
-        "self-help",
-        "biography"
-      ],
-      "rating": 4.51,
-      "ratings": 38619,
-      "reviews": 5064
-    },
-    {
-      "title": "A Gambling Man",
-      "url": "https://www.goodreads.com/book/show/54592511-a-gambling-man",
-      "id": "84789102",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1615065631i/54592511.jpg",
-      "authors": [
-        "David Baldacci"
-      ],
-      "genres": [
-        "fiction",
-        "mystery",
-        "thriller",
-        "historical-fiction",
-        "crime",
-        "audiobook",
-        "suspense"
-      ],
-      "rating": 4.14,
-      "ratings": 38616,
-      "reviews": 2043
-    },
-    {
-      "title": "The Change",
-      "url": "https://www.goodreads.com/book/show/59030015-the-change",
-      "id": "89569972",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1652205934i/59030015.jpg",
-      "authors": [
-        "Kirsten Miller"
-      ],
-      "genres": [
-        "fantasy",
-        "fiction",
-        "mystery",
-        "magical-realism",
-        "thriller",
-        "audiobook",
-        "mystery-thriller"
-      ],
-      "rating": 4.1,
-      "ratings": 38591,
-      "reviews": 5795
-    },
-    {
-      "title": "Out on a Limb",
-      "url": "https://www.goodreads.com/book/show/124950295-out-on-a-limb",
-      "id": "146395646",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1682792551i/124950295.jpg",
-      "authors": [
-        "Hannah Bonam-Young"
-      ],
-      "genres": [
-        "romance",
-        "contemporary-romance",
-        "contemporary",
-        "adult",
-        "disability",
-        "fiction",
-        "audiobook"
-      ],
-      "rating": 4.4,
-      "ratings": 38567,
-      "reviews": 6973
-    },
-    {
-      "title": "16th Seduction",
-      "url": "https://www.goodreads.com/book/show/30079418-16th-seduction",
-      "id": "50499424",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1480354557i/30079418.jpg",
-      "authors": [
-        "James Patterson"
-      ],
-      "genres": [
-        "mystery",
-        "fiction",
-        "crime",
-        "thriller",
-        "audiobook",
-        "mystery-thriller",
-        "suspense"
-      ],
-      "rating": 4.11,
-      "ratings": 38563,
-      "reviews": 1994
-    },
-    {
-      "title": "Yumi and the Nightmare Painter",
-      "url": "https://www.goodreads.com/book/show/60531416-yumi-and-the-nightmare-painter",
-      "id": "95396325",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1689135481i/60531416.jpg",
-      "authors": [
-        "Brandon Sanderson"
-      ],
-      "genres": [
-        "fantasy",
-        "romance",
-        "fiction",
-        "adult",
-        "high-fantasy",
-        "science-fiction",
-        "audiobook"
-      ],
-      "rating": 4.5,
-      "ratings": 38559,
-      "reviews": 5607
-    },
-    {
-      "title": "Strange Sally Diamond",
-      "url": "https://www.goodreads.com/book/show/62322008-strange-sally-diamond",
-      "id": "98126214",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1677749819i/62322008.jpg",
-      "authors": [
-        "Liz Nugent"
-      ],
-      "genres": [
-        "mystery",
-        "fiction",
-        "thriller",
-        "mystery-thriller",
-        "audiobook",
-        "contemporary",
-        "crime"
-      ],
-      "rating": 4.23,
-      "ratings": 38548,
-      "reviews": 5300
-    },
-    {
-      "title": "The Happiness Advantage: The Seven Principles of Positive Psychology That Fuel Success and Performance at Work",
-      "url": "https://www.goodreads.com/book/show/9484114-the-happiness-advantage",
-      "id": "14369512",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1381289860i/9484114.jpg",
-      "authors": [
-        "Shawn Achor"
-      ],
-      "genres": [
-        "non-fiction",
-        "psychology",
-        "self-help",
-        "business",
-        "personal-development",
-        "leadership",
-        "audiobook"
-      ],
-      "rating": 4.14,
-      "ratings": 38486,
-      "reviews": 2900
-    },
-    {
-      "title": "Replay",
-      "url": "https://www.goodreads.com/book/show/341735.Replay",
-      "id": "1804797",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1441156728i/341735.jpg",
-      "authors": [
-        "Ken Grimwood"
-      ],
-      "genres": [
-        "science-fiction",
-        "fiction",
-        "time-travel",
-        "fantasy",
-        "audiobook",
-        "science-fiction-fantasy",
-        "romance"
-      ],
-      "rating": 4.15,
-      "ratings": 38378,
-      "reviews": 4234
-    },
-    {
-      "title": "The Mirror & the Light",
-      "url": "https://www.goodreads.com/book/show/54860229-the-mirror-the-light",
-      "id": "18853327",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1612201530i/54860229.jpg",
-      "authors": [
-        "Hilary Mantel"
+        "Lucinda Riley"
       ],
       "genres": [
         "historical-fiction",
         "fiction",
-        "historical",
-        "literary-fiction",
-        "british-literature",
-        "audiobook",
-        "literature"
-      ],
-      "rating": 4.39,
-      "ratings": 38373,
-      "reviews": 5224
-    },
-    {
-      "title": "Silk Roads",
-      "url": "https://www.goodreads.com/book/show/25812847-silk-roads",
-      "id": "45425898",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1472636067i/25812847.jpg",
-      "authors": [
-        "Peter Frankopan"
-      ],
-      "genres": [
-        "history",
-        "non-fiction",
-        "politics",
-        "world-history",
-        "historical",
-        "audiobook",
-        "china"
-      ],
-      "rating": 4.17,
-      "ratings": 38362,
-      "reviews": 3388
-    },
-    {
-      "title": "15th Affair",
-      "url": "https://www.goodreads.com/book/show/25613617-15th-affair",
-      "id": "45424865",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1444918177i/25613617.jpg",
-      "authors": [
-        "James Patterson"
-      ],
-      "genres": [
-        "mystery",
-        "fiction",
-        "thriller",
-        "crime",
-        "audiobook",
-        "mystery-thriller",
-        "suspense"
-      ],
-      "rating": 4.12,
-      "ratings": 38093,
-      "reviews": 2327
-    },
-    {
-      "title": "Speaking from Among the Bones",
-      "url": "https://www.goodreads.com/book/show/13642963-speaking-from-among-the-bones",
-      "id": "8586468",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1344371922i/13642963.jpg",
-      "authors": [
-        "Alan Bradley"
-      ],
-      "genres": [
-        "mystery",
-        "fiction",
-        "historical-fiction",
-        "audiobook",
-        "young-adult",
-        "historical",
-        "crime"
-      ],
-      "rating": 4.16,
-      "ratings": 37870,
-      "reviews": 3904
-    },
-    {
-      "title": "The Keeper of Stories",
-      "url": "https://www.goodreads.com/book/show/59904786-the-keeper-of-stories",
-      "id": "103794185",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1673889102i/59904786.jpg",
-      "authors": [
-        "Sally Page"
-      ],
-      "genres": [
-        "fiction",
-        "contemporary",
         "romance",
         "audiobook",
-        "mystery",
-        "drama",
-        "adult"
-      ],
-      "rating": 4.12,
-      "ratings": 37866,
-      "reviews": 2225
-    },
-    {
-      "title": "Blacktop Wasteland",
-      "url": "https://www.goodreads.com/book/show/51182571-blacktop-wasteland",
-      "id": "72729856",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1573874784i/51182571.jpg",
-      "authors": [
-        "S.A. Cosby"
-      ],
-      "genres": [
-        "fiction",
-        "thriller",
-        "mystery",
-        "crime",
-        "mystery-thriller",
-        "audiobook",
+        "historical",
+        "roman",
         "contemporary"
       ],
-      "rating": 4.08,
-      "ratings": 37846,
-      "reviews": 5435
+      "rating": 4.24,
+      "ratings": 83864,
+      "reviews": 4607
     },
     {
-      "title": "Beyond Reach",
-      "url": "https://www.goodreads.com/book/show/21720.Beyond_Reach",
-      "id": "1952659",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388342699i/21720.jpg",
+      "title": "The Shoemaker's Wife",
+      "url": "https://www.goodreads.com/book/show/13127599-the-shoemaker-s-wife",
+      "id": "15184744",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1329256279i/13127599.jpg",
       "authors": [
-        "Karin Slaughter"
-      ],
-      "genres": [
-        "thriller",
-        "mystery",
-        "crime",
-        "fiction",
-        "suspense",
-        "mystery-thriller",
-        "audiobook"
-      ],
-      "rating": 4.2,
-      "ratings": 37809,
-      "reviews": 2319
-    },
-    {
-      "title": "Hunted",
-      "url": "https://www.goodreads.com/book/show/16071748-hunted",
-      "id": "16669369",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1660271606i/16071748.jpg",
-      "authors": [
-        "Kevin Hearne"
-      ],
-      "genres": [
-        "fantasy",
-        "urban-fantasy",
-        "fiction",
-        "magic",
-        "paranormal",
-        "mythology",
-        "audiobook"
-      ],
-      "rating": 4.29,
-      "ratings": 37760,
-      "reviews": 1540
-    },
-    {
-      "title": "The Crown Tower",
-      "url": "https://www.goodreads.com/book/show/16043804-the-crown-tower",
-      "id": "21821161",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1654573996i/16043804.jpg",
-      "authors": [
-        "Michael J. Sullivan"
-      ],
-      "genres": [
-        "fantasy",
-        "fiction",
-        "epic-fantasy",
-        "high-fantasy",
-        "adventure",
-        "audiobook",
-        "adult"
-      ],
-      "rating": 4.33,
-      "ratings": 37756,
-      "reviews": 2193
-    },
-    {
-      "title": "The Secret Book of Flora Lea",
-      "url": "https://www.goodreads.com/book/show/61964751-the-secret-book-of-flora-lea",
-      "id": "97682401",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1680730634i/61964751.jpg",
-      "authors": [
-        "Patti Callahan Henry"
+        "Adriana Trigiani"
       ],
       "genres": [
         "historical-fiction",
         "fiction",
-        "mystery",
-        "historical",
-        "audiobook",
-        "world-war-ii",
-        "books-about-books"
-      ],
-      "rating": 4.09,
-      "ratings": 37705,
-      "reviews": 4908
-    },
-    {
-      "title": "Eternal",
-      "url": "https://www.goodreads.com/book/show/40204619-eternal",
-      "id": "62410913",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1611244191i/40204619.jpg",
-      "authors": [
-        "Lisa Scottoline"
-      ],
-      "genres": [
-        "historical-fiction",
-        "fiction",
-        "world-war-ii",
+        "romance",
         "historical",
         "italy",
-        "romance",
+        "adult-fiction",
         "audiobook"
       ],
-      "rating": 4.29,
-      "ratings": 37627,
-      "reviews": 4097
+      "rating": 4.01,
+      "ratings": 83841,
+      "reviews": 8890
     },
     {
-      "title": "Glory Over Everything: Beyond The Kitchen House",
-      "url": "https://www.goodreads.com/book/show/25813937-glory-over-everything",
-      "id": "45670647",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1444246918i/25813937.jpg",
+      "title": "The Ghost Brigades",
+      "url": "https://www.goodreads.com/book/show/239399.The_Ghost_Brigades",
+      "id": "18279845",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1403295928i/239399.jpg",
       "authors": [
-        "Kathleen Grissom"
+        "John Scalzi"
       ],
       "genres": [
-        "historical-fiction",
+        "science-fiction",
         "fiction",
-        "historical",
-        "audiobook",
-        "adult",
-        "adult-fiction",
-        "southern"
+        "space-opera",
+        "military-fiction",
+        "science-fiction-fantasy",
+        "war",
+        "audiobook"
       ],
-      "rating": 4.29,
-      "ratings": 37574,
-      "reviews": 3859
-    },
-    {
-      "title": "A Place Called Freedom",
-      "url": "https://www.goodreads.com/book/show/825509.A_Place_Called_Freedom",
-      "id": "995847",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320559980i/825509.jpg",
-      "authors": [
-        "Ken Follett"
-      ],
-      "genres": [
-        "historical-fiction",
-        "fiction",
-        "historical",
-        "thriller",
-        "audiobook",
-        "romance",
-        "scotland"
-      ],
-      "rating": 4.04,
-      "ratings": 37517,
-      "reviews": 1817
+      "rating": 4.11,
+      "ratings": 83794,
+      "reviews": 4016
     }
   ]
 }

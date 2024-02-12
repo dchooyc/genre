@@ -1,52 +1,493 @@
 {
   "books": [
     {
-      "title": "La bambina della sesta luna",
-      "url": "https://www.goodreads.com/book/show/6304022-la-bambina-della-sesta-luna",
-      "id": "6488636",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328712993i/6304022.jpg",
+      "title": "Return to Del",
+      "url": "https://www.goodreads.com/book/show/119491.Return_to_Del",
+      "id": "522697",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347951340i/119491.jpg",
       "authors": [
-        "Moony Witcher"
+        "Emily Rodda"
+      ],
+      "genres": [
+        "fantasy",
+        "fiction",
+        "adventure",
+        "childrens",
+        "young-adult",
+        "middle-grade",
+        "high-fantasy"
+      ],
+      "rating": 4.14,
+      "ratings": 9113,
+      "reviews": 232
+    },
+    {
+      "title": "Almost Home",
+      "url": "https://www.goodreads.com/book/show/13505629-almost-home",
+      "id": "19056027",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1353542350i/13505629.jpg",
+      "authors": [
+        "Joan Bauer"
+      ],
+      "genres": [
+        "realistic-fiction",
+        "middle-grade",
+        "young-adult",
+        "fiction",
+        "contemporary",
+        "dogs",
+        "animals"
+      ],
+      "rating": 4.23,
+      "ratings": 9110,
+      "reviews": 1035
+    },
+    {
+      "title": "Big Nate: What's a Little Noogie Between Friends?",
+      "url": "https://www.goodreads.com/book/show/32282467-big-nate",
+      "id": "52906782",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1474948094i/32282467.jpg",
+      "authors": [
+        "Lincoln Peirce"
+      ],
+      "genres": [
+        "graphic-novels",
+        "comics",
+        "humor",
+        "fiction",
+        "middle-grade",
+        "juvenile",
+        "childrens"
+      ],
+      "rating": 4.57,
+      "ratings": 9105,
+      "reviews": 174
+    },
+    {
+      "title": "The Naughtiest Girl in the School",
+      "url": "https://www.goodreads.com/book/show/337537.The_Naughtiest_Girl_in_the_School",
+      "id": "1071104",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1592032313i/337537.jpg",
+      "authors": [
+        "Enid Blyton"
+      ],
+      "genres": [
+        "childrens",
+        "fiction",
+        "classics",
+        "middle-grade",
+        "school-stories",
+        "school",
+        "boarding-school"
+      ],
+      "rating": 4.08,
+      "ratings": 9100,
+      "reviews": 414
+    },
+    {
+      "title": "Amari and the Great Game",
+      "url": "https://www.goodreads.com/book/show/53023305-amari-and-the-great-game",
+      "id": "73329529",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1624900780i/53023305.jpg",
+      "authors": [
+        "B.B. Alston"
+      ],
+      "genres": [
+        "fantasy",
+        "middle-grade",
+        "fiction",
+        "magic",
+        "young-adult",
+        "mystery",
+        "audiobook"
+      ],
+      "rating": 4.34,
+      "ratings": 9094,
+      "reviews": 1480
+    },
+    {
+      "title": "The Children of Green Knowe",
+      "url": "https://www.goodreads.com/book/show/377889.The_Children_of_Green_Knowe",
+      "id": "859023",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1282757940i/377889.jpg",
+      "authors": [
+        "Lucy M. Boston"
+      ],
+      "genres": [
+        "fantasy",
+        "childrens",
+        "fiction",
+        "middle-grade",
+        "classics",
+        "ghosts",
+        "young-adult"
+      ],
+      "rating": 4.02,
+      "ratings": 9057,
+      "reviews": 650
+    },
+    {
+      "title": "Giants Beware!",
+      "url": "https://www.goodreads.com/book/show/12159923-giants-beware",
+      "id": "17130936",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1317068387i/12159923.jpg",
+      "authors": [
+        "Jorge Aguirre"
+      ],
+      "genres": [
+        "graphic-novels",
+        "fantasy",
+        "middle-grade",
+        "adventure",
+        "comics",
+        "childrens",
+        "humor"
+      ],
+      "rating": 4.03,
+      "ratings": 9051,
+      "reviews": 471
+    },
+    {
+      "title": "It's Not My Fault I Know Everything",
+      "url": "https://www.goodreads.com/book/show/4702458-it-s-not-my-fault-i-know-everything",
+      "id": "4766781",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328842965i/4702458.jpg",
+      "authors": [
+        "Jim Benton"
+      ],
+      "genres": [
+        "childrens",
+        "middle-grade",
+        "fiction",
+        "humor",
+        "realistic-fiction",
+        "diary",
+        "comedy"
+      ],
+      "rating": 4.22,
+      "ratings": 9050,
+      "reviews": 133
+    },
+    {
+      "title": "The Magician's Nephew",
+      "url": "https://www.goodreads.com/book/show/65608.The_Magician_s_Nephew",
+      "id": "44703311",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1406510836i/65608.jpg",
+      "authors": [
+        "Paul McCusker"
+      ],
+      "genres": [
+        "fantasy",
+        "classics",
+        "fiction",
+        "christian-fiction",
+        "audiobook",
+        "middle-grade",
+        "childrens"
+      ],
+      "rating": 4.42,
+      "ratings": 9049,
+      "reviews": 86
+    },
+    {
+      "title": "Making Friends",
+      "url": "https://www.goodreads.com/book/show/36127435-making-friends",
+      "id": "57722902",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1513454045i/36127435.jpg",
+      "authors": [
+        "Kristen Gudsnuk"
+      ],
+      "genres": [
+        "graphic-novels",
+        "middle-grade",
+        "fantasy",
+        "comics",
+        "fiction",
+        "young-adult",
+        "childrens"
+      ],
+      "rating": 4.02,
+      "ratings": 9046,
+      "reviews": 645
+    },
+    {
+      "title": "El secreto de las gemelas",
+      "url": "https://www.goodreads.com/book/show/2508888.El_secreto_de_las_gemelas",
+      "id": "2516259",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1668429026i/2508888.jpg",
+      "authors": [
+        "Elisabetta Gnone"
       ],
       "genres": [
         "fantasy",
         "childrens",
         "middle-grade",
-        "fiction",
-        "italian-literature",
         "young-adult",
+        "fiction",
+        "witches",
         "magic"
       ],
-      "rating": 4.02,
-      "ratings": 3508,
-      "reviews": 145
+      "rating": 4.21,
+      "ratings": 9032,
+      "reviews": 624
     },
     {
-      "title": "The Last Fallen Star",
-      "url": "https://www.goodreads.com/book/show/55277625-the-last-fallen-star",
-      "id": "73125544",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1601319805i/55277625.jpg",
+      "title": "A Hero's Guide to Deadly Dragons",
+      "url": "https://www.goodreads.com/book/show/1950067.A_Hero_s_Guide_to_Deadly_Dragons",
+      "id": "1952938",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1190762078i/1950067.jpg",
       "authors": [
-        "Graci Kim"
+        "Cressida Cowell"
+      ],
+      "genres": [
+        "fantasy",
+        "dragons",
+        "middle-grade",
+        "fiction",
+        "childrens",
+        "audiobook",
+        "adventure"
+      ],
+      "rating": 4.22,
+      "ratings": 9031,
+      "reviews": 460
+    },
+    {
+      "title": "Island of Shipwrecks",
+      "url": "https://www.goodreads.com/book/show/22546129-island-of-shipwrecks",
+      "id": "42002482",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1403824756i/22546129.jpg",
+      "authors": [
+        "Lisa McMann"
       ],
       "genres": [
         "fantasy",
         "middle-grade",
-        "mythology",
         "fiction",
-        "adventure",
         "young-adult",
+        "dystopia",
+        "adventure",
         "magic"
       ],
-      "rating": 4.27,
-      "ratings": 3505,
-      "reviews": 646
+      "rating": 4.39,
+      "ratings": 9029,
+      "reviews": 409
     },
     {
-      "title": "The Unwanted: Stories of the Syrian Refugees",
-      "url": "https://www.goodreads.com/book/show/36912588-the-unwanted",
-      "id": "58671831",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1518124719i/36912588.jpg",
+      "title": "The Pinhoe Egg",
+      "url": "https://www.goodreads.com/book/show/34281.The_Pinhoe_Egg",
+      "id": "1103585",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1364260172i/34281.jpg",
+      "authors": [
+        "Diana Wynne Jones"
+      ],
+      "genres": [
+        "fantasy",
+        "young-adult",
+        "fiction",
+        "childrens",
+        "middle-grade",
+        "magic",
+        "young-adult-fantasy"
+      ],
+      "rating": 4.1,
+      "ratings": 9003,
+      "reviews": 539
+    },
+    {
+      "title": "Catwings",
+      "url": "https://www.goodreads.com/book/show/13664.Catwings",
+      "id": "3398501",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1566244515i/13664.jpg",
+      "authors": [
+        "Ursula K. Le Guin"
+      ],
+      "genres": [
+        "fantasy",
+        "childrens",
+        "fiction",
+        "animals",
+        "cats",
+        "middle-grade",
+        "chapter-books"
+      ],
+      "rating": 4.11,
+      "ratings": 8998,
+      "reviews": 946
+    },
+    {
+      "title": "The Second Siege",
+      "url": "https://www.goodreads.com/book/show/2475768.The_Second_Siege",
+      "id": "3646123",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442876282i/2475768.jpg",
+      "authors": [
+        "Henry H. Neff"
+      ],
+      "genres": [
+        "fantasy",
+        "young-adult",
+        "adventure",
+        "magic",
+        "middle-grade",
+        "fiction",
+        "mythology"
+      ],
+      "rating": 4.18,
+      "ratings": 8975,
+      "reviews": 326
+    },
+    {
+      "title": "The Familiars",
+      "url": "https://www.goodreads.com/book/show/7737900-the-familiars",
+      "id": "10537863",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1292553687i/7737900.jpg",
+      "authors": [
+        "Adam Jay Epstein"
+      ],
+      "genres": [
+        "fantasy",
+        "middle-grade",
+        "animals",
+        "magic",
+        "adventure",
+        "childrens",
+        "fiction"
+      ],
+      "rating": 4.09,
+      "ratings": 8975,
+      "reviews": 809
+    },
+    {
+      "title": "Cat and Mouse in a Haunted House",
+      "url": "https://www.goodreads.com/book/show/97598.Cat_and_Mouse_in_a_Haunted_House",
+      "id": "3042555",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1439431971i/97598.jpg",
+      "authors": [
+        "Geronimo Stilton"
+      ],
+      "genres": [
+        "childrens",
+        "fantasy",
+        "fiction",
+        "adventure",
+        "middle-grade",
+        "mystery",
+        "chapter-books"
+      ],
+      "rating": 4.2,
+      "ratings": 8967,
+      "reviews": 249
+    },
+    {
+      "title": "Illegal",
+      "url": "https://www.goodreads.com/book/show/35963837-illegal",
+      "id": "57522645",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1502203198i/35963837.jpg",
+      "authors": [
+        "Eoin Colfer"
+      ],
+      "genres": [
+        "graphic-novels",
+        "young-adult",
+        "middle-grade",
+        "realistic-fiction",
+        "fiction",
+        "comics",
+        "africa"
+      ],
+      "rating": 4.22,
+      "ratings": 8938,
+      "reviews": 1539
+    },
+    {
+      "title": "Sidekicks: A Graphic Novel",
+      "url": "https://www.goodreads.com/book/show/9639648-sidekicks",
+      "id": "14527060",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1579391581i/9639648.jpg",
+      "authors": [
+        "Dan Santat"
+      ],
+      "genres": [
+        "graphic-novels",
+        "middle-grade",
+        "fantasy",
+        "superheroes",
+        "animals",
+        "adventure",
+        "comics"
+      ],
+      "rating": 4.12,
+      "ratings": 8934,
+      "reviews": 523
+    },
+    {
+      "title": "Uprising",
+      "url": "https://www.goodreads.com/book/show/444414.Uprising",
+      "id": "433148",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347604512i/444414.jpg",
+      "authors": [
+        "Margaret Peterson Haddix"
+      ],
+      "genres": [
+        "historical-fiction",
+        "young-adult",
+        "historical",
+        "fiction",
+        "school",
+        "middle-grade",
+        "teen"
+      ],
+      "rating": 4.19,
+      "ratings": 8929,
+      "reviews": 1145
+    },
+    {
+      "title": "Ways to Live Forever",
+      "url": "https://www.goodreads.com/book/show/2164318.Ways_to_Live_Forever",
+      "id": "3290453",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348098140i/2164318.jpg",
+      "authors": [
+        "Sally Nicholls"
+      ],
+      "genres": [
+        "young-adult",
+        "fiction",
+        "realistic-fiction",
+        "contemporary",
+        "middle-grade",
+        "childrens",
+        "death"
+      ],
+      "rating": 4.19,
+      "ratings": 8921,
+      "reviews": 1334
+    },
+    {
+      "title": "Racing in the Rain: My Life as a Dog",
+      "url": "https://www.goodreads.com/book/show/9786641-racing-in-the-rain",
+      "id": "25593240",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1437202681i/9786641.jpg",
+      "authors": [
+        "Garth Stein"
+      ],
+      "genres": [
+        "fiction",
+        "animals",
+        "dogs",
+        "young-adult",
+        "childrens",
+        "middle-grade",
+        "contemporary"
+      ],
+      "rating": 4.39,
+      "ratings": 8917,
+      "reviews": 880
+    },
+    {
+      "title": "Drowned City: Hurricane Katrina and New Orleans",
+      "url": "https://www.goodreads.com/book/show/22749725-drowned-city",
+      "id": "42295125",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1407813959i/22749725.jpg",
       "authors": [
         "Don  Brown"
       ],
@@ -54,1000 +495,14 @@
         "graphic-novels",
         "non-fiction",
         "history",
-        "war",
-        "comics",
-        "teen",
-        "middle-grade"
-      ],
-      "rating": 4.07,
-      "ratings": 3503,
-      "reviews": 771
-    },
-    {
-      "title": "The Mystery of the Disappearing Cat",
-      "url": "https://www.goodreads.com/book/show/17514.The_Mystery_of_the_Disappearing_Cat",
-      "id": "1483880",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386924155i/17514.jpg",
-      "authors": [
-        "Enid Blyton"
-      ],
-      "genres": [
-        "childrens",
-        "mystery",
-        "fiction",
-        "adventure",
         "middle-grade",
-        "classics",
-        "novels"
+        "comics",
+        "historical",
+        "teen"
       ],
       "rating": 4.05,
-      "ratings": 3494,
-      "reviews": 111
-    },
-    {
-      "title": "Battle of the Beasts",
-      "url": "https://www.goodreads.com/book/show/18090029-battle-of-the-beasts",
-      "id": "25337582",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1379333208i/18090029.jpg",
-      "authors": [
-        "Chris Columbus"
-      ],
-      "genres": [
-        "fantasy",
-        "middle-grade",
-        "adventure",
-        "young-adult",
-        "childrens",
-        "fiction",
-        "mystery"
-      ],
-      "rating": 4,
-      "ratings": 3493,
-      "reviews": 221
-    },
-    {
-      "title": "The Whispers in the Walls",
-      "url": "https://www.goodreads.com/book/show/25394458-the-whispers-in-the-walls",
-      "id": "45146082",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1429876783i/25394458.jpg",
-      "authors": [
-        "Sophie Cleverly"
-      ],
-      "genres": [
-        "mystery",
-        "middle-grade",
-        "childrens",
-        "historical",
-        "fiction",
-        "mystery-thriller",
-        "young-adult"
-      ],
-      "rating": 4.35,
-      "ratings": 3489,
-      "reviews": 191
-    },
-    {
-      "title": "The Princess in Black and the Hungry Bunny Horde",
-      "url": "https://www.goodreads.com/book/show/25937835-the-princess-in-black-and-the-hungry-bunny-horde",
-      "id": "45835137",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1440613651i/25937835.jpg",
-      "authors": [
-        "Shannon Hale"
-      ],
-      "genres": [
-        "fantasy",
-        "childrens",
-        "chapter-books",
-        "fiction",
-        "humor",
-        "adventure",
-        "middle-grade"
-      ],
-      "rating": 4.18,
-      "ratings": 3486,
-      "reviews": 367
-    },
-    {
-      "title": "Cat Kid Comic Club: Perspectives",
-      "url": "https://www.goodreads.com/book/show/57386527-cat-kid-comic-club",
-      "id": "89839072",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1638318386i/57386527.jpg",
-      "authors": [
-        "Dav Pilkey"
-      ],
-      "genres": [
-        "graphic-novels",
-        "childrens",
-        "fiction",
-        "comics",
-        "middle-grade",
-        "humor",
-        "juvenile"
-      ],
-      "rating": 4.48,
-      "ratings": 3486,
-      "reviews": 147
-    },
-    {
-      "title": "Doomed to Dance",
-      "url": "https://www.goodreads.com/book/show/5552256-doomed-to-dance",
-      "id": "5723329",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1390275275i/5552256.jpg",
-      "authors": [
-        "Annie Barrows"
-      ],
-      "genres": [
-        "childrens",
-        "chapter-books",
-        "fiction",
-        "realistic-fiction",
-        "2nd-grade",
-        "humor",
-        "middle-grade"
-      ],
-      "rating": 4.16,
-      "ratings": 3484,
-      "reviews": 166
-    },
-    {
-      "title": "Father Christmas and Me",
-      "url": "https://www.goodreads.com/book/show/35698350-father-christmas-and-me",
-      "id": "57190385",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1500364181i/35698350.jpg",
-      "authors": [
-        "Matt Haig"
-      ],
-      "genres": [
-        "christmas",
-        "middle-grade",
-        "fantasy",
-        "fiction",
-        "childrens",
-        "holiday",
-        "audiobook"
-      ],
-      "rating": 4.17,
-      "ratings": 3480,
-      "reviews": 474
-    },
-    {
-      "title": "The Dragon with a Chocolate Heart",
-      "url": "https://www.goodreads.com/book/show/26869762-the-dragon-with-a-chocolate-heart",
-      "id": "46913191",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1472822247i/26869762.jpg",
-      "authors": [
-        "Stephanie Burgis"
-      ],
-      "genres": [
-        "fantasy",
-        "middle-grade",
-        "dragons",
-        "magic",
-        "childrens",
-        "fiction",
-        "adventure"
-      ],
-      "rating": 4.25,
-      "ratings": 3479,
-      "reviews": 694
-    },
-    {
-      "title": "The Girl and the Ghost",
-      "url": "https://www.goodreads.com/book/show/48716975-the-girl-and-the-ghost",
-      "id": "71098078",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1585631722i/48716975.jpg",
-      "authors": [
-        "Hanna Alkaf"
-      ],
-      "genres": [
-        "middle-grade",
-        "fantasy",
-        "horror",
-        "fiction",
-        "paranormal",
-        "mythology",
-        "ghosts"
-      ],
-      "rating": 4.14,
-      "ratings": 3474,
-      "reviews": 858
-    },
-    {
-      "title": "Grounded: The Adventures of Rapunzel",
-      "url": "https://www.goodreads.com/book/show/23399287-grounded",
-      "id": "42955734",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1419320920i/23399287.jpg",
-      "authors": [
-        "Megan   Morrison"
-      ],
-      "genres": [
-        "fantasy",
-        "middle-grade",
-        "fairy-tales",
-        "retellings",
-        "adventure",
-        "young-adult",
-        "childrens"
-      ],
-      "rating": 4.17,
-      "ratings": 3473,
-      "reviews": 443
-    },
-    {
-      "title": "Warriors: The Ultimate Guide",
-      "url": "https://www.goodreads.com/book/show/17331409-warriors",
-      "id": "24034691",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1364224161i/17331409.jpg",
-      "authors": [
-        "Erin Hunter"
-      ],
-      "genres": [
-        "fantasy",
-        "animals",
-        "middle-grade",
-        "fiction",
-        "childrens",
-        "cats",
-        "field-guides"
-      ],
-      "rating": 4.49,
-      "ratings": 3473,
-      "reviews": 182
-    },
-    {
-      "title": "Cold As Ice",
-      "url": "https://www.goodreads.com/book/show/20628555-cold-as-ice",
-      "id": "39915481",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1403493724i/20628555.jpg",
-      "authors": [
-        "Sarah Mlynowski"
-      ],
-      "genres": [
-        "fantasy",
-        "middle-grade",
-        "fairy-tales",
-        "childrens",
-        "fiction",
-        "magic",
-        "audiobook"
-      ],
-      "rating": 4.22,
-      "ratings": 3467,
-      "reviews": 186
-    },
-    {
-      "title": "The Truth Pixie",
-      "url": "https://www.goodreads.com/book/show/41443051-the-truth-pixie",
-      "id": "64683527",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1535056705i/41443051.jpg",
-      "authors": [
-        "Matt Haig"
-      ],
-      "genres": [
-        "christmas",
-        "fantasy",
-        "poetry",
-        "childrens",
-        "fiction",
-        "middle-grade",
-        "holiday"
-      ],
-      "rating": 4.25,
-      "ratings": 3466,
-      "reviews": 463
-    },
-    {
-      "title": "The Jaguar's Jewel",
-      "url": "https://www.goodreads.com/book/show/8134245-the-jaguar-s-jewel",
-      "id": "2353698",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1385968555i/8134245.jpg",
-      "authors": [
-        "Ron Roy"
-      ],
-      "genres": [
-        "mystery",
-        "childrens",
-        "fiction",
-        "chapter-books",
-        "middle-grade",
-        "2nd-grade",
-        "juvenile"
-      ],
-      "rating": 4.1,
-      "ratings": 3465,
-      "reviews": 116
-    },
-    {
-      "title": "I Survived the American Revolution, 1776",
-      "url": "https://www.goodreads.com/book/show/33931233-i-survived-the-american-revolution-1776",
-      "id": "54900445",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1486858725i/33931233.jpg",
-      "authors": [
-        "Lauren Tarshis"
-      ],
-      "genres": [
-        "historical-fiction",
-        "middle-grade",
-        "childrens",
-        "fiction",
-        "adventure",
-        "war",
-        "chapter-books"
-      ],
-      "rating": 4.15,
-      "ratings": 3462,
-      "reviews": 317
-    },
-    {
-      "title": "A Hidden Enemy",
-      "url": "https://www.goodreads.com/book/show/16065469-a-hidden-enemy",
-      "id": "21856108",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1361148785i/16065469.jpg",
-      "authors": [
-        "Erin Hunter"
-      ],
-      "genres": [
-        "fantasy",
-        "animals",
-        "middle-grade",
-        "adventure",
-        "young-adult",
-        "fiction",
-        "childrens"
-      ],
-      "rating": 4.28,
-      "ratings": 3458,
-      "reviews": 154
-    },
-    {
-      "title": "Spellbound",
-      "url": "https://www.goodreads.com/book/show/9261978-spellbound",
-      "id": "14142719",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388194382i/9261978.jpg",
-      "authors": [
-        "Jacqueline  West"
-      ],
-      "genres": [
-        "fantasy",
-        "middle-grade",
-        "mystery",
-        "childrens",
-        "adventure",
-        "magic",
-        "fiction"
-      ],
-      "rating": 4.16,
-      "ratings": 3455,
-      "reviews": 286
-    },
-    {
-      "title": "October, October",
-      "url": "https://www.goodreads.com/book/show/55012382-october-october",
-      "id": "85794901",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1597764482i/55012382.jpg",
-      "authors": [
-        "Katya Balen"
-      ],
-      "genres": [
-        "middle-grade",
-        "fiction",
-        "novels",
-        "nature",
-        "contemporary",
-        "young-adult",
-        "family"
-      ],
-      "rating": 4.4,
-      "ratings": 3454,
-      "reviews": 665
-    },
-    {
-      "title": "The Awesome Egyptians",
-      "url": "https://www.goodreads.com/book/show/824506.The_Awesome_Egyptians",
-      "id": "810278",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1178716687i/824506.jpg",
-      "authors": [
-        "Terry Deary"
-      ],
-      "genres": [
-        "history",
-        "non-fiction",
-        "childrens",
-        "historical",
-        "humor",
-        "egypt",
-        "middle-grade"
-      ],
-      "rating": 4.05,
-      "ratings": 3448,
-      "reviews": 164
-    },
-    {
-      "title": "The Missing Mummy",
-      "url": "https://www.goodreads.com/book/show/2161806.The_Missing_Mummy",
-      "id": "2167331",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1209756852i/2161806.jpg",
-      "authors": [
-        "Ron Roy"
-      ],
-      "genres": [
-        "mystery",
-        "childrens",
-        "fiction",
-        "chapter-books",
-        "middle-grade",
-        "juvenile",
-        "2nd-grade"
-      ],
-      "rating": 4.09,
-      "ratings": 3441,
-      "reviews": 108
-    },
-    {
-      "title": "Soar",
-      "url": "https://www.goodreads.com/book/show/25809985-soar",
-      "id": "45666055",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1436885583i/25809985.jpg",
-      "authors": [
-        "Joan Bauer"
-      ],
-      "genres": [
-        "sports",
-        "realistic-fiction",
-        "middle-grade",
-        "fiction",
-        "baseball",
-        "young-adult",
-        "family"
-      ],
-      "rating": 4.16,
-      "ratings": 3436,
-      "reviews": 554
-    },
-    {
-      "title": "The Dead End",
-      "url": "https://www.goodreads.com/book/show/7091397-the-dead-end",
-      "id": "7347655",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388251738i/7091397.jpg",
-      "authors": [
-        "Mimi McCoy"
-      ],
-      "genres": [
-        "middle-grade",
-        "fantasy",
-        "childrens",
-        "mystery",
-        "paranormal",
-        "fiction",
-        "horror"
-      ],
-      "rating": 4.2,
-      "ratings": 3434,
-      "reviews": 172
-    },
-    {
-      "title": "Thea Stilton and the Ice Treasure",
-      "url": "https://www.goodreads.com/book/show/11525770-thea-stilton-and-the-ice-treasure",
-      "id": "16463368",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328836336i/11525770.jpg",
-      "authors": [
-        "Thea Stilton"
-      ],
-      "genres": [
-        "childrens",
-        "adventure",
-        "fiction",
-        "mystery",
-        "fantasy",
-        "middle-grade",
-        "novels"
-      ],
-      "rating": 4.29,
-      "ratings": 3430,
-      "reviews": 61
-    },
-    {
-      "title": "Ophie's Ghosts",
-      "url": "https://www.goodreads.com/book/show/55004097-ophie-s-ghosts",
-      "id": "66851880",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1602878203i/55004097.jpg",
-      "authors": [
-        "Justina Ireland"
-      ],
-      "genres": [
-        "middle-grade",
-        "historical-fiction",
-        "fantasy",
-        "mystery",
-        "paranormal",
-        "historical",
-        "fiction"
-      ],
-      "rating": 4.3,
-      "ratings": 3429,
-      "reviews": 697
-    },
-    {
-      "title": "Unbound: A Novel in Verse",
-      "url": "https://www.goodreads.com/book/show/29230725-unbound",
-      "id": "49470038",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1455981994i/29230725.jpg",
-      "authors": [
-        "Ann E. Burg"
-      ],
-      "genres": [
-        "historical-fiction",
-        "poetry",
-        "middle-grade",
-        "historical",
-        "fiction",
-        "childrens",
-        "young-adult"
-      ],
-      "rating": 4.19,
-      "ratings": 3427,
-      "reviews": 543
-    },
-    {
-      "title": "Lightfall: Shadow of the Bird",
-      "url": "https://www.goodreads.com/book/show/58536003-lightfall",
-      "id": "89472378",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1650648173i/58536003.jpg",
-      "authors": [
-        "Tim Probert"
-      ],
-      "genres": [
-        "graphic-novels",
-        "fantasy",
-        "middle-grade",
-        "comics",
-        "adventure",
-        "childrens",
-        "fiction"
-      ],
-      "rating": 4.39,
-      "ratings": 3424,
-      "reviews": 445
-    },
-    {
-      "title": "Bastille vs. the Evil Librarians",
-      "url": "https://www.goodreads.com/book/show/59808314-bastille-vs-the-evil-librarians",
-      "id": "53073878",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1649373273i/59808314.jpg",
-      "authors": [
-        "Brandon Sanderson"
-      ],
-      "genres": [
-        "fantasy",
-        "middle-grade",
-        "fiction",
-        "young-adult",
-        "humor",
-        "audiobook",
-        "adventure"
-      ],
-      "rating": 4.09,
-      "ratings": 3421,
-      "reviews": 465
-    },
-    {
-      "title": "Queen of the Sea",
-      "url": "https://www.goodreads.com/book/show/27411491-queen-of-the-sea",
-      "id": "47460372",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1535251909i/27411491.jpg",
-      "authors": [
-        "Dylan Meconis"
-      ],
-      "genres": [
-        "graphic-novels",
-        "historical-fiction",
-        "middle-grade",
-        "historical",
-        "young-adult",
-        "fiction",
-        "comics"
-      ],
-      "rating": 4.14,
-      "ratings": 3420,
-      "reviews": 724
-    },
-    {
-      "title": "The Mystery of Smugglers Cove",
-      "url": "https://www.goodreads.com/book/show/17236692-the-mystery-of-smugglers-cove",
-      "id": "18597325",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1358047868i/17236692.jpg",
-      "authors": [
-        "Paul Moxham"
-      ],
-      "genres": [
-        "mystery",
-        "fiction",
-        "childrens",
-        "young-adult",
-        "middle-grade",
-        "adventure",
-        "mystery-thriller"
-      ],
-      "rating": 4.09,
-      "ratings": 3417,
-      "reviews": 138
-    },
-    {
-      "title": "Black Heart",
-      "url": "https://www.goodreads.com/book/show/1721146.Black_Heart",
-      "id": "1718524",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1344267252i/1721146.jpg",
-      "authors": [
-        "Justin Somper"
-      ],
-      "genres": [
-        "fantasy",
-        "vampires",
-        "young-adult",
-        "pirates",
-        "middle-grade",
-        "adventure",
-        "paranormal"
-      ],
-      "rating": 4.15,
-      "ratings": 3416,
-      "reviews": 140
-    },
-    {
-      "title": "Fridays with the Wizards",
-      "url": "https://www.goodreads.com/book/show/25094569-fridays-with-the-wizards",
-      "id": "44702518",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442605766i/25094569.jpg",
-      "authors": [
-        "Jessica Day George"
-      ],
-      "genres": [
-        "fantasy",
-        "middle-grade",
-        "childrens",
-        "fiction",
-        "magic",
-        "adventure",
-        "young-adult"
-      ],
-      "rating": 4.18,
-      "ratings": 3415,
-      "reviews": 325
-    },
-    {
-      "title": "Pay Attention, Carter Jones",
-      "url": "https://www.goodreads.com/book/show/37763409-pay-attention-carter-jones",
-      "id": "59395132",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1565743495i/37763409.jpg",
-      "authors": [
-        "Gary D. Schmidt"
-      ],
-      "genres": [
-        "middle-grade",
-        "realistic-fiction",
-        "sports",
-        "fiction",
-        "family",
-        "young-adult",
-        "childrens"
-      ],
-      "rating": 4.07,
-      "ratings": 3413,
-      "reviews": 754
-    },
-    {
-      "title": "My Neighbor Totoro",
-      "url": "https://www.goodreads.com/book/show/17571527-my-neighbor-totoro",
-      "id": "24511270",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1539433028i/17571527.jpg",
-      "authors": [
-        "Tsugiko Kubo"
-      ],
-      "genres": [
-        "fantasy",
-        "fiction",
-        "middle-grade",
-        "childrens",
-        "manga",
-        "classics",
-        "japan"
-      ],
-      "rating": 4.4,
-      "ratings": 3413,
-      "reviews": 404
-    },
-    {
-      "title": "You're a Bad Man, Mr Gum!",
-      "url": "https://www.goodreads.com/book/show/1255133.You_re_a_Bad_Man_Mr_Gum_",
-      "id": "2155945",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1361868656i/1255133.jpg",
-      "authors": [
-        "Andy Stanton"
-      ],
-      "genres": [
-        "childrens",
-        "fiction",
-        "humor",
-        "middle-grade",
-        "fantasy",
-        "british-literature",
-        "novels"
-      ],
-      "rating": 4.07,
-      "ratings": 3410,
-      "reviews": 343
-    },
-    {
-      "title": "Taking Chances",
-      "url": "https://www.goodreads.com/book/show/904959.Taking_Chances",
-      "id": "2436730",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1360058143i/904959.jpg",
-      "authors": [
-        "Lauren Brooke"
-      ],
-      "genres": [
-        "horses",
-        "young-adult",
-        "childrens",
-        "fiction",
-        "animals",
-        "middle-grade",
-        "contemporary"
-      ],
-      "rating": 4.12,
-      "ratings": 3409,
-      "reviews": 86
-    },
-    {
-      "title": "Spiderweb for Two: A Melendy Maze",
-      "url": "https://www.goodreads.com/book/show/421643.Spiderweb_for_Two",
-      "id": "752201",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1312231297i/421643.jpg",
-      "authors": [
-        "Elizabeth Enright"
-      ],
-      "genres": [
-        "childrens",
-        "fiction",
-        "middle-grade",
-        "mystery",
-        "historical-fiction",
-        "classics",
-        "realistic-fiction"
-      ],
-      "rating": 4.01,
-      "ratings": 3409,
-      "reviews": 170
-    },
-    {
-      "title": "The Neptune Project",
-      "url": "https://www.goodreads.com/book/show/10739664-the-neptune-project",
-      "id": "15650669",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1368443251i/10739664.jpg",
-      "authors": [
-        "Polly Holyoke"
-      ],
-      "genres": [
-        "science-fiction",
-        "middle-grade",
-        "dystopia",
-        "young-adult",
-        "fantasy",
-        "adventure",
-        "fiction"
-      ],
-      "rating": 4.25,
-      "ratings": 3408,
-      "reviews": 459
-    },
-    {
-      "title": "Diary of an 8-Bit Warrior: Crafting Alliances",
-      "url": "https://www.goodreads.com/book/show/32184528-diary-of-an-8-bit-warrior",
-      "id": "51191002",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1474599816i/32184528.jpg",
-      "authors": [
-        "Cube Kid"
-      ],
-      "genres": [
-        "childrens",
-        "fantasy",
-        "fiction",
-        "graphic-novels",
-        "middle-grade",
-        "gaming"
-      ],
-      "rating": 4.76,
-      "ratings": 3403,
-      "reviews": 103
-    },
-    {
-      "title": "Do-You-Think-He-Saurus?!",
-      "url": "https://www.goodreads.com/book/show/37825412-do-you-think-he-saurus",
-      "id": "59503656",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1523871669i/37825412.jpg",
-      "authors": [
-        "Aaron Blabey"
-      ],
-      "genres": [
-        "graphic-novels",
-        "childrens",
-        "humor",
-        "fiction",
-        "middle-grade",
-        "chapter-books",
-        "time-travel"
-      ],
-      "rating": 4.39,
-      "ratings": 3401,
-      "reviews": 177
-    },
-    {
-      "title": "The Taken",
-      "url": "https://www.goodreads.com/book/show/24999030-the-taken",
-      "id": "44669135",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1426580943i/24999030.jpg",
-      "authors": [
-        "Inbali Iserles"
-      ],
-      "genres": [
-        "fantasy",
-        "middle-grade",
-        "animals",
-        "childrens",
-        "adventure",
-        "magic",
-        "young-adult"
-      ],
-      "rating": 4.09,
-      "ratings": 3397,
-      "reviews": 321
-    },
-    {
-      "title": "The Tryout: A Graphic Novel",
-      "url": "https://www.goodreads.com/book/show/59806053-the-tryout",
-      "id": "91068074",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1661998117i/59806053.jpg",
-      "authors": [
-        "Christina Soontornvat"
-      ],
-      "genres": [
-        "graphic-novels",
-        "middle-grade",
-        "memoir",
-        "sports",
-        "realistic-fiction",
-        "childrens",
-        "comics"
-      ],
-      "rating": 4.34,
-      "ratings": 3396,
-      "reviews": 430
-    },
-    {
-      "title": "Words with Wings",
-      "url": "https://www.goodreads.com/book/show/16192212-words-with-wings",
-      "id": "22112154",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1398032410i/16192212.jpg",
-      "authors": [
-        "Nikki Grimes"
-      ],
-      "genres": [
-        "poetry",
-        "middle-grade",
-        "realistic-fiction",
-        "fiction",
-        "childrens",
-        "family",
-        "young-adult"
-      ],
-      "rating": 4.02,
-      "ratings": 3394,
-      "reviews": 584
-    },
-    {
-      "title": "Clementine, Friend of the Week",
-      "url": "https://www.goodreads.com/book/show/7139968-clementine-friend-of-the-week",
-      "id": "7403805",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1264115844i/7139968.jpg",
-      "authors": [
-        "Sara Pennypacker"
-      ],
-      "genres": [
-        "childrens",
-        "chapter-books",
-        "realistic-fiction",
-        "middle-grade",
-        "fiction",
-        "humor",
-        "juvenile"
-      ],
-      "rating": 4.16,
-      "ratings": 3382,
-      "reviews": 246
-    },
-    {
-      "title": "Eva Evergreen, Semi-Magical Witch",
-      "url": "https://www.goodreads.com/book/show/51285821-eva-evergreen-semi-magical-witch",
-      "id": "67072882",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1574757053l/51285821.jpg",
-      "authors": [
-        "Julie Abe"
-      ],
-      "genres": [
-        "middle-grade",
-        "fantasy",
-        "witches",
-        "magic",
-        "fiction",
-        "adventure",
-        "childrens"
-      ],
-      "rating": 4.13,
-      "ratings": 3379,
-      "reviews": 795
-    },
-    {
-      "title": "Diary of an 8-Bit Warrior: An Unofficial Minecraft Adventure",
-      "url": "https://www.goodreads.com/book/show/29621705-diary-of-an-8-bit-warrior",
-      "id": "49029331",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1458971980i/29621705.jpg",
-      "authors": [
-        "Cube Kid"
-      ],
-      "genres": [
-        "fiction",
-        "childrens",
-        "fantasy",
-        "adventure",
-        "middle-grade",
-        "graphic-novels",
-        "comedy"
-      ],
-      "rating": 4.62,
-      "ratings": 3377,
-      "reviews": 177
-    },
-    {
-      "title": "The Assassin's Curse",
-      "url": "https://www.goodreads.com/book/show/34211260-the-assassin-s-curse",
-      "id": "55258573",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1486661318i/34211260.jpg",
-      "authors": [
-        "Kevin Sands"
-      ],
-      "genres": [
-        "historical-fiction",
-        "mystery",
-        "fantasy",
-        "middle-grade",
-        "young-adult",
-        "adventure",
-        "fiction"
-      ],
-      "rating": 4.44,
-      "ratings": 3369,
-      "reviews": 362
-    },
-    {
-      "title": "The Brightest Night : the graphic novel",
-      "url": "https://www.goodreads.com/book/show/57468714-the-brightest-night",
-      "id": "89982123",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1640745730i/57468714.jpg",
-      "authors": [
-        "Tui T. Sutherland"
-      ],
-      "genres": [
-        "graphic-novels",
-        "fantasy",
-        "dragons",
-        "middle-grade",
-        "fiction",
-        "comics",
-        "childrens"
-      ],
-      "rating": 4.6,
-      "ratings": 3367,
-      "reviews": 153
+      "ratings": 8888,
+      "reviews": 1438
     }
   ]
 }

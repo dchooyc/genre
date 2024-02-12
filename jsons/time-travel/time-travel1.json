@@ -1,52 +1,451 @@
 {
   "books": [
     {
-      "title": "Tom's Midnight Garden",
-      "url": "https://www.goodreads.com/book/show/543086.Tom_s_Midnight_Garden",
-      "id": "530403",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348198004i/543086.jpg",
+      "title": "The Winter Sea",
+      "url": "https://www.goodreads.com/book/show/3392089-the-winter-sea",
+      "id": "3723657",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1410915489i/3392089.jpg",
       "authors": [
-        "Philippa Pearce"
+        "Susanna Kearsley"
       ],
       "genres": [
-        "fantasy",
-        "childrens",
-        "classics",
+        "historical-fiction",
+        "romance",
         "fiction",
+        "historical",
         "time-travel",
-        "middle-grade",
-        "young-adult"
+        "scotland",
+        "historical-romance"
       ],
-      "rating": 4.05,
-      "ratings": 26434,
-      "reviews": 1222
+      "rating": 4.1,
+      "ratings": 65803,
+      "reviews": 7312
     },
     {
-      "title": "The Door Into Summer",
-      "url": "https://www.goodreads.com/book/show/348.The_Door_Into_Summer",
-      "id": "2055615",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1342241886i/348.jpg",
+      "title": "Lightning",
+      "url": "https://www.goodreads.com/book/show/32424.Lightning",
+      "id": "1396631",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1410030512i/32424.jpg",
       "authors": [
-        "Robert A. Heinlein"
+        "Dean Koontz"
+      ],
+      "genres": [
+        "horror",
+        "fiction",
+        "thriller",
+        "science-fiction",
+        "time-travel",
+        "suspense",
+        "mystery"
+      ],
+      "rating": 4.09,
+      "ratings": 62258,
+      "reviews": 2537
+    },
+    {
+      "title": "Endymion",
+      "url": "https://www.goodreads.com/book/show/3977.Endymion",
+      "id": "1882574",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1329611385i/3977.jpg",
+      "authors": [
+        "Dan Simmons"
+      ],
+      "genres": [
+        "science-fiction",
+        "fiction",
+        "fantasy",
+        "space-opera",
+        "science-fiction-fantasy",
+        "audiobook",
+        "time-travel"
+      ],
+      "rating": 4.19,
+      "ratings": 60387,
+      "reviews": 2015
+    },
+    {
+      "title": "The Devil's Arithmetic",
+      "url": "https://www.goodreads.com/book/show/91357.The_Devil_s_Arithmetic",
+      "id": "1310677",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1342046407i/91357.jpg",
+      "authors": [
+        "Jane Yolen"
+      ],
+      "genres": [
+        "historical-fiction",
+        "young-adult",
+        "holocaust",
+        "fiction",
+        "historical",
+        "world-war-ii",
+        "time-travel"
+      ],
+      "rating": 4.03,
+      "ratings": 59542,
+      "reviews": 2742
+    },
+    {
+      "title": "Doomsday Book",
+      "url": "https://www.goodreads.com/book/show/24983.Doomsday_Book",
+      "id": "2439628",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1403972500i/24983.jpg",
+      "authors": [
+        "Connie Willis"
+      ],
+      "genres": [
+        "science-fiction",
+        "time-travel",
+        "historical-fiction",
+        "fiction",
+        "fantasy",
+        "historical",
+        "science-fiction-fantasy"
+      ],
+      "rating": 4.03,
+      "ratings": 59470,
+      "reviews": 6582
+    },
+    {
+      "title": "The Rise of Endymion",
+      "url": "https://www.goodreads.com/book/show/11289.The_Rise_of_Endymion",
+      "id": "13799",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1329609799i/11289.jpg",
+      "authors": [
+        "Dan Simmons"
+      ],
+      "genres": [
+        "science-fiction",
+        "fiction",
+        "fantasy",
+        "space-opera",
+        "science-fiction-fantasy",
+        "time-travel",
+        "audiobook"
+      ],
+      "rating": 4.17,
+      "ratings": 56231,
+      "reviews": 2240
+    },
+    {
+      "title": "The Time Machine / The Invisible Man",
+      "url": "https://www.goodreads.com/book/show/17136.The_Time_Machine_The_Invisible_Man",
+      "id": "17410699",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347929785i/17136.jpg",
+      "authors": [
+        "H.G. Wells"
+      ],
+      "genres": [
+        "classics",
+        "science-fiction",
+        "fiction",
+        "fantasy",
+        "literature",
+        "time-travel",
+        "novels"
+      ],
+      "rating": 4.1,
+      "ratings": 56092,
+      "reviews": 363
+    },
+    {
+      "title": "The End of Eternity",
+      "url": "https://www.goodreads.com/book/show/509784.The_End_of_Eternity",
+      "id": "1407851",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1405527675i/509784.jpg",
+      "authors": [
+        "Isaac Asimov"
       ],
       "genres": [
         "science-fiction",
         "fiction",
         "time-travel",
-        "science-fiction-fantasy",
-        "fantasy",
         "classics",
-        "adventure"
+        "science-fiction-fantasy",
+        "audiobook",
+        "novels"
       ],
-      "rating": 4.02,
-      "ratings": 26320,
-      "reviews": 1396
+      "rating": 4.24,
+      "ratings": 55828,
+      "reviews": 3295
     },
     {
-      "title": "Mariana",
-      "url": "https://www.goodreads.com/book/show/12541349-mariana",
-      "id": "1916770",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1326918373i/12541349.jpg",
+      "title": "Lost in a Good Book",
+      "url": "https://www.goodreads.com/book/show/27000.Lost_in_a_Good_Book",
+      "id": "1918119",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1596991927i/27000.jpg",
+      "authors": [
+        "Jasper Fforde"
+      ],
+      "genres": [
+        "fantasy",
+        "fiction",
+        "mystery",
+        "humor",
+        "science-fiction",
+        "books-about-books",
+        "time-travel"
+      ],
+      "rating": 4.13,
+      "ratings": 53816,
+      "reviews": 3111
+    },
+    {
+      "title": "Kiss of the Highlander",
+      "url": "https://www.goodreads.com/book/show/112754.Kiss_of_the_Highlander",
+      "id": "2746769",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1400966202i/112754.jpg",
+      "authors": [
+        "Karen Marie Moning"
+      ],
+      "genres": [
+        "romance",
+        "time-travel",
+        "historical-romance",
+        "paranormal-romance",
+        "fantasy",
+        "paranormal",
+        "historical"
+      ],
+      "rating": 4.29,
+      "ratings": 42626,
+      "reviews": 1910
+    },
+    {
+      "title": "Spin",
+      "url": "https://www.goodreads.com/book/show/910863.Spin",
+      "id": "47562",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1406383726i/910863.jpg",
+      "authors": [
+        "Robert Charles Wilson"
+      ],
+      "genres": [
+        "science-fiction",
+        "fiction",
+        "hugo-awards",
+        "science-fiction-fantasy",
+        "time-travel",
+        "fantasy",
+        "dystopia"
+      ],
+      "rating": 4.03,
+      "ratings": 40954,
+      "reviews": 2719
+    },
+    {
+      "title": "To Say Nothing of the Dog",
+      "url": "https://www.goodreads.com/book/show/77773.To_Say_Nothing_of_the_Dog",
+      "id": "696",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1469410460i/77773.jpg",
+      "authors": [
+        "Connie Willis"
+      ],
+      "genres": [
+        "science-fiction",
+        "time-travel",
+        "fiction",
+        "historical-fiction",
+        "fantasy",
+        "humor",
+        "historical"
+      ],
+      "rating": 4.11,
+      "ratings": 40312,
+      "reviews": 4668
+    },
+    {
+      "title": "Replay",
+      "url": "https://www.goodreads.com/book/show/341735.Replay",
+      "id": "1804797",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1441156728i/341735.jpg",
+      "authors": [
+        "Ken Grimwood"
+      ],
+      "genres": [
+        "science-fiction",
+        "fiction",
+        "time-travel",
+        "fantasy",
+        "audiobook",
+        "science-fiction-fantasy",
+        "romance"
+      ],
+      "rating": 4.15,
+      "ratings": 38378,
+      "reviews": 4234
+    },
+    {
+      "title": "The Dark Highlander",
+      "url": "https://www.goodreads.com/book/show/112755.The_Dark_Highlander",
+      "id": "2203425",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1521970950i/112755.jpg",
+      "authors": [
+        "Karen Marie Moning"
+      ],
+      "genres": [
+        "romance",
+        "time-travel",
+        "paranormal-romance",
+        "paranormal",
+        "historical-romance",
+        "fantasy",
+        "historical"
+      ],
+      "rating": 4.28,
+      "ratings": 37304,
+      "reviews": 1354
+    },
+    {
+      "title": "The Dream Daughter",
+      "url": "https://www.goodreads.com/book/show/37638145-the-dream-daughter",
+      "id": "59225552",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1516310410i/37638145.jpg",
+      "authors": [
+        "Diane Chamberlain"
+      ],
+      "genres": [
+        "fiction",
+        "historical-fiction",
+        "time-travel",
+        "science-fiction",
+        "audiobook",
+        "fantasy",
+        "contemporary"
+      ],
+      "rating": 4.25,
+      "ratings": 37166,
+      "reviews": 5713
+    },
+    {
+      "title": "A Knight in Shining Armor",
+      "url": "https://www.goodreads.com/book/show/73385.A_Knight_in_Shining_Armor",
+      "id": "1408034",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1330613623i/73385.jpg",
+      "authors": [
+        "Jude Deveraux"
+      ],
+      "genres": [
+        "romance",
+        "time-travel",
+        "historical-romance",
+        "historical",
+        "historical-fiction",
+        "fantasy",
+        "fiction"
+      ],
+      "rating": 4.2,
+      "ratings": 36454,
+      "reviews": 2659
+    },
+    {
+      "title": "The Immortal Highlander",
+      "url": "https://www.goodreads.com/book/show/112752.The_Immortal_Highlander",
+      "id": "1281288",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1436985405i/112752.jpg",
+      "authors": [
+        "Karen Marie Moning"
+      ],
+      "genres": [
+        "romance",
+        "paranormal-romance",
+        "paranormal",
+        "fantasy",
+        "time-travel",
+        "historical-romance",
+        "historical"
+      ],
+      "rating": 4.3,
+      "ratings": 36399,
+      "reviews": 1340
+    },
+    {
+      "title": "To Tame a Highland Warrior",
+      "url": "https://www.goodreads.com/book/show/112756.To_Tame_a_Highland_Warrior",
+      "id": "2746770",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1201362661i/112756.jpg",
+      "authors": [
+        "Karen Marie Moning"
+      ],
+      "genres": [
+        "romance",
+        "historical-romance",
+        "paranormal-romance",
+        "paranormal",
+        "fantasy",
+        "historical",
+        "time-travel"
+      ],
+      "rating": 4.12,
+      "ratings": 33704,
+      "reviews": 1393
+    },
+    {
+      "title": "Paper Girls, Volume 2",
+      "url": "https://www.goodreads.com/book/show/31338724-paper-girls-volume-2",
+      "id": "52013404",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1656849325i/31338724.jpg",
+      "authors": [
+        "Brian K. Vaughan"
+      ],
+      "genres": [
+        "graphic-novels",
+        "comics",
+        "science-fiction",
+        "fiction",
+        "young-adult",
+        "graphic-novels-comics",
+        "time-travel"
+      ],
+      "rating": 4.1,
+      "ratings": 32751,
+      "reviews": 3167
+    },
+    {
+      "title": "The Highlander's Touch",
+      "url": "https://www.goodreads.com/book/show/815150.The_Highlander_s_Touch",
+      "id": "1676569",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1257330461i/815150.jpg",
+      "authors": [
+        "Karen Marie Moning"
+      ],
+      "genres": [
+        "romance",
+        "time-travel",
+        "historical-romance",
+        "paranormal-romance",
+        "fantasy",
+        "paranormal",
+        "historical"
+      ],
+      "rating": 4.13,
+      "ratings": 32591,
+      "reviews": 1327
+    },
+    {
+      "title": "The Unmaking of June Farrow",
+      "url": "https://www.goodreads.com/book/show/66087062-the-unmaking-of-june-farrow",
+      "id": "100151661",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1678126802i/66087062.jpg",
+      "authors": [
+        "Adrienne Young"
+      ],
+      "genres": [
+        "fantasy",
+        "mystery",
+        "magical-realism",
+        "fiction",
+        "romance",
+        "time-travel",
+        "adult"
+      ],
+      "rating": 4.23,
+      "ratings": 32581,
+      "reviews": 6487
+    },
+    {
+      "title": "The Rose Garden",
+      "url": "https://www.goodreads.com/book/show/9792287-the-rose-garden",
+      "id": "14682378",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327951839i/9792287.jpg",
       "authors": [
         "Susanna Kearsley"
       ],
@@ -59,996 +458,51 @@
         "historical",
         "historical-romance"
       ],
-      "rating": 4.08,
-      "ratings": 25037,
-      "reviews": 2679
-    },
-    {
-      "title": "Paper Girls, Volume 3",
-      "url": "https://www.goodreads.com/book/show/34504722-paper-girls-volume-3",
-      "id": "55630171",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1656928248i/34504722.jpg",
-      "authors": [
-        "Brian K. Vaughan"
-      ],
-      "genres": [
-        "graphic-novels",
-        "comics",
-        "science-fiction",
-        "fiction",
-        "young-adult",
-        "time-travel",
-        "graphic-novels-comics"
-      ],
-      "rating": 4.06,
-      "ratings": 23964,
-      "reviews": 2179
-    },
-    {
-      "title": "Pathfinder",
-      "url": "https://www.goodreads.com/book/show/8100267-pathfinder",
-      "id": "12873035",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388269881i/8100267.jpg",
-      "authors": [
-        "Orson Scott Card"
-      ],
-      "genres": [
-        "fantasy",
-        "science-fiction",
-        "young-adult",
-        "fiction",
-        "time-travel",
-        "adventure",
-        "science-fiction-fantasy"
-      ],
-      "rating": 4,
-      "ratings": 23927,
-      "reviews": 2401
-    },
-    {
-      "title": "Ten Thousand Skies Above You",
-      "url": "https://www.goodreads.com/book/show/17234659-ten-thousand-skies-above-you",
-      "id": "23752698",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1423065898i/17234659.jpg",
-      "authors": [
-        "Claudia Gray"
-      ],
-      "genres": [
-        "young-adult",
-        "science-fiction",
-        "romance",
-        "fantasy",
-        "time-travel",
-        "fiction",
-        "audiobook"
-      ],
-      "rating": 4.05,
-      "ratings": 23214,
-      "reviews": 2985
-    },
-    {
-      "title": "A Leaf on the Wind of All Hallows",
-      "url": "https://www.goodreads.com/book/show/13634927-a-leaf-on-the-wind-of-all-hallows",
-      "id": "19245708",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1351354006i/13634927.jpg",
-      "authors": [
-        "Diana Gabaldon"
-      ],
-      "genres": [
-        "historical-fiction",
-        "fiction",
-        "fantasy",
-        "time-travel",
-        "romance",
-        "historical",
-        "historical-romance"
-      ],
-      "rating": 4.28,
-      "ratings": 23174,
-      "reviews": 1110
-    },
-    {
-      "title": "Spell or High Water",
-      "url": "https://www.goodreads.com/book/show/21483760-spell-or-high-water",
-      "id": "40223686",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1395612093i/21483760.jpg",
-      "authors": [
-        "Scott  Meyer"
-      ],
-      "genres": [
-        "fantasy",
-        "fiction",
-        "science-fiction",
-        "audiobook",
-        "humor",
-        "time-travel",
-        "comedy"
-      ],
-      "rating": 4.04,
-      "ratings": 22959,
-      "reviews": 1072
-    },
-    {
-      "title": "Signal Moon: A Short Story",
-      "url": "https://www.goodreads.com/book/show/61045711-signal-moon",
-      "id": "96202588",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1651885135i/61045711.jpg",
-      "authors": [
-        "Kate Quinn"
-      ],
-      "genres": [
-        "historical-fiction",
-        "short-stories",
-        "fiction",
-        "science-fiction",
-        "time-travel",
-        "historical",
-        "world-war-ii"
-      ],
-      "rating": 4.33,
-      "ratings": 22788,
-      "reviews": 2040
-    },
-    {
-      "title": "Transcendence",
-      "url": "https://www.goodreads.com/book/show/20504754-transcendence",
-      "id": "34802286",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1391320052i/20504754.jpg",
-      "authors": [
-        "Shay Savage"
-      ],
-      "genres": [
-        "romance",
-        "time-travel",
-        "historical",
-        "fantasy",
-        "historical-romance",
-        "historical-fiction",
-        "adult"
-      ],
-      "rating": 4.04,
-      "ratings": 22690,
-      "reviews": 3713
-    },
-    {
-      "title": "Waterfall",
-      "url": "https://www.goodreads.com/book/show/7879278-waterfall",
-      "id": "11075036",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1429307722i/7879278.jpg",
-      "authors": [
-        "Lisa Tawn Bergren"
-      ],
-      "genres": [
-        "time-travel",
-        "young-adult",
-        "historical-fiction",
-        "fantasy",
-        "romance",
-        "historical",
-        "christian-fiction"
-      ],
-      "rating": 4.02,
-      "ratings": 22112,
-      "reviews": 2343
-    },
-    {
-      "title": "All You Need Is Kill",
-      "url": "https://www.goodreads.com/book/show/6255949-all-you-need-is-kill",
-      "id": "6439033",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1568911292i/6255949.jpg",
-      "authors": [
-        "Hiroshi Sakurazaka"
-      ],
-      "genres": [
-        "science-fiction",
-        "fiction",
-        "manga",
-        "time-travel",
-        "war",
-        "japan",
-        "light-novel"
-      ],
       "rating": 4.03,
-      "ratings": 21780,
-      "reviews": 2064
+      "ratings": 32294,
+      "reviews": 3354
     },
     {
-      "title": "All Clear",
-      "url": "https://www.goodreads.com/book/show/7519231-all-clear",
-      "id": "9735628",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320549311i/7519231.jpg",
+      "title": "The Golden Dynasty",
+      "url": "https://www.goodreads.com/book/show/75982255-the-golden-dynasty",
+      "id": "17441876",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1673492501i/75982255.jpg",
       "authors": [
-        "Connie Willis"
-      ],
-      "genres": [
-        "science-fiction",
-        "time-travel",
-        "historical-fiction",
-        "fiction",
-        "historical",
-        "fantasy",
-        "world-war-ii"
-      ],
-      "rating": 4.07,
-      "ratings": 20613,
-      "reviews": 2453
-    },
-    {
-      "title": "The Last Magician",
-      "url": "https://www.goodreads.com/book/show/30312855-the-last-magician",
-      "id": "50799556",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1468598919i/30312855.jpg",
-      "authors": [
-        "Lisa   Maxwell"
+        "Kristen Ashley"
       ],
       "genres": [
         "fantasy",
-        "young-adult",
-        "historical-fiction",
-        "time-travel",
+        "romance",
+        "paranormal",
+        "fantasy-romance",
+        "paranormal-romance",
         "magic",
-        "young-adult-fantasy",
-        "historical"
+        "time-travel"
       ],
-      "rating": 4.04,
-      "ratings": 20380,
-      "reviews": 3794
+      "rating": 4.35,
+      "ratings": 31732,
+      "reviews": 3032
     },
     {
-      "title": "A Symphony of Echoes",
-      "url": "https://www.goodreads.com/book/show/25876967-a-symphony-of-echoes",
-      "id": "25739756",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1436438322i/25876967.jpg",
+      "title": "A Day Like This",
+      "url": "https://www.goodreads.com/book/show/57597229-a-day-like-this",
+      "id": "89014090",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1626938014i/57597229.jpg",
       "authors": [
-        "Jodi Taylor"
+        "Kelley McNeil"
       ],
       "genres": [
-        "time-travel",
-        "fantasy",
-        "science-fiction",
-        "fiction",
-        "historical-fiction",
-        "audiobook",
-        "historical"
-      ],
-      "rating": 4.12,
-      "ratings": 19606,
-      "reviews": 1656
-    },
-    {
-      "title": "The Space Between",
-      "url": "https://www.goodreads.com/book/show/21418017-the-space-between",
-      "id": "40721190",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1395125614i/21418017.jpg",
-      "authors": [
-        "Diana Gabaldon"
-      ],
-      "genres": [
-        "historical-fiction",
-        "fiction",
-        "fantasy",
-        "time-travel",
-        "romance",
-        "historical",
-        "historical-romance"
-      ],
-      "rating": 4.25,
-      "ratings": 19392,
-      "reviews": 928
-    },
-    {
-      "title": "Paper Girls, Volume 4",
-      "url": "https://www.goodreads.com/book/show/35989512-paper-girls-volume-4",
-      "id": "57550454",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1657006814i/35989512.jpg",
-      "authors": [
-        "Brian K. Vaughan"
-      ],
-      "genres": [
-        "graphic-novels",
-        "comics",
-        "science-fiction",
-        "fiction",
-        "young-adult",
-        "time-travel",
-        "graphic-novels-comics"
-      ],
-      "rating": 4.14,
-      "ratings": 18837,
-      "reviews": 1580
-    },
-    {
-      "title": "Lost in Time",
-      "url": "https://www.goodreads.com/book/show/60522318-lost-in-time",
-      "id": "95380971",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1651062928i/60522318.jpg",
-      "authors": [
-        "A.G. Riddle"
-      ],
-      "genres": [
-        "science-fiction",
-        "time-travel",
         "fiction",
         "mystery",
         "thriller",
         "fantasy",
-        "audiobook"
-      ],
-      "rating": 4.22,
-      "ratings": 18195,
-      "reviews": 1543
-    },
-    {
-      "title": "An Unwelcome Quest",
-      "url": "https://www.goodreads.com/book/show/23249416-an-unwelcome-quest",
-      "id": "42792043",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1412456562i/23249416.jpg",
-      "authors": [
-        "Scott  Meyer"
-      ],
-      "genres": [
-        "fantasy",
-        "fiction",
-        "science-fiction",
-        "humor",
-        "audiobook",
-        "time-travel",
-        "comedy"
-      ],
-      "rating": 4,
-      "ratings": 17319,
-      "reviews": 849
-    },
-    {
-      "title": "In 27 Days",
-      "url": "https://www.goodreads.com/book/show/17164933-in-27-days",
-      "id": "23591596",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1381777064i/17164933.jpg",
-      "authors": [
-        "Alison Gervais"
-      ],
-      "genres": [
-        "romance",
-        "young-adult",
-        "fantasy",
-        "contemporary",
-        "paranormal",
-        "fiction",
-        "time-travel"
-      ],
-      "rating": 4.28,
-      "ratings": 16501,
-      "reviews": 1889
-    },
-    {
-      "title": "A Million Worlds with You",
-      "url": "https://www.goodreads.com/book/show/28960100-a-million-worlds-with-you",
-      "id": "23752700",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1477739779i/28960100.jpg",
-      "authors": [
-        "Claudia Gray"
-      ],
-      "genres": [
-        "young-adult",
-        "science-fiction",
-        "fantasy",
-        "romance",
-        "fiction",
-        "time-travel",
-        "audiobook"
-      ],
-      "rating": 4.04,
-      "ratings": 16097,
-      "reviews": 2070
-    },
-    {
-      "title": "Woke Up Like This",
-      "url": "https://www.goodreads.com/book/show/125931167-woke-up-like-this",
-      "id": "146924262",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1680838514i/125931167.jpg",
-      "authors": [
-        "Amy  Lea"
-      ],
-      "genres": [
-        "romance",
-        "young-adult",
-        "fiction",
-        "time-travel",
-        "contemporary",
-        "contemporary-romance",
-        "chick-lit"
-      ],
-      "rating": 4.05,
-      "ratings": 15655,
-      "reviews": 1713
-    },
-    {
-      "title": "Seven Stones to Stand or Fall",
-      "url": "https://www.goodreads.com/book/show/32739396-seven-stones-to-stand-or-fall",
-      "id": "53330933",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1510761568i/32739396.jpg",
-      "authors": [
-        "Diana Gabaldon"
-      ],
-      "genres": [
-        "historical-fiction",
-        "fiction",
-        "fantasy",
-        "historical",
-        "romance",
-        "time-travel",
-        "short-stories"
-      ],
-      "rating": 4.27,
-      "ratings": 15498,
-      "reviews": 1213
-    },
-    {
-      "title": "Paper Girls, Volume 5",
-      "url": "https://www.goodreads.com/book/show/38812893-paper-girls-volume-5",
-      "id": "60386765",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1657101678i/38812893.jpg",
-      "authors": [
-        "Brian K. Vaughan"
-      ],
-      "genres": [
-        "graphic-novels",
-        "comics",
-        "science-fiction",
-        "fiction",
-        "time-travel",
-        "young-adult",
-        "graphic-novels-comics"
-      ],
-      "rating": 4.2,
-      "ratings": 15422,
-      "reviews": 1283
-    },
-    {
-      "title": "A Second Chance",
-      "url": "https://www.goodreads.com/book/show/25877074-a-second-chance",
-      "id": "43198715",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1436440829i/25877074.jpg",
-      "authors": [
-        "Jodi Taylor"
-      ],
-      "genres": [
-        "time-travel",
-        "fantasy",
-        "science-fiction",
-        "historical-fiction",
-        "fiction",
-        "historical",
-        "audiobook"
-      ],
-      "rating": 4.29,
-      "ratings": 15206,
-      "reviews": 1182
-    },
-    {
-      "title": "The Outlandish Companion",
-      "url": "https://www.goodreads.com/book/show/10989.The_Outlandish_Companion",
-      "id": "1451242",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388201146i/10989.jpg",
-      "authors": [
-        "Diana Gabaldon"
-      ],
-      "genres": [
-        "historical-fiction",
-        "fiction",
-        "time-travel",
-        "romance",
-        "fantasy",
-        "historical",
-        "reference"
-      ],
-      "rating": 4.11,
-      "ratings": 14654,
-      "reviews": 662
-    },
-    {
-      "title": "Time and Time Again",
-      "url": "https://www.goodreads.com/book/show/23164931-time-and-time-again",
-      "id": "42710967",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1411333773i/23164931.jpg",
-      "authors": [
-        "Ben Elton"
-      ],
-      "genres": [
-        "time-travel",
-        "historical-fiction",
-        "fiction",
-        "science-fiction",
-        "fantasy",
-        "historical",
-        "thriller"
-      ],
-      "rating": 4.09,
-      "ratings": 13443,
-      "reviews": 1714
-    },
-    {
-      "title": "A Trail Through Time",
-      "url": "https://www.goodreads.com/book/show/25877103-a-trail-through-time",
-      "id": "42046365",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1436441543i/25877103.jpg",
-      "authors": [
-        "Jodi Taylor"
-      ],
-      "genres": [
-        "time-travel",
-        "fantasy",
-        "science-fiction",
-        "historical-fiction",
-        "fiction",
-        "audiobook",
-        "historical"
-      ],
-      "rating": 4.32,
-      "ratings": 13355,
-      "reviews": 847
-    },
-    {
-      "title": "Paper Girls, Volume 6",
-      "url": "https://www.goodreads.com/book/show/44426058-paper-girls-volume-6",
-      "id": "68983919",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1657187947i/44426058.jpg",
-      "authors": [
-        "Brian K. Vaughan"
-      ],
-      "genres": [
-        "graphic-novels",
-        "comics",
-        "science-fiction",
-        "fiction",
-        "time-travel",
-        "young-adult",
-        "lgbt"
-      ],
-      "rating": 4.2,
-      "ratings": 13089,
-      "reviews": 1638
-    },
-    {
-      "title": "Kruistocht in spijkerbroek",
-      "url": "https://www.goodreads.com/book/show/3114666-kruistocht-in-spijkerbroek",
-      "id": "959221",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1206654386i/3114666.jpg",
-      "authors": [
-        "Thea Beckman"
-      ],
-      "genres": [
-        "historical-fiction",
-        "fiction",
-        "young-adult",
-        "childrens",
-        "historical",
-        "fantasy",
-        "time-travel"
-      ],
-      "rating": 4.05,
-      "ratings": 12908,
-      "reviews": 509
-    },
-    {
-      "title": "The Many-Coloured Land",
-      "url": "https://www.goodreads.com/book/show/378639.The_Many_Coloured_Land",
-      "id": "368245",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1174314750i/378639.jpg",
-      "authors": [
-        "Julian  May"
-      ],
-      "genres": [
-        "science-fiction",
-        "fantasy",
-        "fiction",
-        "time-travel",
-        "science-fiction-fantasy",
-        "speculative-fiction",
-        "adventure"
-      ],
-      "rating": 4.07,
-      "ratings": 12824,
-      "reviews": 593
-    },
-    {
-      "title": "1632",
-      "url": "https://www.goodreads.com/book/show/16967.1632",
-      "id": "1172297",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1391233659i/16967.jpg",
-      "authors": [
-        "Eric Flint"
-      ],
-      "genres": [
-        "alternate-history",
-        "science-fiction",
-        "fiction",
-        "time-travel",
-        "fantasy",
-        "historical-fiction",
-        "historical"
-      ],
-      "rating": 4.05,
-      "ratings": 12702,
-      "reviews": 939
-    },
-    {
-      "title": "The Good Part",
-      "url": "https://www.goodreads.com/book/show/112976344-the-good-part",
-      "id": "135511344",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1685352418i/112976344.jpg",
-      "authors": [
-        "Sophie Cousens"
-      ],
-      "genres": [
-        "romance",
-        "fiction",
-        "contemporary",
-        "time-travel",
-        "chick-lit",
-        "magical-realism",
-        "audiobook"
-      ],
-      "rating": 4.12,
-      "ratings": 12225,
-      "reviews": 2635
-    },
-    {
-      "title": "No Time Like the Past",
-      "url": "https://www.goodreads.com/book/show/25877522-no-time-like-the-past",
-      "id": "43702534",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1436450342i/25877522.jpg",
-      "authors": [
-        "Jodi Taylor"
-      ],
-      "genres": [
-        "time-travel",
-        "fantasy",
-        "science-fiction",
-        "historical-fiction",
-        "fiction",
-        "historical",
-        "audiobook"
-      ],
-      "rating": 4.36,
-      "ratings": 12165,
-      "reviews": 708
-    },
-    {
-      "title": "A Witch in Time",
-      "url": "https://www.goodreads.com/book/show/44161656-a-witch-in-time",
-      "id": "68685802",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1566358154i/44161656.jpg",
-      "authors": [
-        "Constance Sayers"
-      ],
-      "genres": [
-        "fantasy",
-        "historical-fiction",
-        "romance",
-        "witches",
-        "fiction",
-        "time-travel",
-        "historical"
-      ],
-      "rating": 4.04,
-      "ratings": 12134,
-      "reviews": 1762
-    },
-    {
-      "title": "The Cabinet of Dr. Leng",
-      "url": "https://www.goodreads.com/book/show/61030725-the-cabinet-of-dr-leng",
-      "id": "95610004",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1665473451i/61030725.jpg",
-      "authors": [
-        "Douglas Preston"
-      ],
-      "genres": [
-        "mystery",
-        "thriller",
-        "fiction",
         "mystery-thriller",
-        "science-fiction",
-        "time-travel",
-        "suspense"
-      ],
-      "rating": 4.29,
-      "ratings": 12040,
-      "reviews": 1384
-    },
-    {
-      "title": "Orange: The Complete Collection, Volume 2",
-      "url": "https://www.goodreads.com/book/show/26247042-orange",
-      "id": "46241001",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1463161823i/26247042.jpg",
-      "authors": [
-        "Ichigo Takano"
-      ],
-      "genres": [
-        "manga",
-        "graphic-novels",
-        "romance",
-        "young-adult",
         "contemporary",
-        "science-fiction",
         "time-travel"
       ],
-      "rating": 4.41,
-      "ratings": 11826,
-      "reviews": 1628
-    },
-    {
-      "title": "Cascade",
-      "url": "https://www.goodreads.com/book/show/9368401-cascade",
-      "id": "14251927",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1433777176i/9368401.jpg",
-      "authors": [
-        "Lisa Tawn Bergren"
-      ],
-      "genres": [
-        "time-travel",
-        "historical-fiction",
-        "young-adult",
-        "fantasy",
-        "romance",
-        "historical",
-        "christian-fiction"
-      ],
-      "rating": 4.25,
-      "ratings": 11540,
-      "reviews": 1005
-    },
-    {
-      "title": "Parallel",
-      "url": "https://www.goodreads.com/book/show/60140684-parallel",
-      "id": "69138819",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1642373868i/60140684.jpg",
-      "authors": [
-        "Elizabeth O'Roark"
-      ],
-      "genres": [
-        "romance",
-        "time-travel",
-        "fantasy",
-        "paranormal",
-        "contemporary-romance",
-        "contemporary",
-        "adult"
-      ],
-      "rating": 4.23,
-      "ratings": 11428,
-      "reviews": 1590
-    },
-    {
-      "title": "Paradox Effect: Time Travel and Purified DNA Merge to Halt the Collapse of Human Existence",
-      "url": "https://www.goodreads.com/book/show/27111181-paradox-effect",
-      "id": "47153176",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1444879956i/27111181.jpg",
-      "authors": [
-        "Gabriel F.W. Koch"
-      ],
-      "genres": [
-        "fiction",
-        "science-fiction",
-        "young-adult",
-        "novels",
-        "space",
-        "time-travel",
-        "contemporary"
-      ],
-      "rating": 4.33,
-      "ratings": 11101,
-      "reviews": 54
-    },
-    {
-      "title": "Red River, Vol. 1",
-      "url": "https://www.goodreads.com/book/show/357399.Red_River_Vol_1",
-      "id": "2290903",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388431212i/357399.jpg",
-      "authors": [
-        "Chie Shinohara"
-      ],
-      "genres": [
-        "manga",
-        "fantasy",
-        "romance",
-        "graphic-novels",
-        "historical-fiction",
-        "time-travel",
-        "historical"
-      ],
-      "rating": 4.23,
-      "ratings": 10983,
-      "reviews": 249
-    },
-    {
-      "title": "Quantum Radio",
-      "url": "https://www.goodreads.com/book/show/64415236-quantum-radio",
-      "id": "91704260",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1670432306i/64415236.jpg",
-      "authors": [
-        "A.G. Riddle"
-      ],
-      "genres": [
-        "science-fiction",
-        "fiction",
-        "time-travel",
-        "thriller",
-        "audiobook",
-        "fantasy",
-        "adult"
-      ],
-      "rating": 4.13,
-      "ratings": 10745,
-      "reviews": 648
-    },
-    {
-      "title": "What Could Possibly Go Wrong?",
-      "url": "https://www.goodreads.com/book/show/28236098-what-could-possibly-go-wrong",
-      "id": "45130405",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1450406362i/28236098.jpg",
-      "authors": [
-        "Jodi Taylor"
-      ],
-      "genres": [
-        "time-travel",
-        "fantasy",
-        "science-fiction",
-        "historical-fiction",
-        "fiction",
-        "historical",
-        "audiobook"
-      ],
-      "rating": 4.42,
-      "ratings": 10597,
-      "reviews": 632
-    },
-    {
-      "title": "A Rip Through Time",
-      "url": "https://www.goodreads.com/book/show/58724944-a-rip-through-time",
-      "id": "92420847",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1633454692i/58724944.jpg",
-      "authors": [
-        "Kelley Armstrong"
-      ],
-      "genres": [
-        "mystery",
-        "time-travel",
-        "historical-fiction",
-        "fantasy",
-        "historical",
-        "fiction",
-        "mystery-thriller"
-      ],
-      "rating": 4.02,
-      "ratings": 10202,
-      "reviews": 1725
-    },
-    {
-      "title": "The Enigma Cube",
-      "url": "https://www.goodreads.com/book/show/50535129-the-enigma-cube",
-      "id": "75516904",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1580544778i/50535129.jpg",
-      "authors": [
-        "Douglas E. Richards"
-      ],
-      "genres": [
-        "science-fiction",
-        "fiction",
-        "thriller",
-        "time-travel",
-        "fantasy",
-        "mystery",
-        "aliens"
-      ],
-      "rating": 4.13,
-      "ratings": 10195,
-      "reviews": 500
-    },
-    {
-      "title": "A Stitch in Time",
-      "url": "https://www.goodreads.com/book/show/53447303-a-stitch-in-time",
-      "id": "78491977",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1589940231i/53447303.jpg",
-      "authors": [
-        "Kelley Armstrong"
-      ],
-      "genres": [
-        "romance",
-        "time-travel",
-        "fantasy",
-        "mystery",
-        "paranormal",
-        "historical-fiction",
-        "historical"
-      ],
-      "rating": 4.02,
-      "ratings": 10135,
-      "reviews": 1396
-    },
-    {
-      "title": "Torrent",
-      "url": "https://www.goodreads.com/book/show/9935444-torrent",
-      "id": "14828612",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327897989i/9935444.jpg",
-      "authors": [
-        "Lisa Tawn Bergren"
-      ],
-      "genres": [
-        "time-travel",
-        "historical-fiction",
-        "young-adult",
-        "fantasy",
-        "romance",
-        "christian-fiction",
-        "historical"
-      ],
-      "rating": 4.3,
-      "ratings": 9966,
-      "reviews": 912
-    },
-    {
-      "title": "Lies, Damned Lies, and History",
-      "url": "https://www.goodreads.com/book/show/26308512-lies-damned-lies-and-history",
-      "id": "46307811",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1441914928i/26308512.jpg",
-      "authors": [
-        "Jodi Taylor"
-      ],
-      "genres": [
-        "time-travel",
-        "fantasy",
-        "science-fiction",
-        "historical-fiction",
-        "fiction",
-        "historical",
-        "audiobook"
-      ],
-      "rating": 4.42,
-      "ratings": 9932,
-      "reviews": 642
-    },
-    {
-      "title": "The Outlander Series",
-      "url": "https://www.goodreads.com/book/show/16029144-the-outlander-series",
-      "id": "21798082",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1417380606i/16029144.jpg",
-      "authors": [
-        "Diana Gabaldon"
-      ],
-      "genres": [
-        "historical-fiction",
-        "romance",
-        "fantasy",
-        "fiction",
-        "historical",
-        "time-travel",
-        "historical-romance"
-      ],
-      "rating": 4.71,
-      "ratings": 9872,
-      "reviews": 461
-    },
-    {
-      "title": "Kindred: A Graphic Novel Adaptation",
-      "url": "https://www.goodreads.com/book/show/28818221-kindred",
-      "id": "49035533",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1456379336i/28818221.jpg",
-      "authors": [
-        "Damian Duffy"
-      ],
-      "genres": [
-        "graphic-novels",
-        "historical-fiction",
-        "science-fiction",
-        "fiction",
-        "comics",
-        "time-travel",
-        "fantasy"
-      ],
       "rating": 4.2,
-      "ratings": 9854,
-      "reviews": 1649
+      "ratings": 28881,
+      "reviews": 2069
     }
   ]
 }

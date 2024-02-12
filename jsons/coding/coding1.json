@@ -1,67 +1,508 @@
 {
   "books": [
     {
-      "title": "Ruby on Rails Tutorial: Learn Web Development with Rails",
-      "url": "https://www.goodreads.com/book/show/13705557-ruby-on-rails-tutorial",
-      "id": "19338066",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1355074500i/13705557.jpg",
+      "title": "Refactoring to Patterns",
+      "url": "https://www.goodreads.com/book/show/85041.Refactoring_to_Patterns",
+      "id": "82065",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347966206i/85041.jpg",
       "authors": [
-        "Michael Hartl"
+        "Joshua Kerievsky"
       ],
       "genres": [
         "programming",
         "technology",
+        "software",
+        "computer-science",
+        "technical",
         "coding",
-        "computers",
-        "non-fiction",
-        "reference",
-        "engineering"
+        "non-fiction"
       ],
-      "rating": 4.31,
-      "ratings": 567,
-      "reviews": 64
+      "rating": 4.06,
+      "ratings": 1427,
+      "reviews": 47
     },
     {
-      "title": "Introduction to Machine Learning with Python: A Guide for Data Scientists",
-      "url": "https://www.goodreads.com/book/show/24346909-introduction-to-machine-learning-with-python",
-      "id": "43928805",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1475832701i/24346909.jpg",
+      "title": "The Art of Unit Testing: With Examples in .NET",
+      "url": "https://www.goodreads.com/book/show/6487349-the-art-of-unit-testing",
+      "id": "6678711",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348818347i/6487349.jpg",
       "authors": [
-        "Andreas C. Müller"
+        "Roy Osherove"
       ],
       "genres": [
         "programming",
+        "software",
         "computer-science",
         "technology",
-        "artificial-intelligence",
+        "technical",
         "non-fiction",
-        "science",
         "coding"
       ],
-      "rating": 4.35,
-      "ratings": 523,
-      "reviews": 49
+      "rating": 4.09,
+      "ratings": 1381,
+      "reviews": 105
     },
     {
-      "title": "The Road to React",
-      "url": "https://www.goodreads.com/book/show/37503118-the-road-to-react",
-      "id": "54742113",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1513179373i/37503118.jpg",
+      "title": "Agile Software Development, Principles, Patterns, and Practices",
+      "url": "https://www.goodreads.com/book/show/84985.Agile_Software_Development_Principles_Patterns_and_Practices",
+      "id": "82011",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348196056i/84985.jpg",
       "authors": [
-        "Robin Wieruch"
+        "Robert C. Martin"
+      ],
+      "genres": [
+        "programming",
+        "software",
+        "technology",
+        "computer-science",
+        "technical",
+        "non-fiction",
+        "coding"
+      ],
+      "rating": 4.25,
+      "ratings": 1274,
+      "reviews": 61
+    },
+    {
+      "title": "Secrets of the JavaScript Ninja",
+      "url": "https://www.goodreads.com/book/show/4373732-secrets-of-the-javascript-ninja",
+      "id": "4421745",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1361224545i/4373732.jpg",
+      "authors": [
+        "John Resig"
+      ],
+      "genres": [
+        "programming",
+        "technology",
+        "computer-science",
+        "technical",
+        "software",
+        "non-fiction",
+        "coding"
+      ],
+      "rating": 4.22,
+      "ratings": 1237,
+      "reviews": 86
+    },
+    {
+      "title": "You Don't Know JS: this & Object Prototypes",
+      "url": "https://www.goodreads.com/book/show/22221108-you-don-t-know-js",
+      "id": "41559952",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1405288115i/22221108.jpg",
+      "authors": [
+        "Kyle Simpson"
+      ],
+      "genres": [
+        "programming",
+        "technology",
+        "computer-science",
+        "non-fiction",
+        "technical",
+        "coding",
+        "software"
+      ],
+      "rating": 4.49,
+      "ratings": 1221,
+      "reviews": 81
+    },
+    {
+      "title": "The Complete Software Developer's Career Guide: How to Learn Your Next Programming Language, Ace Your Programming Interview, and Land The Coding Job Of Your Dreams",
+      "url": "https://www.goodreads.com/book/show/35674293-the-complete-software-developer-s-career-guide",
+      "id": "57143371",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1500048042i/35674293.jpg",
+      "authors": [
+        "John Z. Sonmez"
+      ],
+      "genres": [
+        "programming",
+        "non-fiction",
+        "software",
+        "computer-science",
+        "technology",
+        "coding",
+        "self-help"
+      ],
+      "rating": 4.04,
+      "ratings": 1218,
+      "reviews": 103
+    },
+    {
+      "title": "Computer Science Distilled: Learn the Art of Solving Computational Problems",
+      "url": "https://www.goodreads.com/book/show/34189798-computer-science-distilled",
+      "id": "55228134",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1486586550i/34189798.jpg",
+      "authors": [
+        "Wladston Ferreira Filho"
+      ],
+      "genres": [
+        "computer-science",
+        "programming",
+        "technology",
+        "science",
+        "coding",
+        "non-fiction",
+        "technical"
+      ],
+      "rating": 4.08,
+      "ratings": 1081,
+      "reviews": 145
+    },
+    {
+      "title": "Paths & Portals",
+      "url": "https://www.goodreads.com/book/show/25688979-paths-portals",
+      "id": "45517393",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1444637823i/25688979.jpg",
+      "authors": [
+        "Gene Luen Yang"
+      ],
+      "genres": [
+        "graphic-novels",
+        "middle-grade",
+        "comics",
+        "science",
+        "childrens",
+        "coding",
+        "juvenile"
+      ],
+      "rating": 4.09,
+      "ratings": 1059,
+      "reviews": 154
+    },
+    {
+      "title": "Python Tricks: A Buffet of Awesome Python Features",
+      "url": "https://www.goodreads.com/book/show/36990732-python-tricks",
+      "id": "58290658",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1512678173i/36990732.jpg",
+      "authors": [
+        "Dan Bader"
       ],
       "genres": [
         "programming",
         "computer-science",
+        "coding",
+        "technology",
+        "non-fiction",
+        "technical",
+        "reference"
+      ],
+      "rating": 4.44,
+      "ratings": 1057,
+      "reviews": 97
+    },
+    {
+      "title": "Atomic Design",
+      "url": "https://www.goodreads.com/book/show/35496817-atomic-design",
+      "id": "49892016",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1498137521i/35496817.jpg",
+      "authors": [
+        "Brad Frost"
+      ],
+      "genres": [
+        "design",
+        "non-fiction",
+        "programming",
+        "technology",
+        "business",
+        "website-design",
+        "coding"
+      ],
+      "rating": 4.02,
+      "ratings": 959,
+      "reviews": 83
+    },
+    {
+      "title": "Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman",
+      "url": "https://www.goodreads.com/book/show/5608045-apprenticeship-patterns",
+      "id": "5779422",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328834807i/5608045.jpg",
+      "authors": [
+        "Dave Hoover"
+      ],
+      "genres": [
+        "programming",
+        "technology",
+        "software",
+        "computer-science",
+        "non-fiction",
+        "technical",
+        "coding"
+      ],
+      "rating": 4.12,
+      "ratings": 927,
+      "reviews": 131
+    },
+    {
+      "title": "SCJP Sun Certified Programmer for Java 6 Study Guide",
+      "url": "https://www.goodreads.com/book/show/2593099-scjp-sun-certified-programmer-for-java-6-study-guide",
+      "id": "2613785",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1369818986i/2593099.jpg",
+      "authors": [
+        "Kathy Sierra"
+      ],
+      "genres": [
+        "programming",
+        "technology",
+        "non-fiction",
+        "computer-science",
+        "technical",
+        "computers",
+        "coding"
+      ],
+      "rating": 4.29,
+      "ratings": 860,
+      "reviews": 60
+    },
+    {
+      "title": "But How Do It Know? The Basic Principles of Computers for Everyone",
+      "url": "https://www.goodreads.com/book/show/18276352-but-how-do-it-know-the-basic-principles-of-computers-for-everyone",
+      "id": "25745535",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1375433017i/18276352.jpg",
+      "authors": [
+        "J. Clark Scott"
+      ],
+      "genres": [
+        "computer-science",
+        "programming",
+        "non-fiction",
+        "technology",
+        "science",
+        "computers",
+        "coding"
+      ],
+      "rating": 4.46,
+      "ratings": 832,
+      "reviews": 71
+    },
+    {
+      "title": "Python for Everybody: Exploring Data in Python 3",
+      "url": "https://www.goodreads.com/book/show/31134574-python-for-everybody",
+      "id": "50390184",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1468695521i/31134574.jpg",
+      "authors": [
+        "Charles Severance"
+      ],
+      "genres": [
+        "programming",
+        "technology",
+        "computer-science",
+        "non-fiction",
+        "reference",
+        "coding",
+        "science"
+      ],
+      "rating": 4.28,
+      "ratings": 821,
+      "reviews": 66
+    },
+    {
+      "title": "Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript",
+      "url": "https://www.goodreads.com/book/show/13705402-effective-javascript",
+      "id": "19337911",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1372042097i/13705402.jpg",
+      "authors": [
+        "David  Herman"
+      ],
+      "genres": [
+        "programming",
         "technology",
         "software",
         "non-fiction",
-        "coding",
-        "computers"
+        "computer-science",
+        "technical",
+        "coding"
       ],
-      "rating": 4.23,
-      "ratings": 501,
-      "reviews": 72
+      "rating": 4.3,
+      "ratings": 785,
+      "reviews": 61
+    },
+    {
+      "title": "The Well-Grounded Rubyist: Covers Ruby 1.9.1",
+      "url": "https://www.goodreads.com/book/show/3892688-the-well-grounded-rubyist",
+      "id": "3937988",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348901466i/3892688.jpg",
+      "authors": [
+        "David A. Black"
+      ],
+      "genres": [
+        "programming",
+        "technology",
+        "computer-science",
+        "technical",
+        "coding",
+        "software",
+        "non-fiction"
+      ],
+      "rating": 4.3,
+      "ratings": 759,
+      "reviews": 66
+    },
+    {
+      "title": "Agile Principles, Patterns, and Practices in C#",
+      "url": "https://www.goodreads.com/book/show/84983.Agile_Principles_Patterns_and_Practices_in_C_",
+      "id": "82009",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348657323i/84983.jpg",
+      "authors": [
+        "Robert C. Martin"
+      ],
+      "genres": [
+        "programming",
+        "technology",
+        "software",
+        "technical",
+        "computer-science",
+        "non-fiction",
+        "coding"
+      ],
+      "rating": 4.28,
+      "ratings": 755,
+      "reviews": 38
+    },
+    {
+      "title": "The Art of Readable Code: Simple and Practical Techniques for Writing Better Code",
+      "url": "https://www.goodreads.com/book/show/8677004-the-art-of-readable-code",
+      "id": "13548937",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1324147949i/8677004.jpg",
+      "authors": [
+        "Dustin Boswell"
+      ],
+      "genres": [
+        "programming",
+        "computer-science",
+        "non-fiction",
+        "software",
+        "technology",
+        "technical",
+        "coding"
+      ],
+      "rating": 4,
+      "ratings": 736,
+      "reviews": 93
+    },
+    {
+      "title": "Web Design with HTML, CSS, JavaScript and jQuery Set",
+      "url": "https://www.goodreads.com/book/show/20666969-web-design-with-html-css-javascript-and-jquery-set",
+      "id": "39965162",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1393784856i/20666969.jpg",
+      "authors": [
+        "Jon Duckett"
+      ],
+      "genres": [
+        "programming",
+        "website-design",
+        "coding",
+        "technology",
+        "computer-science",
+        "reference",
+        "design"
+      ],
+      "rating": 4.41,
+      "ratings": 727,
+      "reviews": 23
+    },
+    {
+      "title": "You Don't Know JS: Types & Grammar",
+      "url": "https://www.goodreads.com/book/show/22221109-you-don-t-know-js",
+      "id": "41559953",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1401076393i/22221109.jpg",
+      "authors": [
+        "Kyle Simpson"
+      ],
+      "genres": [
+        "programming",
+        "technology",
+        "computer-science",
+        "non-fiction",
+        "technical",
+        "software",
+        "coding"
+      ],
+      "rating": 4.49,
+      "ratings": 725,
+      "reviews": 27
+    },
+    {
+      "title": "Python Pocket Reference",
+      "url": "https://www.goodreads.com/book/show/583495.Python_Pocket_Reference",
+      "id": "570354",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388711420i/583495.jpg",
+      "authors": [
+        "Mark Lutz"
+      ],
+      "genres": [
+        "reference",
+        "programming",
+        "computers",
+        "computer-science",
+        "non-fiction",
+        "technical",
+        "coding"
+      ],
+      "rating": 4.02,
+      "ratings": 717,
+      "reviews": 27
+    },
+    {
+      "title": "Java 8 in Action",
+      "url": "https://www.goodreads.com/book/show/20534354-java-8-in-action",
+      "id": "37712584",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1420231793i/20534354.jpg",
+      "authors": [
+        "Raoul-Gabriel Urma"
+      ],
+      "genres": [
+        "programming",
+        "technology",
+        "computer-science",
+        "technical",
+        "software",
+        "non-fiction",
+        "coding"
+      ],
+      "rating": 4.36,
+      "ratings": 674,
+      "reviews": 82
+    },
+    {
+      "title": "Secrets & Sequences",
+      "url": "https://www.goodreads.com/book/show/29102847-secrets-sequences",
+      "id": "49340909",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1480665605i/29102847.jpg",
+      "authors": [
+        "Gene Luen Yang"
+      ],
+      "genres": [
+        "graphic-novels",
+        "middle-grade",
+        "science-fiction",
+        "childrens",
+        "comics",
+        "mystery",
+        "coding"
+      ],
+      "rating": 4.19,
+      "ratings": 669,
+      "reviews": 87
+    },
+    {
+      "title": "You Don't Know JS: Async & Performance",
+      "url": "https://www.goodreads.com/book/show/22221110-you-don-t-know-js",
+      "id": "41559954",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1401074365i/22221110.jpg",
+      "authors": [
+        "Kyle Simpson"
+      ],
+      "genres": [
+        "programming",
+        "technology",
+        "computer-science",
+        "non-fiction",
+        "technical",
+        "software",
+        "coding"
+      ],
+      "rating": 4.31,
+      "ratings": 659,
+      "reviews": 42
     }
   ]
 }

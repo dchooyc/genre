@@ -1,1052 +1,508 @@
 {
   "books": [
     {
-      "title": "I Hate Fairyland: Book One",
-      "url": "https://www.goodreads.com/book/show/35758533-i-hate-fairyland",
-      "id": "99003639",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1500942915i/35758533.jpg",
+      "title": "Pushkin's Fairy Tales",
+      "url": "https://www.goodreads.com/book/show/1354164.Pushkin_s_Fairy_Tales",
+      "id": "1343867",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327041723i/1354164.jpg",
       "authors": [
-        "Skottie Young"
+        "Alexander Pushkin"
+      ],
+      "genres": [
+        "classics",
+        "russia",
+        "fairy-tales",
+        "poetry",
+        "russian-literature",
+        "fantasy",
+        "childrens"
+      ],
+      "rating": 4.45,
+      "ratings": 3646,
+      "reviews": 42
+    },
+    {
+      "title": "The Brothers Grimm: Illuminated Fairy Tales, Vol. 1",
+      "url": "https://www.goodreads.com/book/show/35271478-the-brothers-grimm",
+      "id": "56630348",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1496213973i/35271478.jpg",
+      "authors": [
+        "Jacob Grimm"
+      ],
+      "genres": [
+        "classics",
+        "fantasy",
+        "fairy-tales",
+        "fiction",
+        "short-stories",
+        "childrens",
+        "folklore"
+      ],
+      "rating": 4.14,
+      "ratings": 3630,
+      "reviews": 190
+    },
+    {
+      "title": "The Princess Game: A Reimagining of Sleeping Beauty",
+      "url": "https://www.goodreads.com/book/show/36562220-the-princess-game",
+      "id": "56769277",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1510202757i/36562220.jpg",
+      "authors": [
+        "Melanie Cellier"
+      ],
+      "genres": [
+        "fantasy",
+        "romance",
+        "fairy-tales",
+        "young-adult",
+        "retellings",
+        "fairy-tale-retellings",
+        "fiction"
+      ],
+      "rating": 4.35,
+      "ratings": 3608,
+      "reviews": 293
+    },
+    {
+      "title": "The Wild Swans",
+      "url": "https://www.goodreads.com/book/show/382818.The_Wild_Swans",
+      "id": "12556",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1254409741i/382818.jpg",
+      "authors": [
+        "Hans Christian Andersen"
+      ],
+      "genres": [
+        "classics",
+        "fantasy",
+        "picture-books",
+        "fairy-tales",
+        "childrens",
+        "fiction",
+        "short-stories"
+      ],
+      "rating": 4.24,
+      "ratings": 3574,
+      "reviews": 138
+    },
+    {
+      "title": "Tricked",
+      "url": "https://www.goodreads.com/book/show/30095472-tricked",
+      "id": "50518344",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1470845856i/30095472.jpg",
+      "authors": [
+        "Jen Calonita"
+      ],
+      "genres": [
+        "fantasy",
+        "middle-grade",
+        "fairy-tales",
+        "magic",
+        "adventure",
+        "fiction",
+        "young-adult"
+      ],
+      "rating": 4.22,
+      "ratings": 3567,
+      "reviews": 245
+    },
+    {
+      "title": "The Annotated Brothers Grimm",
+      "url": "https://www.goodreads.com/book/show/22914.The_Annotated_Brothers_Grimm",
+      "id": "21748871",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386925097i/22914.jpg",
+      "authors": [
+        "Jacob Grimm"
+      ],
+      "genres": [
+        "classics",
+        "fantasy",
+        "fairy-tales",
+        "fiction",
+        "short-stories",
+        "folklore",
+        "mythology"
+      ],
+      "rating": 4.45,
+      "ratings": 3532,
+      "reviews": 139
+    },
+    {
+      "title": "Grounded: The Adventures of Rapunzel",
+      "url": "https://www.goodreads.com/book/show/23399287-grounded",
+      "id": "42955734",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1419320920i/23399287.jpg",
+      "authors": [
+        "Megan   Morrison"
+      ],
+      "genres": [
+        "fantasy",
+        "middle-grade",
+        "fairy-tales",
+        "retellings",
+        "adventure",
+        "young-adult",
+        "childrens"
+      ],
+      "rating": 4.17,
+      "ratings": 3473,
+      "reviews": 443
+    },
+    {
+      "title": "Cold As Ice",
+      "url": "https://www.goodreads.com/book/show/20628555-cold-as-ice",
+      "id": "39915481",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1403493724i/20628555.jpg",
+      "authors": [
+        "Sarah Mlynowski"
+      ],
+      "genres": [
+        "fantasy",
+        "middle-grade",
+        "fairy-tales",
+        "childrens",
+        "fiction",
+        "magic",
+        "audiobook"
+      ],
+      "rating": 4.22,
+      "ratings": 3467,
+      "reviews": 186
+    },
+    {
+      "title": "Interstellar Cinderella",
+      "url": "https://www.goodreads.com/book/show/22875394-interstellar-cinderella",
+      "id": "42439852",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1415585916i/22875394.jpg",
+      "authors": [
+        "Deborah Underwood"
+      ],
+      "genres": [
+        "picture-books",
+        "childrens",
+        "fairy-tales",
+        "science-fiction",
+        "space",
+        "fiction",
+        "fantasy"
+      ],
+      "rating": 4.18,
+      "ratings": 3453,
+      "reviews": 731
+    },
+    {
+      "title": "Cress: Chapters 1-5",
+      "url": "https://www.goodreads.com/book/show/18665229-cress",
+      "id": "40073400",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1381751650i/18665229.jpg",
+      "authors": [
+        "Marissa Meyer"
+      ],
+      "genres": [
+        "fantasy",
+        "young-adult",
+        "science-fiction",
+        "dystopia",
+        "romance",
+        "retellings",
+        "fairy-tales"
+      ],
+      "rating": 4.55,
+      "ratings": 3445,
+      "reviews": 73
+    },
+    {
+      "title": "The Wood Wife",
+      "url": "https://www.goodreads.com/book/show/463024.The_Wood_Wife",
+      "id": "1856525",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1312049409i/463024.jpg",
+      "authors": [
+        "Terri Windling"
+      ],
+      "genres": [
+        "fantasy",
+        "urban-fantasy",
+        "fiction",
+        "magical-realism",
+        "romance",
+        "fairy-tales",
+        "science-fiction-fantasy"
+      ],
+      "rating": 4.2,
+      "ratings": 3444,
+      "reviews": 312
+    },
+    {
+      "title": "The Red Fairy Book",
+      "url": "https://www.goodreads.com/book/show/774544.The_Red_Fairy_Book",
+      "id": "2781420",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328865462i/774544.jpg",
+      "authors": [
+        "Andrew Lang"
+      ],
+      "genres": [
+        "fantasy",
+        "fairy-tales",
+        "classics",
+        "fiction",
+        "short-stories",
+        "childrens",
+        "folklore"
+      ],
+      "rating": 4.14,
+      "ratings": 3424,
+      "reviews": 156
+    },
+    {
+      "title": "Snow White",
+      "url": "https://www.goodreads.com/book/show/11946938-snow-white",
+      "id": "87098665",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1319762033i/11946938.jpg",
+      "authors": [
+        "Jacob Grimm"
+      ],
+      "genres": [
+        "classics",
+        "fairy-tales",
+        "fantasy",
+        "childrens",
+        "picture-books",
+        "fiction",
+        "short-stories"
+      ],
+      "rating": 4.03,
+      "ratings": 3413,
+      "reviews": 476
+    },
+    {
+      "title": "The Princess Pact: a Twist on Rumpelstiltskin",
+      "url": "https://www.goodreads.com/book/show/36562250-the-princess-pact",
+      "id": "54972635",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1510203205i/36562250.jpg",
+      "authors": [
+        "Melanie Cellier"
+      ],
+      "genres": [
+        "fantasy",
+        "romance",
+        "young-adult",
+        "fairy-tales",
+        "retellings",
+        "fairy-tale-retellings",
+        "fiction"
+      ],
+      "rating": 4.11,
+      "ratings": 3412,
+      "reviews": 281
+    },
+    {
+      "title": "Fables: The Deluxe Edition, Book Three",
+      "url": "https://www.goodreads.com/book/show/9367853-fables",
+      "id": "14251377",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1387349812i/9367853.jpg",
+      "authors": [
+        "Bill Willingham"
       ],
       "genres": [
         "graphic-novels",
         "comics",
         "fantasy",
-        "humor",
         "fiction",
-        "horror",
+        "graphic-novels-comics",
+        "fables",
         "fairy-tales"
       ],
-      "rating": 4.13,
-      "ratings": 912,
-      "reviews": 135
+      "rating": 4.44,
+      "ratings": 3400,
+      "reviews": 174
     },
     {
-      "title": "The Worst Princess",
-      "url": "https://www.goodreads.com/book/show/13559812-the-worst-princess",
-      "id": "19133554",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1344394675i/13559812.jpg",
-      "authors": [
-        "Anna Kemp"
-      ],
-      "genres": [
-        "picture-books",
-        "fantasy",
-        "childrens",
-        "dragons",
-        "princesses",
-        "fairy-tales",
-        "humor"
-      ],
-      "rating": 4.21,
-      "ratings": 903,
-      "reviews": 176
-    },
-    {
-      "title": "Abby in Oz",
-      "url": "https://www.goodreads.com/book/show/44575150-abby-in-oz",
-      "id": "69184645",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1560051636i/44575150.jpg",
-      "authors": [
-        "Sarah Mlynowski"
-      ],
-      "genres": [
-        "fantasy",
-        "middle-grade",
-        "childrens",
-        "fairy-tales",
-        "fiction",
-        "retellings",
-        "magic"
-      ],
-      "rating": 4.33,
-      "ratings": 901,
-      "reviews": 73
-    },
-    {
-      "title": "The Ice Queen",
-      "url": "https://www.goodreads.com/book/show/28219500-the-ice-queen",
-      "id": "48247530",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1450223678i/28219500.jpg",
-      "authors": [
-        "Jovee Winters"
-      ],
-      "genres": [
-        "fantasy",
-        "romance",
-        "paranormal-romance",
-        "fairy-tales",
-        "paranormal",
-        "retellings",
-        "adult"
-      ],
-      "rating": 4.09,
-      "ratings": 892,
-      "reviews": 82
-    },
-    {
-      "title": "The Golden Princess",
-      "url": "https://www.goodreads.com/book/show/62664364-the-golden-princess",
-      "id": "93956430",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1663657593i/62664364.jpg",
-      "authors": [
-        "Melanie Cellier"
-      ],
-      "genres": [
-        "fantasy",
-        "fairy-tales",
-        "fairy-tale-retellings",
-        "romance",
-        "young-adult",
-        "retellings",
-        "audiobook"
-      ],
-      "rating": 4.38,
-      "ratings": 892,
-      "reviews": 70
-    },
-    {
-      "title": "A Tune to Make Them Follow",
-      "url": "https://www.goodreads.com/book/show/62970641-a-tune-to-make-them-follow",
-      "id": "98790349",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1665518603i/62970641.jpg",
-      "authors": [
-        "T.A. Lawrence"
-      ],
-      "genres": [
-        "fantasy",
-        "romance",
-        "fae",
-        "fantasy-romance",
-        "young-adult",
-        "high-fantasy",
-        "fairy-tales"
-      ],
-      "rating": 4.04,
-      "ratings": 887,
-      "reviews": 65
-    },
-    {
-      "title": "Little Red Gliding Hood",
-      "url": "https://www.goodreads.com/book/show/24989936-little-red-gliding-hood",
-      "id": "44658063",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1431356853i/24989936.jpg",
-      "authors": [
-        "Tara Lazar"
-      ],
-      "genres": [
-        "picture-books",
-        "fairy-tales",
-        "childrens",
-        "fractured-fairy-tales",
-        "humor",
-        "sports",
-        "fiction"
-      ],
-      "rating": 4.24,
-      "ratings": 883,
-      "reviews": 205
-    },
-    {
-      "title": "Disney Descendants: Mal's Diary",
-      "url": "https://www.goodreads.com/book/show/23507760-disney-descendants",
-      "id": "43111810",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1438413232i/23507760.jpg",
-      "authors": [
-        "Walt Disney Company"
-      ],
-      "genres": [
-        "fantasy",
-        "fiction",
-        "humor",
-        "childrens",
-        "fairy-tales",
-        "chapter-books",
-        "magic"
-      ],
-      "rating": 4.31,
-      "ratings": 870,
-      "reviews": 55
-    },
-    {
-      "title": "Beholden",
-      "url": "https://www.goodreads.com/book/show/53419084-beholden",
-      "id": "82823740",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1589576658i/53419084.jpg",
-      "authors": [
-        "Jody Hedlund"
-      ],
-      "genres": [
-        "fantasy",
-        "young-adult",
-        "christian-fiction",
-        "romance",
-        "retellings",
-        "christian",
-        "fairy-tales"
-      ],
-      "rating": 4.28,
-      "ratings": 868,
-      "reviews": 158
-    },
-    {
-      "title": "Rapunzel",
-      "url": "https://www.goodreads.com/book/show/402115.Rapunzel",
-      "id": "39217009",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1174447583i/402115.jpg",
-      "authors": [
-        "Barbara Rogasky"
-      ],
-      "genres": [
-        "picture-books",
-        "fairy-tales",
-        "fantasy",
-        "childrens",
-        "classics",
-        "romance",
-        "retellings"
-      ],
-      "rating": 4.3,
-      "ratings": 853,
-      "reviews": 68
-    },
-    {
-      "title": "D'or et d'oreillers",
-      "url": "https://www.goodreads.com/book/show/57225949-d-or-et-d-oreillers",
-      "id": "89568789",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1614452136i/57225949.jpg",
-      "authors": [
-        "Flore Vesco"
-      ],
-      "genres": [
-        "young-adult",
-        "fantasy",
-        "romance",
-        "france",
-        "fiction",
-        "fairy-tales",
-        "roman"
-      ],
-      "rating": 4.09,
-      "ratings": 847,
-      "reviews": 160
-    },
-    {
-      "title": "Thorn of Rose",
-      "url": "https://www.goodreads.com/book/show/54325150-thorn-of-rose",
-      "id": "84771452",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1593455581i/54325150.jpg",
-      "authors": [
-        "Emily Deady"
-      ],
-      "genres": [
-        "fantasy",
-        "beauty-and-the-beast",
-        "romance",
-        "retellings",
-        "fairy-tale-retellings",
-        "fairy-tales",
-        "young-adult"
-      ],
-      "rating": 4.18,
-      "ratings": 846,
-      "reviews": 102
-    },
-    {
-      "title": "Red Riding Hood Gets Lost",
-      "url": "https://www.goodreads.com/book/show/18371588-red-riding-hood-gets-lost",
-      "id": "25981757",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1389053597i/18371588.jpg",
-      "authors": [
-        "Joan Holub"
-      ],
-      "genres": [
-        "fantasy",
-        "middle-grade",
-        "childrens",
-        "fairy-tales",
-        "fiction",
-        "chapter-books",
-        "fairy-tale-retellings"
-      ],
-      "rating": 4.22,
-      "ratings": 844,
-      "reviews": 69
-    },
-    {
-      "title": "The Rogue Princess",
-      "url": "https://www.goodreads.com/book/show/63917788-the-rogue-princess",
-      "id": "99894298",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1670092745i/63917788.jpg",
+      "title": "A Crown of Snow and Ice",
+      "url": "https://www.goodreads.com/book/show/41434908-a-crown-of-snow-and-ice",
+      "id": "64661501",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1534961486i/41434908.jpg",
       "authors": [
         "Melanie Cellier"
       ],
       "genres": [
         "fantasy",
         "romance",
-        "fairy-tale-retellings",
         "fairy-tales",
-        "retellings",
         "young-adult",
-        "audiobook"
-      ],
-      "rating": 4.4,
-      "ratings": 833,
-      "reviews": 70
-    },
-    {
-      "title": "Princess of Secrets",
-      "url": "https://www.goodreads.com/book/show/48502015-princess-of-secrets",
-      "id": "57990086",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1571435378i/48502015.jpg",
-      "authors": [
-        "A.G. Marshall"
-      ],
-      "genres": [
-        "fantasy",
         "retellings",
-        "romance",
-        "fairy-tales",
         "fairy-tale-retellings",
-        "young-adult",
-        "magic"
-      ],
-      "rating": 4.3,
-      "ratings": 829,
-      "reviews": 95
-    },
-    {
-      "title": "The Snow Queen",
-      "url": "https://www.goodreads.com/book/show/139985.The_Snow_Queen",
-      "id": "43862943",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348610506i/139985.jpg",
-      "authors": [
-        "Amy Ehrlich"
-      ],
-      "genres": [
-        "fairy-tales",
-        "picture-books",
-        "childrens",
-        "fantasy",
-        "classics",
-        "fiction",
-        "adventure"
-      ],
-      "rating": 4.1,
-      "ratings": 828,
-      "reviews": 46
-    },
-    {
-      "title": "The Arabian Nights: Tales of 1001 Nights, Volume 2",
-      "url": "https://www.goodreads.com/book/show/6100457-the-arabian-nights",
-      "id": "68683898",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1377098521i/6100457.jpg",
-      "authors": [
-        "Anonymous"
-      ],
-      "genres": [
-        "classics",
-        "fiction",
-        "fantasy",
-        "short-stories",
-        "literature",
-        "mythology",
-        "fairy-tales"
-      ],
-      "rating": 4.08,
-      "ratings": 819,
-      "reviews": 33
-    },
-    {
-      "title": "Ratpunzel",
-      "url": "https://www.goodreads.com/book/show/28687247-ratpunzel",
-      "id": "48882363",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1456092015i/28687247.jpg",
-      "authors": [
-        "Ursula Vernon"
-      ],
-      "genres": [
-        "fantasy",
-        "middle-grade",
-        "fairy-tales",
-        "humor",
-        "childrens",
-        "fiction",
-        "graphic-novels"
-      ],
-      "rating": 4.3,
-      "ratings": 819,
-      "reviews": 120
-    },
-    {
-      "title": "Disney Tangled",
-      "url": "https://www.goodreads.com/book/show/8892468-disney-tangled",
-      "id": "41192964",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388181781i/8892468.jpg",
-      "authors": [
-        "Ben Smiley"
-      ],
-      "genres": [
-        "picture-books",
-        "childrens",
-        "princesses",
-        "fiction",
-        "fantasy",
-        "fairy-tales",
-        "juvenile"
-      ],
-      "rating": 4.33,
-      "ratings": 812,
-      "reviews": 28
-    },
-    {
-      "title": "Goldie Socks and the Three Libearians",
-      "url": "https://www.goodreads.com/book/show/1328469.Goldie_Socks_and_the_Three_Libearians",
-      "id": "1317920",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348615450i/1328469.jpg",
-      "authors": [
-        "Jackie Mims Hopkins"
-      ],
-      "genres": [
-        "picture-books",
-        "childrens",
-        "fairy-tales",
-        "animals",
-        "fractured-fairy-tales",
-        "books-about-books",
-        "storytime"
-      ],
-      "rating": 4.09,
-      "ratings": 808,
-      "reviews": 137
-    },
-    {
-      "title": "Alphas and Airships",
-      "url": "https://www.goodreads.com/book/show/39889716-alphas-and-airships",
-      "id": "61711390",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1524083608i/39889716.jpg",
-      "authors": [
-        "Melanie Karsak"
-      ],
-      "genres": [
-        "steampunk",
-        "fantasy",
-        "romance",
-        "retellings",
-        "paranormal",
-        "fiction",
-        "fairy-tales"
-      ],
-      "rating": 4.2,
-      "ratings": 804,
-      "reviews": 81
-    },
-    {
-      "title": "Federico and the Wolf",
-      "url": "https://www.goodreads.com/book/show/44230405-federico-and-the-wolf",
-      "id": "68760561",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1568314366i/44230405.jpg",
-      "authors": [
-        "Rebecca J. Gomez"
-      ],
-      "genres": [
-        "picture-books",
-        "fairy-tales",
-        "childrens",
-        "storytime",
-        "spanish-literature",
-        "animals",
-        "food"
-      ],
-      "rating": 4.29,
-      "ratings": 800,
-      "reviews": 175
-    },
-    {
-      "title": "Ivory White",
-      "url": "https://www.goodreads.com/book/show/55204917-ivory-white",
-      "id": "86065072",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1599575922i/55204917.jpg",
-      "authors": [
-        "Cambria Hebert"
-      ],
-      "genres": [
-        "romance",
-        "contemporary-romance",
-        "retellings",
-        "romantic-suspense",
-        "suspense",
-        "fairy-tales",
-        "mystery"
-      ],
-      "rating": 4,
-      "ratings": 799,
-      "reviews": 171
-    },
-    {
-      "title": "Maiden & Princess",
-      "url": "https://www.goodreads.com/book/show/38458581-maiden-princess",
-      "id": "60083631",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1536817210i/38458581.jpg",
-      "authors": [
-        "Daniel Haack"
-      ],
-      "genres": [
-        "picture-books",
-        "lgbt",
-        "childrens",
-        "fantasy",
-        "queer",
-        "fairy-tales",
         "fiction"
-      ],
-      "rating": 4.15,
-      "ratings": 798,
-      "reviews": 168
-    },
-    {
-      "title": "Daughter of Lies",
-      "url": "https://www.goodreads.com/book/show/50227318-daughter-of-lies",
-      "id": "60332573",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1577826492i/50227318.jpg",
-      "authors": [
-        "Kenley Davidson"
-      ],
-      "genres": [
-        "fantasy",
-        "romance",
-        "retellings",
-        "fairy-tales",
-        "fairy-tale-retellings",
-        "young-adult",
-        "clean-romance"
-      ],
-      "rating": 4.27,
-      "ratings": 796,
-      "reviews": 82
-    },
-    {
-      "title": "Pasakas par ziediem",
-      "url": "https://www.goodreads.com/book/show/6146684-pasakas-par-ziediem",
-      "id": "6325634",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1310730528i/6146684.jpg",
-      "authors": [
-        "Anna Sakse"
-      ],
-      "genres": [
-        "classics",
-        "childrens",
-        "fiction",
-        "fantasy",
-        "fairy-tales",
-        "20th-century",
-        "short-stories"
-      ],
-      "rating": 4.18,
-      "ratings": 794,
-      "reviews": 23
-    },
-    {
-      "title": "The Rose Gate: A Retelling of Beauty and the Beast",
-      "url": "https://www.goodreads.com/book/show/57073259-the-rose-gate",
-      "id": "70328090",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1613426587i/57073259.jpg",
-      "authors": [
-        "Hanna Sandvig"
-      ],
-      "genres": [
-        "fantasy",
-        "retellings",
-        "romance",
-        "beauty-and-the-beast",
-        "young-adult",
-        "fairy-tale-retellings",
-        "fairy-tales"
-      ],
-      "rating": 4.22,
-      "ratings": 789,
-      "reviews": 200
-    },
-    {
-      "title": "Kingdom of Slumber",
-      "url": "https://www.goodreads.com/book/show/57815012-kingdom-of-slumber",
-      "id": "90565841",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1619047995i/57815012.jpg",
-      "authors": [
-        "Deborah Grace White"
-      ],
-      "genres": [
-        "fantasy",
-        "fairy-tale-retellings",
-        "fairy-tales",
-        "romance",
-        "retellings",
-        "dragons",
-        "young-adult"
-      ],
-      "rating": 4.33,
-      "ratings": 786,
-      "reviews": 77
-    },
-    {
-      "title": "Belle: An Amish Retelling of Beauty and the Beast",
-      "url": "https://www.goodreads.com/book/show/34297062-belle",
-      "id": "55350398",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1489920685i/34297062.jpg",
-      "authors": [
-        "Sarah Price"
-      ],
-      "genres": [
-        "amish",
-        "romance",
-        "beauty-and-the-beast",
-        "christian-fiction",
-        "retellings",
-        "fairy-tales",
-        "fairy-tale-retellings"
-      ],
-      "rating": 4.24,
-      "ratings": 785,
-      "reviews": 162
-    },
-    {
-      "title": "Enchantment",
-      "url": "https://www.goodreads.com/book/show/53419339-enchantment",
-      "id": "82827370",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1589580753i/53419339.jpg",
-      "authors": [
-        "Camille  Peters"
-      ],
-      "genres": [
-        "fantasy",
-        "beauty-and-the-beast",
-        "fairy-tales",
-        "romance",
-        "fairy-tale-retellings",
-        "retellings",
-        "young-adult"
-      ],
-      "rating": 4.26,
-      "ratings": 782,
-      "reviews": 114
-    },
-    {
-      "title": "Of Glass and Ashes",
-      "url": "https://www.goodreads.com/book/show/56861136-of-glass-and-ashes",
-      "id": "88894482",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1611784006i/56861136.jpg",
-      "authors": [
-        "Elle Madison"
-      ],
-      "genres": [
-        "fantasy",
-        "retellings",
-        "romance",
-        "fairy-tales",
-        "fantasy-romance",
-        "cinderella",
-        "young-adult"
-      ],
-      "rating": 4.33,
-      "ratings": 778,
-      "reviews": 141
-    },
-    {
-      "title": "The Disney Book: A Celebration of the World of Disney",
-      "url": "https://www.goodreads.com/book/show/25194234-the-disney-book",
-      "id": "44904890",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1441978771i/25194234.jpg",
-      "authors": [
-        "Jim Fanning"
-      ],
-      "genres": [
-        "non-fiction",
-        "art",
-        "history",
-        "reference",
-        "film",
-        "fairy-tales",
-        "biography"
-      ],
-      "rating": 4.42,
-      "ratings": 778,
-      "reviews": 95
-    },
-    {
-      "title": "The Three Billy Goats Gruff",
-      "url": "https://www.goodreads.com/book/show/30375425-the-three-billy-goats-gruff",
-      "id": "50889774",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1474564122i/30375425.jpg",
-      "authors": [
-        "Jerry Pinkney"
-      ],
-      "genres": [
-        "picture-books",
-        "fairy-tales",
-        "animals",
-        "childrens",
-        "storytime",
-        "folklore",
-        "folk-tales"
-      ],
-      "rating": 4.08,
-      "ratings": 776,
-      "reviews": 167
-    },
-    {
-      "title": "Shadow and Evil in Fairy Tales",
-      "url": "https://www.goodreads.com/book/show/1269427.Shadow_and_Evil_in_Fairy_Tales",
-      "id": "1258344",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1389695814i/1269427.jpg",
-      "authors": [
-        "Marie-Louise von Franz"
-      ],
-      "genres": [
-        "psychology",
-        "non-fiction",
-        "mythology",
-        "philosophy",
-        "fairy-tales",
-        "folklore",
-        "spirituality"
-      ],
-      "rating": 4.31,
-      "ratings": 773,
-      "reviews": 48
-    },
-    {
-      "title": "Eduardo Guadardo, Elite Sheep",
-      "url": "https://www.goodreads.com/book/show/37647564-eduardo-guadardo-elite-sheep",
-      "id": "59238232",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1526016895i/37647564.jpg",
-      "authors": [
-        "Anthony  Pearson"
-      ],
-      "genres": [
-        "picture-books",
-        "childrens",
-        "animals",
-        "fairy-tales",
-        "nursery-rhymes",
-        "kids",
-        "juvenile"
-      ],
-      "rating": 4.09,
-      "ratings": 770,
-      "reviews": 148
-    },
-    {
-      "title": "CJ's Treasure Chase",
-      "url": "https://www.goodreads.com/book/show/31725150-cj-s-treasure-chase",
-      "id": "49087512",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1472562131i/31725150.jpg",
-      "authors": [
-        "Jessica Brody"
-      ],
-      "genres": [
-        "fantasy",
-        "middle-grade",
-        "fairy-tales",
-        "childrens",
-        "audiobook",
-        "pirates",
-        "retellings"
-      ],
-      "rating": 4.23,
-      "ratings": 767,
-      "reviews": 58
-    },
-    {
-      "title": "Give Your Heart to the Barrow",
-      "url": "https://www.goodreads.com/book/show/58968417-give-your-heart-to-the-barrow",
-      "id": "92941296",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1645913323i/58968417.jpg",
-      "authors": [
-        "Sarah K.L. Wilson"
-      ],
-      "genres": [
-        "fantasy",
-        "romance",
-        "fae",
-        "retellings",
-        "fantasy-romance",
-        "fairy-tales",
-        "adventure"
-      ],
-      "rating": 4.15,
-      "ratings": 767,
-      "reviews": 105
-    },
-    {
-      "title": "The Feminine in Fairy Tales",
-      "url": "https://www.goodreads.com/book/show/566083.The_Feminine_in_Fairy_Tales",
-      "id": "553189",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320546858i/566083.jpg",
-      "authors": [
-        "Marie-Louise von Franz"
-      ],
-      "genres": [
-        "psychology",
-        "non-fiction",
-        "fairy-tales",
-        "feminism",
-        "mythology",
-        "womens",
-        "philosophy"
-      ],
-      "rating": 4.3,
-      "ratings": 758,
-      "reviews": 35
-    },
-    {
-      "title": "The Bitches of Enchantment",
-      "url": "https://www.goodreads.com/book/show/32325850-the-bitches-of-enchantment",
-      "id": "52959426",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1475335769i/32325850.jpg",
-      "authors": [
-        "Barbra Annino"
-      ],
-      "genres": [
-        "fantasy",
-        "mystery",
-        "fairy-tales",
-        "fiction",
-        "chick-lit"
-      ],
-      "rating": 4.19,
-      "ratings": 752,
-      "reviews": 67
-    },
-    {
-      "title": "Fairy's Got Talent",
-      "url": "https://www.goodreads.com/book/show/25318858-fairy-s-got-talent",
-      "id": "45051653",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1445790781i/25318858.jpg",
-      "authors": [
-        "Suzanne Selfors"
-      ],
-      "genres": [
-        "fantasy",
-        "middle-grade",
-        "fairy-tales",
-        "magic",
-        "fiction",
-        "childrens",
-        "fairies"
-      ],
-      "rating": 4.05,
-      "ratings": 752,
-      "reviews": 58
-    },
-    {
-      "title": "Gothel and the Maiden Prince",
-      "url": "https://www.goodreads.com/book/show/58518629-gothel-and-the-maiden-prince",
-      "id": "91201020",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1625790767i/58518629.jpg",
-      "authors": [
-        "W.R. Gingell"
-      ],
-      "genres": [
-        "fantasy",
-        "romance",
-        "retellings",
-        "fairy-tales",
-        "fairy-tale-retellings",
-        "magic",
-        "young-adult"
-      ],
-      "rating": 4.26,
-      "ratings": 744,
-      "reviews": 121
-    },
-    {
-      "title": "Blanche Neige",
-      "url": "https://www.goodreads.com/book/show/8691489-blanche-neige",
-      "id": "21886732",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327241222i/8691489.jpg",
-      "authors": [
-        "Benjamin Lacombe"
-      ],
-      "genres": [
-        "picture-books",
-        "art",
-        "fairy-tales",
-        "fantasy",
-        "childrens",
-        "classics",
-        "graphic-novels"
-      ],
-      "rating": 4.37,
-      "ratings": 738,
-      "reviews": 101
-    },
-    {
-      "title": "Peppermint and Pentacles",
-      "url": "https://www.goodreads.com/book/show/39889715-peppermint-and-pentacles",
-      "id": "61711389",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1524083608i/39889715.jpg",
-      "authors": [
-        "Melanie Karsak"
-      ],
-      "genres": [
-        "steampunk",
-        "fantasy",
-        "romance",
-        "retellings",
-        "christmas",
-        "fairy-tales",
-        "holiday"
-      ],
-      "rating": 4.24,
-      "ratings": 735,
-      "reviews": 87
-    },
-    {
-      "title": "Enchanting the Fae Prince",
-      "url": "https://www.goodreads.com/book/show/56880057-enchanting-the-fae-prince",
-      "id": "88935705",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1618325885i/56880057.jpg",
-      "authors": [
-        "Alisha Klapheke"
-      ],
-      "genres": [
-        "fantasy",
-        "fae",
-        "romance",
-        "fantasy-romance",
-        "fairy-tales",
-        "retellings",
-        "young-adult-fantasy"
       ],
       "rating": 4.14,
-      "ratings": 734,
-      "reviews": 80
+      "ratings": 3386,
+      "reviews": 262
     },
     {
-      "title": "Good as Gold",
-      "url": "https://www.goodreads.com/book/show/52664773-good-as-gold",
-      "id": "78476416",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1592657682i/52664773.jpg",
+      "title": "The Golden Key",
+      "url": "https://www.goodreads.com/book/show/682742.The_Golden_Key",
+      "id": "16048",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1332137227i/682742.jpg",
       "authors": [
-        "Sarah Mlynowski"
+        "George MacDonald"
       ],
       "genres": [
         "fantasy",
-        "middle-grade",
-        "fairy-tales",
-        "audiobook",
-        "chapter-books",
         "fiction",
-        "retellings"
-      ],
-      "rating": 4.32,
-      "ratings": 730,
-      "reviews": 61
-    },
-    {
-      "title": "Cinderella's Shoes",
-      "url": "https://www.goodreads.com/book/show/40629700-cinderella-s-shoes",
-      "id": "43458305",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1548313551i/40629700.jpg",
-      "authors": [
-        "Shonna Slayton"
-      ],
-      "genres": [
-        "fantasy",
-        "young-adult",
-        "historical-fiction",
-        "romance",
-        "cinderella",
-        "retellings",
-        "fairy-tales"
-      ],
-      "rating": 4.07,
-      "ratings": 721,
-      "reviews": 89
-    },
-    {
-      "title": "The Elves and the Shoemaker",
-      "url": "https://www.goodreads.com/book/show/386138.The_Elves_and_the_Shoemaker",
-      "id": "48161719",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1174355696i/386138.jpg",
-      "authors": [
-        "Brothers Grimm"
-      ],
-      "genres": [
-        "childrens",
         "classics",
-        "fiction",
-        "fantasy",
-        "short-stories",
+        "childrens",
         "fairy-tales",
-        "picture-books"
+        "short-stories",
+        "christian"
+      ],
+      "rating": 4.08,
+      "ratings": 3328,
+      "reviews": 386
+    },
+    {
+      "title": "Curse of Magic",
+      "url": "https://www.goodreads.com/book/show/44012384-curse-of-magic",
+      "id": "68427167",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1550181647i/44012384.jpg",
+      "authors": [
+        "K.M. Shea"
+      ],
+      "genres": [
+        "fantasy",
+        "fairy-tales",
+        "young-adult",
+        "magic",
+        "romance",
+        "retellings",
+        "fairy-tale-retellings"
+      ],
+      "rating": 4.3,
+      "ratings": 3304,
+      "reviews": 213
+    },
+    {
+      "title": "Kiss of the Spindle",
+      "url": "https://www.goodreads.com/book/show/35909698-kiss-of-the-spindle",
+      "id": "57435797",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1509284408i/35909698.jpg",
+      "authors": [
+        "Nancy Campbell Allen"
+      ],
+      "genres": [
+        "romance",
+        "steampunk",
+        "fantasy",
+        "paranormal",
+        "fiction",
+        "fairy-tales",
+        "historical-fiction"
+      ],
+      "rating": 4.05,
+      "ratings": 3300,
+      "reviews": 588
+    },
+    {
+      "title": "Beauty and the Beast: The Only One Who Didn't Run Away",
+      "url": "https://www.goodreads.com/book/show/13221027-beauty-and-the-beast",
+      "id": "18407809",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1338991066i/13221027.jpg",
+      "authors": [
+        "Wendy Mass"
+      ],
+      "genres": [
+        "fantasy",
+        "fairy-tales",
+        "middle-grade",
+        "retellings",
+        "romance",
+        "beauty-and-the-beast",
+        "young-adult"
       ],
       "rating": 4.02,
-      "ratings": 720,
-      "reviews": 75
+      "ratings": 3232,
+      "reviews": 251
     },
     {
-      "title": "Cinderella: Junior Novel",
-      "url": "https://www.goodreads.com/book/show/22220609-cinderella",
-      "id": "41678724",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1420790652i/22220609.jpg",
+      "title": "Cinder Edna",
+      "url": "https://www.goodreads.com/book/show/434076.Cinder_Edna",
+      "id": "1715096",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347812114i/434076.jpg",
       "authors": [
-        "Elizabeth Rudnick"
-      ],
-      "genres": [
-        "fantasy",
-        "romance",
-        "cinderella",
-        "fairy-tales",
-        "retellings",
-        "middle-grade",
-        "childrens"
-      ],
-      "rating": 4.28,
-      "ratings": 710,
-      "reviews": 67
-    },
-    {
-      "title": "The Three Bears",
-      "url": "https://www.goodreads.com/book/show/3495540-the-three-bears",
-      "id": "3537149",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1345777658i/3495540.jpg",
-      "authors": [
-        "Feodor Rojankovsky"
+        "Ellen Jackson"
       ],
       "genres": [
         "picture-books",
         "childrens",
-        "animals",
         "fairy-tales",
-        "classics",
+        "cinderella",
+        "fantasy",
         "fiction",
-        "nursery-rhymes"
+        "fractured-fairy-tales"
       ],
-      "rating": 4.31,
-      "ratings": 699,
-      "reviews": 38
+      "rating": 4.15,
+      "ratings": 3224,
+      "reviews": 372
     },
     {
-      "title": "Kingdom of Cinders",
-      "url": "https://www.goodreads.com/book/show/58053987-kingdom-of-cinders",
-      "id": "90982869",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1621122741i/58053987.jpg",
+      "title": "The Princess Search",
+      "url": "https://www.goodreads.com/book/show/40109883-the-princess-search",
+      "id": "62185052",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1526157055i/40109883.jpg",
       "authors": [
-        "Deborah Grace White"
+        "Melanie Cellier"
       ],
       "genres": [
         "fantasy",
-        "cinderella",
+        "romance",
+        "fairy-tales",
+        "young-adult",
+        "retellings",
         "fairy-tale-retellings",
+        "fiction"
+      ],
+      "rating": 4.34,
+      "ratings": 3223,
+      "reviews": 261
+    },
+    {
+      "title": "The Little Selkie",
+      "url": "https://www.goodreads.com/book/show/28452447-the-little-selkie",
+      "id": "45139623",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1451963681i/28452447.jpg",
+      "authors": [
+        "K.M. Shea"
+      ],
+      "genres": [
+        "fantasy",
         "fairy-tales",
         "romance",
+        "young-adult",
+        "fairy-tale-retellings",
         "retellings",
-        "dragons"
+        "magic"
       ],
-      "rating": 4.36,
-      "ratings": 695,
-      "reviews": 60
+      "rating": 4.31,
+      "ratings": 3214,
+      "reviews": 219
+    },
+    {
+      "title": "The Classic Fairy Tales",
+      "url": "https://www.goodreads.com/book/show/62831.The_Classic_Fairy_Tales",
+      "id": "73384217",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1578845269i/62831.jpg",
+      "authors": [
+        "Maria Tatar"
+      ],
+      "genres": [
+        "fairy-tales",
+        "classics",
+        "fantasy",
+        "fiction",
+        "short-stories",
+        "folklore",
+        "read-for-school"
+      ],
+      "rating": 4.28,
+      "ratings": 3197,
+      "reviews": 131
     }
   ]
 }

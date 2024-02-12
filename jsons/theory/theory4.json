@@ -1,1054 +1,508 @@
 {
   "books": [
     {
-      "title": "Creative Evolution",
-      "url": "https://www.goodreads.com/book/show/379659.Creative_Evolution",
-      "id": "369465",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347862501i/379659.jpg",
+      "title": "The Ego and Its Own",
+      "url": "https://www.goodreads.com/book/show/416318.The_Ego_and_Its_Own",
+      "id": "1324141",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1294696844i/416318.jpg",
+      "authors": [
+        "Max Stirner"
+      ],
+      "genres": [
+        "philosophy",
+        "politics",
+        "non-fiction",
+        "theory",
+        "psychology",
+        "german-literature",
+        "classics"
+      ],
+      "rating": 4.07,
+      "ratings": 3278,
+      "reviews": 259
+    },
+    {
+      "title": "Mutual Aid: a factor of evolution",
+      "url": "https://www.goodreads.com/book/show/51306.Mutual_Aid",
+      "id": "1635591",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348218981i/51306.jpg",
+      "authors": [
+        "Pyotr Kropotkin"
+      ],
+      "genres": [
+        "politics",
+        "philosophy",
+        "non-fiction",
+        "science",
+        "history",
+        "theory",
+        "sociology"
+      ],
+      "rating": 4.22,
+      "ratings": 3266,
+      "reviews": 268
+    },
+    {
+      "title": "Écrits",
+      "url": "https://www.goodreads.com/book/show/75485._crits",
+      "id": "73021",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388239622i/75485.jpg",
+      "authors": [
+        "Jacques Lacan"
+      ],
+      "genres": [
+        "philosophy",
+        "psychology",
+        "psychoanalysis",
+        "theory",
+        "non-fiction",
+        "france",
+        "classics"
+      ],
+      "rating": 4.03,
+      "ratings": 3242,
+      "reviews": 107
+    },
+    {
+      "title": "Distinction: A Social Critique of the Judgement of Taste",
+      "url": "https://www.goodreads.com/book/show/80336.Distinction",
+      "id": "1681910",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386924771i/80336.jpg",
+      "authors": [
+        "Pierre Bourdieu"
+      ],
+      "genres": [
+        "sociology",
+        "philosophy",
+        "non-fiction",
+        "theory",
+        "anthropology",
+        "art",
+        "france"
+      ],
+      "rating": 4.15,
+      "ratings": 3236,
+      "reviews": 148
+    },
+    {
+      "title": "The Art of Cruelty: A Reckoning",
+      "url": "https://www.goodreads.com/book/show/11107324-the-art-of-cruelty",
+      "id": "16029580",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328053370i/11107324.jpg",
+      "authors": [
+        "Maggie Nelson"
+      ],
+      "genres": [
+        "non-fiction",
+        "art",
+        "essays",
+        "philosophy",
+        "criticism",
+        "theory",
+        "psychology"
+      ],
+      "rating": 4.23,
+      "ratings": 3229,
+      "reviews": 316
+    },
+    {
+      "title": "Philosophy and the Mirror of Nature",
+      "url": "https://www.goodreads.com/book/show/31947.Philosophy_and_the_Mirror_of_Nature",
+      "id": "32163",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1300172552i/31947.jpg",
+      "authors": [
+        "Richard Rorty"
+      ],
+      "genres": [
+        "philosophy",
+        "non-fiction",
+        "history",
+        "politics",
+        "theory",
+        "metaphysics",
+        "20th-century"
+      ],
+      "rating": 4.03,
+      "ratings": 3194,
+      "reviews": 93
+    },
+    {
+      "title": "Against Method",
+      "url": "https://www.goodreads.com/book/show/137979.Against_Method",
+      "id": "1104500",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1373999202i/137979.jpg",
+      "authors": [
+        "Paul Karl Feyerabend"
+      ],
+      "genres": [
+        "philosophy",
+        "science",
+        "non-fiction",
+        "history",
+        "theory",
+        "politics",
+        "history-of-science"
+      ],
+      "rating": 4.02,
+      "ratings": 3191,
+      "reviews": 187
+    },
+    {
+      "title": "Thinking Architecture",
+      "url": "https://www.goodreads.com/book/show/223929.Thinking_Architecture",
+      "id": "216864",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388853648i/223929.jpg",
+      "authors": [
+        "Peter Zumthor"
+      ],
+      "genres": [
+        "architecture",
+        "non-fiction",
+        "design",
+        "art",
+        "philosophy",
+        "theory",
+        "urbanism"
+      ],
+      "rating": 4.25,
+      "ratings": 3163,
+      "reviews": 130
+    },
+    {
+      "title": "Deschooling Society",
+      "url": "https://www.goodreads.com/book/show/223403.Deschooling_Society",
+      "id": "216356",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1570480935i/223403.jpg",
+      "authors": [
+        "Ivan Illich"
+      ],
+      "genres": [
+        "education",
+        "non-fiction",
+        "philosophy",
+        "politics",
+        "sociology",
+        "teaching",
+        "theory"
+      ],
+      "rating": 4,
+      "ratings": 3111,
+      "reviews": 354
+    },
+    {
+      "title": "The Sociological Imagination",
+      "url": "https://www.goodreads.com/book/show/414773.The_Sociological_Imagination",
+      "id": "403985",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348048258i/414773.jpg",
+      "authors": [
+        "C. Wright Mills"
+      ],
+      "genres": [
+        "sociology",
+        "non-fiction",
+        "philosophy",
+        "social-science",
+        "politics",
+        "academic",
+        "theory"
+      ],
+      "rating": 4.16,
+      "ratings": 2987,
+      "reviews": 136
+    },
+    {
+      "title": "Undoing Gender",
+      "url": "https://www.goodreads.com/book/show/171257.Undoing_Gender",
+      "id": "1523346",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348990450i/171257.jpg",
+      "authors": [
+        "Judith Butler"
+      ],
+      "genres": [
+        "feminism",
+        "non-fiction",
+        "philosophy",
+        "gender",
+        "queer",
+        "theory",
+        "gender-studies"
+      ],
+      "rating": 4.11,
+      "ratings": 2984,
+      "reviews": 107
+    },
+    {
+      "title": "The Arcades Project",
+      "url": "https://www.goodreads.com/book/show/52223.The_Arcades_Project",
+      "id": "1034465",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1649761785i/52223.jpg",
+      "authors": [
+        "Walter Benjamin"
+      ],
+      "genres": [
+        "philosophy",
+        "non-fiction",
+        "history",
+        "theory",
+        "architecture",
+        "art",
+        "essays"
+      ],
+      "rating": 4.45,
+      "ratings": 2926,
+      "reviews": 132
+    },
+    {
+      "title": "All That Is Solid Melts Into Air: The Experience of Modernity",
+      "url": "https://www.goodreads.com/book/show/126985.All_That_Is_Solid_Melts_Into_Air",
+      "id": "253324",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1313824693i/126985.jpg",
+      "authors": [
+        "Marshall Berman"
+      ],
+      "genres": [
+        "philosophy",
+        "non-fiction",
+        "history",
+        "sociology",
+        "theory",
+        "politics",
+        "art"
+      ],
+      "rating": 4.31,
+      "ratings": 2864,
+      "reviews": 206
+    },
+    {
+      "title": "Power/Knowledge: Selected Interviews and Other Writings, 1972-1977",
+      "url": "https://www.goodreads.com/book/show/80373.Power_Knowledge",
+      "id": "932826",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388389947i/80373.jpg",
+      "authors": [
+        "Michel Foucault"
+      ],
+      "genres": [
+        "philosophy",
+        "non-fiction",
+        "theory",
+        "sociology",
+        "politics",
+        "history",
+        "essays"
+      ],
+      "rating": 4.14,
+      "ratings": 2845,
+      "reviews": 104
+    },
+    {
+      "title": "Feminism, Interrupted: Disrupting Power",
+      "url": "https://www.goodreads.com/book/show/48856308-feminism-interrupted",
+      "id": "74245439",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1576152520i/48856308.jpg",
+      "authors": [
+        "Lola Olufemi"
+      ],
+      "genres": [
+        "feminism",
+        "non-fiction",
+        "politics",
+        "essays",
+        "gender",
+        "race",
+        "theory"
+      ],
+      "rating": 4.45,
+      "ratings": 2777,
+      "reviews": 373
+    },
+    {
+      "title": "Fragments of an Anarchist Anthropology",
+      "url": "https://www.goodreads.com/book/show/51645.Fragments_of_an_Anarchist_Anthropology",
+      "id": "50392",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386924936i/51645.jpg",
+      "authors": [
+        "David Graeber"
+      ],
+      "genres": [
+        "anthropology",
+        "politics",
+        "non-fiction",
+        "philosophy",
+        "history",
+        "theory",
+        "anarchism"
+      ],
+      "rating": 4.2,
+      "ratings": 2758,
+      "reviews": 235
+    },
+    {
+      "title": "Living a Feminist Life",
+      "url": "https://www.goodreads.com/book/show/29771377-living-a-feminist-life",
+      "id": "50136800",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1476470236i/29771377.jpg",
+      "authors": [
+        "Sara Ahmed"
+      ],
+      "genres": [
+        "feminism",
+        "non-fiction",
+        "philosophy",
+        "politics",
+        "theory",
+        "academic",
+        "gender"
+      ],
+      "rating": 4.33,
+      "ratings": 2736,
+      "reviews": 329
+    },
+    {
+      "title": "Mutual Aid: Building Solidarity in This Crisis",
+      "url": "https://www.goodreads.com/book/show/54654726-mutual-aid",
+      "id": "85273636",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1595581547i/54654726.jpg",
+      "authors": [
+        "Dean Spade"
+      ],
+      "genres": [
+        "non-fiction",
+        "politics",
+        "social-justice",
+        "theory",
+        "activism",
+        "philosophy",
+        "sociology"
+      ],
+      "rating": 4.39,
+      "ratings": 2715,
+      "reviews": 395
+    },
+    {
+      "title": "Silencing the Past: Power and the Production of History",
+      "url": "https://www.goodreads.com/book/show/357199.Silencing_the_Past",
+      "id": "347360",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388527079i/357199.jpg",
+      "authors": [
+        "Michel-Rolph Trouillot"
+      ],
+      "genres": [
+        "history",
+        "non-fiction",
+        "philosophy",
+        "theory",
+        "politics",
+        "anthropology",
+        "academic"
+      ],
+      "rating": 4.36,
+      "ratings": 2671,
+      "reviews": 265
+    },
+    {
+      "title": "Society Must Be Defended: Lectures at the Collège de France, 1975-1976",
+      "url": "https://www.goodreads.com/book/show/771816.Society_Must_Be_Defended",
+      "id": "3308111",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1316130657i/771816.jpg",
+      "authors": [
+        "Michel Foucault"
+      ],
+      "genres": [
+        "philosophy",
+        "non-fiction",
+        "politics",
+        "history",
+        "theory",
+        "sociology",
+        "france"
+      ],
+      "rating": 4.3,
+      "ratings": 2651,
+      "reviews": 107
+    },
+    {
+      "title": "On Revolution",
+      "url": "https://www.goodreads.com/book/show/127232.On_Revolution",
+      "id": "1660484",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1309200849i/127232.jpg",
+      "authors": [
+        "Hannah Arendt"
+      ],
+      "genres": [
+        "philosophy",
+        "politics",
+        "history",
+        "non-fiction",
+        "political-science",
+        "theory",
+        "sociology"
+      ],
+      "rating": 4.02,
+      "ratings": 2633,
+      "reviews": 186
+    },
+    {
+      "title": "The History of Sexuality, Volume 3: The Care of the Self",
+      "url": "https://www.goodreads.com/book/show/1876.The_History_of_Sexuality_Volume_3",
+      "id": "3232031",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1482173106i/1876.jpg",
+      "authors": [
+        "Michel Foucault"
+      ],
+      "genres": [
+        "philosophy",
+        "non-fiction",
+        "history",
+        "sexuality",
+        "theory",
+        "sociology",
+        "psychology"
+      ],
+      "rating": 4.03,
+      "ratings": 2573,
+      "reviews": 93
+    },
+    {
+      "title": "Can the Monster Speak? A Report to an Academy of Psychoanalysts",
+      "url": "https://www.goodreads.com/book/show/57030264-can-the-monster-speak-a-report-to-an-academy-of-psychoanalysts",
+      "id": "84351673",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1613057795i/57030264.jpg",
+      "authors": [
+        "Paul B. Preciado"
+      ],
+      "genres": [
+        "non-fiction",
+        "queer",
+        "philosophy",
+        "psychology",
+        "lgbt",
+        "psychoanalysis",
+        "theory"
+      ],
+      "rating": 4.28,
+      "ratings": 2562,
+      "reviews": 325
+    },
+    {
+      "title": "Matter and Memory",
+      "url": "https://www.goodreads.com/book/show/865540.Matter_and_Memory",
+      "id": "2267970",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348962920i/865540.jpg",
       "authors": [
         "Henri Bergson"
       ],
       "genres": [
         "philosophy",
+        "non-fiction",
+        "psychology",
         "science",
-        "non-fiction",
-        "psychology",
         "theory",
         "france",
-        "evolution"
-      ],
-      "rating": 4.09,
-      "ratings": 1293,
-      "reviews": 85
-    },
-    {
-      "title": "The Foundations of Leninism",
-      "url": "https://www.goodreads.com/book/show/6329598-the-foundations-of-leninism",
-      "id": "1170476",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1236836541i/6329598.jpg",
-      "authors": [
-        "Joseph Stalin"
-      ],
-      "genres": [
-        "politics",
-        "theory",
-        "non-fiction",
-        "philosophy",
-        "history",
-        "economics",
-        "russia"
-      ],
-      "rating": 4.06,
-      "ratings": 1292,
-      "reviews": 101
-    },
-    {
-      "title": "The Parallax View",
-      "url": "https://www.goodreads.com/book/show/18910.The_Parallax_View",
-      "id": "20255",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347357500i/18910.jpg",
-      "authors": [
-        "Slavoj Žižek"
-      ],
-      "genres": [
-        "philosophy",
-        "non-fiction",
-        "psychoanalysis",
-        "theory",
-        "politics",
-        "psychology",
-        "history"
-      ],
-      "rating": 4,
-      "ratings": 1292,
-      "reviews": 76
-    },
-    {
-      "title": "Why Socialism?",
-      "url": "https://www.goodreads.com/book/show/12007777-why-socialism",
-      "id": "16972542",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1698217744i/12007777.jpg",
-      "authors": [
-        "Albert Einstein"
-      ],
-      "genres": [
-        "politics",
-        "non-fiction",
-        "philosophy",
-        "theory",
-        "economics",
-        "essays",
-        "history"
-      ],
-      "rating": 4.12,
-      "ratings": 1287,
-      "reviews": 143
-    },
-    {
-      "title": "That's Revolting!: Queer Strategies for Resisting Assimilation",
-      "url": "https://www.goodreads.com/book/show/310357.That_s_Revolting_",
-      "id": "2372814",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1308960817i/310357.jpg",
-      "authors": [
-        "Mattilda Bernstein Sycamore"
-      ],
-      "genres": [
-        "queer",
-        "non-fiction",
-        "lgbt",
-        "queer-studies",
-        "essays",
-        "theory",
-        "feminism"
-      ],
-      "rating": 4.05,
-      "ratings": 1287,
-      "reviews": 71
-    },
-    {
-      "title": "Queer Phenomenology: Orientations, Objects, Others",
-      "url": "https://www.goodreads.com/book/show/18285.Queer_Phenomenology",
-      "id": "19733",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1601345248i/18285.jpg",
-      "authors": [
-        "Sara Ahmed"
-      ],
-      "genres": [
-        "philosophy",
-        "queer",
-        "non-fiction",
-        "theory",
-        "feminism",
-        "lgbt",
-        "academic"
-      ],
-      "rating": 4.33,
-      "ratings": 1283,
-      "reviews": 80
-    },
-    {
-      "title": "The Black Atlantic: Modernity and Double-Consciousness",
-      "url": "https://www.goodreads.com/book/show/190464.The_Black_Atlantic",
-      "id": "184137",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386919409i/190464.jpg",
-      "authors": [
-        "Paul Gilroy"
-      ],
-      "genres": [
-        "history",
-        "non-fiction",
-        "race",
-        "theory",
-        "philosophy",
-        "cultural-studies",
-        "academic"
-      ],
-      "rating": 4.04,
-      "ratings": 1275,
-      "reviews": 60
-    },
-    {
-      "title": "Brecht on Theatre",
-      "url": "https://www.goodreads.com/book/show/196930.Brecht_on_Theatre",
-      "id": "190476",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1482048096i/196930.jpg",
-      "authors": [
-        "Bertolt Brecht"
-      ],
-      "genres": [
-        "theatre",
-        "non-fiction",
-        "plays",
-        "drama",
-        "theory",
-        "philosophy",
-        "art"
-      ],
-      "rating": 4.19,
-      "ratings": 1255,
-      "reviews": 30
-    },
-    {
-      "title": "Carceral Capitalism",
-      "url": "https://www.goodreads.com/book/show/34551009-carceral-capitalism",
-      "id": "55691750",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1502389008i/34551009.jpg",
-      "authors": [
-        "Jackie Wang"
-      ],
-      "genres": [
-        "non-fiction",
-        "politics",
-        "essays",
-        "theory",
-        "race",
-        "economics",
-        "social-justice"
-      ],
-      "rating": 4.61,
-      "ratings": 1253,
-      "reviews": 142
-    },
-    {
-      "title": "Foucault",
-      "url": "https://www.goodreads.com/book/show/765338.Foucault",
-      "id": "137667",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348581735i/765338.jpg",
-      "authors": [
-        "Gilles Deleuze"
-      ],
-      "genres": [
-        "philosophy",
-        "theory",
-        "non-fiction",
-        "politics",
-        "france",
-        "sociology",
-        "academic"
-      ],
-      "rating": 4.1,
-      "ratings": 1250,
-      "reviews": 40
-    },
-    {
-      "title": "Comments on the Society of the Spectacle",
-      "url": "https://www.goodreads.com/book/show/53093.Comments_on_the_Society_of_the_Spectacle",
-      "id": "3269518",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388809375i/53093.jpg",
-      "authors": [
-        "Guy Debord"
-      ],
-      "genres": [
-        "philosophy",
-        "politics",
-        "non-fiction",
-        "theory",
-        "sociology",
-        "france",
-        "art"
+        "nobel-prize"
       ],
       "rating": 4.11,
-      "ratings": 1222,
-      "reviews": 79
-    },
-    {
-      "title": "Postcapitalist Desire: The Final Lectures",
-      "url": "https://www.goodreads.com/book/show/54650835-postcapitalist-desire",
-      "id": "67045867",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1595530728i/54650835.jpg",
-      "authors": [
-        "Mark Fisher"
-      ],
-      "genres": [
-        "philosophy",
-        "politics",
-        "non-fiction",
-        "theory",
-        "economics",
-        "sociology",
-        "essays"
-      ],
-      "rating": 4.27,
-      "ratings": 1219,
-      "reviews": 138
-    },
-    {
-      "title": "Outlaw Culture",
-      "url": "https://www.goodreads.com/book/show/51376.Outlaw_Culture",
-      "id": "517240",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1477404157i/51376.jpg",
-      "authors": [
-        "bell hooks"
-      ],
-      "genres": [
-        "feminism",
-        "non-fiction",
-        "essays",
-        "race",
-        "philosophy",
-        "politics",
-        "theory"
-      ],
-      "rating": 4.27,
-      "ratings": 1216,
-      "reviews": 61
-    },
-    {
-      "title": "How Nonviolence Protects the State",
-      "url": "https://www.goodreads.com/book/show/381842.How_Nonviolence_Protects_the_State",
-      "id": "371619",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328770097i/381842.jpg",
-      "authors": [
-        "Peter Gelderloos"
-      ],
-      "genres": [
-        "politics",
-        "non-fiction",
-        "activism",
-        "philosophy",
-        "history",
-        "theory",
-        "social-justice"
-      ],
-      "rating": 4.01,
-      "ratings": 1214,
-      "reviews": 131
-    },
-    {
-      "title": "Teaching Critical Thinking: Practical Wisdom",
-      "url": "https://www.goodreads.com/book/show/51398.Teaching_Critical_Thinking",
-      "id": "200706",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348807161i/51398.jpg",
-      "authors": [
-        "bell hooks"
-      ],
-      "genres": [
-        "education",
-        "non-fiction",
-        "teaching",
-        "feminism",
-        "philosophy",
-        "theory",
-        "social-justice"
-      ],
-      "rating": 4.29,
-      "ratings": 1212,
-      "reviews": 113
-    },
-    {
-      "title": "Capital: A Critique of Political Economy, Volume 3",
-      "url": "https://www.goodreads.com/book/show/80468.Capital",
-      "id": "26164063",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348387771i/80468.jpg",
-      "authors": [
-        "Karl Marx"
-      ],
-      "genres": [
-        "economics",
-        "philosophy",
-        "politics",
-        "non-fiction",
-        "theory",
-        "history",
-        "classics"
-      ],
-      "rating": 4.18,
-      "ratings": 1211,
-      "reviews": 77
-    },
-    {
-      "title": "Black Marxism: The Making of the Black Radical Tradition",
-      "url": "https://www.goodreads.com/book/show/200142.Black_Marxism",
-      "id": "193625",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348821245i/200142.jpg",
-      "authors": [
-        "Cedric J. Robinson"
-      ],
-      "genres": [
-        "non-fiction",
-        "history",
-        "politics",
-        "race",
-        "theory",
-        "philosophy",
-        "anti-racist"
-      ],
-      "rating": 4.41,
-      "ratings": 1204,
-      "reviews": 138
-    },
-    {
-      "title": "The Time-Image",
-      "url": "https://www.goodreads.com/book/show/765336.The_Time_Image",
-      "id": "564464",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348583792i/765336.jpg",
-      "authors": [
-        "Gilles Deleuze"
-      ],
-      "genres": [
-        "philosophy",
-        "film",
-        "non-fiction",
-        "theory",
-        "art",
-        "france",
-        "cultural-studies"
-      ],
-      "rating": 4.18,
-      "ratings": 1204,
-      "reviews": 29
-    },
-    {
-      "title": "The Architecture of the City",
-      "url": "https://www.goodreads.com/book/show/852197.The_Architecture_of_the_City",
-      "id": "837706",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1387711558i/852197.jpg",
-      "authors": [
-        "Aldo Rossi"
-      ],
-      "genres": [
-        "architecture",
-        "non-fiction",
-        "urbanism",
-        "design",
-        "cities",
-        "urban-studies",
-        "theory"
-      ],
-      "rating": 4.06,
-      "ratings": 1201,
-      "reviews": 25
-    },
-    {
-      "title": "Manifiesto Contra-Sexual",
-      "url": "https://www.goodreads.com/book/show/8527264-manifiesto-contra-sexual",
-      "id": "13394293",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1278012958i/8527264.jpg",
-      "authors": [
-        "Paul B. Preciado"
-      ],
-      "genres": [
-        "feminism",
-        "non-fiction",
-        "queer",
-        "philosophy",
-        "lgbt",
-        "theory",
-        "sexuality"
-      ],
-      "rating": 4.14,
-      "ratings": 1179,
-      "reviews": 110
-    },
-    {
-      "title": "Terrorist Assemblages: Homonationalism in Queer Times",
-      "url": "https://www.goodreads.com/book/show/1451718.Terrorist_Assemblages",
-      "id": "1442462",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328807195i/1451718.jpg",
-      "authors": [
-        "Jasbir K. Puar"
-      ],
-      "genres": [
-        "queer",
-        "theory",
-        "non-fiction",
-        "lgbt",
-        "philosophy",
-        "academic",
-        "politics"
-      ],
-      "rating": 4.16,
-      "ratings": 1157,
-      "reviews": 72
-    },
-    {
-      "title": "Math Without Numbers",
-      "url": "https://www.goodreads.com/book/show/52685608-math-without-numbers",
-      "id": "78539917",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1585199674i/52685608.jpg",
-      "authors": [
-        "Milo Beckman"
-      ],
-      "genres": [
-        "non-fiction",
-        "science",
-        "mathematics",
-        "philosophy",
-        "education",
-        "essays",
-        "theory"
-      ],
-      "rating": 4.12,
-      "ratings": 1155,
-      "reviews": 162
-    },
-    {
-      "title": "The Study of Counterpoint",
-      "url": "https://www.goodreads.com/book/show/507840.The_Study_of_Counterpoint",
-      "id": "495864",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347783918i/507840.jpg",
-      "authors": [
-        "Johann Joseph Fux"
-      ],
-      "genres": [
-        "music",
-        "non-fiction",
-        "reference",
-        "classics",
-        "textbooks",
-        "theory",
-        "collections"
-      ],
-      "rating": 4.18,
-      "ratings": 1136,
-      "reviews": 46
-    },
-    {
-      "title": "A Dying Colonialism",
-      "url": "https://www.goodreads.com/book/show/66935.A_Dying_Colonialism",
-      "id": "146268",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388445219i/66935.jpg",
-      "authors": [
-        "Frantz Fanon"
-      ],
-      "genres": [
-        "non-fiction",
-        "history",
-        "politics",
-        "philosophy",
-        "theory",
-        "africa",
-        "race"
-      ],
-      "rating": 4.2,
-      "ratings": 1134,
-      "reviews": 74
-    },
-    {
-      "title": "The Gutenberg Galaxy: The Making of Typographic Man",
-      "url": "https://www.goodreads.com/book/show/440463.The_Gutenberg_Galaxy",
-      "id": "24920",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1396835528i/440463.jpg",
-      "authors": [
-        "Marshall McLuhan"
-      ],
-      "genres": [
-        "philosophy",
-        "non-fiction",
-        "history",
-        "sociology",
-        "technology",
-        "communication",
-        "theory"
-      ],
-      "rating": 4.14,
-      "ratings": 1133,
-      "reviews": 88
-    },
-    {
-      "title": "Right-Wing Women",
-      "url": "https://www.goodreads.com/book/show/377163.Right_Wing_Women",
-      "id": "1438012",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1342858899i/377163.jpg",
-      "authors": [
-        "Andrea Dworkin"
-      ],
-      "genres": [
-        "feminism",
-        "non-fiction",
-        "politics",
-        "gender",
-        "philosophy",
-        "theory",
-        "womens"
-      ],
-      "rating": 4.35,
-      "ratings": 1130,
-      "reviews": 163
-    },
-    {
-      "title": "Women's Liberation and the African Freedom Struggle",
-      "url": "https://www.goodreads.com/book/show/3039894-women-s-liberation-and-the-african-freedom-struggle",
-      "id": "3070519",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1356127931i/3039894.jpg",
-      "authors": [
-        "Thomas Sankara"
-      ],
-      "genres": [
-        "feminism",
-        "non-fiction",
-        "politics",
-        "theory",
-        "history",
-        "africa",
-        "race"
-      ],
-      "rating": 4.5,
-      "ratings": 1115,
-      "reviews": 149
-    },
-    {
-      "title": "Hammer and Hoe: Alabama Communists During the Great Depression",
-      "url": "https://www.goodreads.com/book/show/90004.Hammer_and_Hoe",
-      "id": "86868",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347800391i/90004.jpg",
-      "authors": [
-        "Robin D.G. Kelley"
-      ],
-      "genres": [
-        "history",
-        "politics",
-        "non-fiction",
-        "race",
-        "american-history",
-        "labor",
-        "theory"
-      ],
-      "rating": 4.37,
-      "ratings": 1096,
-      "reviews": 93
-    },
-    {
-      "title": "Cruel Optimism",
-      "url": "https://www.goodreads.com/book/show/11347563-cruel-optimism",
-      "id": "16276879",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1705875716i/11347563.jpg",
-      "authors": [
-        "Lauren Berlant"
-      ],
-      "genres": [
-        "non-fiction",
-        "philosophy",
-        "theory",
-        "psychology",
-        "sociology",
-        "politics",
-        "academic"
-      ],
-      "rating": 4.13,
-      "ratings": 1091,
-      "reviews": 92
-    },
-    {
-      "title": "The Emancipated Spectator",
-      "url": "https://www.goodreads.com/book/show/6329687-the-emancipated-spectator",
-      "id": "4963926",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1374000302i/6329687.jpg",
-      "authors": [
-        "Jacques Rancière"
-      ],
-      "genres": [
-        "philosophy",
-        "art",
-        "non-fiction",
-        "theory",
-        "politics",
-        "film",
-        "france"
-      ],
-      "rating": 4.01,
-      "ratings": 1081,
-      "reviews": 65
-    },
-    {
-      "title": "Revolution at Point Zero: Housework, Reproduction, and Feminist Struggle",
-      "url": "https://www.goodreads.com/book/show/13218904-revolution-at-point-zero",
-      "id": "18405029",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1344606486i/13218904.jpg",
-      "authors": [
-        "Silvia Federici"
-      ],
-      "genres": [
-        "feminism",
-        "non-fiction",
-        "politics",
-        "philosophy",
-        "essays",
-        "gender",
-        "theory"
-      ],
-      "rating": 4.36,
-      "ratings": 1079,
-      "reviews": 96
-    },
-    {
-      "title": "Plantation Memories",
-      "url": "https://www.goodreads.com/book/show/6617863-plantation-memories",
-      "id": "6811979",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1394540052i/6617863.jpg",
-      "authors": [
-        "Grada Kilomba"
-      ],
-      "genres": [
-        "non-fiction",
-        "race",
-        "feminism",
-        "history",
-        "essays",
-        "portugal",
-        "theory"
-      ],
-      "rating": 4.67,
-      "ratings": 1077,
-      "reviews": 121
-    },
-    {
-      "title": "Space and Place: The Perspective of Experience",
-      "url": "https://www.goodreads.com/book/show/175198.Space_and_Place",
-      "id": "169249",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348918266i/175198.jpg",
-      "authors": [
-        "Yi-Fu Tuan"
-      ],
-      "genres": [
-        "architecture",
-        "non-fiction",
-        "philosophy",
-        "geography",
-        "theory",
-        "sociology",
-        "academic"
-      ],
-      "rating": 4.04,
-      "ratings": 1074,
-      "reviews": 49
-    },
-    {
-      "title": "Film Form: Essays In Film Theory",
-      "url": "https://www.goodreads.com/book/show/80156.Film_Form",
-      "id": "77403",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1400875620i/80156.jpg",
-      "authors": [
-        "Sergei Eisenstein"
-      ],
-      "genres": [
-        "film",
-        "non-fiction",
-        "art",
-        "essays",
-        "media-tie-in",
-        "philosophy",
-        "theory"
-      ],
-      "rating": 4.08,
-      "ratings": 1064,
-      "reviews": 52
-    },
-    {
-      "title": "Seventeen Contradictions and the End of Capitalism",
-      "url": "https://www.goodreads.com/book/show/18579571-seventeen-contradictions-and-the-end-of-capitalism",
-      "id": "26311588",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1384017105i/18579571.jpg",
-      "authors": [
-        "David Harvey"
-      ],
-      "genres": [
-        "economics",
-        "politics",
-        "non-fiction",
-        "philosophy",
-        "sociology",
-        "theory",
-        "history"
-      ],
-      "rating": 4.07,
-      "ratings": 1061,
-      "reviews": 94
-    },
-    {
-      "title": "Freedom Dreams: The Black Radical Imagination",
-      "url": "https://www.goodreads.com/book/show/90528.Freedom_Dreams",
-      "id": "87368",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320445635i/90528.jpg",
-      "authors": [
-        "Robin D.G. Kelley"
-      ],
-      "genres": [
-        "history",
-        "non-fiction",
-        "race",
-        "politics",
-        "social-justice",
-        "theory",
-        "african-american"
-      ],
-      "rating": 4.37,
-      "ratings": 1057,
-      "reviews": 83
-    },
-    {
-      "title": "The Promise of Happiness",
-      "url": "https://www.goodreads.com/book/show/7934796-the-promise-of-happiness",
-      "id": "11321996",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328807497i/7934796.jpg",
-      "authors": [
-        "Sara Ahmed"
-      ],
-      "genres": [
-        "non-fiction",
-        "philosophy",
-        "feminism",
-        "theory",
-        "queer",
-        "academic",
-        "cultural-studies"
-      ],
-      "rating": 4.3,
-      "ratings": 1046,
-      "reviews": 94
-    },
-    {
-      "title": "The Psychic Life of Power: Theories in Subjection",
-      "url": "https://www.goodreads.com/book/show/331460.The_Psychic_Life_of_Power",
-      "id": "1523349",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1407812642i/331460.jpg",
-      "authors": [
-        "Judith Butler"
-      ],
-      "genres": [
-        "philosophy",
-        "feminism",
-        "theory",
-        "non-fiction",
-        "psychology",
-        "politics",
-        "sociology"
-      ],
-      "rating": 4.07,
-      "ratings": 1045,
-      "reviews": 43
-    },
-    {
-      "title": "Border and Rule: Global Migration, Capitalism, and the Rise of Racist Nationalism",
-      "url": "https://www.goodreads.com/book/show/54626107-border-and-rule",
-      "id": "85227772",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1595346441i/54626107.jpg",
-      "authors": [
-        "Harsha Walia"
-      ],
-      "genres": [
-        "non-fiction",
-        "politics",
-        "history",
-        "race",
-        "social-justice",
-        "theory",
-        "philosophy"
-      ],
-      "rating": 4.61,
-      "ratings": 1034,
-      "reviews": 148
-    },
-    {
-      "title": "Demanding the Impossible: A History of Anarchism",
-      "url": "https://www.goodreads.com/book/show/880355.Demanding_the_Impossible",
-      "id": "865649",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347731638i/880355.jpg",
-      "authors": [
-        "Peter H. Marshall"
-      ],
-      "genres": [
-        "history",
-        "politics",
-        "non-fiction",
-        "philosophy",
-        "anarchism",
-        "theory",
-        "activism"
-      ],
-      "rating": 4.11,
-      "ratings": 1027,
-      "reviews": 84
-    },
-    {
-      "title": "The Political Unconscious",
-      "url": "https://www.goodreads.com/book/show/226065.The_Political_Unconscious",
-      "id": "1224646",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1356446584i/226065.jpg",
-      "authors": [
-        "Fredric Jameson"
-      ],
-      "genres": [
-        "philosophy",
-        "theory",
-        "politics",
-        "non-fiction",
-        "criticism",
-        "literary-criticism",
-        "cultural-studies"
-      ],
-      "rating": 4.01,
-      "ratings": 1017,
-      "reviews": 43
-    },
-    {
-      "title": "Roland Barthes",
-      "url": "https://www.goodreads.com/book/show/23055.Roland_Barthes",
-      "id": "1156314",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348751321i/23055.jpg",
-      "authors": [
-        "Roland Barthes"
-      ],
-      "genres": [
-        "philosophy",
-        "non-fiction",
-        "memoir",
-        "biography",
-        "france",
-        "theory",
-        "autobiography"
-      ],
-      "rating": 4.06,
-      "ratings": 1011,
-      "reviews": 88
-    },
-    {
-      "title": "On Practice and Contradiction",
-      "url": "https://www.goodreads.com/book/show/18920.On_Practice_and_Contradiction",
-      "id": "20265",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1373995708i/18920.jpg",
-      "authors": [
-        "Mao Zedong"
-      ],
-      "genres": [
-        "philosophy",
-        "politics",
-        "theory",
-        "non-fiction",
-        "china",
-        "history",
-        "essays"
-      ],
-      "rating": 4.04,
-      "ratings": 1010,
-      "reviews": 106
-    },
-    {
-      "title": "After Finitude: An Essay on the Necessity of Contingency",
-      "url": "https://www.goodreads.com/book/show/2199850.After_Finitude",
-      "id": "2205606",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348579872i/2199850.jpg",
-      "authors": [
-        "Quentin Meillassoux"
-      ],
-      "genres": [
-        "philosophy",
-        "theory",
-        "non-fiction",
-        "science",
-        "metaphysics",
-        "france",
-        "contemporary"
-      ],
-      "rating": 4,
-      "ratings": 1008,
-      "reviews": 93
-    },
-    {
-      "title": "The Cultural Politics of Emotion",
-      "url": "https://www.goodreads.com/book/show/201519.The_Cultural_Politics_of_Emotion",
-      "id": "194968",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386924729i/201519.jpg",
-      "authors": [
-        "Sara Ahmed"
-      ],
-      "genres": [
-        "philosophy",
-        "non-fiction",
-        "feminism",
-        "theory",
-        "politics",
-        "psychology",
-        "sociology"
-      ],
-      "rating": 4.33,
-      "ratings": 1006,
-      "reviews": 74
-    },
-    {
-      "title": "Giving an Account of Oneself",
-      "url": "https://www.goodreads.com/book/show/171254.Giving_an_Account_of_Oneself",
-      "id": "1523351",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348286702i/171254.jpg",
-      "authors": [
-        "Judith Butler"
-      ],
-      "genres": [
-        "philosophy",
-        "theory",
-        "non-fiction",
-        "feminism",
-        "academic",
-        "psychology",
-        "politics"
-      ],
-      "rating": 4.19,
-      "ratings": 987,
-      "reviews": 85
-    },
-    {
-      "title": "K-punk: The Collected and Unpublished Writings of Mark Fisher",
-      "url": "https://www.goodreads.com/book/show/39079243-k-punk",
-      "id": "60640951",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1520482502i/39079243.jpg",
-      "authors": [
-        "Mark Fisher"
-      ],
-      "genres": [
-        "philosophy",
-        "non-fiction",
-        "politics",
-        "music",
-        "essays",
-        "theory",
-        "art"
-      ],
-      "rating": 4.3,
-      "ratings": 976,
-      "reviews": 97
-    },
-    {
-      "title": "Anti-Dühring: Herr Eugen Dühring's Revolution in Science",
-      "url": "https://www.goodreads.com/book/show/187062.Anti_D_hring",
-      "id": "180830",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1502476690i/187062.jpg",
-      "authors": [
-        "Friedrich Engels"
-      ],
-      "genres": [
-        "philosophy",
-        "politics",
-        "non-fiction",
-        "theory",
-        "economics",
-        "science",
-        "history"
-      ],
-      "rating": 4.29,
-      "ratings": 954,
-      "reviews": 68
-    },
-    {
-      "title": "On Contradiction",
-      "url": "https://www.goodreads.com/book/show/6329592-on-contradiction",
-      "id": "6515231",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1689756711i/6329592.jpg",
-      "authors": [
-        "Mao Zedong"
-      ],
-      "genres": [
-        "philosophy",
-        "theory",
-        "politics",
-        "non-fiction",
-        "china",
-        "history",
-        "asia"
-      ],
-      "rating": 4.21,
-      "ratings": 943,
-      "reviews": 90
-    },
-    {
-      "title": "A People's Guide to Capitalism: An Introduction to Marxist Economics",
-      "url": "https://www.goodreads.com/book/show/52365259-a-people-s-guide-to-capitalism",
-      "id": "77617811",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1599761477i/52365259.jpg",
-      "authors": [
-        "Hadas Thier"
-      ],
-      "genres": [
-        "non-fiction",
-        "economics",
-        "politics",
-        "history",
-        "sociology",
-        "theory",
-        "social-justice"
-      ],
-      "rating": 4.31,
-      "ratings": 935,
-      "reviews": 139
+      "ratings": 2497,
+      "reviews": 87
     }
   ]
 }

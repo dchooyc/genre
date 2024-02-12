@@ -1,85 +1,507 @@
 {
   "books": [
     {
-      "title": "Outsmart Your Brain: Why Learning is Hard and How You Can Make It Easy",
-      "url": "https://www.goodreads.com/book/show/59366180-outsmart-your-brain",
-      "id": "93537072",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1674642198i/59366180.jpg",
+      "title": "Social: Why Our Brains Are Wired to Connect",
+      "url": "https://www.goodreads.com/book/show/17237217-social",
+      "id": "24895347",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1377628266i/17237217.jpg",
       "authors": [
-        "Daniel T. Willingham"
+        "Matthew D. Lieberman"
       ],
       "genres": [
-        "non-fiction",
-        "self-help",
         "psychology",
-        "education",
+        "non-fiction",
         "science",
-        "brain",
-        "personal-development"
-      ],
-      "rating": 4.03,
-      "ratings": 618,
-      "reviews": 102
-    },
-    {
-      "title": "Sila rozumu v bláznivej dobe",
-      "url": "https://www.goodreads.com/book/show/46257057-sila-rozumu-v-bl-znivej-dobe",
-      "id": "71243251",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1560240282i/46257057.jpg",
-      "authors": [
-        "Ján Markoš"
-      ],
-      "genres": [
-        "non-fiction",
-        "philosophy",
-        "psychology",
+        "neuroscience",
+        "sociology",
+        "self-help",
         "brain"
       ],
-      "rating": 4.59,
-      "ratings": 612,
-      "reviews": 66
+      "rating": 4.07,
+      "ratings": 2795,
+      "reviews": 280
     },
     {
-      "title": "Innate: How the Wiring of Our Brains Shapes Who We Are",
-      "url": "https://www.goodreads.com/book/show/39204056-innate",
-      "id": "60783140",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1533023451i/39204056.jpg",
+      "title": "Subconscious Mind Power: How to Use the Hidden Power of Your Subconscious Mind",
+      "url": "https://www.goodreads.com/book/show/19012581-subconscious-mind-power",
+      "id": "27035501",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1427618293i/19012581.jpg",
       "authors": [
-        "Kevin J. Mitchell"
+        "James            Thompson"
+      ],
+      "genres": [
+        "self-help",
+        "psychology",
+        "non-fiction",
+        "personal-development",
+        "spirituality",
+        "brain"
+      ],
+      "rating": 4.03,
+      "ratings": 2515,
+      "reviews": 110
+    },
+    {
+      "title": "The Disordered Mind: What Unusual Brains Tell Us About Ourselves",
+      "url": "https://www.goodreads.com/book/show/36722978-the-disordered-mind",
+      "id": "58520336",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1518077205i/36722978.jpg",
+      "authors": [
+        "Eric R. Kandel"
+      ],
+      "genres": [
+        "psychology",
+        "science",
+        "non-fiction",
+        "neuroscience",
+        "mental-health",
+        "brain",
+        "medical"
+      ],
+      "rating": 4.11,
+      "ratings": 2271,
+      "reviews": 268
+    },
+    {
+      "title": "A User's Guide to the Brain: Perception, Attention, and the Four Theaters of the Brain",
+      "url": "https://www.goodreads.com/book/show/81744.A_User_s_Guide_to_the_Brain",
+      "id": "78925",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1403182789i/81744.jpg",
+      "authors": [
+        "John J. Ratey"
+      ],
+      "genres": [
+        "science",
+        "psychology",
+        "non-fiction",
+        "neuroscience",
+        "brain",
+        "biology",
+        "medical"
+      ],
+      "rating": 4.03,
+      "ratings": 2150,
+      "reviews": 94
+    },
+    {
+      "title": "Music, The Brain, And Ecstasy: How Music Captures Our Imagination",
+      "url": "https://www.goodreads.com/book/show/141566.Music_The_Brain_And_Ecstasy",
+      "id": "136534",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1409598442i/141566.jpg",
+      "authors": [
+        "Robert Jourdain"
+      ],
+      "genres": [
+        "music",
+        "non-fiction",
+        "science",
+        "psychology",
+        "neuroscience",
+        "art",
+        "brain"
+      ],
+      "rating": 4,
+      "ratings": 2081,
+      "reviews": 74
+    },
+    {
+      "title": "The Secret Life of the Mind: How Your Brain Thinks, Feels, and Decides",
+      "url": "https://www.goodreads.com/book/show/32498119-the-secret-life-of-the-mind",
+      "id": "47192317",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1495723473i/32498119.jpg",
+      "authors": [
+        "Mariano Sigman"
+      ],
+      "genres": [
+        "non-fiction",
+        "psychology",
+        "science",
+        "neuroscience",
+        "brain",
+        "self-help",
+        "audiobook"
+      ],
+      "rating": 4,
+      "ratings": 2079,
+      "reviews": 231
+    },
+    {
+      "title": "Reading in the Brain: The Science and Evolution of a Human Invention",
+      "url": "https://www.goodreads.com/book/show/6719017-reading-in-the-brain",
+      "id": "6915115",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442166369i/6719017.jpg",
+      "authors": [
+        "Stanislas Dehaene"
+      ],
+      "genres": [
+        "non-fiction",
+        "science",
+        "psychology",
+        "neuroscience",
+        "education",
+        "brain",
+        "language"
+      ],
+      "rating": 4.06,
+      "ratings": 2024,
+      "reviews": 182
+    },
+    {
+      "title": "Brain Energy: A Revolutionary Breakthrough in Understanding Mental Health--and Improving Treatment for Anxiety, Depression, OCD, PTSD, and More",
+      "url": "https://www.goodreads.com/book/show/61129785-brain-energy",
+      "id": "96159630",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1659718165i/61129785.jpg",
+      "authors": [
+        "Christopher M. Palmer"
+      ],
+      "genres": [
+        "health",
+        "non-fiction",
+        "psychology",
+        "science",
+        "mental-health",
+        "self-help",
+        "brain"
+      ],
+      "rating": 4.16,
+      "ratings": 1866,
+      "reviews": 229
+    },
+    {
+      "title": "The Mind of a Mnemonist",
+      "url": "https://www.goodreads.com/book/show/428157.The_Mind_of_a_Mnemonist",
+      "id": "911343",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348477237i/428157.jpg",
+      "authors": [
+        "Alexander R. Luria"
+      ],
+      "genres": [
+        "psychology",
+        "non-fiction",
+        "science",
+        "neuroscience",
+        "biography",
+        "medicine",
+        "brain"
+      ],
+      "rating": 4.04,
+      "ratings": 1841,
+      "reviews": 146
+    },
+    {
+      "title": "How We Learn: Why Brains Learn Better Than Any Machine . . . for Now",
+      "url": "https://www.goodreads.com/book/show/46064083-how-we-learn",
+      "id": "65081924",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1562573168i/46064083.jpg",
+      "authors": [
+        "Stanislas Dehaene"
+      ],
+      "genres": [
+        "science",
+        "non-fiction",
+        "psychology",
+        "neuroscience",
+        "education",
+        "brain",
+        "self-help"
+      ],
+      "rating": 4.33,
+      "ratings": 1823,
+      "reviews": 232
+    },
+    {
+      "title": "Consciousness and the Brain: Deciphering How the Brain Codes Our Thoughts",
+      "url": "https://www.goodreads.com/book/show/18079692-consciousness-and-the-brain",
+      "id": "25386984",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1375064245i/18079692.jpg",
+      "authors": [
+        "Stanislas Dehaene"
       ],
       "genres": [
         "science",
         "psychology",
         "neuroscience",
         "non-fiction",
-        "biology",
+        "philosophy",
         "brain",
-        "evolution"
+        "biology"
       ],
-      "rating": 4.16,
-      "ratings": 574,
-      "reviews": 71
+      "rating": 4.18,
+      "ratings": 1765,
+      "reviews": 224
     },
     {
-      "title": "Biology and Human Behavior: The Neurological Origins of Individuality",
-      "url": "https://www.goodreads.com/book/show/2506042.Biology_and_Human_Behavior",
-      "id": "2513410",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1437947459i/2506042.jpg",
+      "title": "Don't Feed the Monkey Mind: How to Stop the Cycle of Anxiety, Fear, and Worry",
+      "url": "https://www.goodreads.com/book/show/33977140-don-t-feed-the-monkey-mind",
+      "id": "47256416",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1485242324i/33977140.jpg",
       "authors": [
-        "Robert M. Sapolsky"
+        "Jennifer Shannon"
       ],
       "genres": [
-        "science",
-        "psychology",
+        "self-help",
         "non-fiction",
-        "biology",
+        "psychology",
+        "mental-health",
+        "personal-development",
+        "health",
+        "brain"
+      ],
+      "rating": 4.11,
+      "ratings": 1638,
+      "reviews": 172
+    },
+    {
+      "title": "Suggestible You: The Curious Science of Your Brain's Ability to Deceive, Transform, and Heal",
+      "url": "https://www.goodreads.com/book/show/32944584-suggestible-you",
+      "id": "49328557",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1478882434i/32944584.jpg",
+      "authors": [
+        "Erik Vance"
+      ],
+      "genres": [
+        "non-fiction",
+        "psychology",
+        "science",
+        "health",
         "neuroscience",
         "audiobook",
         "brain"
       ],
-      "rating": 4.47,
-      "ratings": 511,
-      "reviews": 63
+      "rating": 4.04,
+      "ratings": 1268,
+      "reviews": 175
+    },
+    {
+      "title": "Making Up the Mind: How the Brain Creates Our Mental World",
+      "url": "https://www.goodreads.com/book/show/581365.Making_Up_the_Mind",
+      "id": "568253",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1391710770i/581365.jpg",
+      "authors": [
+        "Chris Frith"
+      ],
+      "genres": [
+        "psychology",
+        "science",
+        "non-fiction",
+        "neuroscience",
+        "brain",
+        "philosophy",
+        "biology"
+      ],
+      "rating": 4.11,
+      "ratings": 1229,
+      "reviews": 73
+    },
+    {
+      "title": "Neuroscience: Exploring the Brain",
+      "url": "https://www.goodreads.com/book/show/170011.Neuroscience",
+      "id": "164162",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328809598i/170011.jpg",
+      "authors": [
+        "Mark F. Bear"
+      ],
+      "genres": [
+        "neuroscience",
+        "science",
+        "psychology",
+        "textbooks",
+        "non-fiction",
+        "biology",
+        "brain"
+      ],
+      "rating": 4.27,
+      "ratings": 1181,
+      "reviews": 43
+    },
+    {
+      "title": "Whole Brain Teaching for Challenging Kids",
+      "url": "https://www.goodreads.com/book/show/17727101-whole-brain-teaching-for-challenging-kids",
+      "id": "24797025",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1382937859i/17727101.jpg",
+      "authors": [
+        "Chris Biffle"
+      ],
+      "genres": [
+        "teaching",
+        "education",
+        "non-fiction",
+        "school",
+        "unfinished",
+        "brain",
+        "teachers"
+      ],
+      "rating": 4.1,
+      "ratings": 1137,
+      "reviews": 82
+    },
+    {
+      "title": "Power Foods for the Brain: An Effective 3-Step Plan to Protect Your Mind and Strengthen Your Memory",
+      "url": "https://www.goodreads.com/book/show/14583463-power-foods-for-the-brain",
+      "id": "20226207",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1340770464i/14583463.jpg",
+      "authors": [
+        "Neal D. Barnard"
+      ],
+      "genres": [
+        "health",
+        "nutrition",
+        "non-fiction",
+        "food",
+        "vegan",
+        "cooking",
+        "brain"
+      ],
+      "rating": 4.03,
+      "ratings": 1135,
+      "reviews": 117
+    },
+    {
+      "title": "Your Fantastic Elastic Brain: A Growth Mindset Book for Kids to Stretch and Shape Their Brains",
+      "url": "https://www.goodreads.com/book/show/10237568-your-fantastic-elastic-brain",
+      "id": "15137568",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1343262973i/10237568.jpg",
+      "authors": [
+        "JoAnn Deak"
+      ],
+      "genres": [
+        "picture-books",
+        "science",
+        "non-fiction",
+        "growth-mindset",
+        "childrens",
+        "teaching",
+        "brain"
+      ],
+      "rating": 4.35,
+      "ratings": 961,
+      "reviews": 165
+    },
+    {
+      "title": "Speed Reading with the Right Brain: Learn to Read Ideas Instead of Just Words",
+      "url": "https://www.goodreads.com/book/show/23350443-speed-reading-with-the-right-brain",
+      "id": "42908279",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1436088098i/23350443.jpg",
+      "authors": [
+        "David          Butler"
+      ],
+      "genres": [
+        "self-help",
+        "non-fiction",
+        "personal-development",
+        "brain",
+        "psychology",
+        "productivity",
+        "education"
+      ],
+      "rating": 4.05,
+      "ratings": 857,
+      "reviews": 98
+    },
+    {
+      "title": "The Man with a Shattered World: The History of a Brain Wound",
+      "url": "https://www.goodreads.com/book/show/34667.The_Man_with_a_Shattered_World",
+      "id": "34638",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388586488i/34667.jpg",
+      "authors": [
+        "Aleksandr R. Luria"
+      ],
+      "genres": [
+        "psychology",
+        "non-fiction",
+        "science",
+        "neuroscience",
+        "medicine",
+        "memoir",
+        "brain"
+      ],
+      "rating": 4.09,
+      "ratings": 830,
+      "reviews": 60
+    },
+    {
+      "title": "The Leading Brain: Powerful Science-Based Strategies for Achieving Peak Performance",
+      "url": "https://www.goodreads.com/book/show/30763727-the-leading-brain",
+      "id": "51319731",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1471281710i/30763727.jpg",
+      "authors": [
+        "Friederike Fabritius"
+      ],
+      "genres": [
+        "non-fiction",
+        "psychology",
+        "business",
+        "science",
+        "self-help",
+        "leadership",
+        "brain"
+      ],
+      "rating": 4.04,
+      "ratings": 797,
+      "reviews": 88
+    },
+    {
+      "title": "NeuroLogic: The Brain's Hidden Rationale Behind Our Irrational Behavior",
+      "url": "https://www.goodreads.com/book/show/25387312-neurologic",
+      "id": "45137794",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1447281534i/25387312.jpg",
+      "authors": [
+        "Eliezer J. Sternberg"
+      ],
+      "genres": [
+        "psychology",
+        "science",
+        "non-fiction",
+        "neuroscience",
+        "brain",
+        "audiobook",
+        "medical"
+      ],
+      "rating": 4.24,
+      "ratings": 760,
+      "reviews": 97
+    },
+    {
+      "title": "Neuroplasticity",
+      "url": "https://www.goodreads.com/book/show/29889529-neuroplasticity",
+      "id": "50260949",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1562990666i/29889529.jpg",
+      "authors": [
+        "Moheb Costandi"
+      ],
+      "genres": [
+        "science",
+        "neuroscience",
+        "non-fiction",
+        "psychology",
+        "biology",
+        "brain",
+        "audiobook"
+      ],
+      "rating": 4.02,
+      "ratings": 657,
+      "reviews": 66
+    },
+    {
+      "title": "The Divided Brain and the Search for Meaning",
+      "url": "https://www.goodreads.com/book/show/18901042-the-divided-brain-and-the-search-for-meaning",
+      "id": "23189386",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388748486i/18901042.jpg",
+      "authors": [
+        "Iain McGilchrist"
+      ],
+      "genres": [
+        "psychology",
+        "philosophy",
+        "science",
+        "non-fiction",
+        "neuroscience",
+        "brain",
+        "self-help"
+      ],
+      "rating": 4.39,
+      "ratings": 656,
+      "reviews": 52
     }
   ]
 }

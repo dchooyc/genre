@@ -1,10 +1,366 @@
 {
   "books": [
     {
-      "title": "The Crossbones",
-      "url": "https://www.goodreads.com/book/show/7941693-the-crossbones",
-      "id": "11371773",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328838170i/7941693.jpg",
+      "title": "Strange",
+      "url": "https://www.goodreads.com/book/show/44557046-strange",
+      "id": "69151823",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1553141938i/44557046.jpg",
+      "authors": [
+        "Alex Mírez"
+      ],
+      "genres": [
+        "romance",
+        "thriller",
+        "mystery",
+        "science-fiction",
+        "horror",
+        "young-adult"
+      ],
+      "rating": 4.37,
+      "ratings": 8309,
+      "reviews": 522
+    },
+    {
+      "title": "Fire & Ash",
+      "url": "https://www.goodreads.com/book/show/13424356-fire-ash",
+      "id": "18890761",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1432998644i/13424356.jpg",
+      "authors": [
+        "Jonathan Maberry"
+      ],
+      "genres": [
+        "zombies",
+        "young-adult",
+        "horror",
+        "dystopia",
+        "post-apocalyptic",
+        "fiction",
+        "science-fiction"
+      ],
+      "rating": 4.35,
+      "ratings": 8273,
+      "reviews": 745
+    },
+    {
+      "title": "The Doll in the Garden",
+      "url": "https://www.goodreads.com/book/show/541521.The_Doll_in_the_Garden",
+      "id": "528879",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1440285565i/541521.jpg",
+      "authors": [
+        "Mary Downing Hahn"
+      ],
+      "genres": [
+        "horror",
+        "middle-grade",
+        "childrens",
+        "mystery",
+        "ghosts",
+        "fantasy",
+        "paranormal"
+      ],
+      "rating": 4.05,
+      "ratings": 8265,
+      "reviews": 705
+    },
+    {
+      "title": "Death Note: Black Edition, Vol. 3",
+      "url": "https://www.goodreads.com/book/show/7544944-death-note",
+      "id": "9824535",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327777518i/7544944.jpg",
+      "authors": [
+        "Tsugumi Ohba"
+      ],
+      "genres": [
+        "manga",
+        "graphic-novels",
+        "fantasy",
+        "fiction",
+        "horror",
+        "thriller",
+        "mystery"
+      ],
+      "rating": 4.32,
+      "ratings": 8252,
+      "reviews": 599
+    },
+    {
+      "title": "The Devil's Advocate",
+      "url": "https://www.goodreads.com/book/show/248760.The_Devil_s_Advocate",
+      "id": "241036",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1389578343i/248760.jpg",
+      "authors": [
+        "Andrew Neiderman"
+      ],
+      "genres": [
+        "horror",
+        "fiction",
+        "thriller",
+        "media-tie-in",
+        "mystery",
+        "fantasy",
+        "paranormal"
+      ],
+      "rating": 4,
+      "ratings": 8235,
+      "reviews": 232
+    },
+    {
+      "title": "The Reapers",
+      "url": "https://www.goodreads.com/book/show/2515832.The_Reapers",
+      "id": "2425284",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1408927170i/2515832.jpg",
+      "authors": [
+        "John Connolly"
+      ],
+      "genres": [
+        "thriller",
+        "mystery",
+        "crime",
+        "fiction",
+        "horror",
+        "mystery-thriller",
+        "suspense"
+      ],
+      "rating": 4.09,
+      "ratings": 8234,
+      "reviews": 538
+    },
+    {
+      "title": "Rain",
+      "url": "https://www.goodreads.com/book/show/354561.Rain",
+      "id": "344752",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1587201823i/354561.jpg",
+      "authors": [
+        "Michael McDowell"
+      ],
+      "genres": [
+        "horror",
+        "fantasy",
+        "fiction",
+        "gothic",
+        "historical-fiction",
+        "audiobook",
+        "southern-gothic"
+      ],
+      "rating": 4.15,
+      "ratings": 8216,
+      "reviews": 808
+    },
+    {
+      "title": "The King of Plagues",
+      "url": "https://www.goodreads.com/book/show/9120730-the-king-of-plagues",
+      "id": "13999323",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388359918i/9120730.jpg",
+      "authors": [
+        "Jonathan Maberry"
+      ],
+      "genres": [
+        "horror",
+        "thriller",
+        "fiction",
+        "science-fiction",
+        "action",
+        "audiobook",
+        "zombies"
+      ],
+      "rating": 4.2,
+      "ratings": 8196,
+      "reviews": 485
+    },
+    {
+      "title": "Death",
+      "url": "https://www.goodreads.com/book/show/13532194-death",
+      "id": "19093870",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388191903i/13532194.jpg",
+      "authors": [
+        "Neil Gaiman"
+      ],
+      "genres": [
+        "graphic-novels",
+        "fantasy",
+        "fiction",
+        "graphic-novels-comics",
+        "horror",
+        "comic-book",
+        "dc-comics"
+      ],
+      "rating": 4.47,
+      "ratings": 8158,
+      "reviews": 665
+    },
+    {
+      "title": "Berserk, Vol. 15",
+      "url": "https://www.goodreads.com/book/show/248866.Berserk_Vol_15",
+      "id": "241141",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1403205732i/248866.jpg",
+      "authors": [
+        "Kentaro Miura"
+      ],
+      "genres": [
+        "manga",
+        "fantasy",
+        "comics",
+        "horror",
+        "graphic-novels",
+        "fiction",
+        "seinen"
+      ],
+      "rating": 4.53,
+      "ratings": 8139,
+      "reviews": 232
+    },
+    {
+      "title": "Bind, Torture, Kill: The Inside Story of the Serial Killer Next Door",
+      "url": "https://www.goodreads.com/book/show/1040458.Bind_Torture_Kill",
+      "id": "1026828",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1383007479i/1040458.jpg",
+      "authors": [
+        "Roy Wenzl"
+      ],
+      "genres": [
+        "true-crime",
+        "non-fiction",
+        "crime",
+        "audiobook",
+        "biography",
+        "history",
+        "horror"
+      ],
+      "rating": 4.03,
+      "ratings": 8114,
+      "reviews": 638
+    },
+    {
+      "title": "From Below",
+      "url": "https://www.goodreads.com/book/show/58830202-from-below",
+      "id": "92657861",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1629655212i/58830202.jpg",
+      "authors": [
+        "Darcy Coates"
+      ],
+      "genres": [
+        "horror",
+        "fiction",
+        "mystery",
+        "thriller",
+        "paranormal",
+        "adult",
+        "mystery-thriller"
+      ],
+      "rating": 4.05,
+      "ratings": 8106,
+      "reviews": 1438
+    },
+    {
+      "title": "House of Roots and Ruin",
+      "url": "https://www.goodreads.com/book/show/62649010-house-of-roots-and-ruin",
+      "id": "98416294",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1668687160i/62649010.jpg",
+      "authors": [
+        "Erin A. Craig"
+      ],
+      "genres": [
+        "fantasy",
+        "young-adult",
+        "horror",
+        "gothic",
+        "romance",
+        "mystery",
+        "young-adult-fantasy"
+      ],
+      "rating": 4.17,
+      "ratings": 8082,
+      "reviews": 1797
+    },
+    {
+      "title": "Like a Velvet Glove Cast in Iron",
+      "url": "https://www.goodreads.com/book/show/30220.Like_a_Velvet_Glove_Cast_in_Iron",
+      "id": "372591",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1331279060i/30220.jpg",
+      "authors": [
+        "Daniel Clowes"
+      ],
+      "genres": [
+        "comics",
+        "graphic-novels",
+        "fiction",
+        "graphic-novels-comics",
+        "comix",
+        "horror",
+        "comic-book"
+      ],
+      "rating": 4.06,
+      "ratings": 8065,
+      "reviews": 456
+    },
+    {
+      "title": "Red Fox",
+      "url": "https://www.goodreads.com/book/show/11710500-red-fox",
+      "id": "19191181",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1602889068i/11710500.jpg",
+      "authors": [
+        "Karina Halle"
+      ],
+      "genres": [
+        "paranormal",
+        "horror",
+        "romance",
+        "ghosts",
+        "fantasy",
+        "new-adult",
+        "urban-fantasy"
+      ],
+      "rating": 4.17,
+      "ratings": 8059,
+      "reviews": 911
+    },
+    {
+      "title": "In the Flesh",
+      "url": "https://www.goodreads.com/book/show/52643.In_the_Flesh",
+      "id": "1135706",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388346629i/52643.jpg",
+      "authors": [
+        "Clive Barker"
+      ],
+      "genres": [
+        "horror",
+        "short-stories",
+        "fiction",
+        "thriller",
+        "fantasy",
+        "anthologies",
+        "collections"
+      ],
+      "rating": 4.02,
+      "ratings": 8048,
+      "reviews": 234
+    },
+    {
+      "title": "The Good, the Bad, and the Uncanny",
+      "url": "https://www.goodreads.com/book/show/6672129-the-good-the-bad-and-the-uncanny",
+      "id": "6867091",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1255804642i/6672129.jpg",
+      "authors": [
+        "Simon R. Green"
+      ],
+      "genres": [
+        "urban-fantasy",
+        "fantasy",
+        "fiction",
+        "paranormal",
+        "horror",
+        "mystery",
+        "detective"
+      ],
+      "rating": 4.1,
+      "ratings": 8030,
+      "reviews": 242
+    },
+    {
+      "title": "Skeleton Creek",
+      "url": "https://www.goodreads.com/book/show/55352527-skeleton-creek",
+      "id": "4950954",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1600749410i/55352527.jpg",
       "authors": [
         "Patrick Carman"
       ],
@@ -12,1037 +368,138 @@
         "mystery",
         "horror",
         "young-adult",
-        "paranormal",
         "middle-grade",
         "fiction",
-        "adventure"
-      ],
-      "rating": 4.21,
-      "ratings": 2472,
-      "reviews": 249
-    },
-    {
-      "title": "Men, Women, and Chain Saws: Gender in the Modern Horror Film",
-      "url": "https://www.goodreads.com/book/show/293192.Men_Women_and_Chain_Saws",
-      "id": "364105",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348474893i/293192.jpg",
-      "authors": [
-        "Carol J. Clover"
-      ],
-      "genres": [
-        "non-fiction",
-        "horror",
-        "film",
-        "feminism",
-        "gender",
-        "theory",
-        "media-tie-in"
-      ],
-      "rating": 4.02,
-      "ratings": 2471,
-      "reviews": 312
-    },
-    {
-      "title": "The Listener",
-      "url": "https://www.goodreads.com/book/show/31950532-the-listener",
-      "id": "52610846",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1511722409i/31950532.jpg",
-      "authors": [
-        "Robert McCammon"
-      ],
-      "genres": [
-        "horror",
-        "historical-fiction",
-        "thriller",
-        "fiction",
-        "crime",
-        "mystery",
-        "mystery-thriller"
+        "paranormal",
+        "teen"
       ],
       "rating": 4.05,
-      "ratings": 2471,
-      "reviews": 381
+      "ratings": 8018,
+      "reviews": 1290
     },
     {
-      "title": "Hellboy in Hell, Vol. 1: The Descent",
-      "url": "https://www.goodreads.com/book/show/19546047-hellboy-in-hell-vol-1",
-      "id": "27676438",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1387419745i/19546047.jpg",
+      "title": "A Plague Upon Your Family",
+      "url": "https://www.goodreads.com/book/show/15756383-a-plague-upon-your-family",
+      "id": "14449433",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1345378388i/15756383.jpg",
       "authors": [
-        "Mike Mignola"
+        "Mark Tufo"
       ],
       "genres": [
-        "comics",
-        "graphic-novels",
+        "zombies",
         "horror",
-        "fantasy",
+        "post-apocalyptic",
         "fiction",
-        "graphic-novels-comics",
-        "comic-book"
-      ],
-      "rating": 4.18,
-      "ratings": 2468,
-      "reviews": 222
-    },
-    {
-      "title": "Puella Magi Madoka Magica, Vol. 2",
-      "url": "https://www.goodreads.com/book/show/13397978-puella-magi-madoka-magica-vol-2",
-      "id": "18629466",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1593561350i/13397978.jpg",
-      "authors": [
-        "Magica Quartet"
-      ],
-      "genres": [
-        "manga",
-        "fantasy",
-        "graphic-novels",
-        "comics",
-        "horror",
-        "magic",
-        "fiction"
+        "audiobook",
+        "apocalyptic",
+        "science-fiction"
       ],
       "rating": 4.28,
-      "ratings": 2466,
-      "reviews": 97
+      "ratings": 7963,
+      "reviews": 355
     },
     {
-      "title": "Upgrade Soul",
-      "url": "https://www.goodreads.com/book/show/39279780-upgrade-soul",
-      "id": "61608011",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1523660792i/39279780.jpg",
+      "title": "Winterset Hollow",
+      "url": "https://www.goodreads.com/book/show/58934632-winterset-hollow",
+      "id": "92874648",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1630955865i/58934632.jpg",
       "authors": [
-        "Ezra Claytan Daniels"
+        "Jonathan Edward Durham"
       ],
       "genres": [
+        "horror",
+        "fantasy",
+        "fiction",
+        "thriller",
+        "mystery",
+        "animals",
+        "dark-fantasy"
+      ],
+      "rating": 4.01,
+      "ratings": 7959,
+      "reviews": 1496
+    },
+    {
+      "title": "Nightmare at 20,000 Feet: Horror Stories",
+      "url": "https://www.goodreads.com/book/show/33544.Nightmare_at_20_000_Feet",
+      "id": "33606",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388221325i/33544.jpg",
+      "authors": [
+        "Richard Matheson"
+      ],
+      "genres": [
+        "horror",
+        "short-stories",
+        "fiction",
+        "science-fiction",
+        "fantasy",
+        "anthologies",
+        "audiobook"
+      ],
+      "rating": 4.07,
+      "ratings": 7922,
+      "reviews": 463
+    },
+    {
+      "title": "Stephen King The Stand: Captain Trips #1",
+      "url": "https://www.goodreads.com/book/show/22447865-stephen-king-the-stand",
+      "id": "41876321",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1402324710i/22447865.jpg",
+      "authors": [
+        "Roberto Aguirre-Sacasa"
+      ],
+      "genres": [
+        "horror",
+        "fiction",
         "graphic-novels",
         "comics",
-        "science-fiction",
-        "fiction",
-        "graphic-novels-comics",
-        "horror",
-        "comic-book"
+        "dystopia"
       ],
-      "rating": 4.11,
-      "ratings": 2466,
-      "reviews": 417
+      "rating": 4.62,
+      "ratings": 7917,
+      "reviews": 20
     },
     {
-      "title": "Smoke and Mirrors",
-      "url": "https://www.goodreads.com/book/show/176408.Smoke_and_Mirrors",
-      "id": "1059374",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388183640i/176408.jpg",
+      "title": "Nocturnal",
+      "url": "https://www.goodreads.com/book/show/12099550-nocturnal",
+      "id": "19211417",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1333576552i/12099550.jpg",
       "authors": [
-        "Tanya Huff"
+        "Scott Sigler"
       ],
       "genres": [
-        "urban-fantasy",
+        "horror",
+        "thriller",
+        "fiction",
         "fantasy",
-        "vampires",
-        "paranormal",
-        "fiction",
-        "horror",
-        "mystery"
+        "science-fiction",
+        "urban-fantasy",
+        "paranormal"
       ],
-      "rating": 4.06,
-      "ratings": 2465,
-      "reviews": 102
+      "rating": 4.09,
+      "ratings": 7880,
+      "reviews": 675
     },
     {
-      "title": "A Crown of Lights",
-      "url": "https://www.goodreads.com/book/show/611396.A_Crown_of_Lights",
-      "id": "597865",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328870450i/611396.jpg",
+      "title": "A Murder of Magpies",
+      "url": "https://www.goodreads.com/book/show/37773690-a-murder-of-magpies",
+      "id": "59415013",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1518560751i/37773690.jpg",
       "authors": [
-        "Phil Rickman"
+        "Mark  Edwards"
       ],
       "genres": [
+        "thriller",
         "mystery",
         "fiction",
-        "crime",
-        "paranormal",
-        "supernatural",
+        "psychological-thriller",
+        "short-stories",
         "horror",
         "mystery-thriller"
       ],
-      "rating": 4.15,
-      "ratings": 2465,
-      "reviews": 148
-    },
-    {
-      "title": "Summer of '99",
-      "url": "https://www.goodreads.com/book/show/60894312-summer-of-99",
-      "id": "96044026",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1655217759i/60894312.jpg",
-      "authors": [
-        "J.L. Hyde"
-      ],
-      "genres": [
-        "mystery",
-        "thriller",
-        "fiction",
-        "mystery-thriller",
-        "horror",
-        "audiobook",
-        "suspense"
-      ],
-      "rating": 4.09,
-      "ratings": 2462,
-      "reviews": 250
-    },
-    {
-      "title": "Don't Scream",
-      "url": "https://www.goodreads.com/book/show/889019.Don_t_Scream",
-      "id": "26681499",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1349062636i/889019.jpg",
-      "authors": [
-        "Wendy Corsi Staub"
-      ],
-      "genres": [
-        "mystery",
-        "thriller",
-        "suspense",
-        "fiction",
-        "mystery-thriller",
-        "horror",
-        "romantic-suspense"
-      ],
       "rating": 4.04,
-      "ratings": 2462,
-      "reviews": 170
-    },
-    {
-      "title": "Injection, Vol. 2",
-      "url": "https://www.goodreads.com/book/show/29584610-injection-vol-2",
-      "id": "49911090",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1459029328i/29584610.jpg",
-      "authors": [
-        "Warren Ellis"
-      ],
-      "genres": [
-        "comics",
-        "graphic-novels",
-        "science-fiction",
-        "horror",
-        "fantasy",
-        "fiction",
-        "graphic-novels-comics"
-      ],
-      "rating": 4.08,
-      "ratings": 2458,
-      "reviews": 236
-    },
-    {
-      "title": "The Dreaming: Through the Gates of Horn and Ivory",
-      "url": "https://www.goodreads.com/book/show/81063.The_Dreaming",
-      "id": "78265",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1366340489i/81063.jpg",
-      "authors": [
-        "Caitlín R. Kiernan"
-      ],
-      "genres": [
-        "comics",
-        "graphic-novels",
-        "fantasy",
-        "horror",
-        "fiction",
-        "graphic-novels-comics",
-        "comic-book"
-      ],
-      "rating": 4.14,
-      "ratings": 2452,
-      "reviews": 17
-    },
-    {
-      "title": "Puella Magi Madoka Magica, Vol. 3",
-      "url": "https://www.goodreads.com/book/show/13398025-puella-magi-madoka-magica-vol-3",
-      "id": "18629513",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1595090207i/13398025.jpg",
-      "authors": [
-        "Magica Quartet"
-      ],
-      "genres": [
-        "manga",
-        "fantasy",
-        "comics",
-        "graphic-novels",
-        "horror",
-        "fiction",
-        "seinen"
-      ],
-      "rating": 4.38,
-      "ratings": 2448,
-      "reviews": 124
-    },
-    {
-      "title": "La Trilogía de la Niebla",
-      "url": "https://www.goodreads.com/book/show/3402079-la-trilog-a-de-la-niebla",
-      "id": "7039895",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1377430372i/3402079.jpg",
-      "authors": [
-        "Carlos Ruiz Zafón"
-      ],
-      "genres": [
-        "fantasy",
-        "young-adult",
-        "fiction",
-        "horror",
-        "mystery",
-        "spanish-literature",
-        "thriller"
-      ],
-      "rating": 4.09,
-      "ratings": 2445,
-      "reviews": 169
-    },
-    {
-      "title": "Claymore, Vol. 12: The Souls of the Fallen",
-      "url": "https://www.goodreads.com/book/show/2348385.Claymore_Vol_12",
-      "id": "2355095",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1387346516i/2348385.jpg",
-      "authors": [
-        "Norihiro Yagi"
-      ],
-      "genres": [
-        "manga",
-        "fantasy",
-        "horror",
-        "comics",
-        "graphic-novels",
-        "action",
-        "shonen"
-      ],
-      "rating": 4.28,
-      "ratings": 2445,
-      "reviews": 86
-    },
-    {
-      "title": "The Master of Mankind",
-      "url": "https://www.goodreads.com/book/show/33303512-the-master-of-mankind",
-      "id": "53465255",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1529220113i/33303512.jpg",
-      "authors": [
-        "Aaron Dembski-Bowden"
-      ],
-      "genres": [
-        "science-fiction",
-        "40k",
-        "fiction",
-        "audiobook",
-        "fantasy",
-        "action",
-        "horror"
-      ],
-      "rating": 4.23,
-      "ratings": 2442,
-      "reviews": 168
-    },
-    {
-      "title": "Parasyte, Volume 4",
-      "url": "https://www.goodreads.com/book/show/3327258-parasyte-volume-4",
-      "id": "3365245",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320552003i/3327258.jpg",
-      "authors": [
-        "Hitoshi Iwaaki"
-      ],
-      "genres": [
-        "manga",
-        "horror",
-        "graphic-novels",
-        "science-fiction",
-        "comics",
-        "fiction",
-        "seinen"
-      ],
-      "rating": 4.29,
-      "ratings": 2440,
-      "reviews": 113
-    },
-    {
-      "title": "Naoki Urasawa's Monster, Volume 9",
-      "url": "https://www.goodreads.com/book/show/9303025-naoki-urasawa-s-monster-volume-9",
-      "id": "6162595",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1304336133i/9303025.jpg",
-      "authors": [
-        "Naoki Urasawa"
-      ],
-      "genres": [
-        "manga",
-        "comics",
-        "monsters",
-        "graphic-novels",
-        "mystery",
-        "thriller",
-        "horror"
-      ],
-      "rating": 4.7,
-      "ratings": 2438,
-      "reviews": 257
-    },
-    {
-      "title": "A Little High",
-      "url": "https://www.goodreads.com/book/show/61480896-a-little-high",
-      "id": "97047676",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1658027568i/61480896.jpg",
-      "authors": [
-        "Paige Dearth"
-      ],
-      "genres": [
-        "fiction",
-        "horror",
-        "dark"
-      ],
-      "rating": 4.59,
-      "ratings": 2431,
-      "reviews": 144
-    },
-    {
-      "title": "The Path of Thorns",
-      "url": "https://www.goodreads.com/book/show/55302954-the-path-of-thorns",
-      "id": "86241872",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1633500425i/55302954.jpg",
-      "authors": [
-        "A.G. Slatter"
-      ],
-      "genres": [
-        "fantasy",
-        "gothic",
-        "horror",
-        "mystery",
-        "fiction",
-        "historical-fiction",
-        "magic"
-      ],
-      "rating": 4,
-      "ratings": 2430,
-      "reviews": 439
-    },
-    {
-      "title": "Monsters",
-      "url": "https://www.goodreads.com/book/show/53458056-monsters",
-      "id": "83354840",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1629723869i/53458056.jpg",
-      "authors": [
-        "Barry Windsor-Smith"
-      ],
-      "genres": [
-        "graphic-novels",
-        "comics",
-        "horror",
-        "fiction",
-        "science-fiction",
-        "fantasy",
-        "historical-fiction"
-      ],
-      "rating": 4.13,
-      "ratings": 2428,
-      "reviews": 403
-    },
-    {
-      "title": "Lucifer, Book Two",
-      "url": "https://www.goodreads.com/book/show/17671938-lucifer-book-two",
-      "id": "24670925",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1372301405i/17671938.jpg",
-      "authors": [
-        "Mike Carey"
-      ],
-      "genres": [
-        "graphic-novels",
-        "fantasy",
-        "comics",
-        "horror",
-        "comic-book",
-        "mythology",
-        "graphic-novels-comics"
-      ],
-      "rating": 4.38,
-      "ratings": 2421,
-      "reviews": 138
-    },
-    {
-      "title": "Naoki Urasawa's Monster, Volume 10: Picnic",
-      "url": "https://www.goodreads.com/book/show/533013.Naoki_Urasawa_s_Monster_Volume_10",
-      "id": "520555",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388815681i/533013.jpg",
-      "authors": [
-        "Naoki Urasawa"
-      ],
-      "genres": [
-        "manga",
-        "comics",
-        "thriller",
-        "mystery",
-        "graphic-novels",
-        "monsters",
-        "horror"
-      ],
-      "rating": 4.49,
-      "ratings": 2420,
-      "reviews": 74
-    },
-    {
-      "title": "Frankenstein",
-      "url": "https://www.goodreads.com/book/show/18716581-frankenstein",
-      "id": "93385388",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1382721352i/18716581.jpg",
-      "authors": [
-        "Mary Wollstonecraft Shelley"
-      ],
-      "genres": [
-        "classics",
-        "horror",
-        "fiction",
-        "audiobook",
-        "science-fiction",
-        "fantasy",
-        "gothic"
-      ],
-      "rating": 4.09,
-      "ratings": 2416,
-      "reviews": 217
-    },
-    {
-      "title": "The Last Laugh",
-      "url": "https://www.goodreads.com/book/show/58353344-the-last-laugh",
-      "id": "74650071",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1629491813i/58353344.jpg",
-      "authors": [
-        "Mindy McGinnis"
-      ],
-      "genres": [
-        "young-adult",
-        "horror",
-        "mystery",
-        "thriller",
-        "fiction",
-        "audiobook",
-        "contemporary"
-      ],
-      "rating": 4.12,
-      "ratings": 2414,
-      "reviews": 515
-    },
-    {
-      "title": "The A to Z Encyclopedia of Serial Killers",
-      "url": "https://www.goodreads.com/book/show/299091.The_A_to_Z_Encyclopedia_of_Serial_Killers",
-      "id": "290182",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1266518314i/299091.jpg",
-      "authors": [
-        "Harold Schechter"
-      ],
-      "genres": [
-        "true-crime",
-        "non-fiction",
-        "crime",
-        "reference",
-        "history",
-        "horror",
-        "psychology"
-      ],
-      "rating": 4,
-      "ratings": 2411,
-      "reviews": 99
-    },
-    {
-      "title": "Monstress, Vol. 7: Devourer",
-      "url": "https://www.goodreads.com/book/show/60685342-monstress-vol-7",
-      "id": "95667271",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1648156434i/60685342.jpg",
-      "authors": [
-        "Marjorie M. Liu"
-      ],
-      "genres": [
-        "fantasy",
-        "graphic-novels",
-        "comics",
-        "horror",
-        "fiction",
-        "adult",
-        "graphic-novels-comics"
-      ],
-      "rating": 4.38,
-      "ratings": 2410,
-      "reviews": 293
-    },
-    {
-      "title": "The Witcher Omnibus, Volume 1",
-      "url": "https://www.goodreads.com/book/show/51194331-the-witcher-omnibus-volume-1",
-      "id": "61398461",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1562032414l/51194331.jpg",
-      "authors": [
-        "Paul Tobin"
-      ],
-      "genres": [
-        "graphic-novels",
-        "fantasy",
-        "comics",
-        "fiction",
-        "horror",
-        "graphic-novels-comics",
-        "supernatural"
-      ],
-      "rating": 4.07,
-      "ratings": 2410,
-      "reviews": 283
-    },
-    {
-      "title": "Dawn of the Void Book One",
-      "url": "https://www.goodreads.com/book/show/112975696-dawn-of-the-void-book-one",
-      "id": "142699443",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1676275837i/112975696.jpg",
-      "authors": [
-        "Phil Tucker"
-      ],
-      "genres": [
-        "fantasy",
-        "post-apocalyptic",
-        "science-fiction",
-        "fiction",
-        "urban-fantasy",
-        "horror",
-        "magic"
-      ],
-      "rating": 4.39,
-      "ratings": 2399,
-      "reviews": 172
-    },
-    {
-      "title": "Scary Stories to Tell if You Dare 2",
-      "url": "https://www.goodreads.com/book/show/36951903-scary-stories-to-tell-if-you-dare-2",
-      "id": "58751510",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1512526111i/36951903.jpg",
-      "authors": [
-        "Joe Oliveto"
-      ],
-      "genres": [
-        "horror",
-        "fiction",
-        "short-stories",
-        "childrens",
-        "young-adult"
-      ],
-      "rating": 4.52,
-      "ratings": 2399,
-      "reviews": 23
-    },
-    {
-      "title": "The Forbidden",
-      "url": "https://www.goodreads.com/book/show/39307.The_Forbidden",
-      "id": "39015",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388678800i/39307.jpg",
-      "authors": [
-        "L.A. Banks"
-      ],
-      "genres": [
-        "vampires",
-        "paranormal",
-        "urban-fantasy",
-        "fantasy",
-        "paranormal-romance",
-        "romance",
-        "horror"
-      ],
-      "rating": 4.28,
-      "ratings": 2396,
-      "reviews": 51
-    },
-    {
-      "title": "Hellblazer: Damnation's Flame",
-      "url": "https://www.goodreads.com/book/show/196392.Hellblazer",
-      "id": "189946",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1309206630i/196392.jpg",
-      "authors": [
-        "Garth Ennis"
-      ],
-      "genres": [
-        "comics",
-        "graphic-novels",
-        "horror",
-        "fantasy",
-        "fiction",
-        "comic-book",
-        "graphic-novels-comics"
-      ],
-      "rating": 4.15,
-      "ratings": 2394,
-      "reviews": 33
-    },
-    {
-      "title": "Lady Killer, Volume 2",
-      "url": "https://www.goodreads.com/book/show/30347784-lady-killer-volume-2",
-      "id": "50850877",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1659530164i/30347784.jpg",
-      "authors": [
-        "Joëlle Jones"
-      ],
-      "genres": [
-        "graphic-novels",
-        "comics",
-        "graphic-novels-comics",
-        "fiction",
-        "thriller",
-        "horror",
-        "crime"
-      ],
-      "rating": 4.11,
-      "ratings": 2383,
-      "reviews": 297
-    },
-    {
-      "title": "Peace",
-      "url": "https://www.goodreads.com/book/show/60213.Peace",
-      "id": "58579",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1391052690i/60213.jpg",
-      "authors": [
-        "Gene Wolfe"
-      ],
-      "genres": [
-        "fantasy",
-        "fiction",
-        "science-fiction",
-        "horror",
-        "novels",
-        "magical-realism",
-        "science-fiction-fantasy"
-      ],
-      "rating": 4.11,
-      "ratings": 2382,
-      "reviews": 271
-    },
-    {
-      "title": "The Plucker",
-      "url": "https://www.goodreads.com/book/show/299081.The_Plucker",
-      "id": "290172",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348764504i/299081.jpg",
-      "authors": [
-        "Brom"
-      ],
-      "genres": [
-        "fantasy",
-        "horror",
-        "graphic-novels",
-        "fiction",
-        "art",
-        "dark-fantasy",
-        "comics"
-      ],
-      "rating": 4.3,
-      "ratings": 2379,
-      "reviews": 298
-    },
-    {
-      "title": "Her Evil Twin",
-      "url": "https://www.goodreads.com/book/show/9473383-her-evil-twin",
-      "id": "14358527",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328838005i/9473383.jpg",
-      "authors": [
-        "Mimi McCoy"
-      ],
-      "genres": [
-        "childrens",
-        "middle-grade",
-        "fantasy",
-        "paranormal",
-        "horror",
-        "adventure",
-        "mystery"
-      ],
-      "rating": 4.27,
-      "ratings": 2378,
-      "reviews": 147
-    },
-    {
-      "title": "What Vengeance Comes",
-      "url": "https://www.goodreads.com/book/show/28248204-what-vengeance-comes",
-      "id": "48427992",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1450574669i/28248204.jpg",
-      "authors": [
-        "Anthony M. Strong"
-      ],
-      "genres": [
-        "horror",
-        "thriller",
-        "mystery",
-        "paranormal",
-        "fiction",
-        "werewolves",
-        "urban-fantasy"
-      ],
-      "rating": 4.08,
-      "ratings": 2377,
-      "reviews": 217
-    },
-    {
-      "title": "Exodus",
-      "url": "https://www.goodreads.com/book/show/18886535-exodus",
-      "id": "26620659",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1385143324i/18886535.jpg",
-      "authors": [
-        "Glynn James"
-      ],
-      "genres": [
-        "zombies",
-        "horror",
-        "fiction",
-        "post-apocalyptic",
-        "audiobook",
-        "apocalyptic",
-        "military-fiction"
-      ],
-      "rating": 4.38,
-      "ratings": 2372,
-      "reviews": 86
-    },
-    {
-      "title": "After the End of the World",
-      "url": "https://www.goodreads.com/book/show/33574101-after-the-end-of-the-world",
-      "id": "54380539",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1487464875i/33574101.jpg",
-      "authors": [
-        "Jonathan L. Howard"
-      ],
-      "genres": [
-        "horror",
-        "fantasy",
-        "lovecraftian",
-        "fiction",
-        "mystery",
-        "alternate-history",
-        "urban-fantasy"
-      ],
-      "rating": 4,
-      "ratings": 2370,
-      "reviews": 282
-    },
-    {
-      "title": "To the Center of the Earth",
-      "url": "https://www.goodreads.com/book/show/52314117-to-the-center-of-the-earth",
-      "id": "77486034",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1583999882i/52314117.jpg",
-      "authors": [
-        "Greig Beck"
-      ],
-      "genres": [
-        "horror",
-        "adventure",
-        "science-fiction",
-        "fiction",
-        "thriller",
-        "fantasy",
-        "action"
-      ],
-      "rating": 4.06,
-      "ratings": 2369,
-      "reviews": 257
-    },
-    {
-      "title": "The Drifting Classroom, Vol. 1",
-      "url": "https://www.goodreads.com/book/show/44451891-the-drifting-classroom-vol-1",
-      "id": "69036166",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1567950914i/44451891.jpg",
-      "authors": [
-        "Kazuo Umezz"
-      ],
-      "genres": [
-        "manga",
-        "horror",
-        "comics",
-        "graphic-novels",
-        "fiction",
-        "japan",
-        "science-fiction"
-      ],
-      "rating": 4.03,
-      "ratings": 2365,
-      "reviews": 315
-    },
-    {
-      "title": "The Monster Hunter Files",
-      "url": "https://www.goodreads.com/book/show/25423972-the-monster-hunter-files",
-      "id": "45182802",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1492062923i/25423972.jpg",
-      "authors": [
-        "Larry Correia"
-      ],
-      "genres": [
-        "fantasy",
-        "urban-fantasy",
-        "horror",
-        "fiction",
-        "anthologies",
-        "short-stories",
-        "action"
-      ],
-      "rating": 4.14,
-      "ratings": 2363,
-      "reviews": 199
-    },
-    {
-      "title": "This Shattered Land",
-      "url": "https://www.goodreads.com/book/show/15776089-this-shattered-land",
-      "id": "21487857",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1345013495i/15776089.jpg",
-      "authors": [
-        "James N. Cook"
-      ],
-      "genres": [
-        "zombies",
-        "post-apocalyptic",
-        "horror",
-        "fiction",
-        "apocalyptic",
-        "dystopia",
-        "survival"
-      ],
-      "rating": 4.22,
-      "ratings": 2356,
-      "reviews": 70
-    },
-    {
-      "title": "Just an Ordinary Day: The Uncollected Stories",
-      "url": "https://www.goodreads.com/book/show/89727.Just_an_Ordinary_Day",
-      "id": "86599",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388427771i/89727.jpg",
-      "authors": [
-        "Shirley Jackson"
-      ],
-      "genres": [
-        "short-stories",
-        "fiction",
-        "horror",
-        "classics",
-        "fantasy",
-        "gothic",
-        "suspense"
-      ],
-      "rating": 4.17,
-      "ratings": 2354,
-      "reviews": 221
-    },
-    {
-      "title": "Never Be Alone",
-      "url": "https://www.goodreads.com/book/show/39691240-never-be-alone",
-      "id": "61311666",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1522511208i/39691240.jpg",
-      "authors": [
-        "Paige Dearth"
-      ],
-      "genres": [
-        "fiction",
-        "abuse",
-        "dark",
-        "contemporary",
-        "mystery",
-        "horror",
-        "realistic-fiction"
-      ],
-      "rating": 4.48,
-      "ratings": 2351,
-      "reviews": 356
-    },
-    {
-      "title": "Hellsing, Vol. 9",
-      "url": "https://www.goodreads.com/book/show/4792239-hellsing-vol-9",
-      "id": "4857304",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1403204004i/4792239.jpg",
-      "authors": [
-        "Kohta Hirano"
-      ],
-      "genres": [
-        "manga",
-        "horror",
-        "vampires",
-        "comics",
-        "graphic-novels",
-        "fantasy",
-        "seinen"
-      ],
-      "rating": 4.34,
-      "ratings": 2348,
-      "reviews": 54
-    },
-    {
-      "title": "Devils' Line, Vol. 2",
-      "url": "https://www.goodreads.com/book/show/27244870-devils-line-vol-2",
-      "id": "46116269",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1461714415i/27244870.jpg",
-      "authors": [
-        "Ryo Hanada"
-      ],
-      "genres": [
-        "manga",
-        "romance",
-        "fantasy",
-        "horror",
-        "vampires",
-        "seinen",
-        "supernatural"
-      ],
-      "rating": 4.2,
-      "ratings": 2341,
-      "reviews": 148
-    },
-    {
-      "title": "Naoki Urasawa's Monster, Volume 8",
-      "url": "https://www.goodreads.com/book/show/10308480-naoki-urasawa-s-monster-volume-8",
-      "id": "15210733",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1295911921i/10308480.jpg",
-      "authors": [
-        "Naoki Urasawa"
-      ],
-      "genres": [
-        "manga",
-        "comics",
-        "monsters",
-        "mystery",
-        "thriller",
-        "graphic-novels",
-        "horror"
-      ],
-      "rating": 4.66,
-      "ratings": 2340,
-      "reviews": 110
-    },
-    {
-      "title": "Frenzy",
-      "url": "https://www.goodreads.com/book/show/7151456-frenzy",
-      "id": "7416863",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327897899i/7151456.jpg",
-      "authors": [
-        "Robert Liparulo"
-      ],
-      "genres": [
-        "fantasy",
-        "young-adult",
-        "fiction",
-        "time-travel",
-        "christian-fiction",
-        "horror",
-        "christian"
-      ],
-      "rating": 4.35,
-      "ratings": 2337,
-      "reviews": 174
-    },
-    {
-      "title": "Ich bin die Angst",
-      "url": "https://www.goodreads.com/book/show/23562398-ich-bin-die-angst",
-      "id": "21541365",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1415992463i/23562398.jpg",
-      "authors": [
-        "Ethan Cross"
-      ],
-      "genres": [
-        "thriller",
-        "crime",
-        "mystery",
-        "fiction",
-        "horror",
-        "mystery-thriller",
-        "adult"
-      ],
-      "rating": 4.13,
-      "ratings": 2337,
-      "reviews": 187
+      "ratings": 7874,
+      "reviews": 428
     }
   ]
 }

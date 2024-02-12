@@ -52,7 +52,7 @@ func createJsons(genreToBooks map[string][]book.Book) {
 
 		books := book.Books{Books: genreToBooks[genre]}
 
-		err := createJsonBooks(genre, 50, books)
+		err := createJsonBooks(genre, 24, books)
 		if err != nil {
 			fmt.Println(genre, err)
 			continue

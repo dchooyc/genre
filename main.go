@@ -6,6 +6,7 @@ import (
 	"io"
 	"os"
 	"sort"
+	"strconv"
 	"strings"
 
 	"github.com/dchooyc/book"
@@ -43,11 +44,6 @@ func removeDuplicates(books []book.Book) []book.Book {
 
 func createJsons(genreToBooks map[string][]book.Book) {
 	genres := Genres{}
-	err := os.Mkdir("./jsons", 0755)
-	if err != nil {
-		fmt.Println("failed creating dir: ", err)
-		return
-	}
 
 	for genre := range genreToBooks {
 		if len(genre) == 0 || strings.Contains(genre, "%") {
@@ -55,9 +51,8 @@ func createJsons(genreToBooks map[string][]book.Book) {
 		}
 
 		books := book.Books{Books: genreToBooks[genre]}
-		filename := "jsons/" + genre + ".json"
 
-		err := createJsonBooks(filename, books)
+		err := createJsonBooks(genre, books)
 		if err != nil {
 			fmt.Println(genre, err)
 			continue
@@ -66,7 +61,7 @@ func createJsons(genreToBooks map[string][]book.Book) {
 		genres.Genres = append(genres.Genres, genre)
 	}
 
-	err = createJsonGenres("genres.json", genres)
+	err := createJsonGenres("genres.json", genres)
 	if err != nil {
 		fmt.Println("failed creating genres json: ", err)
 	}
@@ -93,31 +88,46 @@ func createJsonGenres(filename string, genres Genres) error {
 	return nil
 }
 
-func createJsonBooks(filename string, books book.Books) error {
-	file, err := os.Create(filename)
-	if err != nil {
-		return fmt.Errorf("failed creating json: %w", err)
-	}
-
+func createJsonBooks(genre string, books book.Books) error {
 	sort.Slice(books.Books, func(i, j int) bool {
 		return books.Books[i].Ratings > books.Books[j].Ratings
 	})
 
-	if len(books.Books) > 1000 {
-		books.Books = books.Books[:1000]
-	}
-
-	jsonData, err := json.Marshal(books)
+	err := os.MkdirAll("jsons/"+genre, 0755)
 	if err != nil {
-		return fmt.Errorf("failed marshalling json: %w", err)
+		return err
 	}
 
-	_, err = file.Write(jsonData)
-	if err != nil {
-		return fmt.Errorf("failed writing json: %w", err)
+	for i := 0; len(books.Books) > 0; i++ {
+		filename := "jsons/" + genre + "/" + genre + strconv.Itoa(i) + ".json"
+		file, err := os.Create(filename)
+		if err != nil {
+			return fmt.Errorf("failed creating json: %w", err)
+		}
+
+		cur := book.Books{}
+
+		if len(books.Books) >= 100 {
+			cur.Books = books.Books[:100]
+			books.Books = books.Books[100:]
+		} else {
+			cur.Books = books.Books
+			books.Books = books.Books[len(books.Books):]
+		}
+
+		jsonData, err := json.Marshal(cur)
+		if err != nil {
+			return fmt.Errorf("failed marshalling json: %w", err)
+		}
+
+		_, err = file.Write(jsonData)
+		if err != nil {
+			return fmt.Errorf("failed writing json: %w", err)
+		}
+
+		fmt.Println("Created: ", filename, " with length: ", len(cur.Books))
 	}
 
-	fmt.Println("Created: ", filename, " with length: ", len(books.Books))
 	return nil
 }
 

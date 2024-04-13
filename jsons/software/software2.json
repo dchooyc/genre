@@ -1,27 +1,6 @@
 {
   "books": [
     {
-      "title": "The Deadline",
-      "url": "https://www.goodreads.com/book/show/123716.The_Deadline",
-      "id": "119123",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1356474444i/123716.jpg",
-      "authors": [
-        "Tom DeMarco"
-      ],
-      "genres": [
-        "management",
-        "business",
-        "non-fiction",
-        "programming",
-        "leadership",
-        "technology",
-        "software"
-      ],
-      "rating": 4.16,
-      "ratings": 2419,
-      "reviews": 178
-    },
-    {
       "title": "Learn You a Haskell for Great Good!",
       "url": "https://www.goodreads.com/book/show/6593810-learn-you-a-haskell-for-great-good",
       "id": "6787531",
@@ -39,8 +18,8 @@
         "computers"
       ],
       "rating": 4.3,
-      "ratings": 2321,
-      "reviews": 194
+      "ratings": 2329,
+      "reviews": 193
     },
     {
       "title": "Staff Engineer: Leadership Beyond the Management Track",
@@ -55,13 +34,13 @@
         "management",
         "technology",
         "software",
-        "programming",
         "non-fiction",
-        "business"
+        "programming",
+        "engineering"
       ],
       "rating": 4.07,
-      "ratings": 2198,
-      "reviews": 228
+      "ratings": 2312,
+      "reviews": 240
     },
     {
       "title": "Thinking in Java",
@@ -81,8 +60,8 @@
         "reference"
       ],
       "rating": 4.15,
-      "ratings": 2189,
-      "reviews": 83
+      "ratings": 2195,
+      "reviews": 84
     },
     {
       "title": "Modern Operating Systems",
@@ -102,7 +81,7 @@
         "reference"
       ],
       "rating": 4.14,
-      "ratings": 2083,
+      "ratings": 2091,
       "reviews": 67
     },
     {
@@ -123,7 +102,7 @@
         "technical"
       ],
       "rating": 4.29,
-      "ratings": 1952,
+      "ratings": 1953,
       "reviews": 134
     },
     {
@@ -144,7 +123,7 @@
         "technical"
       ],
       "rating": 4.12,
-      "ratings": 1910,
+      "ratings": 1915,
       "reviews": 47
     },
     {
@@ -160,34 +139,13 @@
         "computer-science",
         "technology",
         "non-fiction",
-        "science",
         "technical",
+        "science",
         "software"
       ],
       "rating": 4.38,
-      "ratings": 1856,
+      "ratings": 1860,
       "reviews": 56
-    },
-    {
-      "title": "The Launch Pad: Inside Y Combinator, Silicon Valley's Most Exclusive School for Startups",
-      "url": "https://www.goodreads.com/book/show/13573052-the-launch-pad",
-      "id": "19154010",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1345767830i/13573052.jpg",
-      "authors": [
-        "Randall E. Stross"
-      ],
-      "genres": [
-        "business",
-        "entrepreneurship",
-        "technology",
-        "non-fiction",
-        "biography",
-        "finance",
-        "software"
-      ],
-      "rating": 4.04,
-      "ratings": 1856,
-      "reviews": 147
     },
     {
       "title": "You Don't Know JS: Scope and Closures",
@@ -203,11 +161,11 @@
         "computer-science",
         "non-fiction",
         "coding",
-        "technical",
-        "software"
+        "software",
+        "technical"
       ],
       "rating": 4.55,
-      "ratings": 1846,
+      "ratings": 1852,
       "reviews": 132
     },
     {
@@ -228,7 +186,7 @@
         "technical"
       ],
       "rating": 4.01,
-      "ratings": 1832,
+      "ratings": 1831,
       "reviews": 75
     },
     {
@@ -249,7 +207,7 @@
         "technical"
       ],
       "rating": 4.21,
-      "ratings": 1797,
+      "ratings": 1806,
       "reviews": 134
     },
     {
@@ -270,7 +228,7 @@
         "technical"
       ],
       "rating": 4.41,
-      "ratings": 1749,
+      "ratings": 1759,
       "reviews": 63
     },
     {
@@ -290,9 +248,9 @@
         "software",
         "coding"
       ],
-      "rating": 4.68,
-      "ratings": 1704,
-      "reviews": 247
+      "rating": 4.67,
+      "ratings": 1752,
+      "reviews": 249
     },
     {
       "title": "The Go Programming Language",
@@ -312,8 +270,29 @@
         "non-fiction"
       ],
       "rating": 4.44,
-      "ratings": 1638,
-      "reviews": 131
+      "ratings": 1660,
+      "reviews": 133
+    },
+    {
+      "title": "The Effective Engineer: How to Leverage Your Efforts In Software Engineering to Make a Disproportionate and Meaningful Impact",
+      "url": "https://www.goodreads.com/book/show/25238425-the-effective-engineer",
+      "id": "44957257",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1427583285i/25238425.jpg",
+      "authors": [
+        "Edmond Lau"
+      ],
+      "genres": [
+        "programming",
+        "technology",
+        "non-fiction",
+        "software",
+        "engineering",
+        "computer-science",
+        "management"
+      ],
+      "rating": 4.26,
+      "ratings": 1650,
+      "reviews": 232
     },
     {
       "title": "Programming in Scala: A Comprehensive Step-by-step Guide",
@@ -333,29 +312,8 @@
         "computers"
       ],
       "rating": 4.22,
-      "ratings": 1636,
-      "reviews": 99
-    },
-    {
-      "title": "The Effective Engineer: How to Leverage Your Efforts In Software Engineering to Make a Disproportionate and Meaningful Impact",
-      "url": "https://www.goodreads.com/book/show/25238425-the-effective-engineer",
-      "id": "44957257",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1427583285i/25238425.jpg",
-      "authors": [
-        "Edmond Lau"
-      ],
-      "genres": [
-        "programming",
-        "technology",
-        "software",
-        "non-fiction",
-        "engineering",
-        "computer-science",
-        "management"
-      ],
-      "rating": 4.27,
-      "ratings": 1633,
-      "reviews": 227
+      "ratings": 1640,
+      "reviews": 100
     },
     {
       "title": "JavaScript Patterns: Build Better Applications with Coding and Design Patterns",
@@ -375,7 +333,7 @@
         "coding"
       ],
       "rating": 4.17,
-      "ratings": 1632,
+      "ratings": 1636,
       "reviews": 73
     },
     {
@@ -396,7 +354,7 @@
         "software"
       ],
       "rating": 4.15,
-      "ratings": 1587,
+      "ratings": 1595,
       "reviews": 105
     },
     {
@@ -417,8 +375,29 @@
         "engineering"
       ],
       "rating": 4.27,
-      "ratings": 1492,
-      "reviews": 150
+      "ratings": 1567,
+      "reviews": 153
+    },
+    {
+      "title": "Software Engineering at Google: Lessons Learned from Programming Over Time",
+      "url": "https://www.goodreads.com/book/show/48816586-software-engineering-at-google",
+      "id": "74201556",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1576579607i/48816586.jpg",
+      "authors": [
+        "Titus Winters"
+      ],
+      "genres": [
+        "programming",
+        "technology",
+        "computer-science",
+        "software",
+        "technical",
+        "engineering",
+        "non-fiction"
+      ],
+      "rating": 4.2,
+      "ratings": 1541,
+      "reviews": 162
     },
     {
       "title": "Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions",
@@ -438,8 +417,8 @@
         "non-fiction"
       ],
       "rating": 4.12,
-      "ratings": 1491,
-      "reviews": 64
+      "ratings": 1504,
+      "reviews": 66
     },
     {
       "title": "Lean Enterprise: How High Performance Organizations Innovate at Scale",
@@ -459,29 +438,8 @@
         "software"
       ],
       "rating": 4.24,
-      "ratings": 1489,
+      "ratings": 1502,
       "reviews": 89
-    },
-    {
-      "title": "Software Engineering at Google: Lessons Learned from Programming Over Time",
-      "url": "https://www.goodreads.com/book/show/48816586-software-engineering-at-google",
-      "id": "74201556",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1576579607i/48816586.jpg",
-      "authors": [
-        "Titus Winters"
-      ],
-      "genres": [
-        "programming",
-        "technology",
-        "software",
-        "computer-science",
-        "technical",
-        "engineering",
-        "non-fiction"
-      ],
-      "rating": 4.19,
-      "ratings": 1486,
-      "reviews": 158
     },
     {
       "title": "Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14",
@@ -501,8 +459,50 @@
         "reference"
       ],
       "rating": 4.56,
-      "ratings": 1462,
-      "reviews": 117
+      "ratings": 1476,
+      "reviews": 119
+    },
+    {
+      "title": "Programming Collective Intelligence: Building Smart Web 2.0 Applications",
+      "url": "https://www.goodreads.com/book/show/1741472.Programming_Collective_Intelligence",
+      "id": "1739097",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1371685521i/1741472.jpg",
+      "authors": [
+        "Toby Segaran"
+      ],
+      "genres": [
+        "programming",
+        "technology",
+        "computer-science",
+        "technical",
+        "non-fiction",
+        "artificial-intelligence",
+        "software"
+      ],
+      "rating": 4.08,
+      "ratings": 1450,
+      "reviews": 96
+    },
+    {
+      "title": "The Rust Programming Language",
+      "url": "https://www.goodreads.com/book/show/25008661-the-rust-programming-language",
+      "id": "44680208",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1518920310i/25008661.jpg",
+      "authors": [
+        "Steve Klabnik"
+      ],
+      "genres": [
+        "programming",
+        "computer-science",
+        "technology",
+        "non-fiction",
+        "technical",
+        "software",
+        "computers"
+      ],
+      "rating": 4.5,
+      "ratings": 1442,
+      "reviews": 157
     }
   ]
 }

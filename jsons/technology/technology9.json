@@ -1,6 +1,48 @@
 {
   "books": [
     {
+      "title": "User Friendly: How the Hidden Rules of Design Are Changing the Way We Live, Work, and Play",
+      "url": "https://www.goodreads.com/book/show/41940285-user-friendly",
+      "id": "65424901",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1568399910i/41940285.jpg",
+      "authors": [
+        "Cliff Kuang"
+      ],
+      "genres": [
+        "design",
+        "non-fiction",
+        "business",
+        "technology",
+        "history",
+        "psychology",
+        "science"
+      ],
+      "rating": 4.14,
+      "ratings": 2443,
+      "reviews": 264
+    },
+    {
+      "title": "Technically Wrong: Sexist Apps, Biased Algorithms, and Other Threats of Toxic Tech",
+      "url": "https://www.goodreads.com/book/show/38212110-technically-wrong",
+      "id": "55079120",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1519083351i/38212110.jpg",
+      "authors": [
+        "Sara Wachter-Boettcher"
+      ],
+      "genres": [
+        "non-fiction",
+        "technology",
+        "feminism",
+        "design",
+        "business",
+        "science",
+        "social-justice"
+      ],
+      "rating": 4.08,
+      "ratings": 2441,
+      "reviews": 345
+    },
+    {
       "title": "Empires of Light: Edison, Tesla, Westinghouse, and the Race to Electrify the World",
       "url": "https://www.goodreads.com/book/show/507952.Empires_of_Light",
       "id": "495976",
@@ -18,50 +60,8 @@
         "american-history"
       ],
       "rating": 4.06,
-      "ratings": 2414,
+      "ratings": 2440,
       "reviews": 297
-    },
-    {
-      "title": "Data Science for Business: What You Need to Know about Data Mining and Data-Analytic Thinking",
-      "url": "https://www.goodreads.com/book/show/17912916-data-science-for-business",
-      "id": "25100684",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1374654260i/17912916.jpg",
-      "authors": [
-        "Foster Provost"
-      ],
-      "genres": [
-        "business",
-        "non-fiction",
-        "technology",
-        "science",
-        "computer-science",
-        "programming",
-        "technical"
-      ],
-      "rating": 4.13,
-      "ratings": 2403,
-      "reviews": 160
-    },
-    {
-      "title": "The Sales Acceleration Formula: Using Data, Technology, and Inbound Selling to go from $0 to $100 Million",
-      "url": "https://www.goodreads.com/book/show/24953002-the-sales-acceleration-formula",
-      "id": "44613127",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1439544317i/24953002.jpg",
-      "authors": [
-        "Mark Roberge"
-      ],
-      "genres": [
-        "business",
-        "non-fiction",
-        "entrepreneurship",
-        "leadership",
-        "management",
-        "buisness",
-        "technology"
-      ],
-      "rating": 4.27,
-      "ratings": 2388,
-      "reviews": 153
     },
     {
       "title": "New Dark Age: Technology and the End of the Future",
@@ -81,29 +81,113 @@
         "theory"
       ],
       "rating": 4.06,
-      "ratings": 2384,
-      "reviews": 323
+      "ratings": 2436,
+      "reviews": 328
     },
     {
-      "title": "Hacking: The Art of Exploitation w/CD",
-      "url": "https://www.goodreads.com/book/show/61619.Hacking",
-      "id": "59928",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386745526i/61619.jpg",
+      "title": "The Sales Acceleration Formula: Using Data, Technology, and Inbound Selling to go from $0 to $100 Million",
+      "url": "https://www.goodreads.com/book/show/24953002-the-sales-acceleration-formula",
+      "id": "44613127",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1439544317i/24953002.jpg",
       "authors": [
-        "Jon Erickson"
+        "Mark Roberge"
       ],
       "genres": [
-        "computer-science",
+        "business",
+        "non-fiction",
+        "entrepreneurship",
+        "leadership",
+        "management",
+        "buisness",
+        "technology"
+      ],
+      "rating": 4.27,
+      "ratings": 2435,
+      "reviews": 155
+    },
+    {
+      "title": "Growing Object-Oriented Software, Guided by Tests",
+      "url": "https://www.goodreads.com/book/show/4268826-growing-object-oriented-software-guided-by-tests",
+      "id": "4316345",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348030542i/4268826.jpg",
+      "authors": [
+        "Steve  Freeman"
+      ],
+      "genres": [
         "programming",
-        "hackers",
+        "software",
+        "technology",
+        "computer-science",
+        "technical",
+        "non-fiction",
+        "coding"
+      ],
+      "rating": 4.19,
+      "ratings": 2427,
+      "reviews": 139
+    },
+    {
+      "title": "The Deadline",
+      "url": "https://www.goodreads.com/book/show/123716.The_Deadline",
+      "id": "119123",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1356474444i/123716.jpg",
+      "authors": [
+        "Tom DeMarco"
+      ],
+      "genres": [
+        "management",
+        "business",
+        "non-fiction",
+        "programming",
+        "leadership",
+        "technology",
+        "computer-science"
+      ],
+      "rating": 4.16,
+      "ratings": 2426,
+      "reviews": 183
+    },
+    {
+      "title": "Data Science for Business: What You Need to Know about Data Mining and Data-Analytic Thinking",
+      "url": "https://www.goodreads.com/book/show/17912916-data-science-for-business",
+      "id": "25100684",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1374654260i/17912916.jpg",
+      "authors": [
+        "Foster Provost"
+      ],
+      "genres": [
+        "business",
         "non-fiction",
         "technology",
-        "technical",
-        "computers"
+        "science",
+        "computer-science",
+        "programming",
+        "technical"
       ],
-      "rating": 4.17,
-      "ratings": 2378,
-      "reviews": 119
+      "rating": 4.13,
+      "ratings": 2420,
+      "reviews": 162
+    },
+    {
+      "title": "Glow Kids: How Screen Addiction Is Hijacking Our Kids -- And How to Break the Trance",
+      "url": "https://www.goodreads.com/book/show/27883215-glow-kids",
+      "id": "47877462",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1471962053i/27883215.jpg",
+      "authors": [
+        "Nicholas Kardaras"
+      ],
+      "genres": [
+        "parenting",
+        "non-fiction",
+        "technology",
+        "psychology",
+        "education",
+        "science",
+        "self-help"
+      ],
+      "rating": 4.05,
+      "ratings": 2416,
+      "reviews": 469
     },
     {
       "title": "A Mind at Play: How Claude Shannon Invented the Information Age",
@@ -123,239 +207,8 @@
         "mathematics"
       ],
       "rating": 4.16,
-      "ratings": 2370,
+      "ratings": 2412,
       "reviews": 276
-    },
-    {
-      "title": "Revolution in The Valley: The Insanely Great Story of How the Mac Was Made",
-      "url": "https://www.goodreads.com/book/show/40492.Revolution_in_The_Valley",
-      "id": "40082",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388288490i/40492.jpg",
-      "authors": [
-        "Andy Hertzfeld"
-      ],
-      "genres": [
-        "history",
-        "non-fiction",
-        "technology",
-        "business",
-        "apple",
-        "computers",
-        "biography"
-      ],
-      "rating": 4.21,
-      "ratings": 2363,
-      "reviews": 75
-    },
-    {
-      "title": "User Friendly: How the Hidden Rules of Design Are Changing the Way We Live, Work, and Play",
-      "url": "https://www.goodreads.com/book/show/41940285-user-friendly",
-      "id": "65424901",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1568399910i/41940285.jpg",
-      "authors": [
-        "Cliff Kuang"
-      ],
-      "genres": [
-        "design",
-        "non-fiction",
-        "business",
-        "technology",
-        "history",
-        "science",
-        "psychology"
-      ],
-      "rating": 4.14,
-      "ratings": 2353,
-      "reviews": 256
-    },
-    {
-      "title": "Deep Medicine: How Artificial Intelligence Can Make Healthcare Human Again",
-      "url": "https://www.goodreads.com/book/show/40915762-deep-medicine",
-      "id": "63790687",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1546028482i/40915762.jpg",
-      "authors": [
-        "Eric J. Topol"
-      ],
-      "genres": [
-        "science",
-        "non-fiction",
-        "medicine",
-        "health-care",
-        "artificial-intelligence",
-        "health",
-        "technology"
-      ],
-      "rating": 4.04,
-      "ratings": 2348,
-      "reviews": 249
-    },
-    {
-      "title": "Glow Kids: How Screen Addiction Is Hijacking Our Kids -- And How to Break the Trance",
-      "url": "https://www.goodreads.com/book/show/27883215-glow-kids",
-      "id": "47877462",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1471962053i/27883215.jpg",
-      "authors": [
-        "Nicholas Kardaras"
-      ],
-      "genres": [
-        "parenting",
-        "non-fiction",
-        "technology",
-        "psychology",
-        "education",
-        "science",
-        "self-help"
-      ],
-      "rating": 4.06,
-      "ratings": 2324,
-      "reviews": 454
-    },
-    {
-      "title": "Ignition!: An informal history of liquid rocket propellants",
-      "url": "https://www.goodreads.com/book/show/677285.Ignition_",
-      "id": "663284",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1339317383i/677285.jpg",
-      "authors": [
-        "John Drury Clark"
-      ],
-      "genres": [
-        "science",
-        "non-fiction",
-        "history",
-        "engineering",
-        "space",
-        "technology",
-        "physics"
-      ],
-      "rating": 4.15,
-      "ratings": 2323,
-      "reviews": 284
-    },
-    {
-      "title": "Learn You a Haskell for Great Good!",
-      "url": "https://www.goodreads.com/book/show/6593810-learn-you-a-haskell-for-great-good",
-      "id": "6787531",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1294497489i/6593810.jpg",
-      "authors": [
-        "Miran Lipovača"
-      ],
-      "genres": [
-        "programming",
-        "computer-science",
-        "technology",
-        "non-fiction",
-        "technical",
-        "software",
-        "computers"
-      ],
-      "rating": 4.3,
-      "ratings": 2321,
-      "reviews": 194
-    },
-    {
-      "title": "Computer Networks",
-      "url": "https://www.goodreads.com/book/show/166190.Computer_Networks",
-      "id": "1961833",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347462821i/166190.jpg",
-      "authors": [
-        "Andrew S. Tanenbaum"
-      ],
-      "genres": [
-        "computer-science",
-        "technology",
-        "technical",
-        "non-fiction",
-        "reference",
-        "programming",
-        "computers"
-      ],
-      "rating": 4.12,
-      "ratings": 2317,
-      "reviews": 108
-    },
-    {
-      "title": "The Machine That Changed the World : The Story of Lean Production",
-      "url": "https://www.goodreads.com/book/show/93903.The_Machine_That_Changed_the_World_",
-      "id": "90524",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1387700892i/93903.jpg",
-      "authors": [
-        "James P. Womack"
-      ],
-      "genres": [
-        "business",
-        "non-fiction",
-        "management",
-        "history",
-        "leadership",
-        "economics",
-        "technology"
-      ],
-      "rating": 4.04,
-      "ratings": 2297,
-      "reviews": 135
-    },
-    {
-      "title": "Programming Perl",
-      "url": "https://www.goodreads.com/book/show/154155.Programming_Perl",
-      "id": "675275",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328835945i/154155.jpg",
-      "authors": [
-        "Tom Christiansen"
-      ],
-      "genres": [
-        "programming",
-        "reference",
-        "technical",
-        "non-fiction",
-        "computers",
-        "technology",
-        "computer-science"
-      ],
-      "rating": 4.06,
-      "ratings": 2290,
-      "reviews": 58
-    },
-    {
-      "title": "Chasing New Horizons: Inside the Epic First Mission to Pluto",
-      "url": "https://www.goodreads.com/book/show/36031228-chasing-new-horizons",
-      "id": "57604877",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1519901561i/36031228.jpg",
-      "authors": [
-        "Alan Stern"
-      ],
-      "genres": [
-        "science",
-        "non-fiction",
-        "space",
-        "astronomy",
-        "history",
-        "audiobook",
-        "technology"
-      ],
-      "rating": 4.36,
-      "ratings": 2259,
-      "reviews": 361
-    },
-    {
-      "title": "Reset: My Fight for Inclusion and Lasting Change",
-      "url": "https://www.goodreads.com/book/show/34974754-reset",
-      "id": "56251450",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1503299479i/34974754.jpg",
-      "authors": [
-        "Ellen Pao"
-      ],
-      "genres": [
-        "non-fiction",
-        "memoir",
-        "feminism",
-        "business",
-        "biography",
-        "technology",
-        "womens"
-      ],
-      "rating": 4.13,
-      "ratings": 2256,
-      "reviews": 291
     },
     {
       "title": "Artificial Intelligence: A Guide for Thinking Humans",
@@ -375,8 +228,260 @@
         "business"
       ],
       "rating": 4.39,
-      "ratings": 2251,
-      "reviews": 329
+      "ratings": 2398,
+      "reviews": 348
+    },
+    {
+      "title": "Deep Medicine: How Artificial Intelligence Can Make Healthcare Human Again",
+      "url": "https://www.goodreads.com/book/show/40915762-deep-medicine",
+      "id": "63790687",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1546028482i/40915762.jpg",
+      "authors": [
+        "Eric J. Topol"
+      ],
+      "genres": [
+        "science",
+        "non-fiction",
+        "medicine",
+        "health-care",
+        "artificial-intelligence",
+        "health",
+        "technology"
+      ],
+      "rating": 4.03,
+      "ratings": 2397,
+      "reviews": 252
+    },
+    {
+      "title": "Visions: How Science Will Revolutionize the 21st Century",
+      "url": "https://www.goodreads.com/book/show/785432.Visions",
+      "id": "1156061",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320458198i/785432.jpg",
+      "authors": [
+        "Michio Kaku"
+      ],
+      "genres": [
+        "science",
+        "non-fiction",
+        "physics",
+        "technology",
+        "futurism",
+        "philosophy",
+        "popular-science"
+      ],
+      "rating": 4.03,
+      "ratings": 2389,
+      "reviews": 103
+    },
+    {
+      "title": "Hacking: The Art of Exploitation w/CD",
+      "url": "https://www.goodreads.com/book/show/61619.Hacking",
+      "id": "59928",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386745526i/61619.jpg",
+      "authors": [
+        "Jon Erickson"
+      ],
+      "genres": [
+        "computer-science",
+        "programming",
+        "hackers",
+        "non-fiction",
+        "technology",
+        "technical",
+        "computers"
+      ],
+      "rating": 4.17,
+      "ratings": 2386,
+      "reviews": 118
+    },
+    {
+      "title": "Revolution in The Valley: The Insanely Great Story of How the Mac Was Made",
+      "url": "https://www.goodreads.com/book/show/40492.Revolution_in_The_Valley",
+      "id": "40082",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388288490i/40492.jpg",
+      "authors": [
+        "Andy Hertzfeld"
+      ],
+      "genres": [
+        "history",
+        "non-fiction",
+        "technology",
+        "business",
+        "apple",
+        "computers",
+        "biography"
+      ],
+      "rating": 4.21,
+      "ratings": 2369,
+      "reviews": 75
+    },
+    {
+      "title": "Ignition!: An informal history of liquid rocket propellants",
+      "url": "https://www.goodreads.com/book/show/677285.Ignition_",
+      "id": "663284",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1339317383i/677285.jpg",
+      "authors": [
+        "John Drury Clark"
+      ],
+      "genres": [
+        "science",
+        "non-fiction",
+        "history",
+        "engineering",
+        "space",
+        "technology",
+        "physics"
+      ],
+      "rating": 4.14,
+      "ratings": 2364,
+      "reviews": 287
+    },
+    {
+      "title": "Computer Networks",
+      "url": "https://www.goodreads.com/book/show/166190.Computer_Networks",
+      "id": "1961833",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347462821i/166190.jpg",
+      "authors": [
+        "Andrew S. Tanenbaum"
+      ],
+      "genres": [
+        "computer-science",
+        "technology",
+        "technical",
+        "non-fiction",
+        "reference",
+        "programming",
+        "computers"
+      ],
+      "rating": 4.12,
+      "ratings": 2331,
+      "reviews": 109
+    },
+    {
+      "title": "Learn You a Haskell for Great Good!",
+      "url": "https://www.goodreads.com/book/show/6593810-learn-you-a-haskell-for-great-good",
+      "id": "6787531",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1294497489i/6593810.jpg",
+      "authors": [
+        "Miran Lipovača"
+      ],
+      "genres": [
+        "programming",
+        "computer-science",
+        "technology",
+        "non-fiction",
+        "technical",
+        "software",
+        "computers"
+      ],
+      "rating": 4.3,
+      "ratings": 2329,
+      "reviews": 193
+    },
+    {
+      "title": "The Machine That Changed the World : The Story of Lean Production",
+      "url": "https://www.goodreads.com/book/show/93903.The_Machine_That_Changed_the_World_",
+      "id": "90524",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1387700892i/93903.jpg",
+      "authors": [
+        "James P. Womack"
+      ],
+      "genres": [
+        "business",
+        "non-fiction",
+        "management",
+        "history",
+        "leadership",
+        "economics",
+        "technology"
+      ],
+      "rating": 4.04,
+      "ratings": 2322,
+      "reviews": 138
+    },
+    {
+      "title": "Staff Engineer: Leadership Beyond the Management Track",
+      "url": "https://www.goodreads.com/book/show/56481725-staff-engineer",
+      "id": "88125716",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1609348975i/56481725.jpg",
+      "authors": [
+        "Will Larson"
+      ],
+      "genres": [
+        "leadership",
+        "management",
+        "technology",
+        "software",
+        "non-fiction",
+        "programming",
+        "engineering"
+      ],
+      "rating": 4.07,
+      "ratings": 2312,
+      "reviews": 240
+    },
+    {
+      "title": "Programming Perl",
+      "url": "https://www.goodreads.com/book/show/154155.Programming_Perl",
+      "id": "675275",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328835945i/154155.jpg",
+      "authors": [
+        "Tom Christiansen"
+      ],
+      "genres": [
+        "programming",
+        "reference",
+        "technical",
+        "non-fiction",
+        "computers",
+        "technology",
+        "computer-science"
+      ],
+      "rating": 4.06,
+      "ratings": 2293,
+      "reviews": 59
+    },
+    {
+      "title": "A City on Mars: Can We Settle Space, Should We Settle Space, and Have We Really Thought This Through?",
+      "url": "https://www.goodreads.com/book/show/125084292-a-city-on-mars",
+      "id": "146530133",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1685367782i/125084292.jpg",
+      "authors": [
+        "Kelly Weinersmith"
+      ],
+      "genres": [
+        "non-fiction",
+        "science",
+        "space",
+        "technology",
+        "humor",
+        "history",
+        "audiobook"
+      ],
+      "rating": 4.12,
+      "ratings": 2287,
+      "reviews": 421
+    },
+    {
+      "title": "Chasing New Horizons: Inside the Epic First Mission to Pluto",
+      "url": "https://www.goodreads.com/book/show/36031228-chasing-new-horizons",
+      "id": "57604877",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1519901561i/36031228.jpg",
+      "authors": [
+        "Alan Stern"
+      ],
+      "genres": [
+        "science",
+        "non-fiction",
+        "space",
+        "astronomy",
+        "history",
+        "audiobook",
+        "technology"
+      ],
+      "rating": 4.36,
+      "ratings": 2283,
+      "reviews": 363
     },
     {
       "title": "Dealers of Lightning: Xerox PARC and the Dawn of the Computer Age",
@@ -396,113 +501,8 @@
         "computer-science"
       ],
       "rating": 4.13,
-      "ratings": 2243,
-      "reviews": 179
-    },
-    {
-      "title": "Python for Data Analysis",
-      "url": "https://www.goodreads.com/book/show/14744694-python-for-data-analysis",
-      "id": "20393594",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1356132971i/14744694.jpg",
-      "authors": [
-        "Wes McKinney"
-      ],
-      "genres": [
-        "programming",
-        "computer-science",
-        "technology",
-        "non-fiction",
-        "coding",
-        "technical",
-        "reference"
-      ],
-      "rating": 4.17,
-      "ratings": 2230,
-      "reviews": 173
-    },
-    {
-      "title": "¡Sálvese quien pueda!: El futuro del trabajo en la era de la automatización",
-      "url": "https://www.goodreads.com/book/show/40974743-s-lvese-quien-pueda",
-      "id": "61846817",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1532870863i/40974743.jpg",
-      "authors": [
-        "Andrés Oppenheimer"
-      ],
-      "genres": [
-        "non-fiction",
-        "business",
-        "technology",
-        "science",
-        "economics",
-        "artificial-intelligence",
-        "spanish-literature"
-      ],
-      "rating": 4.23,
-      "ratings": 2209,
-      "reviews": 291
-    },
-    {
-      "title": "Staff Engineer: Leadership Beyond the Management Track",
-      "url": "https://www.goodreads.com/book/show/56481725-staff-engineer",
-      "id": "88125716",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1609348975i/56481725.jpg",
-      "authors": [
-        "Will Larson"
-      ],
-      "genres": [
-        "leadership",
-        "management",
-        "technology",
-        "software",
-        "programming",
-        "non-fiction",
-        "business"
-      ],
-      "rating": 4.07,
-      "ratings": 2198,
-      "reviews": 228
-    },
-    {
-      "title": "Thinking in Java",
-      "url": "https://www.goodreads.com/book/show/71672.Thinking_in_Java",
-      "id": "69406",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347737121i/71672.jpg",
-      "authors": [
-        "Bruce Eckel"
-      ],
-      "genres": [
-        "programming",
-        "computer-science",
-        "technology",
-        "technical",
-        "non-fiction",
-        "software",
-        "reference"
-      ],
-      "rating": 4.15,
-      "ratings": 2189,
-      "reviews": 83
-    },
-    {
-      "title": "God, Human, Animal, Machine: Technology, Metaphor, and the Search for Meaning",
-      "url": "https://www.goodreads.com/book/show/56097578-god-human-animal-machine",
-      "id": "87380849",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1611107182i/56097578.jpg",
-      "authors": [
-        "Meghan O'Gieblyn"
-      ],
-      "genres": [
-        "philosophy",
-        "non-fiction",
-        "science",
-        "technology",
-        "religion",
-        "artificial-intelligence",
-        "psychology"
-      ],
-      "rating": 4.29,
-      "ratings": 2167,
-      "reviews": 294
+      "ratings": 2265,
+      "reviews": 182
     }
   ]
 }

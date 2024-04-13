@@ -1,6 +1,48 @@
 {
   "books": [
     {
+      "title": "Story Engineering",
+      "url": "https://www.goodreads.com/book/show/9912752-story-engineering",
+      "id": "14805288",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1349126976i/9912752.jpg",
+      "authors": [
+        "Larry Brooks"
+      ],
+      "genres": [
+        "writing",
+        "non-fiction",
+        "reference",
+        "crafts",
+        "self-help",
+        "how-to",
+        "literature"
+      ],
+      "rating": 4.09,
+      "ratings": 3177,
+      "reviews": 473
+    },
+    {
+      "title": "Take Off Your Pants! Outline Your Books for Faster, Better Writing",
+      "url": "https://www.goodreads.com/book/show/25126763-take-off-your-pants-outline-your-books-for-faster-better-writing",
+      "id": "44823155",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1428895520i/25126763.jpg",
+      "authors": [
+        "Libbie Hawker"
+      ],
+      "genres": [
+        "writing",
+        "non-fiction",
+        "reference",
+        "crafts",
+        "research",
+        "adult",
+        "self-help"
+      ],
+      "rating": 4.25,
+      "ratings": 3151,
+      "reviews": 606
+    },
+    {
       "title": "The Art of Dramatic Writing: Its Basis in the Creative Interpretation of Human Motives",
       "url": "https://www.goodreads.com/book/show/106092.The_Art_of_Dramatic_Writing",
       "id": "102268",
@@ -14,12 +56,12 @@
         "film",
         "reference",
         "theatre",
-        "crafts",
-        "art"
+        "art",
+        "crafts"
       ],
-      "rating": 4.18,
-      "ratings": 3026,
-      "reviews": 253
+      "rating": 4.17,
+      "ratings": 3058,
+      "reviews": 257
     },
     {
       "title": "On Becoming a Novelist",
@@ -36,53 +78,11 @@
         "crafts",
         "literature",
         "american",
-        "essays"
+        "art"
       ],
-      "rating": 4.1,
-      "ratings": 2967,
-      "reviews": 295
-    },
-    {
-      "title": "The Triggering Town: Lectures and Essays on Poetry and Writing",
-      "url": "https://www.goodreads.com/book/show/67599.The_Triggering_Town",
-      "id": "2248271",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388284493i/67599.jpg",
-      "authors": [
-        "Richard Hugo"
-      ],
-      "genres": [
-        "poetry",
-        "writing",
-        "non-fiction",
-        "essays",
-        "crafts",
-        "school",
-        "literary-criticism"
-      ],
-      "rating": 4.17,
-      "ratings": 2925,
-      "reviews": 256
-    },
-    {
-      "title": "How to Draw What You See",
-      "url": "https://www.goodreads.com/book/show/335262.How_to_Draw_What_You_See",
-      "id": "325738",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388181996i/335262.jpg",
-      "authors": [
-        "Rudy De Reyna"
-      ],
-      "genres": [
-        "art",
-        "drawing",
-        "non-fiction",
-        "reference",
-        "design",
-        "crafts",
-        "how-to"
-      ],
-      "rating": 4.09,
-      "ratings": 2915,
-      "reviews": 33
+      "rating": 4.11,
+      "ratings": 2977,
+      "reviews": 298
     },
     {
       "title": "Several Short Sentences About Writing",
@@ -102,11 +102,53 @@
         "essays"
       ],
       "rating": 4.13,
-      "ratings": 2876,
-      "reviews": 522
+      "ratings": 2958,
+      "reviews": 540
     },
     {
-      "title": "At Knit's End: Meditations for Women Who Knit Too Much",
+      "title": "The Triggering Town: Lectures and Essays on Poetry and Writing",
+      "url": "https://www.goodreads.com/book/show/67599.The_Triggering_Town",
+      "id": "2248271",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388284493i/67599.jpg",
+      "authors": [
+        "Richard Hugo"
+      ],
+      "genres": [
+        "poetry",
+        "writing",
+        "non-fiction",
+        "essays",
+        "crafts",
+        "school",
+        "literary-criticism"
+      ],
+      "rating": 4.17,
+      "ratings": 2938,
+      "reviews": 260
+    },
+    {
+      "title": "How to Draw What You See",
+      "url": "https://www.goodreads.com/book/show/335262.How_to_Draw_What_You_See",
+      "id": "325738",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388181996i/335262.jpg",
+      "authors": [
+        "Rudy De Reyna"
+      ],
+      "genres": [
+        "art",
+        "drawing",
+        "non-fiction",
+        "reference",
+        "design",
+        "crafts",
+        "how-to"
+      ],
+      "rating": 4.09,
+      "ratings": 2919,
+      "reviews": 33
+    },
+    {
+      "title": "At Knit's End",
       "url": "https://www.goodreads.com/book/show/124832.At_Knit_s_End",
       "id": "120217",
       "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1404578845i/124832.jpg",
@@ -123,8 +165,26 @@
         "essays"
       ],
       "rating": 4.1,
+      "ratings": 2821,
+      "reviews": 277
+    },
+    {
+      "title": "Kaleidoscope: Ideas & Projects to Spark Your Creativity",
+      "url": "https://www.goodreads.com/book/show/103624.Kaleidoscope",
+      "id": "99912",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348922275i/103624.jpg",
+      "authors": [
+        "Suzanne Simanaitis"
+      ],
+      "genres": [
+        "art",
+        "non-fiction",
+        "crafts",
+        "reference"
+      ],
+      "rating": 4.05,
       "ratings": 2802,
-      "reviews": 274
+      "reviews": 24
     },
     {
       "title": "Write. Publish. Repeat.",
@@ -144,50 +204,8 @@
         "crafts"
       ],
       "rating": 4.28,
-      "ratings": 2792,
-      "reviews": 567
-    },
-    {
-      "title": "Mark of the Fool 3",
-      "url": "https://www.goodreads.com/book/show/76018669-mark-of-the-fool-3",
-      "id": "101342817",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1673495502i/76018669.jpg",
-      "authors": [
-        "J.M.     Clarke"
-      ],
-      "genres": [
-        "fantasy",
-        "magic",
-        "fiction",
-        "science-fiction-fantasy",
-        "role-playing-games",
-        "young-adult",
-        "crafts"
-      ],
-      "rating": 4.45,
-      "ratings": 2666,
-      "reviews": 99
-    },
-    {
-      "title": "Free-Range Knitter: The Yarn Harlot Writes Again",
-      "url": "https://www.goodreads.com/book/show/2900326-free-range-knitter",
-      "id": "2927452",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1441457817i/2900326.jpg",
-      "authors": [
-        "Stephanie Pearl-McPhee"
-      ],
-      "genres": [
-        "knitting",
-        "non-fiction",
-        "humor",
-        "essays",
-        "memoir",
-        "crafts",
-        "canada"
-      ],
-      "rating": 4.11,
-      "ratings": 2654,
-      "reviews": 248
+      "ratings": 2789,
+      "reviews": 566
     },
     {
       "title": "Write Your Novel From the Middle: A New Approach for Plotters, Pantsers and Everyone in Between",
@@ -207,8 +225,8 @@
         "adult"
       ],
       "rating": 4.2,
-      "ratings": 2654,
-      "reviews": 404
+      "ratings": 2689,
+      "reviews": 407
     },
     {
       "title": "How to Write a Novel Using the Snowflake Method",
@@ -228,8 +246,8 @@
         "research"
       ],
       "rating": 4.24,
-      "ratings": 2642,
-      "reviews": 411
+      "ratings": 2678,
+      "reviews": 413
     },
     {
       "title": "Kate and Clara's Curious Cornish Craft Shop",
@@ -249,8 +267,29 @@
         "british-literature"
       ],
       "rating": 4.1,
-      "ratings": 2597,
-      "reviews": 340
+      "ratings": 2669,
+      "reviews": 349
+    },
+    {
+      "title": "Free-Range Knitter: The Yarn Harlot Writes Again",
+      "url": "https://www.goodreads.com/book/show/2900326-free-range-knitter",
+      "id": "2927452",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1441457817i/2900326.jpg",
+      "authors": [
+        "Stephanie Pearl-McPhee"
+      ],
+      "genres": [
+        "knitting",
+        "non-fiction",
+        "humor",
+        "essays",
+        "crafts",
+        "memoir",
+        "canada"
+      ],
+      "rating": 4.11,
+      "ratings": 2668,
+      "reviews": 251
     },
     {
       "title": "5,000 Words Per Hour: Write Faster, Write Smarter",
@@ -264,35 +303,14 @@
         "writing",
         "non-fiction",
         "self-help",
-        "productivity",
         "reference",
+        "productivity",
         "crafts",
         "audiobook"
       ],
       "rating": 4.2,
-      "ratings": 2549,
-      "reviews": 474
-    },
-    {
-      "title": "Harry Potter Colouring Book",
-      "url": "https://www.goodreads.com/book/show/26727264-harry-potter-colouring-book",
-      "id": "46233109",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442742943i/26727264.jpg",
-      "authors": [
-        "Scholastic Inc."
-      ],
-      "genres": [
-        "colouring-books",
-        "art",
-        "non-fiction",
-        "colouring",
-        "picture-books",
-        "crafts",
-        "childrens"
-      ],
-      "rating": 4.36,
-      "ratings": 2484,
-      "reviews": 54
+      "ratings": 2565,
+      "reviews": 477
     },
     {
       "title": "Vanishing Fleece: Adventures in American Wool",
@@ -311,9 +329,51 @@
         "crafts",
         "travel"
       ],
-      "rating": 4.18,
-      "ratings": 2424,
-      "reviews": 430
+      "rating": 4.19,
+      "ratings": 2507,
+      "reviews": 451
+    },
+    {
+      "title": "Knitting Without Tears: Basic Techniques and Easy-to-Follow Directions for Garments to Fit All Sizes",
+      "url": "https://www.goodreads.com/book/show/156558.Knitting_Without_Tears",
+      "id": "151085",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348288607i/156558.jpg",
+      "authors": [
+        "Elizabeth Zimmermann"
+      ],
+      "genres": [
+        "knitting",
+        "non-fiction",
+        "crafts",
+        "reference",
+        "how-to",
+        "classics",
+        "art"
+      ],
+      "rating": 4.34,
+      "ratings": 2499,
+      "reviews": 186
+    },
+    {
+      "title": "Farmer",
+      "url": "https://www.goodreads.com/book/show/52905200-farmer",
+      "id": "73776335",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1571088886l/52905200.jpg",
+      "authors": [
+        "Tom Larcombe"
+      ],
+      "genres": [
+        "fantasy",
+        "science-fiction",
+        "crafts",
+        "audiobook",
+        "artificial-intelligence",
+        "fiction",
+        "magic"
+      ],
+      "rating": 4.28,
+      "ratings": 2397,
+      "reviews": 170
     },
     {
       "title": "Home Cheese Making: Recipes for 75 Delicious Cheeses",
@@ -333,29 +393,29 @@
         "crafts"
       ],
       "rating": 4.15,
-      "ratings": 2386,
+      "ratings": 2390,
       "reviews": 119
     },
     {
-      "title": "Farmer",
-      "url": "https://www.goodreads.com/book/show/52905200-farmer",
-      "id": "73776335",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1571088886l/52905200.jpg",
+      "title": "Silvers",
+      "url": "https://www.goodreads.com/book/show/178798504-silvers",
+      "id": "184238669",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1687078537i/178798504.jpg",
       "authors": [
-        "Tom Larcombe"
+        "Brian J. Nordon"
       ],
       "genres": [
         "fantasy",
+        "magic",
         "science-fiction",
         "crafts",
-        "audiobook",
-        "artificial-intelligence",
-        "fiction",
-        "magic"
+        "school",
+        "superheroes",
+        "romance"
       ],
-      "rating": 4.27,
-      "ratings": 2364,
-      "reviews": 168
+      "rating": 4.58,
+      "ratings": 2390,
+      "reviews": 193
     },
     {
       "title": "Art Before Breakfast: A Zillion Ways to be More Creative No Matter How Busy You Are",
@@ -374,9 +434,9 @@
         "how-to",
         "writing"
       ],
-      "rating": 4.01,
-      "ratings": 2314,
-      "reviews": 304
+      "rating": 4.02,
+      "ratings": 2345,
+      "reviews": 305
     },
     {
       "title": "The Emotional Craft of Fiction: How to Write the Story Beneath the Surface",
@@ -396,8 +456,8 @@
         "how-to"
       ],
       "rating": 4.3,
-      "ratings": 2241,
-      "reviews": 400
+      "ratings": 2304,
+      "reviews": 409
     },
     {
       "title": "The Making of a Poem: A Norton Anthology of Poetic Forms",
@@ -417,8 +477,8 @@
         "anthologies"
       ],
       "rating": 4.01,
-      "ratings": 2214,
-      "reviews": 141
+      "ratings": 2224,
+      "reviews": 142
     },
     {
       "title": "Things I Learned From Knitting",
@@ -438,71 +498,8 @@
         "biography"
       ],
       "rating": 4.07,
-      "ratings": 2205,
-      "reviews": 218
-    },
-    {
-      "title": "The Poet's Companion: A Guide to the Pleasures of Writing Poetry",
-      "url": "https://www.goodreads.com/book/show/266126.The_Poet_s_Companion",
-      "id": "258014",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386924294i/266126.jpg",
-      "authors": [
-        "Kim Addonizio"
-      ],
-      "genres": [
-        "poetry",
-        "writing",
-        "non-fiction",
-        "reference",
-        "crafts",
-        "teaching",
-        "self-help"
-      ],
-      "rating": 4.13,
-      "ratings": 2189,
-      "reviews": 163
-    },
-    {
-      "title": "Artist's Journal Workshop: Creating Your Life in Words and Pictures",
-      "url": "https://www.goodreads.com/book/show/10286726-artist-s-journal-workshop",
-      "id": "15188439",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1391275506i/10286726.jpg",
-      "authors": [
-        "Cathy  Johnson"
-      ],
-      "genres": [
-        "art",
-        "non-fiction",
-        "drawing",
-        "journaling",
-        "crafts",
-        "writing",
-        "reference"
-      ],
-      "rating": 4.13,
-      "ratings": 2180,
-      "reviews": 81
-    },
-    {
-      "title": "Characters, Emotion & Viewpoint: Techniques and Exercises for Crafting Dynamic Characters and Effective Viewpoints",
-      "url": "https://www.goodreads.com/book/show/68318.Characters_Emotion_Viewpoint",
-      "id": "66219",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1408312150i/68318.jpg",
-      "authors": [
-        "Nancy Kress"
-      ],
-      "genres": [
-        "writing",
-        "non-fiction",
-        "reference",
-        "crafts",
-        "literature",
-        "research",
-        "education"
-      ],
-      "rating": 4.05,
-      "ratings": 2135,
-      "reviews": 198
+      "ratings": 2212,
+      "reviews": 219
     }
   ]
 }

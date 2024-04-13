@@ -1,73 +1,451 @@
 {
   "books": [
     {
-      "title": "Wicked Need",
-      "url": "https://www.goodreads.com/book/show/42443719-wicked-need",
-      "id": "48476704",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1540572076i/42443719.jpg",
+      "title": "Broken Course",
+      "url": "https://www.goodreads.com/book/show/19169762-broken-course",
+      "id": "27211040",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1412778240i/19169762.jpg",
       "authors": [
-        "Sawyer Bennett"
+        "Aly Martinez"
+      ],
+      "genres": [
+        "romance",
+        "contemporary-romance",
+        "contemporary",
+        "new-adult",
+        "erotica",
+        "adult",
+        "audiobook"
+      ],
+      "rating": 4.3,
+      "ratings": 3722,
+      "reviews": 384
+    },
+    {
+      "title": "Gone Too Deep",
+      "url": "https://www.goodreads.com/book/show/27015400-gone-too-deep",
+      "id": "47064526",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1455798522i/27015400.jpg",
+      "authors": [
+        "Katie Ruggle"
+      ],
+      "genres": [
+        "romance",
+        "romantic-suspense",
+        "contemporary",
+        "contemporary-romance",
+        "suspense",
+        "mystery",
+        "thriller"
+      ],
+      "rating": 4.07,
+      "ratings": 3722,
+      "reviews": 533
+    },
+    {
+      "title": "Judge",
+      "url": "https://www.goodreads.com/book/show/52999924-judge",
+      "id": "71280660",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1560406692l/52999924.jpg",
+      "authors": [
+        "Teagan Brooks"
+      ],
+      "genres": [
+        "romance",
+        "contemporary-romance",
+        "motorcycle",
+        "contemporary",
+        "fiction",
+        "dark",
+        "crime"
+      ],
+      "rating": 4.44,
+      "ratings": 3721,
+      "reviews": 220
+    },
+    {
+      "title": "Perfect Ruin",
+      "url": "https://www.goodreads.com/book/show/21858430-perfect-ruin",
+      "id": "41132411",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1444201400i/21858430.jpg",
+      "authors": [
+        "Nashoda Rose"
+      ],
+      "genres": [
+        "dark",
+        "romance",
+        "abuse",
+        "contemporary-romance",
+        "suspense",
+        "erotica",
+        "romantic-suspense"
+      ],
+      "rating": 4.39,
+      "ratings": 3720,
+      "reviews": 442
+    },
+    {
+      "title": "Redemption Bay",
+      "url": "https://www.goodreads.com/book/show/23492275-redemption-bay",
+      "id": "43082561",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1428630401i/23492275.jpg",
+      "authors": [
+        "RaeAnne Thayne"
+      ],
+      "genres": [
+        "romance",
+        "contemporary-romance",
+        "fiction",
+        "chick-lit",
+        "contemporary",
+        "audiobook",
+        "adult"
+      ],
+      "rating": 4.03,
+      "ratings": 3719,
+      "reviews": 320
+    },
+    {
+      "title": "Broken",
+      "url": "https://www.goodreads.com/book/show/22059324-broken",
+      "id": "41388496",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1410143225i/22059324.jpg",
+      "authors": [
+        "Cynthia  Eden"
+      ],
+      "genres": [
+        "romantic-suspense",
+        "romance",
+        "suspense",
+        "contemporary",
+        "contemporary-romance",
+        "mystery",
+        "thriller"
+      ],
+      "rating": 4,
+      "ratings": 3718,
+      "reviews": 412
+    },
+    {
+      "title": "Two Tricks",
+      "url": "https://www.goodreads.com/book/show/55758139-two-tricks",
+      "id": "86958126",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1603313845i/55758139.jpg",
+      "authors": [
+        "Elizabeth   Knight"
+      ],
+      "genres": [
+        "reverse-harem",
+        "dark",
+        "romance",
+        "contemporary",
+        "crime",
+        "contemporary-romance",
+        "mystery"
+      ],
+      "rating": 4.36,
+      "ratings": 3717,
+      "reviews": 366
+    },
+    {
+      "title": "Hot as Heller",
+      "url": "https://www.goodreads.com/book/show/57590880-hot-as-heller",
+      "id": "90192024",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1621103647i/57590880.jpg",
+      "authors": [
+        "Lucy Lennox"
+      ],
+      "genres": [
+        "m-m-romance",
+        "romance",
+        "contemporary",
+        "lgbt",
+        "gay",
+        "contemporary-romance",
+        "fiction"
+      ],
+      "rating": 4.29,
+      "ratings": 3717,
+      "reviews": 347
+    },
+    {
+      "title": "More, Please",
+      "url": "https://www.goodreads.com/book/show/25308400-more-please",
+      "id": "44931093",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1434403903i/25308400.jpg",
+      "authors": [
+        "Kate Aster"
+      ],
+      "genres": [
+        "romance",
+        "military-fiction",
+        "contemporary",
+        "contemporary-romance",
+        "amazon",
+        "new-adult",
+        "military-romance"
+      ],
+      "rating": 4.13,
+      "ratings": 3717,
+      "reviews": 261
+    },
+    {
+      "title": "The Wright Mistake",
+      "url": "https://www.goodreads.com/book/show/35109856-the-wright-mistake",
+      "id": "56419289",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1498669769i/35109856.jpg",
+      "authors": [
+        "K.A. Linde"
+      ],
+      "genres": [
+        "romance",
+        "contemporary-romance",
+        "contemporary",
+        "audiobook",
+        "new-adult",
+        "fiction",
+        "erotica"
+      ],
+      "rating": 4.05,
+      "ratings": 3716,
+      "reviews": 383
+    },
+    {
+      "title": "Altered by Fire",
+      "url": "https://www.goodreads.com/book/show/45344646-altered-by-fire",
+      "id": "70086443",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1556499561i/45344646.jpg",
+      "authors": [
+        "Kate  Morgan"
+      ],
+      "genres": [
+        "reverse-harem",
+        "dark",
+        "contemporary",
+        "romance",
+        "erotica",
+        "new-adult",
+        "contemporary-romance"
+      ],
+      "rating": 4.03,
+      "ratings": 3716,
+      "reviews": 291
+    },
+    {
+      "title": "Bruiser",
+      "url": "https://www.goodreads.com/book/show/43554155-bruiser",
+      "id": "67755942",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1547392416i/43554155.jpg",
+      "authors": [
+        "Samantha Whiskey"
+      ],
+      "genres": [
+        "hockey",
+        "sports",
+        "sports-romance",
+        "romance",
+        "contemporary-romance",
+        "contemporary",
+        "adult-fiction"
+      ],
+      "rating": 4.36,
+      "ratings": 3715,
+      "reviews": 173
+    },
+    {
+      "title": "Blocker",
+      "url": "https://www.goodreads.com/book/show/41811148-blocker",
+      "id": "65243613",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1536724975i/41811148.jpg",
+      "authors": [
+        "Samantha Whiskey"
+      ],
+      "genres": [
+        "sports-romance",
+        "hockey",
+        "sports",
+        "romance",
+        "contemporary-romance",
+        "contemporary",
+        "adult-fiction"
+      ],
+      "rating": 4.27,
+      "ratings": 3715,
+      "reviews": 168
+    },
+    {
+      "title": "Darker Than Love",
+      "url": "https://www.goodreads.com/book/show/48559380-darker-than-love",
+      "id": "73883759",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1572995331i/48559380.jpg",
+      "authors": [
+        "Anna Zaires"
+      ],
+      "genres": [
+        "dark",
+        "romance",
+        "contemporary",
+        "contemporary-romance",
+        "crime",
+        "adult",
+        "romantic-suspense"
+      ],
+      "rating": 4.09,
+      "ratings": 3714,
+      "reviews": 552
+    },
+    {
+      "title": "Only You",
+      "url": "https://www.goodreads.com/book/show/60894522-only-you",
+      "id": "96044491",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1655382944i/60894522.jpg",
+      "authors": [
+        "Samantha Young"
+      ],
+      "genres": [
+        "romance",
+        "contemporary",
+        "contemporary-romance",
+        "romantic-suspense",
+        "suspense",
+        "family",
+        "scotland"
+      ],
+      "rating": 4.22,
+      "ratings": 3713,
+      "reviews": 468
+    },
+    {
+      "title": "Anchor Me",
+      "url": "https://www.goodreads.com/book/show/32346044-anchor-me",
+      "id": "51945431",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1487770606i/32346044.jpg",
+      "authors": [
+        "J. Kenner"
       ],
       "genres": [
         "romance",
         "erotica",
+        "contemporary-romance",
         "bdsm",
         "erotic-romance",
-        "contemporary-romance",
-        "menage",
-        "contemporary"
+        "contemporary",
+        "adult"
       ],
-      "rating": 4.13,
-      "ratings": 3216,
-      "reviews": 382
+      "rating": 4.22,
+      "ratings": 3713,
+      "reviews": 287
     },
     {
-      "title": "Maddox",
-      "url": "https://www.goodreads.com/book/show/37748934-maddox",
-      "id": "59367017",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1515192578i/37748934.jpg",
+      "title": "Tempted by Love",
+      "url": "https://www.goodreads.com/book/show/51262761-tempted-by-love",
+      "id": "75932651",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1599477053i/51262761.jpg",
       "authors": [
-        "Melanie Moreland"
+        "Melissa Foster"
+      ],
+      "genres": [
+        "romance",
+        "contemporary-romance",
+        "contemporary",
+        "amazon",
+        "fiction",
+        "family",
+        "own"
+      ],
+      "rating": 4.41,
+      "ratings": 3711,
+      "reviews": 459
+    },
+    {
+      "title": "The Secret",
+      "url": "https://www.goodreads.com/book/show/59602867-the-secret",
+      "id": "93864617",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1641554346i/59602867.jpg",
+      "authors": [
+        "Kristen Proby"
       ],
       "genres": [
         "romance",
         "contemporary",
         "contemporary-romance",
-        "adult",
-        "audiobook",
         "chick-lit",
-        "drama"
+        "fiction",
+        "amazon",
+        "humor"
       ],
-      "rating": 4.23,
-      "ratings": 3216,
-      "reviews": 378
+      "rating": 4.17,
+      "ratings": 3710,
+      "reviews": 344
     },
     {
-      "title": "The Fear That Divides Us",
-      "url": "https://www.goodreads.com/book/show/23197095-the-fear-that-divides-us",
-      "id": "42742101",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1421896668i/23197095.jpg",
+      "title": "Rough Canvas",
+      "url": "https://www.goodreads.com/book/show/5709572-rough-canvas",
+      "id": "5881169",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1226767001i/5709572.jpg",
       "authors": [
-        "M.N. Forgy"
+        "Joey W. Hill"
+      ],
+      "genres": [
+        "bdsm",
+        "m-m-romance",
+        "romance",
+        "erotica",
+        "contemporary",
+        "erotic-romance",
+        "contemporary-romance"
+      ],
+      "rating": 4.28,
+      "ratings": 3709,
+      "reviews": 472
+    },
+    {
+      "title": "Burn",
+      "url": "https://www.goodreads.com/book/show/52849434-burn",
+      "id": "73244642",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1696106572i/52849434.jpg",
+      "authors": [
+        "Chelle Bliss"
       ],
       "genres": [
         "romance",
-        "abuse",
+        "suspense",
         "contemporary-romance",
-        "dark",
         "contemporary",
         "audiobook",
-        "new-adult"
+        "romantic-suspense",
+        "amazon"
       ],
-      "rating": 4.23,
-      "ratings": 3213,
-      "reviews": 247
+      "rating": 4.36,
+      "ratings": 3709,
+      "reviews": 487
     },
     {
-      "title": "The Sooner the Better",
-      "url": "https://www.goodreads.com/book/show/29980249-the-sooner-the-better",
-      "id": "4083783",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1487233717i/29980249.jpg",
+      "title": "Until Death Do Us Part",
+      "url": "https://www.goodreads.com/book/show/57779315-until-death-do-us-part",
+      "id": "90512355",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1619025763i/57779315.jpg",
+      "authors": [
+        "Adelaide Forrest"
+      ],
+      "genres": [
+        "dark",
+        "romance",
+        "contemporary-romance",
+        "contemporary",
+        "crime",
+        "erotic-romance",
+        "m-f-romance"
+      ],
+      "rating": 4.14,
+      "ratings": 3708,
+      "reviews": 329
+    },
+    {
+      "title": "Promise Me Forever",
+      "url": "https://www.goodreads.com/book/show/20812088-promise-me-forever",
+      "id": "4083810",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1400078471i/20812088.jpg",
       "authors": [
         "Debbie Macomber"
       ],
@@ -75,209 +453,41 @@
         "romance",
         "fiction",
         "contemporary-romance",
-        "mystery",
+        "harlequin",
         "contemporary",
         "chick-lit",
-        "romantic-suspense"
-      ],
-      "rating": 4.05,
-      "ratings": 3211,
-      "reviews": 217
-    },
-    {
-      "title": "Hook",
-      "url": "https://www.goodreads.com/book/show/42849258-hook",
-      "id": "65631503",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1542441880i/42849258.jpg",
-      "authors": [
-        "Chelle Bliss"
-      ],
-      "genres": [
-        "romance",
-        "contemporary-romance",
-        "contemporary",
-        "amazon",
-        "adult",
-        "erotica",
-        "family"
-      ],
-      "rating": 4.43,
-      "ratings": 3211,
-      "reviews": 489
-    },
-    {
-      "title": "Whispered Lies",
-      "url": "https://www.goodreads.com/book/show/5522977-whispered-lies",
-      "id": "5693993",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1437274338i/5522977.jpg",
-      "authors": [
-        "Sherrilyn Kenyon"
-      ],
-      "genres": [
-        "romance",
-        "romantic-suspense",
-        "contemporary-romance",
-        "contemporary",
-        "suspense",
-        "paranormal-romance",
-        "fiction"
-      ],
-      "rating": 4.09,
-      "ratings": 3211,
-      "reviews": 134
-    },
-    {
-      "title": "Shu",
-      "url": "https://www.goodreads.com/book/show/51000302-shu",
-      "id": "75847549",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1580860440i/51000302.jpg",
-      "authors": [
-        "Alexandria  House"
-      ],
-      "genres": [
-        "romance",
-        "novella",
-        "audiobook",
-        "contemporary-romance",
-        "contemporary",
-        "african-american-romance",
-        "erotica"
-      ],
-      "rating": 4.43,
-      "ratings": 3210,
-      "reviews": 534
-    },
-    {
-      "title": "Going Down on One Knee",
-      "url": "https://www.goodreads.com/book/show/56521179-going-down-on-one-knee",
-      "id": "63502844",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1609623935i/56521179.jpg",
-      "authors": [
-        "Christina Hovland"
-      ],
-      "genres": [
-        "romance",
-        "contemporary",
-        "contemporary-romance",
-        "fiction",
-        "humor",
-        "adult",
         "audiobook"
       ],
-      "rating": 4.2,
-      "ratings": 3209,
-      "reviews": 357
+      "rating": 4.03,
+      "ratings": 3707,
+      "reviews": 159
     },
     {
-      "title": "Come Back to Bed",
-      "url": "https://www.goodreads.com/book/show/195934741-come-back-to-bed",
-      "id": "68306503",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1691523565i/195934741.jpg",
+      "title": "Trucker",
+      "url": "https://www.goodreads.com/book/show/39006458-trucker",
+      "id": "51415139",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1520295594i/39006458.jpg",
       "authors": [
-        "Kayley Loring"
+        "Jamie Schlosser"
       ],
       "genres": [
         "romance",
+        "new-adult",
         "contemporary",
         "contemporary-romance",
-        "audiobook",
-        "adult",
         "humor",
-        "chick-lit"
-      ],
-      "rating": 4.33,
-      "ratings": 3209,
-      "reviews": 323
-    },
-    {
-      "title": "The Secrets She Kept",
-      "url": "https://www.goodreads.com/book/show/28188376-the-secrets-she-kept",
-      "id": "48210729",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1463591358i/28188376.jpg",
-      "authors": [
-        "Brenda Novak"
-      ],
-      "genres": [
-        "romance",
-        "romantic-suspense",
-        "suspense",
-        "mystery",
-        "fiction",
-        "contemporary",
-        "contemporary-romance"
-      ],
-      "rating": 4.22,
-      "ratings": 3209,
-      "reviews": 417
-    },
-    {
-      "title": "'Tis The Season",
-      "url": "https://www.goodreads.com/book/show/20821519-tis-the-season",
-      "id": "40167348",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1398709236i/20821519.jpg",
-      "authors": [
-        "Robyn Carr"
-      ],
-      "genres": [
-        "romance",
-        "christmas",
-        "fiction",
-        "contemporary-romance",
-        "holiday",
-        "contemporary",
-        "chick-lit"
-      ],
-      "rating": 4.02,
-      "ratings": 3209,
-      "reviews": 224
-    },
-    {
-      "title": "Spring at Blueberry Bay",
-      "url": "https://www.goodreads.com/book/show/34451662-spring-at-blueberry-bay",
-      "id": "55563673",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1488498773i/34451662.jpg",
-      "authors": [
-        "Holly Martin"
-      ],
-      "genres": [
-        "romance",
-        "chick-lit",
-        "contemporary",
-        "fiction",
-        "contemporary-romance",
         "adult",
-        "audiobook"
+        "young-adult"
       ],
-      "rating": 4.24,
-      "ratings": 3208,
-      "reviews": 313
+      "rating": 4.01,
+      "ratings": 3706,
+      "reviews": 546
     },
     {
-      "title": "Paying the Bratva's Debt",
-      "url": "https://www.goodreads.com/book/show/57442861-paying-the-bratva-s-debt",
-      "id": "89775181",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1615999798i/57442861.jpg",
-      "authors": [
-        "Jagger Cole"
-      ],
-      "genres": [
-        "romance",
-        "dark",
-        "contemporary-romance",
-        "contemporary",
-        "novella",
-        "crime",
-        "adult"
-      ],
-      "rating": 4.08,
-      "ratings": 3208,
-      "reviews": 253
-    },
-    {
-      "title": "Coming Home",
-      "url": "https://www.goodreads.com/book/show/17189307-coming-home",
-      "id": "21573806",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1356813455i/17189307.jpg",
+      "title": "How Much I Feel",
+      "url": "https://www.goodreads.com/book/show/77261902-how-much-i-feel",
+      "id": "75759834",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1673645292i/77261902.jpg",
       "authors": [
         "Marie Force"
       ],
@@ -285,221 +495,14 @@
         "romance",
         "contemporary-romance",
         "contemporary",
+        "amazon",
         "fiction",
-        "drama",
-        "adult",
-        "family"
-      ],
-      "rating": 4.45,
-      "ratings": 3207,
-      "reviews": 168
-    },
-    {
-      "title": "Delaney's Desert Sheikh",
-      "url": "https://www.goodreads.com/book/show/359352.Delaney_s_Desert_Sheikh",
-      "id": "349474",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1389066050i/359352.jpg",
-      "authors": [
-        "Brenda Jackson"
-      ],
-      "genres": [
-        "romance",
-        "contemporary-romance",
-        "harlequin",
-        "contemporary",
-        "interracial-romance",
-        "fiction",
-        "african-american-romance"
-      ],
-      "rating": 4.31,
-      "ratings": 3206,
-      "reviews": 171
-    },
-    {
-      "title": "Only You",
-      "url": "https://www.goodreads.com/book/show/29246615-only-you",
-      "id": "49491497",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1458496722i/29246615.jpg",
-      "authors": [
-        "Denise Grover Swank"
-      ],
-      "genres": [
-        "romance",
-        "contemporary-romance",
-        "contemporary",
-        "fiction",
-        "adult",
-        "audiobook",
-        "romantic"
-      ],
-      "rating": 4.16,
-      "ratings": 3205,
-      "reviews": 332
-    },
-    {
-      "title": "Royal Games",
-      "url": "https://www.goodreads.com/book/show/28885438-royal-games",
-      "id": "49111635",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1459506313i/28885438.jpg",
-      "authors": [
-        "Sariah Wilson"
-      ],
-      "genres": [
-        "romance",
-        "contemporary",
-        "clean-romance",
-        "contemporary-romance",
-        "fiction",
-        "chick-lit",
+        "family",
         "adult"
       ],
-      "rating": 4.13,
-      "ratings": 3204,
-      "reviews": 326
-    },
-    {
-      "title": "Kissing Jenna",
-      "url": "https://www.goodreads.com/book/show/39836205-kissing-jenna",
-      "id": "61596368",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1523623190i/39836205.jpg",
-      "authors": [
-        "Kristen Proby"
-      ],
-      "genres": [
-        "romance",
-        "contemporary-romance",
-        "contemporary",
-        "adult",
-        "erotica",
-        "chick-lit",
-        "anthologies"
-      ],
-      "rating": 4.19,
-      "ratings": 3203,
-      "reviews": 320
-    },
-    {
-      "title": "Depraved",
-      "url": "https://www.goodreads.com/book/show/44074573-depraved",
-      "id": "67651803",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1550680005i/44074573.jpg",
-      "authors": [
-        "Eva Charles"
-      ],
-      "genres": [
-        "romance",
-        "dark",
-        "bdsm",
-        "contemporary",
-        "erotica",
-        "contemporary-romance",
-        "suspense"
-      ],
-      "rating": 4.16,
-      "ratings": 3200,
-      "reviews": 425
-    },
-    {
-      "title": "Unbreakable",
-      "url": "https://www.goodreads.com/book/show/55819714-unbreakable",
-      "id": "62224085",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1604093471i/55819714.jpg",
-      "authors": [
-        "Crystal  Daniels"
-      ],
-      "genres": [
-        "romance",
-        "contemporary",
-        "dark",
-        "abuse",
-        "romantic-suspense",
-        "contemporary-romance",
-        "crime"
-      ],
-      "rating": 4.42,
-      "ratings": 3199,
-      "reviews": 275
-    },
-    {
-      "title": "Serenity Harbor",
-      "url": "https://www.goodreads.com/book/show/33098788-serenity-harbor",
-      "id": "53761646",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1481667724i/33098788.jpg",
-      "authors": [
-        "RaeAnne Thayne"
-      ],
-      "genres": [
-        "romance",
-        "contemporary-romance",
-        "contemporary",
-        "fiction",
-        "audiobook",
-        "adult",
-        "chick-lit"
-      ],
-      "rating": 4.13,
-      "ratings": 3199,
-      "reviews": 313
-    },
-    {
-      "title": "The Ruins of Us",
-      "url": "https://www.goodreads.com/book/show/58201282-the-ruins-of-us",
-      "id": "85580350",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1622380956i/58201282.jpg",
-      "authors": [
-        "Catharina Maura"
-      ],
-      "genres": [
-        "romance",
-        "contemporary-romance",
-        "contemporary",
-        "new-adult"
-      ],
-      "rating": 4.38,
-      "ratings": 3198,
-      "reviews": 177
-    },
-    {
-      "title": "The Billionaire Next Door",
-      "url": "https://www.goodreads.com/book/show/28119766-the-billionaire-next-door",
-      "id": "48130719",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1455134168i/28119766.jpg",
-      "authors": [
-        "Jessica Lemmon"
-      ],
-      "genres": [
-        "romance",
-        "contemporary-romance",
-        "contemporary",
-        "fiction",
-        "adult",
-        "audiobook",
-        "new-adult"
-      ],
-      "rating": 4.01,
-      "ratings": 3198,
-      "reviews": 350
-    },
-    {
-      "title": "Red Hot Rebel",
-      "url": "https://www.goodreads.com/book/show/63189025-red-hot-rebel",
-      "id": "90269168",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1667311859i/63189025.jpg",
-      "authors": [
-        "Olivia Hayle"
-      ],
-      "genres": [
-        "romance",
-        "contemporary-romance",
-        "contemporary",
-        "chick-lit",
-        "romantic",
-        "adult",
-        "new-adult"
-      ],
-      "rating": 4.34,
-      "ratings": 3197,
-      "reviews": 135
+      "rating": 4.4,
+      "ratings": 3705,
+      "reviews": 341
     }
   ]
 }

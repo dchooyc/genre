@@ -1,25 +1,88 @@
 {
   "books": [
     {
-      "title": "Modern Software Engineering: Doing What Works to Build Better Software Faster",
-      "url": "https://www.goodreads.com/book/show/57345270-modern-software-engineering",
-      "id": "89753499",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1633733111i/57345270.jpg",
+      "title": "You Don't Know JS: Types & Grammar",
+      "url": "https://www.goodreads.com/book/show/22221109-you-don-t-know-js",
+      "id": "41559953",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1401076393i/22221109.jpg",
       "authors": [
-        "David  Farley"
+        "Kyle Simpson"
       ],
       "genres": [
         "programming",
-        "software",
         "technology",
         "computer-science",
-        "technical",
         "non-fiction",
-        "engineering"
+        "technical",
+        "software",
+        "coding"
       ],
-      "rating": 4.21,
-      "ratings": 680,
-      "reviews": 86
+      "rating": 4.49,
+      "ratings": 729,
+      "reviews": 27
+    },
+    {
+      "title": "Python Machine Learning",
+      "url": "https://www.goodreads.com/book/show/25545994-python-machine-learning",
+      "id": "45338752",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1437797728i/25545994.jpg",
+      "authors": [
+        "Sebastian Raschka"
+      ],
+      "genres": [
+        "programming",
+        "computer-science",
+        "technology",
+        "artificial-intelligence",
+        "non-fiction",
+        "technical",
+        "reference"
+      ],
+      "rating": 4.25,
+      "ratings": 725,
+      "reviews": 38
+    },
+    {
+      "title": "Python Pocket Reference",
+      "url": "https://www.goodreads.com/book/show/583495.Python_Pocket_Reference",
+      "id": "570354",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388711420i/583495.jpg",
+      "authors": [
+        "Mark Lutz"
+      ],
+      "genres": [
+        "reference",
+        "programming",
+        "computer-science",
+        "computers",
+        "non-fiction",
+        "technical",
+        "coding"
+      ],
+      "rating": 4.03,
+      "ratings": 720,
+      "reviews": 27
+    },
+    {
+      "title": "Understanding the Linux Kernel",
+      "url": "https://www.goodreads.com/book/show/227119.Understanding_the_Linux_Kernel",
+      "id": "219996",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388217897i/227119.jpg",
+      "authors": [
+        "Daniel P. Bovet"
+      ],
+      "genres": [
+        "programming",
+        "computer-science",
+        "technology",
+        "technical",
+        "reference",
+        "computers",
+        "non-fiction"
+      ],
+      "rating": 4.11,
+      "ratings": 709,
+      "reviews": 30
     },
     {
       "title": "Kafka: The Definitive Guide: Real-Time Data and Stream Processing at Scale",
@@ -39,7 +102,7 @@
         "architecture"
       ],
       "rating": 4.15,
-      "ratings": 676,
+      "ratings": 682,
       "reviews": 75
     },
     {
@@ -59,8 +122,8 @@
         "non-fiction",
         "coding"
       ],
-      "rating": 4.36,
-      "ratings": 674,
+      "rating": 4.35,
+      "ratings": 679,
       "reviews": 82
     },
     {
@@ -81,29 +144,8 @@
         "reference"
       ],
       "rating": 4.21,
-      "ratings": 672,
+      "ratings": 674,
       "reviews": 31
-    },
-    {
-      "title": "You Don't Know JS: Async & Performance",
-      "url": "https://www.goodreads.com/book/show/22221110-you-don-t-know-js",
-      "id": "41559954",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1401074365i/22221110.jpg",
-      "authors": [
-        "Kyle Simpson"
-      ],
-      "genres": [
-        "programming",
-        "technology",
-        "computer-science",
-        "non-fiction",
-        "technical",
-        "software",
-        "coding"
-      ],
-      "rating": 4.31,
-      "ratings": 659,
-      "reviews": 42
     },
     {
       "title": "Learning Agile: Understanding Scrum, Xp, Lean, and Kanban",
@@ -123,92 +165,8 @@
         "technology"
       ],
       "rating": 4.09,
-      "ratings": 657,
+      "ratings": 665,
       "reviews": 57
-    },
-    {
-      "title": "Introduction to Automata Theory, Languages, and Computation",
-      "url": "https://www.goodreads.com/book/show/1384026.Introduction_to_Automata_Theory_Languages_and_Computation",
-      "id": "1374051",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1387668734i/1384026.jpg",
-      "authors": [
-        "John E. Hopcroft"
-      ],
-      "genres": [
-        "computer-science",
-        "programming",
-        "reference",
-        "mathematics",
-        "computers",
-        "science",
-        "technical"
-      ],
-      "rating": 4.05,
-      "ratings": 654,
-      "reviews": 29
-    },
-    {
-      "title": "The Linux Programming Interface: A Linux and UNIX System Programming Handbook",
-      "url": "https://www.goodreads.com/book/show/7672214-the-linux-programming-interface",
-      "id": "10286833",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1391032547i/7672214.jpg",
-      "authors": [
-        "Michael Kerrisk"
-      ],
-      "genres": [
-        "programming",
-        "computer-science",
-        "technology",
-        "reference",
-        "technical",
-        "software",
-        "computers"
-      ],
-      "rating": 4.62,
-      "ratings": 645,
-      "reviews": 39
-    },
-    {
-      "title": "Scala for the Impatient",
-      "url": "https://www.goodreads.com/book/show/11335855-scala-for-the-impatient",
-      "id": "16264400",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348110005i/11335855.jpg",
-      "authors": [
-        "Cay S. Horstmann"
-      ],
-      "genres": [
-        "programming",
-        "technology",
-        "computer-science",
-        "technical",
-        "non-fiction",
-        "software",
-        "computers"
-      ],
-      "rating": 4.1,
-      "ratings": 637,
-      "reviews": 53
-    },
-    {
-      "title": "Linux Pocket Guide",
-      "url": "https://www.goodreads.com/book/show/128172.Linux_Pocket_Guide",
-      "id": "123439",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328834323i/128172.jpg",
-      "authors": [
-        "Daniel J. Barrett"
-      ],
-      "genres": [
-        "reference",
-        "programming",
-        "computer-science",
-        "non-fiction",
-        "technical",
-        "technology",
-        "computers"
-      ],
-      "rating": 4.07,
-      "ratings": 632,
-      "reviews": 32
     },
     {
       "title": "MAKE: Bootstrapper's Handbook",
@@ -228,29 +186,113 @@
         "design"
       ],
       "rating": 4.12,
-      "ratings": 629,
-      "reviews": 99
+      "ratings": 662,
+      "reviews": 104
     },
     {
-      "title": "99 Bottles of OOP",
-      "url": "https://www.goodreads.com/book/show/31183020-99-bottles-of-oop",
-      "id": "51824272",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1477514056i/31183020.jpg",
+      "title": "You Don't Know JS: Async & Performance",
+      "url": "https://www.goodreads.com/book/show/22221110-you-don-t-know-js",
+      "id": "41559954",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1401074365i/22221110.jpg",
       "authors": [
-        "Sandi Metz"
+        "Kyle Simpson"
       ],
       "genres": [
         "programming",
         "technology",
-        "software",
         "computer-science",
         "non-fiction",
         "technical",
-        "engineering"
+        "software",
+        "coding"
       ],
-      "rating": 4.55,
-      "ratings": 624,
-      "reviews": 75
+      "rating": 4.31,
+      "ratings": 662,
+      "reviews": 42
+    },
+    {
+      "title": "The Linux Programming Interface: A Linux and UNIX System Programming Handbook",
+      "url": "https://www.goodreads.com/book/show/7672214-the-linux-programming-interface",
+      "id": "10286833",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1391032547i/7672214.jpg",
+      "authors": [
+        "Michael Kerrisk"
+      ],
+      "genres": [
+        "programming",
+        "computer-science",
+        "technology",
+        "reference",
+        "technical",
+        "software",
+        "computers"
+      ],
+      "rating": 4.63,
+      "ratings": 657,
+      "reviews": 40
+    },
+    {
+      "title": "Introduction to Automata Theory, Languages, and Computation",
+      "url": "https://www.goodreads.com/book/show/1384026.Introduction_to_Automata_Theory_Languages_and_Computation",
+      "id": "1374051",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1387668734i/1384026.jpg",
+      "authors": [
+        "John E. Hopcroft"
+      ],
+      "genres": [
+        "computer-science",
+        "programming",
+        "reference",
+        "mathematics",
+        "computers",
+        "science",
+        "technical"
+      ],
+      "rating": 4.05,
+      "ratings": 655,
+      "reviews": 29
+    },
+    {
+      "title": "Scala for the Impatient",
+      "url": "https://www.goodreads.com/book/show/11335855-scala-for-the-impatient",
+      "id": "16264400",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348110005i/11335855.jpg",
+      "authors": [
+        "Cay S. Horstmann"
+      ],
+      "genres": [
+        "programming",
+        "technology",
+        "technical",
+        "computer-science",
+        "software",
+        "non-fiction",
+        "computers"
+      ],
+      "rating": 4.1,
+      "ratings": 637,
+      "reviews": 54
+    },
+    {
+      "title": "Linux Pocket Guide",
+      "url": "https://www.goodreads.com/book/show/128172.Linux_Pocket_Guide",
+      "id": "123439",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328834323i/128172.jpg",
+      "authors": [
+        "Daniel J. Barrett"
+      ],
+      "genres": [
+        "reference",
+        "programming",
+        "computer-science",
+        "non-fiction",
+        "technology",
+        "technical",
+        "computers"
+      ],
+      "rating": 4.07,
+      "ratings": 637,
+      "reviews": 31
     },
     {
       "title": "Dive Into Design Patterns",
@@ -269,30 +311,51 @@
         "non-fiction",
         "design"
       ],
-      "rating": 4.69,
-      "ratings": 619,
-      "reviews": 178
+      "rating": 4.68,
+      "ratings": 636,
+      "reviews": 179
     },
     {
-      "title": "Professional JavaScript for Web Developers",
-      "url": "https://www.goodreads.com/book/show/135437.Professional_JavaScript_for_Web_Developers",
-      "id": "130520",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1172064302i/135437.jpg",
+      "title": "99 Bottles of OOP",
+      "url": "https://www.goodreads.com/book/show/31183020-99-bottles-of-oop",
+      "id": "51824272",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1477514056i/31183020.jpg",
       "authors": [
-        "Nicholas C. Zakas"
+        "Sandi Metz"
       ],
       "genres": [
         "programming",
         "technology",
+        "software",
         "computer-science",
         "technical",
-        "reference",
+        "non-fiction",
+        "engineering"
+      ],
+      "rating": 4.55,
+      "ratings": 628,
+      "reviews": 75
+    },
+    {
+      "title": "Microservice Patterns",
+      "url": "https://www.goodreads.com/book/show/34372564-microservice-patterns",
+      "id": "55456565",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1487751473i/34372564.jpg",
+      "authors": [
+        "Chris Richardson"
+      ],
+      "genres": [
+        "programming",
+        "technology",
         "software",
+        "computer-science",
+        "architecture",
+        "technical",
         "non-fiction"
       ],
-      "rating": 4.19,
-      "ratings": 615,
-      "reviews": 32
+      "rating": 4.24,
+      "ratings": 620,
+      "reviews": 66
     },
     {
       "title": "Kubernetes in Action",
@@ -312,8 +375,29 @@
         "reference"
       ],
       "rating": 4.61,
-      "ratings": 614,
+      "ratings": 618,
       "reviews": 88
+    },
+    {
+      "title": "Professional JavaScript for Web Developers",
+      "url": "https://www.goodreads.com/book/show/135437.Professional_JavaScript_for_Web_Developers",
+      "id": "130520",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1172064302i/135437.jpg",
+      "authors": [
+        "Nicholas C. Zakas"
+      ],
+      "genres": [
+        "programming",
+        "technology",
+        "computer-science",
+        "technical",
+        "reference",
+        "software",
+        "non-fiction"
+      ],
+      "rating": 4.19,
+      "ratings": 616,
+      "reviews": 32
     },
     {
       "title": "Algorithm Design",
@@ -333,8 +417,8 @@
         "textbooks"
       ],
       "rating": 4.16,
-      "ratings": 613,
-      "reviews": 22
+      "ratings": 616,
+      "reviews": 23
     },
     {
       "title": "Effective STL: 50 Specific Ways to Improve Your Use of the Standard Template Library",
@@ -358,46 +442,46 @@
       "reviews": 28
     },
     {
-      "title": "Microservice Patterns",
-      "url": "https://www.goodreads.com/book/show/34372564-microservice-patterns",
-      "id": "55456565",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1487751473i/34372564.jpg",
+      "title": "Ry's Git Tutorial",
+      "url": "https://www.goodreads.com/book/show/23951943-ry-s-git-tutorial",
+      "id": "43298217",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1437820681i/23951943.jpg",
       "authors": [
-        "Chris Richardson"
+        "Ryan Hodson"
       ],
       "genres": [
         "programming",
         "technology",
-        "computer-science",
-        "software",
-        "architecture",
+        "non-fiction",
         "technical",
-        "non-fiction"
+        "computers",
+        "reference",
+        "unfinished"
       ],
-      "rating": 4.23,
-      "ratings": 600,
-      "reviews": 64
+      "rating": 4.33,
+      "ratings": 603,
+      "reviews": 48
     },
     {
-      "title": "High Performance JavaScript: Build Faster Web Application Interfaces",
-      "url": "https://www.goodreads.com/book/show/7008656-high-performance-javascript",
-      "id": "7253533",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328834985i/7008656.jpg",
+      "title": "Python Data Science Handbook: Essential Tools for Working with Data",
+      "url": "https://www.goodreads.com/book/show/26457146-python-data-science-handbook",
+      "id": "46459730",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1481029785i/26457146.jpg",
       "authors": [
-        "Nicholas C. Zakas"
+        "Jake Vanderplas"
       ],
       "genres": [
         "programming",
-        "technology",
-        "technical",
         "computer-science",
         "non-fiction",
-        "software",
-        "coding"
+        "technical",
+        "reference",
+        "coding",
+        "textbooks"
       ],
-      "rating": 4.12,
-      "ratings": 595,
-      "reviews": 36
+      "rating": 4.31,
+      "ratings": 597,
+      "reviews": 56
     },
     {
       "title": "Game Engine Black Book, Wolfenstein 3D",
@@ -417,92 +501,8 @@
         "software"
       ],
       "rating": 4.47,
-      "ratings": 595,
+      "ratings": 597,
       "reviews": 63
-    },
-    {
-      "title": "Python Data Science Handbook: Essential Tools for Working with Data",
-      "url": "https://www.goodreads.com/book/show/26457146-python-data-science-handbook",
-      "id": "46459730",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1481029785i/26457146.jpg",
-      "authors": [
-        "Jake Vanderplas"
-      ],
-      "genres": [
-        "programming",
-        "computer-science",
-        "non-fiction",
-        "technical",
-        "reference",
-        "coding",
-        "artificial-intelligence"
-      ],
-      "rating": 4.31,
-      "ratings": 593,
-      "reviews": 56
-    },
-    {
-      "title": "The Principles of Object-Oriented JavaScript",
-      "url": "https://www.goodreads.com/book/show/20799234-the-principles-of-object-oriented-javascript",
-      "id": "40143152",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1392225080i/20799234.jpg",
-      "authors": [
-        "Nicholas C. Zakas"
-      ],
-      "genres": [
-        "programming",
-        "technology",
-        "computer-science",
-        "technical",
-        "reference",
-        "software",
-        "non-fiction"
-      ],
-      "rating": 4.37,
-      "ratings": 592,
-      "reviews": 60
-    },
-    {
-      "title": "Java Puzzlers: Traps, Pitfalls, and Corner Cases",
-      "url": "https://www.goodreads.com/book/show/127931.Java_Puzzlers",
-      "id": "123206",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348585328i/127931.jpg",
-      "authors": [
-        "Joshua Bloch"
-      ],
-      "genres": [
-        "programming",
-        "computer-science",
-        "technology",
-        "software",
-        "non-fiction",
-        "technical",
-        "reference"
-      ],
-      "rating": 4.25,
-      "ratings": 589,
-      "reviews": 24
-    },
-    {
-      "title": "Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics and Speech Recognition",
-      "url": "https://www.goodreads.com/book/show/908047.Speech_and_Language_Processing",
-      "id": "893186",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1391032539i/908047.jpg",
-      "authors": [
-        "Dan Jurafsky"
-      ],
-      "genres": [
-        "linguistics",
-        "computer-science",
-        "language",
-        "non-fiction",
-        "artificial-intelligence",
-        "programming",
-        "reference"
-      ],
-      "rating": 4.26,
-      "ratings": 589,
-      "reviews": 42
     }
   ]
 }

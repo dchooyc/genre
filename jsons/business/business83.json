@@ -1,83 +1,413 @@
 {
   "books": [
     {
-      "title": "Leadership",
-      "url": "https://www.goodreads.com/book/show/20883530-leadership",
-      "id": "75767784",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1393036371i/20883530.jpg",
+      "title": "The Richest Man in Town",
+      "url": "https://www.goodreads.com/book/show/2598098-the-richest-man-in-town",
+      "id": "2621100",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1539647459i/2598098.jpg",
       "authors": [
-        "Brian Tracy"
+        "V.J. Smith"
       ],
       "genres": [
-        "leadership",
+        "non-fiction",
+        "biography",
+        "inspirational",
         "business",
-        "self-help",
-        "management",
-        "non-fiction"
+        "autobiography",
+        "memoir"
       ],
-      "rating": 4.12,
-      "ratings": 557,
-      "reviews": 56
+      "rating": 4.34,
+      "ratings": 595,
+      "reviews": 113
     },
     {
-      "title": "The Ideal Executive",
-      "url": "https://www.goodreads.com/book/show/300025.The_Ideal_Executive",
-      "id": "291098",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1173521746i/300025.jpg",
+      "title": "The Genius of the System: Hollywood Filmmaking in the Studio Era",
+      "url": "https://www.goodreads.com/book/show/101447.The_Genius_of_the_System",
+      "id": "97813",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1312047115i/101447.jpg",
       "authors": [
-        "Ichak Kalderon Adizes PH D"
+        "Thomas Schatz"
       ],
       "genres": [
-        "management",
+        "film",
+        "non-fiction",
+        "history",
+        "media-tie-in",
+        "art",
+        "school",
+        "business"
+      ],
+      "rating": 4.29,
+      "ratings": 594,
+      "reviews": 50
+    },
+    {
+      "title": "Ice Breakers! How To Get Any Prospect To Beg You For A Presentation",
+      "url": "https://www.goodreads.com/book/show/19212267-ice-breakers-how-to-get-any-prospect-to-beg-you-for-a-presentation",
+      "id": "27256156",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386267326i/19212267.jpg",
+      "authors": [
+        "Tom Schreiter"
+      ],
+      "genres": [
         "business",
         "non-fiction",
-        "leadership",
         "personal-development",
         "self-help"
       ],
-      "rating": 4.35,
-      "ratings": 557,
-      "reviews": 42
+      "rating": 4.11,
+      "ratings": 592,
+      "reviews": 36
     },
     {
-      "title": "8 Attributes of Great Achievers",
-      "url": "https://www.goodreads.com/book/show/8552879-8-attributes-of-great-achievers",
-      "id": "13420983",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386729521i/8552879.jpg",
+      "title": "Safe Haven: Investing for Financial Storms",
+      "url": "https://www.goodreads.com/book/show/35541721-safe-haven",
+      "id": "56964985",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1514140868i/35541721.jpg",
       "authors": [
-        "Cameron C. Taylor"
+        "Mark Spitznagel"
+      ],
+      "genres": [
+        "finance",
+        "economics",
+        "business",
+        "non-fiction",
+        "personal-finance",
+        "unfinished",
+        "money"
+      ],
+      "rating": 4.01,
+      "ratings": 592,
+      "reviews": 65
+    },
+    {
+      "title": "One Little Spark!: Mickey's Ten Commandments and The Road to Imagineering",
+      "url": "https://www.goodreads.com/book/show/25703881-one-little-spark",
+      "id": "45534625",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1436185356i/25703881.jpg",
+      "authors": [
+        "Marty Sklar"
+      ],
+      "genres": [
+        "non-fiction",
+        "audiobook",
+        "business",
+        "memoir",
+        "biography-memoir",
+        "personal-development",
+        "unfinished"
+      ],
+      "rating": 4,
+      "ratings": 592,
+      "reviews": 54
+    },
+    {
+      "title": "Young China: How the Restless Generation Will Change Their Country and the World",
+      "url": "https://www.goodreads.com/book/show/34964838-young-china",
+      "id": "56239845",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1512054507i/34964838.jpg",
+      "authors": [
+        "Zak Dychtwald"
+      ],
+      "genres": [
+        "china",
+        "non-fiction",
+        "history",
+        "sociology",
+        "asia",
+        "cultural",
+        "business"
+      ],
+      "rating": 4.14,
+      "ratings": 591,
+      "reviews": 91
+    },
+    {
+      "title": "Gemba Kaizen: A Commonsense, Low-Cost Approach to Management",
+      "url": "https://www.goodreads.com/book/show/1678558.Gemba_Kaizen",
+      "id": "1673669",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348199454i/1678558.jpg",
+      "authors": [
+        "Masaaki Imai"
       ],
       "genres": [
         "business",
-        "self-help",
+        "management",
         "non-fiction",
         "leadership",
-        "biography",
+        "productivity",
         "personal-development"
       ],
-      "rating": 4.29,
-      "ratings": 556,
-      "reviews": 34
+      "rating": 4.11,
+      "ratings": 591,
+      "reviews": 33
     },
     {
-      "title": "Walt Disney Imagineering: A Behind the Dreams Look at Making More Magic Real",
-      "url": "https://www.goodreads.com/book/show/6811027-walt-disney-imagineering",
-      "id": "7018706",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1360573274i/6811027.jpg",
+      "title": "Invested: Changing Forever the Way Americans Invest",
+      "url": "https://www.goodreads.com/book/show/46155919-invested",
+      "id": "70464013",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1559748483i/46155919.jpg",
       "authors": [
-        "The Imagineers"
+        "Charles Schwab"
+      ],
+      "genres": [
+        "business",
+        "finance",
+        "biography",
+        "non-fiction",
+        "economics",
+        "autobiography",
+        "biography-memoir"
+      ],
+      "rating": 4.04,
+      "ratings": 591,
+      "reviews": 56
+    },
+    {
+      "title": "Value Investing and Behavioral Finance: Insights into Indian Stock Market Realities",
+      "url": "https://www.goodreads.com/book/show/6922763-value-investing-and-behavioral-finance",
+      "id": "7071266",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1544373749i/6922763.jpg",
+      "authors": [
+        "Parag Parikh"
+      ],
+      "genres": [
+        "finance",
+        "economics",
+        "non-fiction",
+        "personal-finance",
+        "money",
+        "business",
+        "india"
+      ],
+      "rating": 4.06,
+      "ratings": 591,
+      "reviews": 73
+    },
+    {
+      "title": "Spiritual Economics: The Principles and Process of True Prosperity",
+      "url": "https://www.goodreads.com/book/show/1140300.Spiritual_Economics",
+      "id": "1127590",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347771747i/1140300.jpg",
+      "authors": [
+        "Eric Butterworth"
+      ],
+      "genres": [
+        "spirituality",
+        "economics",
+        "money",
+        "business",
+        "religion",
+        "self-help",
+        "personal-development"
+      ],
+      "rating": 4.45,
+      "ratings": 591,
+      "reviews": 61
+    },
+    {
+      "title": "Getting Noticed: A No-Nonsense Guide to Standing Out and Selling More for Momtrepreneurs Who 'Ain't Got Time for That'",
+      "url": "https://www.goodreads.com/book/show/33399965-getting-noticed",
+      "id": "54150631",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1481922072i/33399965.jpg",
+      "authors": [
+        "Lindsay Teague Moreno"
+      ],
+      "genres": [
+        "business",
+        "non-fiction",
+        "personal-development"
+      ],
+      "rating": 4.33,
+      "ratings": 591,
+      "reviews": 85
+    },
+    {
+      "title": "Launch to Market: Easy Marketing For Authors",
+      "url": "https://www.goodreads.com/book/show/30140111-launch-to-market",
+      "id": "50574002",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1462815256i/30140111.jpg",
+      "authors": [
+        "Chris  Fox"
+      ],
+      "genres": [
+        "writing",
+        "non-fiction",
+        "business",
+        "audiobook",
+        "self-help",
+        "crafts"
+      ],
+      "rating": 4.41,
+      "ratings": 590,
+      "reviews": 124
+    },
+    {
+      "title": "Kill It with Fire: Manage Aging Computer Systems",
+      "url": "https://www.goodreads.com/book/show/54716655-kill-it-with-fire",
+      "id": "85366541",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1612209971i/54716655.jpg",
+      "authors": [
+        "Marianne Bellotti"
+      ],
+      "genres": [
+        "technology",
+        "non-fiction",
+        "business",
+        "programming",
+        "software",
+        "engineering",
+        "computer-science"
+      ],
+      "rating": 4.16,
+      "ratings": 590,
+      "reviews": 84
+    },
+    {
+      "title": "The 4 Laws of Financial Prosperity: Get Conrtol of Your Money Now!",
+      "url": "https://www.goodreads.com/book/show/6949510-the-4-laws-of-financial-prosperity",
+      "id": "7183789",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348601790i/6949510.jpg",
+      "authors": [
+        "Blaine Harris"
       ],
       "genres": [
         "non-fiction",
-        "art",
+        "self-help",
+        "finance",
         "business",
-        "reference",
-        "history",
-        "architecture"
+        "personal-finance",
+        "money",
+        "personal-development"
       ],
-      "rating": 4.51,
-      "ratings": 556,
-      "reviews": 26
+      "rating": 4.28,
+      "ratings": 590,
+      "reviews": 97
+    },
+    {
+      "title": "The People's Tycoon: Henry Ford and the American Century",
+      "url": "https://www.goodreads.com/book/show/12378.The_People_s_Tycoon",
+      "id": "14680",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1389839369i/12378.jpg",
+      "authors": [
+        "Steven Watts"
+      ],
+      "genres": [
+        "biography",
+        "history",
+        "business",
+        "non-fiction",
+        "economics",
+        "american-history",
+        "biography-memoir"
+      ],
+      "rating": 4.08,
+      "ratings": 590,
+      "reviews": 74
+    },
+    {
+      "title": "The Austrian Theory of the Trade Cycle and Other Essays",
+      "url": "https://www.goodreads.com/book/show/81985.The_Austrian_Theory_of_the_Trade_Cycle_and_Other_Essays",
+      "id": "79159",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1334219783i/81985.jpg",
+      "authors": [
+        "Richard M. Ebeling"
+      ],
+      "genres": [
+        "economics",
+        "non-fiction",
+        "philosophy",
+        "politics",
+        "finance",
+        "business",
+        "history"
+      ],
+      "rating": 4.16,
+      "ratings": 588,
+      "reviews": 21
+    },
+    {
+      "title": "Resistance (At All Costs): How Trump Haters Are Breaking America",
+      "url": "https://www.goodreads.com/book/show/53080573-resistance-at-all-costs",
+      "id": "69719074",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1561841216l/53080573.jpg",
+      "authors": [
+        "Kimberley Strassel"
+      ],
+      "genres": [
+        "politics",
+        "non-fiction",
+        "history",
+        "government",
+        "audiobook",
+        "business"
+      ],
+      "rating": 4.55,
+      "ratings": 588,
+      "reviews": 80
+    },
+    {
+      "title": "Leading an Inspired Life",
+      "url": "https://www.goodreads.com/book/show/1389193.Leading_an_Inspired_Life",
+      "id": "1379277",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1427891776i/1389193.jpg",
+      "authors": [
+        "Jim Rohn"
+      ],
+      "genres": [
+        "self-help",
+        "personal-development",
+        "business",
+        "leadership",
+        "non-fiction",
+        "philosophy",
+        "productivity"
+      ],
+      "rating": 4.61,
+      "ratings": 587,
+      "reviews": 63
+    },
+    {
+      "title": "Your Strategy Needs a Strategy: How to Choose and Execute the Right Approach",
+      "url": "https://www.goodreads.com/book/show/23258983-your-strategy-needs-a-strategy",
+      "id": "42799991",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1411447564i/23258983.jpg",
+      "authors": [
+        "Martin Reeves"
+      ],
+      "genres": [
+        "business",
+        "non-fiction",
+        "management",
+        "buisness",
+        "leadership",
+        "entrepreneurship",
+        "self-help"
+      ],
+      "rating": 4.03,
+      "ratings": 585,
+      "reviews": 61
+    },
+    {
+      "title": "Critical Business Skills for Success",
+      "url": "https://www.goodreads.com/book/show/26126144-critical-business-skills-for-success",
+      "id": "46075547",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1439949378i/26126144.jpg",
+      "authors": [
+        "Clinton O. Longenecker"
+      ],
+      "genres": [
+        "business",
+        "non-fiction",
+        "audiobook",
+        "finance",
+        "leadership",
+        "management",
+        "entrepreneurship"
+      ],
+      "rating": 4.26,
+      "ratings": 585,
+      "reviews": 54
     },
     {
       "title": "Trillion Dollar Triage: How Jay Powell and the Fed Battled a President and a Pandemic---and Prevented Economic Disaster",
@@ -89,397 +419,75 @@
       ],
       "genres": [
         "economics",
-        "business",
         "finance",
+        "business",
         "non-fiction",
-        "politics",
         "history",
+        "politics",
         "money"
       ],
       "rating": 4.16,
-      "ratings": 555,
+      "ratings": 584,
       "reviews": 59
     },
     {
-      "title": "The Business of Expertise: How Entrepreneurial Experts Convert Insight to Impact + Wealth",
-      "url": "https://www.goodreads.com/book/show/35659874-the-business-of-expertise",
-      "id": "57114792",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1533457456i/35659874.jpg",
+      "title": "The Money Code: Become a Millionaire With the Ancient Jewish Code",
+      "url": "https://www.goodreads.com/book/show/16122055-the-money-code",
+      "id": "21943106",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1351777610i/16122055.jpg",
       "authors": [
-        "David C. Baker"
+        "H.W. Charles"
       ],
       "genres": [
-        "business",
-        "non-fiction",
-        "entrepreneurship",
-        "personal-development",
-        "design",
-        "buisness",
-        "self-help"
-      ],
-      "rating": 4.36,
-      "ratings": 554,
-      "reviews": 46
-    },
-    {
-      "title": "Saving Capitalism from the Capitalists : How Open Financial Markets Challenge the Establishment and Spread Prosperity to Rich and Poor Alike",
-      "url": "https://www.goodreads.com/book/show/174005.Saving_Capitalism_from_the_Capitalists_",
-      "id": "168079",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1408927096i/174005.jpg",
-      "authors": [
-        "Raghuram G. Rajan"
-      ],
-      "genres": [
-        "economics",
-        "finance",
-        "non-fiction",
-        "business",
-        "politics",
-        "history",
-        "society"
-      ],
-      "rating": 4.18,
-      "ratings": 554,
-      "reviews": 71
-    },
-    {
-      "title": "Plunder: Private Equity's Plan to Pillage America",
-      "url": "https://www.goodreads.com/book/show/62874267-plunder",
-      "id": "98667882",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1667340956i/62874267.jpg",
-      "authors": [
-        "Brendan Ballou"
-      ],
-      "genres": [
-        "non-fiction",
-        "economics",
-        "business",
-        "finance",
-        "politics",
-        "history",
-        "audiobook"
-      ],
-      "rating": 4.05,
-      "ratings": 554,
-      "reviews": 74
-    },
-    {
-      "title": "GAMEPLAN The Complete Strategy Guide to Go from Starter Kit to Silver",
-      "url": "https://www.goodreads.com/book/show/33362143-gameplan-the-complete-strategy-guide-to-go-from-starter-kit-to-silver",
-      "id": "54103820",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1481606523i/33362143.jpg",
-      "authors": [
-        "Sarah Harnisch"
-      ],
-      "genres": [
-        "business",
-        "non-fiction",
-        "personal-development"
-      ],
-      "rating": 4.38,
-      "ratings": 554,
-      "reviews": 52
-    },
-    {
-      "title": "Beyond the Goal: Eliyahu Goldratt Speaks on the Theory of Constraints",
-      "url": "https://www.goodreads.com/book/show/172800.Beyond_the_Goal",
-      "id": "166884",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1387700289i/172800.jpg",
-      "authors": [
-        "Eliyahu M. Goldratt"
-      ],
-      "genres": [
-        "business",
-        "management",
-        "non-fiction",
-        "leadership",
-        "audiobook",
-        "technology",
-        "productivity"
-      ],
-      "rating": 4.07,
-      "ratings": 554,
-      "reviews": 47
-    },
-    {
-      "title": "Mission Drift: The Unspoken Crisis Facing Leaders, Charities, and Churches",
-      "url": "https://www.goodreads.com/book/show/18059817-mission-drift",
-      "id": "25349828",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1389592363i/18059817.jpg",
-      "authors": [
-        "Peter Greer"
-      ],
-      "genres": [
-        "leadership",
-        "christian",
-        "business",
-        "non-fiction",
-        "church",
-        "christianity",
-        "faith"
-      ],
-      "rating": 4.21,
-      "ratings": 552,
-      "reviews": 95
-    },
-    {
-      "title": "The Go-Giver Influencer: A Little Story About a Most Persuasive Idea",
-      "url": "https://www.goodreads.com/book/show/36985858-the-go-giver-influencer",
-      "id": "58791875",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1512612886i/36985858.jpg",
-      "authors": [
-        "Bob Burg"
-      ],
-      "genres": [
-        "business",
-        "personal-development",
-        "self-help",
-        "non-fiction",
-        "leadership",
-        "audiobook",
-        "management"
-      ],
-      "rating": 4.29,
-      "ratings": 550,
-      "reviews": 49
-    },
-    {
-      "title": "How Money Works: The Facts Visually Explained",
-      "url": "https://www.goodreads.com/book/show/30261649-how-money-works",
-      "id": "50734022",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1479687850i/30261649.jpg",
-      "authors": [
-        "Beverly Blair Harzog"
-      ],
-      "genres": [
-        "finance",
-        "non-fiction",
-        "economics",
-        "business",
-        "reference",
         "money",
-        "personal-finance"
-      ],
-      "rating": 4.16,
-      "ratings": 549,
-      "reviews": 80
-    },
-    {
-      "title": "Fear Is Not the Boss of You: How to Get Out of Your Head and Live the Life You Were Made For",
-      "url": "https://www.goodreads.com/book/show/48855889-fear-is-not-the-boss-of-you",
-      "id": "74244975",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1580575358i/48855889.jpg",
-      "authors": [
-        "Jennifer Allwood"
-      ],
-      "genres": [
-        "non-fiction",
-        "self-help",
-        "personal-development",
-        "audiobook",
-        "business",
-        "christian",
-        "christian-living"
-      ],
-      "rating": 4.43,
-      "ratings": 548,
-      "reviews": 98
-    },
-    {
-      "title": "Solving Product Design Exercises: Questions & Answers",
-      "url": "https://www.goodreads.com/book/show/38563044-solving-product-design-exercises",
-      "id": "60177898",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1518901443i/38563044.jpg",
-      "authors": [
-        "Artiom Dashinsky"
-      ],
-      "genres": [
-        "design",
-        "business",
-        "non-fiction",
-        "reference",
-        "management",
-        "science"
-      ],
-      "rating": 4.29,
-      "ratings": 546,
-      "reviews": 71
-    },
-    {
-      "title": "More Joel on Software: Further Thoughts on Diverse and Occasionally Related Matters That Will Prove of Interest to Software Developers, Designers, and ... or Ill Luck, Work with Them in Some Capacity",
-      "url": "https://www.goodreads.com/book/show/2718384-more-joel-on-software",
-      "id": "2743981",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1349082373i/2718384.jpg",
-      "authors": [
-        "Avram Joel Spolsky"
-      ],
-      "genres": [
-        "programming",
-        "computer-science",
-        "business",
-        "technology",
-        "software",
-        "technical",
-        "computers"
-      ],
-      "rating": 4.05,
-      "ratings": 545,
-      "reviews": 34
-    },
-    {
-      "title": "100 to 1 in the Stock Market: A distinguished security analst tells how to make more of your investment opportunities",
-      "url": "https://www.goodreads.com/book/show/25225992-100-to-1-in-the-stock-market",
-      "id": "44941847",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1432906221i/25225992.jpg",
-      "authors": [
-        "Thomas William Phelps"
-      ],
-      "genres": [
         "finance",
         "business",
-        "economics",
-        "non-fiction",
-        "money",
-        "self-help"
-      ],
-      "rating": 4.26,
-      "ratings": 545,
-      "reviews": 48
-    },
-    {
-      "title": "The He-Man Effect: How American Toymakers Sold You Your Childhood",
-      "url": "https://www.goodreads.com/book/show/61484888-the-he-man-effect",
-      "id": "97053803",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1681108146i/61484888.jpg",
-      "authors": [
-        "Brian \"Box\" Brown"
-      ],
-      "genres": [
-        "graphic-novels",
-        "non-fiction",
-        "comics",
-        "history",
-        "business",
-        "pop-culture",
-        "adult"
-      ],
-      "rating": 4.06,
-      "ratings": 545,
-      "reviews": 106
-    },
-    {
-      "title": "The Inspirational Leader: Inspire Your Team To Believe In The Impossible",
-      "url": "https://www.goodreads.com/book/show/44317898-the-inspirational-leader",
-      "id": "68863370",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1552183548i/44317898.jpg",
-      "authors": [
-        "Gifford Thomas"
-      ],
-      "genres": [
-        "leadership",
-        "business",
         "non-fiction",
         "self-help",
-        "management"
+        "religion",
+        "judaism"
       ],
-      "rating": 4.1,
-      "ratings": 545,
-      "reviews": 58
-    },
-    {
-      "title": "Pedigree: How Elite Students Get Elite Jobs",
-      "url": "https://www.goodreads.com/book/show/23528825-pedigree",
-      "id": "43131558",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1416181357i/23528825.jpg",
-      "authors": [
-        "Lauren A. Rivera"
-      ],
-      "genres": [
-        "education",
-        "sociology",
-        "non-fiction",
-        "business",
-        "economics",
-        "class",
-        "social-issues"
-      ],
-      "rating": 4,
-      "ratings": 541,
+      "rating": 4.22,
+      "ratings": 583,
       "reviews": 57
     },
     {
-      "title": "AMAZON FBA Step By Step (2023 Update): A Beginners Guide To Selling On Amazon, Making Money And Finding Products That Turns Into Cash",
-      "url": "https://www.goodreads.com/book/show/25926042-amazon-fba-step-by-step-2023-update",
-      "id": "45817869",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1437133433i/25926042.jpg",
+      "title": "Fix This Next: Pinpoint and Solve Your Company's Biggest Problem",
+      "url": "https://www.goodreads.com/book/show/50748204-fix-this-next",
+      "id": "71475021",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1570442542l/50748204.jpg",
       "authors": [
-        "Red Mikhail"
-      ],
-      "genres": [
-        "amazon",
-        "self-help",
-        "business"
-      ],
-      "rating": 4.09,
-      "ratings": 541,
-      "reviews": 91
-    },
-    {
-      "title": "Dream Golf: The Making of Bandon Dunes, Revised and Expanded",
-      "url": "https://www.goodreads.com/book/show/9284417-dream-golf",
-      "id": "11918490",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1394309078i/9284417.jpg",
-      "authors": [
-        "Stephen Goodwin"
-      ],
-      "genres": [
-        "sports",
-        "non-fiction",
-        "business"
-      ],
-      "rating": 4.44,
-      "ratings": 541,
-      "reviews": 24
-    },
-    {
-      "title": "The Invincible Company: How to Constantly Reinvent Your Organization with Inspiration From the World's Best Business Models",
-      "url": "https://www.goodreads.com/book/show/50043755-the-invincible-company",
-      "id": "71641927",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1585449980i/50043755.jpg",
-      "authors": [
-        "Alexander Osterwalder"
+        "Mike Michalowicz"
       ],
       "genres": [
         "business",
-        "management",
+        "non-fiction",
         "entrepreneurship",
-        "non-fiction",
-        "design",
+        "management",
         "leadership",
-        "buisness"
+        "personal-development",
+        "audiobook"
       ],
-      "rating": 4.32,
-      "ratings": 541,
-      "reviews": 29
+      "rating": 4.24,
+      "ratings": 580,
+      "reviews": 60
     },
     {
-      "title": "First-Time Home Buyer: The Complete Playbook to Avoiding Rookie Mistakes",
-      "url": "https://www.goodreads.com/book/show/51229204-first-time-home-buyer",
-      "id": "71704346",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1597545916i/51229204.jpg",
+      "title": "The Flip Flop CEO",
+      "url": "https://www.goodreads.com/book/show/11597298-the-flip-flop-ceo",
+      "id": "16539333",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1387741731i/11597298.jpg",
       "authors": [
-        "Scott Trench"
+        "Janine Finney"
       ],
       "genres": [
-        "non-fiction",
-        "finance",
-        "self-help",
         "business",
-        "money",
-        "personal-finance"
+        "personal-development",
+        "non-fiction",
+        "self-help"
       ],
-      "rating": 4.49,
-      "ratings": 540,
+      "rating": 4.12,
+      "ratings": 579,
       "reviews": 58
     }
   ]

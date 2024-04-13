@@ -1,6 +1,48 @@
 {
   "books": [
     {
+      "title": "I Read It, but I Don't Get It",
+      "url": "https://www.goodreads.com/book/show/39931.I_Read_It_but_I_Don_t_Get_It",
+      "id": "39633",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388204088i/39931.jpg",
+      "authors": [
+        "Cris Tovani"
+      ],
+      "genres": [
+        "education",
+        "teaching",
+        "non-fiction",
+        "school",
+        "textbooks",
+        "reference",
+        "adult"
+      ],
+      "rating": 4.16,
+      "ratings": 2398,
+      "reviews": 187
+    },
+    {
+      "title": "Molecular Biology of the Cell",
+      "url": "https://www.goodreads.com/book/show/13400.Molecular_Biology_of_the_Cell",
+      "id": "15560",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1436735547i/13400.jpg",
+      "authors": [
+        "Bruce Alberts"
+      ],
+      "genres": [
+        "biology",
+        "science",
+        "textbooks",
+        "non-fiction",
+        "reference",
+        "medicine",
+        "biography"
+      ],
+      "rating": 4.35,
+      "ratings": 2397,
+      "reviews": 140
+    },
+    {
       "title": "Principles of Biochemistry",
       "url": "https://www.goodreads.com/book/show/239513.Principles_of_Biochemistry",
       "id": "232013",
@@ -13,13 +55,34 @@
         "textbooks",
         "biology",
         "chemistry",
-        "medicine",
         "non-fiction",
+        "medicine",
         "reference"
       ],
       "rating": 4.17,
-      "ratings": 2361,
+      "ratings": 2365,
       "reviews": 143
+    },
+    {
+      "title": "Principles of Economics",
+      "url": "https://www.goodreads.com/book/show/1753460.Principles_of_Economics",
+      "id": "1751282",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1387708462i/1753460.jpg",
+      "authors": [
+        "N. Gregory Mankiw"
+      ],
+      "genres": [
+        "economics",
+        "non-fiction",
+        "textbooks",
+        "business",
+        "finance",
+        "academic",
+        "reference"
+      ],
+      "rating": 4.1,
+      "ratings": 2205,
+      "reviews": 132
     },
     {
       "title": "An Introduction to Statistical Learning: with Applications in R",
@@ -39,29 +102,29 @@
         "technical"
       ],
       "rating": 4.59,
-      "ratings": 2159,
+      "ratings": 2170,
       "reviews": 172
     },
     {
-      "title": "When Kids Can't Read: What Teachers Can Do: A Guide for Teachers 6-12",
-      "url": "https://www.goodreads.com/book/show/39929.When_Kids_Can_t_Read",
-      "id": "39631",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1374443024i/39929.jpg",
+      "title": "The Study of Language",
+      "url": "https://www.goodreads.com/book/show/147521.The_Study_of_Language",
+      "id": "142374",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1370634866i/147521.jpg",
       "authors": [
-        "G. Kylene Beers"
+        "George Yule"
       ],
       "genres": [
-        "education",
-        "teaching",
+        "linguistics",
         "non-fiction",
+        "language",
+        "academic",
         "school",
-        "reference",
-        "teachers",
+        "science",
         "textbooks"
       ],
-      "rating": 4.34,
-      "ratings": 2139,
-      "reviews": 189
+      "rating": 4,
+      "ratings": 2167,
+      "reviews": 186
     },
     {
       "title": "Strategies That Work: Teaching Comprehension for Understanding and Engagement",
@@ -81,7 +144,7 @@
         "textbooks"
       ],
       "rating": 4.23,
-      "ratings": 2130,
+      "ratings": 2131,
       "reviews": 81
     },
     {
@@ -102,7 +165,7 @@
         "technical"
       ],
       "rating": 4.06,
-      "ratings": 2102,
+      "ratings": 2108,
       "reviews": 122
     },
     {
@@ -123,8 +186,8 @@
         "reference"
       ],
       "rating": 4.23,
-      "ratings": 2010,
-      "reviews": 87
+      "ratings": 2018,
+      "reviews": 88
     },
     {
       "title": "What Is Mathematics? An Elementary Approach to Ideas and Methods",
@@ -139,13 +202,13 @@
         "science",
         "non-fiction",
         "philosophy",
-        "reference",
         "popular-science",
+        "reference",
         "textbooks"
       ],
       "rating": 4.25,
-      "ratings": 1968,
-      "reviews": 60
+      "ratings": 1977,
+      "reviews": 62
     },
     {
       "title": "Style: Toward Clarity and Grace",
@@ -164,8 +227,8 @@
         "communication",
         "textbooks"
       ],
-      "rating": 4.21,
-      "ratings": 1929,
+      "rating": 4.22,
+      "ratings": 1938,
       "reviews": 183
     },
     {
@@ -186,29 +249,8 @@
         "academic"
       ],
       "rating": 4.11,
-      "ratings": 1898,
+      "ratings": 1901,
       "reviews": 89
-    },
-    {
-      "title": "The Screenwriter's Bible: A Complete Guide to Writing, Formatting, and Selling Your Script",
-      "url": "https://www.goodreads.com/book/show/284761.The_Screenwriter_s_Bible",
-      "id": "276269",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348413885i/284761.jpg",
-      "authors": [
-        "David Trottier"
-      ],
-      "genres": [
-        "writing",
-        "film",
-        "non-fiction",
-        "reference",
-        "textbooks",
-        "unfinished",
-        "how-to"
-      ],
-      "rating": 4.19,
-      "ratings": 1881,
-      "reviews": 108
     },
     {
       "title": "The Key Muscles of Hatha Yoga",
@@ -228,8 +270,29 @@
         "textbooks"
       ],
       "rating": 4.35,
-      "ratings": 1878,
+      "ratings": 1892,
       "reviews": 76
+    },
+    {
+      "title": "The Screenwriter's Bible: A Complete Guide to Writing, Formatting, and Selling Your Script",
+      "url": "https://www.goodreads.com/book/show/284761.The_Screenwriter_s_Bible",
+      "id": "276269",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348413885i/284761.jpg",
+      "authors": [
+        "David Trottier"
+      ],
+      "genres": [
+        "writing",
+        "film",
+        "non-fiction",
+        "reference",
+        "textbooks",
+        "unfinished",
+        "how-to"
+      ],
+      "rating": 4.19,
+      "ratings": 1891,
+      "reviews": 109
     },
     {
       "title": "Deep Learning",
@@ -245,12 +308,12 @@
         "science",
         "programming",
         "technology",
-        "technical",
-        "textbooks"
+        "textbooks",
+        "technical"
       ],
       "rating": 4.43,
-      "ratings": 1861,
-      "reviews": 133
+      "ratings": 1886,
+      "reviews": 136
     },
     {
       "title": "Rapid Interpretation of EKGs",
@@ -270,29 +333,8 @@
         "science"
       ],
       "rating": 4.42,
-      "ratings": 1849,
-      "reviews": 105
-    },
-    {
-      "title": "The Associated Press Stylebook",
-      "url": "https://www.goodreads.com/book/show/98430.The_Associated_Press_Stylebook",
-      "id": "94884",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442887784i/98430.jpg",
-      "authors": [
-        "Norm Goldstein"
-      ],
-      "genres": [
-        "reference",
-        "writing",
-        "non-fiction",
-        "journalism",
-        "language",
-        "textbooks",
-        "business"
-      ],
-      "rating": 4.21,
-      "ratings": 1811,
-      "reviews": 116
+      "ratings": 1869,
+      "reviews": 106
     },
     {
       "title": "Pattern Recognition and Machine Learning",
@@ -312,8 +354,29 @@
         "non-fiction"
       ],
       "rating": 4.32,
-      "ratings": 1806,
+      "ratings": 1817,
       "reviews": 75
+    },
+    {
+      "title": "The Associated Press Stylebook",
+      "url": "https://www.goodreads.com/book/show/98430.The_Associated_Press_Stylebook",
+      "id": "94884",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442887784i/98430.jpg",
+      "authors": [
+        "Norm Goldstein"
+      ],
+      "genres": [
+        "reference",
+        "writing",
+        "non-fiction",
+        "journalism",
+        "language",
+        "textbooks",
+        "business"
+      ],
+      "rating": 4.22,
+      "ratings": 1811,
+      "reviews": 116
     },
     {
       "title": "Principles of Mathematical Analysis",
@@ -333,8 +396,29 @@
         "technical"
       ],
       "rating": 4.29,
-      "ratings": 1777,
-      "reviews": 97
+      "ratings": 1790,
+      "reviews": 96
+    },
+    {
+      "title": "Quantum Mechanics: The Theoretical Minimum",
+      "url": "https://www.goodreads.com/book/show/18210750-quantum-mechanics",
+      "id": "25632095",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1391609128i/18210750.jpg",
+      "authors": [
+        "Leonard Susskind"
+      ],
+      "genres": [
+        "science",
+        "physics",
+        "non-fiction",
+        "quantum-mechanics",
+        "mathematics",
+        "popular-science",
+        "textbooks"
+      ],
+      "rating": 4.32,
+      "ratings": 1788,
+      "reviews": 164
     },
     {
       "title": "The Elements of Statistical Learning: Data Mining, Inference, and Prediction",
@@ -354,29 +438,8 @@
         "artificial-intelligence"
       ],
       "rating": 4.43,
-      "ratings": 1764,
+      "ratings": 1774,
       "reviews": 60
-    },
-    {
-      "title": "Quantum Mechanics: The Theoretical Minimum",
-      "url": "https://www.goodreads.com/book/show/18210750-quantum-mechanics",
-      "id": "25632095",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1391609128i/18210750.jpg",
-      "authors": [
-        "Leonard Susskind"
-      ],
-      "genres": [
-        "science",
-        "physics",
-        "non-fiction",
-        "quantum-mechanics",
-        "mathematics",
-        "popular-science",
-        "textbooks"
-      ],
-      "rating": 4.33,
-      "ratings": 1747,
-      "reviews": 162
     },
     {
       "title": "The Reading Strategies Book: Your Everything Guide to Developing Skilled Readers",
@@ -393,10 +456,10 @@
         "school",
         "textbooks",
         "adult",
-        "teachers"
+        "read-for-school"
       ],
       "rating": 4.62,
-      "ratings": 1740,
+      "ratings": 1752,
       "reviews": 124
     },
     {
@@ -417,8 +480,8 @@
         "textbooks"
       ],
       "rating": 4.23,
-      "ratings": 1726,
-      "reviews": 166
+      "ratings": 1735,
+      "reviews": 167
     },
     {
       "title": "Genki I: An Integrated Course in Elementary Japanese",
@@ -435,74 +498,11 @@
         "japan",
         "reference",
         "textbooks",
-        "school"
+        "linguistics"
       ],
-      "rating": 4.32,
-      "ratings": 1681,
-      "reviews": 131
-    },
-    {
-      "title": "The Feynman Lectures on Physics Vol 1",
-      "url": "https://www.goodreads.com/book/show/17278.The_Feynman_Lectures_on_Physics_Vol_1",
-      "id": "9610179",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347350001i/17278.jpg",
-      "authors": [
-        "Richard P. Feynman"
-      ],
-      "genres": [
-        "physics",
-        "science",
-        "non-fiction",
-        "reference",
-        "textbooks",
-        "mathematics",
-        "education"
-      ],
-      "rating": 4.62,
-      "ratings": 1664,
-      "reviews": 69
-    },
-    {
-      "title": "The Princeton Companion to Mathematics",
-      "url": "https://www.goodreads.com/book/show/1471873.The_Princeton_Companion_to_Mathematics",
-      "id": "1462842",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1405939637i/1471873.jpg",
-      "authors": [
-        "Timothy Gowers"
-      ],
-      "genres": [
-        "mathematics",
-        "science",
-        "reference",
-        "non-fiction",
-        "textbooks",
-        "computer-science",
-        "education"
-      ],
-      "rating": 4.41,
-      "ratings": 1626,
-      "reviews": 42
-    },
-    {
-      "title": "Discovering Statistics Using SPSS",
-      "url": "https://www.goodreads.com/book/show/339991.Discovering_Statistics_Using_SPSS",
-      "id": "330378",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1173886395i/339991.jpg",
-      "authors": [
-        "Andy Field"
-      ],
-      "genres": [
-        "psychology",
-        "non-fiction",
-        "science",
-        "textbooks",
-        "research",
-        "reference",
-        "school"
-      ],
-      "rating": 4.17,
-      "ratings": 1601,
-      "reviews": 128
+      "rating": 4.31,
+      "ratings": 1690,
+      "reviews": 130
     }
   ]
 }

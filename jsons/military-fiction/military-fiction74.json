@@ -1,94 +1,426 @@
 {
   "books": [
     {
-      "title": "Garrett",
-      "url": "https://www.goodreads.com/book/show/61380401-garrett",
-      "id": "96826776",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1656734500i/61380401.jpg",
+      "title": "Great Siege: Malta 1565",
+      "url": "https://www.goodreads.com/book/show/371301.Great_Siege",
+      "id": "2554930",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1391891342i/371301.jpg",
+      "authors": [
+        "Ernle Bradford"
+      ],
+      "genres": [
+        "history",
+        "non-fiction",
+        "war",
+        "military-history",
+        "military-fiction",
+        "historical",
+        "european-history"
+      ],
+      "rating": 4.38,
+      "ratings": 2359,
+      "reviews": 274
+    },
+    {
+      "title": "Hot Package",
+      "url": "https://www.goodreads.com/book/show/20320364-hot-package",
+      "id": "28161259",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1632237207i/20320364.jpg",
+      "authors": [
+        "Lynn Raye Harris"
+      ],
+      "genres": [
+        "military-fiction",
+        "romantic-suspense",
+        "romance",
+        "novella",
+        "contemporary-romance",
+        "contemporary",
+        "suspense"
+      ],
+      "rating": 4.17,
+      "ratings": 2358,
+      "reviews": 195
+    },
+    {
+      "title": "Sin's Enticement",
+      "url": "https://www.goodreads.com/book/show/57905019-sin-s-enticement",
+      "id": "90715607",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1619823695i/57905019.jpg",
+      "authors": [
+        "Ciara St. James"
+      ],
+      "genres": [
+        "romance",
+        "contemporary",
+        "erotica",
+        "military-fiction",
+        "contemporary-romance",
+        "crime",
+        "mystery"
+      ],
+      "rating": 4.39,
+      "ratings": 2355,
+      "reviews": 168
+    },
+    {
+      "title": "Collateral",
+      "url": "https://www.goodreads.com/book/show/50723564-collateral",
+      "id": "75755665",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1585453720i/50723564.jpg",
+      "authors": [
+        "Brian  Andrews"
+      ],
+      "genres": [
+        "thriller",
+        "fiction",
+        "military-fiction",
+        "audiobook",
+        "suspense",
+        "action",
+        "adult"
+      ],
+      "rating": 4.55,
+      "ratings": 2352,
+      "reviews": 138
+    },
+    {
+      "title": "Hell on Wheels",
+      "url": "https://www.goodreads.com/book/show/45482479-hell-on-wheels",
+      "id": "70908013",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1564900294i/45482479.jpg",
+      "authors": [
+        "Penny Dee"
+      ],
+      "genres": [
+        "romance",
+        "contemporary",
+        "contemporary-romance",
+        "military-fiction",
+        "suspense",
+        "erotica",
+        "crime"
+      ],
+      "rating": 4.37,
+      "ratings": 2352,
+      "reviews": 260
+    },
+    {
+      "title": "The Ruins of Anthalas",
+      "url": "https://www.goodreads.com/book/show/26797891-the-ruins-of-anthalas",
+      "id": "46820681",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442916375i/26797891.jpg",
+      "authors": [
+        "Richard Fox"
+      ],
+      "genres": [
+        "science-fiction",
+        "space-opera",
+        "fiction",
+        "military-fiction",
+        "aliens",
+        "audiobook",
+        "space"
+      ],
+      "rating": 4.08,
+      "ratings": 2348,
+      "reviews": 78
+    },
+    {
+      "title": "Cooper",
+      "url": "https://www.goodreads.com/book/show/60177392-cooper",
+      "id": "94912045",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1642803178i/60177392.jpg",
       "authors": [
         "Riley Edwards"
       ],
       "genres": [
+        "romantic-suspense",
         "military-fiction",
+        "romance",
+        "suspense",
+        "military-romance"
+      ],
+      "rating": 4.65,
+      "ratings": 2346,
+      "reviews": 175
+    },
+    {
+      "title": "Depends On Who's Asking",
+      "url": "https://www.goodreads.com/book/show/49254684-depends-on-who-s-asking",
+      "id": "74698651",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1576446194i/49254684.jpg",
+      "authors": [
+        "Lani Lynn Vale"
+      ],
+      "genres": [
+        "romance",
+        "contemporary",
+        "contemporary-romance",
+        "suspense",
+        "romantic-suspense",
+        "military-fiction",
+        "police"
+      ],
+      "rating": 4.41,
+      "ratings": 2344,
+      "reviews": 197
+    },
+    {
+      "title": "Hot Pursuit",
+      "url": "https://www.goodreads.com/book/show/31676242-hot-pursuit",
+      "id": "52345318",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1490809329i/31676242.jpg",
+      "authors": [
+        "Julie Ann Walker"
+      ],
+      "genres": [
         "romance",
         "romantic-suspense",
         "suspense",
-        "contemporary-romance"
+        "contemporary",
+        "military-fiction",
+        "contemporary-romance",
+        "fiction"
       ],
-      "rating": 4.63,
-      "ratings": 2157,
-      "reviews": 143
+      "rating": 4.11,
+      "ratings": 2342,
+      "reviews": 317
     },
     {
-      "title": "Glory Road",
-      "url": "https://www.goodreads.com/book/show/770515.Glory_Road",
-      "id": "788859",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1338536886i/770515.jpg",
+      "title": "Holden's Resurrection",
+      "url": "https://www.goodreads.com/book/show/53430863-holden-s-resurrection",
+      "id": "83016799",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1589748826i/53430863.jpg",
       "authors": [
-        "Bruce Catton"
+        "Riley Edwards"
       ],
       "genres": [
-        "history",
-        "civil-war",
-        "non-fiction",
-        "american-civil-war",
-        "war",
-        "american-history",
+        "romance",
+        "romantic-suspense",
+        "suspense",
+        "military-romance",
+        "military-fiction",
+        "contemporary",
+        "action"
+      ],
+      "rating": 4.57,
+      "ratings": 2341,
+      "reviews": 231
+    },
+    {
+      "title": "Song of Darkness",
+      "url": "https://www.goodreads.com/book/show/66086829-song-of-darkness",
+      "id": "100151360",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1670893415i/66086829.jpg",
+      "authors": [
+        "J.N. Chaney"
+      ],
+      "genres": [
+        "science-fiction",
+        "military-fiction",
+        "space-opera"
+      ],
+      "rating": 4.64,
+      "ratings": 2337,
+      "reviews": 64
+    },
+    {
+      "title": "What You See",
+      "url": "https://www.goodreads.com/book/show/56070910-what-you-see",
+      "id": "86651192",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1606571018i/56070910.jpg",
+      "authors": [
+        "Cherise Sinclair"
+      ],
+      "genres": [
+        "romance",
+        "romantic-suspense",
+        "contemporary",
+        "contemporary-romance",
+        "military-fiction",
+        "suspense",
+        "erotica"
+      ],
+      "rating": 4.51,
+      "ratings": 2336,
+      "reviews": 241
+    },
+    {
+      "title": "Q-Ship Chameleon",
+      "url": "https://www.goodreads.com/book/show/32800665-q-ship-chameleon",
+      "id": "53396787",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1477670300i/32800665.jpg",
+      "authors": [
+        "Glynn Stewart"
+      ],
+      "genres": [
+        "science-fiction",
+        "space-opera",
+        "military-fiction",
+        "military-science-fiction",
+        "fiction",
+        "science-fiction-fantasy",
+        "fantasy"
+      ],
+      "rating": 4.27,
+      "ratings": 2336,
+      "reviews": 69
+    },
+    {
+      "title": "Blood Reaver",
+      "url": "https://www.goodreads.com/book/show/8755565-blood-reaver",
+      "id": "13569933",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1282309983i/8755565.jpg",
+      "authors": [
+        "Aaron Dembski-Bowden"
+      ],
+      "genres": [
+        "40k",
+        "science-fiction",
+        "fiction",
+        "fantasy",
+        "audiobook",
+        "horror",
         "military-fiction"
       ],
-      "rating": 4.43,
-      "ratings": 2155,
-      "reviews": 112
+      "rating": 4.38,
+      "ratings": 2335,
+      "reviews": 88
     },
     {
-      "title": "Raven One",
-      "url": "https://www.goodreads.com/book/show/36047413-raven-one",
-      "id": "42067783",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1502824733i/36047413.jpg",
+      "title": "The Sand Pebbles",
+      "url": "https://www.goodreads.com/book/show/815854.The_Sand_Pebbles",
+      "id": "801776",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348198951i/815854.jpg",
       "authors": [
-        "Kevin  Miller"
+        "Richard McKenna"
       ],
       "genres": [
+        "historical-fiction",
         "fiction",
-        "thriller",
-        "military-fiction",
+        "china",
         "war",
-        "action",
-        "aviation",
-        "aircraft"
+        "classics",
+        "military-fiction",
+        "asia"
       ],
-      "rating": 4.39,
-      "ratings": 2155,
-      "reviews": 156
+      "rating": 4.26,
+      "ratings": 2333,
+      "reviews": 140
     },
     {
-      "title": "Against All Odds: A True Story of Ultimate Courage and Survival in World War II",
-      "url": "https://www.goodreads.com/book/show/58537359-against-all-odds",
-      "id": "91968375",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1627896383i/58537359.jpg",
+      "title": "Deserving Henley",
+      "url": "https://www.goodreads.com/book/show/60021000-deserving-henley",
+      "id": "94616831",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1641233530i/60021000.jpg",
       "authors": [
-        "Alex Kershaw"
+        "Susan Stoker"
       ],
       "genres": [
-        "history",
-        "non-fiction",
-        "world-war-ii",
+        "romance",
         "military-fiction",
-        "war",
-        "biography",
-        "military-history"
+        "romantic-suspense",
+        "military-romance",
+        "contemporary",
+        "suspense",
+        "contemporary-romance"
       ],
-      "rating": 4.33,
-      "ratings": 2153,
-      "reviews": 193
+      "rating": 4.48,
+      "ratings": 2333,
+      "reviews": 169
     },
     {
-      "title": "The Hinge of Fate",
-      "url": "https://www.goodreads.com/book/show/25592.The_Hinge_of_Fate",
-      "id": "837890",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1567697096i/25592.jpg",
+      "title": "Daddy's Angel",
+      "url": "https://www.goodreads.com/book/show/53472641-daddy-s-angel",
+      "id": "83592196",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1590620179i/53472641.jpg",
       "authors": [
-        "Winston S. Churchill"
+        "Laylah Roberts"
+      ],
+      "genres": [
+        "bdsm",
+        "romance",
+        "contemporary",
+        "erotica",
+        "military-fiction",
+        "contemporary-romance",
+        "m-f-romance"
+      ],
+      "rating": 4.4,
+      "ratings": 2331,
+      "reviews": 152
+    },
+    {
+      "title": "Mine to Protect",
+      "url": "https://www.goodreads.com/book/show/51534784-mine-to-protect",
+      "id": "67599688",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1582323531i/51534784.jpg",
+      "authors": [
+        "Kennedy L. Mitchell"
+      ],
+      "genres": [
+        "romantic-suspense",
+        "romance",
+        "suspense",
+        "mystery",
+        "military-fiction",
+        "contemporary",
+        "dark"
+      ],
+      "rating": 4.31,
+      "ratings": 2330,
+      "reviews": 340
+    },
+    {
+      "title": "Silent Threat",
+      "url": "https://www.goodreads.com/book/show/35073715-silent-threat",
+      "id": "56371177",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1503366970i/35073715.jpg",
+      "authors": [
+        "Dana Marton"
+      ],
+      "genres": [
+        "romantic-suspense",
+        "romance",
+        "military-fiction",
+        "contemporary",
+        "suspense",
+        "mystery",
+        "thriller"
+      ],
+      "rating": 4.12,
+      "ratings": 2330,
+      "reviews": 280
+    },
+    {
+      "title": "Stacking the Deck",
+      "url": "https://www.goodreads.com/book/show/44300880-stacking-the-deck",
+      "id": "68830986",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1593148191i/44300880.jpg",
+      "authors": [
+        "Charlie Cochet"
+      ],
+      "genres": [
+        "m-m-romance",
+        "romance",
+        "contemporary",
+        "military-fiction",
+        "mystery",
+        "suspense",
+        "lgbt"
+      ],
+      "rating": 4.22,
+      "ratings": 2329,
+      "reviews": 282
+    },
+    {
+      "title": "Iron Coffins: A Personal Account of the German U-boat Battles of World War II",
+      "url": "https://www.goodreads.com/book/show/1053319.Iron_Coffins",
+      "id": "1039808",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347585658i/1053319.jpg",
+      "authors": [
+        "Herbert A. Werner"
       ],
       "genres": [
         "history",
@@ -99,405 +431,72 @@
         "military-fiction",
         "biography"
       ],
-      "rating": 4.42,
-      "ratings": 2152,
-      "reviews": 96
-    },
-    {
-      "title": "Axios: A Spartan Tale",
-      "url": "https://www.goodreads.com/book/show/35699997-axios",
-      "id": "57192633",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1500392706i/35699997.jpg",
-      "authors": [
-        "Jaclyn Osborn"
-      ],
-      "genres": [
-        "historical",
-        "m-m-romance",
-        "romance",
-        "historical-fiction",
-        "lgbt",
-        "historical-romance",
-        "military-fiction"
-      ],
       "rating": 4.34,
-      "ratings": 2149,
-      "reviews": 582
+      "ratings": 2329,
+      "reviews": 161
     },
     {
-      "title": "Savage Hunger",
-      "url": "https://www.goodreads.com/book/show/44432589-savage-hunger",
-      "id": "68996890",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1562885447i/44432589.jpg",
+      "title": "Take A Chance With Me",
+      "url": "https://www.goodreads.com/book/show/58652550-take-a-chance-with-me",
+      "id": "92260825",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1630589226i/58652550.jpg",
       "authors": [
-        "Lisa Renee Jones"
+        "Kristen Proby"
       ],
       "genres": [
         "romance",
         "contemporary-romance",
-        "suspense",
         "contemporary",
-        "romantic-suspense",
-        "abuse",
-        "military-fiction"
+        "military-fiction",
+        "audiobook",
+        "irish-literature",
+        "fiction"
       ],
-      "rating": 4.13,
-      "ratings": 2149,
-      "reviews": 389
+      "rating": 4.39,
+      "ratings": 2326,
+      "reviews": 244
     },
     {
-      "title": "Traitors of Rome",
-      "url": "https://www.goodreads.com/book/show/43450333-traitors-of-rome",
-      "id": "67555445",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1564627032i/43450333.jpg",
+      "title": "Charlie Foxtrot 101",
+      "url": "https://www.goodreads.com/book/show/59870615-charlie-foxtrot-101",
+      "id": "94292857",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1640015062i/59870615.jpg",
       "authors": [
-        "Simon Scarrow"
+        "Martha Carr"
       ],
       "genres": [
-        "historical-fiction",
-        "fiction",
-        "historical",
-        "roman",
-        "adventure",
+        "fantasy",
+        "urban-fantasy",
+        "paranormal",
         "military-fiction",
+        "magic",
+        "supernatural",
+        "action"
+      ],
+      "rating": 4.41,
+      "ratings": 2326,
+      "reviews": 83
+    },
+    {
+      "title": "Masters of War",
+      "url": "https://www.goodreads.com/book/show/18890878-masters-of-war",
+      "id": "25749563",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1385163216i/18890878.jpg",
+      "authors": [
+        "Chris Ryan"
+      ],
+      "genres": [
+        "fiction",
+        "thriller",
+        "military-fiction",
+        "audiobook",
+        "action",
+        "espionage",
         "war"
       ],
-      "rating": 4.4,
-      "ratings": 2147,
-      "reviews": 100
-    },
-    {
-      "title": "When I Die I'm Going to Heaven 'Cause I've Spent My Time in Hell: A Memoir of My Year As an Army Nurse in Vietnam",
-      "url": "https://www.goodreads.com/book/show/40170949-when-i-die-i-m-going-to-heaven-cause-i-ve-spent-my-time-in-hell",
-      "id": "62316244",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1526687300i/40170949.jpg",
-      "authors": [
-        "Barbara Kautz"
-      ],
-      "genres": [
-        "non-fiction",
-        "history",
-        "memoir",
-        "biography",
-        "military-fiction",
-        "autobiography",
-        "medical"
-      ],
-      "rating": 4.13,
-      "ratings": 2146,
-      "reviews": 170
-    },
-    {
-      "title": "The Skipper's Dog's Called Stalin",
-      "url": "https://www.goodreads.com/book/show/27640829-the-skipper-s-dog-s-called-stalin",
-      "id": "47336280",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1458240386i/27640829.jpg",
-      "authors": [
-        "David            Black"
-      ],
-      "genres": [
-        "military-fiction",
-        "war",
-        "historical-fiction",
-        "fiction",
-        "historical",
-        "world-war-ii",
-        "novels"
-      ],
-      "rating": 4.3,
-      "ratings": 2144,
-      "reviews": 60
-    },
-    {
-      "title": "Counterfeit Relations",
-      "url": "https://www.goodreads.com/book/show/50998349-counterfeit-relations",
-      "id": "75400466",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1580844396i/50998349.jpg",
-      "authors": [
-        "Jemma Westbrook"
-      ],
-      "genres": [
-        "romance",
-        "suspense",
-        "military-fiction",
-        "adventure",
-        "action",
-        "romantic-suspense",
-        "contemporary-romance"
-      ],
-      "rating": 4.45,
-      "ratings": 2143,
-      "reviews": 101
-    },
-    {
-      "title": "Oliver",
-      "url": "https://www.goodreads.com/book/show/58342406-oliver",
-      "id": "91481293",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1623699466i/58342406.jpg",
-      "authors": [
-        "Nyssa Kathryn"
-      ],
-      "genres": [
-        "romance",
-        "military-fiction",
-        "contemporary-romance",
-        "contemporary",
-        "romantic-suspense",
-        "mystery",
-        "military-romance"
-      ],
-      "rating": 4.47,
-      "ratings": 2142,
-      "reviews": 114
-    },
-    {
-      "title": "Edge World",
-      "url": "https://www.goodreads.com/book/show/55630633-edge-world",
-      "id": "86753031",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1602457839i/55630633.jpg",
-      "authors": [
-        "B.V. Larson"
-      ],
-      "genres": [
-        "science-fiction",
-        "space-opera",
-        "military-science-fiction",
-        "military-fiction"
-      ],
-      "rating": 4.44,
-      "ratings": 2140,
-      "reviews": 110
-    },
-    {
-      "title": "This Green Hell",
-      "url": "https://www.goodreads.com/book/show/10803892-this-green-hell",
-      "id": "15717279",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1300319439i/10803892.jpg",
-      "authors": [
-        "Greig Beck"
-      ],
-      "genres": [
-        "thriller",
-        "horror",
-        "adventure",
-        "science-fiction",
-        "fiction",
-        "military-fiction",
-        "action"
-      ],
-      "rating": 4.1,
-      "ratings": 2140,
-      "reviews": 134
-    },
-    {
-      "title": "The Fleet at Flood Tide: America at Total War in the Pacific, 1944-1945",
-      "url": "https://www.goodreads.com/book/show/28952689-the-fleet-at-flood-tide",
-      "id": "49177739",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1468516635i/28952689.jpg",
-      "authors": [
-        "James D. Hornfischer"
-      ],
-      "genres": [
-        "history",
-        "non-fiction",
-        "world-war-ii",
-        "military-history",
-        "military-fiction",
-        "war",
-        "american-history"
-      ],
-      "rating": 4.47,
-      "ratings": 2139,
-      "reviews": 266
-    },
-    {
-      "title": "Wayward Galaxy",
-      "url": "https://www.goodreads.com/book/show/55259808-wayward-galaxy",
-      "id": "86168427",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1599493721i/55259808.jpg",
-      "authors": [
-        "Jason Anspach"
-      ],
-      "genres": [
-        "science-fiction",
-        "audiobook",
-        "fiction",
-        "military-fiction",
-        "science-fiction-fantasy",
-        "space",
-        "fantasy"
-      ],
-      "rating": 4.24,
-      "ratings": 2139,
-      "reviews": 163
-    },
-    {
-      "title": "Patrick O'Brian's Navy: The Illustrated Companion to Jack Aubrey's World",
-      "url": "https://www.goodreads.com/book/show/24519.Patrick_O_Brian_s_Navy",
-      "id": "25369",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388184239i/24519.jpg",
-      "authors": [
-        "Richard O'Neill"
-      ],
-      "genres": [
-        "history",
-        "non-fiction",
-        "reference",
-        "historical",
-        "military-fiction",
-        "naval-history",
-        "maritime"
-      ],
-      "rating": 4.24,
-      "ratings": 2137,
-      "reviews": 35
-    },
-    {
-      "title": "Evermore",
-      "url": "https://www.goodreads.com/book/show/25259072-evermore",
-      "id": "44981527",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1538137512i/25259072.jpg",
-      "authors": [
-        "Corinne Michaels"
-      ],
-      "genres": [
-        "romance",
-        "novella",
-        "military-fiction",
-        "contemporary-romance",
-        "audiobook",
-        "contemporary",
-        "romantic-suspense"
-      ],
-      "rating": 4.26,
-      "ratings": 2133,
-      "reviews": 282
-    },
-    {
-      "title": "Ascendant",
-      "url": "https://www.goodreads.com/book/show/35839978-ascendant",
-      "id": "57349108",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1504627846i/35839978.jpg",
-      "authors": [
-        "Jack Campbell"
-      ],
-      "genres": [
-        "science-fiction",
-        "space-opera",
-        "fiction",
-        "military-fiction",
-        "military-science-fiction",
-        "audiobook",
-        "action"
-      ],
-      "rating": 4.19,
-      "ratings": 2133,
-      "reviews": 148
-    },
-    {
-      "title": "BFF'ed",
-      "url": "https://www.goodreads.com/book/show/35406932-bff-ed",
-      "id": "56778256",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1497186715i/35406932.jpg",
-      "authors": [
-        "Kate Aster"
-      ],
-      "genres": [
-        "romance",
-        "contemporary",
-        "military-fiction",
-        "contemporary-romance",
-        "amazon",
-        "adult",
-        "novella"
-      ],
-      "rating": 4.05,
-      "ratings": 2133,
-      "reviews": 199
-    },
-    {
-      "title": "The Bullet Garden",
-      "url": "https://www.goodreads.com/book/show/61311069-the-bullet-garden",
-      "id": "96610932",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1655555849i/61311069.jpg",
-      "authors": [
-        "Stephen Hunter"
-      ],
-      "genres": [
-        "historical-fiction",
-        "thriller",
-        "fiction",
-        "mystery",
-        "military-fiction",
-        "war",
-        "historical"
-      ],
-      "rating": 4.38,
-      "ratings": 2130,
-      "reviews": 167
-    },
-    {
-      "title": "Pull You Through",
-      "url": "https://www.goodreads.com/book/show/39666991-pull-you-through",
-      "id": "61246637",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1526006949i/39666991.jpg",
-      "authors": [
-        "Kaylee Ryan"
-      ],
-      "genres": [
-        "military-fiction",
-        "romance",
-        "contemporary",
-        "new-adult",
-        "contemporary-romance",
-        "military-romance",
-        "college"
-      ],
-      "rating": 4.2,
-      "ratings": 2130,
-      "reviews": 294
-    },
-    {
-      "title": "Men Of Honor Series Box Set",
-      "url": "https://www.goodreads.com/book/show/25769516-men-of-honor-series-box-set",
-      "id": "45508300",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1435369626i/25769516.jpg",
-      "authors": [
-        "K.C. Lynn"
-      ],
-      "genres": [
-        "romance",
-        "military-fiction",
-        "contemporary",
-        "contemporary-romance",
-        "amazon",
-        "romantic-suspense",
-        "military-romance"
-      ],
-      "rating": 4.63,
-      "ratings": 2129,
-      "reviews": 212
-    },
-    {
-      "title": "Countdown to Midnight",
-      "url": "https://www.goodreads.com/book/show/58842711-countdown-to-midnight",
-      "id": "92676964",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1639376539i/58842711.jpg",
-      "authors": [
-        "Dale Brown"
-      ],
-      "genres": [
-        "fiction",
-        "thriller",
-        "action",
-        "military-fiction",
-        "audiobook",
-        "mystery-thriller",
-        "spy-thriller"
-      ],
-      "rating": 4.33,
-      "ratings": 2126,
-      "reviews": 124
+      "rating": 4.15,
+      "ratings": 2325,
+      "reviews": 76
     }
   ]
 }

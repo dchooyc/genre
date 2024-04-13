@@ -1,69 +1,395 @@
 {
   "books": [
     {
-      "title": "The Killing Parade:",
-      "url": "https://www.goodreads.com/book/show/63211444-the-killing-parade",
-      "id": "96197776",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1667468434i/63211444.jpg",
+      "title": "Ripcord",
+      "url": "https://www.goodreads.com/book/show/53543552-ripcord",
+      "id": "83877004",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1590640390i/53543552.jpg",
       "authors": [
-        "T.G. Reid"
+        "Scott Pratt"
+      ],
+      "genres": [
+        "thriller"
+      ],
+      "rating": 4.32,
+      "ratings": 3339,
+      "reviews": 72
+    },
+    {
+      "title": "Playing Dead",
+      "url": "https://www.goodreads.com/book/show/2689068-playing-dead",
+      "id": "2714394",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1431391945i/2689068.jpg",
+      "authors": [
+        "Allison Brennan"
+      ],
+      "genres": [
+        "romantic-suspense",
+        "suspense",
+        "mystery",
+        "romance",
+        "thriller",
+        "mystery-thriller",
+        "fiction"
+      ],
+      "rating": 4.19,
+      "ratings": 3337,
+      "reviews": 136
+    },
+    {
+      "title": "Open Season",
+      "url": "https://www.goodreads.com/book/show/58020731-open-season",
+      "id": "90927104",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1620794580i/58020731.jpg",
+      "authors": [
+        "Cameron Curtis"
+      ],
+      "genres": [
+        "thriller",
+        "mystery"
+      ],
+      "rating": 4.44,
+      "ratings": 3335,
+      "reviews": 77
+    },
+    {
+      "title": "Kildar",
+      "url": "https://www.goodreads.com/book/show/528361.Kildar",
+      "id": "516102",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347518033i/528361.jpg",
+      "authors": [
+        "John Ringo"
+      ],
+      "genres": [
+        "military-fiction",
+        "fiction",
+        "science-fiction",
+        "thriller",
+        "action",
+        "adventure",
+        "war"
+      ],
+      "rating": 4.2,
+      "ratings": 3335,
+      "reviews": 75
+    },
+    {
+      "title": "Shooting at Loons",
+      "url": "https://www.goodreads.com/book/show/457782.Shooting_at_Loons",
+      "id": "403212",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388795305i/457782.jpg",
+      "authors": [
+        "Margaret Maron"
+      ],
+      "genres": [
+        "mystery",
+        "fiction",
+        "mystery-thriller",
+        "southern",
+        "cozy-mystery",
+        "crime",
+        "thriller"
+      ],
+      "rating": 4.01,
+      "ratings": 3334,
+      "reviews": 163
+    },
+    {
+      "title": "The Other Side Of The Wall",
+      "url": "https://www.goodreads.com/book/show/35161615-the-other-side-of-the-wall",
+      "id": "56490800",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1495051541i/35161615.jpg",
+      "authors": [
+        "Andrea Mara"
+      ],
+      "genres": [
+        "mystery",
+        "thriller",
+        "fiction",
+        "psychological-thriller",
+        "suspense",
+        "adult",
+        "irish-literature"
+      ],
+      "rating": 4.06,
+      "ratings": 3334,
+      "reviews": 203
+    },
+    {
+      "title": "Girl, Hunted",
+      "url": "https://www.goodreads.com/book/show/56184039-girl-hunted",
+      "id": "87519371",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1607287659i/56184039.jpg",
+      "authors": [
+        "Blake Pierce"
+      ],
+      "genres": [
+        "mystery",
+        "thriller",
+        "audiobook",
+        "fiction",
+        "mystery-thriller",
+        "crime",
+        "suspense"
+      ],
+      "rating": 4.04,
+      "ratings": 3333,
+      "reviews": 133
+    },
+    {
+      "title": "Far Gone",
+      "url": "https://www.goodreads.com/book/show/53930154-far-gone",
+      "id": "84293439",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1605184578i/53930154.jpg",
+      "authors": [
+        "Danielle Girard"
+      ],
+      "genres": [
+        "mystery",
+        "thriller",
+        "fiction",
+        "suspense",
+        "crime",
+        "mystery-thriller",
+        "contemporary"
+      ],
+      "rating": 4.42,
+      "ratings": 3333,
+      "reviews": 323
+    },
+    {
+      "title": "Sovereign",
+      "url": "https://www.goodreads.com/book/show/12959176-sovereign",
+      "id": "18116554",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1319576617i/12959176.jpg",
+      "authors": [
+        "Ted Dekker"
+      ],
+      "genres": [
+        "christian-fiction",
+        "fantasy",
+        "fiction",
+        "christian",
+        "dystopia",
+        "science-fiction",
+        "thriller"
+      ],
+      "rating": 4.08,
+      "ratings": 3331,
+      "reviews": 225
+    },
+    {
+      "title": "I Remember You",
+      "url": "https://www.goodreads.com/book/show/59948885-i-remember-you",
+      "id": "94450130",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1644106193i/59948885.jpg",
+      "authors": [
+        "Brian Freeman"
+      ],
+      "genres": [
+        "thriller",
+        "mystery",
+        "fiction",
+        "audiobook",
+        "mystery-thriller",
+        "science-fiction",
+        "suspense"
+      ],
+      "rating": 4.07,
+      "ratings": 3330,
+      "reviews": 320
+    },
+    {
+      "title": "One Perfect Grave",
+      "url": "https://www.goodreads.com/book/show/55767592-one-perfect-grave",
+      "id": "86974559",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1603403005i/55767592.jpg",
+      "authors": [
+        "Stacy Green"
+      ],
+      "genres": [
+        "thriller",
+        "mystery",
+        "crime",
+        "fiction",
+        "mystery-thriller",
+        "suspense",
+        "murder-mystery"
+      ],
+      "rating": 4.4,
+      "ratings": 3329,
+      "reviews": 242
+    },
+    {
+      "title": "Pitch Black",
+      "url": "https://www.goodreads.com/book/show/49988806-pitch-black",
+      "id": "47854430",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1563822211l/49988806.jpg",
+      "authors": [
+        "Elise Noble"
+      ],
+      "genres": [
+        "romance",
+        "mystery",
+        "suspense",
+        "thriller",
+        "romantic-suspense",
+        "contemporary",
+        "fiction"
+      ],
+      "rating": 4.24,
+      "ratings": 3327,
+      "reviews": 298
+    },
+    {
+      "title": "Black Widow",
+      "url": "https://www.goodreads.com/book/show/18951114-black-widow",
+      "id": "26961904",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1385422198i/18951114.jpg",
+      "authors": [
+        "Victor Methos"
+      ],
+      "genres": [
+        "thriller",
+        "mystery",
+        "crime",
+        "fiction"
+      ],
+      "rating": 4.29,
+      "ratings": 3326,
+      "reviews": 71
+    },
+    {
+      "title": "The Killing Habit",
+      "url": "https://www.goodreads.com/book/show/36601511-the-killing-habit",
+      "id": "58354339",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1516366289i/36601511.jpg",
+      "authors": [
+        "Mark Billingham"
       ],
       "genres": [
         "crime",
         "mystery",
-        "thriller",
-        "scotland",
         "fiction",
-        "suspense"
+        "thriller",
+        "detective",
+        "suspense",
+        "audiobook"
       ],
-      "rating": 4.45,
-      "ratings": 2922,
-      "reviews": 68
+      "rating": 4.13,
+      "ratings": 3325,
+      "reviews": 281
     },
     {
-      "title": "Critical Mass",
-      "url": "https://www.goodreads.com/book/show/60149528-critical-mass",
-      "id": "94147021",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1663513598i/60149528.jpg",
+      "title": "Dead Silent",
+      "url": "https://www.goodreads.com/book/show/25997447-dead-silent",
+      "id": "45906458",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1440584856i/25997447.jpg",
       "authors": [
-        "Daniel Suarez"
-      ],
-      "genres": [
-        "science-fiction",
-        "fiction",
-        "space",
-        "thriller",
-        "audiobook",
-        "technology",
-        "fantasy"
-      ],
-      "rating": 4.2,
-      "ratings": 2921,
-      "reviews": 266
-    },
-    {
-      "title": "This Little Piggy",
-      "url": "https://www.goodreads.com/book/show/199089106-this-little-piggy",
-      "id": "200577063",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1695395440i/199089106.jpg",
-      "authors": [
-        "J.D. Kirk"
+        "Helen H. Durrant"
       ],
       "genres": [
         "crime",
+        "mystery",
+        "fiction",
         "thriller",
+        "suspense",
         "audiobook",
-        "fiction"
+        "mystery-thriller"
       ],
-      "rating": 4.58,
-      "ratings": 2920,
-      "reviews": 121
+      "rating": 4.16,
+      "ratings": 3323,
+      "reviews": 185
     },
     {
-      "title": "Hunter's Moon",
-      "url": "https://www.goodreads.com/book/show/88360.Hunter_s_Moon",
-      "id": "3209955",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1298437486i/88360.jpg",
+      "title": "Betrayal of Faith",
+      "url": "https://www.goodreads.com/book/show/35879147-betrayal-of-faith",
+      "id": "59789947",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1501504376i/35879147.jpg",
+      "authors": [
+        "Mark M. Bello"
+      ],
+      "genres": [
+        "contemporary",
+        "mystery",
+        "fiction",
+        "thriller",
+        "drama",
+        "novels",
+        "mystery-thriller"
+      ],
+      "rating": 4.32,
+      "ratings": 3322,
+      "reviews": 64
+    },
+    {
+      "title": "Mercy Kill",
+      "url": "https://www.goodreads.com/book/show/56262623-mercy-kill",
+      "id": "87645408",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1607811972i/56262623.jpg",
+      "authors": [
+        "Robin      James"
+      ],
+      "genres": [
+        "fiction",
+        "mystery",
+        "suspense",
+        "thriller",
+        "legal-thriller",
+        "amazon",
+        "crime"
+      ],
+      "rating": 4.55,
+      "ratings": 3321,
+      "reviews": 63
+    },
+    {
+      "title": "Twelve Days",
+      "url": "https://www.goodreads.com/book/show/42937171-twelve-days",
+      "id": "66724786",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1542992261i/42937171.jpg",
+      "authors": [
+        "Mark  Dawson"
+      ],
+      "genres": [
+        "thriller",
+        "fiction",
+        "action",
+        "crime",
+        "espionage",
+        "audiobook",
+        "mystery"
+      ],
+      "rating": 4.31,
+      "ratings": 3321,
+      "reviews": 163
+    },
+    {
+      "title": "The Guilty Girl",
+      "url": "https://www.goodreads.com/book/show/60551471-the-guilty-girl",
+      "id": "95433878",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1646455790i/60551471.jpg",
+      "authors": [
+        "Patricia Gibney"
+      ],
+      "genres": [
+        "thriller",
+        "crime",
+        "mystery",
+        "detective",
+        "fiction",
+        "suspense",
+        "irish-literature"
+      ],
+      "rating": 4.51,
+      "ratings": 3321,
+      "reviews": 220
+    },
+    {
+      "title": "Shark River",
+      "url": "https://www.goodreads.com/book/show/93820.Shark_River",
+      "id": "1910261",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1309212693i/93820.jpg",
       "authors": [
         "Randy Wayne White"
       ],
@@ -71,422 +397,98 @@
         "mystery",
         "fiction",
         "thriller",
-        "mystery-thriller",
         "audiobook",
-        "suspense",
-        "adventure"
+        "mystery-thriller",
+        "adventure",
+        "crime"
       ],
-      "rating": 4.1,
-      "ratings": 2920,
-      "reviews": 149
+      "rating": 4.11,
+      "ratings": 3321,
+      "reviews": 142
     },
     {
-      "title": "Blood Money",
-      "url": "https://www.goodreads.com/book/show/463014.Blood_Money",
-      "id": "226956",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1366285967i/463014.jpg",
+      "title": "The Truth about the Devlins",
+      "url": "https://www.goodreads.com/book/show/181350612-the-truth-about-the-devlins",
+      "id": "186191488",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1697749098i/181350612.jpg",
       "authors": [
-        "Thomas Perry"
+        "Lisa Scottoline"
       ],
       "genres": [
         "mystery",
         "thriller",
         "fiction",
-        "suspense",
         "mystery-thriller",
-        "crime",
-        "audiobook"
+        "suspense",
+        "audiobook",
+        "crime"
       ],
-      "rating": 4.17,
-      "ratings": 2919,
+      "rating": 4.07,
+      "ratings": 3320,
+      "reviews": 670
+    },
+    {
+      "title": "Rise of the Enemy",
+      "url": "https://www.goodreads.com/book/show/25269640-rise-of-the-enemy",
+      "id": "44994888",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1427992863i/25269640.jpg",
+      "authors": [
+        "Rob   Sinclair"
+      ],
+      "genres": [
+        "thriller",
+        "fiction",
+        "action",
+        "amazon",
+        "adventure",
+        "espionage",
+        "crime"
+      ],
+      "rating": 4.05,
+      "ratings": 3320,
       "reviews": 185
     },
     {
-      "title": "Nowhere to Hide",
-      "url": "https://www.goodreads.com/book/show/57226603-nowhere-to-hide",
-      "id": "89569925",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1615544675i/57226603.jpg",
+      "title": "I Made a Mistake",
+      "url": "https://www.goodreads.com/book/show/52706064-i-made-a-mistake",
+      "id": "73522392",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1585742378i/52706064.jpg",
       "authors": [
-        "LynDee Walker"
+        "Jane Corry"
       ],
       "genres": [
         "thriller",
-        "fiction",
         "mystery",
+        "fiction",
+        "crime",
         "mystery-thriller",
+        "psychological-thriller",
         "suspense"
       ],
-      "rating": 4.2,
-      "ratings": 2919,
-      "reviews": 50
+      "rating": 4.02,
+      "ratings": 3319,
+      "reviews": 486
     },
     {
-      "title": "Obsession",
-      "url": "https://www.goodreads.com/book/show/15984415-obsession",
-      "id": "18104301",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1357318650i/15984415.jpg",
+      "title": "Twisted Innocence",
+      "url": "https://www.goodreads.com/book/show/22574072-twisted-innocence",
+      "id": "42041336",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1407752620i/22574072.jpg",
       "authors": [
-        "Debra Webb"
+        "Terri Blackstock"
       ],
       "genres": [
-        "romantic-suspense",
+        "christian-fiction",
         "mystery",
-        "thriller",
+        "christian",
+        "fiction",
         "suspense",
-        "romance",
-        "crime",
-        "fiction"
-      ],
-      "rating": 4.11,
-      "ratings": 2918,
-      "reviews": 264
-    },
-    {
-      "title": "The Sixth Precept",
-      "url": "https://www.goodreads.com/book/show/44061743-the-sixth-precept",
-      "id": "68511720",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1550564170i/44061743.jpg",
-      "authors": [
-        "J.M. Dalgliesh"
-      ],
-      "genres": [
-        "fiction",
-        "mystery",
-        "crime",
-        "thriller"
-      ],
-      "rating": 4.41,
-      "ratings": 2918,
-      "reviews": 69
-    },
-    {
-      "title": "Be My Enemy",
-      "url": "https://www.goodreads.com/book/show/289166.Be_My_Enemy",
-      "id": "280543",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1421009025i/289166.jpg",
-      "authors": [
-        "Christopher Brookmyre"
-      ],
-      "genres": [
-        "crime",
-        "fiction",
-        "humor",
         "thriller",
-        "mystery",
-        "scotland",
-        "audiobook"
-      ],
-      "rating": 4.13,
-      "ratings": 2918,
-      "reviews": 111
-    },
-    {
-      "title": "The Trial Lawyer",
-      "url": "https://www.goodreads.com/book/show/25916274-the-trial-lawyer",
-      "id": "45804665",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1441857446i/25916274.jpg",
-      "authors": [
-        "John Ellsworth"
-      ],
-      "genres": [
-        "fiction",
-        "thriller",
-        "mystery",
-        "amazon",
-        "crime",
-        "legal-thriller",
-        "mystery-thriller"
-      ],
-      "rating": 4.26,
-      "ratings": 2917,
-      "reviews": 110
-    },
-    {
-      "title": "Dead Man's Hands",
-      "url": "https://www.goodreads.com/book/show/162415719-dead-man-s-hands",
-      "id": "173829595",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1692003505i/162415719.jpg",
-      "authors": [
-        "David J. Gatward"
-      ],
-      "genres": [
-        "mystery",
-        "crime",
-        "thriller",
-        "fiction",
-        "british-literature"
-      ],
-      "rating": 4.47,
-      "ratings": 2917,
-      "reviews": 72
-    },
-    {
-      "title": "Cold in the Shadows",
-      "url": "https://www.goodreads.com/book/show/49931399-cold-in-the-shadows",
-      "id": "46003916",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1563765211l/49931399.jpg",
-      "authors": [
-        "Toni Anderson"
-      ],
-      "genres": [
-        "romantic-suspense",
-        "romance",
-        "suspense",
-        "contemporary",
-        "mystery",
-        "contemporary-romance",
-        "thriller"
-      ],
-      "rating": 4.34,
-      "ratings": 2914,
-      "reviews": 240
-    },
-    {
-      "title": "Broadchurch",
-      "url": "https://www.goodreads.com/book/show/19561890-broadchurch",
-      "id": "27690370",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1403427842i/19561890.jpg",
-      "authors": [
-        "Erin Kelly"
-      ],
-      "genres": [
-        "mystery",
-        "fiction",
-        "crime",
-        "thriller",
-        "mystery-thriller",
-        "contemporary",
-        "british-literature"
-      ],
-      "rating": 4.03,
-      "ratings": 2913,
-      "reviews": 470
-    },
-    {
-      "title": "Dead Wrong",
-      "url": "https://www.goodreads.com/book/show/1077626.Dead_Wrong",
-      "id": "1064342",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388708138i/1077626.jpg",
-      "authors": [
-        "Mariah Stewart"
-      ],
-      "genres": [
-        "romantic-suspense",
-        "mystery",
-        "suspense",
-        "romance",
-        "fiction",
-        "thriller",
-        "mystery-thriller"
-      ],
-      "rating": 4.01,
-      "ratings": 2913,
-      "reviews": 120
-    },
-    {
-      "title": "The Girl and the Last Sleepover",
-      "url": "https://www.goodreads.com/book/show/60419284-the-girl-and-the-last-sleepover",
-      "id": "95208856",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1644888639i/60419284.jpg",
-      "authors": [
-        "A.J. Rivers"
-      ],
-      "genres": [
-        "mystery",
-        "fiction",
-        "crime",
-        "thriller"
-      ],
-      "rating": 4.42,
-      "ratings": 2911,
-      "reviews": 78
-    },
-    {
-      "title": "Genesis",
-      "url": "https://www.goodreads.com/book/show/35425574-genesis",
-      "id": "56802505",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1498194204i/35425574.jpg",
-      "authors": [
-        "Brendan Reichs"
-      ],
-      "genres": [
-        "young-adult",
-        "science-fiction",
-        "dystopia",
-        "fiction",
-        "thriller",
-        "mystery",
-        "fantasy"
-      ],
-      "rating": 4.14,
-      "ratings": 2911,
-      "reviews": 400
-    },
-    {
-      "title": "My Other Husband",
-      "url": "https://www.goodreads.com/book/show/58957539-my-other-husband",
-      "id": "92920650",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1659747446i/58957539.jpg",
-      "authors": [
-        "Dorothy Koomson"
-      ],
-      "genres": [
-        "thriller",
-        "mystery",
-        "crime",
-        "fiction",
-        "psychological-thriller",
-        "contemporary",
-        "mystery-thriller"
-      ],
-      "rating": 4.08,
-      "ratings": 2910,
-      "reviews": 305
-    },
-    {
-      "title": "Labyrinthes",
-      "url": "https://www.goodreads.com/book/show/60763382-labyrinthes",
-      "id": "95448132",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1649273730i/60763382.jpg",
-      "authors": [
-        "Franck Thilliez"
-      ],
-      "genres": [
-        "thriller",
-        "fiction",
-        "crime",
-        "france",
-        "mystery",
-        "roman",
         "mystery-thriller"
       ],
       "rating": 4.33,
-      "ratings": 2909,
-      "reviews": 380
-    },
-    {
-      "title": "Cold Truth",
-      "url": "https://www.goodreads.com/book/show/678672.Cold_Truth",
-      "id": "664666",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388456697i/678672.jpg",
-      "authors": [
-        "Mariah Stewart"
-      ],
-      "genres": [
-        "romantic-suspense",
-        "mystery",
-        "suspense",
-        "romance",
-        "fiction",
-        "thriller",
-        "crime"
-      ],
-      "rating": 4,
-      "ratings": 2908,
-      "reviews": 119
-    },
-    {
-      "title": "Le vide",
-      "url": "https://www.goodreads.com/book/show/6348889-le-vide",
-      "id": "6535417",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327288155i/6348889.jpg",
-      "authors": [
-        "Patrick Senécal"
-      ],
-      "genres": [
-        "horror",
-        "thriller",
-        "france",
-        "mystery",
-        "roman",
-        "fiction",
-        "canada"
-      ],
-      "rating": 4.34,
-      "ratings": 2907,
-      "reviews": 121
-    },
-    {
-      "title": "Sticks and Stones",
-      "url": "https://www.goodreads.com/book/show/50212716-sticks-and-stones",
-      "id": "72258569",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1563953916l/50212716.jpg",
-      "authors": [
-        "John Carson"
-      ],
-      "genres": [
-        "mystery",
-        "crime",
-        "mystery-thriller",
-        "thriller",
-        "fiction",
-        "detective",
-        "scotland"
-      ],
-      "rating": 4.07,
-      "ratings": 2907,
-      "reviews": 94
-    },
-    {
-      "title": "Dark Rising",
-      "url": "https://www.goodreads.com/book/show/9790789-dark-rising",
-      "id": "14680838",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1396473027i/9790789.jpg",
-      "authors": [
-        "Greig Beck"
-      ],
-      "genres": [
-        "thriller",
-        "horror",
-        "adventure",
-        "science-fiction",
-        "fiction",
-        "action",
-        "military-fiction"
-      ],
-      "rating": 4.01,
-      "ratings": 2906,
-      "reviews": 162
-    },
-    {
-      "title": "Bum Luck",
-      "url": "https://www.goodreads.com/book/show/49360249-bum-luck",
-      "id": "53839104",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1576589503i/49360249.jpg",
-      "authors": [
-        "Paul Levine"
-      ],
-      "genres": [
-        "fiction",
-        "thriller",
-        "mystery",
-        "legal-thriller",
-        "mystery-thriller",
-        "crime",
-        "audiobook"
-      ],
-      "rating": 4.35,
-      "ratings": 2905,
-      "reviews": 123
-    },
-    {
-      "title": "Long Gone",
-      "url": "https://www.goodreads.com/book/show/49876672-long-gone",
-      "id": "72223917",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1563720057l/49876672.jpg",
-      "authors": [
-        "Paul Pilkington"
-      ],
-      "genres": [
-        "mystery",
-        "crime",
-        "fiction",
-        "thriller",
-        "amazon"
-      ],
-      "rating": 4.2,
-      "ratings": 2904,
-      "reviews": 103
+      "ratings": 3319,
+      "reviews": 346
     }
   ]
 }

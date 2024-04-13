@@ -1,6 +1,48 @@
 {
   "books": [
     {
+      "title": "Bet On You",
+      "url": "https://www.goodreads.com/book/show/59465048-bet-on-you",
+      "id": "90483957",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1635358811i/59465048.jpg",
+      "authors": [
+        "Morgane Moncomble"
+      ],
+      "genres": [
+        "romance",
+        "new-adult",
+        "france",
+        "young-adult",
+        "contemporary",
+        "audiobook",
+        "contemporary-romance"
+      ],
+      "rating": 4.47,
+      "ratings": 21984,
+      "reviews": 2368
+    },
+    {
+      "title": "Hunting and Gathering",
+      "url": "https://www.goodreads.com/book/show/47780.Hunting_and_Gathering",
+      "id": "1262306",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327865734i/47780.jpg",
+      "authors": [
+        "Anna Gavalda"
+      ],
+      "genres": [
+        "fiction",
+        "france",
+        "romance",
+        "contemporary",
+        "roman",
+        "french-literature",
+        "novels"
+      ],
+      "rating": 4.12,
+      "ratings": 21760,
+      "reviews": 1654
+    },
+    {
       "title": "Le Consentement",
       "url": "https://www.goodreads.com/book/show/49885074-le-consentement",
       "id": "74967335",
@@ -12,35 +54,14 @@
         "non-fiction",
         "memoir",
         "feminism",
-        "biography",
         "france",
+        "biography",
         "biography-memoir",
         "audiobook"
       ],
       "rating": 4.29,
-      "ratings": 20639,
-      "reviews": 2523
-    },
-    {
-      "title": "The Society of the Spectacle",
-      "url": "https://www.goodreads.com/book/show/381440.The_Society_of_the_Spectacle",
-      "id": "371226",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1370746722i/381440.jpg",
-      "authors": [
-        "Guy Debord"
-      ],
-      "genres": [
-        "philosophy",
-        "non-fiction",
-        "politics",
-        "theory",
-        "sociology",
-        "art",
-        "france"
-      ],
-      "rating": 4.03,
-      "ratings": 20273,
-      "reviews": 1014
+      "ratings": 21568,
+      "reviews": 2612
     },
     {
       "title": "Petit pays",
@@ -60,50 +81,29 @@
         "rwanda"
       ],
       "rating": 4.22,
-      "ratings": 20148,
-      "reviews": 2047
+      "ratings": 20721,
+      "reviews": 2102
     },
     {
-      "title": "The Complete Essays",
-      "url": "https://www.goodreads.com/book/show/30735.The_Complete_Essays",
-      "id": "1311",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1657542435i/30735.jpg",
+      "title": "The Society of the Spectacle",
+      "url": "https://www.goodreads.com/book/show/381440.The_Society_of_the_Spectacle",
+      "id": "371226",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1370746722i/381440.jpg",
       "authors": [
-        "Michel de Montaigne"
+        "Guy Debord"
       ],
       "genres": [
         "philosophy",
-        "classics",
-        "essays",
         "non-fiction",
-        "france",
-        "history",
-        "french-literature"
+        "politics",
+        "theory",
+        "sociology",
+        "art",
+        "france"
       ],
-      "rating": 4.23,
-      "ratings": 20072,
-      "reviews": 990
-    },
-    {
-      "title": "The Iron King",
-      "url": "https://www.goodreads.com/book/show/27999638-the-iron-king",
-      "id": "95910",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1448671644i/27999638.jpg",
-      "authors": [
-        "Maurice Druon"
-      ],
-      "genres": [
-        "historical-fiction",
-        "fiction",
-        "fantasy",
-        "historical",
-        "france",
-        "medieval",
-        "classics"
-      ],
-      "rating": 4.07,
-      "ratings": 20066,
-      "reviews": 1472
+      "rating": 4.03,
+      "ratings": 20556,
+      "reviews": 1054
     },
     {
       "title": "The Paris Seamstress",
@@ -123,8 +123,50 @@
         "audiobook"
       ],
       "rating": 4.1,
-      "ratings": 20012,
-      "reviews": 1929
+      "ratings": 20501,
+      "reviews": 1974
+    },
+    {
+      "title": "The Complete Essays",
+      "url": "https://www.goodreads.com/book/show/30735.The_Complete_Essays",
+      "id": "1311",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1657542435i/30735.jpg",
+      "authors": [
+        "Michel de Montaigne"
+      ],
+      "genres": [
+        "philosophy",
+        "classics",
+        "essays",
+        "non-fiction",
+        "france",
+        "history",
+        "french-literature"
+      ],
+      "rating": 4.23,
+      "ratings": 20293,
+      "reviews": 1013
+    },
+    {
+      "title": "The Iron King",
+      "url": "https://www.goodreads.com/book/show/27999638-the-iron-king",
+      "id": "95910",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1448671644i/27999638.jpg",
+      "authors": [
+        "Maurice Druon"
+      ],
+      "genres": [
+        "historical-fiction",
+        "fiction",
+        "fantasy",
+        "historical",
+        "france",
+        "medieval",
+        "classics"
+      ],
+      "rating": 4.07,
+      "ratings": 20279,
+      "reviews": 1488
     },
     {
       "title": "All the Ways We Said Goodbye",
@@ -144,8 +186,29 @@
         "france"
       ],
       "rating": 4.04,
-      "ratings": 19974,
-      "reviews": 1969
+      "ratings": 20247,
+      "reviews": 1988
+    },
+    {
+      "title": "The Postcard",
+      "url": "https://www.goodreads.com/book/show/63880836-the-postcard",
+      "id": "92938792",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1709173139i/63880836.jpg",
+      "authors": [
+        "Anne Berest"
+      ],
+      "genres": [
+        "historical-fiction",
+        "fiction",
+        "holocaust",
+        "world-war-ii",
+        "france",
+        "historical",
+        "audiobook"
+      ],
+      "rating": 4.38,
+      "ratings": 20157,
+      "reviews": 2491
     },
     {
       "title": "L'appel de l'ange",
@@ -165,8 +228,8 @@
         "crime"
       ],
       "rating": 4,
-      "ratings": 19837,
-      "reviews": 1674
+      "ratings": 20133,
+      "reviews": 1701
     },
     {
       "title": "The Baker's Secret",
@@ -186,8 +249,29 @@
         "audiobook"
       ],
       "rating": 4.02,
-      "ratings": 19801,
-      "reviews": 2155
+      "ratings": 19991,
+      "reviews": 2177
+    },
+    {
+      "title": "The Women of Chateau Lafayette",
+      "url": "https://www.goodreads.com/book/show/55502887-the-women-of-chateau-lafayette",
+      "id": "84931952",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1601938718i/55502887.jpg",
+      "authors": [
+        "Stephanie Dray"
+      ],
+      "genres": [
+        "historical-fiction",
+        "fiction",
+        "historical",
+        "world-war-ii",
+        "france",
+        "audiobook",
+        "war"
+      ],
+      "rating": 4.26,
+      "ratings": 19948,
+      "reviews": 2352
     },
     {
       "title": "The Black Count: Glory, Revolution, Betrayal, and the Real Count of Monte Cristo",
@@ -206,51 +290,9 @@
         "biography-memoir",
         "war"
       ],
-      "rating": 4,
-      "ratings": 19702,
-      "reviews": 2496
-    },
-    {
-      "title": "Nobody's Boy",
-      "url": "https://www.goodreads.com/book/show/1500209.Nobody_s_Boy",
-      "id": "10428038",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1286456723i/1500209.jpg",
-      "authors": [
-        "Hector Malot"
-      ],
-      "genres": [
-        "classics",
-        "fiction",
-        "childrens",
-        "france",
-        "french-literature",
-        "novels",
-        "adventure"
-      ],
-      "rating": 4.39,
-      "ratings": 19626,
-      "reviews": 1503
-    },
-    {
-      "title": "The Women of Chateau Lafayette",
-      "url": "https://www.goodreads.com/book/show/55502887-the-women-of-chateau-lafayette",
-      "id": "84931952",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1601938718i/55502887.jpg",
-      "authors": [
-        "Stephanie Dray"
-      ],
-      "genres": [
-        "historical-fiction",
-        "fiction",
-        "historical",
-        "france",
-        "world-war-ii",
-        "adult",
-        "audiobook"
-      ],
-      "rating": 4.27,
-      "ratings": 19232,
-      "reviews": 2267
+      "rating": 4.01,
+      "ratings": 19815,
+      "reviews": 2526
     },
     {
       "title": "The Lost Vintage",
@@ -269,9 +311,9 @@
         "mystery",
         "audiobook"
       ],
-      "rating": 4.04,
-      "ratings": 18990,
-      "reviews": 2065
+      "rating": 4.03,
+      "ratings": 19301,
+      "reviews": 2086
     },
     {
       "title": "Wind, Sand and Stars",
@@ -286,13 +328,13 @@
         "classics",
         "memoir",
         "travel",
-        "france",
         "adventure",
+        "france",
         "biography"
       ],
       "rating": 4.12,
-      "ratings": 18225,
-      "reviews": 1669
+      "ratings": 18437,
+      "reviews": 1699
     },
     {
       "title": "Madeline and the Bad Hat",
@@ -312,29 +354,8 @@
         "juvenile"
       ],
       "rating": 4.27,
-      "ratings": 18208,
-      "reviews": 182
-    },
-    {
-      "title": "A Desperate Fortune",
-      "url": "https://www.goodreads.com/book/show/22221136-a-desperate-fortune",
-      "id": "26743157",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1434396165i/22221136.jpg",
-      "authors": [
-        "Susanna Kearsley"
-      ],
-      "genres": [
-        "historical-fiction",
-        "romance",
-        "fiction",
-        "historical",
-        "france",
-        "historical-romance",
-        "contemporary"
-      ],
-      "rating": 4.03,
-      "ratings": 17795,
-      "reviews": 1912
+      "ratings": 18225,
+      "reviews": 184
     },
     {
       "title": "The Arab of the Future: A Childhood in the Middle East, 1978-1984",
@@ -354,8 +375,50 @@
         "biography"
       ],
       "rating": 4.11,
-      "ratings": 17693,
-      "reviews": 1408
+      "ratings": 18111,
+      "reviews": 1437
+    },
+    {
+      "title": "A Desperate Fortune",
+      "url": "https://www.goodreads.com/book/show/22221136-a-desperate-fortune",
+      "id": "26743157",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1434396165i/22221136.jpg",
+      "authors": [
+        "Susanna Kearsley"
+      ],
+      "genres": [
+        "historical-fiction",
+        "romance",
+        "fiction",
+        "historical",
+        "france",
+        "historical-romance",
+        "contemporary"
+      ],
+      "rating": 4.03,
+      "ratings": 17843,
+      "reviews": 1921
+    },
+    {
+      "title": "Captive",
+      "url": "https://www.goodreads.com/book/show/60802650-captive",
+      "id": "95878563",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1670841718i/60802650.jpg",
+      "authors": [
+        "Sarah Rivens"
+      ],
+      "genres": [
+        "romance",
+        "dark",
+        "young-adult",
+        "roman",
+        "fantasy",
+        "france",
+        "new-adult"
+      ],
+      "rating": 4.22,
+      "ratings": 17741,
+      "reviews": 1873
     },
     {
       "title": "Alex",
@@ -371,12 +434,33 @@
         "crime",
         "fiction",
         "france",
-        "mystery-thriller",
-        "suspense"
+        "suspense",
+        "mystery-thriller"
       ],
       "rating": 4.09,
-      "ratings": 17431,
-      "reviews": 2370
+      "ratings": 17615,
+      "reviews": 2387
+    },
+    {
+      "title": "Trois",
+      "url": "https://www.goodreads.com/book/show/57206928-trois",
+      "id": "89534135",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1625609093i/57206928.jpg",
+      "authors": [
+        "Valérie Perrin"
+      ],
+      "genres": [
+        "fiction",
+        "mystery",
+        "france",
+        "romance",
+        "contemporary",
+        "roman",
+        "audiobook"
+      ],
+      "rating": 4.29,
+      "ratings": 17502,
+      "reviews": 1849
     },
     {
       "title": "The Prince of Thieves",
@@ -393,74 +477,11 @@
         "adventure",
         "french-literature",
         "france",
-        "literature"
+        "historical"
       ],
       "rating": 4.02,
-      "ratings": 17400,
-      "reviews": 187
-    },
-    {
-      "title": "The Postcard",
-      "url": "https://www.goodreads.com/book/show/63880836-the-postcard",
-      "id": "92938792",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1669656399i/63880836.jpg",
-      "authors": [
-        "Anne Berest"
-      ],
-      "genres": [
-        "historical-fiction",
-        "fiction",
-        "holocaust",
-        "world-war-ii",
-        "france",
-        "historical",
-        "audiobook"
-      ],
-      "rating": 4.4,
-      "ratings": 16928,
-      "reviews": 2108
-    },
-    {
-      "title": "The Many Lives & Secret Sorrows of Josephine B.",
-      "url": "https://www.goodreads.com/book/show/70287.The_Many_Lives_Secret_Sorrows_of_Josephine_B_",
-      "id": "2901163",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1355931779i/70287.jpg",
-      "authors": [
-        "Sandra Gulland"
-      ],
-      "genres": [
-        "historical-fiction",
-        "fiction",
-        "france",
-        "historical",
-        "romance",
-        "french-revolution",
-        "18th-century"
-      ],
-      "rating": 4.1,
-      "ratings": 16700,
-      "reviews": 955
-    },
-    {
-      "title": "L'Assommoir",
-      "url": "https://www.goodreads.com/book/show/92967.L_Assommoir",
-      "id": "741363",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1309282204i/92967.jpg",
-      "authors": [
-        "Émile Zola"
-      ],
-      "genres": [
-        "classics",
-        "fiction",
-        "france",
-        "french-literature",
-        "19th-century",
-        "literature",
-        "historical-fiction"
-      ],
-      "rating": 4.08,
-      "ratings": 16588,
-      "reviews": 903
+      "ratings": 17424,
+      "reviews": 190
     },
     {
       "title": "Black Water Lilies",
@@ -472,37 +493,16 @@
       ],
       "genres": [
         "mystery",
-        "fiction",
         "thriller",
+        "fiction",
         "crime",
         "france",
         "mystery-thriller",
         "art"
       ],
       "rating": 4.04,
-      "ratings": 16404,
-      "reviews": 2324
-    },
-    {
-      "title": "The Designer",
-      "url": "https://www.goodreads.com/book/show/35210220-the-designer",
-      "id": "55829711",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1503334668i/35210220.jpg",
-      "authors": [
-        "Marius Gabriel"
-      ],
-      "genres": [
-        "historical-fiction",
-        "fiction",
-        "historical",
-        "romance",
-        "fashion",
-        "france",
-        "world-war-ii"
-      ],
-      "rating": 4.05,
-      "ratings": 16291,
-      "reviews": 821
+      "ratings": 16920,
+      "reviews": 2396
     }
   ]
 }

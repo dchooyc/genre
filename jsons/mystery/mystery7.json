@@ -1,6 +1,27 @@
 {
   "books": [
     {
+      "title": "Mystic River",
+      "url": "https://www.goodreads.com/book/show/21671.Mystic_River",
+      "id": "1234249",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1407109549i/21671.jpg",
+      "authors": [
+        "Dennis Lehane"
+      ],
+      "genres": [
+        "mystery",
+        "fiction",
+        "thriller",
+        "crime",
+        "mystery-thriller",
+        "suspense",
+        "audiobook"
+      ],
+      "rating": 4.17,
+      "ratings": 145104,
+      "reviews": 4969
+    },
+    {
       "title": "Die Trying",
       "url": "https://www.goodreads.com/book/show/220969.Die_Trying",
       "id": "213967",
@@ -18,71 +39,71 @@
         "suspense"
       ],
       "rating": 4.06,
-      "ratings": 141835,
-      "reviews": 6121
+      "ratings": 144469,
+      "reviews": 6218
     },
     {
-      "title": "Rosemary's Baby",
-      "url": "https://www.goodreads.com/book/show/228296.Rosemary_s_Baby",
-      "id": "883024",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327878603i/228296.jpg",
+      "title": "Alias Grace",
+      "url": "https://www.goodreads.com/book/show/72579.Alias_Grace",
+      "id": "2069530",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1298545436i/72579.jpg",
       "authors": [
-        "Ira Levin"
+        "Margaret Atwood"
       ],
       "genres": [
-        "horror",
+        "historical-fiction",
         "fiction",
-        "classics",
-        "thriller",
         "mystery",
-        "fantasy",
-        "paranormal"
+        "historical",
+        "classics",
+        "canada",
+        "literary-fiction"
       ],
       "rating": 4.04,
-      "ratings": 139170,
-      "reviews": 6707
+      "ratings": 143544,
+      "reviews": 8784
     },
     {
-      "title": "Clear and Present Danger",
-      "url": "https://www.goodreads.com/book/show/32669.Clear_and_Present_Danger",
-      "id": "5054704",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1291440438i/32669.jpg",
+      "title": "Invisible Monsters",
+      "url": "https://www.goodreads.com/book/show/36236125-invisible-monsters",
+      "id": "849507",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1508534066i/36236125.jpg",
       "authors": [
-        "Tom Clancy"
+        "Chuck Palahniuk"
       ],
       "genres": [
         "fiction",
+        "contemporary",
         "thriller",
-        "espionage",
-        "military-fiction",
-        "suspense",
-        "action",
+        "horror",
+        "novels",
+        "humor",
         "mystery"
       ],
-      "rating": 4.13,
-      "ratings": 138672,
-      "reviews": 991
+      "rating": 4,
+      "ratings": 143535,
+      "reviews": 7109
     },
     {
-      "title": "Memory Man",
-      "url": "https://www.goodreads.com/book/show/23153154-memory-man",
-      "id": "42700811",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1421788503i/23153154.jpg",
+      "title": "Four to Score",
+      "url": "https://www.goodreads.com/book/show/6422.Four_to_Score",
+      "id": "2322486",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1311983211i/6422.jpg",
       "authors": [
-        "David Baldacci"
+        "Janet Evanovich"
       ],
       "genres": [
         "mystery",
         "fiction",
-        "thriller",
+        "humor",
+        "chick-lit",
+        "romance",
         "crime",
-        "mystery-thriller",
-        "audiobook",
-        "suspense"
+        "mystery-thriller"
       ],
-      "rating": 4.11,
-      "ratings": 138545,
-      "reviews": 7964
+      "rating": 4.17,
+      "ratings": 143446,
+      "reviews": 3391
     },
     {
       "title": "Golden Girl",
@@ -102,8 +123,50 @@
         "adult-fiction"
       ],
       "rating": 4.17,
-      "ratings": 138294,
-      "reviews": 9051
+      "ratings": 141515,
+      "reviews": 9278
+    },
+    {
+      "title": "Memory Man",
+      "url": "https://www.goodreads.com/book/show/23153154-memory-man",
+      "id": "42700811",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1421788503i/23153154.jpg",
+      "authors": [
+        "David Baldacci"
+      ],
+      "genres": [
+        "mystery",
+        "fiction",
+        "thriller",
+        "crime",
+        "mystery-thriller",
+        "audiobook",
+        "suspense"
+      ],
+      "rating": 4.11,
+      "ratings": 140222,
+      "reviews": 8058
+    },
+    {
+      "title": "Clear and Present Danger",
+      "url": "https://www.goodreads.com/book/show/32669.Clear_and_Present_Danger",
+      "id": "5054704",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1291440438i/32669.jpg",
+      "authors": [
+        "Tom Clancy"
+      ],
+      "genres": [
+        "fiction",
+        "thriller",
+        "espionage",
+        "military-fiction",
+        "suspense",
+        "mystery",
+        "action"
+      ],
+      "rating": 4.14,
+      "ratings": 139062,
+      "reviews": 996
     },
     {
       "title": "The Snowman",
@@ -123,8 +186,8 @@
         "detective"
       ],
       "rating": 4.02,
-      "ratings": 137342,
-      "reviews": 10072
+      "ratings": 138513,
+      "reviews": 10157
     },
     {
       "title": "Death Masks",
@@ -144,8 +207,8 @@
         "audiobook"
       ],
       "rating": 4.29,
-      "ratings": 136870,
-      "reviews": 4346
+      "ratings": 137948,
+      "reviews": 4398
     },
     {
       "title": "The Scarlet Pimpernel",
@@ -165,239 +228,8 @@
         "france"
       ],
       "rating": 4.07,
-      "ratings": 134884,
-      "reviews": 7656
-    },
-    {
-      "title": "The Day of the Jackal",
-      "url": "https://www.goodreads.com/book/show/540020.The_Day_of_the_Jackal",
-      "id": "1792180",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1405364996i/540020.jpg",
-      "authors": [
-        "Frederick Forsyth"
-      ],
-      "genres": [
-        "fiction",
-        "thriller",
-        "mystery",
-        "crime",
-        "historical-fiction",
-        "espionage",
-        "suspense"
-      ],
-      "rating": 4.27,
-      "ratings": 134029,
-      "reviews": 2674
-    },
-    {
-      "title": "The Boxcar Children",
-      "url": "https://www.goodreads.com/book/show/297249.The_Boxcar_Children",
-      "id": "945340",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1173489650i/297249.jpg",
-      "authors": [
-        "Gertrude Chandler Warner"
-      ],
-      "genres": [
-        "childrens",
-        "fiction",
-        "mystery",
-        "classics",
-        "middle-grade",
-        "young-adult",
-        "chapter-books"
-      ],
-      "rating": 4.13,
-      "ratings": 133066,
-      "reviews": 4136
-    },
-    {
-      "title": "I Let You Go",
-      "url": "https://www.goodreads.com/book/show/30689367-i-let-you-go",
-      "id": "42673812",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1474522974i/30689367.jpg",
-      "authors": [
-        "Clare Mackintosh"
-      ],
-      "genres": [
-        "thriller",
-        "mystery",
-        "fiction",
-        "mystery-thriller",
-        "crime",
-        "suspense",
-        "audiobook"
-      ],
-      "rating": 4.05,
-      "ratings": 132457,
-      "reviews": 14222
-    },
-    {
-      "title": "The Enemy",
-      "url": "https://www.goodreads.com/book/show/231562.The_Enemy",
-      "id": "224289",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388210939i/231562.jpg",
-      "authors": [
-        "Lee Child"
-      ],
-      "genres": [
-        "thriller",
-        "fiction",
-        "mystery",
-        "crime",
-        "action",
-        "suspense",
-        "mystery-thriller"
-      ],
-      "rating": 4.16,
-      "ratings": 132006,
-      "reviews": 3711
-    },
-    {
-      "title": "Hot Six",
-      "url": "https://www.goodreads.com/book/show/6858.Hot_Six",
-      "id": "1268422",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388177839i/6858.jpg",
-      "authors": [
-        "Janet Evanovich"
-      ],
-      "genres": [
-        "mystery",
-        "fiction",
-        "humor",
-        "chick-lit",
-        "romance",
-        "crime",
-        "comedy"
-      ],
-      "rating": 4.19,
-      "ratings": 130897,
-      "reviews": 2801
-    },
-    {
-      "title": "Sycamore Row",
-      "url": "https://www.goodreads.com/book/show/17288661-sycamore-row",
-      "id": "25046757",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1375888633i/17288661.jpg",
-      "authors": [
-        "John Grisham"
-      ],
-      "genres": [
-        "fiction",
-        "mystery",
-        "thriller",
-        "legal-thriller",
-        "audiobook",
-        "crime",
-        "mystery-thriller"
-      ],
-      "rating": 4.08,
-      "ratings": 129802,
-      "reviews": 11126
-    },
-    {
-      "title": "Blood Rites",
-      "url": "https://www.goodreads.com/book/show/99383.Blood_Rites",
-      "id": "227172",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1661018414i/99383.jpg",
-      "authors": [
-        "Jim Butcher"
-      ],
-      "genres": [
-        "fantasy",
-        "urban-fantasy",
-        "fiction",
-        "mystery",
-        "paranormal",
-        "magic",
-        "vampires"
-      ],
-      "rating": 4.3,
-      "ratings": 128964,
-      "reviews": 3931
-    },
-    {
-      "title": "The Carnivorous Carnival",
-      "url": "https://www.goodreads.com/book/show/324277.The_Carnivorous_Carnival",
-      "id": "984147",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1518209848i/324277.jpg",
-      "authors": [
-        "Lemony Snicket"
-      ],
-      "genres": [
-        "fiction",
-        "young-adult",
-        "childrens",
-        "middle-grade",
-        "fantasy",
-        "mystery",
-        "adventure"
-      ],
-      "rating": 4,
-      "ratings": 128701,
-      "reviews": 3291
-    },
-    {
-      "title": "High Five",
-      "url": "https://www.goodreads.com/book/show/6423.High_Five",
-      "id": "1874115",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1270849101i/6423.jpg",
-      "authors": [
-        "Janet Evanovich"
-      ],
-      "genres": [
-        "mystery",
-        "fiction",
-        "humor",
-        "chick-lit",
-        "romance",
-        "crime",
-        "comedy"
-      ],
-      "rating": 4.18,
-      "ratings": 128651,
-      "reviews": 2977
-    },
-    {
-      "title": "The Talisman",
-      "url": "https://www.goodreads.com/book/show/59219.The_Talisman",
-      "id": "3324421",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1170530286i/59219.jpg",
-      "authors": [
-        "Stephen King"
-      ],
-      "genres": [
-        "horror",
-        "fiction",
-        "thriller",
-        "adventure",
-        "mystery",
-        "audiobook",
-        "supernatural"
-      ],
-      "rating": 4.12,
-      "ratings": 128461,
-      "reviews": 4835
-    },
-    {
-      "title": "Seven Up",
-      "url": "https://www.goodreads.com/book/show/6424.Seven_Up",
-      "id": "3207062",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1311720512i/6424.jpg",
-      "authors": [
-        "Janet Evanovich"
-      ],
-      "genres": [
-        "mystery",
-        "fiction",
-        "humor",
-        "chick-lit",
-        "romance",
-        "crime",
-        "comedy"
-      ],
-      "rating": 4.15,
-      "ratings": 126364,
-      "reviews": 2490
+      "ratings": 135435,
+      "reviews": 7769
     },
     {
       "title": "Little Secrets",
@@ -417,29 +249,50 @@
         "adult"
       ],
       "rating": 4.23,
-      "ratings": 126056,
-      "reviews": 11837
+      "ratings": 134692,
+      "reviews": 12497
     },
     {
-      "title": "Magic Hour",
-      "url": "https://www.goodreads.com/book/show/1470232.Magic_Hour",
-      "id": "1461175",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320542057i/1470232.jpg",
+      "title": "The Day of the Jackal",
+      "url": "https://www.goodreads.com/book/show/540020.The_Day_of_the_Jackal",
+      "id": "1792180",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1405364996i/540020.jpg",
       "authors": [
-        "Kristin Hannah"
+        "Frederick Forsyth"
       ],
       "genres": [
         "fiction",
-        "romance",
-        "contemporary",
-        "chick-lit",
+        "thriller",
         "mystery",
-        "drama",
+        "crime",
+        "historical-fiction",
+        "espionage",
+        "suspense"
+      ],
+      "rating": 4.27,
+      "ratings": 134241,
+      "reviews": 2715
+    },
+    {
+      "title": "I Let You Go",
+      "url": "https://www.goodreads.com/book/show/30689367-i-let-you-go",
+      "id": "42673812",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1474522974i/30689367.jpg",
+      "authors": [
+        "Clare Mackintosh"
+      ],
+      "genres": [
+        "thriller",
+        "mystery",
+        "fiction",
+        "mystery-thriller",
+        "crime",
+        "suspense",
         "audiobook"
       ],
-      "rating": 4.16,
-      "ratings": 125248,
-      "reviews": 8483
+      "rating": 4.05,
+      "ratings": 133824,
+      "reviews": 14379
     },
     {
       "title": "His & Hers",
@@ -459,14 +312,77 @@
         "crime"
       ],
       "rating": 4.08,
-      "ratings": 125236,
-      "reviews": 15580
+      "ratings": 133663,
+      "reviews": 16450
     },
     {
-      "title": "Hard Eight",
-      "url": "https://www.goodreads.com/book/show/6425.Hard_Eight",
-      "id": "1616132",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1479699438i/6425.jpg",
+      "title": "The Boxcar Children",
+      "url": "https://www.goodreads.com/book/show/297249.The_Boxcar_Children",
+      "id": "945340",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1173489650i/297249.jpg",
+      "authors": [
+        "Gertrude Chandler Warner"
+      ],
+      "genres": [
+        "childrens",
+        "fiction",
+        "mystery",
+        "classics",
+        "middle-grade",
+        "young-adult",
+        "chapter-books"
+      ],
+      "rating": 4.13,
+      "ratings": 133619,
+      "reviews": 4196
+    },
+    {
+      "title": "The Enemy",
+      "url": "https://www.goodreads.com/book/show/231562.The_Enemy",
+      "id": "224289",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388210939i/231562.jpg",
+      "authors": [
+        "Lee Child"
+      ],
+      "genres": [
+        "thriller",
+        "fiction",
+        "mystery",
+        "crime",
+        "action",
+        "suspense",
+        "mystery-thriller"
+      ],
+      "rating": 4.17,
+      "ratings": 133501,
+      "reviews": 3776
+    },
+    {
+      "title": "Magic Hour",
+      "url": "https://www.goodreads.com/book/show/1470232.Magic_Hour",
+      "id": "1461175",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320542057i/1470232.jpg",
+      "authors": [
+        "Kristin Hannah"
+      ],
+      "genres": [
+        "fiction",
+        "romance",
+        "contemporary",
+        "chick-lit",
+        "mystery",
+        "drama",
+        "audiobook"
+      ],
+      "rating": 4.16,
+      "ratings": 132681,
+      "reviews": 8968
+    },
+    {
+      "title": "Hot Six",
+      "url": "https://www.goodreads.com/book/show/6858.Hot_Six",
+      "id": "1268422",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388177839i/6858.jpg",
       "authors": [
         "Janet Evanovich"
       ],
@@ -479,30 +395,114 @@
         "crime",
         "comedy"
       ],
-      "rating": 4.17,
-      "ratings": 124811,
-      "reviews": 2544
+      "rating": 4.19,
+      "ratings": 131626,
+      "reviews": 2827
     },
     {
-      "title": "The Perfect Son",
-      "url": "https://www.goodreads.com/book/show/52616342-the-perfect-son",
-      "id": "73676184",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1570489697l/52616342.jpg",
+      "title": "Sycamore Row",
+      "url": "https://www.goodreads.com/book/show/17288661-sycamore-row",
+      "id": "25046757",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1375888633i/17288661.jpg",
       "authors": [
-        "Freida McFadden"
+        "John Grisham"
       ],
       "genres": [
+        "fiction",
+        "mystery",
         "thriller",
+        "legal-thriller",
+        "audiobook",
+        "crime",
+        "mystery-thriller"
+      ],
+      "rating": 4.08,
+      "ratings": 130873,
+      "reviews": 11173
+    },
+    {
+      "title": "The Seven Sisters",
+      "url": "https://www.goodreads.com/book/show/22609358-the-seven-sisters",
+      "id": "42099358",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1472405616i/22609358.jpg",
+      "authors": [
+        "Lucinda Riley"
+      ],
+      "genres": [
+        "historical-fiction",
+        "fiction",
+        "romance",
+        "historical",
+        "audiobook",
+        "mystery",
+        "contemporary"
+      ],
+      "rating": 4.18,
+      "ratings": 130164,
+      "reviews": 9519
+    },
+    {
+      "title": "Blood Rites",
+      "url": "https://www.goodreads.com/book/show/99383.Blood_Rites",
+      "id": "227172",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1661018414i/99383.jpg",
+      "authors": [
+        "Jim Butcher"
+      ],
+      "genres": [
+        "fantasy",
+        "urban-fantasy",
+        "fiction",
+        "mystery",
+        "paranormal",
+        "magic",
+        "vampires"
+      ],
+      "rating": 4.3,
+      "ratings": 129938,
+      "reviews": 3979
+    },
+    {
+      "title": "The Carnivorous Carnival",
+      "url": "https://www.goodreads.com/book/show/324277.The_Carnivorous_Carnival",
+      "id": "984147",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1518209848i/324277.jpg",
+      "authors": [
+        "Lemony Snicket"
+      ],
+      "genres": [
+        "fiction",
+        "young-adult",
+        "childrens",
+        "middle-grade",
+        "fantasy",
+        "mystery",
+        "adventure"
+      ],
+      "rating": 4,
+      "ratings": 129894,
+      "reviews": 3363
+    },
+    {
+      "title": "The Talisman",
+      "url": "https://www.goodreads.com/book/show/59219.The_Talisman",
+      "id": "3324421",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1170530286i/59219.jpg",
+      "authors": [
+        "Stephen King"
+      ],
+      "genres": [
+        "horror",
+        "fiction",
+        "thriller",
+        "adventure",
         "mystery",
         "audiobook",
-        "mystery-thriller",
-        "fiction",
-        "psychological-thriller",
-        "suspense"
+        "supernatural"
       ],
-      "rating": 4.19,
-      "ratings": 124533,
-      "reviews": 7395
+      "rating": 4.12,
+      "ratings": 129764,
+      "reviews": 4932
     }
   ]
 }

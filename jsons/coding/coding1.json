@@ -1,27 +1,6 @@
 {
   "books": [
     {
-      "title": "Refactoring to Patterns",
-      "url": "https://www.goodreads.com/book/show/85041.Refactoring_to_Patterns",
-      "id": "82065",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347966206i/85041.jpg",
-      "authors": [
-        "Joshua Kerievsky"
-      ],
-      "genres": [
-        "programming",
-        "technology",
-        "software",
-        "computer-science",
-        "technical",
-        "coding",
-        "non-fiction"
-      ],
-      "rating": 4.06,
-      "ratings": 1427,
-      "reviews": 47
-    },
-    {
       "title": "The Art of Unit Testing: With Examples in .NET",
       "url": "https://www.goodreads.com/book/show/6487349-the-art-of-unit-testing",
       "id": "6678711",
@@ -39,8 +18,8 @@
         "coding"
       ],
       "rating": 4.09,
-      "ratings": 1381,
-      "reviews": 105
+      "ratings": 1387,
+      "reviews": 106
     },
     {
       "title": "Agile Software Development, Principles, Patterns, and Practices",
@@ -52,16 +31,37 @@
       ],
       "genres": [
         "programming",
-        "software",
         "technology",
+        "software",
         "computer-science",
         "technical",
-        "non-fiction",
-        "coding"
+        "coding",
+        "non-fiction"
       ],
       "rating": 4.25,
-      "ratings": 1274,
-      "reviews": 61
+      "ratings": 1281,
+      "reviews": 62
+    },
+    {
+      "title": "The Art of UNIX Programming",
+      "url": "https://www.goodreads.com/book/show/104745.The_Art_of_UNIX_Programming",
+      "id": "100994",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348957784i/104745.jpg",
+      "authors": [
+        "Eric S. Raymond"
+      ],
+      "genres": [
+        "programming",
+        "computer-science",
+        "technical",
+        "technology",
+        "non-fiction",
+        "computers",
+        "coding"
+      ],
+      "rating": 4.18,
+      "ratings": 1249,
+      "reviews": 60
     },
     {
       "title": "Secrets of the JavaScript Ninja",
@@ -81,7 +81,7 @@
         "coding"
       ],
       "rating": 4.22,
-      "ratings": 1237,
+      "ratings": 1241,
       "reviews": 86
     },
     {
@@ -102,7 +102,7 @@
         "software"
       ],
       "rating": 4.49,
-      "ratings": 1221,
+      "ratings": 1224,
       "reviews": 81
     },
     {
@@ -123,7 +123,7 @@
         "self-help"
       ],
       "rating": 4.04,
-      "ratings": 1218,
+      "ratings": 1220,
       "reviews": 103
     },
     {
@@ -138,35 +138,14 @@
         "computer-science",
         "programming",
         "technology",
-        "science",
         "coding",
         "non-fiction",
+        "science",
         "technical"
       ],
       "rating": 4.08,
-      "ratings": 1081,
-      "reviews": 145
-    },
-    {
-      "title": "Paths & Portals",
-      "url": "https://www.goodreads.com/book/show/25688979-paths-portals",
-      "id": "45517393",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1444637823i/25688979.jpg",
-      "authors": [
-        "Gene Luen Yang"
-      ],
-      "genres": [
-        "graphic-novels",
-        "middle-grade",
-        "comics",
-        "science",
-        "childrens",
-        "coding",
-        "juvenile"
-      ],
-      "rating": 4.09,
-      "ratings": 1059,
-      "reviews": 154
+      "ratings": 1087,
+      "reviews": 144
     },
     {
       "title": "Python Tricks: A Buffet of Awesome Python Features",
@@ -186,8 +165,50 @@
         "reference"
       ],
       "rating": 4.44,
-      "ratings": 1057,
-      "reviews": 97
+      "ratings": 1064,
+      "reviews": 96
+    },
+    {
+      "title": "Paths & Portals",
+      "url": "https://www.goodreads.com/book/show/25688979-paths-portals",
+      "id": "45517393",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1444637823i/25688979.jpg",
+      "authors": [
+        "Gene Luen Yang"
+      ],
+      "genres": [
+        "graphic-novels",
+        "middle-grade",
+        "comics",
+        "science",
+        "childrens",
+        "coding",
+        "juvenile"
+      ],
+      "rating": 4.1,
+      "ratings": 1061,
+      "reviews": 154
+    },
+    {
+      "title": "How to Code a Sandcastle",
+      "url": "https://www.goodreads.com/book/show/35845088-how-to-code-a-sandcastle",
+      "id": "57356837",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1508418778i/35845088.jpg",
+      "authors": [
+        "Josh Funk"
+      ],
+      "genres": [
+        "picture-books",
+        "science",
+        "coding",
+        "childrens",
+        "robots",
+        "technology",
+        "non-fiction"
+      ],
+      "rating": 4.19,
+      "ratings": 1020,
+      "reviews": 207
     },
     {
       "title": "Atomic Design",
@@ -206,9 +227,9 @@
         "website-design",
         "coding"
       ],
-      "rating": 4.02,
-      "ratings": 959,
-      "reviews": 83
+      "rating": 4.01,
+      "ratings": 975,
+      "reviews": 84
     },
     {
       "title": "Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman",
@@ -228,7 +249,7 @@
         "coding"
       ],
       "rating": 4.12,
-      "ratings": 927,
+      "ratings": 933,
       "reviews": 131
     },
     {
@@ -249,7 +270,7 @@
         "coding"
       ],
       "rating": 4.29,
-      "ratings": 860,
+      "ratings": 859,
       "reviews": 60
     },
     {
@@ -270,8 +291,8 @@
         "coding"
       ],
       "rating": 4.46,
-      "ratings": 832,
-      "reviews": 71
+      "ratings": 848,
+      "reviews": 74
     },
     {
       "title": "Python for Everybody: Exploring Data in Python 3",
@@ -283,16 +304,16 @@
       ],
       "genres": [
         "programming",
-        "technology",
         "computer-science",
         "non-fiction",
+        "technology",
         "reference",
         "coding",
         "science"
       ],
       "rating": 4.28,
-      "ratings": 821,
-      "reviews": 66
+      "ratings": 830,
+      "reviews": 67
     },
     {
       "title": "Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript",
@@ -312,7 +333,7 @@
         "coding"
       ],
       "rating": 4.3,
-      "ratings": 785,
+      "ratings": 787,
       "reviews": 61
     },
     {
@@ -333,7 +354,7 @@
         "non-fiction"
       ],
       "rating": 4.3,
-      "ratings": 759,
+      "ratings": 761,
       "reviews": 66
     },
     {
@@ -354,29 +375,8 @@
         "coding"
       ],
       "rating": 4.28,
-      "ratings": 755,
+      "ratings": 759,
       "reviews": 38
-    },
-    {
-      "title": "The Art of Readable Code: Simple and Practical Techniques for Writing Better Code",
-      "url": "https://www.goodreads.com/book/show/8677004-the-art-of-readable-code",
-      "id": "13548937",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1324147949i/8677004.jpg",
-      "authors": [
-        "Dustin Boswell"
-      ],
-      "genres": [
-        "programming",
-        "computer-science",
-        "non-fiction",
-        "software",
-        "technology",
-        "technical",
-        "coding"
-      ],
-      "rating": 4,
-      "ratings": 736,
-      "reviews": 93
     },
     {
       "title": "Web Design with HTML, CSS, JavaScript and jQuery Set",
@@ -396,8 +396,8 @@
         "design"
       ],
       "rating": 4.41,
-      "ratings": 727,
-      "reviews": 23
+      "ratings": 734,
+      "reviews": 25
     },
     {
       "title": "You Don't Know JS: Types & Grammar",
@@ -417,7 +417,7 @@
         "coding"
       ],
       "rating": 4.49,
-      "ratings": 725,
+      "ratings": 729,
       "reviews": 27
     },
     {
@@ -431,14 +431,14 @@
       "genres": [
         "reference",
         "programming",
-        "computers",
         "computer-science",
+        "computers",
         "non-fiction",
         "technical",
         "coding"
       ],
-      "rating": 4.02,
-      "ratings": 717,
+      "rating": 4.03,
+      "ratings": 720,
       "reviews": 27
     },
     {
@@ -458,30 +458,9 @@
         "non-fiction",
         "coding"
       ],
-      "rating": 4.36,
-      "ratings": 674,
+      "rating": 4.35,
+      "ratings": 679,
       "reviews": 82
-    },
-    {
-      "title": "Secrets & Sequences",
-      "url": "https://www.goodreads.com/book/show/29102847-secrets-sequences",
-      "id": "49340909",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1480665605i/29102847.jpg",
-      "authors": [
-        "Gene Luen Yang"
-      ],
-      "genres": [
-        "graphic-novels",
-        "middle-grade",
-        "science-fiction",
-        "childrens",
-        "comics",
-        "mystery",
-        "coding"
-      ],
-      "rating": 4.19,
-      "ratings": 669,
-      "reviews": 87
     },
     {
       "title": "You Don't Know JS: Async & Performance",
@@ -501,8 +480,29 @@
         "coding"
       ],
       "rating": 4.31,
-      "ratings": 659,
+      "ratings": 662,
       "reviews": 42
+    },
+    {
+      "title": "Python Data Science Handbook: Essential Tools for Working with Data",
+      "url": "https://www.goodreads.com/book/show/26457146-python-data-science-handbook",
+      "id": "46459730",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1481029785i/26457146.jpg",
+      "authors": [
+        "Jake Vanderplas"
+      ],
+      "genres": [
+        "programming",
+        "computer-science",
+        "non-fiction",
+        "technical",
+        "reference",
+        "coding",
+        "textbooks"
+      ],
+      "rating": 4.31,
+      "ratings": 597,
+      "reviews": 56
     }
   ]
 }

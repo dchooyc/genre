@@ -1,6 +1,27 @@
 {
   "books": [
     {
+      "title": "Service: A Navy SEAL at War",
+      "url": "https://www.goodreads.com/book/show/13515711-service",
+      "id": "19072323",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1334084570i/13515711.jpg",
+      "authors": [
+        "Marcus Luttrell"
+      ],
+      "genres": [
+        "military-fiction",
+        "non-fiction",
+        "war",
+        "history",
+        "biography",
+        "military-history",
+        "memoir"
+      ],
+      "rating": 4.3,
+      "ratings": 7066,
+      "reviews": 318
+    },
+    {
       "title": "The Civil War, Vol. 3: Red River to Appomattox",
       "url": "https://www.goodreads.com/book/show/874419.The_Civil_War_Vol_3",
       "id": "6864002",
@@ -18,7 +39,7 @@
         "military-history"
       ],
       "rating": 4.54,
-      "ratings": 6997,
+      "ratings": 7030,
       "reviews": 259
     },
     {
@@ -36,53 +57,11 @@
         "military-history",
         "world-war-ii",
         "military-fiction",
-        "world-history"
-      ],
-      "rating": 4.22,
-      "ratings": 6946,
-      "reviews": 299
-    },
-    {
-      "title": "Neptune's Inferno: The U.S. Navy at Guadalcanal",
-      "url": "https://www.goodreads.com/book/show/8575701-neptune-s-inferno",
-      "id": "13444597",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320403084i/8575701.jpg",
-      "authors": [
-        "James D. Hornfischer"
-      ],
-      "genres": [
-        "history",
-        "non-fiction",
-        "military-fiction",
-        "military-history",
-        "world-war-ii",
-        "war",
-        "naval-history"
-      ],
-      "rating": 4.28,
-      "ratings": 6826,
-      "reviews": 507
-    },
-    {
-      "title": "House to House: An Epic Memoir of War",
-      "url": "https://www.goodreads.com/book/show/1554307.House_to_House",
-      "id": "1546752",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1440124085i/1554307.jpg",
-      "authors": [
-        "David Bellavia"
-      ],
-      "genres": [
-        "military-fiction",
-        "non-fiction",
-        "history",
-        "war",
-        "military-history",
-        "memoir",
         "biography"
       ],
-      "rating": 4.31,
-      "ratings": 6822,
-      "reviews": 425
+      "rating": 4.22,
+      "ratings": 6962,
+      "reviews": 305
     },
     {
       "title": "Six Frigates: The Epic History of the Founding of the U. S. Navy",
@@ -102,29 +81,50 @@
         "naval-history"
       ],
       "rating": 4.37,
-      "ratings": 6817,
-      "reviews": 558
+      "ratings": 6904,
+      "reviews": 560
     },
     {
-      "title": "Dreadnought: Britain, Germany, and the Coming of the Great War",
-      "url": "https://www.goodreads.com/book/show/209889.Dreadnought",
-      "id": "1415747",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386924183i/209889.jpg",
+      "title": "House to House: An Epic Memoir of War",
+      "url": "https://www.goodreads.com/book/show/1554307.House_to_House",
+      "id": "1546752",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1440124085i/1554307.jpg",
       "authors": [
-        "Robert K. Massie"
+        "David Bellavia"
+      ],
+      "genres": [
+        "military-fiction",
+        "non-fiction",
+        "history",
+        "war",
+        "military-history",
+        "memoir",
+        "biography"
+      ],
+      "rating": 4.31,
+      "ratings": 6884,
+      "reviews": 430
+    },
+    {
+      "title": "Neptune's Inferno: The U.S. Navy at Guadalcanal",
+      "url": "https://www.goodreads.com/book/show/8575701-neptune-s-inferno",
+      "id": "13444597",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320403084i/8575701.jpg",
+      "authors": [
+        "James D. Hornfischer"
       ],
       "genres": [
         "history",
         "non-fiction",
-        "world-war-i",
-        "military-history",
-        "war",
         "military-fiction",
-        "european-history"
+        "military-history",
+        "world-war-ii",
+        "war",
+        "naval-history"
       ],
-      "rating": 4.31,
-      "ratings": 6679,
-      "reviews": 368
+      "rating": 4.29,
+      "ratings": 6867,
+      "reviews": 508
     },
     {
       "title": "The March of Folly",
@@ -144,8 +144,29 @@
         "military-fiction"
       ],
       "rating": 4.02,
-      "ratings": 6666,
-      "reviews": 546
+      "ratings": 6711,
+      "reviews": 554
+    },
+    {
+      "title": "Dreadnought: Britain, Germany, and the Coming of the Great War",
+      "url": "https://www.goodreads.com/book/show/209889.Dreadnought",
+      "id": "1415747",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386924183i/209889.jpg",
+      "authors": [
+        "Robert K. Massie"
+      ],
+      "genres": [
+        "history",
+        "non-fiction",
+        "world-war-i",
+        "military-history",
+        "war",
+        "military-fiction",
+        "european-history"
+      ],
+      "rating": 4.31,
+      "ratings": 6702,
+      "reviews": 370
     },
     {
       "title": "The Last Battle: The Classic History of the Battle for Berlin",
@@ -165,8 +186,29 @@
         "germany"
       ],
       "rating": 4.23,
-      "ratings": 6639,
-      "reviews": 227
+      "ratings": 6668,
+      "reviews": 228
+    },
+    {
+      "title": "Masters of the Air: America's Bomber Boys Who Fought the Air War Against Nazi Germany",
+      "url": "https://www.goodreads.com/book/show/71318.Masters_of_the_Air",
+      "id": "69069",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388186808i/71318.jpg",
+      "authors": [
+        "Donald L. Miller"
+      ],
+      "genres": [
+        "history",
+        "non-fiction",
+        "world-war-ii",
+        "war",
+        "military-history",
+        "military-fiction",
+        "aviation"
+      ],
+      "rating": 4.14,
+      "ratings": 6618,
+      "reviews": 403
     },
     {
       "title": "Rogue Warrior",
@@ -186,8 +228,8 @@
         "autobiography"
       ],
       "rating": 4.01,
-      "ratings": 6527,
-      "reviews": 242
+      "ratings": 6563,
+      "reviews": 243
     },
     {
       "title": "Imperial Life in the Emerald City: Inside Iraq's Green Zone",
@@ -207,29 +249,8 @@
         "military-history"
       ],
       "rating": 4.04,
-      "ratings": 6386,
-      "reviews": 657
-    },
-    {
-      "title": "Empires of the Sea: The Final Battle for the Mediterranean, 1521 - 1580",
-      "url": "https://www.goodreads.com/book/show/3418555-empires-of-the-sea",
-      "id": "2456291",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1332815546i/3418555.jpg",
-      "authors": [
-        "Roger Crowley"
-      ],
-      "genres": [
-        "history",
-        "non-fiction",
-        "european-history",
-        "military-history",
-        "war",
-        "military-fiction",
-        "world-history"
-      ],
-      "rating": 4.29,
-      "ratings": 6134,
-      "reviews": 512
+      "ratings": 6402,
+      "reviews": 658
     },
     {
       "title": "The Liberator: One World War II Soldier's 500-Day Odyssey from the Beaches of Sicily to the Gates of Dachau",
@@ -249,8 +270,29 @@
         "military-history"
       ],
       "rating": 4.27,
-      "ratings": 6125,
-      "reviews": 612
+      "ratings": 6202,
+      "reviews": 617
+    },
+    {
+      "title": "Empires of the Sea: The Final Battle for the Mediterranean, 1521 - 1580",
+      "url": "https://www.goodreads.com/book/show/3418555-empires-of-the-sea",
+      "id": "2456291",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1332815546i/3418555.jpg",
+      "authors": [
+        "Roger Crowley"
+      ],
+      "genres": [
+        "history",
+        "non-fiction",
+        "european-history",
+        "military-history",
+        "war",
+        "military-fiction",
+        "world-history"
+      ],
+      "rating": 4.29,
+      "ratings": 6179,
+      "reviews": 520
     },
     {
       "title": "Andrew Jackson and the Miracle of New Orleans: The Battle That Shaped America's Destiny",
@@ -270,8 +312,50 @@
         "war"
       ],
       "rating": 4.09,
-      "ratings": 6079,
-      "reviews": 641
+      "ratings": 6165,
+      "reviews": 650
+    },
+    {
+      "title": "The British Are Coming: The War for America, Lexington to Princeton, 1775-1777",
+      "url": "https://www.goodreads.com/book/show/41812830-the-british-are-coming",
+      "id": "65247139",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1538524326i/41812830.jpg",
+      "authors": [
+        "Rick Atkinson"
+      ],
+      "genres": [
+        "history",
+        "non-fiction",
+        "american-history",
+        "american-revolution",
+        "american-revolutionary-war",
+        "military-history",
+        "war"
+      ],
+      "rating": 4.43,
+      "ratings": 6047,
+      "reviews": 839
+    },
+    {
+      "title": "Vietnam: An Epic Tragedy, 1945-1975",
+      "url": "https://www.goodreads.com/book/show/36099654-vietnam",
+      "id": "57683946",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1508784853i/36099654.jpg",
+      "authors": [
+        "Max Hastings"
+      ],
+      "genres": [
+        "history",
+        "non-fiction",
+        "war",
+        "military-history",
+        "military-fiction",
+        "american-history",
+        "politics"
+      ],
+      "rating": 4.3,
+      "ratings": 6029,
+      "reviews": 586
     },
     {
       "title": "The Outpost: An Untold Story of American Valor",
@@ -290,30 +374,9 @@
         "american-history",
         "audiobook"
       ],
-      "rating": 4.33,
-      "ratings": 5980,
-      "reviews": 483
-    },
-    {
-      "title": "The British Are Coming: The War for America, Lexington to Princeton, 1775-1777",
-      "url": "https://www.goodreads.com/book/show/41812830-the-british-are-coming",
-      "id": "65247139",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1538524326i/41812830.jpg",
-      "authors": [
-        "Rick Atkinson"
-      ],
-      "genres": [
-        "history",
-        "non-fiction",
-        "american-history",
-        "american-revolution",
-        "military-history",
-        "american-revolutionary-war",
-        "war"
-      ],
-      "rating": 4.43,
-      "ratings": 5973,
-      "reviews": 832
+      "rating": 4.34,
+      "ratings": 5977,
+      "reviews": 488
     },
     {
       "title": "The Great War and Modern Memory",
@@ -333,29 +396,8 @@
         "military-history"
       ],
       "rating": 4.13,
-      "ratings": 5950,
-      "reviews": 285
-    },
-    {
-      "title": "Vietnam: An Epic Tragedy, 1945-1975",
-      "url": "https://www.goodreads.com/book/show/36099654-vietnam",
-      "id": "57683946",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1508784853i/36099654.jpg",
-      "authors": [
-        "Max Hastings"
-      ],
-      "genres": [
-        "history",
-        "non-fiction",
-        "war",
-        "military-history",
-        "military-fiction",
-        "american-history",
-        "politics"
-      ],
-      "rating": 4.29,
-      "ratings": 5921,
-      "reviews": 583
+      "ratings": 5904,
+      "reviews": 286
     },
     {
       "title": "Catastrophe 1914: Europe Goes to War",
@@ -375,8 +417,8 @@
         "european-history"
       ],
       "rating": 4.05,
-      "ratings": 5870,
-      "reviews": 521
+      "ratings": 5866,
+      "reviews": 527
     },
     {
       "title": "On Desperate Ground: The Marines at The Reservoir, the Korean War's Greatest Battle",
@@ -395,51 +437,9 @@
         "american-history",
         "audiobook"
       ],
-      "rating": 4.56,
-      "ratings": 5759,
-      "reviews": 716
-    },
-    {
-      "title": "Walk in My Combat Boots: True Stories from America's Bravest Warriors",
-      "url": "https://www.goodreads.com/book/show/53915317-walk-in-my-combat-boots",
-      "id": "84271381",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1606104755i/53915317.jpg",
-      "authors": [
-        "James Patterson"
-      ],
-      "genres": [
-        "non-fiction",
-        "history",
-        "military-fiction",
-        "biography",
-        "war",
-        "military-history",
-        "contemporary"
-      ],
-      "rating": 4.19,
-      "ratings": 5688,
-      "reviews": 433
-    },
-    {
-      "title": "Masters of the Air: America's Bomber Boys Who Fought the Air War Against Nazi Germany",
-      "url": "https://www.goodreads.com/book/show/71318.Masters_of_the_Air",
-      "id": "69069",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388186808i/71318.jpg",
-      "authors": [
-        "Donald L. Miller"
-      ],
-      "genres": [
-        "history",
-        "non-fiction",
-        "world-war-ii",
-        "war",
-        "military-history",
-        "military-fiction",
-        "aviation"
-      ],
-      "rating": 4.06,
-      "ratings": 5683,
-      "reviews": 301
+      "rating": 4.57,
+      "ratings": 5836,
+      "reviews": 724
     },
     {
       "title": "Spearhead: An American Tank Gunner, His Enemy, and a Collision of Lives In World War II",
@@ -459,8 +459,29 @@
         "biography"
       ],
       "rating": 4.53,
-      "ratings": 5636,
-      "reviews": 684
+      "ratings": 5747,
+      "reviews": 694
+    },
+    {
+      "title": "Walk in My Combat Boots: True Stories from America's Bravest Warriors",
+      "url": "https://www.goodreads.com/book/show/53915317-walk-in-my-combat-boots",
+      "id": "84271381",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1606104755i/53915317.jpg",
+      "authors": [
+        "James Patterson"
+      ],
+      "genres": [
+        "non-fiction",
+        "history",
+        "military-fiction",
+        "biography",
+        "war",
+        "military-history",
+        "historical"
+      ],
+      "rating": 4.19,
+      "ratings": 5722,
+      "reviews": 438
     },
     {
       "title": "In the Company of Heroes: The Personal Story Behind Black Hawk Down",
@@ -480,29 +501,8 @@
         "memoir"
       ],
       "rating": 4.26,
-      "ratings": 5588,
-      "reviews": 182
-    },
-    {
-      "title": "Overlord: D-Day and the Battle for Normandy",
-      "url": "https://www.goodreads.com/book/show/55414.Overlord",
-      "id": "2869272",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1385178036i/55414.jpg",
-      "authors": [
-        "Max Hastings"
-      ],
-      "genres": [
-        "history",
-        "non-fiction",
-        "world-war-ii",
-        "military-history",
-        "war",
-        "military-fiction",
-        "american-history"
-      ],
-      "rating": 4.17,
-      "ratings": 5575,
-      "reviews": 133
+      "ratings": 5616,
+      "reviews": 185
     }
   ]
 }

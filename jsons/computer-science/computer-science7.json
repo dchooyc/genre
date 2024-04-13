@@ -1,6 +1,132 @@
 {
   "books": [
     {
+      "title": "The Elements Of Computing Systems: Building A Modern Computer From First Principles",
+      "url": "https://www.goodreads.com/book/show/910789.The_Elements_Of_Computing_Systems",
+      "id": "895894",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1387737217i/910789.jpg",
+      "authors": [
+        "Noam Nisan"
+      ],
+      "genres": [
+        "computer-science",
+        "programming",
+        "technology",
+        "computers",
+        "technical",
+        "non-fiction",
+        "science"
+      ],
+      "rating": 4.55,
+      "ratings": 867,
+      "reviews": 68
+    },
+    {
+      "title": "SCJP Sun Certified Programmer for Java 6 Study Guide",
+      "url": "https://www.goodreads.com/book/show/2593099-scjp-sun-certified-programmer-for-java-6-study-guide",
+      "id": "2613785",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1369818986i/2593099.jpg",
+      "authors": [
+        "Kathy Sierra"
+      ],
+      "genres": [
+        "programming",
+        "technology",
+        "non-fiction",
+        "computer-science",
+        "technical",
+        "computers",
+        "coding"
+      ],
+      "rating": 4.29,
+      "ratings": 859,
+      "reviews": 60
+    },
+    {
+      "title": "Implementing Lean Software Development: From Concept to Cash",
+      "url": "https://www.goodreads.com/book/show/349417.Implementing_Lean_Software_Development",
+      "id": "339686",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388500407i/349417.jpg",
+      "authors": [
+        "Mary Poppendieck"
+      ],
+      "genres": [
+        "programming",
+        "management",
+        "technology",
+        "software",
+        "business",
+        "computer-science",
+        "non-fiction"
+      ],
+      "rating": 4.2,
+      "ratings": 848,
+      "reviews": 45
+    },
+    {
+      "title": "But How Do It Know? The Basic Principles of Computers for Everyone",
+      "url": "https://www.goodreads.com/book/show/18276352-but-how-do-it-know-the-basic-principles-of-computers-for-everyone",
+      "id": "25745535",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1375433017i/18276352.jpg",
+      "authors": [
+        "J. Clark Scott"
+      ],
+      "genres": [
+        "computer-science",
+        "programming",
+        "non-fiction",
+        "technology",
+        "science",
+        "computers",
+        "coding"
+      ],
+      "rating": 4.46,
+      "ratings": 848,
+      "reviews": 74
+    },
+    {
+      "title": "Metasploit: The Penetration Tester's Guide",
+      "url": "https://www.goodreads.com/book/show/10545174-metasploit",
+      "id": "15451623",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328753509i/10545174.jpg",
+      "authors": [
+        "David  Kennedy"
+      ],
+      "genres": [
+        "hackers",
+        "technology",
+        "computer-science",
+        "reference",
+        "non-fiction",
+        "technical",
+        "computers"
+      ],
+      "rating": 4.06,
+      "ratings": 846,
+      "reviews": 34
+    },
+    {
+      "title": "Linux Kernel Development",
+      "url": "https://www.goodreads.com/book/show/8474434-linux-kernel-development",
+      "id": "219997",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1349023910i/8474434.jpg",
+      "authors": [
+        "Robert   Love"
+      ],
+      "genres": [
+        "programming",
+        "computer-science",
+        "technology",
+        "technical",
+        "reference",
+        "computers",
+        "non-fiction"
+      ],
+      "rating": 4.33,
+      "ratings": 845,
+      "reviews": 47
+    },
+    {
       "title": "Expert C Programming: Deep C Secrets",
       "url": "https://www.goodreads.com/book/show/198207.Expert_C_Programming",
       "id": "191730",
@@ -22,27 +148,6 @@
       "reviews": 48
     },
     {
-      "title": "But How Do It Know? The Basic Principles of Computers for Everyone",
-      "url": "https://www.goodreads.com/book/show/18276352-but-how-do-it-know-the-basic-principles-of-computers-for-everyone",
-      "id": "25745535",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1375433017i/18276352.jpg",
-      "authors": [
-        "J. Clark Scott"
-      ],
-      "genres": [
-        "computer-science",
-        "programming",
-        "non-fiction",
-        "technology",
-        "science",
-        "computers",
-        "coding"
-      ],
-      "rating": 4.46,
-      "ratings": 832,
-      "reviews": 71
-    },
-    {
       "title": "Python for Everybody: Exploring Data in Python 3",
       "url": "https://www.goodreads.com/book/show/31134574-python-for-everybody",
       "id": "50390184",
@@ -52,16 +157,16 @@
       ],
       "genres": [
         "programming",
-        "technology",
         "computer-science",
         "non-fiction",
+        "technology",
         "reference",
         "coding",
         "science"
       ],
       "rating": 4.28,
-      "ratings": 821,
-      "reviews": 66
+      "ratings": 830,
+      "reviews": 67
     },
     {
       "title": "Software Requirements",
@@ -81,7 +186,7 @@
         "technology"
       ],
       "rating": 4.13,
-      "ratings": 809,
+      "ratings": 816,
       "reviews": 50
     },
     {
@@ -102,29 +207,8 @@
         "non-fiction"
       ],
       "rating": 4.16,
-      "ratings": 800,
+      "ratings": 803,
       "reviews": 49
-    },
-    {
-      "title": "Mindstorms: Children, Computers, And Powerful Ideas",
-      "url": "https://www.goodreads.com/book/show/703532.Mindstorms",
-      "id": "689823",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348579820i/703532.jpg",
-      "authors": [
-        "Seymour Papert"
-      ],
-      "genres": [
-        "education",
-        "non-fiction",
-        "technology",
-        "psychology",
-        "computer-science",
-        "computers",
-        "programming"
-      ],
-      "rating": 4.31,
-      "ratings": 795,
-      "reviews": 91
     },
     {
       "title": "High Performance Browser Networking",
@@ -137,36 +221,15 @@
       "genres": [
         "programming",
         "technology",
-        "software",
         "computer-science",
+        "software",
         "technical",
         "non-fiction",
         "computers"
       ],
       "rating": 4.52,
-      "ratings": 795,
-      "reviews": 79
-    },
-    {
-      "title": "The Human Use of Human Beings: Cybernetics and Society",
-      "url": "https://www.goodreads.com/book/show/153954.The_Human_Use_of_Human_Beings",
-      "id": "148587",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347913304i/153954.jpg",
-      "authors": [
-        "Norbert Wiener"
-      ],
-      "genres": [
-        "philosophy",
-        "science",
-        "non-fiction",
-        "technology",
-        "sociology",
-        "psychology",
-        "computer-science"
-      ],
-      "rating": 4.03,
-      "ratings": 794,
-      "reviews": 88
+      "ratings": 803,
+      "reviews": 80
     },
     {
       "title": "The Chip : How Two Americans Invented the Microchip and Launched a Revolution",
@@ -186,8 +249,29 @@
         "business"
       ],
       "rating": 4.27,
-      "ratings": 793,
+      "ratings": 801,
       "reviews": 87
+    },
+    {
+      "title": "Mindstorms: Children, Computers, And Powerful Ideas",
+      "url": "https://www.goodreads.com/book/show/703532.Mindstorms",
+      "id": "689823",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348579820i/703532.jpg",
+      "authors": [
+        "Seymour Papert"
+      ],
+      "genres": [
+        "education",
+        "non-fiction",
+        "technology",
+        "psychology",
+        "computer-science",
+        "computers",
+        "programming"
+      ],
+      "rating": 4.31,
+      "ratings": 798,
+      "reviews": 92
     },
     {
       "title": "Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript",
@@ -207,29 +291,29 @@
         "coding"
       ],
       "rating": 4.3,
-      "ratings": 785,
+      "ratings": 787,
       "reviews": 61
     },
     {
-      "title": "Head First Servlets and JSP: Passing the Sun Certified Web Component Developer Exam",
-      "url": "https://www.goodreads.com/book/show/58129.Head_First_Servlets_and_JSP",
-      "id": "56606",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1387715905i/58129.jpg",
+      "title": "The Kubernetes Book: 2024 Edition",
+      "url": "https://www.goodreads.com/book/show/35494978-the-kubernetes-book",
+      "id": "56897107",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1498101512i/35494978.jpg",
       "authors": [
-        "Bryan Basham"
+        "Nigel Poulton"
       ],
       "genres": [
+        "technology",
         "programming",
         "technical",
-        "technology",
-        "computer-science",
         "software",
+        "computer-science",
         "reference",
-        "computers"
+        "engineering"
       ],
-      "rating": 4.17,
-      "ratings": 759,
-      "reviews": 46
+      "rating": 4.25,
+      "ratings": 767,
+      "reviews": 81
     },
     {
       "title": "The Well-Grounded Rubyist: Covers Ruby 1.9.1",
@@ -249,8 +333,29 @@
         "non-fiction"
       ],
       "rating": 4.3,
-      "ratings": 759,
+      "ratings": 761,
       "reviews": 66
+    },
+    {
+      "title": "Head First Servlets and JSP: Passing the Sun Certified Web Component Developer Exam",
+      "url": "https://www.goodreads.com/book/show/58129.Head_First_Servlets_and_JSP",
+      "id": "56606",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1387715905i/58129.jpg",
+      "authors": [
+        "Bryan Basham"
+      ],
+      "genres": [
+        "programming",
+        "technical",
+        "technology",
+        "computer-science",
+        "software",
+        "reference",
+        "computers"
+      ],
+      "rating": 4.17,
+      "ratings": 760,
+      "reviews": 46
     },
     {
       "title": "Agile Principles, Patterns, and Practices in C#",
@@ -270,29 +375,8 @@
         "coding"
       ],
       "rating": 4.28,
-      "ratings": 755,
+      "ratings": 759,
       "reviews": 38
-    },
-    {
-      "title": "The Kubernetes Book: 2024 Edition",
-      "url": "https://www.goodreads.com/book/show/35494978-the-kubernetes-book",
-      "id": "56897107",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1498101512i/35494978.jpg",
-      "authors": [
-        "Nigel Poulton"
-      ],
-      "genres": [
-        "technology",
-        "programming",
-        "technical",
-        "software",
-        "computer-science",
-        "reference",
-        "engineering"
-      ],
-      "rating": 4.24,
-      "ratings": 745,
-      "reviews": 80
     },
     {
       "title": "Dependency Injection in .NET",
@@ -312,8 +396,29 @@
         "computers"
       ],
       "rating": 4.42,
-      "ratings": 739,
+      "ratings": 745,
       "reviews": 79
+    },
+    {
+      "title": "Modern Software Engineering: Doing What Works to Build Better Software Faster",
+      "url": "https://www.goodreads.com/book/show/57345270-modern-software-engineering",
+      "id": "89753499",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1633733111i/57345270.jpg",
+      "authors": [
+        "David  Farley"
+      ],
+      "genres": [
+        "programming",
+        "technology",
+        "software",
+        "computer-science",
+        "technical",
+        "non-fiction",
+        "engineering"
+      ],
+      "rating": 4.2,
+      "ratings": 742,
+      "reviews": 97
     },
     {
       "title": "Functional Programming in Scala",
@@ -333,29 +438,8 @@
         "non-fiction"
       ],
       "rating": 4.42,
-      "ratings": 737,
+      "ratings": 741,
       "reviews": 60
-    },
-    {
-      "title": "The Art of Readable Code: Simple and Practical Techniques for Writing Better Code",
-      "url": "https://www.goodreads.com/book/show/8677004-the-art-of-readable-code",
-      "id": "13548937",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1324147949i/8677004.jpg",
-      "authors": [
-        "Dustin Boswell"
-      ],
-      "genres": [
-        "programming",
-        "computer-science",
-        "non-fiction",
-        "software",
-        "technology",
-        "technical",
-        "coding"
-      ],
-      "rating": 4,
-      "ratings": 736,
-      "reviews": 93
     },
     {
       "title": "Web Design with HTML, CSS, JavaScript and jQuery Set",
@@ -375,8 +459,8 @@
         "design"
       ],
       "rating": 4.41,
-      "ratings": 727,
-      "reviews": 23
+      "ratings": 734,
+      "reviews": 25
     },
     {
       "title": "You Don't Know JS: Types & Grammar",
@@ -396,28 +480,7 @@
         "coding"
       ],
       "rating": 4.49,
-      "ratings": 725,
-      "reviews": 27
-    },
-    {
-      "title": "Python Pocket Reference",
-      "url": "https://www.goodreads.com/book/show/583495.Python_Pocket_Reference",
-      "id": "570354",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388711420i/583495.jpg",
-      "authors": [
-        "Mark Lutz"
-      ],
-      "genres": [
-        "reference",
-        "programming",
-        "computers",
-        "computer-science",
-        "non-fiction",
-        "technical",
-        "coding"
-      ],
-      "rating": 4.02,
-      "ratings": 717,
+      "ratings": 729,
       "reviews": 27
     },
     {
@@ -438,71 +501,8 @@
         "reference"
       ],
       "rating": 4.25,
-      "ratings": 715,
-      "reviews": 36
-    },
-    {
-      "title": "Understanding the Linux Kernel",
-      "url": "https://www.goodreads.com/book/show/227119.Understanding_the_Linux_Kernel",
-      "id": "219996",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388217897i/227119.jpg",
-      "authors": [
-        "Daniel P. Bovet"
-      ],
-      "genres": [
-        "programming",
-        "computer-science",
-        "technology",
-        "technical",
-        "reference",
-        "computers",
-        "non-fiction"
-      ],
-      "rating": 4.11,
-      "ratings": 708,
-      "reviews": 30
-    },
-    {
-      "title": "Reinforcement Learning: An Introduction",
-      "url": "https://www.goodreads.com/book/show/739791.Reinforcement_Learning",
-      "id": "725961",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348086685i/739791.jpg",
-      "authors": [
-        "Richard S. Sutton"
-      ],
-      "genres": [
-        "computer-science",
-        "artificial-intelligence",
-        "textbooks",
-        "technical",
-        "technology",
-        "science",
-        "non-fiction"
-      ],
-      "rating": 4.53,
-      "ratings": 695,
-      "reviews": 75
-    },
-    {
-      "title": "Modern Software Engineering: Doing What Works to Build Better Software Faster",
-      "url": "https://www.goodreads.com/book/show/57345270-modern-software-engineering",
-      "id": "89753499",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1633733111i/57345270.jpg",
-      "authors": [
-        "David  Farley"
-      ],
-      "genres": [
-        "programming",
-        "software",
-        "technology",
-        "computer-science",
-        "technical",
-        "non-fiction",
-        "engineering"
-      ],
-      "rating": 4.21,
-      "ratings": 680,
-      "reviews": 86
+      "ratings": 725,
+      "reviews": 38
     }
   ]
 }

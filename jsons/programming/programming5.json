@@ -1,6 +1,90 @@
 {
   "books": [
     {
+      "title": "Practical Vim: Edit Text at the Speed of Thought",
+      "url": "https://www.goodreads.com/book/show/13607232-practical-vim",
+      "id": "19203019",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1336278962i/13607232.jpg",
+      "authors": [
+        "Drew Neil"
+      ],
+      "genres": [
+        "programming",
+        "technology",
+        "computer-science",
+        "technical",
+        "non-fiction",
+        "reference",
+        "software"
+      ],
+      "rating": 4.5,
+      "ratings": 1348,
+      "reviews": 137
+    },
+    {
+      "title": "How to Build a Billion Dollar App",
+      "url": "https://www.goodreads.com/book/show/23658963-how-to-build-a-billion-dollar-app",
+      "id": "43266074",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1420791474i/23658963.jpg",
+      "authors": [
+        "George Berkowski"
+      ],
+      "genres": [
+        "business",
+        "entrepreneurship",
+        "technology",
+        "non-fiction",
+        "self-help",
+        "finance",
+        "programming"
+      ],
+      "rating": 4.14,
+      "ratings": 1346,
+      "reviews": 87
+    },
+    {
+      "title": "Clean Agile: Back to Basics",
+      "url": "https://www.goodreads.com/book/show/45280021-clean-agile",
+      "id": "69991697",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1568477691i/45280021.jpg",
+      "authors": [
+        "Robert C. Martin"
+      ],
+      "genres": [
+        "programming",
+        "technology",
+        "computer-science",
+        "software",
+        "management",
+        "technical",
+        "non-fiction"
+      ],
+      "rating": 4.26,
+      "ratings": 1316,
+      "reviews": 139
+    },
+    {
+      "title": "The UNIX Programming Environment",
+      "url": "https://www.goodreads.com/book/show/337338.The_UNIX_Programming_Environment",
+      "id": "689392",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1469578824i/337338.jpg",
+      "authors": [
+        "Brian W. Kernighan"
+      ],
+      "genres": [
+        "programming",
+        "computer-science",
+        "technology",
+        "reference",
+        "computers",
+        "technical",
+        "non-fiction"
+      ],
+      "rating": 4.24,
+      "ratings": 1310,
+      "reviews": 41
+    },
+    {
       "title": "Agile Software Development, Principles, Patterns, and Practices",
       "url": "https://www.goodreads.com/book/show/84985.Agile_Software_Development_Principles_Patterns_and_Practices",
       "id": "82011",
@@ -10,37 +94,37 @@
       ],
       "genres": [
         "programming",
-        "software",
         "technology",
+        "software",
         "computer-science",
         "technical",
-        "non-fiction",
-        "coding"
+        "coding",
+        "non-fiction"
       ],
       "rating": 4.25,
-      "ratings": 1274,
-      "reviews": 61
+      "ratings": 1281,
+      "reviews": 62
     },
     {
-      "title": "The Making of Prince of Persia",
-      "url": "https://www.goodreads.com/book/show/12917506-the-making-of-prince-of-persia",
-      "id": "18072580",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1329177639i/12917506.jpg",
+      "title": "Eloquent Ruby",
+      "url": "https://www.goodreads.com/book/show/9364729-eloquent-ruby",
+      "id": "14248228",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348111715i/9364729.jpg",
       "authors": [
-        "Jordan Mechner"
+        "Russ Olsen"
       ],
       "genres": [
-        "non-fiction",
-        "games",
         "programming",
-        "history",
-        "video-games",
-        "gaming",
-        "biography"
+        "technology",
+        "technical",
+        "computer-science",
+        "software",
+        "non-fiction",
+        "computers"
       ],
-      "rating": 4.05,
-      "ratings": 1274,
-      "reviews": 139
+      "rating": 4.35,
+      "ratings": 1280,
+      "reviews": 68
     },
     {
       "title": "Deep Learning with Python",
@@ -59,9 +143,30 @@
         "technical",
         "science"
       ],
-      "rating": 4.58,
-      "ratings": 1248,
+      "rating": 4.57,
+      "ratings": 1262,
       "reviews": 128
+    },
+    {
+      "title": "The Art of UNIX Programming",
+      "url": "https://www.goodreads.com/book/show/104745.The_Art_of_UNIX_Programming",
+      "id": "100994",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348957784i/104745.jpg",
+      "authors": [
+        "Eric S. Raymond"
+      ],
+      "genres": [
+        "programming",
+        "computer-science",
+        "technical",
+        "technology",
+        "non-fiction",
+        "computers",
+        "coding"
+      ],
+      "rating": 4.18,
+      "ratings": 1249,
+      "reviews": 60
     },
     {
       "title": "Secrets of the JavaScript Ninja",
@@ -81,8 +186,29 @@
         "coding"
       ],
       "rating": 4.22,
-      "ratings": 1237,
+      "ratings": 1241,
       "reviews": 86
+    },
+    {
+      "title": "Show Stopper!: The Breakneck Race to Create Windows NT and the Next Generation at Microsoft",
+      "url": "https://www.goodreads.com/book/show/1416925.Show_Stopper_",
+      "id": "1407293",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442369390i/1416925.jpg",
+      "authors": [
+        "G. Pascal Zachary"
+      ],
+      "genres": [
+        "non-fiction",
+        "history",
+        "technology",
+        "business",
+        "computers",
+        "programming",
+        "computer-science"
+      ],
+      "rating": 4.14,
+      "ratings": 1234,
+      "reviews": 82
     },
     {
       "title": "You Don't Know JS: this & Object Prototypes",
@@ -102,28 +228,7 @@
         "software"
       ],
       "rating": 4.49,
-      "ratings": 1221,
-      "reviews": 81
-    },
-    {
-      "title": "Show Stopper!: The Breakneck Race to Create Windows NT and the Next Generation at Microsoft",
-      "url": "https://www.goodreads.com/book/show/1416925.Show_Stopper_",
-      "id": "1407293",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442369390i/1416925.jpg",
-      "authors": [
-        "G. Pascal Zachary"
-      ],
-      "genres": [
-        "non-fiction",
-        "history",
-        "technology",
-        "business",
-        "computers",
-        "programming",
-        "computer-science"
-      ],
-      "rating": 4.15,
-      "ratings": 1218,
+      "ratings": 1224,
       "reviews": 81
     },
     {
@@ -144,7 +249,7 @@
         "self-help"
       ],
       "rating": 4.04,
-      "ratings": 1218,
+      "ratings": 1220,
       "reviews": 103
     },
     {
@@ -164,9 +269,30 @@
         "architecture",
         "engineering"
       ],
-      "rating": 4.05,
-      "ratings": 1195,
-      "reviews": 88
+      "rating": 4.06,
+      "ratings": 1211,
+      "reviews": 90
+    },
+    {
+      "title": "The Hundred-Page Machine Learning Book",
+      "url": "https://www.goodreads.com/book/show/43190851-the-hundred-page-machine-learning-book",
+      "id": "67014838",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1546285613i/43190851.jpg",
+      "authors": [
+        "Andriy Burkov"
+      ],
+      "genres": [
+        "artificial-intelligence",
+        "computer-science",
+        "programming",
+        "non-fiction",
+        "science",
+        "technology",
+        "technical"
+      ],
+      "rating": 4.26,
+      "ratings": 1182,
+      "reviews": 137
     },
     {
       "title": "The Web Application Hacker's Handbook: Discovering and Exploiting Security Flaws",
@@ -186,29 +312,8 @@
         "computers"
       ],
       "rating": 4.23,
-      "ratings": 1169,
-      "reviews": 53
-    },
-    {
-      "title": "The Hundred-Page Machine Learning Book",
-      "url": "https://www.goodreads.com/book/show/43190851-the-hundred-page-machine-learning-book",
-      "id": "67014838",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1546285613i/43190851.jpg",
-      "authors": [
-        "Andriy Burkov"
-      ],
-      "genres": [
-        "artificial-intelligence",
-        "computer-science",
-        "programming",
-        "non-fiction",
-        "science",
-        "technology",
-        "technical"
-      ],
-      "rating": 4.27,
-      "ratings": 1155,
-      "reviews": 135
+      "ratings": 1179,
+      "reviews": 55
     },
     {
       "title": "Badass: Making Users Awesome",
@@ -228,8 +333,8 @@
         "management"
       ],
       "rating": 4.18,
-      "ratings": 1151,
-      "reviews": 128
+      "ratings": 1149,
+      "reviews": 129
     },
     {
       "title": "C# in Depth",
@@ -249,7 +354,7 @@
         "reference"
       ],
       "rating": 4.51,
-      "ratings": 1134,
+      "ratings": 1139,
       "reviews": 73
     },
     {
@@ -270,8 +375,8 @@
         "reference"
       ],
       "rating": 4.17,
-      "ratings": 1131,
-      "reviews": 110
+      "ratings": 1138,
+      "reviews": 111
     },
     {
       "title": "R for Data Science: Import, Tidy, Transform, Visualize, and Model Data",
@@ -283,16 +388,16 @@
       ],
       "genres": [
         "programming",
-        "non-fiction",
         "computer-science",
+        "non-fiction",
         "science",
         "reference",
         "technology",
         "technical"
       ],
       "rating": 4.55,
-      "ratings": 1101,
-      "reviews": 101
+      "ratings": 1110,
+      "reviews": 102
     },
     {
       "title": "Smart and Gets Things Done: Joel Spolsky's Concise Guide to Finding the Best Technical Talent 1st (first) by Spolsky, Joel (2007) Hardcover",
@@ -312,7 +417,7 @@
         "leadership"
       ],
       "rating": 4,
-      "ratings": 1091,
+      "ratings": 1095,
       "reviews": 102
     },
     {
@@ -329,12 +434,54 @@
         "computers",
         "reference",
         "textbooks",
+        "technology",
+        "non-fiction"
+      ],
+      "rating": 4.11,
+      "ratings": 1088,
+      "reviews": 37
+    },
+    {
+      "title": "Computer Science Distilled: Learn the Art of Solving Computational Problems",
+      "url": "https://www.goodreads.com/book/show/34189798-computer-science-distilled",
+      "id": "55228134",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1486586550i/34189798.jpg",
+      "authors": [
+        "Wladston Ferreira Filho"
+      ],
+      "genres": [
+        "computer-science",
+        "programming",
+        "technology",
+        "coding",
         "non-fiction",
+        "science",
+        "technical"
+      ],
+      "rating": 4.08,
+      "ratings": 1087,
+      "reviews": 144
+    },
+    {
+      "title": "The Annotated Turing: A Guided Tour Through Alan Turing's Historic Paper on Computability and the Turing Machine",
+      "url": "https://www.goodreads.com/book/show/2333956.The_Annotated_Turing",
+      "id": "2340531",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348963714i/2333956.jpg",
+      "authors": [
+        "Charles Petzold"
+      ],
+      "genres": [
+        "computer-science",
+        "science",
+        "non-fiction",
+        "programming",
+        "mathematics",
+        "history",
         "technology"
       ],
-      "rating": 4.12,
+      "rating": 4.26,
       "ratings": 1086,
-      "reviews": 36
+      "reviews": 81
     },
     {
       "title": "CSS: The Missing Manual",
@@ -356,153 +503,6 @@
       "rating": 4.12,
       "ratings": 1081,
       "reviews": 75
-    },
-    {
-      "title": "Computer Science Distilled: Learn the Art of Solving Computational Problems",
-      "url": "https://www.goodreads.com/book/show/34189798-computer-science-distilled",
-      "id": "55228134",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1486586550i/34189798.jpg",
-      "authors": [
-        "Wladston Ferreira Filho"
-      ],
-      "genres": [
-        "computer-science",
-        "programming",
-        "technology",
-        "science",
-        "coding",
-        "non-fiction",
-        "technical"
-      ],
-      "rating": 4.08,
-      "ratings": 1081,
-      "reviews": 145
-    },
-    {
-      "title": "The Annotated Turing: A Guided Tour Through Alan Turing's Historic Paper on Computability and the Turing Machine",
-      "url": "https://www.goodreads.com/book/show/2333956.The_Annotated_Turing",
-      "id": "2340531",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348963714i/2333956.jpg",
-      "authors": [
-        "Charles Petzold"
-      ],
-      "genres": [
-        "computer-science",
-        "science",
-        "non-fiction",
-        "programming",
-        "mathematics",
-        "history",
-        "technology"
-      ],
-      "rating": 4.26,
-      "ratings": 1078,
-      "reviews": 80
-    },
-    {
-      "title": "More Effective C++: 35 New Ways to Improve Your Programs and Designs",
-      "url": "https://www.goodreads.com/book/show/105123.More_Effective_C_",
-      "id": "2098008",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348045238i/105123.jpg",
-      "authors": [
-        "Scott Meyers"
-      ],
-      "genres": [
-        "programming",
-        "technical",
-        "non-fiction",
-        "computer-science",
-        "software",
-        "computers",
-        "technology"
-      ],
-      "rating": 4.34,
-      "ratings": 1059,
-      "reviews": 37
-    },
-    {
-      "title": "Python Tricks: A Buffet of Awesome Python Features",
-      "url": "https://www.goodreads.com/book/show/36990732-python-tricks",
-      "id": "58290658",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1512678173i/36990732.jpg",
-      "authors": [
-        "Dan Bader"
-      ],
-      "genres": [
-        "programming",
-        "computer-science",
-        "coding",
-        "technology",
-        "non-fiction",
-        "technical",
-        "reference"
-      ],
-      "rating": 4.44,
-      "ratings": 1057,
-      "reviews": 97
-    },
-    {
-      "title": "Kubernetes: Up & Running",
-      "url": "https://www.goodreads.com/book/show/26759355-kubernetes",
-      "id": "46784618",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1515495557i/26759355.jpg",
-      "authors": [
-        "Kelsey Hightower"
-      ],
-      "genres": [
-        "technology",
-        "computer-science",
-        "technical",
-        "software",
-        "programming",
-        "non-fiction",
-        "reference"
-      ],
-      "rating": 4.06,
-      "ratings": 1052,
-      "reviews": 116
-    },
-    {
-      "title": "Lean Software Development: An Agile Toolkit",
-      "url": "https://www.goodreads.com/book/show/194338.Lean_Software_Development",
-      "id": "187944",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347416786i/194338.jpg",
-      "authors": [
-        "Mary Poppendieck"
-      ],
-      "genres": [
-        "software",
-        "non-fiction",
-        "management",
-        "programming",
-        "business",
-        "technology",
-        "leadership"
-      ],
-      "rating": 4.18,
-      "ratings": 1050,
-      "reviews": 66
-    },
-    {
-      "title": "The Ruby Programming Language: Everything You Need to Know",
-      "url": "https://www.goodreads.com/book/show/2485075.The_Ruby_Programming_Language",
-      "id": "2492280",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328834776i/2485075.jpg",
-      "authors": [
-        "David Flanagan"
-      ],
-      "genres": [
-        "programming",
-        "reference",
-        "technology",
-        "computer-science",
-        "non-fiction",
-        "technical",
-        "computers"
-      ],
-      "rating": 4.02,
-      "ratings": 1042,
-      "reviews": 34
     }
   ]
 }

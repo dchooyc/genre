@@ -1,67 +1,424 @@
 {
   "books": [
     {
-      "title": "Corazón",
-      "url": "https://www.goodreads.com/book/show/36513030-coraz-n",
-      "id": "58233427",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1513842551i/36513030.jpg",
+      "title": "A Pizza the Size of the Sun",
+      "url": "https://www.goodreads.com/book/show/203154.A_Pizza_the_Size_of_the_Sun",
+      "id": "2073102",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388850708i/203154.jpg",
       "authors": [
-        "Yesika Salgado"
+        "Jack Prelutsky"
+      ],
+      "genres": [
+        "poetry",
+        "childrens",
+        "humor",
+        "picture-books",
+        "non-fiction",
+        "middle-grade",
+        "juvenile"
+      ],
+      "rating": 4.11,
+      "ratings": 2198,
+      "reviews": 236
+    },
+    {
+      "title": "Mister Magnolia",
+      "url": "https://www.goodreads.com/book/show/1172958.Mister_Magnolia",
+      "id": "1964589",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1321125320i/1172958.jpg",
+      "authors": [
+        "Quentin Blake"
+      ],
+      "genres": [
+        "picture-books",
+        "childrens",
+        "poetry",
+        "fiction",
+        "storytime",
+        "british-literature",
+        "humor"
+      ],
+      "rating": 4.12,
+      "ratings": 2191,
+      "reviews": 81
+    },
+    {
+      "title": "Spring and All",
+      "url": "https://www.goodreads.com/book/show/1383945.Spring_and_All",
+      "id": "1373970",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1416473060i/1383945.jpg",
+      "authors": [
+        "William Carlos Williams"
+      ],
+      "genres": [
+        "poetry",
+        "classics",
+        "20th-century",
+        "american",
+        "the-united-states-of-america",
+        "school",
+        "college"
+      ],
+      "rating": 4.13,
+      "ratings": 2185,
+      "reviews": 187
+    },
+    {
+      "title": "Graffiti",
+      "url": "https://www.goodreads.com/book/show/35142370-graffiti",
+      "id": "49103607",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1494862215i/35142370.jpg",
+      "authors": [
+        "Savannah   Brown"
+      ],
+      "genres": [
+        "poetry",
+        "non-fiction",
+        "contemporary",
+        "lgbt",
+        "queer",
+        "lesbian",
+        "womens"
+      ],
+      "rating": 4.17,
+      "ratings": 2185,
+      "reviews": 228
+    },
+    {
+      "title": "Dancing in Odessa",
+      "url": "https://www.goodreads.com/book/show/405981.Dancing_in_Odessa",
+      "id": "395327",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348300223i/405981.jpg",
+      "authors": [
+        "Ilya Kaminsky"
+      ],
+      "genres": [
+        "poetry",
+        "ukraine",
+        "russia",
+        "non-fiction",
+        "adult",
+        "jewish",
+        "death"
+      ],
+      "rating": 4.23,
+      "ratings": 2183,
+      "reviews": 206
+    },
+    {
+      "title": "Finna",
+      "url": "https://www.goodreads.com/book/show/48984964-finna",
+      "id": "74399813",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1586282794i/48984964.jpg",
+      "authors": [
+        "Nate Marshall"
+      ],
+      "genres": [
+        "poetry",
+        "race",
+        "non-fiction",
+        "audiobook",
+        "african-american",
+        "adult",
+        "social-justice"
+      ],
+      "rating": 4.49,
+      "ratings": 2175,
+      "reviews": 357
+    },
+    {
+      "title": "Secret Path",
+      "url": "https://www.goodreads.com/book/show/31930167-secret-path",
+      "id": "52583978",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1473443773i/31930167.jpg",
+      "authors": [
+        "Gord Downie"
+      ],
+      "genres": [
+        "graphic-novels",
+        "non-fiction",
+        "canada",
+        "poetry",
+        "comics",
+        "history",
+        "biography"
+      ],
+      "rating": 4.35,
+      "ratings": 2167,
+      "reviews": 297
+    },
+    {
+      "title": "Water Is Water: A Book About the Water Cycle",
+      "url": "https://www.goodreads.com/book/show/22718699-water-is-water",
+      "id": "42246993",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1410172916i/22718699.jpg",
+      "authors": [
+        "Miranda  Paul"
+      ],
+      "genres": [
+        "picture-books",
+        "science",
+        "non-fiction",
+        "nature",
+        "childrens",
+        "poetry",
+        "environment"
+      ],
+      "rating": 4.3,
+      "ratings": 2166,
+      "reviews": 448
+    },
+    {
+      "title": "Iveliz Explains It All",
+      "url": "https://www.goodreads.com/book/show/60372447-iveliz-explains-it-all",
+      "id": "93238885",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1644338704i/60372447.jpg",
+      "authors": [
+        "Andrea Beatriz Arango"
+      ],
+      "genres": [
+        "middle-grade",
+        "poetry",
+        "mental-health",
+        "realistic-fiction",
+        "fiction",
+        "young-adult",
+        "contemporary"
+      ],
+      "rating": 4.19,
+      "ratings": 2165,
+      "reviews": 414
+    },
+    {
+      "title": "Frankenstein Makes a Sandwich",
+      "url": "https://www.goodreads.com/book/show/18486.Frankenstein_Makes_a_Sandwich",
+      "id": "19892",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1285597645i/18486.jpg",
+      "authors": [
+        "Adam Rex"
+      ],
+      "genres": [
+        "picture-books",
+        "poetry",
+        "halloween",
+        "childrens",
+        "humor",
+        "monsters",
+        "horror"
+      ],
+      "rating": 4.21,
+      "ratings": 2157,
+      "reviews": 319
+    },
+    {
+      "title": "Ten Plays",
+      "url": "https://www.goodreads.com/book/show/1467.Ten_Plays",
+      "id": "6286530",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1409707878i/1467.jpg",
+      "authors": [
+        "Euripides"
+      ],
+      "genres": [
+        "classics",
+        "plays",
+        "drama",
+        "fiction",
+        "mythology",
+        "poetry",
+        "literature"
+      ],
+      "rating": 4.16,
+      "ratings": 2156,
+      "reviews": 75
+    },
+    {
+      "title": "On Sun Swallowing",
+      "url": "https://www.goodreads.com/book/show/59921489-on-sun-swallowing",
+      "id": "94357917",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1640333309i/59921489.jpg",
+      "authors": [
+        "Dakota Warren"
       ],
       "genres": [
         "poetry",
         "feminism",
         "fiction",
         "contemporary",
-        "romance",
-        "novels",
-        "womens"
+        "horror",
+        "adult",
+        "short-stories"
       ],
-      "rating": 4.38,
-      "ratings": 2092,
-      "reviews": 283
+      "rating": 4.14,
+      "ratings": 2156,
+      "reviews": 487
     },
     {
-      "title": "The Norton Shakespeare: Based on the Oxford Edition",
-      "url": "https://www.goodreads.com/book/show/1416.The_Norton_Shakespeare",
-      "id": "26333607",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1158208490i/1416.jpg",
+      "title": "Bats at the Beach",
+      "url": "https://www.goodreads.com/book/show/133612.Bats_at_the_Beach",
+      "id": "128708",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1279034048i/133612.jpg",
       "authors": [
-        "Stephen Greenblatt"
+        "Brian Lies"
+      ],
+      "genres": [
+        "picture-books",
+        "childrens",
+        "animals",
+        "fiction",
+        "poetry",
+        "storytime",
+        "fantasy"
+      ],
+      "rating": 4.13,
+      "ratings": 2153,
+      "reviews": 265
+    },
+    {
+      "title": "The Mahabharata: A Shortened Modern Prose Version of the Indian Epic",
+      "url": "https://www.goodreads.com/book/show/118249.The_Mahabharata",
+      "id": "1829375",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328872381i/118249.jpg",
+      "authors": [
+        "Krishna-Dwaipayana Vyasa"
+      ],
+      "genres": [
+        "india",
+        "mythology",
+        "classics",
+        "fiction",
+        "poetry",
+        "philosophy",
+        "hinduism"
+      ],
+      "rating": 4.15,
+      "ratings": 2153,
+      "reviews": 121
+    },
+    {
+      "title": "Poems by Emily Dickinson, Three Series, Complete",
+      "url": "https://www.goodreads.com/book/show/17186453-poems-by-emily-dickinson-three-series-complete",
+      "id": "26747133",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1356703945i/17186453.jpg",
+      "authors": [
+        "Emily Dickinson"
+      ],
+      "genres": [
+        "poetry",
+        "classics",
+        "fiction",
+        "literature",
+        "nature",
+        "literary-fiction",
+        "unfinished"
+      ],
+      "rating": 4.3,
+      "ratings": 2151,
+      "reviews": 79
+    },
+    {
+      "title": "Meadowlands",
+      "url": "https://www.goodreads.com/book/show/76544.Meadowlands",
+      "id": "1268256",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388272272i/76544.jpg",
+      "authors": [
+        "Louise Glück"
+      ],
+      "genres": [
+        "poetry",
+        "mythology",
+        "fiction",
+        "american",
+        "nobel-prize",
+        "the-united-states-of-america",
+        "poetry-plays"
+      ],
+      "rating": 4.09,
+      "ratings": 2148,
+      "reviews": 250
+    },
+    {
+      "title": "The Bippolo Seed and Other Lost Stories",
+      "url": "https://www.goodreads.com/book/show/7756088-the-bippolo-seed-and-other-lost-stories",
+      "id": "10612078",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348176818i/7756088.jpg",
+      "authors": [
+        "Dr. Seuss"
+      ],
+      "genres": [
+        "picture-books",
+        "childrens",
+        "poetry",
+        "short-stories",
+        "classics",
+        "audiobook",
+        "humor"
+      ],
+      "rating": 4.16,
+      "ratings": 2147,
+      "reviews": 264
+    },
+    {
+      "title": "Freedom Over Me: Eleven Slaves, Their Lives and Dreams Brought to Life by Ashley Bryan",
+      "url": "https://www.goodreads.com/book/show/28954117-freedom-over-me",
+      "id": "49179177",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1485376018i/28954117.jpg",
+      "authors": [
+        "Ashley Bryan"
+      ],
+      "genres": [
+        "historical-fiction",
+        "poetry",
+        "picture-books",
+        "childrens",
+        "african-american",
+        "historical",
+        "middle-grade"
+      ],
+      "rating": 4.33,
+      "ratings": 2145,
+      "reviews": 611
+    },
+    {
+      "title": "The Portable Poe",
+      "url": "https://www.goodreads.com/book/show/794261.The_Portable_Poe",
+      "id": "780240",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1178419503i/794261.jpg",
+      "authors": [
+        "Edgar Allan Poe"
       ],
       "genres": [
         "classics",
-        "plays",
         "poetry",
-        "drama",
+        "horror",
         "fiction",
-        "literature",
-        "reference"
+        "short-stories",
+        "gothic",
+        "mystery"
       ],
-      "rating": 4.57,
-      "ratings": 2091,
-      "reviews": 86
+      "rating": 4.28,
+      "ratings": 2145,
+      "reviews": 97
     },
     {
-      "title": "Flirtin' With the Monster: Your Favorite Authors on Ellen Hopkins' Crank and Glass",
-      "url": "https://www.goodreads.com/book/show/4736504-flirtin-with-the-monster",
-      "id": "4801114",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347596427i/4736504.jpg",
+      "title": "Nature and Selected Essays",
+      "url": "https://www.goodreads.com/book/show/123853.Nature_and_Selected_Essays",
+      "id": "1024342",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348715475i/123853.jpg",
       "authors": [
-        "Niki Burnham"
+        "Ralph Waldo Emerson"
       ],
       "genres": [
+        "philosophy",
+        "classics",
         "non-fiction",
-        "poetry",
-        "short-stories",
-        "anthologies",
-        "contemporary",
-        "teen",
-        "realistic-fiction"
+        "nature",
+        "essays",
+        "literature",
+        "poetry"
       ],
-      "rating": 4.15,
-      "ratings": 2089,
-      "reviews": 69
+      "rating": 4.13,
+      "ratings": 2142,
+      "reviews": 92
     },
     {
       "title": "Til ungdommen",
@@ -80,30 +437,30 @@
         "contemporary",
         "scandinavian-literature"
       ],
-      "rating": 4.18,
-      "ratings": 2088,
-      "reviews": 211
+      "rating": 4.17,
+      "ratings": 2133,
+      "reviews": 215
     },
     {
-      "title": "Bea Wolf",
-      "url": "https://www.goodreads.com/book/show/60316971-bea-wolf",
-      "id": "95090776",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1658830586i/60316971.jpg",
+      "title": "Seven Nights",
+      "url": "https://www.goodreads.com/book/show/17946.Seven_Nights",
+      "id": "2310662",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388182101i/17946.jpg",
       "authors": [
-        "Zach Weinersmith"
+        "Jorge Luis Borges"
       ],
       "genres": [
-        "graphic-novels",
-        "middle-grade",
-        "fantasy",
-        "comics",
+        "essays",
+        "non-fiction",
+        "philosophy",
+        "literature",
         "poetry",
-        "fiction",
-        "humor"
+        "literary-criticism",
+        "latin-american"
       ],
-      "rating": 4.36,
-      "ratings": 2086,
-      "reviews": 510
+      "rating": 4.31,
+      "ratings": 2133,
+      "reviews": 216
     },
     {
       "title": "eighteen years",
@@ -119,383 +476,29 @@
         "poetry-plays"
       ],
       "rating": 4.09,
-      "ratings": 2086,
-      "reviews": 199
+      "ratings": 2126,
+      "reviews": 203
     },
     {
-      "title": "On Sun Swallowing",
-      "url": "https://www.goodreads.com/book/show/59921489-on-sun-swallowing",
-      "id": "94357917",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1640333309i/59921489.jpg",
+      "title": "Corazón",
+      "url": "https://www.goodreads.com/book/show/36513030-coraz-n",
+      "id": "58233427",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1513842551i/36513030.jpg",
       "authors": [
-        "Dakota Warren"
+        "Yesika Salgado"
       ],
       "genres": [
         "poetry",
-        "fiction",
         "feminism",
-        "contemporary",
-        "horror",
-        "adult",
-        "short-stories"
-      ],
-      "rating": 4.16,
-      "ratings": 2065,
-      "reviews": 465
-    },
-    {
-      "title": "Selected Poetry",
-      "url": "https://www.goodreads.com/book/show/485717.Selected_Poetry",
-      "id": "2346838",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1175146431i/485717.jpg",
-      "authors": [
-        "Percy Bysshe Shelley"
-      ],
-      "genres": [
-        "poetry",
-        "classics",
-        "romanticism",
-        "literature",
-        "british-literature",
-        "19th-century",
-        "non-fiction"
-      ],
-      "rating": 4.08,
-      "ratings": 2065,
-      "reviews": 30
-    },
-    {
-      "title": "Plath: Poems",
-      "url": "https://www.goodreads.com/book/show/11633.Plath",
-      "id": "46015515",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320487436i/11633.jpg",
-      "authors": [
-        "Sylvia Plath"
-      ],
-      "genres": [
-        "poetry",
-        "classics",
-        "american",
-        "literature",
-        "20th-century",
         "fiction",
-        "adult"
-      ],
-      "rating": 4.25,
-      "ratings": 2065,
-      "reviews": 137
-    },
-    {
-      "title": "The Lyrics: 1956 to the Present",
-      "url": "https://www.goodreads.com/book/show/57132832-the-lyrics",
-      "id": "89414921",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1614133991i/57132832.jpg",
-      "authors": [
-        "Paul McCartney"
-      ],
-      "genres": [
-        "music",
-        "non-fiction",
-        "biography",
-        "memoir",
-        "poetry",
-        "history",
-        "autobiography"
-      ],
-      "rating": 4.6,
-      "ratings": 2064,
-      "reviews": 343
-    },
-    {
-      "title": "Light For The World To See: A Thousand Words on Race and Hope",
-      "url": "https://www.goodreads.com/book/show/54655842-light-for-the-world-to-see",
-      "id": "85276387",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1598594343i/54655842.jpg",
-      "authors": [
-        "Kwame Alexander"
-      ],
-      "genres": [
-        "poetry",
-        "non-fiction",
-        "race",
-        "social-justice",
-        "adult",
-        "audiobook",
-        "african-american"
-      ],
-      "rating": 4.3,
-      "ratings": 2059,
-      "reviews": 300
-    },
-    {
-      "title": "I'll Fly Away",
-      "url": "https://www.goodreads.com/book/show/51135126-i-ll-fly-away",
-      "id": "75925641",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1586817760i/51135126.jpg",
-      "authors": [
-        "Rudy Francisco"
-      ],
-      "genres": [
-        "poetry",
-        "adult",
-        "non-fiction",
         "contemporary",
-        "mental-health"
-      ],
-      "rating": 4.31,
-      "ratings": 2058,
-      "reviews": 343
-    },
-    {
-      "title": "Love Poems",
-      "url": "https://www.goodreads.com/book/show/47733.Love_Poems",
-      "id": "1087441",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388176386i/47733.jpg",
-      "authors": [
-        "Anne Sexton"
-      ],
-      "genres": [
-        "poetry",
-        "american",
-        "classics",
-        "20th-century",
-        "love",
         "romance",
-        "female-authors"
+        "novels",
+        "womens"
       ],
-      "rating": 4.09,
-      "ratings": 2056,
-      "reviews": 170
-    },
-    {
-      "title": "Henüz Vakit Varken Gülüm",
-      "url": "https://www.goodreads.com/book/show/15855683-hen-z-vakit-varken-g-l-m",
-      "id": "18366763",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1403914626i/15855683.jpg",
-      "authors": [
-        "Nâzım Hikmet"
-      ],
-      "genres": [
-        "poetry",
-        "turkish-literature",
-        "turkish",
-        "literature",
-        "fiction",
-        "classics"
-      ],
-      "rating": 4.48,
-      "ratings": 2045,
-      "reviews": 122
-    },
-    {
-      "title": "Disney Frozen: A Sister More Like Me",
-      "url": "https://www.goodreads.com/book/show/19090186-disney-frozen",
-      "id": "24285000",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1385938036i/19090186.jpg",
-      "authors": [
-        "Walt Disney Company"
-      ],
-      "genres": [
-        "picture-books",
-        "childrens",
-        "fantasy",
-        "fiction",
-        "family",
-        "poetry",
-        "kids"
-      ],
-      "rating": 4.4,
-      "ratings": 2043,
-      "reviews": 146
-    },
-    {
-      "title": "Final Harvest: Emily Dickinson's Poems",
-      "url": "https://www.goodreads.com/book/show/108119.Final_Harvest",
-      "id": "515084",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1443386371i/108119.jpg",
-      "authors": [
-        "Emily Dickinson"
-      ],
-      "genres": [
-        "poetry",
-        "classics",
-        "fiction",
-        "college",
-        "19th-century",
-        "literature",
-        "american"
-      ],
-      "rating": 4.28,
-      "ratings": 2041,
-      "reviews": 88
-    },
-    {
-      "title": "Dream Animals: A Bedtime Journey",
-      "url": "https://www.goodreads.com/book/show/17061551-dream-animals",
-      "id": "23398721",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1362466463i/17061551.jpg",
-      "authors": [
-        "Emily Winfield Martin"
-      ],
-      "genres": [
-        "picture-books",
-        "childrens",
-        "animals",
-        "fantasy",
-        "fiction",
-        "poetry",
-        "storytime"
-      ],
-      "rating": 4.36,
-      "ratings": 2033,
-      "reviews": 296
-    },
-    {
-      "title": "New and Collected Poems: 1931-2001",
-      "url": "https://www.goodreads.com/book/show/145659.New_and_Collected_Poems",
-      "id": "1537436",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1525723220i/145659.jpg",
-      "authors": [
-        "Czesław Miłosz"
-      ],
-      "genres": [
-        "poetry",
-        "polish-literature",
-        "literature",
-        "poland",
-        "nobel-prize",
-        "non-fiction",
-        "20th-century"
-      ],
-      "rating": 4.34,
-      "ratings": 2032,
-      "reviews": 60
-    },
-    {
-      "title": "The Meadow",
-      "url": "https://www.goodreads.com/book/show/218986.The_Meadow",
-      "id": "212024",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388184151i/218986.jpg",
-      "authors": [
-        "James Galvin"
-      ],
-      "genres": [
-        "fiction",
-        "historical-fiction",
-        "nature",
-        "westerns",
-        "poetry",
-        "environment",
-        "literature"
-      ],
-      "rating": 4.2,
-      "ratings": 2031,
-      "reviews": 300
-    },
-    {
-      "title": "The Essential Haiku: Versions of Basho, Buson, and Issa",
-      "url": "https://www.goodreads.com/book/show/1565561.The_Essential_Haiku",
-      "id": "1558144",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1185287544i/1565561.jpg",
-      "authors": [
-        "Robert Hass"
-      ],
-      "genres": [
-        "poetry",
-        "japan",
-        "japanese-literature",
-        "non-fiction",
-        "classics",
-        "history",
-        "anthologies"
-      ],
-      "rating": 4.33,
-      "ratings": 2029,
-      "reviews": 156
-    },
-    {
-      "title": "Maybe You Should Fly a Jet! Maybe You Should Be a Vet!",
-      "url": "https://www.goodreads.com/book/show/434271.Maybe_You_Should_Fly_a_Jet_Maybe_You_Should_Be_a_Vet_",
-      "id": "3183303",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1408924014i/434271.jpg",
-      "authors": [
-        "Theo LeSieg"
-      ],
-      "genres": [
-        "picture-books",
-        "childrens",
-        "poetry",
-        "fiction",
-        "faith",
-        "school",
-        "classics"
-      ],
-      "rating": 4.22,
-      "ratings": 2027,
-      "reviews": 61
-    },
-    {
-      "title": "Finishing the Hat: Collected Lyrics, 1954-1981, With Attendant Comments, Principles, Heresies, Grudges, Whines, and Anecdotes",
-      "url": "https://www.goodreads.com/book/show/7769406-finishing-the-hat",
-      "id": "10657263",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320542554i/7769406.jpg",
-      "authors": [
-        "Stephen Sondheim"
-      ],
-      "genres": [
-        "non-fiction",
-        "theatre",
-        "music",
-        "memoir",
-        "biography",
-        "poetry",
-        "plays"
-      ],
-      "rating": 4.54,
-      "ratings": 2024,
-      "reviews": 216
-    },
-    {
-      "title": "The Selected Poetry",
-      "url": "https://www.goodreads.com/book/show/60316.The_Selected_Poetry",
-      "id": "58678",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320486226i/60316.jpg",
-      "authors": [
-        "Edna St. Vincent Millay"
-      ],
-      "genres": [
-        "poetry",
-        "classics",
-        "fiction",
-        "literature",
-        "feminism",
-        "adult",
-        "american"
-      ],
-      "rating": 4.18,
-      "ratings": 2018,
-      "reviews": 118
-    },
-    {
-      "title": "The Coral Sea",
-      "url": "https://www.goodreads.com/book/show/341884.The_Coral_Sea",
-      "id": "758031",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348493402i/341884.jpg",
-      "authors": [
-        "Patti Smith"
-      ],
-      "genres": [
-        "poetry",
-        "music",
-        "non-fiction",
-        "art",
-        "biography",
-        "memoir",
-        "american"
-      ],
-      "rating": 4.01,
-      "ratings": 2017,
-      "reviews": 189
+      "rating": 4.38,
+      "ratings": 2126,
+      "reviews": 288
     }
   ]
 }

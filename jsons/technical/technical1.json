@@ -1,6 +1,27 @@
 {
   "books": [
     {
+      "title": "The C++ Programming Language",
+      "url": "https://www.goodreads.com/book/show/112251.The_C_Programming_Language",
+      "id": "108084",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347400993i/112251.jpg",
+      "authors": [
+        "Bjarne Stroustrup"
+      ],
+      "genres": [
+        "programming",
+        "computer-science",
+        "reference",
+        "technical",
+        "technology",
+        "non-fiction",
+        "computers"
+      ],
+      "rating": 4.09,
+      "ratings": 3955,
+      "reviews": 105
+    },
+    {
       "title": "Patterns of Enterprise Application Architecture",
       "url": "https://www.goodreads.com/book/show/70156.Patterns_of_Enterprise_Application_Architecture",
       "id": "67973",
@@ -18,8 +39,8 @@
         "non-fiction"
       ],
       "rating": 4.12,
-      "ratings": 3755,
-      "reviews": 149
+      "ratings": 3766,
+      "reviews": 150
     },
     {
       "title": "Effective C++: 55 Specific Ways to Improve Your Programs and Designs",
@@ -39,71 +60,8 @@
         "computers"
       ],
       "rating": 4.4,
-      "ratings": 3297,
-      "reviews": 137
-    },
-    {
-      "title": "Pro Git",
-      "url": "https://www.goodreads.com/book/show/6518085-pro-git",
-      "id": "6709947",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1383771684i/6518085.jpg",
-      "authors": [
-        "Scott Chacon"
-      ],
-      "genres": [
-        "programming",
-        "computer-science",
-        "technology",
-        "non-fiction",
-        "technical",
-        "reference",
-        "software"
-      ],
-      "rating": 4.18,
-      "ratings": 3221,
-      "reviews": 294
-    },
-    {
-      "title": "CONTINUOUS DELIVERY",
-      "url": "https://www.goodreads.com/book/show/8686650-continuous-delivery",
-      "id": "13558958",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347640457i/8686650.jpg",
-      "authors": [
-        "Jez Humble"
-      ],
-      "genres": [
-        "programming",
-        "technology",
-        "software",
-        "computer-science",
-        "technical",
-        "non-fiction",
-        "business"
-      ],
-      "rating": 4.2,
-      "ratings": 3206,
-      "reviews": 164
-    },
-    {
-      "title": "Programming Pearls",
-      "url": "https://www.goodreads.com/book/show/52084.Programming_Pearls",
-      "id": "50819",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1385191091i/52084.jpg",
-      "authors": [
-        "Jon L. Bentley"
-      ],
-      "genres": [
-        "programming",
-        "computer-science",
-        "technology",
-        "software",
-        "technical",
-        "non-fiction",
-        "computers"
-      ],
-      "rating": 4.2,
-      "ratings": 3178,
-      "reviews": 92
+      "ratings": 3304,
+      "reviews": 138
     },
     {
       "title": "A Philosophy of Software Design",
@@ -123,8 +81,71 @@
         "engineering"
       ],
       "rating": 4.2,
-      "ratings": 3143,
-      "reviews": 392
+      "ratings": 3255,
+      "reviews": 401
+    },
+    {
+      "title": "Pro Git",
+      "url": "https://www.goodreads.com/book/show/6518085-pro-git",
+      "id": "6709947",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1383771684i/6518085.jpg",
+      "authors": [
+        "Scott Chacon"
+      ],
+      "genres": [
+        "programming",
+        "computer-science",
+        "technology",
+        "non-fiction",
+        "technical",
+        "reference",
+        "software"
+      ],
+      "rating": 4.18,
+      "ratings": 3237,
+      "reviews": 295
+    },
+    {
+      "title": "Continuous delivery",
+      "url": "https://www.goodreads.com/book/show/8686650-continuous-delivery",
+      "id": "13558958",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347640457i/8686650.jpg",
+      "authors": [
+        "Jez Humble"
+      ],
+      "genres": [
+        "programming",
+        "technology",
+        "software",
+        "computer-science",
+        "technical",
+        "non-fiction",
+        "business"
+      ],
+      "rating": 4.2,
+      "ratings": 3220,
+      "reviews": 165
+    },
+    {
+      "title": "Programming Pearls",
+      "url": "https://www.goodreads.com/book/show/52084.Programming_Pearls",
+      "id": "50819",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1385191091i/52084.jpg",
+      "authors": [
+        "Jon L. Bentley"
+      ],
+      "genres": [
+        "programming",
+        "computer-science",
+        "technology",
+        "software",
+        "technical",
+        "non-fiction",
+        "computers"
+      ],
+      "rating": 4.2,
+      "ratings": 3184,
+      "reviews": 92
     },
     {
       "title": "Learning Python",
@@ -144,7 +165,7 @@
         "technical"
       ],
       "rating": 4,
-      "ratings": 3106,
+      "ratings": 3114,
       "reviews": 171
     },
     {
@@ -165,8 +186,8 @@
         "engineering"
       ],
       "rating": 4.26,
-      "ratings": 3086,
-      "reviews": 251
+      "ratings": 3106,
+      "reviews": 254
     },
     {
       "title": "JavaScript: The Definitive Guide",
@@ -179,14 +200,14 @@
       "genres": [
         "programming",
         "reference",
-        "technology",
         "computer-science",
+        "technology",
         "non-fiction",
         "computers",
         "technical"
       ],
       "rating": 4.09,
-      "ratings": 3070,
+      "ratings": 3081,
       "reviews": 121
     },
     {
@@ -199,16 +220,16 @@
       ],
       "genres": [
         "programming",
-        "computer-science",
         "technology",
+        "computer-science",
         "non-fiction",
         "coding",
         "technical",
         "software"
       ],
-      "rating": 4.14,
-      "ratings": 3000,
-      "reviews": 258
+      "rating": 4.15,
+      "ratings": 3031,
+      "reviews": 260
     },
     {
       "title": "Compilers: Principles, Techniques, and Tools",
@@ -228,7 +249,7 @@
         "non-fiction"
       ],
       "rating": 4.09,
-      "ratings": 2964,
+      "ratings": 2968,
       "reviews": 64
     },
     {
@@ -246,11 +267,11 @@
         "technical",
         "software",
         "non-fiction",
-        "reference"
+        "computers"
       ],
       "rating": 4.47,
-      "ratings": 2810,
-      "reviews": 136
+      "ratings": 2828,
+      "reviews": 138
     },
     {
       "title": "Practical Object Oriented Design in Ruby",
@@ -269,9 +290,9 @@
         "non-fiction",
         "coding"
       ],
-      "rating": 4.54,
-      "ratings": 2724,
-      "reviews": 197
+      "rating": 4.53,
+      "ratings": 2738,
+      "reviews": 199
     },
     {
       "title": "Site Reliability Engineering: How Google Runs Production Systems",
@@ -290,9 +311,30 @@
         "non-fiction",
         "engineering"
       ],
-      "rating": 4.22,
-      "ratings": 2618,
-      "reviews": 245
+      "rating": 4.23,
+      "ratings": 2645,
+      "reviews": 251
+    },
+    {
+      "title": "Python Crash Course: A Hands-On, Project-Based Introduction to Programming",
+      "url": "https://www.goodreads.com/book/show/23241059-python-crash-course",
+      "id": "42784657",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1418765169i/23241059.jpg",
+      "authors": [
+        "Eric Matthes"
+      ],
+      "genres": [
+        "programming",
+        "non-fiction",
+        "computer-science",
+        "coding",
+        "technology",
+        "reference",
+        "technical"
+      ],
+      "rating": 4.36,
+      "ratings": 2623,
+      "reviews": 256
     },
     {
       "title": "The Algorithm Design Manual",
@@ -312,7 +354,7 @@
         "software"
       ],
       "rating": 4.35,
-      "ratings": 2590,
+      "ratings": 2600,
       "reviews": 96
     },
     {
@@ -333,29 +375,8 @@
         "technical"
       ],
       "rating": 4.14,
-      "ratings": 2570,
-      "reviews": 161
-    },
-    {
-      "title": "Python Crash Course: A Hands-On, Project-Based Introduction to Programming",
-      "url": "https://www.goodreads.com/book/show/23241059-python-crash-course",
-      "id": "42784657",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1418765169i/23241059.jpg",
-      "authors": [
-        "Eric Matthes"
-      ],
-      "genres": [
-        "programming",
-        "non-fiction",
-        "computer-science",
-        "coding",
-        "technology",
-        "reference",
-        "technical"
-      ],
-      "rating": 4.36,
-      "ratings": 2559,
-      "reviews": 252
+      "ratings": 2580,
+      "reviews": 162
     },
     {
       "title": "You Don't Know JS: Up & Going",
@@ -375,8 +396,29 @@
         "software"
       ],
       "rating": 4.34,
-      "ratings": 2492,
+      "ratings": 2499,
       "reviews": 171
+    },
+    {
+      "title": "Hands-On Machine Learning with Scikit-Learn and TensorFlow",
+      "url": "https://www.goodreads.com/book/show/32899495-hands-on-machine-learning-with-scikit-learn-and-tensorflow",
+      "id": "53513052",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1478536137i/32899495.jpg",
+      "authors": [
+        "Aurélien Géron"
+      ],
+      "genres": [
+        "programming",
+        "computer-science",
+        "artificial-intelligence",
+        "technology",
+        "non-fiction",
+        "technical",
+        "textbooks"
+      ],
+      "rating": 4.56,
+      "ratings": 2455,
+      "reviews": 184
     },
     {
       "title": "Growing Object-Oriented Software, Guided by Tests",
@@ -395,30 +437,9 @@
         "non-fiction",
         "coding"
       ],
-      "rating": 4.2,
-      "ratings": 2420,
+      "rating": 4.19,
+      "ratings": 2427,
       "reviews": 139
-    },
-    {
-      "title": "Hands-On Machine Learning with Scikit-Learn and TensorFlow",
-      "url": "https://www.goodreads.com/book/show/32899495-hands-on-machine-learning-with-scikit-learn-and-tensorflow",
-      "id": "53513052",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1478536137i/32899495.jpg",
-      "authors": [
-        "Aurélien Géron"
-      ],
-      "genres": [
-        "programming",
-        "computer-science",
-        "artificial-intelligence",
-        "technology",
-        "non-fiction",
-        "technical",
-        "coding"
-      ],
-      "rating": 4.55,
-      "ratings": 2419,
-      "reviews": 181
     },
     {
       "title": "Data Science for Business: What You Need to Know about Data Mining and Data-Analytic Thinking",
@@ -438,8 +459,8 @@
         "technical"
       ],
       "rating": 4.13,
-      "ratings": 2403,
-      "reviews": 160
+      "ratings": 2420,
+      "reviews": 162
     },
     {
       "title": "Hacking: The Art of Exploitation w/CD",
@@ -459,29 +480,8 @@
         "computers"
       ],
       "rating": 4.17,
-      "ratings": 2378,
-      "reviews": 119
-    },
-    {
-      "title": "Learn You a Haskell for Great Good!",
-      "url": "https://www.goodreads.com/book/show/6593810-learn-you-a-haskell-for-great-good",
-      "id": "6787531",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1294497489i/6593810.jpg",
-      "authors": [
-        "Miran Lipovača"
-      ],
-      "genres": [
-        "programming",
-        "computer-science",
-        "technology",
-        "non-fiction",
-        "technical",
-        "software",
-        "computers"
-      ],
-      "rating": 4.3,
-      "ratings": 2321,
-      "reviews": 194
+      "ratings": 2386,
+      "reviews": 118
     },
     {
       "title": "Computer Networks",
@@ -501,8 +501,8 @@
         "computers"
       ],
       "rating": 4.12,
-      "ratings": 2317,
-      "reviews": 108
+      "ratings": 2331,
+      "reviews": 109
     }
   ]
 }

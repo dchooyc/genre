@@ -1,235 +1,403 @@
 {
   "books": [
     {
-      "title": "Once I Was You: A Memoir of Love and Hate in a Torn America",
-      "url": "https://www.goodreads.com/book/show/50892261-once-i-was-you",
-      "id": "80867308",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1599399790i/50892261.jpg",
+      "title": "The Narrow Corridor: States, Societies, and the Fate of Liberty",
+      "url": "https://www.goodreads.com/book/show/52884091-the-narrow-corridor",
+      "id": "71435658",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1561313575l/52884091.jpg",
       "authors": [
-        "María Hinojosa"
+        "Daron Acemoğlu"
+      ],
+      "genres": [
+        "politics",
+        "economics",
+        "history",
+        "non-fiction",
+        "political-science",
+        "philosophy",
+        "sociology"
+      ],
+      "rating": 4.23,
+      "ratings": 2849,
+      "reviews": 370
+    },
+    {
+      "title": "American Moonshot: John F. Kennedy and the Great Space Race",
+      "url": "https://www.goodreads.com/book/show/36501774-american-moonshot",
+      "id": "58219642",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1542759738i/36501774.jpg",
+      "authors": [
+        "Douglas Brinkley"
+      ],
+      "genres": [
+        "history",
+        "non-fiction",
+        "science",
+        "space",
+        "politics",
+        "biography",
+        "american-history"
+      ],
+      "rating": 4.17,
+      "ratings": 2849,
+      "reviews": 377
+    },
+    {
+      "title": "The Corpse Walker: Real Life Stories, China from the Bottom Up",
+      "url": "https://www.goodreads.com/book/show/2880708-the-corpse-walker",
+      "id": "2906923",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320426272i/2880708.jpg",
+      "authors": [
+        "Liao Yiwu"
+      ],
+      "genres": [
+        "china",
+        "non-fiction",
+        "history",
+        "asia",
+        "short-stories",
+        "biography",
+        "politics"
+      ],
+      "rating": 4.22,
+      "ratings": 2848,
+      "reviews": 328
+    },
+    {
+      "title": "River of Darkness: Francisco Orellana's Legendary Voyage of Death and Discovery Down the Amazon",
+      "url": "https://www.goodreads.com/book/show/9152282-river-of-darkness",
+      "id": "14031215",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320390342i/9152282.jpg",
+      "authors": [
+        "Buddy Levy"
+      ],
+      "genres": [
+        "history",
+        "non-fiction",
+        "adventure",
+        "travel",
+        "biography",
+        "survival",
+        "historical"
+      ],
+      "rating": 4.18,
+      "ratings": 2847,
+      "reviews": 223
+    },
+    {
+      "title": "Who Was Helen Keller?",
+      "url": "https://www.goodreads.com/book/show/295615.Who_Was_Helen_Keller_",
+      "id": "286846",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1363585160i/295615.jpg",
+      "authors": [
+        "Gare Thompson"
+      ],
+      "genres": [
+        "biography",
+        "non-fiction",
+        "history",
+        "childrens",
+        "chapter-books",
+        "disability",
+        "biography-memoir"
+      ],
+      "rating": 4.24,
+      "ratings": 2846,
+      "reviews": 305
+    },
+    {
+      "title": "The Dangerous Case of Donald Trump: 27 Psychiatrists and Mental Health Experts Assess a President",
+      "url": "https://www.goodreads.com/book/show/35343348-the-dangerous-case-of-donald-trump",
+      "id": "56709441",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1499707774i/35343348.jpg",
+      "authors": [
+        "Bandy X. Lee"
+      ],
+      "genres": [
+        "politics",
+        "non-fiction",
+        "psychology",
+        "history",
+        "audiobook",
+        "essays",
+        "science"
+      ],
+      "rating": 4.03,
+      "ratings": 2846,
+      "reviews": 479
+    },
+    {
+      "title": "Righteous Indignation: Excuse Me While I Save the World!",
+      "url": "https://www.goodreads.com/book/show/10482371-righteous-indignation",
+      "id": "15387840",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442775088i/10482371.jpg",
+      "authors": [
+        "Andrew Breitbart"
+      ],
+      "genres": [
+        "politics",
+        "non-fiction",
+        "biography",
+        "autobiography",
+        "history",
+        "cultural",
+        "journalism"
+      ],
+      "rating": 4.3,
+      "ratings": 2845,
+      "reviews": 279
+    },
+    {
+      "title": "Anne Frank: The Book, the Life, the Afterlife",
+      "url": "https://www.goodreads.com/book/show/6486492-anne-frank",
+      "id": "6677852",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442588627i/6486492.jpg",
+      "authors": [
+        "Francine Prose"
+      ],
+      "genres": [
+        "non-fiction",
+        "history",
+        "biography",
+        "holocaust",
+        "world-war-ii",
+        "literary-criticism",
+        "books-about-books"
+      ],
+      "rating": 4.15,
+      "ratings": 2845,
+      "reviews": 199
+    },
+    {
+      "title": "How Markets Fail: The Logic of Economic Calamities",
+      "url": "https://www.goodreads.com/book/show/6691186-how-markets-fail",
+      "id": "6886629",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442955895i/6691186.jpg",
+      "authors": [
+        "John Cassidy"
+      ],
+      "genres": [
+        "economics",
+        "non-fiction",
+        "finance",
+        "business",
+        "history",
+        "politics",
+        "psychology"
+      ],
+      "rating": 4.06,
+      "ratings": 2844,
+      "reviews": 195
+    },
+    {
+      "title": "G-Man: J. Edgar Hoover and the Making of the American Century",
+      "url": "https://www.goodreads.com/book/show/60417618-g-man",
+      "id": "95706843",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1662685016i/60417618.jpg",
+      "authors": [
+        "Beverly Gage"
+      ],
+      "genres": [
+        "biography",
+        "history",
+        "non-fiction",
+        "politics",
+        "american-history",
+        "crime",
+        "audiobook"
+      ],
+      "rating": 4.38,
+      "ratings": 2843,
+      "reviews": 377
+    },
+    {
+      "title": "Helen Keller",
+      "url": "https://www.goodreads.com/book/show/136206.Helen_Keller",
+      "id": "565601",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1360057618i/136206.jpg",
+      "authors": [
+        "Margaret Davidson"
+      ],
+      "genres": [
+        "biography",
+        "non-fiction",
+        "history",
+        "school",
+        "childrens",
+        "classics",
+        "historical"
+      ],
+      "rating": 4.08,
+      "ratings": 2843,
+      "reviews": 207
+    },
+    {
+      "title": "I Will Never See the World Again",
+      "url": "https://www.goodreads.com/book/show/44422074-i-will-never-see-the-world-again",
+      "id": "65661361",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1552482877i/44422074.jpg",
+      "authors": [
+        "Ahmet Altan"
+      ],
+      "genres": [
+        "non-fiction",
+        "memoir",
+        "politics",
+        "biography",
+        "history",
+        "turkish",
+        "essays"
+      ],
+      "rating": 4.25,
+      "ratings": 2843,
+      "reviews": 389
+    },
+    {
+      "title": "The Dragons, the Giant, the Women: A Memoir",
+      "url": "https://www.goodreads.com/book/show/50870505-the-dragons-the-giant-the-women",
+      "id": "73380952",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1568829776l/50870505.jpg",
+      "authors": [
+        "Wayétu Moore"
       ],
       "genres": [
         "memoir",
         "non-fiction",
-        "audiobook",
+        "africa",
+        "liberia",
+        "biography-memoir",
         "biography",
-        "race",
-        "history",
-        "politics"
+        "history"
       ],
-      "rating": 4.2,
-      "ratings": 2770,
-      "reviews": 422
+      "rating": 4.24,
+      "ratings": 2841,
+      "reviews": 396
     },
     {
-      "title": "Isabella: The Warrior Queen",
-      "url": "https://www.goodreads.com/book/show/20697422-isabella",
-      "id": "40016919",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1394995136i/20697422.jpg",
+      "title": "Willie Mays: The Life, the Legend",
+      "url": "https://www.goodreads.com/book/show/6962222-willie-mays",
+      "id": "7199743",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442372632i/6962222.jpg",
       "authors": [
-        "Kirstin Downey"
+        "James S. Hirsch"
       ],
       "genres": [
-        "history",
+        "baseball",
+        "sports",
         "biography",
         "non-fiction",
-        "spain",
-        "historical",
-        "european-history",
+        "history",
+        "african-american",
         "biography-memoir"
       ],
-      "rating": 4.12,
-      "ratings": 2767,
-      "reviews": 431
+      "rating": 4.08,
+      "ratings": 2837,
+      "reviews": 219
     },
     {
-      "title": "Dilla Time: The Life and Afterlife of J Dilla, the Hip-Hop Producer Who Reinvented Rhythm",
-      "url": "https://www.goodreads.com/book/show/57693653-dilla-time",
-      "id": "90371794",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1636345963i/57693653.jpg",
+      "title": "Kill Bin Laden: A Delta Force Commander's Account of the Hunt for the World's Most Wanted Man",
+      "url": "https://www.goodreads.com/book/show/3008822-kill-bin-laden",
+      "id": "3039353",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1317066700i/3008822.jpg",
       "authors": [
-        "Dan Charnas"
-      ],
-      "genres": [
-        "music",
-        "non-fiction",
-        "biography",
-        "hip-hop",
-        "history",
-        "biography-memoir",
-        "memoir"
-      ],
-      "rating": 4.56,
-      "ratings": 2766,
-      "reviews": 380
-    },
-    {
-      "title": "Hard Times: An Oral History of the Great Depression",
-      "url": "https://www.goodreads.com/book/show/59651.Hard_Times",
-      "id": "1813307",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328752527i/59651.jpg",
-      "authors": [
-        "Studs Terkel"
-      ],
-      "genres": [
-        "history",
-        "non-fiction",
-        "american-history",
-        "oral-history",
-        "politics",
-        "economics",
-        "historical"
-      ],
-      "rating": 4.19,
-      "ratings": 2766,
-      "reviews": 281
-    },
-    {
-      "title": "One Shot at Forever: A Small Town, an Unlikely Coach, and a Magical Baseball Season",
-      "url": "https://www.goodreads.com/book/show/40940280-one-shot-at-forever",
-      "id": "18612761",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1532480159i/40940280.jpg",
-      "authors": [
-        "Chris Ballard"
-      ],
-      "genres": [
-        "sports",
-        "baseball",
-        "non-fiction",
-        "history",
-        "biography",
-        "adult",
-        "audiobook"
-      ],
-      "rating": 4.28,
-      "ratings": 2762,
-      "reviews": 465
-    },
-    {
-      "title": "Viper Pilot: A Memoir of Air Combat",
-      "url": "https://www.goodreads.com/book/show/13623911-viper-pilot",
-      "id": "19227659",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386076074i/13623911.jpg",
-      "authors": [
-        "Dan Hampton"
+        "Dalton Fury"
       ],
       "genres": [
         "military-fiction",
         "non-fiction",
-        "aviation",
         "history",
-        "biography",
         "war",
-        "military-history"
+        "military-history",
+        "terrorism",
+        "historical"
       ],
-      "rating": 4.1,
-      "ratings": 2762,
-      "reviews": 221
+      "rating": 4.05,
+      "ratings": 2836,
+      "reviews": 114
     },
     {
-      "title": "Lucy: The Beginnings of Humankind",
-      "url": "https://www.goodreads.com/book/show/189311.Lucy",
-      "id": "183010",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1393773366i/189311.jpg",
+      "title": "My Name Is Selma: The Remarkable Memoir of a Jewish Resistance Fighter and Ravensbrück Survivor",
+      "url": "https://www.goodreads.com/book/show/55711696-my-name-is-selma",
+      "id": "75108940",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1618758719i/55711696.jpg",
       "authors": [
-        "Donald C. Johanson"
+        "Selma van de Perre"
       ],
       "genres": [
-        "science",
-        "anthropology",
         "non-fiction",
         "history",
-        "evolution",
-        "archaeology",
-        "biology"
-      ],
-      "rating": 4.15,
-      "ratings": 2761,
-      "reviews": 80
-    },
-    {
-      "title": "Mr. Lincoln's Army",
-      "url": "https://www.goodreads.com/book/show/562407.Mr_Lincoln_s_Army",
-      "id": "1790394",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1338533328i/562407.jpg",
-      "authors": [
-        "Bruce Catton"
-      ],
-      "genres": [
-        "history",
-        "civil-war",
-        "non-fiction",
-        "american-history",
-        "american-civil-war",
-        "war",
-        "military-history"
-      ],
-      "rating": 4.32,
-      "ratings": 2761,
-      "reviews": 142
-    },
-    {
-      "title": "London",
-      "url": "https://www.goodreads.com/book/show/1035311.London",
-      "id": "45273",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1180398403i/1035311.jpg",
-      "authors": [
-        "Michael Leapman"
-      ],
-      "genres": [
-        "travel",
-        "non-fiction",
-        "reference",
-        "british-literature",
-        "history",
-        "guidebook",
-        "collections"
-      ],
-      "rating": 4.12,
-      "ratings": 2761,
-      "reviews": 56
-    },
-    {
-      "title": "A Deadly Game: The Untold Story of the Scott Peterson Investigation",
-      "url": "https://www.goodreads.com/book/show/690429.A_Deadly_Game",
-      "id": "676776",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442428366i/690429.jpg",
-      "authors": [
-        "Catherine Crier"
-      ],
-      "genres": [
-        "true-crime",
-        "non-fiction",
-        "crime",
+        "memoir",
+        "holocaust",
         "biography",
-        "psychology",
-        "history",
-        "drama"
+        "world-war-ii",
+        "war"
       ],
-      "rating": 4.06,
-      "ratings": 2760,
-      "reviews": 189
+      "rating": 4.16,
+      "ratings": 2836,
+      "reviews": 351
     },
     {
-      "title": "Rocket Men: The Epic Story of the First Men on the Moon",
-      "url": "https://www.goodreads.com/book/show/6424902-rocket-men",
-      "id": "6614178",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347463084i/6424902.jpg",
+      "title": "Letters to My Palestinian Neighbor",
+      "url": "https://www.goodreads.com/book/show/36137570-letters-to-my-palestinian-neighbor",
+      "id": "57738403",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1516481512i/36137570.jpg",
       "authors": [
-        "Craig  Nelson"
+        "Yossi Klein Halevi"
       ],
       "genres": [
-        "history",
         "non-fiction",
-        "space",
-        "science",
-        "biography",
-        "american-history",
+        "israel",
+        "jewish",
+        "history",
+        "politics",
+        "judaism",
         "audiobook"
       ],
+      "rating": 4.12,
+      "ratings": 2836,
+      "reviews": 371
+    },
+    {
+      "title": "The Rule of Law",
+      "url": "https://www.goodreads.com/book/show/7734691-the-rule-of-law",
+      "id": "10523835",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327357105i/7734691.jpg",
+      "authors": [
+        "Tom Bingham"
+      ],
+      "genres": [
+        "law",
+        "non-fiction",
+        "politics",
+        "philosophy",
+        "history",
+        "school",
+        "society"
+      ],
       "rating": 4.13,
-      "ratings": 2759,
-      "reviews": 324
+      "ratings": 2836,
+      "reviews": 179
+    },
+    {
+      "title": "Seven Miracles That Saved America: Why They Matter and Why We Should Have Hope",
+      "url": "https://www.goodreads.com/book/show/7024307-seven-miracles-that-saved-america",
+      "id": "7271367",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347557456i/7024307.jpg",
+      "authors": [
+        "Chris Stewart"
+      ],
+      "genres": [
+        "history",
+        "non-fiction",
+        "historical",
+        "religion",
+        "american-history",
+        "inspirational",
+        "lds"
+      ],
+      "rating": 4.09,
+      "ratings": 2833,
+      "reviews": 682
     },
     {
       "title": "Fragments of an Anarchist Anthropology",
@@ -249,260 +417,92 @@
         "anarchism"
       ],
       "rating": 4.2,
-      "ratings": 2758,
-      "reviews": 235
+      "ratings": 2833,
+      "reviews": 246
     },
     {
-      "title": "The Stonewall Reader",
-      "url": "https://www.goodreads.com/book/show/42377825-the-stonewall-reader",
-      "id": "66040069",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1539783924i/42377825.jpg",
+      "title": "Fate Is the Hunter",
+      "url": "https://www.goodreads.com/book/show/533779.Fate_Is_the_Hunter",
+      "id": "521296",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348443108i/533779.jpg",
       "authors": [
-        "New York Public Library"
+        "Ernest K. Gann"
       ],
       "genres": [
+        "aviation",
         "non-fiction",
-        "lgbt",
         "history",
-        "queer",
-        "essays",
-        "historical",
-        "politics"
-      ],
-      "rating": 4.37,
-      "ratings": 2756,
-      "reviews": 426
-    },
-    {
-      "title": "Bring the War Home: The White Power Movement and Paramilitary America",
-      "url": "https://www.goodreads.com/book/show/36228413-bring-the-war-home",
-      "id": "57868055",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1514816478i/36228413.jpg",
-      "authors": [
-        "Kathleen Belew"
-      ],
-      "genres": [
-        "history",
-        "non-fiction",
-        "politics",
-        "race",
-        "american-history",
-        "sociology",
-        "audiobook"
-      ],
-      "rating": 4.22,
-      "ratings": 2755,
-      "reviews": 451
-    },
-    {
-      "title": "James Joyce",
-      "url": "https://www.goodreads.com/book/show/164434.James_Joyce",
-      "id": "2880132",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348060149i/164434.jpg",
-      "authors": [
-        "Richard Ellmann"
-      ],
-      "genres": [
         "biography",
-        "non-fiction",
-        "ireland",
-        "history",
-        "biography-memoir",
-        "literature",
-        "irish-literature"
-      ],
-      "rating": 4.34,
-      "ratings": 2755,
-      "reviews": 175
-    },
-    {
-      "title": "The Grand Alliance",
-      "url": "https://www.goodreads.com/book/show/25590.The_Grand_Alliance",
-      "id": "2417536",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1567696269i/25590.jpg",
-      "authors": [
-        "Winston S. Churchill"
-      ],
-      "genres": [
-        "history",
-        "non-fiction",
-        "world-war-ii",
-        "war",
-        "military-fiction",
-        "biography",
-        "military-history"
-      ],
-      "rating": 4.39,
-      "ratings": 2752,
-      "reviews": 135
-    },
-    {
-      "title": "How Rome Fell: Death of a Superpower",
-      "url": "https://www.goodreads.com/book/show/5599860-how-rome-fell",
-      "id": "5771216",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328826454i/5599860.jpg",
-      "authors": [
-        "Adrian Goldsworthy"
-      ],
-      "genres": [
-        "history",
-        "non-fiction",
-        "ancient-history",
-        "politics",
-        "world-history",
-        "roman",
-        "ancient"
-      ],
-      "rating": 4,
-      "ratings": 2752,
-      "reviews": 221
-    },
-    {
-      "title": "Ship of Ghosts: The Story of the USS Houston, FDR's Legendary Lost Cruiser, and the Epic Saga of Her Survivors",
-      "url": "https://www.goodreads.com/book/show/31751.Ship_of_Ghosts",
-      "id": "31967",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1400116596i/31751.jpg",
-      "authors": [
-        "James D. Hornfischer"
-      ],
-      "genres": [
-        "history",
-        "non-fiction",
-        "world-war-ii",
-        "war",
-        "military-fiction",
-        "military-history",
-        "american-history"
-      ],
-      "rating": 4.19,
-      "ratings": 2751,
-      "reviews": 204
-    },
-    {
-      "title": "Shoot Like a Girl: One Woman's Dramatic Fight in Afghanistan and on the Home Front",
-      "url": "https://www.goodreads.com/book/show/27071495-shoot-like-a-girl",
-      "id": "47113795",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1469410548i/27071495.jpg",
-      "authors": [
-        "Mary Jennings Hegar"
-      ],
-      "genres": [
-        "non-fiction",
-        "military-fiction",
         "memoir",
-        "biography",
-        "war",
-        "history",
-        "feminism"
+        "adventure",
+        "autobiography"
       ],
-      "rating": 4.14,
-      "ratings": 2751,
-      "reviews": 419
+      "rating": 4.56,
+      "ratings": 2833,
+      "reviews": 258
     },
     {
-      "title": "DNA: The Secret of Life",
-      "url": "https://www.goodreads.com/book/show/540346.DNA",
-      "id": "527731",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320518632i/540346.jpg",
+      "title": "The Mystery of the Shemitah: The 3,000-Year-Old Mystery That Holds the Secret of America's Future, the World's Future, and Your Future!",
+      "url": "https://www.goodreads.com/book/show/22668635-the-mystery-of-the-shemitah",
+      "id": "42170841",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1411605079i/22668635.jpg",
       "authors": [
-        "James D. Watson"
+        "Jonathan Cahn"
       ],
       "genres": [
-        "science",
-        "biology",
+        "christian",
         "non-fiction",
-        "genetics",
+        "religion",
         "history",
-        "evolution",
-        "popular-science"
+        "christian-living",
+        "faith",
+        "christianity"
       ],
       "rating": 4.11,
-      "ratings": 2750,
-      "reviews": 136
+      "ratings": 2832,
+      "reviews": 257
     },
     {
-      "title": "The Terrible Tudors",
-      "url": "https://www.goodreads.com/book/show/824519.The_Terrible_Tudors",
-      "id": "2739936",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1311449083i/824519.jpg",
+      "title": "In the Land of Invented Languages: Esperanto Rock Stars, Klingon Poets, Loglan Lovers, and the Mad Dreamers Who Tried to Build a Perfect Language",
+      "url": "https://www.goodreads.com/book/show/3730120-in-the-land-of-invented-languages",
+      "id": "3773893",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320533029i/3730120.jpg",
       "authors": [
-        "Terry Deary"
-      ],
-      "genres": [
-        "history",
-        "non-fiction",
-        "childrens",
-        "historical",
-        "humor",
-        "tudor-period",
-        "british-literature"
-      ],
-      "rating": 4.03,
-      "ratings": 2748,
-      "reviews": 127
-    },
-    {
-      "title": "The Butterfly Effect: How Your Life Matters",
-      "url": "https://www.goodreads.com/book/show/7672382-the-butterfly-effect",
-      "id": "10287890",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1380855975i/7672382.jpg",
-      "authors": [
-        "Andy Andrews"
+        "Arika Okrent"
       ],
       "genres": [
         "non-fiction",
-        "self-help",
-        "inspirational",
-        "christian",
+        "language",
+        "linguistics",
         "history",
-        "personal-development",
-        "philosophy"
+        "science",
+        "anthropology",
+        "reference"
       ],
-      "rating": 4.14,
-      "ratings": 2748,
-      "reviews": 349
+      "rating": 4.1,
+      "ratings": 2832,
+      "reviews": 440
     },
     {
-      "title": "A War Like No Other: How the Athenians & Spartans Fought the Peloponnesian War",
-      "url": "https://www.goodreads.com/book/show/531.A_War_Like_No_Other",
-      "id": "4791",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388257930i/531.jpg",
+      "title": "Ruth Bader Ginsburg: A Life",
+      "url": "https://www.goodreads.com/book/show/38395059-ruth-bader-ginsburg",
+      "id": "60051534",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1523439028i/38395059.jpg",
       "authors": [
-        "Victor Davis Hanson"
+        "Jane Sherron De Hart"
       ],
       "genres": [
-        "history",
         "non-fiction",
-        "ancient-history",
-        "war",
-        "military-history",
-        "military-fiction",
-        "greece"
-      ],
-      "rating": 4.13,
-      "ratings": 2748,
-      "reviews": 194
-    },
-    {
-      "title": "River of Darkness: Francisco Orellana's Legendary Voyage of Death and Discovery Down the Amazon",
-      "url": "https://www.goodreads.com/book/show/9152282-river-of-darkness",
-      "id": "14031215",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320390342i/9152282.jpg",
-      "authors": [
-        "Buddy Levy"
-      ],
-      "genres": [
-        "history",
-        "non-fiction",
-        "adventure",
-        "travel",
         "biography",
-        "survival",
-        "historical"
+        "history",
+        "politics",
+        "feminism",
+        "biography-memoir",
+        "law"
       ],
-      "rating": 4.17,
-      "ratings": 2747,
-      "reviews": 218
+      "rating": 4.21,
+      "ratings": 2832,
+      "reviews": 365
     }
   ]
 }

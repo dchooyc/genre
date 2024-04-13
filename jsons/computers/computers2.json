@@ -1,24 +1,108 @@
 {
   "books": [
     {
-      "title": "UNIX and Linux System Administration Handbook",
-      "url": "https://www.goodreads.com/book/show/8772005-unix-and-linux-system-administration-handbook",
-      "id": "13645501",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1415581344i/8772005.jpg",
+      "title": "The Humane Interface: New Directions for Designing Interactive Systems",
+      "url": "https://www.goodreads.com/book/show/344726.The_Humane_Interface",
+      "id": "335055",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388200339i/344726.jpg",
       "authors": [
-        "Evi Nemeth"
+        "Jef Raskin"
       ],
       "genres": [
+        "design",
+        "non-fiction",
+        "programming",
         "technology",
+        "computers",
+        "usability",
+        "software"
+      ],
+      "rating": 4.03,
+      "ratings": 1026,
+      "reviews": 43
+    },
+    {
+      "title": "Python Cookbook: Recipes for Mastering Python 3",
+      "url": "https://www.goodreads.com/book/show/17152735-python-cookbook",
+      "id": "23572421",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1368812217i/17152735.jpg",
+      "authors": [
+        "David Beazley"
+      ],
+      "genres": [
         "programming",
         "computer-science",
         "reference",
+        "technology",
         "technical",
-        "non-fiction",
+        "software",
         "computers"
       ],
-      "rating": 4.44,
-      "ratings": 943,
+      "rating": 4.17,
+      "ratings": 996,
+      "reviews": 51
+    },
+    {
+      "title": "UNIX: A History and a Memoir",
+      "url": "https://www.goodreads.com/book/show/53011383-unix",
+      "id": "73834380",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1571699686l/53011383.jpg",
+      "authors": [
+        "Brian W. Kernighan"
+      ],
+      "genres": [
+        "history",
+        "non-fiction",
+        "technology",
+        "computer-science",
+        "programming",
+        "computers",
+        "biography"
+      ],
+      "rating": 4.41,
+      "ratings": 971,
+      "reviews": 145
+    },
+    {
+      "title": "C++ Primer",
+      "url": "https://www.goodreads.com/book/show/768080.C_Primer",
+      "id": "754144",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347564002i/768080.jpg",
+      "authors": [
+        "Stanley B. Lippman"
+      ],
+      "genres": [
+        "programming",
+        "computer-science",
+        "reference",
+        "technology",
+        "non-fiction",
+        "computers",
+        "software"
+      ],
+      "rating": 4.22,
+      "ratings": 964,
+      "reviews": 47
+    },
+    {
+      "title": "The Joy of Clojure",
+      "url": "https://www.goodreads.com/book/show/8129142-the-joy-of-clojure",
+      "id": "12924863",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1272940175i/8129142.jpg",
+      "authors": [
+        "Michael Fogus"
+      ],
+      "genres": [
+        "programming",
+        "computer-science",
+        "technology",
+        "computers",
+        "technical",
+        "software",
+        "non-fiction"
+      ],
+      "rating": 4.18,
+      "ratings": 954,
       "reviews": 50
     },
     {
@@ -39,8 +123,50 @@
         "computers"
       ],
       "rating": 4.22,
-      "ratings": 937,
+      "ratings": 946,
       "reviews": 32
+    },
+    {
+      "title": "UNIX and Linux System Administration Handbook",
+      "url": "https://www.goodreads.com/book/show/8772005-unix-and-linux-system-administration-handbook",
+      "id": "13645501",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1415581344i/8772005.jpg",
+      "authors": [
+        "Evi Nemeth"
+      ],
+      "genres": [
+        "technology",
+        "programming",
+        "computer-science",
+        "reference",
+        "technical",
+        "non-fiction",
+        "computers"
+      ],
+      "rating": 4.44,
+      "ratings": 945,
+      "reviews": 50
+    },
+    {
+      "title": "Software Craftsman, The: Professionalism, Pragmatism, Pride",
+      "url": "https://www.goodreads.com/book/show/23215733-software-craftsman-the",
+      "id": "42757860",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1416778735i/23215733.jpg",
+      "authors": [
+        "Sandro Mancuso"
+      ],
+      "genres": [
+        "programming",
+        "software",
+        "technology",
+        "computer-science",
+        "technical",
+        "non-fiction",
+        "computers"
+      ],
+      "rating": 4.31,
+      "ratings": 933,
+      "reviews": 116
     },
     {
       "title": "The Story of Commodore: A Company on the Edge",
@@ -60,29 +186,8 @@
         "engineering"
       ],
       "rating": 4.21,
-      "ratings": 932,
+      "ratings": 933,
       "reviews": 82
-    },
-    {
-      "title": "Software Craftsman, The: Professionalism, Pragmatism, Pride",
-      "url": "https://www.goodreads.com/book/show/23215733-software-craftsman-the",
-      "id": "42757860",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1416778735i/23215733.jpg",
-      "authors": [
-        "Sandro Mancuso"
-      ],
-      "genres": [
-        "programming",
-        "software",
-        "technology",
-        "computer-science",
-        "technical",
-        "non-fiction",
-        "computers"
-      ],
-      "rating": 4.32,
-      "ratings": 925,
-      "reviews": 115
     },
     {
       "title": "Modern C++ Design: Generic Programming and Design Patterns Applied",
@@ -123,8 +228,8 @@
         "science"
       ],
       "rating": 4.55,
-      "ratings": 862,
-      "reviews": 67
+      "ratings": 867,
+      "reviews": 68
     },
     {
       "title": "SCJP Sun Certified Programmer for Java 6 Study Guide",
@@ -144,8 +249,50 @@
         "coding"
       ],
       "rating": 4.29,
-      "ratings": 860,
+      "ratings": 859,
       "reviews": 60
+    },
+    {
+      "title": "But How Do It Know? The Basic Principles of Computers for Everyone",
+      "url": "https://www.goodreads.com/book/show/18276352-but-how-do-it-know-the-basic-principles-of-computers-for-everyone",
+      "id": "25745535",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1375433017i/18276352.jpg",
+      "authors": [
+        "J. Clark Scott"
+      ],
+      "genres": [
+        "computer-science",
+        "programming",
+        "non-fiction",
+        "technology",
+        "science",
+        "computers",
+        "coding"
+      ],
+      "rating": 4.46,
+      "ratings": 848,
+      "reviews": 74
+    },
+    {
+      "title": "Metasploit: The Penetration Tester's Guide",
+      "url": "https://www.goodreads.com/book/show/10545174-metasploit",
+      "id": "15451623",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328753509i/10545174.jpg",
+      "authors": [
+        "David  Kennedy"
+      ],
+      "genres": [
+        "hackers",
+        "technology",
+        "computer-science",
+        "reference",
+        "non-fiction",
+        "technical",
+        "computers"
+      ],
+      "rating": 4.06,
+      "ratings": 846,
+      "reviews": 34
     },
     {
       "title": "Linux Kernel Development",
@@ -169,27 +316,6 @@
       "reviews": 47
     },
     {
-      "title": "Metasploit: The Penetration Tester's Guide",
-      "url": "https://www.goodreads.com/book/show/10545174-metasploit",
-      "id": "15451623",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328753509i/10545174.jpg",
-      "authors": [
-        "David  Kennedy"
-      ],
-      "genres": [
-        "hackers",
-        "computer-science",
-        "technology",
-        "reference",
-        "non-fiction",
-        "technical",
-        "computers"
-      ],
-      "rating": 4.06,
-      "ratings": 845,
-      "reviews": 33
-    },
-    {
       "title": "Expert C Programming: Deep C Secrets",
       "url": "https://www.goodreads.com/book/show/198207.Expert_C_Programming",
       "id": "191730",
@@ -211,28 +337,7 @@
       "reviews": 48
     },
     {
-      "title": "But How Do It Know? The Basic Principles of Computers for Everyone",
-      "url": "https://www.goodreads.com/book/show/18276352-but-how-do-it-know-the-basic-principles-of-computers-for-everyone",
-      "id": "25745535",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1375433017i/18276352.jpg",
-      "authors": [
-        "J. Clark Scott"
-      ],
-      "genres": [
-        "computer-science",
-        "programming",
-        "non-fiction",
-        "technology",
-        "science",
-        "computers",
-        "coding"
-      ],
-      "rating": 4.46,
-      "ratings": 832,
-      "reviews": 71
-    },
-    {
-      "title": "Adobe Illustrator Cs6 Classroom in a Book",
+      "title": "Adobe Illustrator CS6 Classroom in a Book: The Official Training Workbook from Adobe Systems [With CDROM]",
       "url": "https://www.goodreads.com/book/show/14786149-adobe-illustrator-cs6-classroom-in-a-book",
       "id": "20439262",
       "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1340738878i/14786149.jpg",
@@ -249,8 +354,29 @@
         "computers"
       ],
       "rating": 4.1,
-      "ratings": 818,
+      "ratings": 816,
       "reviews": 43
+    },
+    {
+      "title": "High Performance Browser Networking",
+      "url": "https://www.goodreads.com/book/show/17985198-high-performance-browser-networking",
+      "id": "25220114",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1369754654i/17985198.jpg",
+      "authors": [
+        "Ilya Grigorik"
+      ],
+      "genres": [
+        "programming",
+        "technology",
+        "computer-science",
+        "software",
+        "technical",
+        "non-fiction",
+        "computers"
+      ],
+      "rating": 4.52,
+      "ratings": 803,
+      "reviews": 80
     },
     {
       "title": "Mindstorms: Children, Computers, And Powerful Ideas",
@@ -270,29 +396,8 @@
         "programming"
       ],
       "rating": 4.31,
-      "ratings": 795,
-      "reviews": 91
-    },
-    {
-      "title": "High Performance Browser Networking",
-      "url": "https://www.goodreads.com/book/show/17985198-high-performance-browser-networking",
-      "id": "25220114",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1369754654i/17985198.jpg",
-      "authors": [
-        "Ilya Grigorik"
-      ],
-      "genres": [
-        "programming",
-        "technology",
-        "software",
-        "computer-science",
-        "technical",
-        "non-fiction",
-        "computers"
-      ],
-      "rating": 4.52,
-      "ratings": 795,
-      "reviews": 79
+      "ratings": 798,
+      "reviews": 92
     },
     {
       "title": "Head First Servlets and JSP: Passing the Sun Certified Web Component Developer Exam",
@@ -312,7 +417,7 @@
         "computers"
       ],
       "rating": 4.17,
-      "ratings": 759,
+      "ratings": 760,
       "reviews": 46
     },
     {
@@ -333,7 +438,7 @@
         "computers"
       ],
       "rating": 4.42,
-      "ratings": 739,
+      "ratings": 745,
       "reviews": 79
     },
     {
@@ -354,7 +459,7 @@
         "non-fiction"
       ],
       "rating": 4.42,
-      "ratings": 737,
+      "ratings": 741,
       "reviews": 60
     },
     {
@@ -368,14 +473,14 @@
       "genres": [
         "reference",
         "programming",
-        "computers",
         "computer-science",
+        "computers",
         "non-fiction",
         "technical",
         "coding"
       ],
-      "rating": 4.02,
-      "ratings": 717,
+      "rating": 4.03,
+      "ratings": 720,
       "reviews": 27
     },
     {
@@ -396,113 +501,8 @@
         "non-fiction"
       ],
       "rating": 4.11,
-      "ratings": 708,
+      "ratings": 709,
       "reviews": 30
-    },
-    {
-      "title": "Introduction to Automata Theory, Languages, and Computation",
-      "url": "https://www.goodreads.com/book/show/1384026.Introduction_to_Automata_Theory_Languages_and_Computation",
-      "id": "1374051",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1387668734i/1384026.jpg",
-      "authors": [
-        "John E. Hopcroft"
-      ],
-      "genres": [
-        "computer-science",
-        "programming",
-        "reference",
-        "mathematics",
-        "computers",
-        "science",
-        "technical"
-      ],
-      "rating": 4.05,
-      "ratings": 654,
-      "reviews": 29
-    },
-    {
-      "title": "The Linux Programming Interface: A Linux and UNIX System Programming Handbook",
-      "url": "https://www.goodreads.com/book/show/7672214-the-linux-programming-interface",
-      "id": "10286833",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1391032547i/7672214.jpg",
-      "authors": [
-        "Michael Kerrisk"
-      ],
-      "genres": [
-        "programming",
-        "computer-science",
-        "technology",
-        "reference",
-        "technical",
-        "software",
-        "computers"
-      ],
-      "rating": 4.62,
-      "ratings": 645,
-      "reviews": 39
-    },
-    {
-      "title": "Scala for the Impatient",
-      "url": "https://www.goodreads.com/book/show/11335855-scala-for-the-impatient",
-      "id": "16264400",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348110005i/11335855.jpg",
-      "authors": [
-        "Cay S. Horstmann"
-      ],
-      "genres": [
-        "programming",
-        "technology",
-        "computer-science",
-        "technical",
-        "non-fiction",
-        "software",
-        "computers"
-      ],
-      "rating": 4.1,
-      "ratings": 637,
-      "reviews": 53
-    },
-    {
-      "title": "Linux Pocket Guide",
-      "url": "https://www.goodreads.com/book/show/128172.Linux_Pocket_Guide",
-      "id": "123439",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328834323i/128172.jpg",
-      "authors": [
-        "Daniel J. Barrett"
-      ],
-      "genres": [
-        "reference",
-        "programming",
-        "computer-science",
-        "non-fiction",
-        "technical",
-        "technology",
-        "computers"
-      ],
-      "rating": 4.07,
-      "ratings": 632,
-      "reviews": 32
-    },
-    {
-      "title": "Effective STL: 50 Specific Ways to Improve Your Use of the Standard Template Library",
-      "url": "https://www.goodreads.com/book/show/105124.Effective_STL",
-      "id": "101341",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1349046800i/105124.jpg",
-      "authors": [
-        "Scott Meyers"
-      ],
-      "genres": [
-        "programming",
-        "computer-science",
-        "technical",
-        "non-fiction",
-        "computers",
-        "software",
-        "technology"
-      ],
-      "rating": 4.22,
-      "ratings": 613,
-      "reviews": 28
     }
   ]
 }

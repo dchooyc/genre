@@ -1,67 +1,382 @@
 {
   "books": [
     {
-      "title": "Unreasonable Hospitality: The Remarkable Power of Giving People More Than They Expect",
-      "url": "https://www.goodreads.com/book/show/60018618-unreasonable-hospitality",
-      "id": "94612837",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1664754462i/60018618.jpg",
+      "title": "The Best Minds: A Story of Friendship, Madness, and the Tragedy of Good Intentions",
+      "url": "https://www.goodreads.com/book/show/61724281-the-best-minds",
+      "id": "97330992",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1658833440i/61724281.jpg",
       "authors": [
-        "Will Guidara"
+        "Jonathan Rosen"
+      ],
+      "genres": [
+        "non-fiction",
+        "memoir",
+        "psychology",
+        "true-crime",
+        "biography",
+        "mental-health",
+        "audiobook"
+      ],
+      "rating": 4.12,
+      "ratings": 7140,
+      "reviews": 918
+    },
+    {
+      "title": "Sky Burial: An Epic Love Story of Tibet",
+      "url": "https://www.goodreads.com/book/show/183845.Sky_Burial",
+      "id": "962014",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1389419157i/183845.jpg",
+      "authors": [
+        "Xinran"
+      ],
+      "genres": [
+        "non-fiction",
+        "china",
+        "asia",
+        "travel",
+        "biography",
+        "history",
+        "romance"
+      ],
+      "rating": 4.08,
+      "ratings": 7137,
+      "reviews": 1207
+    },
+    {
+      "title": "Armageddon: The Battle for Germany, 1944-1945",
+      "url": "https://www.goodreads.com/book/show/55404.Armageddon",
+      "id": "53993",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388216136i/55404.jpg",
+      "authors": [
+        "Max Hastings"
+      ],
+      "genres": [
+        "history",
+        "non-fiction",
+        "world-war-ii",
+        "military-history",
+        "war",
+        "military-fiction",
+        "germany"
+      ],
+      "rating": 4.27,
+      "ratings": 7132,
+      "reviews": 237
+    },
+    {
+      "title": "And There Was Light: Abraham Lincoln and the American Struggle",
+      "url": "https://www.goodreads.com/book/show/60647674-and-there-was-light",
+      "id": "95604109",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1648682688i/60647674.jpg",
+      "authors": [
+        "Jon Meacham"
+      ],
+      "genres": [
+        "history",
+        "biography",
+        "non-fiction",
+        "politics",
+        "american-history",
+        "civil-war",
+        "presidents"
+      ],
+      "rating": 4.47,
+      "ratings": 7131,
+      "reviews": 1003
+    },
+    {
+      "title": "What Doesn't Kill Us: How Freezing Water, Extreme Altitude, and Environmental Conditioning Will Renew Our Lost Evolutionary Strength",
+      "url": "https://www.goodreads.com/book/show/30039048-what-doesn-t-kill-us",
+      "id": "50443237",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1467209302i/30039048.jpg",
+      "authors": [
+        "Scott Carney"
+      ],
+      "genres": [
+        "non-fiction",
+        "health",
+        "science",
+        "self-help",
+        "fitness",
+        "personal-development",
+        "psychology"
+      ],
+      "rating": 4.1,
+      "ratings": 7129,
+      "reviews": 608
+    },
+    {
+      "title": "Teach Like a Champion: 49 Techniques that Put Students on the Path to College",
+      "url": "https://www.goodreads.com/book/show/7811877-teach-like-a-champion",
+      "id": "10825901",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1389752761i/7811877.jpg",
+      "authors": [
+        "Doug Lemov"
+      ],
+      "genres": [
+        "education",
+        "teaching",
+        "non-fiction",
+        "school",
+        "reference",
+        "textbooks",
+        "leadership"
+      ],
+      "rating": 4.05,
+      "ratings": 7127,
+      "reviews": 630
+    },
+    {
+      "title": "Follow Me: A Call to Die. A Call to Live.",
+      "url": "https://www.goodreads.com/book/show/16184834-follow-me",
+      "id": "21577894",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1406514705i/16184834.jpg",
+      "authors": [
+        "David Platt"
+      ],
+      "genres": [
+        "christian",
+        "christian-living",
+        "non-fiction",
+        "faith",
+        "theology",
+        "christianity",
+        "discipleship"
+      ],
+      "rating": 4.18,
+      "ratings": 7126,
+      "reviews": 416
+    },
+    {
+      "title": "The Norse Myths",
+      "url": "https://www.goodreads.com/book/show/497366.The_Norse_Myths",
+      "id": "25499",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1446493100i/497366.jpg",
+      "authors": [
+        "Kevin Crossley-Holland"
+      ],
+      "genres": [
+        "mythology",
+        "non-fiction",
+        "history",
+        "classics",
+        "religion",
+        "short-stories",
+        "folklore"
+      ],
+      "rating": 4.18,
+      "ratings": 7126,
+      "reviews": 449
+    },
+    {
+      "title": "Doing Good Better: How Effective Altruism Can Help You Make a Difference",
+      "url": "https://www.goodreads.com/book/show/23398748-doing-good-better",
+      "id": "42955303",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1414351487i/23398748.jpg",
+      "authors": [
+        "William MacAskill"
+      ],
+      "genres": [
+        "non-fiction",
+        "philosophy",
+        "economics",
+        "self-help",
+        "business",
+        "psychology",
+        "society"
+      ],
+      "rating": 4.21,
+      "ratings": 7125,
+      "reviews": 869
+    },
+    {
+      "title": "The Greatest Trade Ever: The Behind-the-Scenes Story of How John Paulson Defied Wall Street and Made Financial History",
+      "url": "https://www.goodreads.com/book/show/6986632-the-greatest-trade-ever",
+      "id": "7228708",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320488806i/6986632.jpg",
+      "authors": [
+        "Gregory Zuckerman"
+      ],
+      "genres": [
+        "finance",
+        "business",
+        "non-fiction",
+        "economics",
+        "history",
+        "biography",
+        "buisness"
+      ],
+      "rating": 4.06,
+      "ratings": 7118,
+      "reviews": 234
+    },
+    {
+      "title": "Imagine Heaven: Near-Death Experiences, God's Promises, and the Exhilarating Future That Awaits You",
+      "url": "https://www.goodreads.com/book/show/27160911-imagine-heaven",
+      "id": "45934997",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1444712282i/27160911.jpg",
+      "authors": [
+        "John Burke"
+      ],
+      "genres": [
+        "christian",
+        "non-fiction",
+        "religion",
+        "faith",
+        "spirituality",
+        "christianity",
+        "christian-non-fiction"
+      ],
+      "rating": 4.42,
+      "ratings": 7117,
+      "reviews": 743
+    },
+    {
+      "title": "The Upstarts: How Uber, Airbnb, and the Killer Companies of the New Silicon Valley Are Changing the World",
+      "url": "https://www.goodreads.com/book/show/29905580-the-upstarts",
+      "id": "50279459",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1479331403i/29905580.jpg",
+      "authors": [
+        "Brad Stone"
       ],
       "genres": [
         "business",
         "non-fiction",
-        "leadership",
-        "audiobook",
-        "food",
-        "personal-development",
-        "self-help"
-      ],
-      "rating": 4.46,
-      "ratings": 6995,
-      "reviews": 739
-    },
-    {
-      "title": "Fragments",
-      "url": "https://www.goodreads.com/book/show/134891.Fragments",
-      "id": "129977",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1519443022i/134891.jpg",
-      "authors": [
-        "Heraclitus"
-      ],
-      "genres": [
-        "philosophy",
-        "classics",
-        "non-fiction",
-        "poetry",
+        "technology",
+        "entrepreneurship",
+        "biography",
         "history",
-        "ancient",
-        "greece"
+        "economics"
       ],
-      "rating": 4.18,
-      "ratings": 6995,
-      "reviews": 383
+      "rating": 4.04,
+      "ratings": 7116,
+      "reviews": 522
     },
     {
-      "title": "Prayer: Finding the Heart's True Home",
-      "url": "https://www.goodreads.com/book/show/180731.Prayer",
-      "id": "203496",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348846661i/180731.jpg",
+      "title": "The Book of Charlie: Wisdom from the Remarkable American Life of a 109-Year-Old Man",
+      "url": "https://www.goodreads.com/book/show/62918681-the-book-of-charlie",
+      "id": "98736827",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1682527920i/62918681.jpg",
       "authors": [
-        "Richard J. Foster"
+        "David von Drehle"
       ],
       "genres": [
-        "prayer",
-        "christian",
-        "spirituality",
-        "christianity",
-        "faith",
-        "theology",
-        "non-fiction"
+        "non-fiction",
+        "biography",
+        "history",
+        "memoir",
+        "audiobook",
+        "biography-memoir",
+        "philosophy"
       ],
-      "rating": 4.13,
-      "ratings": 6995,
-      "reviews": 329
+      "rating": 4.01,
+      "ratings": 7115,
+      "reviews": 926
+    },
+    {
+      "title": "xkcd: volume 0",
+      "url": "https://www.goodreads.com/book/show/6902644-xkcd",
+      "id": "7126174",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328833276i/6902644.jpg",
+      "authors": [
+        "Randall Munroe"
+      ],
+      "genres": [
+        "humor",
+        "graphic-novels",
+        "science",
+        "non-fiction",
+        "comics",
+        "comedy",
+        "webcomic"
+      ],
+      "rating": 4.33,
+      "ratings": 7113,
+      "reviews": 309
+    },
+    {
+      "title": "Coming Into the Country",
+      "url": "https://www.goodreads.com/book/show/79.Coming_Into_the_Country",
+      "id": "518787",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1671459571i/79.jpg",
+      "authors": [
+        "John McPhee"
+      ],
+      "genres": [
+        "non-fiction",
+        "travel",
+        "nature",
+        "history",
+        "science",
+        "adventure",
+        "environment"
+      ],
+      "rating": 4.22,
+      "ratings": 7107,
+      "reviews": 400
+    },
+    {
+      "title": "England's Dreaming: Anarchy, Sex Pistols, Punk Rock, and Beyond",
+      "url": "https://www.goodreads.com/book/show/330729.England_s_Dreaming",
+      "id": "1802142",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1316727306i/330729.jpg",
+      "authors": [
+        "Jon Savage"
+      ],
+      "genres": [
+        "music",
+        "non-fiction",
+        "history",
+        "punk",
+        "biography",
+        "rock-n-roll",
+        "art"
+      ],
+      "rating": 4.06,
+      "ratings": 7106,
+      "reviews": 210
+    },
+    {
+      "title": "The Civil War, Vol. 2: Fredericksburg to Meridian",
+      "url": "https://www.goodreads.com/book/show/373593.The_Civil_War_Vol_2",
+      "id": "6864001",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1345036160i/373593.jpg",
+      "authors": [
+        "Shelby Foote"
+      ],
+      "genres": [
+        "history",
+        "civil-war",
+        "non-fiction",
+        "american-history",
+        "american-civil-war",
+        "war",
+        "military-history"
+      ],
+      "rating": 4.53,
+      "ratings": 7100,
+      "reviews": 255
+    },
+    {
+      "title": "Surviving the Angel of Death: The Story of a Mengele Twin in Auschwitz",
+      "url": "https://www.goodreads.com/book/show/6648391-surviving-the-angel-of-death",
+      "id": "6842947",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1355050095i/6648391.jpg",
+      "authors": [
+        "Eva Mozes Kor"
+      ],
+      "genres": [
+        "non-fiction",
+        "holocaust",
+        "history",
+        "memoir",
+        "world-war-ii",
+        "biography",
+        "historical"
+      ],
+      "rating": 4.28,
+      "ratings": 7092,
+      "reviews": 937
     },
     {
       "title": "No Happy Endings",
@@ -81,29 +396,29 @@
         "mental-health"
       ],
       "rating": 4.21,
-      "ratings": 6991,
-      "reviews": 684
+      "ratings": 7084,
+      "reviews": 688
     },
     {
-      "title": "The Art of Tangled",
-      "url": "https://www.goodreads.com/book/show/8708083-the-art-of-tangled",
-      "id": "13580922",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348365577i/8708083.jpg",
+      "title": "The Trouble With Poetry - And Other Poems",
+      "url": "https://www.goodreads.com/book/show/24400.The_Trouble_With_Poetry_And_Other_Poems",
+      "id": "1170001",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1437275951i/24400.jpg",
       "authors": [
-        "Jeff Kurtti"
+        "Billy Collins"
       ],
       "genres": [
-        "art",
+        "poetry",
         "non-fiction",
-        "film",
-        "fairy-tales",
-        "picture-books",
-        "reference",
-        "childrens"
+        "humor",
+        "american",
+        "adult",
+        "contemporary",
+        "literature"
       ],
-      "rating": 4.4,
-      "ratings": 6987,
-      "reviews": 169
+      "rating": 4.17,
+      "ratings": 7082,
+      "reviews": 625
     },
     {
       "title": "Brother, I'm Dying",
@@ -118,55 +433,13 @@
         "memoir",
         "biography",
         "biography-memoir",
-        "history",
         "autobiography",
+        "history",
         "family"
       ],
       "rating": 4.15,
-      "ratings": 6987,
-      "reviews": 915
-    },
-    {
-      "title": "This Book Is Anti-Racist: 20 Lessons on How to Wake Up, Take Action, and Do the Work",
-      "url": "https://www.goodreads.com/book/show/45730968-this-book-is-anti-racist",
-      "id": "70524579",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1558659491i/45730968.jpg",
-      "authors": [
-        "Tiffany Jewell"
-      ],
-      "genres": [
-        "non-fiction",
-        "anti-racist",
-        "race",
-        "social-justice",
-        "middle-grade",
-        "education",
-        "activism"
-      ],
-      "rating": 4.4,
-      "ratings": 6983,
-      "reviews": 1142
-    },
-    {
-      "title": "Surviving the Angel of Death: The Story of a Mengele Twin in Auschwitz",
-      "url": "https://www.goodreads.com/book/show/6648391-surviving-the-angel-of-death",
-      "id": "6842947",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1355050095i/6648391.jpg",
-      "authors": [
-        "Eva Mozes Kor"
-      ],
-      "genres": [
-        "non-fiction",
-        "holocaust",
-        "history",
-        "memoir",
-        "world-war-ii",
-        "biography",
-        "war"
-      ],
-      "rating": 4.28,
-      "ratings": 6970,
-      "reviews": 927
+      "ratings": 7081,
+      "reviews": 926
     },
     {
       "title": "Insomniac City: New York, Oliver, and Me",
@@ -186,323 +459,50 @@
         "queer"
       ],
       "rating": 4.42,
-      "ratings": 6967,
-      "reviews": 1036
+      "ratings": 7078,
+      "reviews": 1051
     },
     {
-      "title": "The 5000 Year Leap",
-      "url": "https://www.goodreads.com/book/show/1217881.The_5000_Year_Leap",
-      "id": "603088",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347564075i/1217881.jpg",
+      "title": "Fragments",
+      "url": "https://www.goodreads.com/book/show/134891.Fragments",
+      "id": "129977",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1519443022i/134891.jpg",
       "authors": [
-        "W. Cleon Skousen"
+        "Heraclitus"
       ],
       "genres": [
-        "history",
-        "non-fiction",
-        "politics",
         "philosophy",
-        "historical",
-        "american-history",
-        "government"
+        "classics",
+        "non-fiction",
+        "poetry",
+        "history",
+        "ancient",
+        "greece"
       ],
-      "rating": 4.27,
-      "ratings": 6963,
-      "reviews": 964
+      "rating": 4.18,
+      "ratings": 7074,
+      "reviews": 390
     },
     {
-      "title": "The Wisdom of the Enneagram: The Complete Guide to Psychological and Spiritual Growth for the Nine Personality Types",
-      "url": "https://www.goodreads.com/book/show/311053.The_Wisdom_of_the_Enneagram",
-      "id": "301982",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320548367i/311053.jpg",
+      "title": "Recollections of My Nonexistence: A Memoir",
+      "url": "https://www.goodreads.com/book/show/49985046-recollections-of-my-nonexistence",
+      "id": "72585343",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1564611185l/49985046.jpg",
       "authors": [
-        "Don Richard Riso"
+        "Rebecca Solnit"
       ],
       "genres": [
-        "psychology",
+        "memoir",
         "non-fiction",
-        "self-help",
-        "spirituality",
-        "personal-development",
-        "reference",
-        "philosophy"
+        "feminism",
+        "essays",
+        "biography",
+        "biography-memoir",
+        "womens"
       ],
       "rating": 4.21,
-      "ratings": 6963,
-      "reviews": 415
-    },
-    {
-      "title": "Mo' Meta Blues: The World According to Questlove",
-      "url": "https://www.goodreads.com/book/show/16131189-mo-meta-blues",
-      "id": "21957002",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1368424961i/16131189.jpg",
-      "authors": [
-        "Ahmir \"Questlove\" Thompson"
-      ],
-      "genres": [
-        "music",
-        "non-fiction",
-        "memoir",
-        "biography",
-        "autobiography",
-        "hip-hop",
-        "biography-memoir"
-      ],
-      "rating": 4.12,
-      "ratings": 6962,
-      "reviews": 736
-    },
-    {
-      "title": "James Herriot's Cat Stories",
-      "url": "https://www.goodreads.com/book/show/38740.James_Herriot_s_Cat_Stories",
-      "id": "917762",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1169178317i/38740.jpg",
-      "authors": [
-        "James Herriot"
-      ],
-      "genres": [
-        "non-fiction",
-        "animals",
-        "cats",
-        "short-stories",
-        "memoir",
-        "humor",
-        "biography"
-      ],
-      "rating": 4.34,
-      "ratings": 6957,
-      "reviews": 658
-    },
-    {
-      "title": "Unprotected: A Memoir",
-      "url": "https://www.goodreads.com/book/show/56969425-unprotected",
-      "id": "89111953",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1631105189i/56969425.jpg",
-      "authors": [
-        "Billy Porter"
-      ],
-      "genres": [
-        "memoir",
-        "non-fiction",
-        "audiobook",
-        "lgbt",
-        "biography",
-        "biography-memoir",
-        "queer"
-      ],
-      "rating": 4.49,
-      "ratings": 6952,
-      "reviews": 1099
-    },
-    {
-      "title": "The School of Life: An Emotional Education",
-      "url": "https://www.goodreads.com/book/show/43264830-the-school-of-life",
-      "id": "67144429",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1568273715i/43264830.jpg",
-      "authors": [
-        "Alain de Botton"
-      ],
-      "genres": [
-        "non-fiction",
-        "philosophy",
-        "psychology",
-        "self-help",
-        "personal-development",
-        "audiobook",
-        "mental-health"
-      ],
-      "rating": 4.26,
-      "ratings": 6952,
-      "reviews": 690
-    },
-    {
-      "title": "Prometheus Rising",
-      "url": "https://www.goodreads.com/book/show/28597.Prometheus_Rising",
-      "id": "824093",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327901815i/28597.jpg",
-      "authors": [
-        "Robert Anton Wilson"
-      ],
-      "genres": [
-        "philosophy",
-        "psychology",
-        "non-fiction",
-        "occult",
-        "science",
-        "spirituality",
-        "self-help"
-      ],
-      "rating": 4.25,
-      "ratings": 6950,
-      "reviews": 425
-    },
-    {
-      "title": "Ghost Train to the Eastern Star",
-      "url": "https://www.goodreads.com/book/show/2071926.Ghost_Train_to_the_Eastern_Star",
-      "id": "2077173",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320456657i/2071926.jpg",
-      "authors": [
-        "Paul Theroux"
-      ],
-      "genres": [
-        "travel",
-        "non-fiction",
-        "asia",
-        "memoir",
-        "history",
-        "adventure",
-        "india"
-      ],
-      "rating": 4.05,
-      "ratings": 6949,
-      "reviews": 557
-    },
-    {
-      "title": "Ava's Man",
-      "url": "https://www.goodreads.com/book/show/108067.Ava_s_Man",
-      "id": "458816",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320441819i/108067.jpg",
-      "authors": [
-        "Rick Bragg"
-      ],
-      "genres": [
-        "non-fiction",
-        "biography",
-        "memoir",
-        "southern",
-        "history",
-        "biography-memoir",
-        "family"
-      ],
-      "rating": 4.26,
-      "ratings": 6948,
-      "reviews": 647
-    },
-    {
-      "title": "The Twilight Companion: The Unauthorized Guide to the Series",
-      "url": "https://www.goodreads.com/book/show/3609756-the-twilight-companion",
-      "id": "3652507",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442353610i/3609756.jpg",
-      "authors": [
-        "Lois H. Gresh"
-      ],
-      "genres": [
-        "non-fiction",
-        "vampires",
-        "paranormal",
-        "reference",
-        "romance",
-        "books-about-books",
-        "biography"
-      ],
-      "rating": 4.04,
-      "ratings": 6947,
-      "reviews": 110
-    },
-    {
-      "title": "A Man on the Moon",
-      "url": "https://www.goodreads.com/book/show/896458.A_Man_on_the_Moon",
-      "id": "881649",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1463586937i/896458.jpg",
-      "authors": [
-        "Andrew Chaikin"
-      ],
-      "genres": [
-        "history",
-        "non-fiction",
-        "space",
-        "science",
-        "audiobook",
-        "biography",
-        "american-history"
-      ],
-      "rating": 4.48,
-      "ratings": 6946,
-      "reviews": 562
-    },
-    {
-      "title": "The Second World War",
-      "url": "https://www.goodreads.com/book/show/55200.The_Second_World_War",
-      "id": "2507815",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388244781i/55200.jpg",
-      "authors": [
-        "John Keegan"
-      ],
-      "genres": [
-        "history",
-        "non-fiction",
-        "war",
-        "military-history",
-        "world-war-ii",
-        "military-fiction",
-        "world-history"
-      ],
-      "rating": 4.22,
-      "ratings": 6946,
-      "reviews": 299
-    },
-    {
-      "title": "Understanding Exposure: How to Shoot Great Photographs with a Film or Digital Camera",
-      "url": "https://www.goodreads.com/book/show/142239.Understanding_Exposure",
-      "id": "1133324",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320514869i/142239.jpg",
-      "authors": [
-        "Bryan Peterson"
-      ],
-      "genres": [
-        "photography",
-        "non-fiction",
-        "reference",
-        "art",
-        "how-to",
-        "education",
-        "art-and-photography"
-      ],
-      "rating": 4.32,
-      "ratings": 6944,
-      "reviews": 546
-    },
-    {
-      "title": "The Gathering Storm",
-      "url": "https://www.goodreads.com/book/show/360253.The_Gathering_Storm",
-      "id": "350367",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1600178123i/360253.jpg",
-      "authors": [
-        "Winston S. Churchill"
-      ],
-      "genres": [
-        "history",
-        "non-fiction",
-        "world-war-ii",
-        "war",
-        "politics",
-        "biography",
-        "military-fiction"
-      ],
-      "rating": 4.38,
-      "ratings": 6943,
-      "reviews": 444
-    },
-    {
-      "title": "Hymns of The Church of Jesus Christ of Latter-day Saints",
-      "url": "https://www.goodreads.com/book/show/2389938.Hymns_of_The_Church_of_Jesus_Christ_of_Latter_day_Saints",
-      "id": "2396950",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1306642184i/2389938.jpg",
-      "authors": [
-        "The Church of Jesus Christ of Latter-day Saints"
-      ],
-      "genres": [
-        "religion",
-        "lds",
-        "music",
-        "non-fiction",
-        "church",
-        "inspirational",
-        "reference"
-      ],
-      "rating": 4.66,
-      "ratings": 6937,
-      "reviews": 106
+      "ratings": 7072,
+      "reviews": 1037
     }
   ]
 }

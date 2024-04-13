@@ -1,25 +1,88 @@
 {
   "books": [
     {
-      "title": "Freedom is a Constant Struggle",
-      "url": "https://www.goodreads.com/book/show/25330108-freedom-is-a-constant-struggle",
-      "id": "45065373",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1447140494i/25330108.jpg",
+      "title": "The Longest Day",
+      "url": "https://www.goodreads.com/book/show/161156.The_Longest_Day",
+      "id": "1413765",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1560902103i/161156.jpg",
+      "authors": [
+        "Cornelius Ryan"
+      ],
+      "genres": [
+        "history",
+        "non-fiction",
+        "war",
+        "world-war-ii",
+        "military-fiction",
+        "military-history",
+        "historical"
+      ],
+      "rating": 4.33,
+      "ratings": 24349,
+      "reviews": 788
+    },
+    {
+      "title": "Blitzed: Drugs in Nazi Germany",
+      "url": "https://www.goodreads.com/book/show/29429893-blitzed",
+      "id": "46513364",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1461531937i/29429893.jpg",
+      "authors": [
+        "Norman Ohler"
+      ],
+      "genres": [
+        "history",
+        "non-fiction",
+        "war",
+        "world-war-ii",
+        "audiobook",
+        "germany",
+        "historical"
+      ],
+      "rating": 4.05,
+      "ratings": 24284,
+      "reviews": 2454
+    },
+    {
+      "title": "Rage",
+      "url": "https://www.goodreads.com/book/show/53317913-rage",
+      "id": "81657197",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1597575057i/53317913.jpg",
+      "authors": [
+        "Bob Woodward"
+      ],
+      "genres": [
+        "non-fiction",
+        "politics",
+        "history",
+        "biography",
+        "audiobook",
+        "american-history",
+        "presidents"
+      ],
+      "rating": 4.17,
+      "ratings": 24254,
+      "reviews": 2971
+    },
+    {
+      "title": "Are Prisons Obsolete?",
+      "url": "https://www.goodreads.com/book/show/108428.Are_Prisons_Obsolete_",
+      "id": "104488",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320521835i/108428.jpg",
       "authors": [
         "Angela Y. Davis"
       ],
       "genres": [
         "non-fiction",
         "politics",
-        "feminism",
         "race",
         "social-justice",
-        "essays",
-        "history"
+        "history",
+        "theory",
+        "sociology"
       ],
-      "rating": 4.43,
-      "ratings": 24065,
-      "reviews": 2871
+      "rating": 4.54,
+      "ratings": 24121,
+      "reviews": 2613
     },
     {
       "title": "Fatal Vision",
@@ -39,29 +102,8 @@
         "thriller"
       ],
       "rating": 4.12,
-      "ratings": 24012,
-      "reviews": 645
-    },
-    {
-      "title": "Confederates in the Attic: Dispatches from the Unfinished Civil War",
-      "url": "https://www.goodreads.com/book/show/38855.Confederates_in_the_Attic",
-      "id": "3963325",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1428284996i/38855.jpg",
-      "authors": [
-        "Tony Horwitz"
-      ],
-      "genres": [
-        "history",
-        "non-fiction",
-        "civil-war",
-        "travel",
-        "american-history",
-        "war",
-        "american-civil-war"
-      ],
-      "rating": 4.1,
-      "ratings": 23978,
-      "reviews": 2023
+      "ratings": 24108,
+      "reviews": 652
     },
     {
       "title": "The Time Traveller's Guide to Medieval England: A Handbook for Visitors to the Fourteenth Century",
@@ -81,71 +123,29 @@
         "travel"
       ],
       "rating": 4.01,
-      "ratings": 23958,
-      "reviews": 1734
+      "ratings": 24102,
+      "reviews": 1751
     },
     {
-      "title": "Cash",
-      "url": "https://www.goodreads.com/book/show/35488.Cash",
-      "id": "49239",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1422322302i/35488.jpg",
+      "title": "Confederates in the Attic: Dispatches from the Unfinished Civil War",
+      "url": "https://www.goodreads.com/book/show/38855.Confederates_in_the_Attic",
+      "id": "3963325",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1428284996i/38855.jpg",
       "authors": [
-        "Johnny Cash"
-      ],
-      "genres": [
-        "music",
-        "biography",
-        "non-fiction",
-        "memoir",
-        "autobiography",
-        "biography-memoir",
-        "history"
-      ],
-      "rating": 4.02,
-      "ratings": 23927,
-      "reviews": 852
-    },
-    {
-      "title": "A Night to Remember",
-      "url": "https://www.goodreads.com/book/show/61834.A_Night_to_Remember",
-      "id": "1230097",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1440174850i/61834.jpg",
-      "authors": [
-        "Walter Lord"
+        "Tony Horwitz"
       ],
       "genres": [
         "history",
         "non-fiction",
-        "classics",
-        "historical",
-        "audiobook",
-        "survival",
-        "biography"
+        "civil-war",
+        "travel",
+        "american-history",
+        "war",
+        "american-civil-war"
       ],
-      "rating": 4.08,
-      "ratings": 23915,
-      "reviews": 2051
-    },
-    {
-      "title": "Personal History: A Memoir",
-      "url": "https://www.goodreads.com/book/show/95420.Personal_History",
-      "id": "695094",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1513734862i/95420.jpg",
-      "authors": [
-        "Katharine Graham"
-      ],
-      "genres": [
-        "biography",
-        "non-fiction",
-        "memoir",
-        "history",
-        "autobiography",
-        "biography-memoir",
-        "politics"
-      ],
-      "rating": 4.08,
-      "ratings": 23906,
-      "reviews": 1348
+      "rating": 4.1,
+      "ratings": 24055,
+      "reviews": 2037
     },
     {
       "title": "Blue Highways",
@@ -165,50 +165,50 @@
         "biography-memoir"
       ],
       "rating": 4.03,
-      "ratings": 23892,
-      "reviews": 1421
+      "ratings": 24033,
+      "reviews": 1436
     },
     {
-      "title": "Grandma Gatewood's Walk: The Inspiring Story of the Woman Who Saved the Appalachian Trail",
-      "url": "https://www.goodreads.com/book/show/18527222-grandma-gatewood-s-walk",
-      "id": "26232647",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1412746814i/18527222.jpg",
+      "title": "Cash",
+      "url": "https://www.goodreads.com/book/show/35488.Cash",
+      "id": "49239",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1422322302i/35488.jpg",
       "authors": [
-        "Ben Montgomery"
+        "Johnny Cash"
+      ],
+      "genres": [
+        "music",
+        "biography",
+        "non-fiction",
+        "memoir",
+        "autobiography",
+        "biography-memoir",
+        "history"
+      ],
+      "rating": 4.02,
+      "ratings": 23930,
+      "reviews": 858
+    },
+    {
+      "title": "A Fever in the Heartland: The Ku Klux Klan's Plot to Take Over America, and the Woman Who Stopped Them",
+      "url": "https://www.goodreads.com/book/show/61423989-a-fever-in-the-heartland",
+      "id": "96926742",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1659417830i/61423989.jpg",
+      "authors": [
+        "Timothy Egan"
       ],
       "genres": [
         "non-fiction",
-        "biography",
-        "travel",
         "history",
-        "nature",
-        "adventure",
-        "memoir"
-      ],
-      "rating": 4.09,
-      "ratings": 23858,
-      "reviews": 3551
-    },
-    {
-      "title": "The Path to Power",
-      "url": "https://www.goodreads.com/book/show/86524.The_Path_to_Power",
-      "id": "201695",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1349023045i/86524.jpg",
-      "authors": [
-        "Robert A. Caro"
-      ],
-      "genres": [
-        "biography",
-        "history",
-        "non-fiction",
+        "true-crime",
+        "audiobook",
         "politics",
         "american-history",
-        "presidents",
-        "biography-memoir"
+        "race"
       ],
-      "rating": 4.38,
-      "ratings": 23726,
-      "reviews": 1361
+      "rating": 4.4,
+      "ratings": 23902,
+      "reviews": 3701
     },
     {
       "title": "Gustav Klimt: 1862-1918",
@@ -228,8 +228,71 @@
         "art-and-photography"
       ],
       "rating": 4.18,
-      "ratings": 23717,
+      "ratings": 23872,
       "reviews": 92
+    },
+    {
+      "title": "The Path to Power",
+      "url": "https://www.goodreads.com/book/show/86524.The_Path_to_Power",
+      "id": "201695",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1349023045i/86524.jpg",
+      "authors": [
+        "Robert A. Caro"
+      ],
+      "genres": [
+        "biography",
+        "history",
+        "non-fiction",
+        "politics",
+        "american-history",
+        "presidents",
+        "biography-memoir"
+      ],
+      "rating": 4.39,
+      "ratings": 23831,
+      "reviews": 1385
+    },
+    {
+      "title": "Personal History: A Memoir",
+      "url": "https://www.goodreads.com/book/show/95420.Personal_History",
+      "id": "695094",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1513734862i/95420.jpg",
+      "authors": [
+        "Katharine Graham"
+      ],
+      "genres": [
+        "biography",
+        "non-fiction",
+        "memoir",
+        "history",
+        "autobiography",
+        "biography-memoir",
+        "politics"
+      ],
+      "rating": 4.08,
+      "ratings": 23807,
+      "reviews": 1356
+    },
+    {
+      "title": "Stolen Lives: Twenty Years in a Desert Jail",
+      "url": "https://www.goodreads.com/book/show/103342.Stolen_Lives",
+      "id": "1017164",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442961301i/103342.jpg",
+      "authors": [
+        "Malika Oufkir"
+      ],
+      "genres": [
+        "non-fiction",
+        "memoir",
+        "biography",
+        "africa",
+        "morocco",
+        "history",
+        "biography-memoir"
+      ],
+      "rating": 4.06,
+      "ratings": 23802,
+      "reviews": 2092
     },
     {
       "title": "Genius: The Life and Science of Richard Feynman",
@@ -250,49 +313,7 @@
       ],
       "rating": 4.11,
       "ratings": 23640,
-      "reviews": 555
-    },
-    {
-      "title": "Blitzed: Drugs in Nazi Germany",
-      "url": "https://www.goodreads.com/book/show/29429893-blitzed",
-      "id": "46513364",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1461531937i/29429893.jpg",
-      "authors": [
-        "Norman Ohler"
-      ],
-      "genres": [
-        "history",
-        "non-fiction",
-        "war",
-        "world-war-ii",
-        "audiobook",
-        "germany",
-        "historical"
-      ],
-      "rating": 4.05,
-      "ratings": 23622,
-      "reviews": 2381
-    },
-    {
-      "title": "Are Prisons Obsolete?",
-      "url": "https://www.goodreads.com/book/show/108428.Are_Prisons_Obsolete_",
-      "id": "104488",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320521835i/108428.jpg",
-      "authors": [
-        "Angela Y. Davis"
-      ],
-      "genres": [
-        "non-fiction",
-        "politics",
-        "race",
-        "social-justice",
-        "history",
-        "theory",
-        "sociology"
-      ],
-      "rating": 4.54,
-      "ratings": 23454,
-      "reviews": 2528
+      "reviews": 559
     },
     {
       "title": "The Road to Serfdom",
@@ -312,8 +333,8 @@
         "political-science"
       ],
       "rating": 4.16,
-      "ratings": 23362,
-      "reviews": 1668
+      "ratings": 23589,
+      "reviews": 1687
     },
     {
       "title": "Citizen Soldiers: The US Army from the Normandy Beaches to the Bulge to the Surrender of Germany",
@@ -333,8 +354,8 @@
         "american-history"
       ],
       "rating": 4.23,
-      "ratings": 23330,
-      "reviews": 527
+      "ratings": 23423,
+      "reviews": 533
     },
     {
       "title": "Kon-Tiki",
@@ -354,8 +375,29 @@
         "memoir"
       ],
       "rating": 4.15,
-      "ratings": 23058,
-      "reviews": 1435
+      "ratings": 23268,
+      "reviews": 1457
+    },
+    {
+      "title": "Promise Me, Dad: A Year of Hope, Hardship, and Purpose",
+      "url": "https://www.goodreads.com/book/show/35633343-promise-me-dad",
+      "id": "57086341",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1504625848i/35633343.jpg",
+      "authors": [
+        "Joe Biden"
+      ],
+      "genres": [
+        "non-fiction",
+        "memoir",
+        "politics",
+        "biography",
+        "audiobook",
+        "biography-memoir",
+        "history"
+      ],
+      "rating": 4.14,
+      "ratings": 23205,
+      "reviews": 2551
     },
     {
       "title": "Dali the Paintings: Volume I, 1904-1946; Volume II, 1946-1989",
@@ -375,8 +417,8 @@
         "design"
       ],
       "rating": 4.2,
-      "ratings": 23031,
-      "reviews": 96
+      "ratings": 23187,
+      "reviews": 97
     },
     {
       "title": "Che Guevara: A Revolutionary Life",
@@ -395,30 +437,9 @@
         "war",
         "philosophy"
       ],
-      "rating": 4.12,
-      "ratings": 23014,
-      "reviews": 865
-    },
-    {
-      "title": "Jesus the Christ: A Study of the Messiah and His Mission According to Holy Scriptures, Both Ancient and Modern",
-      "url": "https://www.goodreads.com/book/show/481749.Jesus_the_Christ",
-      "id": "321161",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1202623375i/481749.jpg",
-      "authors": [
-        "James E. Talmage"
-      ],
-      "genres": [
-        "religion",
-        "lds",
-        "non-fiction",
-        "church",
-        "spirituality",
-        "biography",
-        "history"
-      ],
-      "rating": 4.62,
-      "ratings": 22919,
-      "reviews": 1314
+      "rating": 4.13,
+      "ratings": 23107,
+      "reviews": 876
     },
     {
       "title": "The History of Sexuality, Volume 1: An Introduction",
@@ -438,8 +459,29 @@
         "psychology"
       ],
       "rating": 4.02,
-      "ratings": 22815,
-      "reviews": 1211
+      "ratings": 23092,
+      "reviews": 1246
+    },
+    {
+      "title": "13 Hours: The Inside Account of What Really Happened In Benghazi",
+      "url": "https://www.goodreads.com/book/show/22608582-13-hours",
+      "id": "42145710",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1411493281i/22608582.jpg",
+      "authors": [
+        "Mitchell Zuckoff"
+      ],
+      "genres": [
+        "non-fiction",
+        "history",
+        "military-fiction",
+        "war",
+        "politics",
+        "audiobook",
+        "military-history"
+      ],
+      "rating": 4.29,
+      "ratings": 23031,
+      "reviews": 1730
     },
     {
       "title": "The Girl Who Smiled Beads: A Story of War and What Comes After",
@@ -458,51 +500,9 @@
         "history",
         "audiobook"
       ],
-      "rating": 4.18,
-      "ratings": 22785,
-      "reviews": 2705
-    },
-    {
-      "title": "The Johnstown Flood",
-      "url": "https://www.goodreads.com/book/show/2371.The_Johnstown_Flood",
-      "id": "1391380",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1590989772i/2371.jpg",
-      "authors": [
-        "David McCullough"
-      ],
-      "genres": [
-        "history",
-        "non-fiction",
-        "american-history",
-        "historical",
-        "audiobook",
-        "19th-century",
-        "united-states"
-      ],
-      "rating": 4.13,
-      "ratings": 22700,
-      "reviews": 1967
-    },
-    {
-      "title": "War",
-      "url": "https://www.goodreads.com/book/show/7519640-war",
-      "id": "9737203",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1344271278i/7519640.jpg",
-      "authors": [
-        "Sebastian Junger"
-      ],
-      "genres": [
-        "non-fiction",
-        "war",
-        "history",
-        "military-fiction",
-        "military-history",
-        "memoir",
-        "psychology"
-      ],
-      "rating": 4.24,
-      "ratings": 22639,
-      "reviews": 1789
+      "rating": 4.19,
+      "ratings": 23026,
+      "reviews": 2732
     }
   ]
 }

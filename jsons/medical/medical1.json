@@ -1,6 +1,48 @@
 {
   "books": [
     {
+      "title": "The Second Life of Mirielle West",
+      "url": "https://www.goodreads.com/book/show/55841940-the-second-life-of-mirielle-west",
+      "id": "87058594",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1607322561i/55841940.jpg",
+      "authors": [
+        "Amanda Skenandore"
+      ],
+      "genres": [
+        "historical-fiction",
+        "fiction",
+        "historical",
+        "audiobook",
+        "romance",
+        "adult",
+        "medical"
+      ],
+      "rating": 4.23,
+      "ratings": 35548,
+      "reviews": 3040
+    },
+    {
+      "title": "Better: A Surgeon's Notes on Performance",
+      "url": "https://www.goodreads.com/book/show/213233.Better",
+      "id": "1573617",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1437843332i/213233.jpg",
+      "authors": [
+        "Atul Gawande"
+      ],
+      "genres": [
+        "non-fiction",
+        "medicine",
+        "medical",
+        "science",
+        "health",
+        "memoir",
+        "health-care"
+      ],
+      "rating": 4.24,
+      "ratings": 34396,
+      "reviews": 2482
+    },
+    {
       "title": "Dr. Stanton",
       "url": "https://www.goodreads.com/book/show/35685604-dr-stanton",
       "id": "56752991",
@@ -13,13 +55,34 @@
         "contemporary-romance",
         "contemporary",
         "doctors",
-        "adult",
         "erotica",
+        "adult",
         "medical"
       ],
       "rating": 4.17,
-      "ratings": 33095,
-      "reviews": 2313
+      "ratings": 34083,
+      "reviews": 2368
+    },
+    {
+      "title": "The In-Between: Unforgettable Encounters During Life's Final Moments",
+      "url": "https://www.goodreads.com/book/show/63033521-the-in-between",
+      "id": "98890357",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1684817915i/63033521.jpg",
+      "authors": [
+        "Hadley Vlahos"
+      ],
+      "genres": [
+        "non-fiction",
+        "memoir",
+        "audiobook",
+        "death",
+        "medical",
+        "health",
+        "science"
+      ],
+      "rating": 4.53,
+      "ratings": 26027,
+      "reviews": 3356
     },
     {
       "title": "The Prison Doctor",
@@ -39,50 +102,8 @@
         "true-crime"
       ],
       "rating": 4.01,
-      "ratings": 24576,
-      "reviews": 1560
-    },
-    {
-      "title": "Harvest",
-      "url": "https://www.goodreads.com/book/show/40482.Harvest",
-      "id": "1238407",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388193515i/40482.jpg",
-      "authors": [
-        "Tess Gerritsen"
-      ],
-      "genres": [
-        "thriller",
-        "mystery",
-        "fiction",
-        "crime",
-        "suspense",
-        "mystery-thriller",
-        "medical"
-      ],
-      "rating": 4.14,
-      "ratings": 23078,
-      "reviews": 1007
-    },
-    {
-      "title": "Working Stiff: Two Years, 262 Bodies, and the Making of a Medical Examiner",
-      "url": "https://www.goodreads.com/book/show/18775327-working-stiff",
-      "id": "26680460",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1408319717i/18775327.jpg",
-      "authors": [
-        "Judy Melinek"
-      ],
-      "genres": [
-        "non-fiction",
-        "science",
-        "memoir",
-        "medical",
-        "medicine",
-        "true-crime",
-        "death"
-      ],
-      "rating": 4.25,
-      "ratings": 23053,
-      "reviews": 2477
+      "ratings": 25173,
+      "reviews": 1600
     },
     {
       "title": "The Nurse's Secret",
@@ -102,29 +123,50 @@
         "medical"
       ],
       "rating": 4.16,
-      "ratings": 22849,
-      "reviews": 1510
+      "ratings": 24745,
+      "reviews": 1623
     },
     {
-      "title": "An Anthropologist on Mars: Seven Paradoxical Tales",
-      "url": "https://www.goodreads.com/book/show/64666.An_Anthropologist_on_Mars",
-      "id": "77298",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1356447436i/64666.jpg",
+      "title": "Harvest",
+      "url": "https://www.goodreads.com/book/show/40482.Harvest",
+      "id": "1238407",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388193515i/40482.jpg",
       "authors": [
-        "Oliver Sacks"
+        "Tess Gerritsen"
+      ],
+      "genres": [
+        "thriller",
+        "mystery",
+        "fiction",
+        "crime",
+        "suspense",
+        "mystery-thriller",
+        "medical"
+      ],
+      "rating": 4.16,
+      "ratings": 24570,
+      "reviews": 1060
+    },
+    {
+      "title": "Working Stiff: Two Years, 262 Bodies, and the Making of a Medical Examiner",
+      "url": "https://www.goodreads.com/book/show/18775327-working-stiff",
+      "id": "26680460",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1408319717i/18775327.jpg",
+      "authors": [
+        "Judy Melinek"
       ],
       "genres": [
         "non-fiction",
         "science",
-        "psychology",
-        "neuroscience",
+        "memoir",
+        "medical",
         "medicine",
-        "essays",
-        "medical"
+        "true-crime",
+        "death"
       ],
-      "rating": 4.15,
-      "ratings": 22078,
-      "reviews": 1296
+      "rating": 4.25,
+      "ratings": 23403,
+      "reviews": 2506
     },
     {
       "title": "The Lobotomist's Wife",
@@ -144,8 +186,29 @@
         "psychology"
       ],
       "rating": 4.04,
-      "ratings": 22004,
-      "reviews": 1605
+      "ratings": 22347,
+      "reviews": 1636
+    },
+    {
+      "title": "An Anthropologist on Mars: Seven Paradoxical Tales",
+      "url": "https://www.goodreads.com/book/show/64666.An_Anthropologist_on_Mars",
+      "id": "77298",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1356447436i/64666.jpg",
+      "authors": [
+        "Oliver Sacks"
+      ],
+      "genres": [
+        "non-fiction",
+        "science",
+        "psychology",
+        "neuroscience",
+        "medicine",
+        "essays",
+        "medical"
+      ],
+      "rating": 4.15,
+      "ratings": 22170,
+      "reviews": 1321
     },
     {
       "title": "Gifted Hands: The Ben Carson Story",
@@ -164,51 +227,9 @@
         "medicine",
         "christian"
       ],
-      "rating": 4.17,
-      "ratings": 20588,
-      "reviews": 2244
-    },
-    {
-      "title": "Phantoms in the Brain: Probing the Mysteries of the Human Mind",
-      "url": "https://www.goodreads.com/book/show/31555.Phantoms_in_the_Brain",
-      "id": "1981",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1409601908i/31555.jpg",
-      "authors": [
-        "V.S. Ramachandran"
-      ],
-      "genres": [
-        "psychology",
-        "science",
-        "non-fiction",
-        "neuroscience",
-        "medicine",
-        "brain",
-        "medical"
-      ],
-      "rating": 4.26,
-      "ratings": 19484,
-      "reviews": 826
-    },
-    {
-      "title": "The In-Between: Unforgettable Encounters During Life's Final Moments",
-      "url": "https://www.goodreads.com/book/show/63033521-the-in-between",
-      "id": "98890357",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1684817915i/63033521.jpg",
-      "authors": [
-        "Hadley Vlahos"
-      ],
-      "genres": [
-        "non-fiction",
-        "memoir",
-        "audiobook",
-        "death",
-        "medical",
-        "science",
-        "health"
-      ],
-      "rating": 4.55,
-      "ratings": 19041,
-      "reviews": 2490
+      "rating": 4.18,
+      "ratings": 20658,
+      "reviews": 2256
     },
     {
       "title": "Spillover: Animal Infections and the Next Human Pandemic",
@@ -228,8 +249,8 @@
         "medical"
       ],
       "rating": 4.42,
-      "ratings": 18464,
-      "reviews": 2131
+      "ratings": 18654,
+      "reviews": 2147
     },
     {
       "title": "The Butchering Art: Joseph Lister's Quest to Transform the Grisly World of Victorian Medicine",
@@ -249,8 +270,8 @@
         "historical"
       ],
       "rating": 4.3,
-      "ratings": 18092,
-      "reviews": 2014
+      "ratings": 18495,
+      "reviews": 2051
     },
     {
       "title": "The Bright Hour: A Memoir of Living and Dying",
@@ -270,8 +291,29 @@
         "medical"
       ],
       "rating": 4.3,
-      "ratings": 17758,
-      "reviews": 2423
+      "ratings": 17914,
+      "reviews": 2441
+    },
+    {
+      "title": "Life Support",
+      "url": "https://www.goodreads.com/book/show/32262.Life_Support",
+      "id": "615811",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1548798106i/32262.jpg",
+      "authors": [
+        "Tess Gerritsen"
+      ],
+      "genres": [
+        "thriller",
+        "mystery",
+        "crime",
+        "fiction",
+        "suspense",
+        "mystery-thriller",
+        "medical"
+      ],
+      "rating": 4.02,
+      "ratings": 17429,
+      "reviews": 719
     },
     {
       "title": "The Demon in the Freezer",
@@ -291,8 +333,8 @@
         "disease"
       ],
       "rating": 4.15,
-      "ratings": 16401,
-      "reviews": 1259
+      "ratings": 16572,
+      "reviews": 1268
     },
     {
       "title": "The Cobra Event",
@@ -312,8 +354,8 @@
         "medical"
       ],
       "rating": 4.02,
-      "ratings": 15680,
-      "reviews": 808
+      "ratings": 15774,
+      "reviews": 817
     },
     {
       "title": "Doctors",
@@ -332,9 +374,9 @@
         "contemporary",
         "novels"
       ],
-      "rating": 4.06,
-      "ratings": 14538,
-      "reviews": 571
+      "rating": 4.07,
+      "ratings": 14582,
+      "reviews": 577
     },
     {
       "title": "Death's Acre: Inside the Legendary Forensic Lab the Body Farm Where the Dead Do Tell Tales",
@@ -354,8 +396,8 @@
         "medical"
       ],
       "rating": 4.22,
-      "ratings": 12958,
-      "reviews": 867
+      "ratings": 13125,
+      "reviews": 879
     },
     {
       "title": "Awakenings",
@@ -375,8 +417,8 @@
         "history"
       ],
       "rating": 4.1,
-      "ratings": 12834,
-      "reviews": 653
+      "ratings": 12982,
+      "reviews": 666
     },
     {
       "title": "The Tale of the Dueling Neurosurgeons: The History of the Human Brain as Revealed by True Stories of Trauma, Madness, and Recovery",
@@ -396,29 +438,8 @@
         "medical"
       ],
       "rating": 4.25,
-      "ratings": 12505,
-      "reviews": 1194
-    },
-    {
-      "title": "Get Well Soon: History's Worst Plagues and the Heroes Who Fought Them",
-      "url": "https://www.goodreads.com/book/show/30199426-get-well-soon",
-      "id": "50650491",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1479730657i/30199426.jpg",
-      "authors": [
-        "Jennifer   Wright"
-      ],
-      "genres": [
-        "non-fiction",
-        "history",
-        "science",
-        "audiobook",
-        "medicine",
-        "medical",
-        "humor"
-      ],
-      "rating": 4.24,
-      "ratings": 12367,
-      "reviews": 2313
+      "ratings": 12663,
+      "reviews": 1210
     },
     {
       "title": "War Doctor: Surgery on the Front Line",
@@ -438,8 +459,29 @@
         "audiobook"
       ],
       "rating": 4.54,
-      "ratings": 12261,
-      "reviews": 1078
+      "ratings": 12544,
+      "reviews": 1099
+    },
+    {
+      "title": "Get Well Soon: History's Worst Plagues and the Heroes Who Fought Them",
+      "url": "https://www.goodreads.com/book/show/30199426-get-well-soon",
+      "id": "50650491",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1479730657i/30199426.jpg",
+      "authors": [
+        "Jennifer   Wright"
+      ],
+      "genres": [
+        "non-fiction",
+        "history",
+        "science",
+        "audiobook",
+        "medicine",
+        "medical",
+        "humor"
+      ],
+      "rating": 4.24,
+      "ratings": 12515,
+      "reviews": 2332
     },
     {
       "title": "My Own Country: A Doctor's Story",
@@ -459,50 +501,8 @@
         "biography-memoir"
       ],
       "rating": 4.22,
-      "ratings": 11868,
-      "reviews": 958
-    },
-    {
-      "title": "The Coming Plague: Newly Emerging Diseases in a World Out of Balance",
-      "url": "https://www.goodreads.com/book/show/46722.The_Coming_Plague",
-      "id": "1361768",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1441778813i/46722.jpg",
-      "authors": [
-        "Laurie Garrett"
-      ],
-      "genres": [
-        "science",
-        "non-fiction",
-        "medicine",
-        "history",
-        "medical",
-        "health",
-        "biology"
-      ],
-      "rating": 4.21,
-      "ratings": 10528,
-      "reviews": 525
-    },
-    {
-      "title": "The Unwinding of the Miracle: A Memoir of Life, Death, and Everything That Comes After",
-      "url": "https://www.goodreads.com/book/show/39216478-the-unwinding-of-the-miracle",
-      "id": "60797434",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1644862729i/39216478.jpg",
-      "authors": [
-        "Julie Yip-Williams"
-      ],
-      "genres": [
-        "memoir",
-        "non-fiction",
-        "biography",
-        "biography-memoir",
-        "death",
-        "audiobook",
-        "medical"
-      ],
-      "rating": 4.1,
-      "ratings": 10369,
-      "reviews": 1410
+      "ratings": 11992,
+      "reviews": 968
     }
   ]
 }

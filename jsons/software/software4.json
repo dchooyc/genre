@@ -1,25 +1,25 @@
 {
   "books": [
     {
-      "title": "C++ Primer",
-      "url": "https://www.goodreads.com/book/show/768080.C_Primer",
-      "id": "754144",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347564002i/768080.jpg",
+      "title": "A Tour of C++",
+      "url": "https://www.goodreads.com/book/show/18197265-a-tour-of-c",
+      "id": "25607519",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1377629336i/18197265.jpg",
       "authors": [
-        "Stanley B. Lippman"
+        "Bjarne Stroustrup"
       ],
       "genres": [
         "programming",
         "computer-science",
-        "reference",
         "technology",
+        "technical",
         "non-fiction",
-        "computers",
-        "software"
+        "software",
+        "textbooks"
       ],
-      "rating": 4.22,
-      "ratings": 965,
-      "reviews": 47
+      "rating": 4.3,
+      "ratings": 984,
+      "reviews": 104
     },
     {
       "title": "Software Estimation: Demystifying the Black Art",
@@ -39,8 +39,50 @@
         "technical"
       ],
       "rating": 4.05,
+      "ratings": 967,
+      "reviews": 64
+    },
+    {
+      "title": "C++ Primer",
+      "url": "https://www.goodreads.com/book/show/768080.C_Primer",
+      "id": "754144",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347564002i/768080.jpg",
+      "authors": [
+        "Stanley B. Lippman"
+      ],
+      "genres": [
+        "programming",
+        "computer-science",
+        "reference",
+        "technology",
+        "non-fiction",
+        "computers",
+        "software"
+      ],
+      "rating": 4.22,
       "ratings": 964,
-      "reviews": 62
+      "reviews": 47
+    },
+    {
+      "title": "Scrum Mastery: From Good To Great Servant-Leadership",
+      "url": "https://www.goodreads.com/book/show/18165261-scrum-mastery",
+      "id": "25529740",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1417412253i/18165261.jpg",
+      "authors": [
+        "Geoff Watts"
+      ],
+      "genres": [
+        "leadership",
+        "business",
+        "non-fiction",
+        "management",
+        "personal-development",
+        "software",
+        "technology"
+      ],
+      "rating": 4.24,
+      "ratings": 959,
+      "reviews": 91
     },
     {
       "title": "The Joy of Clojure",
@@ -64,27 +106,6 @@
       "reviews": 50
     },
     {
-      "title": "Scrum Mastery: From Good To Great Servant-Leadership",
-      "url": "https://www.goodreads.com/book/show/18165261-scrum-mastery",
-      "id": "25529740",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1417412253i/18165261.jpg",
-      "authors": [
-        "Geoff Watts"
-      ],
-      "genres": [
-        "business",
-        "leadership",
-        "non-fiction",
-        "management",
-        "personal-development",
-        "software",
-        "technology"
-      ],
-      "rating": 4.24,
-      "ratings": 946,
-      "reviews": 88
-    },
-    {
       "title": "Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman",
       "url": "https://www.goodreads.com/book/show/5608045-apprenticeship-patterns",
       "id": "5779422",
@@ -102,7 +123,7 @@
         "coding"
       ],
       "rating": 4.12,
-      "ratings": 927,
+      "ratings": 933,
       "reviews": 131
     },
     {
@@ -122,9 +143,9 @@
         "non-fiction",
         "computers"
       ],
-      "rating": 4.32,
-      "ratings": 925,
-      "reviews": 115
+      "rating": 4.31,
+      "ratings": 933,
+      "reviews": 116
     },
     {
       "title": "Strategize: Product Strategy and Product Roadmap Practices for the Digital Age",
@@ -143,30 +164,9 @@
         "buisness",
         "software"
       ],
-      "rating": 4.03,
-      "ratings": 910,
+      "rating": 4.02,
+      "ratings": 917,
       "reviews": 67
-    },
-    {
-      "title": "The Staff Engineer's Path: A Guide for Individual Contributors Navigating Growth and Change",
-      "url": "https://www.goodreads.com/book/show/61058107-the-staff-engineer-s-path",
-      "id": "93999485",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1661205628i/61058107.jpg",
-      "authors": [
-        "Tanya Reilly"
-      ],
-      "genres": [
-        "technology",
-        "leadership",
-        "software",
-        "management",
-        "programming",
-        "non-fiction",
-        "engineering"
-      ],
-      "rating": 4.43,
-      "ratings": 890,
-      "reviews": 99
     },
     {
       "title": "Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith",
@@ -178,16 +178,37 @@
       ],
       "genres": [
         "technology",
-        "programming",
         "computer-science",
+        "programming",
         "software",
         "technical",
         "architecture",
         "non-fiction"
       ],
-      "rating": 4.3,
-      "ratings": 886,
-      "reviews": 84
+      "rating": 4.29,
+      "ratings": 910,
+      "reviews": 87
+    },
+    {
+      "title": "Terraform: Up & Running: Writing Infrastructure as Code",
+      "url": "https://www.goodreads.com/book/show/42589303-terraform",
+      "id": "54111011",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1552510581i/42589303.jpg",
+      "authors": [
+        "Yevgeniy Brikman"
+      ],
+      "genres": [
+        "technology",
+        "programming",
+        "technical",
+        "software",
+        "computer-science",
+        "non-fiction",
+        "engineering"
+      ],
+      "rating": 4.25,
+      "ratings": 884,
+      "reviews": 85
     },
     {
       "title": "Modern C++ Design: Generic Programming and Design Patterns Applied",
@@ -209,27 +230,6 @@
       "rating": 4.24,
       "ratings": 872,
       "reviews": 28
-    },
-    {
-      "title": "Terraform: Up & Running: Writing Infrastructure as Code",
-      "url": "https://www.goodreads.com/book/show/42589303-terraform",
-      "id": "54111011",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1552510581i/42589303.jpg",
-      "authors": [
-        "Yevgeniy Brikman"
-      ],
-      "genres": [
-        "technology",
-        "programming",
-        "technical",
-        "software",
-        "computer-science",
-        "non-fiction",
-        "engineering"
-      ],
-      "rating": 4.25,
-      "ratings": 871,
-      "reviews": 84
     },
     {
       "title": "Implementing Lean Software Development: From Concept to Cash",
@@ -270,8 +270,29 @@
         "technology"
       ],
       "rating": 4.13,
-      "ratings": 809,
+      "ratings": 816,
       "reviews": 50
+    },
+    {
+      "title": "High Performance Browser Networking",
+      "url": "https://www.goodreads.com/book/show/17985198-high-performance-browser-networking",
+      "id": "25220114",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1369754654i/17985198.jpg",
+      "authors": [
+        "Ilya Grigorik"
+      ],
+      "genres": [
+        "programming",
+        "technology",
+        "computer-science",
+        "software",
+        "technical",
+        "non-fiction",
+        "computers"
+      ],
+      "rating": 4.52,
+      "ratings": 803,
+      "reviews": 80
     },
     {
       "title": "Design Patterns in Ruby",
@@ -291,29 +312,8 @@
         "non-fiction"
       ],
       "rating": 4.16,
-      "ratings": 800,
+      "ratings": 803,
       "reviews": 49
-    },
-    {
-      "title": "High Performance Browser Networking",
-      "url": "https://www.goodreads.com/book/show/17985198-high-performance-browser-networking",
-      "id": "25220114",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1369754654i/17985198.jpg",
-      "authors": [
-        "Ilya Grigorik"
-      ],
-      "genres": [
-        "programming",
-        "technology",
-        "software",
-        "computer-science",
-        "technical",
-        "non-fiction",
-        "computers"
-      ],
-      "rating": 4.52,
-      "ratings": 795,
-      "reviews": 79
     },
     {
       "title": "Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript",
@@ -333,8 +333,50 @@
         "coding"
       ],
       "rating": 4.3,
-      "ratings": 785,
+      "ratings": 787,
       "reviews": 61
+    },
+    {
+      "title": "The Kubernetes Book: 2024 Edition",
+      "url": "https://www.goodreads.com/book/show/35494978-the-kubernetes-book",
+      "id": "56897107",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1498101512i/35494978.jpg",
+      "authors": [
+        "Nigel Poulton"
+      ],
+      "genres": [
+        "technology",
+        "programming",
+        "technical",
+        "software",
+        "computer-science",
+        "reference",
+        "engineering"
+      ],
+      "rating": 4.25,
+      "ratings": 767,
+      "reviews": 81
+    },
+    {
+      "title": "Resilient Management",
+      "url": "https://www.goodreads.com/book/show/45767533-resilient-management",
+      "id": "70573254",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1557845913i/45767533.jpg",
+      "authors": [
+        "Lara   Hogan"
+      ],
+      "genres": [
+        "management",
+        "leadership",
+        "business",
+        "non-fiction",
+        "technology",
+        "design",
+        "software"
+      ],
+      "rating": 4.38,
+      "ratings": 766,
+      "reviews": 90
     },
     {
       "title": "The Well-Grounded Rubyist: Covers Ruby 1.9.1",
@@ -354,7 +396,7 @@
         "non-fiction"
       ],
       "rating": 4.3,
-      "ratings": 759,
+      "ratings": 761,
       "reviews": 66
     },
     {
@@ -375,7 +417,7 @@
         "computers"
       ],
       "rating": 4.17,
-      "ratings": 759,
+      "ratings": 760,
       "reviews": 46
     },
     {
@@ -396,50 +438,8 @@
         "coding"
       ],
       "rating": 4.28,
-      "ratings": 755,
+      "ratings": 759,
       "reviews": 38
-    },
-    {
-      "title": "Resilient Management",
-      "url": "https://www.goodreads.com/book/show/45767533-resilient-management",
-      "id": "70573254",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1557845913i/45767533.jpg",
-      "authors": [
-        "Lara   Hogan"
-      ],
-      "genres": [
-        "management",
-        "leadership",
-        "business",
-        "non-fiction",
-        "design",
-        "technology",
-        "software"
-      ],
-      "rating": 4.39,
-      "ratings": 750,
-      "reviews": 88
-    },
-    {
-      "title": "The Kubernetes Book: 2024 Edition",
-      "url": "https://www.goodreads.com/book/show/35494978-the-kubernetes-book",
-      "id": "56897107",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1498101512i/35494978.jpg",
-      "authors": [
-        "Nigel Poulton"
-      ],
-      "genres": [
-        "technology",
-        "programming",
-        "technical",
-        "software",
-        "computer-science",
-        "reference",
-        "engineering"
-      ],
-      "rating": 4.24,
-      "ratings": 745,
-      "reviews": 80
     },
     {
       "title": "Dependency Injection in .NET",
@@ -459,8 +459,29 @@
         "computers"
       ],
       "rating": 4.42,
-      "ratings": 739,
+      "ratings": 745,
       "reviews": 79
+    },
+    {
+      "title": "Modern Software Engineering: Doing What Works to Build Better Software Faster",
+      "url": "https://www.goodreads.com/book/show/57345270-modern-software-engineering",
+      "id": "89753499",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1633733111i/57345270.jpg",
+      "authors": [
+        "David  Farley"
+      ],
+      "genres": [
+        "programming",
+        "technology",
+        "software",
+        "computer-science",
+        "technical",
+        "non-fiction",
+        "engineering"
+      ],
+      "rating": 4.2,
+      "ratings": 742,
+      "reviews": 97
     },
     {
       "title": "Functional Programming in Scala",
@@ -480,29 +501,8 @@
         "non-fiction"
       ],
       "rating": 4.42,
-      "ratings": 737,
+      "ratings": 741,
       "reviews": 60
-    },
-    {
-      "title": "The Art of Readable Code: Simple and Practical Techniques for Writing Better Code",
-      "url": "https://www.goodreads.com/book/show/8677004-the-art-of-readable-code",
-      "id": "13548937",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1324147949i/8677004.jpg",
-      "authors": [
-        "Dustin Boswell"
-      ],
-      "genres": [
-        "programming",
-        "computer-science",
-        "non-fiction",
-        "software",
-        "technology",
-        "technical",
-        "coding"
-      ],
-      "rating": 4,
-      "ratings": 736,
-      "reviews": 93
     }
   ]
 }

@@ -1,6 +1,27 @@
 {
   "books": [
     {
+      "title": "The Story of Commodore: A Company on the Edge",
+      "url": "https://www.goodreads.com/book/show/412006.The_Story_of_Commodore",
+      "id": "401251",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328861455i/412006.jpg",
+      "authors": [
+        "Brian  Bagnall"
+      ],
+      "genres": [
+        "history",
+        "technology",
+        "non-fiction",
+        "computers",
+        "business",
+        "games",
+        "engineering"
+      ],
+      "rating": 4.21,
+      "ratings": 933,
+      "reviews": 82
+    },
+    {
       "title": "Microelectronic Circuits",
       "url": "https://www.goodreads.com/book/show/198582.Microelectronic_Circuits",
       "id": "192097",
@@ -18,29 +39,29 @@
         "computer-science"
       ],
       "rating": 4.08,
-      "ratings": 903,
+      "ratings": 906,
       "reviews": 37
     },
     {
-      "title": "The Staff Engineer's Path: A Guide for Individual Contributors Navigating Growth and Change",
-      "url": "https://www.goodreads.com/book/show/61058107-the-staff-engineer-s-path",
-      "id": "93999485",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1661205628i/61058107.jpg",
+      "title": "Engines of Creation: The Coming Era of Nanotechnology",
+      "url": "https://www.goodreads.com/book/show/83596.Engines_of_Creation",
+      "id": "80705",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320504490i/83596.jpg",
       "authors": [
-        "Tanya Reilly"
+        "Eric Drexler"
       ],
       "genres": [
-        "technology",
-        "leadership",
-        "software",
-        "management",
-        "programming",
+        "science",
         "non-fiction",
+        "technology",
+        "futurism",
+        "physics",
+        "singularity",
         "engineering"
       ],
-      "rating": 4.43,
-      "ratings": 890,
-      "reviews": 99
+      "rating": 4.17,
+      "ratings": 901,
+      "reviews": 64
     },
     {
       "title": "Terraform: Up & Running: Writing Infrastructure as Code",
@@ -60,8 +81,8 @@
         "engineering"
       ],
       "rating": 4.25,
-      "ratings": 871,
-      "reviews": 84
+      "ratings": 884,
+      "reviews": 85
     },
     {
       "title": "Sled Driver: Flying the World's Fastest Jet",
@@ -81,8 +102,8 @@
         "science"
       ],
       "rating": 4.42,
-      "ratings": 853,
-      "reviews": 93
+      "ratings": 868,
+      "reviews": 94
     },
     {
       "title": "Materials Science and Engineering: An Introduction",
@@ -96,35 +117,14 @@
         "engineering",
         "textbooks",
         "science",
-        "reference",
         "non-fiction",
+        "reference",
         "physics",
         "technical"
       ],
-      "rating": 4.09,
-      "ratings": 826,
+      "rating": 4.08,
+      "ratings": 827,
       "reviews": 38
-    },
-    {
-      "title": "Invent To Learn: Making, Tinkering, and Engineering in the Classroom",
-      "url": "https://www.goodreads.com/book/show/17933064-invent-to-learn",
-      "id": "25139552",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1368908937i/17933064.jpg",
-      "authors": [
-        "Sylvia Libow Martinez"
-      ],
-      "genres": [
-        "education",
-        "non-fiction",
-        "teaching",
-        "technology",
-        "engineering",
-        "science",
-        "school"
-      ],
-      "rating": 4.17,
-      "ratings": 792,
-      "reviews": 90
     },
     {
       "title": "Diario di un'apprendista astronauta",
@@ -144,8 +144,29 @@
         "womens"
       ],
       "rating": 4.37,
-      "ratings": 779,
+      "ratings": 799,
       "reviews": 106
+    },
+    {
+      "title": "Invent To Learn: Making, Tinkering, and Engineering in the Classroom",
+      "url": "https://www.goodreads.com/book/show/17933064-invent-to-learn",
+      "id": "25139552",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1368908937i/17933064.jpg",
+      "authors": [
+        "Sylvia Libow Martinez"
+      ],
+      "genres": [
+        "education",
+        "non-fiction",
+        "teaching",
+        "technology",
+        "engineering",
+        "science",
+        "school"
+      ],
+      "rating": 4.18,
+      "ratings": 793,
+      "reviews": 90
     },
     {
       "title": "747: Creating the World's First Jumbo Jet and Other Adventures from a Life in Aviation",
@@ -159,14 +180,35 @@
         "aviation",
         "history",
         "engineering",
-        "business",
         "non-fiction",
+        "business",
         "aeroplanes",
         "memoir"
       ],
       "rating": 4.21,
-      "ratings": 769,
-      "reviews": 88
+      "ratings": 786,
+      "reviews": 89
+    },
+    {
+      "title": "A Short History of Chemistry",
+      "url": "https://www.goodreads.com/book/show/470644.A_Short_History_of_Chemistry",
+      "id": "458948",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1393006381i/470644.jpg",
+      "authors": [
+        "Isaac Asimov"
+      ],
+      "genres": [
+        "science",
+        "chemistry",
+        "non-fiction",
+        "history",
+        "history-of-science",
+        "popular-science",
+        "engineering"
+      ],
+      "rating": 4.18,
+      "ratings": 785,
+      "reviews": 73
     },
     {
       "title": "The Kubernetes Book: 2024 Edition",
@@ -185,9 +227,9 @@
         "reference",
         "engineering"
       ],
-      "rating": 4.24,
-      "ratings": 745,
-      "reviews": 80
+      "rating": 4.25,
+      "ratings": 767,
+      "reviews": 81
     },
     {
       "title": "Kelly: More Than My Share of It All",
@@ -207,8 +249,29 @@
         "science"
       ],
       "rating": 4.23,
-      "ratings": 739,
-      "reviews": 63
+      "ratings": 761,
+      "reviews": 67
+    },
+    {
+      "title": "Modern Software Engineering: Doing What Works to Build Better Software Faster",
+      "url": "https://www.goodreads.com/book/show/57345270-modern-software-engineering",
+      "id": "89753499",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1633733111i/57345270.jpg",
+      "authors": [
+        "David  Farley"
+      ],
+      "genres": [
+        "programming",
+        "technology",
+        "software",
+        "computer-science",
+        "technical",
+        "non-fiction",
+        "engineering"
+      ],
+      "rating": 4.2,
+      "ratings": 742,
+      "reviews": 97
     },
     {
       "title": "Engineering Mechanics: Statics",
@@ -228,29 +291,50 @@
         "non-fiction"
       ],
       "rating": 4.06,
-      "ratings": 728,
+      "ratings": 730,
       "reviews": 38
     },
     {
-      "title": "Modern Software Engineering: Doing What Works to Build Better Software Faster",
-      "url": "https://www.goodreads.com/book/show/57345270-modern-software-engineering",
-      "id": "89753499",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1633733111i/57345270.jpg",
+      "title": "Hidden Systems: Water, Electricity, the Internet, and the Secrets Behind the Systems We Use Every Day",
+      "url": "https://www.goodreads.com/book/show/61356462-hidden-systems",
+      "id": "96769751",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1656311840i/61356462.jpg",
       "authors": [
-        "David  Farley"
+        "Dan Nott"
       ],
       "genres": [
-        "programming",
-        "software",
-        "technology",
-        "computer-science",
-        "technical",
         "non-fiction",
+        "graphic-novels",
+        "science",
+        "comics",
+        "technology",
+        "middle-grade",
         "engineering"
       ],
-      "rating": 4.21,
-      "ratings": 680,
-      "reviews": 86
+      "rating": 4.22,
+      "ratings": 714,
+      "reviews": 156
+    },
+    {
+      "title": "Pilot's Handbook of Aeronautical Knowledge: FAA-H-8083-25A",
+      "url": "https://www.goodreads.com/book/show/6669677-pilot-s-handbook-of-aeronautical-knowledge",
+      "id": "6864603",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328754162i/6669677.jpg",
+      "authors": [
+        "Federal Aviation Administration"
+      ],
+      "genres": [
+        "aviation",
+        "non-fiction",
+        "reference",
+        "textbooks",
+        "pilots",
+        "engineering",
+        "technical"
+      ],
+      "rating": 4.27,
+      "ratings": 662,
+      "reviews": 31
     },
     {
       "title": "Theory of Machines",
@@ -268,27 +352,6 @@
       "rating": 4.15,
       "ratings": 653,
       "reviews": 20
-    },
-    {
-      "title": "Pilot's Handbook of Aeronautical Knowledge: FAA-H-8083-25A",
-      "url": "https://www.goodreads.com/book/show/6669677-pilot-s-handbook-of-aeronautical-knowledge",
-      "id": "6864603",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328754162i/6669677.jpg",
-      "authors": [
-        "Federal Aviation Administration"
-      ],
-      "genres": [
-        "aviation",
-        "non-fiction",
-        "reference",
-        "textbooks",
-        "engineering",
-        "pilots",
-        "technical"
-      ],
-      "rating": 4.28,
-      "ratings": 653,
-      "reviews": 29
     },
     {
       "title": "Engineering Mechanics: Dynamics",
@@ -324,13 +387,55 @@
         "technology",
         "software",
         "computer-science",
-        "non-fiction",
         "technical",
+        "non-fiction",
         "engineering"
       ],
       "rating": 4.55,
-      "ratings": 624,
+      "ratings": 628,
       "reviews": 75
+    },
+    {
+      "title": "Against the Odds: An Autobiography",
+      "url": "https://www.goodreads.com/book/show/955045.Against_the_Odds",
+      "id": "939955",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1356144428i/955045.jpg",
+      "authors": [
+        "James Dyson"
+      ],
+      "genres": [
+        "biography",
+        "business",
+        "entrepreneurship",
+        "autobiography",
+        "non-fiction",
+        "design",
+        "engineering"
+      ],
+      "rating": 4.29,
+      "ratings": 625,
+      "reviews": 48
+    },
+    {
+      "title": "Where Is My Flying Car?",
+      "url": "https://www.goodreads.com/book/show/59335616-where-is-my-flying-car",
+      "id": "65562771",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1634027021i/59335616.jpg",
+      "authors": [
+        "J. Storrs Hall"
+      ],
+      "genres": [
+        "science",
+        "non-fiction",
+        "technology",
+        "history",
+        "business",
+        "economics",
+        "engineering"
+      ],
+      "rating": 4.08,
+      "ratings": 620,
+      "reviews": 107
     },
     {
       "title": "Digital Apollo: Human and Machine in Spaceflight",
@@ -350,50 +455,8 @@
         "aviation"
       ],
       "rating": 4.26,
-      "ratings": 616,
+      "ratings": 619,
       "reviews": 56
-    },
-    {
-      "title": "Against the Odds: An Autobiography",
-      "url": "https://www.goodreads.com/book/show/955045.Against_the_Odds",
-      "id": "939955",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1356144428i/955045.jpg",
-      "authors": [
-        "James Dyson"
-      ],
-      "genres": [
-        "biography",
-        "business",
-        "entrepreneurship",
-        "autobiography",
-        "non-fiction",
-        "engineering",
-        "history"
-      ],
-      "rating": 4.29,
-      "ratings": 610,
-      "reviews": 48
-    },
-    {
-      "title": "Hidden Systems: Water, Electricity, the Internet, and the Secrets Behind the Systems We Use Every Day",
-      "url": "https://www.goodreads.com/book/show/61356462-hidden-systems",
-      "id": "96769751",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1656311840i/61356462.jpg",
-      "authors": [
-        "Dan Nott"
-      ],
-      "genres": [
-        "graphic-novels",
-        "non-fiction",
-        "science",
-        "comics",
-        "technology",
-        "engineering",
-        "middle-grade"
-      ],
-      "rating": 4.21,
-      "ratings": 605,
-      "reviews": 130
     },
     {
       "title": "Truth, Lies, and O-Rings: Inside the Space Shuttle Challenger Disaster",
@@ -412,9 +475,9 @@
         "business",
         "audiobook"
       ],
-      "rating": 4.01,
-      "ratings": 594,
-      "reviews": 79
+      "rating": 4.02,
+      "ratings": 615,
+      "reviews": 81
     },
     {
       "title": "Physics for Scientists and Engineers",
@@ -436,63 +499,6 @@
       "rating": 4.03,
       "ratings": 591,
       "reviews": 39
-    },
-    {
-      "title": "Thermodynamics",
-      "url": "https://www.goodreads.com/book/show/183425.Thermodynamics",
-      "id": "177265",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388209650i/183425.jpg",
-      "authors": [
-        "Enrico Fermi"
-      ],
-      "genres": [
-        "physics",
-        "science",
-        "textbooks",
-        "non-fiction",
-        "engineering",
-        "reference",
-        "chemistry"
-      ],
-      "rating": 4.27,
-      "ratings": 584,
-      "reviews": 22
-    },
-    {
-      "title": "Where Is My Flying Car?: A Memoir of Future Past",
-      "url": "https://www.goodreads.com/book/show/42036377-where-is-my-flying-car",
-      "id": "65562771",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1537823874i/42036377.jpg",
-      "authors": [
-        "J. Storrs Hall"
-      ],
-      "genres": [
-        "science",
-        "non-fiction",
-        "technology",
-        "history",
-        "business",
-        "economics",
-        "engineering"
-      ],
-      "rating": 4.09,
-      "ratings": 581,
-      "reviews": 96
-    },
-    {
-      "title": "Applied Mechanics and Strength of Materials",
-      "url": "https://www.goodreads.com/book/show/9691679-applied-mechanics-and-strength-of-materials",
-      "id": "14579800",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1372556347i/9691679.jpg",
-      "authors": [
-        "R.S. Khurmi"
-      ],
-      "genres": [
-        "engineering"
-      ],
-      "rating": 4.01,
-      "ratings": 570,
-      "reviews": 18
     }
   ]
 }

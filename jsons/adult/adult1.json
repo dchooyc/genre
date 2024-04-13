@@ -1,6 +1,27 @@
 {
   "books": [
     {
+      "title": "The Invisible Life of Addie LaRue",
+      "url": "https://www.goodreads.com/book/show/50623864-the-invisible-life-of-addie-larue",
+      "id": "46895612",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1584633432i/50623864.jpg",
+      "authors": [
+        "V.E.  Schwab"
+      ],
+      "genres": [
+        "fantasy",
+        "fiction",
+        "romance",
+        "historical-fiction",
+        "adult",
+        "historical",
+        "magical-realism"
+      ],
+      "rating": 4.19,
+      "ratings": 1066813,
+      "reviews": 137505
+    },
+    {
       "title": "Book Lovers",
       "url": "https://www.goodreads.com/book/show/58690308-book-lovers",
       "id": "92341790",
@@ -12,14 +33,35 @@
         "romance",
         "fiction",
         "contemporary",
-        "contemporary-romance",
         "audiobook",
+        "contemporary-romance",
         "adult",
         "chick-lit"
       ],
-      "rating": 4.15,
-      "ratings": 993043,
-      "reviews": 113758
+      "rating": 4.14,
+      "ratings": 1049843,
+      "reviews": 119947
+    },
+    {
+      "title": "A Man Called Ove",
+      "url": "https://www.goodreads.com/book/show/18774964-a-man-called-ove",
+      "id": "21619954",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1405259930i/18774964.jpg",
+      "authors": [
+        "Fredrik Backman"
+      ],
+      "genres": [
+        "fiction",
+        "contemporary",
+        "audiobook",
+        "humor",
+        "adult",
+        "book-club",
+        "adult-fiction"
+      ],
+      "rating": 4.38,
+      "ratings": 1031727,
+      "reviews": 109181
     },
     {
       "title": "Malibu Rising",
@@ -38,9 +80,9 @@
         "adult",
         "historical"
       ],
-      "rating": 4.05,
-      "ratings": 986330,
-      "reviews": 91896
+      "rating": 4.04,
+      "ratings": 1018349,
+      "reviews": 94807
     },
     {
       "title": "The Night Circus",
@@ -60,50 +102,8 @@
         "adult"
       ],
       "rating": 4.02,
-      "ratings": 960040,
-      "reviews": 101960
-    },
-    {
-      "title": "The Name of the Wind",
-      "url": "https://www.goodreads.com/book/show/186074.The_Name_of_the_Wind",
-      "id": "2502879",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1704917687i/186074.jpg",
-      "authors": [
-        "Patrick Rothfuss"
-      ],
-      "genres": [
-        "fantasy",
-        "fiction",
-        "epic-fantasy",
-        "high-fantasy",
-        "magic",
-        "science-fiction-fantasy",
-        "adult"
-      ],
-      "rating": 4.52,
-      "ratings": 947455,
-      "reviews": 53407
-    },
-    {
-      "title": "A Clash of Kings",
-      "url": "https://www.goodreads.com/book/show/10572.A_Clash_of_Kings",
-      "id": "3272005",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1567840212i/10572.jpg",
-      "authors": [
-        "George R.R. Martin"
-      ],
-      "genres": [
-        "fantasy",
-        "fiction",
-        "epic-fantasy",
-        "high-fantasy",
-        "science-fiction-fantasy",
-        "adult",
-        "adventure"
-      ],
-      "rating": 4.42,
-      "ratings": 926321,
-      "reviews": 27511
+      "ratings": 974970,
+      "reviews": 103715
     },
     {
       "title": "I'm Glad My Mom Died",
@@ -123,29 +123,71 @@
         "adult"
       ],
       "rating": 4.47,
-      "ratings": 874826,
-      "reviews": 93407
+      "ratings": 965720,
+      "reviews": 102277
     },
     {
-      "title": "Room",
-      "url": "https://www.goodreads.com/book/show/31685789-room",
-      "id": "9585076",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1472239721i/31685789.jpg",
+      "title": "The Name of the Wind",
+      "url": "https://www.goodreads.com/book/show/186074.The_Name_of_the_Wind",
+      "id": "2502879",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1704917687i/186074.jpg",
       "authors": [
-        "Emma Donoghue"
+        "Patrick Rothfuss"
+      ],
+      "genres": [
+        "fantasy",
+        "fiction",
+        "epic-fantasy",
+        "high-fantasy",
+        "magic",
+        "science-fiction-fantasy",
+        "adult"
+      ],
+      "rating": 4.52,
+      "ratings": 961494,
+      "reviews": 54220
+    },
+    {
+      "title": "A Clash of Kings",
+      "url": "https://www.goodreads.com/book/show/10572.A_Clash_of_Kings",
+      "id": "3272005",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1567840212i/10572.jpg",
+      "authors": [
+        "George R.R. Martin"
+      ],
+      "genres": [
+        "fantasy",
+        "fiction",
+        "epic-fantasy",
+        "high-fantasy",
+        "science-fiction-fantasy",
+        "adult",
+        "adventure"
+      ],
+      "rating": 4.42,
+      "ratings": 935123,
+      "reviews": 27841
+    },
+    {
+      "title": "Tomorrow, and Tomorrow, and Tomorrow",
+      "url": "https://www.goodreads.com/book/show/58784475-tomorrow-and-tomorrow-and-tomorrow",
+      "id": "89167797",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1636978687i/58784475.jpg",
+      "authors": [
+        "Gabrielle Zevin"
       ],
       "genres": [
         "fiction",
         "contemporary",
-        "adult",
-        "thriller",
-        "adult-fiction",
+        "romance",
         "audiobook",
-        "book-club"
+        "literary-fiction",
+        "adult",
+        "historical-fiction"
       ],
-      "rating": 4.07,
-      "ratings": 800272,
-      "reviews": 50469
+      "rating": 4.18,
+      "ratings": 845419,
+      "reviews": 103657
     },
     {
       "title": "A Walk to Remember",
@@ -165,8 +207,71 @@
         "contemporary-romance"
       ],
       "rating": 4.2,
-      "ratings": 800249,
-      "reviews": 16460
+      "ratings": 804826,
+      "reviews": 16687
+    },
+    {
+      "title": "Room",
+      "url": "https://www.goodreads.com/book/show/31685789-room",
+      "id": "9585076",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1472239721i/31685789.jpg",
+      "authors": [
+        "Emma Donoghue"
+      ],
+      "genres": [
+        "fiction",
+        "contemporary",
+        "adult",
+        "thriller",
+        "adult-fiction",
+        "audiobook",
+        "book-club"
+      ],
+      "rating": 4.08,
+      "ratings": 803867,
+      "reviews": 50689
+    },
+    {
+      "title": "Happy Place",
+      "url": "https://www.goodreads.com/book/show/61718053-happy-place",
+      "id": "97321939",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1660145160i/61718053.jpg",
+      "authors": [
+        "Emily Henry"
+      ],
+      "genres": [
+        "romance",
+        "fiction",
+        "contemporary",
+        "audiobook",
+        "contemporary-romance",
+        "adult",
+        "chick-lit"
+      ],
+      "rating": 4.02,
+      "ratings": 784431,
+      "reviews": 94207
+    },
+    {
+      "title": "The Great Alone",
+      "url": "https://www.goodreads.com/book/show/34912895-the-great-alone",
+      "id": "56275107",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1501852423i/34912895.jpg",
+      "authors": [
+        "Kristin Hannah"
+      ],
+      "genres": [
+        "fiction",
+        "historical-fiction",
+        "audiobook",
+        "historical",
+        "romance",
+        "adult",
+        "adult-fiction"
+      ],
+      "rating": 4.42,
+      "ratings": 784416,
+      "reviews": 69499
     },
     {
       "title": "A Storm of Swords",
@@ -186,50 +291,29 @@
         "audiobook"
       ],
       "rating": 4.54,
-      "ratings": 775652,
-      "reviews": 25163
+      "ratings": 783241,
+      "reviews": 25442
     },
     {
-      "title": "Tomorrow, and Tomorrow, and Tomorrow",
-      "url": "https://www.goodreads.com/book/show/58784475-tomorrow-and-tomorrow-and-tomorrow",
-      "id": "89167797",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1636978687i/58784475.jpg",
+      "title": "Things We Never Got Over",
+      "url": "https://www.goodreads.com/book/show/60060431-things-we-never-got-over",
+      "id": "94213909",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1641629293i/60060431.jpg",
       "authors": [
-        "Gabrielle Zevin"
+        "Lucy Score"
       ],
       "genres": [
-        "fiction",
         "contemporary",
-        "romance",
-        "audiobook",
-        "literary-fiction",
-        "adult",
-        "historical-fiction"
-      ],
-      "rating": 4.19,
-      "ratings": 758100,
-      "reviews": 93702
-    },
-    {
-      "title": "The Great Alone",
-      "url": "https://www.goodreads.com/book/show/34912895-the-great-alone",
-      "id": "56275107",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1501852423i/34912895.jpg",
-      "authors": [
-        "Kristin Hannah"
-      ],
-      "genres": [
+        "contemporary-romance",
         "fiction",
-        "historical-fiction",
-        "audiobook",
-        "historical",
-        "romance",
         "adult",
-        "adult-fiction"
+        "chick-lit",
+        "audiobook",
+        "new-adult"
       ],
-      "rating": 4.41,
-      "ratings": 748822,
-      "reviews": 66175
+      "rating": 4.17,
+      "ratings": 760603,
+      "reviews": 58739
     },
     {
       "title": "A Feast for Crows",
@@ -249,50 +333,8 @@
         "adventure"
       ],
       "rating": 4.16,
-      "ratings": 724711,
-      "reviews": 24097
-    },
-    {
-      "title": "Things We Never Got Over",
-      "url": "https://www.goodreads.com/book/show/60060431-things-we-never-got-over",
-      "id": "94213909",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1641629293i/60060431.jpg",
-      "authors": [
-        "Lucy Score"
-      ],
-      "genres": [
-        "contemporary",
-        "contemporary-romance",
-        "fiction",
-        "romance",
-        "adult",
-        "chick-lit",
-        "audiobook"
-      ],
-      "rating": 4.18,
-      "ratings": 699897,
-      "reviews": 54363
-    },
-    {
-      "title": "Happy Place",
-      "url": "https://www.goodreads.com/book/show/61718053-happy-place",
-      "id": "97321939",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1660145160i/61718053.jpg",
-      "authors": [
-        "Emily Henry"
-      ],
-      "genres": [
-        "romance",
-        "fiction",
-        "contemporary",
-        "audiobook",
-        "contemporary-romance",
-        "adult",
-        "chick-lit"
-      ],
-      "rating": 4.04,
-      "ratings": 687786,
-      "reviews": 83691
+      "ratings": 730992,
+      "reviews": 24307
     },
     {
       "title": "Misery",
@@ -312,8 +354,8 @@
         "adult"
       ],
       "rating": 4.21,
-      "ratings": 686623,
-      "reviews": 25385
+      "ratings": 698245,
+      "reviews": 26230
     },
     {
       "title": "The Final Empire",
@@ -333,29 +375,8 @@
         "audiobook"
       ],
       "rating": 4.48,
-      "ratings": 665867,
-      "reviews": 49807
-    },
-    {
-      "title": "A Dance with Dragons",
-      "url": "https://www.goodreads.com/book/show/10664113-a-dance-with-dragons",
-      "id": "2936175",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1581625286i/10664113.jpg",
-      "authors": [
-        "George R.R. Martin"
-      ],
-      "genres": [
-        "fantasy",
-        "fiction",
-        "epic-fantasy",
-        "high-fantasy",
-        "science-fiction-fantasy",
-        "dragons",
-        "adult"
-      ],
-      "rating": 4.33,
-      "ratings": 646928,
-      "reviews": 24328
+      "ratings": 689183,
+      "reviews": 52143
     },
     {
       "title": "The Four Winds",
@@ -375,8 +396,29 @@
         "book-club"
       ],
       "rating": 4.3,
-      "ratings": 639950,
-      "reviews": 59706
+      "ratings": 669616,
+      "reviews": 62167
+    },
+    {
+      "title": "House of Earth and Blood",
+      "url": "https://www.goodreads.com/book/show/44778083-house-of-earth-and-blood",
+      "id": "46924772",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1559142847i/44778083.jpg",
+      "authors": [
+        "Sarah J. Maas"
+      ],
+      "genres": [
+        "fantasy",
+        "romance",
+        "fiction",
+        "urban-fantasy",
+        "fantasy-romance",
+        "adult",
+        "new-adult"
+      ],
+      "rating": 4.49,
+      "ratings": 668306,
+      "reviews": 73743
     },
     {
       "title": "Anxious People",
@@ -396,50 +438,8 @@
         "literary-fiction"
       ],
       "rating": 4.18,
-      "ratings": 615246,
-      "reviews": 75345
-    },
-    {
-      "title": "The Ocean at the End of the Lane",
-      "url": "https://www.goodreads.com/book/show/18505792-the-ocean-at-the-end-of-the-lane",
-      "id": "21500681",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1497098493i/18505792.jpg",
-      "authors": [
-        "Neil Gaiman"
-      ],
-      "genres": [
-        "fantasy",
-        "fiction",
-        "magical-realism",
-        "horror",
-        "audiobook",
-        "young-adult",
-        "adult"
-      ],
-      "rating": 4.02,
-      "ratings": 610996,
-      "reviews": 58885
-    },
-    {
-      "title": "Dear John",
-      "url": "https://www.goodreads.com/book/show/5526.Dear_John",
-      "id": "3222389",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1397749854i/5526.jpg",
-      "authors": [
-        "Nicholas Sparks"
-      ],
-      "genres": [
-        "romance",
-        "fiction",
-        "chick-lit",
-        "contemporary",
-        "adult",
-        "contemporary-romance",
-        "young-adult"
-      ],
-      "rating": 4.04,
-      "ratings": 596233,
-      "reviews": 12685
+      "ratings": 633774,
+      "reviews": 77599
     },
     {
       "title": "The House in the Cerulean Sea",
@@ -459,50 +459,50 @@
         "adult"
       ],
       "rating": 4.41,
-      "ratings": 594609,
-      "reviews": 95247
+      "ratings": 627164,
+      "reviews": 100145
     },
     {
-      "title": "The Red Tent",
-      "url": "https://www.goodreads.com/book/show/4989.The_Red_Tent",
-      "id": "1041558",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1405739117i/4989.jpg",
+      "title": "A Little Life",
+      "url": "https://www.goodreads.com/book/show/22822858-a-little-life",
+      "id": "42375710",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1446469353i/22822858.jpg",
       "authors": [
-        "Anita Diamant"
+        "Hanya Yanagihara"
       ],
       "genres": [
-        "historical-fiction",
         "fiction",
-        "historical",
-        "religion",
-        "book-club",
-        "feminism",
+        "contemporary",
+        "lgbt",
+        "literary-fiction",
+        "queer",
+        "adult",
+        "mental-health"
+      ],
+      "rating": 4.34,
+      "ratings": 618385,
+      "reviews": 99508
+    },
+    {
+      "title": "The Ocean at the End of the Lane",
+      "url": "https://www.goodreads.com/book/show/18505792-the-ocean-at-the-end-of-the-lane",
+      "id": "21500681",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1497098493i/18505792.jpg",
+      "authors": [
+        "Neil Gaiman"
+      ],
+      "genres": [
+        "fantasy",
+        "fiction",
+        "magical-realism",
+        "horror",
+        "audiobook",
+        "young-adult",
         "adult"
       ],
-      "rating": 4.2,
-      "ratings": 594604,
-      "reviews": 21851
-    },
-    {
-      "title": "Before We Were Yours",
-      "url": "https://www.goodreads.com/book/show/32148570-before-we-were-yours",
-      "id": "52786185",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1498910914i/32148570.jpg",
-      "authors": [
-        "Lisa Wingate"
-      ],
-      "genres": [
-        "historical-fiction",
-        "fiction",
-        "audiobook",
-        "historical",
-        "book-club",
-        "adult",
-        "adult-fiction"
-      ],
-      "rating": 4.4,
-      "ratings": 592712,
-      "reviews": 43805
+      "rating": 4.02,
+      "ratings": 618017,
+      "reviews": 59547
     }
   ]
 }

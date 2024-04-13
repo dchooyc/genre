@@ -1,6 +1,27 @@
 {
   "books": [
     {
+      "title": "Mastering the Art of French Cooking: Vol. 2",
+      "url": "https://www.goodreads.com/book/show/132692.Mastering_the_Art_of_French_Cooking",
+      "id": "17352417",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388190532i/132692.jpg",
+      "authors": [
+        "Julia Child"
+      ],
+      "genres": [
+        "cookbooks",
+        "cooking",
+        "food",
+        "non-fiction",
+        "reference",
+        "culinary",
+        "france"
+      ],
+      "rating": 4.43,
+      "ratings": 7641,
+      "reviews": 56
+    },
+    {
       "title": "How to Eat: The Pleasures and Principles of Good Food",
       "url": "https://www.goodreads.com/book/show/39540.How_to_Eat",
       "id": "790280",
@@ -18,29 +39,29 @@
         "food-and-drink"
       ],
       "rating": 4.17,
-      "ratings": 7373,
+      "ratings": 7375,
       "reviews": 164
     },
     {
-      "title": "Paula Deen  Friends: Paula Deen  Friends",
-      "url": "https://www.goodreads.com/book/show/67655.Paula_Deen_Friends",
-      "id": "65616",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1435638667i/67655.jpg",
+      "title": "An Everlasting Meal: Cooking with Economy and Grace",
+      "url": "https://www.goodreads.com/book/show/11300085-an-everlasting-meal",
+      "id": "16227727",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1306259324i/11300085.jpg",
       "authors": [
-        "Paula H. Deen"
+        "Tamar Adler"
       ],
       "genres": [
-        "cookbooks",
-        "cooking",
         "food",
+        "cookbooks",
         "non-fiction",
-        "southern",
-        "reference",
-        "own"
+        "cooking",
+        "food-writing",
+        "foodie",
+        "essays"
       ],
-      "rating": 4.06,
-      "ratings": 7360,
-      "reviews": 39
+      "rating": 4.19,
+      "ratings": 7359,
+      "reviews": 1066
     },
     {
       "title": "Forks Over Knives: The Plant-Based Way to Health",
@@ -60,8 +81,29 @@
         "vegan"
       ],
       "rating": 4.08,
-      "ratings": 7333,
+      "ratings": 7358,
       "reviews": 474
+    },
+    {
+      "title": "Paula Deen  Friends: Paula Deen  Friends",
+      "url": "https://www.goodreads.com/book/show/67655.Paula_Deen_Friends",
+      "id": "65616",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1435638667i/67655.jpg",
+      "authors": [
+        "Paula H. Deen"
+      ],
+      "genres": [
+        "cookbooks",
+        "cooking",
+        "food",
+        "non-fiction",
+        "southern",
+        "reference",
+        "own"
+      ],
+      "rating": 4.06,
+      "ratings": 7355,
+      "reviews": 39
     },
     {
       "title": "Ad Hoc at Home",
@@ -81,29 +123,8 @@
         "culinary"
       ],
       "rating": 4.23,
-      "ratings": 7323,
-      "reviews": 132
-    },
-    {
-      "title": "An Everlasting Meal: Cooking with Economy and Grace",
-      "url": "https://www.goodreads.com/book/show/11300085-an-everlasting-meal",
-      "id": "16227727",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1306259324i/11300085.jpg",
-      "authors": [
-        "Tamar Adler"
-      ],
-      "genres": [
-        "food",
-        "cookbooks",
-        "non-fiction",
-        "cooking",
-        "food-writing",
-        "foodie",
-        "memoir"
-      ],
-      "rating": 4.19,
-      "ratings": 7296,
-      "reviews": 1056
+      "ratings": 7335,
+      "reviews": 133
     },
     {
       "title": "The King Arthur Flour Baker's Companion: The All-Purpose Baking Cookbook",
@@ -123,7 +144,7 @@
         "food-and-wine"
       ],
       "rating": 4.28,
-      "ratings": 7040,
+      "ratings": 7062,
       "reviews": 146
     },
     {
@@ -144,29 +165,8 @@
         "food-and-drink"
       ],
       "rating": 4.02,
-      "ratings": 7001,
+      "ratings": 7002,
       "reviews": 84
-    },
-    {
-      "title": "Ratio: The Simple Codes Behind the Craft of Everyday Cooking (1)",
-      "url": "https://www.goodreads.com/book/show/3931154-ratio",
-      "id": "3976689",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348460187i/3931154.jpg",
-      "authors": [
-        "Michael Ruhlman"
-      ],
-      "genres": [
-        "cookbooks",
-        "cooking",
-        "food",
-        "non-fiction",
-        "reference",
-        "science",
-        "culinary"
-      ],
-      "rating": 4.09,
-      "ratings": 6882,
-      "reviews": 334
     },
     {
       "title": "Tartine Bread",
@@ -186,8 +186,8 @@
         "food-and-drink"
       ],
       "rating": 4.38,
-      "ratings": 6815,
-      "reviews": 285
+      "ratings": 6919,
+      "reviews": 290
     },
     {
       "title": "Nanny Ogg's Cookbook",
@@ -207,8 +207,8 @@
         "comedy"
       ],
       "rating": 4.01,
-      "ratings": 6681,
-      "reviews": 222
+      "ratings": 6707,
+      "reviews": 224
     },
     {
       "title": "Happy Days With The Naked Chef",
@@ -228,8 +228,8 @@
         "foodie"
       ],
       "rating": 4.07,
-      "ratings": 6651,
-      "reviews": 57
+      "ratings": 6654,
+      "reviews": 56
     },
     {
       "title": "The Skinnytaste Cookbook: Light on Calories, Big on Flavor",
@@ -249,7 +249,7 @@
         "adult"
       ],
       "rating": 4.32,
-      "ratings": 6512,
+      "ratings": 6547,
       "reviews": 225
     },
     {
@@ -270,8 +270,8 @@
         "foodie"
       ],
       "rating": 4.2,
-      "ratings": 6429,
-      "reviews": 136
+      "ratings": 6447,
+      "reviews": 137
     },
     {
       "title": "Jamie's 30-Minute Meals",
@@ -291,7 +291,7 @@
         "food-and-drink"
       ],
       "rating": 4.03,
-      "ratings": 6421,
+      "ratings": 6430,
       "reviews": 165
     },
     {
@@ -312,7 +312,7 @@
         "food-and-drink"
       ],
       "rating": 4.37,
-      "ratings": 6383,
+      "ratings": 6387,
       "reviews": 65
     },
     {
@@ -333,7 +333,7 @@
         "food-and-drink"
       ],
       "rating": 4.15,
-      "ratings": 6373,
+      "ratings": 6372,
       "reviews": 107
     },
     {
@@ -354,8 +354,8 @@
         "reference"
       ],
       "rating": 4.35,
-      "ratings": 6296,
-      "reviews": 258
+      "ratings": 6336,
+      "reviews": 257
     },
     {
       "title": "The Soul of a Chef: The Journey Toward Perfection",
@@ -375,8 +375,8 @@
         "culinary"
       ],
       "rating": 4.06,
-      "ratings": 6188,
-      "reviews": 384
+      "ratings": 6215,
+      "reviews": 388
     },
     {
       "title": "The Art of Eating",
@@ -396,8 +396,29 @@
         "memoir"
       ],
       "rating": 4.32,
-      "ratings": 6094,
-      "reviews": 298
+      "ratings": 6096,
+      "reviews": 300
+    },
+    {
+      "title": "10-Day Green Smoothie Cleanse: Lose Up to 15 Pounds in 10 Days!",
+      "url": "https://www.goodreads.com/book/show/22662987-10-day-green-smoothie-cleanse",
+      "id": "40070987",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1404489180i/22662987.jpg",
+      "authors": [
+        "J.J. Smith"
+      ],
+      "genres": [
+        "health",
+        "non-fiction",
+        "cookbooks",
+        "food",
+        "cooking",
+        "self-help",
+        "reference"
+      ],
+      "rating": 4.14,
+      "ratings": 6085,
+      "reviews": 311
     },
     {
       "title": "Nom Nom Paleo: Food for Humans",
@@ -417,29 +438,8 @@
         "nutrition"
       ],
       "rating": 4.31,
-      "ratings": 6059,
+      "ratings": 6069,
       "reviews": 258
-    },
-    {
-      "title": "10-Day Green Smoothie Cleanse: Lose Up to 15 Pounds in 10 Days!",
-      "url": "https://www.goodreads.com/book/show/20740509-10-day-green-smoothie-cleanse",
-      "id": "40070987",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1391655193i/20740509.jpg",
-      "authors": [
-        "J.J. Smith"
-      ],
-      "genres": [
-        "health",
-        "non-fiction",
-        "cookbooks",
-        "food",
-        "cooking",
-        "self-help",
-        "diets"
-      ],
-      "rating": 4.14,
-      "ratings": 6052,
-      "reviews": 310
     },
     {
       "title": "Anthony Bourdain's Les Halles Cookbook: Strategies, Recipes, and Techniques of Classic Bistro Cooking",
@@ -459,8 +459,8 @@
         "foodie"
       ],
       "rating": 4.14,
-      "ratings": 6014,
-      "reviews": 156
+      "ratings": 6030,
+      "reviews": 158
     },
     {
       "title": "Wild Fermentation: The Flavor, Nutrition, and Craft of Live-Culture Foods",
@@ -480,8 +480,8 @@
         "reference"
       ],
       "rating": 4.38,
-      "ratings": 5949,
-      "reviews": 388
+      "ratings": 5971,
+      "reviews": 389
     },
     {
       "title": "The New Laurel's Kitchen",
@@ -501,7 +501,7 @@
         "reference"
       ],
       "rating": 4.01,
-      "ratings": 5932,
+      "ratings": 5931,
       "reviews": 111
     }
   ]

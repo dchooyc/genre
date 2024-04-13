@@ -1,25 +1,403 @@
 {
   "books": [
     {
-      "title": "The Heir",
-      "url": "https://www.goodreads.com/book/show/55253413-the-heir",
-      "id": "86156920",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1599464840i/55253413.jpg",
+      "title": "The Dragon Twins",
+      "url": "https://www.goodreads.com/book/show/55641502-the-dragon-twins",
+      "id": "86761749",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1602465240i/55641502.jpg",
       "authors": [
-        "Frost Kay"
+        "Michelle Madow"
+      ],
+      "genres": [
+        "fantasy",
+        "dragons",
+        "witches",
+        "young-adult",
+        "romance",
+        "supernatural",
+        "paranormal"
+      ],
+      "rating": 4.49,
+      "ratings": 2688,
+      "reviews": 132
+    },
+    {
+      "title": "The Knights of Erador",
+      "url": "https://www.goodreads.com/book/show/51609132-the-knights-of-erador",
+      "id": "76192791",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1598938483i/51609132.jpg",
+      "authors": [
+        "Philip C. Quaintrell"
+      ],
+      "genres": [
+        "fantasy",
+        "epic-fantasy",
+        "fiction",
+        "magic",
+        "high-fantasy",
+        "dragons",
+        "elves"
+      ],
+      "rating": 4.59,
+      "ratings": 2681,
+      "reviews": 126
+    },
+    {
+      "title": "Wanted",
+      "url": "https://www.goodreads.com/book/show/131835528-wanted",
+      "id": "150554308",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1683095608i/131835528.jpg",
+      "authors": [
+        "Lindsay Buroker"
+      ],
+      "genres": [
+        "urban-fantasy",
+        "fantasy",
+        "romance",
+        "dragons",
+        "elves",
+        "paranormal",
+        "audiobook"
+      ],
+      "rating": 4.56,
+      "ratings": 2676,
+      "reviews": 85
+    },
+    {
+      "title": "Oaths",
+      "url": "https://www.goodreads.com/book/show/38618276-oaths",
+      "id": "59146548",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1519042766i/38618276.jpg",
+      "authors": [
+        "Lindsay Buroker"
+      ],
+      "genres": [
+        "fantasy",
+        "dragons",
+        "steampunk",
+        "romance",
+        "magic",
+        "fiction",
+        "paranormal"
+      ],
+      "rating": 4.42,
+      "ratings": 2654,
+      "reviews": 138
+    },
+    {
+      "title": "Last Flight",
+      "url": "https://www.goodreads.com/book/show/20613610-last-flight",
+      "id": "39894971",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1396829297i/20613610.jpg",
+      "authors": [
+        "Liane Merciel"
+      ],
+      "genres": [
+        "fantasy",
+        "fiction",
+        "video-games",
+        "dragons",
+        "gaming",
+        "high-fantasy",
+        "games"
+      ],
+      "rating": 4.02,
+      "ratings": 2654,
+      "reviews": 228
+    },
+    {
+      "title": "Horseman",
+      "url": "https://www.goodreads.com/book/show/41045873-horseman",
+      "id": "64084560",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1533423239i/41045873.jpg",
+      "authors": [
+        "Shayne Silvers"
+      ],
+      "genres": [
+        "urban-fantasy",
+        "fantasy",
+        "paranormal",
+        "vampires",
+        "magic",
+        "fae",
+        "dragons"
+      ],
+      "rating": 4.66,
+      "ratings": 2646,
+      "reviews": 174
+    },
+    {
+      "title": "The Sky Weaver",
+      "url": "https://www.goodreads.com/book/show/35843942-the-sky-weaver",
+      "id": "57355419",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1549639372i/35843942.jpg",
+      "authors": [
+        "Kristen Ciccarelli"
+      ],
+      "genres": [
+        "fantasy",
+        "young-adult",
+        "dragons",
+        "young-adult-fantasy",
+        "lgbt",
+        "romance",
+        "fiction"
+      ],
+      "rating": 4.08,
+      "ratings": 2633,
+      "reviews": 468
+    },
+    {
+      "title": "Slayers",
+      "url": "https://www.goodreads.com/book/show/10579099-slayers",
+      "id": "15486222",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1317067705i/10579099.jpg",
+      "authors": [
+        "C.J. Hill"
+      ],
+      "genres": [
+        "fantasy",
+        "dragons",
+        "young-adult",
+        "romance",
+        "paranormal",
+        "adventure",
+        "urban-fantasy"
+      ],
+      "rating": 4.09,
+      "ratings": 2631,
+      "reviews": 412
+    },
+    {
+      "title": "Crossroads of Bones",
+      "url": "https://www.goodreads.com/book/show/39304629-crossroads-of-bones",
+      "id": "56885858",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1521288328i/39304629.jpg",
+      "authors": [
+        "Luanne Bennett"
+      ],
+      "genres": [
+        "urban-fantasy",
+        "fantasy",
+        "paranormal",
+        "dragons",
+        "magic",
+        "shapeshifters",
+        "romance"
+      ],
+      "rating": 4.07,
+      "ratings": 2628,
+      "reviews": 213
+    },
+    {
+      "title": "Eight Simple Rules for Dating a Dragon",
+      "url": "https://www.goodreads.com/book/show/34962717-eight-simple-rules-for-dating-a-dragon",
+      "id": "56237668",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1497101112i/34962717.jpg",
+      "authors": [
+        "Kerrelyn Sparks"
       ],
       "genres": [
         "fantasy",
         "romance",
-        "young-adult",
-        "fantasy-romance",
-        "shapeshifters",
         "paranormal",
+        "dragons",
+        "paranormal-romance",
+        "magic",
+        "shapeshifters"
+      ],
+      "rating": 4.22,
+      "ratings": 2626,
+      "reviews": 546
+    },
+    {
+      "title": "Kingdom of Storms",
+      "url": "https://www.goodreads.com/book/show/55138139-kingdom-of-storms",
+      "id": "85955740",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1598502174i/55138139.jpg",
+      "authors": [
+        "Shannon Mayer"
+      ],
+      "genres": [
+        "fantasy",
+        "dragons",
+        "magic",
+        "urban-fantasy",
+        "supernatural",
+        "paranormal-romance",
+        "unicorns"
+      ],
+      "rating": 4.67,
+      "ratings": 2624,
+      "reviews": 153
+    },
+    {
+      "title": "Unbound",
+      "url": "https://www.goodreads.com/book/show/58489837-unbound",
+      "id": "91842969",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1628510677i/58489837.jpg",
+      "authors": [
+        "Michael R.  Miller"
+      ],
+      "genres": [
+        "fantasy",
+        "dragons",
+        "young-adult",
+        "magic",
+        "adventure",
+        "audiobook",
+        "fiction"
+      ],
+      "rating": 4.5,
+      "ratings": 2620,
+      "reviews": 223
+    },
+    {
+      "title": "Rise of the Fae",
+      "url": "https://www.goodreads.com/book/show/48723785-rise-of-the-fae",
+      "id": "74081902",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1573094028i/48723785.jpg",
+      "authors": [
+        "Linsey Hall"
+      ],
+      "genres": [
+        "fantasy",
+        "fae",
+        "paranormal",
+        "urban-fantasy",
+        "romance",
+        "magic",
         "dragons"
       ],
-      "rating": 4.1,
-      "ratings": 2332,
+      "rating": 4.43,
+      "ratings": 2614,
       "reviews": 171
+    },
+    {
+      "title": "Marked by Magic",
+      "url": "https://www.goodreads.com/book/show/201272400-marked-by-magic",
+      "id": "206160537",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1698869205i/201272400.jpg",
+      "authors": [
+        "Lindsay Buroker"
+      ],
+      "genres": [
+        "fantasy",
+        "urban-fantasy",
+        "dragons",
+        "magic",
+        "paranormal",
+        "romance",
+        "humor"
+      ],
+      "rating": 4.39,
+      "ratings": 2607,
+      "reviews": 125
+    },
+    {
+      "title": "The House of Always",
+      "url": "https://www.goodreads.com/book/show/55077705-the-house-of-always",
+      "id": "85876224",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1607963921i/55077705.jpg",
+      "authors": [
+        "Jenn Lyons"
+      ],
+      "genres": [
+        "fantasy",
+        "adult",
+        "high-fantasy",
+        "dragons",
+        "lgbt",
+        "epic-fantasy",
+        "fiction"
+      ],
+      "rating": 4.15,
+      "ratings": 2599,
+      "reviews": 331
+    },
+    {
+      "title": "Magic Wild",
+      "url": "https://www.goodreads.com/book/show/34518381-magic-wild",
+      "id": "55649827",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1489070349i/34518381.jpg",
+      "authors": [
+        "Linsey Hall"
+      ],
+      "genres": [
+        "fantasy",
+        "urban-fantasy",
+        "magic",
+        "paranormal",
+        "romance",
+        "demons",
+        "dragons"
+      ],
+      "rating": 4.35,
+      "ratings": 2593,
+      "reviews": 104
+    },
+    {
+      "title": "Krakens and Lies",
+      "url": "https://www.goodreads.com/book/show/22552513-krakens-and-lies",
+      "id": "42010662",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1413818259i/22552513.jpg",
+      "authors": [
+        "Tui T. Sutherland"
+      ],
+      "genres": [
+        "fantasy",
+        "middle-grade",
+        "dragons",
+        "adventure",
+        "mystery",
+        "audiobook",
+        "childrens"
+      ],
+      "rating": 4.44,
+      "ratings": 2587,
+      "reviews": 168
+    },
+    {
+      "title": "Kiss of Fate",
+      "url": "https://www.goodreads.com/book/show/3713102-kiss-of-fate",
+      "id": "195600762",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1401556662i/3713102.jpg",
+      "authors": [
+        "Deborah Cooke"
+      ],
+      "genres": [
+        "paranormal-romance",
+        "dragons",
+        "paranormal",
+        "romance",
+        "fantasy",
+        "urban-fantasy",
+        "shapeshifters"
+      ],
+      "rating": 4.13,
+      "ratings": 2577,
+      "reviews": 84
+    },
+    {
+      "title": "Hunt the Night",
+      "url": "https://www.goodreads.com/book/show/57852265-hunt-the-night",
+      "id": "89798201",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1619411046i/57852265.jpg",
+      "authors": [
+        "Everly Frost"
+      ],
+      "genres": [
+        "fantasy",
+        "angels",
+        "dragons",
+        "paranormal",
+        "urban-fantasy",
+        "romance",
+        "shapeshifters"
+      ],
+      "rating": 4.28,
+      "ratings": 2575,
+      "reviews": 188
     },
     {
       "title": "Cursed",
@@ -38,469 +416,93 @@
         "elves",
         "magic"
       ],
-      "rating": 4.65,
-      "ratings": 2328,
-      "reviews": 153
+      "rating": 4.64,
+      "ratings": 2573,
+      "reviews": 166
     },
     {
-      "title": "Mate",
-      "url": "https://www.goodreads.com/book/show/44044028-mate",
-      "id": "68349714",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1550455618i/44044028.jpg",
+      "title": "Dodging Calamities",
+      "url": "https://www.goodreads.com/book/show/55791459-dodging-calamities",
+      "id": "87010779",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1603708030i/55791459.jpg",
       "authors": [
-        "Piper Scott"
+        "Erin R. Flynn"
       ],
       "genres": [
-        "m-m-romance",
-        "omegaverse",
-        "dragons",
+        "reverse-harem",
         "paranormal",
-        "m-m-m",
-        "fantasy",
-        "shapeshifters"
-      ],
-      "rating": 4.32,
-      "ratings": 2326,
-      "reviews": 345
-    },
-    {
-      "title": "The Gold Falcon",
-      "url": "https://www.goodreads.com/book/show/236817.The_Gold_Falcon",
-      "id": "2186139",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386925074i/236817.jpg",
-      "authors": [
-        "Katharine Kerr"
-      ],
-      "genres": [
-        "fantasy",
-        "fiction",
-        "epic-fantasy",
-        "dragons",
-        "high-fantasy",
-        "magic",
-        "science-fiction-fantasy"
-      ],
-      "rating": 4.14,
-      "ratings": 2320,
-      "reviews": 58
-    },
-    {
-      "title": "Unbound",
-      "url": "https://www.goodreads.com/book/show/58489837-unbound",
-      "id": "91842969",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1628510677i/58489837.jpg",
-      "authors": [
-        "Michael R.  Miller"
-      ],
-      "genres": [
-        "fantasy",
-        "dragons",
-        "young-adult",
-        "adventure",
-        "magic",
-        "audiobook",
-        "fiction"
-      ],
-      "rating": 4.5,
-      "ratings": 2319,
-      "reviews": 201
-    },
-    {
-      "title": "Cast in Oblivion",
-      "url": "https://www.goodreads.com/book/show/38926888-cast-in-oblivion",
-      "id": "57787977",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1525395594i/38926888.jpg",
-      "authors": [
-        "Michelle Sagara"
-      ],
-      "genres": [
-        "fantasy",
-        "magic",
-        "urban-fantasy",
-        "dragons",
-        "fiction",
-        "high-fantasy",
-        "science-fiction-fantasy"
-      ],
-      "rating": 4.2,
-      "ratings": 2318,
-      "reviews": 201
-    },
-    {
-      "title": "A Touch of Stone and Snow",
-      "url": "https://www.goodreads.com/book/show/48646570-a-touch-of-stone-and-snow",
-      "id": "73988694",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1580757874i/48646570.jpg",
-      "authors": [
-        "Milla Vane"
-      ],
-      "genres": [
-        "fantasy",
-        "romance",
-        "fantasy-romance",
-        "magic",
-        "adult",
-        "paranormal",
-        "dragons"
-      ],
-      "rating": 4.02,
-      "ratings": 2309,
-      "reviews": 381
-    },
-    {
-      "title": "Dragon's Justice",
-      "url": "https://www.goodreads.com/book/show/58953567-dragon-s-justice",
-      "id": "92912513",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1631146608i/58953567.jpg",
-      "authors": [
-        "Bruce Sentar"
-      ],
-      "genres": [
-        "harem",
-        "fantasy",
-        "urban-fantasy",
-        "romance",
-        "dragons",
-        "paranormal",
-        "magic"
-      ],
-      "rating": 4.49,
-      "ratings": 2301,
-      "reviews": 136
-    },
-    {
-      "title": "Secrets Bound By Sand",
-      "url": "https://www.goodreads.com/book/show/46015227-secrets-bound-by-sand",
-      "id": "70891255",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1558833126i/46015227.jpg",
-      "authors": [
-        "T.A. White"
-      ],
-      "genres": [
-        "fantasy",
-        "dragons",
-        "romance",
-        "magic",
-        "paranormal",
-        "shapeshifters",
-        "science-fiction"
-      ],
-      "rating": 4.33,
-      "ratings": 2298,
-      "reviews": 93
-    },
-    {
-      "title": "Healed by the Dragon",
-      "url": "https://www.goodreads.com/book/show/25539646-healed-by-the-dragon",
-      "id": "45330499",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1615567446i/25539646.jpg",
-      "authors": [
-        "Jessie Donovan"
-      ],
-      "genres": [
-        "romance",
-        "paranormal",
-        "dragons",
-        "fantasy",
-        "paranormal-romance",
-        "shapeshifters",
-        "supernatural"
-      ],
-      "rating": 4.22,
-      "ratings": 2295,
-      "reviews": 155
-    },
-    {
-      "title": "Turning Darkness Into Light",
-      "url": "https://www.goodreads.com/book/show/41555968-turning-darkness-into-light",
-      "id": "64836455",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1541422614i/41555968.jpg",
-      "authors": [
-        "Marie Brennan"
-      ],
-      "genres": [
-        "fantasy",
-        "dragons",
-        "fiction",
-        "historical-fiction",
-        "adult",
-        "historical",
-        "historical-fantasy"
-      ],
-      "rating": 4.19,
-      "ratings": 2288,
-      "reviews": 396
-    },
-    {
-      "title": "Billionaire Dragon's Nanny",
-      "url": "https://www.goodreads.com/book/show/53451144-billionaire-dragon-s-nanny",
-      "id": "83257805",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1590004186i/53451144.jpg",
-      "authors": [
-        "Brittany White"
-      ],
-      "genres": [
-        "romance",
-        "paranormal",
-        "dragons",
-        "paranormal-romance",
-        "fantasy",
-        "shapeshifters",
-        "magic"
-      ],
-      "rating": 4.25,
-      "ratings": 2284,
-      "reviews": 208
-    },
-    {
-      "title": "Dragon Released",
-      "url": "https://www.goodreads.com/book/show/54424261-dragon-released",
-      "id": "84820195",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1594085877i/54424261.jpg",
-      "authors": [
-        "Terry Bolryder"
-      ],
-      "genres": [
-        "romance",
-        "shapeshifters",
-        "paranormal-romance",
-        "paranormal",
-        "dragons",
-        "fantasy",
-        "m-f-romance"
-      ],
-      "rating": 4.26,
-      "ratings": 2282,
-      "reviews": 124
-    },
-    {
-      "title": "The Last Hunt",
-      "url": "https://www.goodreads.com/book/show/6640070-the-last-hunt",
-      "id": "6834525",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327942364i/6640070.jpg",
-      "authors": [
-        "Bruce Coville"
-      ],
-      "genres": [
-        "fantasy",
-        "young-adult",
-        "unicorns",
-        "middle-grade",
-        "fiction",
-        "dragons",
-        "magic"
-      ],
-      "rating": 4.19,
-      "ratings": 2276,
-      "reviews": 206
-    },
-    {
-      "title": "Fire & Rescue Shifters Collection 1: Books 1-3",
-      "url": "https://www.goodreads.com/book/show/35212277-fire-rescue-shifters-collection-1",
-      "id": "56551392",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1495551510i/35212277.jpg",
-      "authors": [
-        "Zoe Chant"
-      ],
-      "genres": [
-        "paranormal",
-        "romance",
-        "paranormal-romance",
-        "shapeshifters",
-        "dragons",
-        "fantasy",
-        "contemporary"
-      ],
-      "rating": 4.47,
-      "ratings": 2270,
-      "reviews": 164
-    },
-    {
-      "title": "Shadows of Fire",
-      "url": "https://www.goodreads.com/book/show/58905978-shadows-of-fire",
-      "id": "87442772",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1630512232i/58905978.jpg",
-      "authors": [
-        "Brenda K. Davies"
-      ],
-      "genres": [
-        "fantasy",
         "fae",
-        "romance",
-        "paranormal",
+        "magic",
+        "fantasy",
         "vampires",
-        "dragons",
-        "fantasy-romance"
-      ],
-      "rating": 4.07,
-      "ratings": 2265,
-      "reviews": 239
-    },
-    {
-      "title": "Shattered Past",
-      "url": "https://www.goodreads.com/book/show/28668462-shattered-past",
-      "id": "48857195",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1453402326i/28668462.jpg",
-      "authors": [
-        "Lindsay Buroker"
-      ],
-      "genres": [
-        "fantasy",
-        "romance",
-        "steampunk",
-        "dragons",
-        "magic",
-        "adventure",
-        "paranormal"
-      ],
-      "rating": 4.37,
-      "ratings": 2258,
-      "reviews": 136
-    },
-    {
-      "title": "Firefighter Sea Dragon",
-      "url": "https://www.goodreads.com/book/show/35202688-firefighter-sea-dragon",
-      "id": "56539421",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1495487144i/35202688.jpg",
-      "authors": [
-        "Zoe Chant"
-      ],
-      "genres": [
-        "romance",
-        "paranormal-romance",
-        "paranormal",
-        "shapeshifters",
-        "fantasy",
-        "dragons",
-        "contemporary"
-      ],
-      "rating": 4.34,
-      "ratings": 2250,
-      "reviews": 182
-    },
-    {
-      "title": "Nova Terra: Earthshaper",
-      "url": "https://www.goodreads.com/book/show/57210833-nova-terra",
-      "id": "89542196",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1614310779i/57210833.jpg",
-      "authors": [
-        "Seth Ring"
-      ],
-      "genres": [
-        "fantasy",
-        "science-fiction",
-        "dragons",
-        "fiction",
-        "magic",
-        "elves"
-      ],
-      "rating": 4.54,
-      "ratings": 2250,
-      "reviews": 66
-    },
-    {
-      "title": "Dragonholder: The Life and Dreams (So Far) of Anne McCaffrey",
-      "url": "https://www.goodreads.com/book/show/238964.Dragonholder",
-      "id": "231479",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320395767i/238964.jpg",
-      "authors": [
-        "Todd McCaffrey"
-      ],
-      "genres": [
-        "non-fiction",
-        "biography",
-        "dragons",
-        "biography-memoir",
-        "memoir",
-        "science-fiction-fantasy"
-      ],
-      "rating": 4.29,
-      "ratings": 2245,
-      "reviews": 57
-    },
-    {
-      "title": "Firefighter Pegasus",
-      "url": "https://www.goodreads.com/book/show/31441290-firefighter-pegasus",
-      "id": "52140298",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1471134331i/31441290.jpg",
-      "authors": [
-        "Zoe Chant"
-      ],
-      "genres": [
-        "romance",
-        "paranormal",
-        "paranormal-romance",
-        "shapeshifters",
-        "fantasy",
-        "supernatural",
         "dragons"
       ],
-      "rating": 4.22,
-      "ratings": 2236,
-      "reviews": 170
+      "rating": 4.52,
+      "ratings": 2571,
+      "reviews": 267
     },
     {
-      "title": "Claimed by the Alien Warrior",
-      "url": "https://www.goodreads.com/book/show/50713974-claimed-by-the-alien-warrior",
-      "id": "75744233",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1580308761i/50713974.jpg",
+      "title": "Miss Percy's Pocket Guide to the Care and Feeding of British Dragons",
+      "url": "https://www.goodreads.com/book/show/55040182-miss-percy-s-pocket-guide-to-the-care-and-feeding-of-british-dragons",
+      "id": "85829586",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1633368588i/55040182.jpg",
       "authors": [
-        "Hope Hart"
+        "Quenby Olson"
       ],
       "genres": [
-        "aliens",
-        "science-fiction",
+        "fantasy",
+        "dragons",
+        "cozy-mystery",
+        "historical-fiction",
         "romance",
-        "science-fiction-romance",
+        "fiction",
+        "historical"
+      ],
+      "rating": 4.13,
+      "ratings": 2568,
+      "reviews": 482
+    },
+    {
+      "title": "Taste of Darkness",
+      "url": "https://www.goodreads.com/book/show/20776002-taste-of-darkness",
+      "id": "40114098",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1395603400i/20776002.jpg",
+      "authors": [
+        "Katie Reus"
+      ],
+      "genres": [
+        "paranormal",
+        "paranormal-romance",
+        "dragons",
+        "romance",
+        "shapeshifters",
+        "fantasy",
+        "vampires"
+      ],
+      "rating": 4.1,
+      "ratings": 2560,
+      "reviews": 335
+    },
+    {
+      "title": "Dying in Flames",
+      "url": "https://www.goodreads.com/book/show/57444307-dying-in-flames",
+      "id": "89940375",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1616012193i/57444307.jpg",
+      "authors": [
+        "M. Sinclair"
+      ],
+      "genres": [
+        "reverse-harem",
         "fantasy",
         "paranormal",
-        "dragons"
-      ],
-      "rating": 4.27,
-      "ratings": 2230,
-      "reviews": 145
-    },
-    {
-      "title": "Caged in Shadow",
-      "url": "https://www.goodreads.com/book/show/123331466-caged-in-shadow",
-      "id": "144725075",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1679425980i/123331466.jpg",
-      "authors": [
-        "Jasmine Walt"
-      ],
-      "genres": [
-        "fantasy",
-        "dragons",
-        "fae",
-        "romance",
-        "fantasy-romance",
         "shapeshifters",
-        "magic"
-      ],
-      "rating": 4.01,
-      "ratings": 2230,
-      "reviews": 117
-    },
-    {
-      "title": "The People of Pern",
-      "url": "https://www.goodreads.com/book/show/127583.The_People_of_Pern",
-      "id": "402034",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1547245564i/127583.jpg",
-      "authors": [
-        "Robin   Wood"
-      ],
-      "genres": [
-        "fantasy",
-        "science-fiction",
+        "romance",
         "dragons",
-        "art",
-        "fiction",
-        "science-fiction-fantasy",
-        "reference"
+        "paranormal-romance"
       ],
-      "rating": 4.29,
-      "ratings": 2220,
-      "reviews": 42
+      "rating": 4.4,
+      "ratings": 2554,
+      "reviews": 157
     }
   ]
 }

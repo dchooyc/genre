@@ -1,6 +1,69 @@
 {
   "books": [
     {
+      "title": "Programming the Universe: A Quantum Computer Scientist Takes on the Cosmos",
+      "url": "https://www.goodreads.com/book/show/331680.Programming_the_Universe",
+      "id": "322239",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320432641i/331680.jpg",
+      "authors": [
+        "Seth Lloyd"
+      ],
+      "genres": [
+        "science",
+        "physics",
+        "non-fiction",
+        "computer-science",
+        "philosophy",
+        "computers",
+        "programming"
+      ],
+      "rating": 4.01,
+      "ratings": 2051,
+      "reviews": 107
+    },
+    {
+      "title": "The Little Schemer",
+      "url": "https://www.goodreads.com/book/show/548914.The_Little_Schemer",
+      "id": "536162",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347456079i/548914.jpg",
+      "authors": [
+        "Daniel P. Friedman"
+      ],
+      "genres": [
+        "programming",
+        "computer-science",
+        "technology",
+        "non-fiction",
+        "computers",
+        "software",
+        "technical"
+      ],
+      "rating": 4.29,
+      "ratings": 1953,
+      "reviews": 134
+    },
+    {
+      "title": "The Practice of Programming",
+      "url": "https://www.goodreads.com/book/show/1032758.The_Practice_of_Programming",
+      "id": "1019038",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348418051i/1032758.jpg",
+      "authors": [
+        "Brian W. Kernighan"
+      ],
+      "genres": [
+        "programming",
+        "computer-science",
+        "technology",
+        "software",
+        "computers",
+        "non-fiction",
+        "technical"
+      ],
+      "rating": 4.12,
+      "ratings": 1915,
+      "reviews": 47
+    },
+    {
       "title": "Hard Drive: Bill Gates and the Making of the Microsoft Empire",
       "url": "https://www.goodreads.com/book/show/41611.Hard_Drive",
       "id": "1498267",
@@ -17,9 +80,9 @@
         "computers",
         "autobiography"
       ],
-      "rating": 4.11,
-      "ratings": 1854,
-      "reviews": 91
+      "rating": 4.12,
+      "ratings": 1864,
+      "reviews": 93
     },
     {
       "title": "Advanced Programming in the UNIX Environment",
@@ -39,7 +102,7 @@
         "non-fiction"
       ],
       "rating": 4.34,
-      "ratings": 1707,
+      "ratings": 1710,
       "reviews": 43
     },
     {
@@ -56,12 +119,12 @@
         "technology",
         "true-crime",
         "science",
-        "computers",
-        "hackers"
+        "hackers",
+        "computers"
       ],
       "rating": 4.2,
-      "ratings": 1658,
-      "reviews": 205
+      "ratings": 1674,
+      "reviews": 209
     },
     {
       "title": "Programming in Scala: A Comprehensive Step-by-step Guide",
@@ -81,29 +144,8 @@
         "computers"
       ],
       "rating": 4.22,
-      "ratings": 1636,
-      "reviews": 99
-    },
-    {
-      "title": "Think Python",
-      "url": "https://www.goodreads.com/book/show/14514306-think-python",
-      "id": "585132",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1344722863i/14514306.jpg",
-      "authors": [
-        "Allen B. Downey"
-      ],
-      "genres": [
-        "programming",
-        "computer-science",
-        "non-fiction",
-        "technology",
-        "coding",
-        "technical",
-        "computers"
-      ],
-      "rating": 4.12,
-      "ratings": 1584,
-      "reviews": 179
+      "ratings": 1640,
+      "reviews": 100
     },
     {
       "title": "The Linux Command Line: A Complete Introduction",
@@ -123,8 +165,8 @@
         "reference"
       ],
       "rating": 4.38,
-      "ratings": 1572,
-      "reviews": 147
+      "ratings": 1591,
+      "reviews": 148
     },
     {
       "title": "Spelunky",
@@ -144,7 +186,7 @@
         "computers"
       ],
       "rating": 4.44,
-      "ratings": 1499,
+      "ratings": 1514,
       "reviews": 133
     },
     {
@@ -160,13 +202,13 @@
         "computer-science",
         "technology",
         "non-fiction",
+        "technical",
         "software",
-        "computers",
-        "technical"
+        "computers"
       ],
-      "rating": 4.49,
-      "ratings": 1385,
-      "reviews": 152
+      "rating": 4.5,
+      "ratings": 1442,
+      "reviews": 157
     },
     {
       "title": "The UNIX Programming Environment",
@@ -186,8 +228,8 @@
         "non-fiction"
       ],
       "rating": 4.24,
-      "ratings": 1304,
-      "reviews": 40
+      "ratings": 1310,
+      "reviews": 41
     },
     {
       "title": "Eloquent Ruby",
@@ -207,8 +249,8 @@
         "computers"
       ],
       "rating": 4.35,
-      "ratings": 1275,
-      "reviews": 67
+      "ratings": 1280,
+      "reviews": 68
     },
     {
       "title": "Fire in the Valley: The Making of The Personal Computer",
@@ -228,8 +270,50 @@
         "biography"
       ],
       "rating": 4.15,
-      "ratings": 1266,
-      "reviews": 61
+      "ratings": 1269,
+      "reviews": 62
+    },
+    {
+      "title": "The Art of UNIX Programming",
+      "url": "https://www.goodreads.com/book/show/104745.The_Art_of_UNIX_Programming",
+      "id": "100994",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348957784i/104745.jpg",
+      "authors": [
+        "Eric S. Raymond"
+      ],
+      "genres": [
+        "programming",
+        "computer-science",
+        "technical",
+        "technology",
+        "non-fiction",
+        "computers",
+        "coding"
+      ],
+      "rating": 4.18,
+      "ratings": 1249,
+      "reviews": 60
+    },
+    {
+      "title": "Valley of Genius: The Uncensored History of Silicon Valley",
+      "url": "https://www.goodreads.com/book/show/36382335-valley-of-genius",
+      "id": "58071511",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1546985331i/36382335.jpg",
+      "authors": [
+        "Adam  Fisher"
+      ],
+      "genres": [
+        "history",
+        "non-fiction",
+        "technology",
+        "business",
+        "entrepreneurship",
+        "computers",
+        "science"
+      ],
+      "rating": 4.09,
+      "ratings": 1241,
+      "reviews": 179
     },
     {
       "title": "Show Stopper!: The Breakneck Race to Create Windows NT and the Next Generation at Microsoft",
@@ -248,9 +332,9 @@
         "programming",
         "computer-science"
       ],
-      "rating": 4.15,
-      "ratings": 1218,
-      "reviews": 81
+      "rating": 4.14,
+      "ratings": 1234,
+      "reviews": 82
     },
     {
       "title": "The Web Application Hacker's Handbook: Discovering and Exploiting Security Flaws",
@@ -270,8 +354,8 @@
         "computers"
       ],
       "rating": 4.23,
-      "ratings": 1169,
-      "reviews": 53
+      "ratings": 1179,
+      "reviews": 55
     },
     {
       "title": "How Linux Works: What Every Superuser Should Know",
@@ -291,8 +375,8 @@
         "reference"
       ],
       "rating": 4.17,
-      "ratings": 1131,
-      "reviews": 110
+      "ratings": 1138,
+      "reviews": 111
     },
     {
       "title": "Computer Architecture: A Quantitative Approach",
@@ -308,12 +392,12 @@
         "computers",
         "reference",
         "textbooks",
-        "non-fiction",
-        "technology"
+        "technology",
+        "non-fiction"
       ],
-      "rating": 4.12,
-      "ratings": 1086,
-      "reviews": 36
+      "rating": 4.11,
+      "ratings": 1088,
+      "reviews": 37
     },
     {
       "title": "CSS: The Missing Manual",
@@ -337,6 +421,27 @@
       "reviews": 75
     },
     {
+      "title": "CLR via C#",
+      "url": "https://www.goodreads.com/book/show/7121415-clr-via-c",
+      "id": "7382619",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388551187i/7121415.jpg",
+      "authors": [
+        "Jeffrey Richter"
+      ],
+      "genres": [
+        "programming",
+        "technology",
+        "computer-science",
+        "technical",
+        "software",
+        "computers",
+        "non-fiction"
+      ],
+      "rating": 4.56,
+      "ratings": 1067,
+      "reviews": 65
+    },
+    {
       "title": "More Effective C++: 35 New Ways to Improve Your Programs and Designs",
       "url": "https://www.goodreads.com/book/show/105123.More_Effective_C_",
       "id": "2098008",
@@ -354,7 +459,7 @@
         "technology"
       ],
       "rating": 4.34,
-      "ratings": 1059,
+      "ratings": 1060,
       "reviews": 37
     },
     {
@@ -390,119 +495,14 @@
         "computer-science",
         "programming",
         "technology",
-        "textbooks",
         "computers",
+        "textbooks",
         "technical",
         "non-fiction"
       ],
       "rating": 4.45,
-      "ratings": 1029,
+      "ratings": 1037,
       "reviews": 58
-    },
-    {
-      "title": "The Humane Interface: New Directions for Designing Interactive Systems",
-      "url": "https://www.goodreads.com/book/show/344726.The_Humane_Interface",
-      "id": "335055",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388200339i/344726.jpg",
-      "authors": [
-        "Jef Raskin"
-      ],
-      "genres": [
-        "design",
-        "non-fiction",
-        "programming",
-        "technology",
-        "computers",
-        "usability",
-        "software"
-      ],
-      "rating": 4.02,
-      "ratings": 1026,
-      "reviews": 43
-    },
-    {
-      "title": "Python Cookbook, Third Edition",
-      "url": "https://www.goodreads.com/book/show/17152735-python-cookbook-third-edition",
-      "id": "23572421",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1368812217i/17152735.jpg",
-      "authors": [
-        "David Beazley"
-      ],
-      "genres": [
-        "programming",
-        "computer-science",
-        "reference",
-        "technology",
-        "technical",
-        "software",
-        "computers"
-      ],
-      "rating": 4.17,
-      "ratings": 994,
-      "reviews": 51
-    },
-    {
-      "title": "C++ Primer",
-      "url": "https://www.goodreads.com/book/show/768080.C_Primer",
-      "id": "754144",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347564002i/768080.jpg",
-      "authors": [
-        "Stanley B. Lippman"
-      ],
-      "genres": [
-        "programming",
-        "computer-science",
-        "reference",
-        "technology",
-        "non-fiction",
-        "computers",
-        "software"
-      ],
-      "rating": 4.22,
-      "ratings": 965,
-      "reviews": 47
-    },
-    {
-      "title": "The Joy of Clojure",
-      "url": "https://www.goodreads.com/book/show/8129142-the-joy-of-clojure",
-      "id": "12924863",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1272940175i/8129142.jpg",
-      "authors": [
-        "Michael Fogus"
-      ],
-      "genres": [
-        "programming",
-        "computer-science",
-        "technology",
-        "computers",
-        "technical",
-        "software",
-        "non-fiction"
-      ],
-      "rating": 4.18,
-      "ratings": 954,
-      "reviews": 50
-    },
-    {
-      "title": "UNIX: A History and a Memoir",
-      "url": "https://www.goodreads.com/book/show/53011383-unix",
-      "id": "73834380",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1571699686l/53011383.jpg",
-      "authors": [
-        "Brian W. Kernighan"
-      ],
-      "genres": [
-        "history",
-        "non-fiction",
-        "technology",
-        "programming",
-        "computer-science",
-        "computers",
-        "biography"
-      ],
-      "rating": 4.41,
-      "ratings": 944,
-      "reviews": 143
     }
   ]
 }

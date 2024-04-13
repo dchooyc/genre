@@ -1,6 +1,27 @@
 {
   "books": [
     {
+      "title": "Head First Design Patterns",
+      "url": "https://www.goodreads.com/book/show/58128.Head_First_Design_Patterns",
+      "id": "56605",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1408309444i/58128.jpg",
+      "authors": [
+        "Eric Freeman"
+      ],
+      "genres": [
+        "programming",
+        "computer-science",
+        "technology",
+        "technical",
+        "software",
+        "non-fiction",
+        "coding"
+      ],
+      "rating": 4.3,
+      "ratings": 8636,
+      "reviews": 495
+    },
+    {
       "title": "JavaScript: The Good Parts",
       "url": "https://www.goodreads.com/book/show/2998152-javascript",
       "id": "3028639",
@@ -18,92 +39,8 @@
         "reference"
       ],
       "rating": 4.23,
-      "ratings": 8537,
-      "reviews": 554
-    },
-    {
-      "title": "The Unicorn Project",
-      "url": "https://www.goodreads.com/book/show/44333183-the-unicorn-project",
-      "id": "68888421",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1566877586i/44333183.jpg",
-      "authors": [
-        "Gene Kim"
-      ],
-      "genres": [
-        "business",
-        "technology",
-        "fiction",
-        "management",
-        "programming",
-        "software",
-        "leadership"
-      ],
-      "rating": 4.09,
-      "ratings": 8503,
-      "reviews": 676
-    },
-    {
-      "title": "This Is How They Tell Me the World Ends: The Cyberweapons Arms Race",
-      "url": "https://www.goodreads.com/book/show/49247043-this-is-how-they-tell-me-the-world-ends",
-      "id": "74693396",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1610927353i/49247043.jpg",
-      "authors": [
-        "Nicole Perlroth"
-      ],
-      "genres": [
-        "non-fiction",
-        "technology",
-        "politics",
-        "science",
-        "history",
-        "business",
-        "war"
-      ],
-      "rating": 4.34,
-      "ratings": 8439,
-      "reviews": 999
-    },
-    {
-      "title": "Refactoring: Improving the Design of Existing Code",
-      "url": "https://www.goodreads.com/book/show/44936.Refactoring",
-      "id": "44258",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386925632i/44936.jpg",
-      "authors": [
-        "Martin Fowler"
-      ],
-      "genres": [
-        "programming",
-        "technology",
-        "computer-science",
-        "software",
-        "technical",
-        "non-fiction",
-        "coding"
-      ],
-      "rating": 4.25,
-      "ratings": 8227,
-      "reviews": 374
-    },
-    {
-      "title": "Hackers: Heroes of the Computer Revolution",
-      "url": "https://www.goodreads.com/book/show/56829.Hackers",
-      "id": "1407224",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1435697935i/56829.jpg",
-      "authors": [
-        "Steven Levy"
-      ],
-      "genres": [
-        "non-fiction",
-        "history",
-        "technology",
-        "computer-science",
-        "computers",
-        "science",
-        "programming"
-      ],
-      "rating": 4.16,
-      "ratings": 8156,
-      "reviews": 505
+      "ratings": 8567,
+      "reviews": 552
     },
     {
       "title": "Designing Data-Intensive Applications",
@@ -123,8 +60,50 @@
         "engineering"
       ],
       "rating": 4.71,
-      "ratings": 8125,
-      "reviews": 748
+      "ratings": 8363,
+      "reviews": 768
+    },
+    {
+      "title": "Refactoring: Improving the Design of Existing Code",
+      "url": "https://www.goodreads.com/book/show/44936.Refactoring",
+      "id": "44258",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386925632i/44936.jpg",
+      "authors": [
+        "Martin Fowler"
+      ],
+      "genres": [
+        "programming",
+        "technology",
+        "computer-science",
+        "software",
+        "technical",
+        "non-fiction",
+        "coding"
+      ],
+      "rating": 4.25,
+      "ratings": 8265,
+      "reviews": 377
+    },
+    {
+      "title": "Hackers: Heroes of the Computer Revolution",
+      "url": "https://www.goodreads.com/book/show/56829.Hackers",
+      "id": "1407224",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1435697935i/56829.jpg",
+      "authors": [
+        "Steven Levy"
+      ],
+      "genres": [
+        "non-fiction",
+        "history",
+        "technology",
+        "computer-science",
+        "computers",
+        "science",
+        "programming"
+      ],
+      "rating": 4.16,
+      "ratings": 8200,
+      "reviews": 531
     },
     {
       "title": "Lean Analytics: Use Data to Build a Better Startup Faster",
@@ -144,8 +123,29 @@
         "buisness"
       ],
       "rating": 4.1,
-      "ratings": 8011,
-      "reviews": 235
+      "ratings": 7996,
+      "reviews": 237
+    },
+    {
+      "title": "Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hackers",
+      "url": "https://www.goodreads.com/book/show/41436213-sandworm",
+      "id": "64664488",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1567555830i/41436213.jpg",
+      "authors": [
+        "Andy Greenberg"
+      ],
+      "genres": [
+        "non-fiction",
+        "technology",
+        "history",
+        "politics",
+        "science",
+        "russia",
+        "crime"
+      ],
+      "rating": 4.36,
+      "ratings": 7987,
+      "reviews": 741
     },
     {
       "title": "Effective Java",
@@ -165,29 +165,8 @@
         "reference"
       ],
       "rating": 4.51,
-      "ratings": 7754,
-      "reviews": 402
-    },
-    {
-      "title": "Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hackers",
-      "url": "https://www.goodreads.com/book/show/41436213-sandworm",
-      "id": "64664488",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1567555830i/41436213.jpg",
-      "authors": [
-        "Andy Greenberg"
-      ],
-      "genres": [
-        "non-fiction",
-        "technology",
-        "politics",
-        "history",
-        "science",
-        "russia",
-        "crime"
-      ],
-      "rating": 4.36,
-      "ratings": 7719,
-      "reviews": 719
+      "ratings": 7791,
+      "reviews": 407
     },
     {
       "title": "The Idea Factory: Bell Labs and the Great Age of American Innovation",
@@ -207,29 +186,8 @@
         "engineering"
       ],
       "rating": 4.19,
-      "ratings": 7536,
-      "reviews": 707
-    },
-    {
-      "title": "The Upstarts: How Uber, Airbnb, and the Killer Companies of the New Silicon Valley Are Changing the World",
-      "url": "https://www.goodreads.com/book/show/29905580-the-upstarts",
-      "id": "50279459",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1479331403i/29905580.jpg",
-      "authors": [
-        "Brad Stone"
-      ],
-      "genres": [
-        "business",
-        "non-fiction",
-        "technology",
-        "entrepreneurship",
-        "biography",
-        "history",
-        "economics"
-      ],
-      "rating": 4.04,
-      "ratings": 7139,
-      "reviews": 520
+      "ratings": 7665,
+      "reviews": 719
     },
     {
       "title": "Countdown to Zero Day: Stuxnet and the Launch of the World's First Digital Weapon",
@@ -249,8 +207,50 @@
         "war"
       ],
       "rating": 4.16,
-      "ratings": 7096,
-      "reviews": 683
+      "ratings": 7207,
+      "reviews": 693
+    },
+    {
+      "title": "To Pixar and Beyond: My Unlikely Journey with Steve Jobs to Make Entertainment History",
+      "url": "https://www.goodreads.com/book/show/28114529-to-pixar-and-beyond",
+      "id": "48123836",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1455172199i/28114529.jpg",
+      "authors": [
+        "Lawrence Levy"
+      ],
+      "genres": [
+        "business",
+        "non-fiction",
+        "biography",
+        "memoir",
+        "audiobook",
+        "history",
+        "technology"
+      ],
+      "rating": 4.24,
+      "ratings": 7145,
+      "reviews": 729
+    },
+    {
+      "title": "The Upstarts: How Uber, Airbnb, and the Killer Companies of the New Silicon Valley Are Changing the World",
+      "url": "https://www.goodreads.com/book/show/29905580-the-upstarts",
+      "id": "50279459",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1479331403i/29905580.jpg",
+      "authors": [
+        "Brad Stone"
+      ],
+      "genres": [
+        "business",
+        "non-fiction",
+        "technology",
+        "entrepreneurship",
+        "biography",
+        "history",
+        "economics"
+      ],
+      "rating": 4.04,
+      "ratings": 7116,
+      "reviews": 522
     },
     {
       "title": "Accelerate: Building and Scaling High Performing Technology Organizations",
@@ -270,8 +270,8 @@
         "programming"
       ],
       "rating": 4.07,
-      "ratings": 6882,
-      "reviews": 637
+      "ratings": 7005,
+      "reviews": 644
     },
     {
       "title": "Mindf*ck: Cambridge Analytica and the Plot to Break America",
@@ -291,155 +291,8 @@
         "science"
       ],
       "rating": 4.37,
-      "ratings": 6845,
-      "reviews": 858
-    },
-    {
-      "title": "On Intelligence",
-      "url": "https://www.goodreads.com/book/show/27539.On_Intelligence",
-      "id": "1308",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1441230921i/27539.jpg",
-      "authors": [
-        "Jeff Hawkins"
-      ],
-      "genres": [
-        "science",
-        "non-fiction",
-        "neuroscience",
-        "psychology",
-        "artificial-intelligence",
-        "technology",
-        "brain"
-      ],
-      "rating": 4.11,
-      "ratings": 6787,
-      "reviews": 494
-    },
-    {
-      "title": "Cracking the Coding Interview: 150 Programming Questions and Solutions",
-      "url": "https://www.goodreads.com/book/show/12544648-cracking-the-coding-interview",
-      "id": "17531766",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1391311964i/12544648.jpg",
-      "authors": [
-        "Gayle Laakmann McDowell"
-      ],
-      "genres": [
-        "programming",
-        "computer-science",
-        "technology",
-        "technical",
-        "coding",
-        "non-fiction",
-        "software"
-      ],
-      "rating": 4.34,
-      "ratings": 6644,
-      "reviews": 271
-    },
-    {
-      "title": "The Tech-Wise Family: Everyday Steps for Putting Technology in Its Proper Place",
-      "url": "https://www.goodreads.com/book/show/30259180-the-tech-wise-family",
-      "id": "50731437",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1470642370i/30259180.jpg",
-      "authors": [
-        "Andy Crouch"
-      ],
-      "genres": [
-        "parenting",
-        "non-fiction",
-        "christian",
-        "technology",
-        "family",
-        "christian-living",
-        "cultural"
-      ],
-      "rating": 4.25,
-      "ratings": 6586,
-      "reviews": 1007
-    },
-    {
-      "title": "Power And Prediction: The Disruptive Economics of Artificial Intelligence",
-      "url": "https://www.goodreads.com/book/show/60623908-power-and-prediction",
-      "id": "95560266",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1647362522i/60623908.jpg",
-      "authors": [
-        "Ajay Agrawal"
-      ],
-      "genres": [
-        "business",
-        "artificial-intelligence",
-        "non-fiction",
-        "economics",
-        "technology",
-        "science",
-        "finance"
-      ],
-      "rating": 4.26,
-      "ratings": 6567,
-      "reviews": 102
-    },
-    {
-      "title": "Brotopia: Breaking Up the Boys' Club of Silicon Valley",
-      "url": "https://www.goodreads.com/book/show/36288143-brotopia",
-      "id": "57951368",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1621326555i/36288143.jpg",
-      "authors": [
-        "Emily  Chang"
-      ],
-      "genres": [
-        "non-fiction",
-        "business",
-        "feminism",
-        "technology",
-        "audiobook",
-        "womens",
-        "sociology"
-      ],
-      "rating": 4.01,
-      "ratings": 6550,
-      "reviews": 701
-    },
-    {
-      "title": "Digital Gold: Bitcoin and the Inside Story of the Misfits and Millionaires Trying to Reinvent Money",
-      "url": "https://www.goodreads.com/book/show/23546676-digital-gold",
-      "id": "43111519",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1427384717i/23546676.jpg",
-      "authors": [
-        "Nathaniel Popper"
-      ],
-      "genres": [
-        "non-fiction",
-        "economics",
-        "business",
-        "finance",
-        "technology",
-        "history",
-        "science"
-      ],
-      "rating": 4.15,
-      "ratings": 6542,
-      "reviews": 611
-    },
-    {
-      "title": "Storytelling with Data: A Data Visualization Guide for Business Professionals",
-      "url": "https://www.goodreads.com/book/show/26535513-storytelling-with-data",
-      "id": "46509850",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1444690744i/26535513.jpg",
-      "authors": [
-        "Cole Nussbaumer Knaflic"
-      ],
-      "genres": [
-        "business",
-        "non-fiction",
-        "design",
-        "technology",
-        "science",
-        "technical",
-        "computer-science"
-      ],
-      "rating": 4.4,
-      "ratings": 6538,
-      "reviews": 682
+      "ratings": 6947,
+      "reviews": 865
     },
     {
       "title": "Build: An Unorthodox Guide to Making Things Worth Making",
@@ -459,29 +312,134 @@
         "management"
       ],
       "rating": 4.34,
-      "ratings": 6419,
-      "reviews": 576
+      "ratings": 6834,
+      "reviews": 616
     },
     {
-      "title": "How Music Got Free: The End of an Industry, the Turn of the Century, and the Patient Zero of Piracy",
-      "url": "https://www.goodreads.com/book/show/23398715-how-music-got-free",
-      "id": "42955279",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1414348373i/23398715.jpg",
+      "title": "On Intelligence",
+      "url": "https://www.goodreads.com/book/show/27539.On_Intelligence",
+      "id": "1308",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1441230921i/27539.jpg",
       "authors": [
-        "Stephen Richard Witt"
+        "Jeff Hawkins"
       ],
       "genres": [
-        "music",
+        "science",
         "non-fiction",
-        "history",
-        "business",
+        "neuroscience",
+        "psychology",
+        "artificial-intelligence",
         "technology",
-        "economics",
-        "audiobook"
+        "brain"
       ],
-      "rating": 4.23,
-      "ratings": 6342,
-      "reviews": 719
+      "rating": 4.11,
+      "ratings": 6809,
+      "reviews": 494
+    },
+    {
+      "title": "The Tech-Wise Family: Everyday Steps for Putting Technology in Its Proper Place",
+      "url": "https://www.goodreads.com/book/show/30259180-the-tech-wise-family",
+      "id": "50731437",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1470642370i/30259180.jpg",
+      "authors": [
+        "Andy Crouch"
+      ],
+      "genres": [
+        "parenting",
+        "non-fiction",
+        "christian",
+        "technology",
+        "family",
+        "christian-living",
+        "cultural"
+      ],
+      "rating": 4.25,
+      "ratings": 6791,
+      "reviews": 1043
+    },
+    {
+      "title": "Storytelling with Data: A Data Visualization Guide for Business Professionals",
+      "url": "https://www.goodreads.com/book/show/26535513-storytelling-with-data",
+      "id": "46509850",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1444690744i/26535513.jpg",
+      "authors": [
+        "Cole Nussbaumer Knaflic"
+      ],
+      "genres": [
+        "business",
+        "non-fiction",
+        "design",
+        "science",
+        "technology",
+        "technical",
+        "computer-science"
+      ],
+      "rating": 4.4,
+      "ratings": 6704,
+      "reviews": 700
+    },
+    {
+      "title": "Cracking the Coding Interview: 150 Programming Questions and Solutions",
+      "url": "https://www.goodreads.com/book/show/12544648-cracking-the-coding-interview",
+      "id": "17531766",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1391311964i/12544648.jpg",
+      "authors": [
+        "Gayle Laakmann McDowell"
+      ],
+      "genres": [
+        "programming",
+        "computer-science",
+        "technology",
+        "technical",
+        "coding",
+        "non-fiction",
+        "software"
+      ],
+      "rating": 4.34,
+      "ratings": 6677,
+      "reviews": 274
+    },
+    {
+      "title": "Brotopia: Breaking Up the Boys' Club of Silicon Valley",
+      "url": "https://www.goodreads.com/book/show/36288143-brotopia",
+      "id": "57951368",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1621326555i/36288143.jpg",
+      "authors": [
+        "Emily  Chang"
+      ],
+      "genres": [
+        "non-fiction",
+        "business",
+        "feminism",
+        "technology",
+        "audiobook",
+        "womens",
+        "sociology"
+      ],
+      "rating": 4.01,
+      "ratings": 6605,
+      "reviews": 712
+    },
+    {
+      "title": "Digital Gold: Bitcoin and the Inside Story of the Misfits and Millionaires Trying to Reinvent Money",
+      "url": "https://www.goodreads.com/book/show/23546676-digital-gold",
+      "id": "43111519",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1427384717i/23546676.jpg",
+      "authors": [
+        "Nathaniel Popper"
+      ],
+      "genres": [
+        "non-fiction",
+        "business",
+        "economics",
+        "finance",
+        "technology",
+        "history",
+        "science"
+      ],
+      "rating": 4.15,
+      "ratings": 6573,
+      "reviews": 604
     },
     {
       "title": "12 Ways Your Phone Is Changing You",
@@ -501,8 +459,50 @@
         "theology"
       ],
       "rating": 4.29,
-      "ratings": 6308,
-      "reviews": 1106
+      "ratings": 6482,
+      "reviews": 1136
+    },
+    {
+      "title": "How Music Got Free: The End of an Industry, the Turn of the Century, and the Patient Zero of Piracy",
+      "url": "https://www.goodreads.com/book/show/23398715-how-music-got-free",
+      "id": "42955279",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1414348373i/23398715.jpg",
+      "authors": [
+        "Stephen Richard Witt"
+      ],
+      "genres": [
+        "music",
+        "non-fiction",
+        "history",
+        "business",
+        "technology",
+        "economics",
+        "audiobook"
+      ],
+      "rating": 4.23,
+      "ratings": 6412,
+      "reviews": 724
+    },
+    {
+      "title": "Power And Prediction: The Disruptive Economics of Artificial Intelligence",
+      "url": "https://www.goodreads.com/book/show/60623908-power-and-prediction",
+      "id": "95560266",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1647362522i/60623908.jpg",
+      "authors": [
+        "Ajay Agrawal"
+      ],
+      "genres": [
+        "business",
+        "artificial-intelligence",
+        "non-fiction",
+        "economics",
+        "technology",
+        "science",
+        "finance"
+      ],
+      "rating": 4.25,
+      "ratings": 6377,
+      "reviews": 120
     }
   ]
 }

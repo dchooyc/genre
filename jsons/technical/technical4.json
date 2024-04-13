@@ -1,6 +1,69 @@
 {
   "books": [
     {
+      "title": "Secrets of the JavaScript Ninja",
+      "url": "https://www.goodreads.com/book/show/4373732-secrets-of-the-javascript-ninja",
+      "id": "4421745",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1361224545i/4373732.jpg",
+      "authors": [
+        "John Resig"
+      ],
+      "genres": [
+        "programming",
+        "technology",
+        "computer-science",
+        "technical",
+        "software",
+        "non-fiction",
+        "coding"
+      ],
+      "rating": 4.22,
+      "ratings": 1241,
+      "reviews": 86
+    },
+    {
+      "title": "You Don't Know JS: this & Object Prototypes",
+      "url": "https://www.goodreads.com/book/show/22221108-you-don-t-know-js",
+      "id": "41559952",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1405288115i/22221108.jpg",
+      "authors": [
+        "Kyle Simpson"
+      ],
+      "genres": [
+        "programming",
+        "technology",
+        "computer-science",
+        "non-fiction",
+        "technical",
+        "coding",
+        "software"
+      ],
+      "rating": 4.49,
+      "ratings": 1224,
+      "reviews": 81
+    },
+    {
+      "title": "Implementing Domain-Driven Design",
+      "url": "https://www.goodreads.com/book/show/15756865-implementing-domain-driven-design",
+      "id": "21454662",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1342552108i/15756865.jpg",
+      "authors": [
+        "Vaughn Vernon"
+      ],
+      "genres": [
+        "programming",
+        "technology",
+        "software",
+        "computer-science",
+        "technical",
+        "architecture",
+        "engineering"
+      ],
+      "rating": 4.06,
+      "ratings": 1211,
+      "reviews": 90
+    },
+    {
       "title": "The Hundred-Page Machine Learning Book",
       "url": "https://www.goodreads.com/book/show/43190851-the-hundred-page-machine-learning-book",
       "id": "67014838",
@@ -17,9 +80,30 @@
         "technology",
         "technical"
       ],
-      "rating": 4.27,
-      "ratings": 1155,
-      "reviews": 135
+      "rating": 4.26,
+      "ratings": 1182,
+      "reviews": 137
+    },
+    {
+      "title": "The Web Application Hacker's Handbook: Discovering and Exploiting Security Flaws",
+      "url": "https://www.goodreads.com/book/show/1914619.The_Web_Application_Hacker_s_Handbook",
+      "id": "1916640",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347415849i/1914619.jpg",
+      "authors": [
+        "Dafydd Stuttard"
+      ],
+      "genres": [
+        "hackers",
+        "programming",
+        "technology",
+        "computer-science",
+        "non-fiction",
+        "technical",
+        "computers"
+      ],
+      "rating": 4.23,
+      "ratings": 1179,
+      "reviews": 55
     },
     {
       "title": "Option Volatility & Pricing: Advanced Trading Strategies and Techniques",
@@ -35,12 +119,12 @@
         "non-fiction",
         "economics",
         "textbooks",
-        "money",
-        "technical"
+        "technical",
+        "money"
       ],
       "rating": 4.26,
-      "ratings": 1153,
-      "reviews": 65
+      "ratings": 1170,
+      "reviews": 66
     },
     {
       "title": "Topology",
@@ -60,7 +144,7 @@
         "academic"
       ],
       "rating": 4.29,
-      "ratings": 1149,
+      "ratings": 1155,
       "reviews": 53
     },
     {
@@ -81,7 +165,7 @@
         "reference"
       ],
       "rating": 4.51,
-      "ratings": 1134,
+      "ratings": 1139,
       "reviews": 73
     },
     {
@@ -102,8 +186,8 @@
         "reference"
       ],
       "rating": 4.17,
-      "ratings": 1131,
-      "reviews": 110
+      "ratings": 1138,
+      "reviews": 111
     },
     {
       "title": "Linear Algebra and Its Applications",
@@ -122,9 +206,9 @@
         "reference",
         "computer-science"
       ],
-      "rating": 4.3,
-      "ratings": 1125,
-      "reviews": 50
+      "rating": 4.29,
+      "ratings": 1135,
+      "reviews": 51
     },
     {
       "title": "Linear Algebra Done Right",
@@ -140,11 +224,11 @@
         "non-fiction",
         "science",
         "algebra",
-        "reference",
-        "technical"
+        "technical",
+        "reference"
       ],
       "rating": 4.37,
-      "ratings": 1104,
+      "ratings": 1118,
       "reviews": 76
     },
     {
@@ -157,16 +241,16 @@
       ],
       "genres": [
         "programming",
-        "non-fiction",
         "computer-science",
+        "non-fiction",
         "science",
         "reference",
         "technology",
         "technical"
       ],
       "rating": 4.55,
-      "ratings": 1101,
-      "reviews": 101
+      "ratings": 1110,
+      "reviews": 102
     },
     {
       "title": "Computer Science Distilled: Learn the Art of Solving Computational Problems",
@@ -180,35 +264,35 @@
         "computer-science",
         "programming",
         "technology",
-        "science",
         "coding",
         "non-fiction",
+        "science",
         "technical"
       ],
       "rating": 4.08,
-      "ratings": 1081,
-      "reviews": 145
+      "ratings": 1087,
+      "reviews": 144
     },
     {
-      "title": "More Effective C++: 35 New Ways to Improve Your Programs and Designs",
-      "url": "https://www.goodreads.com/book/show/105123.More_Effective_C_",
-      "id": "2098008",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348045238i/105123.jpg",
+      "title": "CLR via C#",
+      "url": "https://www.goodreads.com/book/show/7121415-clr-via-c",
+      "id": "7382619",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388551187i/7121415.jpg",
       "authors": [
-        "Scott Meyers"
+        "Jeffrey Richter"
       ],
       "genres": [
         "programming",
-        "technical",
-        "non-fiction",
+        "technology",
         "computer-science",
+        "technical",
         "software",
         "computers",
-        "technology"
+        "non-fiction"
       ],
-      "rating": 4.34,
-      "ratings": 1059,
-      "reviews": 37
+      "rating": 4.56,
+      "ratings": 1067,
+      "reviews": 65
     },
     {
       "title": "Python Tricks: A Buffet of Awesome Python Features",
@@ -228,8 +312,29 @@
         "reference"
       ],
       "rating": 4.44,
-      "ratings": 1057,
-      "reviews": 97
+      "ratings": 1064,
+      "reviews": 96
+    },
+    {
+      "title": "More Effective C++: 35 New Ways to Improve Your Programs and Designs",
+      "url": "https://www.goodreads.com/book/show/105123.More_Effective_C_",
+      "id": "2098008",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348045238i/105123.jpg",
+      "authors": [
+        "Scott Meyers"
+      ],
+      "genres": [
+        "programming",
+        "technical",
+        "non-fiction",
+        "computer-science",
+        "software",
+        "computers",
+        "technology"
+      ],
+      "rating": 4.34,
+      "ratings": 1060,
+      "reviews": 37
     },
     {
       "title": "Kubernetes: Up & Running",
@@ -249,8 +354,29 @@
         "reference"
       ],
       "rating": 4.06,
-      "ratings": 1052,
-      "reviews": 116
+      "ratings": 1057,
+      "reviews": 117
+    },
+    {
+      "title": "Quality of Earnings",
+      "url": "https://www.goodreads.com/book/show/1758518.Quality_of_Earnings",
+      "id": "1756416",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348051099i/1758518.jpg",
+      "authors": [
+        "Thornton L. O'glove"
+      ],
+      "genres": [
+        "finance",
+        "business",
+        "accounting",
+        "non-fiction",
+        "economics",
+        "money",
+        "technical"
+      ],
+      "rating": 4.14,
+      "ratings": 1045,
+      "reviews": 49
     },
     {
       "title": "The Ruby Programming Language: Everything You Need to Know",
@@ -274,27 +400,6 @@
       "reviews": 34
     },
     {
-      "title": "Quality of Earnings",
-      "url": "https://www.goodreads.com/book/show/1758518.Quality_of_Earnings",
-      "id": "1756416",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348051099i/1758518.jpg",
-      "authors": [
-        "Thornton L. O'glove"
-      ],
-      "genres": [
-        "finance",
-        "business",
-        "accounting",
-        "economics",
-        "non-fiction",
-        "money",
-        "technical"
-      ],
-      "rating": 4.14,
-      "ratings": 1034,
-      "reviews": 48
-    },
-    {
       "title": "Computer Systems: A Programmer's Perspective",
       "url": "https://www.goodreads.com/book/show/829182.Computer_Systems",
       "id": "814871",
@@ -306,13 +411,13 @@
         "computer-science",
         "programming",
         "technology",
-        "textbooks",
         "computers",
+        "textbooks",
         "technical",
         "non-fiction"
       ],
       "rating": 4.45,
-      "ratings": 1029,
+      "ratings": 1037,
       "reviews": 58
     },
     {
@@ -330,15 +435,15 @@
         "science",
         "non-fiction",
         "technology",
-        "electrical-engineering"
+        "textbooks"
       ],
       "rating": 4.37,
-      "ratings": 995,
-      "reviews": 29
+      "ratings": 997,
+      "reviews": 30
     },
     {
-      "title": "Python Cookbook, Third Edition",
-      "url": "https://www.goodreads.com/book/show/17152735-python-cookbook-third-edition",
+      "title": "Python Cookbook: Recipes for Mastering Python 3",
+      "url": "https://www.goodreads.com/book/show/17152735-python-cookbook",
       "id": "23572421",
       "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1368812217i/17152735.jpg",
       "authors": [
@@ -354,7 +459,7 @@
         "computers"
       ],
       "rating": 4.17,
-      "ratings": 994,
+      "ratings": 996,
       "reviews": 51
     },
     {
@@ -374,29 +479,8 @@
         "academic",
         "technical"
       ],
-      "rating": 4.13,
-      "ratings": 983,
-      "reviews": 47
-    },
-    {
-      "title": "Mathematical Methods in the Physical Sciences",
-      "url": "https://www.goodreads.com/book/show/774911.Mathematical_Methods_in_the_Physical_Sciences",
-      "id": "760951",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1387736697i/774911.jpg",
-      "authors": [
-        "Mary L. Boas"
-      ],
-      "genres": [
-        "physics",
-        "mathematics",
-        "science",
-        "textbooks",
-        "non-fiction",
-        "reference",
-        "technical"
-      ],
-      "rating": 4.2,
-      "ratings": 970,
+      "rating": 4.12,
+      "ratings": 986,
       "reviews": 48
     },
     {
@@ -416,93 +500,9 @@
         "software",
         "textbooks"
       ],
-      "rating": 4.29,
-      "ratings": 968,
-      "reviews": 102
-    },
-    {
-      "title": "Software Estimation: Demystifying the Black Art",
-      "url": "https://www.goodreads.com/book/show/93891.Software_Estimation",
-      "id": "90512",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1396830924i/93891.jpg",
-      "authors": [
-        "Steve McConnell"
-      ],
-      "genres": [
-        "programming",
-        "software",
-        "management",
-        "technology",
-        "non-fiction",
-        "computer-science",
-        "technical"
-      ],
-      "rating": 4.05,
-      "ratings": 964,
-      "reviews": 62
-    },
-    {
-      "title": "The Joy of Clojure",
-      "url": "https://www.goodreads.com/book/show/8129142-the-joy-of-clojure",
-      "id": "12924863",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1272940175i/8129142.jpg",
-      "authors": [
-        "Michael Fogus"
-      ],
-      "genres": [
-        "programming",
-        "computer-science",
-        "technology",
-        "computers",
-        "technical",
-        "software",
-        "non-fiction"
-      ],
-      "rating": 4.18,
-      "ratings": 954,
-      "reviews": 50
-    },
-    {
-      "title": "UNIX and Linux System Administration Handbook",
-      "url": "https://www.goodreads.com/book/show/8772005-unix-and-linux-system-administration-handbook",
-      "id": "13645501",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1415581344i/8772005.jpg",
-      "authors": [
-        "Evi Nemeth"
-      ],
-      "genres": [
-        "technology",
-        "programming",
-        "computer-science",
-        "reference",
-        "technical",
-        "non-fiction",
-        "computers"
-      ],
-      "rating": 4.44,
-      "ratings": 943,
-      "reviews": 50
-    },
-    {
-      "title": "Red Team Field Manual",
-      "url": "https://www.goodreads.com/book/show/21419959-red-team-field-manual",
-      "id": "40723153",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1436338407i/21419959.jpg",
-      "authors": [
-        "Ben Clark"
-      ],
-      "genres": [
-        "hackers",
-        "technology",
-        "computer-science",
-        "reference",
-        "non-fiction",
-        "technical",
-        "computers"
-      ],
-      "rating": 4.22,
-      "ratings": 937,
-      "reviews": 32
+      "rating": 4.3,
+      "ratings": 984,
+      "reviews": 104
     }
   ]
 }

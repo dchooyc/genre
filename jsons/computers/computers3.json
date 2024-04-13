@@ -1,6 +1,132 @@
 {
   "books": [
     {
+      "title": "The Linux Programming Interface: A Linux and UNIX System Programming Handbook",
+      "url": "https://www.goodreads.com/book/show/7672214-the-linux-programming-interface",
+      "id": "10286833",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1391032547i/7672214.jpg",
+      "authors": [
+        "Michael Kerrisk"
+      ],
+      "genres": [
+        "programming",
+        "computer-science",
+        "technology",
+        "reference",
+        "technical",
+        "software",
+        "computers"
+      ],
+      "rating": 4.63,
+      "ratings": 657,
+      "reviews": 40
+    },
+    {
+      "title": "Introduction to Automata Theory, Languages, and Computation",
+      "url": "https://www.goodreads.com/book/show/1384026.Introduction_to_Automata_Theory_Languages_and_Computation",
+      "id": "1374051",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1387668734i/1384026.jpg",
+      "authors": [
+        "John E. Hopcroft"
+      ],
+      "genres": [
+        "computer-science",
+        "programming",
+        "reference",
+        "mathematics",
+        "computers",
+        "science",
+        "technical"
+      ],
+      "rating": 4.05,
+      "ratings": 655,
+      "reviews": 29
+    },
+    {
+      "title": "Linux Pocket Guide",
+      "url": "https://www.goodreads.com/book/show/128172.Linux_Pocket_Guide",
+      "id": "123439",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328834323i/128172.jpg",
+      "authors": [
+        "Daniel J. Barrett"
+      ],
+      "genres": [
+        "reference",
+        "programming",
+        "computer-science",
+        "non-fiction",
+        "technology",
+        "technical",
+        "computers"
+      ],
+      "rating": 4.07,
+      "ratings": 637,
+      "reviews": 31
+    },
+    {
+      "title": "Scala for the Impatient",
+      "url": "https://www.goodreads.com/book/show/11335855-scala-for-the-impatient",
+      "id": "16264400",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348110005i/11335855.jpg",
+      "authors": [
+        "Cay S. Horstmann"
+      ],
+      "genres": [
+        "programming",
+        "technology",
+        "technical",
+        "computer-science",
+        "software",
+        "non-fiction",
+        "computers"
+      ],
+      "rating": 4.1,
+      "ratings": 637,
+      "reviews": 54
+    },
+    {
+      "title": "Effective STL: 50 Specific Ways to Improve Your Use of the Standard Template Library",
+      "url": "https://www.goodreads.com/book/show/105124.Effective_STL",
+      "id": "101341",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1349046800i/105124.jpg",
+      "authors": [
+        "Scott Meyers"
+      ],
+      "genres": [
+        "programming",
+        "computer-science",
+        "technical",
+        "non-fiction",
+        "computers",
+        "software",
+        "technology"
+      ],
+      "rating": 4.22,
+      "ratings": 613,
+      "reviews": 28
+    },
+    {
+      "title": "Ry's Git Tutorial",
+      "url": "https://www.goodreads.com/book/show/23951943-ry-s-git-tutorial",
+      "id": "43298217",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1437820681i/23951943.jpg",
+      "authors": [
+        "Ryan Hodson"
+      ],
+      "genres": [
+        "programming",
+        "technology",
+        "non-fiction",
+        "technical",
+        "computers",
+        "reference",
+        "unfinished"
+      ],
+      "rating": 4.33,
+      "ratings": 603,
+      "reviews": 48
+    },
+    {
       "title": "Operating Systems: Three Easy Pieces",
       "url": "https://www.goodreads.com/book/show/17374825-operating-systems",
       "id": "24163446",
@@ -13,13 +139,13 @@
         "programming",
         "technology",
         "technical",
-        "non-fiction",
         "computers",
+        "non-fiction",
         "software"
       ],
       "rating": 4.69,
-      "ratings": 586,
-      "reviews": 63
+      "ratings": 595,
+      "reviews": 65
     },
     {
       "title": "Computer Organization and Architecture",
@@ -38,8 +164,8 @@
         "textbooks",
         "science"
       ],
-      "rating": 4.05,
-      "ratings": 571,
+      "rating": 4.06,
+      "ratings": 573,
       "reviews": 26
     },
     {
@@ -60,7 +186,7 @@
         "engineering"
       ],
       "rating": 4.31,
-      "ratings": 567,
+      "ratings": 566,
       "reviews": 64
     },
     {
@@ -81,7 +207,7 @@
         "computers"
       ],
       "rating": 4.48,
-      "ratings": 562,
+      "ratings": 564,
       "reviews": 29
     },
     {
@@ -106,27 +232,6 @@
       "reviews": 34
     },
     {
-      "title": "Reversing: Secrets of Reverse Engineering",
-      "url": "https://www.goodreads.com/book/show/1067264.Reversing",
-      "id": "1053920",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348252738i/1067264.jpg",
-      "authors": [
-        "Eldad Eilam"
-      ],
-      "genres": [
-        "computer-science",
-        "programming",
-        "technical",
-        "hackers",
-        "technology",
-        "reference",
-        "computers"
-      ],
-      "rating": 4.1,
-      "ratings": 544,
-      "reviews": 20
-    },
-    {
       "title": "Clojure for the Brave and True",
       "url": "https://www.goodreads.com/book/show/20873338-clojure-for-the-brave-and-true",
       "id": "40212034",
@@ -144,8 +249,29 @@
         "computers"
       ],
       "rating": 4.28,
-      "ratings": 543,
-      "reviews": 66
+      "ratings": 545,
+      "reviews": 67
+    },
+    {
+      "title": "Reversing: Secrets of Reverse Engineering",
+      "url": "https://www.goodreads.com/book/show/1067264.Reversing",
+      "id": "1053920",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348252738i/1067264.jpg",
+      "authors": [
+        "Eldad Eilam"
+      ],
+      "genres": [
+        "computer-science",
+        "programming",
+        "hackers",
+        "technical",
+        "technology",
+        "reference",
+        "computers"
+      ],
+      "rating": 4.11,
+      "ratings": 542,
+      "reviews": 20
     },
     {
       "title": "Violent Python: A Cookbook for Hackers, Forensic Analysts, Penetration Testers and Security Engineers",
@@ -165,8 +291,29 @@
         "computers"
       ],
       "rating": 4.03,
-      "ratings": 537,
+      "ratings": 540,
       "reviews": 32
+    },
+    {
+      "title": "Gray Hat Hacking : The Ethical Hacker's Handbook",
+      "url": "https://www.goodreads.com/book/show/61621.Gray_Hat_Hacking_",
+      "id": "59930",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1390348780i/61621.jpg",
+      "authors": [
+        "Shon Harris"
+      ],
+      "genres": [
+        "hackers",
+        "non-fiction",
+        "technology",
+        "computer-science",
+        "programming",
+        "technical",
+        "computers"
+      ],
+      "rating": 4.08,
+      "ratings": 521,
+      "reviews": 16
     },
     {
       "title": "Programming Rust: Fast, Safe Systems Development",
@@ -186,8 +333,29 @@
         "computers"
       ],
       "rating": 4.63,
-      "ratings": 503,
+      "ratings": 517,
       "reviews": 56
+    },
+    {
+      "title": "Androids: The Team That Built the Android Operating System",
+      "url": "https://www.goodreads.com/book/show/58753360-androids",
+      "id": "92491274",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1628745983i/58753360.jpg",
+      "authors": [
+        "Chet Haase"
+      ],
+      "genres": [
+        "technology",
+        "non-fiction",
+        "business",
+        "programming",
+        "history",
+        "computers",
+        "science"
+      ],
+      "rating": 4.3,
+      "ratings": 511,
+      "reviews": 76
     },
     {
       "title": "The Road to React",
@@ -207,7 +375,7 @@
         "computers"
       ],
       "rating": 4.23,
-      "ratings": 501,
+      "ratings": 505,
       "reviews": 72
     }
   ]

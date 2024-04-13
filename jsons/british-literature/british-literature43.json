@@ -1,64 +1,339 @@
 {
   "books": [
     {
-      "title": "The Invincible Miss Cust",
-      "url": "https://www.goodreads.com/book/show/60093446-the-invincible-miss-cust",
-      "id": "94753553",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1641820798i/60093446.jpg",
+      "title": "Young Men in Spats",
+      "url": "https://www.goodreads.com/book/show/16241167-young-men-in-spats",
+      "id": "768369",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1370228353i/16241167.jpg",
       "authors": [
-        "Penny Haw"
+        "P.G. Wodehouse"
+      ],
+      "genres": [
+        "fiction",
+        "humor",
+        "short-stories",
+        "classics",
+        "comedy",
+        "british-literature",
+        "literature"
+      ],
+      "rating": 4.12,
+      "ratings": 1945,
+      "reviews": 235
+    },
+    {
+      "title": "Aristocrats: Caroline, Emily, Louisa, and Sarah Lennox, 1740-1832",
+      "url": "https://www.goodreads.com/book/show/306822.Aristocrats",
+      "id": "297802",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1312003907i/306822.jpg",
+      "authors": [
+        "Stella Tillyard"
+      ],
+      "genres": [
+        "history",
+        "non-fiction",
+        "biography",
+        "18th-century",
+        "historical",
+        "british-literature",
+        "19th-century"
+      ],
+      "rating": 4.1,
+      "ratings": 1943,
+      "reviews": 103
+    },
+    {
+      "title": "George and the Big Bang",
+      "url": "https://www.goodreads.com/book/show/12254770-george-and-the-big-bang",
+      "id": "17229417",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1337495867i/12254770.jpg",
+      "authors": [
+        "Lucy Hawking"
+      ],
+      "genres": [
+        "science",
+        "childrens",
+        "adventure",
+        "non-fiction",
+        "middle-grade",
+        "astronomy",
+        "british-literature"
+      ],
+      "rating": 4.24,
+      "ratings": 1942,
+      "reviews": 127
+    },
+    {
+      "title": "The Other Side of the Dale",
+      "url": "https://www.goodreads.com/book/show/924490.The_Other_Side_of_the_Dale",
+      "id": "909506",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1322654554i/924490.jpg",
+      "authors": [
+        "Gervase Phinn"
+      ],
+      "genres": [
+        "non-fiction",
+        "biography",
+        "memoir",
+        "humor",
+        "autobiography",
+        "education",
+        "british-literature"
+      ],
+      "rating": 4.06,
+      "ratings": 1939,
+      "reviews": 181
+    },
+    {
+      "title": "The Lamp of the Wicked",
+      "url": "https://www.goodreads.com/book/show/325750.The_Lamp_of_the_Wicked",
+      "id": "1779116",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1315413700i/325750.jpg",
+      "authors": [
+        "Phil Rickman"
+      ],
+      "genres": [
+        "mystery",
+        "fiction",
+        "crime",
+        "supernatural",
+        "paranormal",
+        "british-literature",
+        "horror"
+      ],
+      "rating": 4.22,
+      "ratings": 1939,
+      "reviews": 108
+    },
+    {
+      "title": "Elizabeth & Leicester: Power, Passion, Politics",
+      "url": "https://www.goodreads.com/book/show/846377.Elizabeth_Leicester",
+      "id": "831897",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442767044i/846377.jpg",
+      "authors": [
+        "Sarah Gristwood"
+      ],
+      "genres": [
+        "history",
+        "non-fiction",
+        "biography",
+        "tudor-period",
+        "historical",
+        "british-literature",
+        "16th-century"
+      ],
+      "rating": 4,
+      "ratings": 1936,
+      "reviews": 86
+    },
+    {
+      "title": "The Rose Garden",
+      "url": "https://www.goodreads.com/book/show/58170552-the-rose-garden",
+      "id": "90075214",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1622072358i/58170552.jpg",
+      "authors": [
+        "Tracy Rees"
+      ],
+      "genres": [
+        "historical-fiction",
+        "historical",
+        "fiction",
+        "roman",
+        "romance",
+        "audiobook",
+        "british-literature"
+      ],
+      "rating": 4.14,
+      "ratings": 1934,
+      "reviews": 200
+    },
+    {
+      "title": "The Village Green Bookshop",
+      "url": "https://www.goodreads.com/book/show/57277825-the-village-green-bookshop",
+      "id": "89626923",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1614631831i/57277825.jpg",
+      "authors": [
+        "Rachael Lucas"
+      ],
+      "genres": [
+        "romance",
+        "fiction",
+        "contemporary",
+        "family",
+        "british-literature",
+        "chick-lit",
+        "contemporary-romance"
+      ],
+      "rating": 4.09,
+      "ratings": 1933,
+      "reviews": 175
+    },
+    {
+      "title": "Date with Mystery",
+      "url": "https://www.goodreads.com/book/show/63361398-date-with-mystery",
+      "id": "57771804",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1669681446i/63361398.jpg",
+      "authors": [
+        "Julia Chapman"
+      ],
+      "genres": [
+        "mystery",
+        "cozy-mystery",
+        "crime",
+        "fiction",
+        "british-literature",
+        "contemporary",
+        "detective"
+      ],
+      "rating": 4.16,
+      "ratings": 1930,
+      "reviews": 171
+    },
+    {
+      "title": "Alan Partridge: Big Beacon",
+      "url": "https://www.goodreads.com/book/show/150085659-alan-partridge",
+      "id": "164962041",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1693174929i/150085659.jpg",
+      "authors": [
+        "Alan Partridge"
+      ],
+      "genres": [
+        "comedy",
+        "fiction",
+        "audiobook",
+        "humor",
+        "tv",
+        "british-literature",
+        "21st-century"
+      ],
+      "rating": 4.31,
+      "ratings": 1930,
+      "reviews": 173
+    },
+    {
+      "title": "One-way Tickets: A Case For Willows and Lane",
+      "url": "https://www.goodreads.com/book/show/38333847-one-way-tickets",
+      "id": "59991042",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1517622616i/38333847.jpg",
+      "authors": [
+        "Peter Grainger"
+      ],
+      "genres": [
+        "mystery",
+        "fiction",
+        "audiobook",
+        "thriller",
+        "british-literature",
+        "detective",
+        "crime"
+      ],
+      "rating": 4.21,
+      "ratings": 1925,
+      "reviews": 100
+    },
+    {
+      "title": "Layer Cake",
+      "url": "https://www.goodreads.com/book/show/29421.Layer_Cake",
+      "id": "29877",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442637049i/29421.jpg",
+      "authors": [
+        "J.J. Connolly"
+      ],
+      "genres": [
+        "fiction",
+        "crime",
+        "mystery",
+        "thriller",
+        "british-literature",
+        "contemporary",
+        "media-tie-in"
+      ],
+      "rating": 4.02,
+      "ratings": 1919,
+      "reviews": 136
+    },
+    {
+      "title": "Four Puddings and a Funeral",
+      "url": "https://www.goodreads.com/book/show/50658038-four-puddings-and-a-funeral",
+      "id": "55926613",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1580009443i/50658038.jpg",
+      "authors": [
+        "H.Y. Hanna"
+      ],
+      "genres": [
+        "mystery",
+        "cozy-mystery",
+        "fiction",
+        "romance",
+        "humor",
+        "british-literature",
+        "audiobook"
+      ],
+      "rating": 4.37,
+      "ratings": 1918,
+      "reviews": 145
+    },
+    {
+      "title": "The Land Girls of Goodwill House",
+      "url": "https://www.goodreads.com/book/show/61866455-the-land-girls-of-goodwill-house",
+      "id": "97532514",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1659709782i/61866455.jpg",
+      "authors": [
+        "Fenella J. Miller"
       ],
       "genres": [
         "historical-fiction",
         "fiction",
+        "romance",
         "historical",
-        "ireland",
-        "animals",
-        "british-literature",
-        "audiobook"
-      ],
-      "rating": 4.2,
-      "ratings": 1802,
-      "reviews": 276
-    },
-    {
-      "title": "Down Among the Dead Men",
-      "url": "https://www.goodreads.com/book/show/23602705-down-among-the-dead-men",
-      "id": "43122901",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1427547666i/23602705.jpg",
-      "authors": [
-        "Peter Lovesey"
-      ],
-      "genres": [
-        "mystery",
-        "fiction",
-        "crime",
-        "detective",
-        "british-literature",
-        "mystery-thriller",
-        "police"
-      ],
-      "rating": 4.03,
-      "ratings": 1802,
-      "reviews": 243
-    },
-    {
-      "title": "Murder on the Cliff",
-      "url": "https://www.goodreads.com/book/show/59646949-murder-on-the-cliff",
-      "id": "5266921",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1637205548i/59646949.jpg",
-      "authors": [
-        "Jane A. Adams"
-      ],
-      "genres": [
-        "mystery",
-        "fiction",
-        "crime",
+        "audiobook",
+        "world-war-ii",
         "british-literature"
       ],
-      "rating": 4.38,
-      "ratings": 1795,
-      "reviews": 50
+      "rating": 4.5,
+      "ratings": 1916,
+      "reviews": 47
+    },
+    {
+      "title": "A Home From Home",
+      "url": "https://www.goodreads.com/book/show/43777596-a-home-from-home",
+      "id": "68109613",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1564419195i/43777596.jpg",
+      "authors": [
+        "Veronica Henry"
+      ],
+      "genres": [
+        "romance",
+        "chick-lit",
+        "fiction",
+        "contemporary",
+        "british-literature",
+        "womens-fiction"
+      ],
+      "rating": 4.29,
+      "ratings": 1916,
+      "reviews": 207
+    },
+    {
+      "title": "Owen",
+      "url": "https://www.goodreads.com/book/show/25981952-owen",
+      "id": "46116651",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1437902667i/25981952.jpg",
+      "authors": [
+        "Tony Riches"
+      ],
+      "genres": [
+        "historical-fiction",
+        "fiction",
+        "tudor-period",
+        "historical",
+        "medieval",
+        "15th-century",
+        "british-literature"
+      ],
+      "rating": 4.05,
+      "ratings": 1912,
+      "reviews": 181
     },
     {
       "title": "Shameful Secrets on Coronation Close",
@@ -72,72 +347,133 @@
         "historical-fiction",
         "british-literature"
       ],
-      "rating": 4.49,
-      "ratings": 1792,
-      "reviews": 40
+      "rating": 4.48,
+      "ratings": 1908,
+      "reviews": 45
     },
     {
-      "title": "Twenty Thousand Streets Under the Sky",
-      "url": "https://www.goodreads.com/book/show/169524.Twenty_Thousand_Streets_Under_the_Sky",
-      "id": "2776786",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1298457586i/169524.jpg",
+      "title": "The Bone Garden",
+      "url": "https://www.goodreads.com/book/show/757726.The_Bone_Garden",
+      "id": "26365176",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1311986295i/757726.jpg",
       "authors": [
-        "Patrick Hamilton"
+        "Kate Ellis"
       ],
       "genres": [
+        "mystery",
+        "crime",
         "fiction",
-        "classics",
+        "archaeology",
         "british-literature",
-        "modern-classics",
-        "literature",
-        "20th-century",
-        "literary-fiction"
+        "detective",
+        "historical-fiction"
       ],
-      "rating": 4.26,
-      "ratings": 1789,
-      "reviews": 177
+      "rating": 4.06,
+      "ratings": 1901,
+      "reviews": 114
     },
     {
-      "title": "For Those Who Are Lost",
-      "url": "https://www.goodreads.com/book/show/59737086-for-those-who-are-lost",
-      "id": "94538785",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1642673174i/59737086.jpg",
+      "title": "The Price of Blood",
+      "url": "https://www.goodreads.com/book/show/22571643-the-price-of-blood",
+      "id": "41440421",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1403636771i/22571643.jpg",
       "authors": [
-        "Julia Bryan Thomas"
+        "Patricia Bracewell"
       ],
       "genres": [
         "historical-fiction",
-        "fiction",
-        "world-war-ii",
-        "adult",
         "historical",
-        "war",
-        "british-literature"
+        "fiction",
+        "british-literature",
+        "11th-century",
+        "medieval",
+        "adult"
       ],
-      "rating": 4.14,
-      "ratings": 1788,
-      "reviews": 226
+      "rating": 4.08,
+      "ratings": 1898,
+      "reviews": 229
     },
     {
-      "title": "Miss Silver Deals With Death",
-      "url": "https://www.goodreads.com/book/show/1332179.Miss_Silver_Deals_With_Death",
-      "id": "1321689",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1387741656i/1332179.jpg",
+      "title": "Diana - Closely Guarded Secret",
+      "url": "https://www.goodreads.com/book/show/25888978-diana---closely-guarded-secret",
+      "id": "45769463",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1441622142i/25888978.jpg",
       "authors": [
-        "Patricia Wentworth"
+        "Ken Wharfe"
+      ],
+      "genres": [
+        "non-fiction",
+        "biography",
+        "history",
+        "british-literature",
+        "memoir",
+        "biography-memoir",
+        "autobiography"
+      ],
+      "rating": 4,
+      "ratings": 1892,
+      "reviews": 100
+    },
+    {
+      "title": "Ivy Lane",
+      "url": "https://www.goodreads.com/book/show/23474472-ivy-lane",
+      "id": "42905467",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1414593855i/23474472.jpg",
+      "authors": [
+        "Cathy Bramley"
+      ],
+      "genres": [
+        "chick-lit",
+        "romance",
+        "fiction",
+        "contemporary",
+        "contemporary-romance",
+        "audiobook",
+        "british-literature"
+      ],
+      "rating": 4.12,
+      "ratings": 1891,
+      "reviews": 198
+    },
+    {
+      "title": "The Orphan's Daughter",
+      "url": "https://www.goodreads.com/book/show/48849043-the-orphan-s-daughter",
+      "id": "74236917",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1580746150i/48849043.jpg",
+      "authors": [
+        "Sandy Taylor"
+      ],
+      "genres": [
+        "historical-fiction",
+        "irish-literature",
+        "fiction",
+        "british-literature",
+        "historical"
+      ],
+      "rating": 4.47,
+      "ratings": 1889,
+      "reviews": 92
+    },
+    {
+      "title": "The Tale of Cuckoo Brow Wood",
+      "url": "https://www.goodreads.com/book/show/73096.The_Tale_of_Cuckoo_Brow_Wood",
+      "id": "44876472",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1416576748i/73096.jpg",
+      "authors": [
+        "Susan Wittig Albert"
       ],
       "genres": [
         "mystery",
         "fiction",
+        "historical-fiction",
         "cozy-mystery",
-        "crime",
-        "british-literature",
-        "golden-age-mystery",
-        "audiobook"
+        "fantasy",
+        "historical",
+        "british-literature"
       ],
-      "rating": 4.03,
-      "ratings": 1785,
-      "reviews": 133
+      "rating": 4.08,
+      "ratings": 1889,
+      "reviews": 173
     },
     {
       "title": "Her Dark Heart",
@@ -157,332 +493,8 @@
         "british-literature"
       ],
       "rating": 4.21,
-      "ratings": 1777,
-      "reviews": 162
-    },
-    {
-      "title": "Christmas Lights and Snowball Fights",
-      "url": "https://www.goodreads.com/book/show/55621481-christmas-lights-and-snowball-fights",
-      "id": "86739492",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1671367509i/55621481.jpg",
-      "authors": [
-        "Beth Rain"
-      ],
-      "genres": [
-        "christmas",
-        "romance",
-        "contemporary",
-        "holiday",
-        "novella",
-        "fiction",
-        "british-literature"
-      ],
-      "rating": 4.47,
-      "ratings": 1776,
-      "reviews": 59
-    },
-    {
-      "title": "The Corpse of St James's",
-      "url": "https://www.goodreads.com/book/show/57361721-the-corpse-of-st-james-s",
-      "id": "89776974",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1615320775i/57361721.jpg",
-      "authors": [
-        "Jeanne M. Dams"
-      ],
-      "genres": [
-        "mystery",
-        "cozy-mystery",
-        "fiction",
-        "mystery-thriller",
-        "british-literature",
-        "crime"
-      ],
-      "rating": 4.14,
-      "ratings": 1767,
-      "reviews": 72
-    },
-    {
-      "title": "The Summons",
-      "url": "https://www.goodreads.com/book/show/60744.The_Summons",
-      "id": "1455410",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1394405219i/60744.jpg",
-      "authors": [
-        "Peter Lovesey"
-      ],
-      "genres": [
-        "mystery",
-        "fiction",
-        "crime",
-        "british-literature",
-        "detective",
-        "mystery-thriller",
-        "thriller"
-      ],
-      "rating": 4.07,
-      "ratings": 1765,
-      "reviews": 148
-    },
-    {
-      "title": "The Evil That Men Do",
-      "url": "https://www.goodreads.com/book/show/57289920-the-evil-that-men-do",
-      "id": "17346580",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1614702182i/57289920.jpg",
-      "authors": [
-        "Jeanne M. Dams"
-      ],
-      "genres": [
-        "mystery",
-        "cozy-mystery",
-        "fiction",
-        "british-literature",
-        "mystery-thriller",
-        "crime"
-      ],
-      "rating": 4.24,
-      "ratings": 1763,
-      "reviews": 72
-    },
-    {
-      "title": "Victory Bells For The Harpers Girls",
-      "url": "https://www.goodreads.com/book/show/59450391-victory-bells-for-the-harpers-girls",
-      "id": "93645030",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1644753634i/59450391.jpg",
-      "authors": [
-        "Rosie Clarke"
-      ],
-      "genres": [
-        "historical-fiction",
-        "world-war-i",
-        "fiction",
-        "british-literature",
-        "historical-romance"
-      ],
-      "rating": 4.56,
-      "ratings": 1762,
-      "reviews": 53
-    },
-    {
-      "title": "The Forgotten House on the Moor ",
-      "url": "https://www.goodreads.com/book/show/61048701-the-forgotten-house-on-the-moor",
-      "id": "96208649",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1651937407i/61048701.jpg",
-      "authors": [
-        "Jane Lovering"
-      ],
-      "genres": [
-        "romance",
-        "mystery",
-        "contemporary",
-        "chick-lit",
-        "british-literature",
-        "paranormal",
-        "cozy-mystery"
-      ],
-      "rating": 4.1,
-      "ratings": 1759,
-      "reviews": 84
-    },
-    {
-      "title": "Letters from Lighthouse Cottage",
-      "url": "https://www.goodreads.com/book/show/29429793-letters-from-lighthouse-cottage",
-      "id": "49694253",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1457275606i/29429793.jpg",
-      "authors": [
-        "Ali McNamara"
-      ],
-      "genres": [
-        "chick-lit",
-        "romance",
-        "fiction",
-        "contemporary",
-        "adult",
-        "british-literature"
-      ],
-      "rating": 4.02,
-      "ratings": 1758,
-      "reviews": 226
-    },
-    {
-      "title": "Preface to Murder",
-      "url": "https://www.goodreads.com/book/show/56325599-preface-to-murder",
-      "id": "87754487",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1608264836i/56325599.jpg",
-      "authors": [
-        "M.S. Morris"
-      ],
-      "genres": [
-        "mystery",
-        "crime",
-        "fiction",
-        "murder-mystery",
-        "british-literature"
-      ],
-      "rating": 4.33,
-      "ratings": 1758,
-      "reviews": 33
-    },
-    {
-      "title": "Prufrock and Other Observations",
-      "url": "https://www.goodreads.com/book/show/197315.Prufrock_and_Other_Observations",
-      "id": "96372528",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347955075i/197315.jpg",
-      "authors": [
-        "T.S. Eliot"
-      ],
-      "genres": [
-        "poetry",
-        "classics",
-        "fiction",
-        "20th-century",
-        "literature",
-        "american",
-        "british-literature"
-      ],
-      "rating": 4.33,
-      "ratings": 1755,
-      "reviews": 99
-    },
-    {
-      "title": "Heaven and Hell for the Tobacco Girls",
-      "url": "https://www.goodreads.com/book/show/59411347-heaven-and-hell-for-the-tobacco-girls",
-      "id": "93579127",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1639948660i/59411347.jpg",
-      "authors": [
-        "Lizzie Lane"
-      ],
-      "genres": [
-        "historical-fiction",
-        "british-literature"
-      ],
-      "rating": 4.54,
-      "ratings": 1755,
-      "reviews": 46
-    },
-    {
-      "title": "The Adventures of Sherlock Holmes",
-      "url": "https://www.goodreads.com/book/show/831277.The_Adventures_of_Sherlock_Holmes",
-      "id": "21402396",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328861130i/831277.jpg",
-      "authors": [
-        "Chris Sasaki"
-      ],
-      "genres": [
-        "classics",
-        "mystery",
-        "fiction",
-        "childrens",
-        "short-stories",
-        "british-literature",
-        "adventure"
-      ],
-      "rating": 4.39,
-      "ratings": 1750,
-      "reviews": 83
-    },
-    {
-      "title": "The Champion",
-      "url": "https://www.goodreads.com/book/show/509957.The_Champion",
-      "id": "497969",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328533004i/509957.jpg",
-      "authors": [
-        "Elizabeth Chadwick"
-      ],
-      "genres": [
-        "historical-fiction",
-        "historical",
-        "medieval",
-        "romance",
-        "historical-romance",
-        "fiction",
-        "british-literature"
-      ],
-      "rating": 4.11,
-      "ratings": 1747,
-      "reviews": 93
-    },
-    {
-      "title": "The Night Hunter",
-      "url": "https://www.goodreads.com/book/show/58398655-the-night-hunter",
-      "id": "40337030",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1624341138i/58398655.jpg",
-      "authors": [
-        "Caro Ramsay"
-      ],
-      "genres": [
-        "crime",
-        "mystery",
-        "scotland",
-        "fiction",
-        "audiobook",
-        "british-literature",
-        "thriller"
-      ],
-      "rating": 4.13,
-      "ratings": 1747,
-      "reviews": 60
-    },
-    {
-      "title": "The Deepest Grave",
-      "url": "https://www.goodreads.com/book/show/35441869-the-deepest-grave",
-      "id": "56121728",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1497555636i/35441869.jpg",
-      "authors": [
-        "Harry Bingham"
-      ],
-      "genres": [
-        "mystery",
-        "crime",
-        "fiction",
-        "thriller",
-        "british-literature",
-        "suspense",
-        "mystery-thriller"
-      ],
-      "rating": 4.37,
-      "ratings": 1746,
-      "reviews": 255
-    },
-    {
-      "title": "The Last Days of Henry VIII",
-      "url": "https://www.goodreads.com/book/show/10107.The_Last_Days_of_Henry_VIII",
-      "id": "12844",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1166115525i/10107.jpg",
-      "authors": [
-        "Robert Hutchinson"
-      ],
-      "genres": [
-        "history",
-        "non-fiction",
-        "biography",
-        "tudor-period",
-        "biography-memoir",
-        "british-literature",
-        "historical"
-      ],
-      "rating": 4.14,
-      "ratings": 1744,
-      "reviews": 45
-    },
-    {
-      "title": "This Thing of Darkness",
-      "url": "https://www.goodreads.com/book/show/25222507-this-thing-of-darkness",
-      "id": "43716873",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1427374095i/25222507.jpg",
-      "authors": [
-        "Harry Bingham"
-      ],
-      "genres": [
-        "mystery",
-        "crime",
-        "fiction",
-        "thriller",
-        "british-literature",
-        "detective",
-        "suspense"
-      ],
-      "rating": 4.3,
-      "ratings": 1744,
-      "reviews": 201
+      "ratings": 1886,
+      "reviews": 170
     }
   ]
 }

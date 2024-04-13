@@ -1,6 +1,27 @@
 {
   "books": [
     {
+      "title": "The Lost Patrol",
+      "url": "https://www.goodreads.com/book/show/31176913-the-lost-patrol",
+      "id": "51814301",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1468944530i/31176913.jpg",
+      "authors": [
+        "Vaughn Heppner"
+      ],
+      "genres": [
+        "science-fiction",
+        "space-opera",
+        "aliens",
+        "military-science-fiction",
+        "military-fiction",
+        "artificial-intelligence",
+        "adventure"
+      ],
+      "rating": 4.33,
+      "ratings": 2460,
+      "reviews": 84
+    },
+    {
       "title": "Hands-On Machine Learning with Scikit-Learn and TensorFlow",
       "url": "https://www.goodreads.com/book/show/32899495-hands-on-machine-learning-with-scikit-learn-and-tensorflow",
       "id": "53513052",
@@ -15,95 +36,32 @@
         "technology",
         "non-fiction",
         "technical",
-        "coding"
+        "textbooks"
       ],
-      "rating": 4.55,
-      "ratings": 2419,
-      "reviews": 181
+      "rating": 4.56,
+      "ratings": 2455,
+      "reviews": 184
     },
     {
-      "title": "Chaos Vector",
-      "url": "https://www.goodreads.com/book/show/49088636-chaos-vector",
-      "id": "74523693",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1582303535i/49088636.jpg",
+      "title": "God, Human, Animal, Machine: Technology, Metaphor, and the Search for Meaning",
+      "url": "https://www.goodreads.com/book/show/56097578-god-human-animal-machine",
+      "id": "87380849",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1611107182i/56097578.jpg",
       "authors": [
-        "Megan E. O'Keefe"
-      ],
-      "genres": [
-        "science-fiction",
-        "space-opera",
-        "fiction",
-        "artificial-intelligence",
-        "space",
-        "fantasy",
-        "audiobook"
-      ],
-      "rating": 4.2,
-      "ratings": 2417,
-      "reviews": 247
-    },
-    {
-      "title": "Farmer",
-      "url": "https://www.goodreads.com/book/show/52905200-farmer",
-      "id": "73776335",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1571088886l/52905200.jpg",
-      "authors": [
-        "Tom Larcombe"
-      ],
-      "genres": [
-        "fantasy",
-        "science-fiction",
-        "crafts",
-        "audiobook",
-        "artificial-intelligence",
-        "fiction",
-        "magic"
-      ],
-      "rating": 4.27,
-      "ratings": 2364,
-      "reviews": 168
-    },
-    {
-      "title": "Deep Medicine: How Artificial Intelligence Can Make Healthcare Human Again",
-      "url": "https://www.goodreads.com/book/show/40915762-deep-medicine",
-      "id": "63790687",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1546028482i/40915762.jpg",
-      "authors": [
-        "Eric J. Topol"
-      ],
-      "genres": [
-        "science",
-        "non-fiction",
-        "medicine",
-        "health-care",
-        "artificial-intelligence",
-        "health",
-        "technology"
-      ],
-      "rating": 4.04,
-      "ratings": 2348,
-      "reviews": 249
-    },
-    {
-      "title": "The Conscious Mind: In Search of a Fundamental Theory",
-      "url": "https://www.goodreads.com/book/show/144960.The_Conscious_Mind",
-      "id": "1494892",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348760894i/144960.jpg",
-      "authors": [
-        "David J. Chalmers"
+        "Meghan O'Gieblyn"
       ],
       "genres": [
         "philosophy",
-        "psychology",
         "non-fiction",
         "science",
-        "neuroscience",
-        "metaphysics",
-        "artificial-intelligence"
+        "technology",
+        "religion",
+        "artificial-intelligence",
+        "psychology"
       ],
-      "rating": 4,
-      "ratings": 2314,
-      "reviews": 97
+      "rating": 4.27,
+      "ratings": 2444,
+      "reviews": 321
     },
     {
       "title": "Artificial Intelligence: A Guide for Thinking Humans",
@@ -123,8 +81,71 @@
         "business"
       ],
       "rating": 4.39,
-      "ratings": 2251,
-      "reviews": 329
+      "ratings": 2398,
+      "reviews": 348
+    },
+    {
+      "title": "Farmer",
+      "url": "https://www.goodreads.com/book/show/52905200-farmer",
+      "id": "73776335",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1571088886l/52905200.jpg",
+      "authors": [
+        "Tom Larcombe"
+      ],
+      "genres": [
+        "fantasy",
+        "science-fiction",
+        "crafts",
+        "audiobook",
+        "artificial-intelligence",
+        "fiction",
+        "magic"
+      ],
+      "rating": 4.28,
+      "ratings": 2397,
+      "reviews": 170
+    },
+    {
+      "title": "Deep Medicine: How Artificial Intelligence Can Make Healthcare Human Again",
+      "url": "https://www.goodreads.com/book/show/40915762-deep-medicine",
+      "id": "63790687",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1546028482i/40915762.jpg",
+      "authors": [
+        "Eric J. Topol"
+      ],
+      "genres": [
+        "science",
+        "non-fiction",
+        "medicine",
+        "health-care",
+        "artificial-intelligence",
+        "health",
+        "technology"
+      ],
+      "rating": 4.03,
+      "ratings": 2397,
+      "reviews": 252
+    },
+    {
+      "title": "The Conscious Mind: In Search of a Fundamental Theory",
+      "url": "https://www.goodreads.com/book/show/144960.The_Conscious_Mind",
+      "id": "1494892",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348760894i/144960.jpg",
+      "authors": [
+        "David J. Chalmers"
+      ],
+      "genres": [
+        "philosophy",
+        "psychology",
+        "non-fiction",
+        "science",
+        "neuroscience",
+        "metaphysics",
+        "artificial-intelligence"
+      ],
+      "rating": 4,
+      "ratings": 2326,
+      "reviews": 97
     },
     {
       "title": "¡Sálvese quien pueda!: El futuro del trabajo en la era de la automatización",
@@ -144,14 +165,14 @@
         "spanish-literature"
       ],
       "rating": 4.23,
-      "ratings": 2209,
-      "reviews": 291
+      "ratings": 2247,
+      "reviews": 294
     },
     {
       "title": "Delphi Exploration",
-      "url": "https://www.goodreads.com/book/show/54443926-delphi-exploration",
+      "url": "https://www.goodreads.com/book/show/58415433-delphi-exploration",
       "id": "84960304",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1594225907i/54443926.jpg",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1624543840i/58415433.jpg",
       "authors": [
         "Bob Blanton"
       ],
@@ -163,50 +184,8 @@
         "artificial-intelligence"
       ],
       "rating": 4.43,
-      "ratings": 2207,
+      "ratings": 2223,
       "reviews": 79
-    },
-    {
-      "title": "God, Human, Animal, Machine: Technology, Metaphor, and the Search for Meaning",
-      "url": "https://www.goodreads.com/book/show/56097578-god-human-animal-machine",
-      "id": "87380849",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1611107182i/56097578.jpg",
-      "authors": [
-        "Meghan O'Gieblyn"
-      ],
-      "genres": [
-        "philosophy",
-        "non-fiction",
-        "science",
-        "technology",
-        "religion",
-        "artificial-intelligence",
-        "psychology"
-      ],
-      "rating": 4.29,
-      "ratings": 2167,
-      "reviews": 294
-    },
-    {
-      "title": "The Human",
-      "url": "https://www.goodreads.com/book/show/49393281-the-human",
-      "id": "72149645",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1599065833i/49393281.jpg",
-      "authors": [
-        "Neal Asher"
-      ],
-      "genres": [
-        "science-fiction",
-        "space-opera",
-        "fiction",
-        "aliens",
-        "military-science-fiction",
-        "hard-science-fiction",
-        "artificial-intelligence"
-      ],
-      "rating": 4.26,
-      "ratings": 2101,
-      "reviews": 120
     },
     {
       "title": "Genius Makers: The Mavericks Who Brought AI to Google, Facebook, and the World",
@@ -226,8 +205,8 @@
         "biography"
       ],
       "rating": 4.28,
-      "ratings": 2073,
-      "reviews": 234
+      "ratings": 2164,
+      "reviews": 242
     },
     {
       "title": "Delphi Federation",
@@ -245,8 +224,8 @@
         "artificial-intelligence"
       ],
       "rating": 4.36,
-      "ratings": 1960,
-      "reviews": 61
+      "ratings": 1986,
+      "reviews": 62
     },
     {
       "title": "Delphi Challenge",
@@ -264,7 +243,7 @@
         "artificial-intelligence"
       ],
       "rating": 4.42,
-      "ratings": 1946,
+      "ratings": 1967,
       "reviews": 65
     },
     {
@@ -281,33 +260,12 @@
         "science",
         "programming",
         "technology",
-        "technical",
-        "textbooks"
+        "textbooks",
+        "technical"
       ],
       "rating": 4.43,
-      "ratings": 1861,
-      "reviews": 133
-    },
-    {
-      "title": "The Turing Exception",
-      "url": "https://www.goodreads.com/book/show/24937378-the-turing-exception",
-      "id": "44594060",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1423967023i/24937378.jpg",
-      "authors": [
-        "William Hertling"
-      ],
-      "genres": [
-        "science-fiction",
-        "fiction",
-        "artificial-intelligence",
-        "singularity",
-        "cyberpunk",
-        "audiobook",
-        "thriller"
-      ],
-      "rating": 4.13,
-      "ratings": 1838,
-      "reviews": 90
+      "ratings": 1886,
+      "reviews": 136
     },
     {
       "title": "Orbital Ascension",
@@ -322,9 +280,30 @@
         "artificial-intelligence",
         "fiction"
       ],
-      "rating": 4.49,
-      "ratings": 1818,
-      "reviews": 78
+      "rating": 4.48,
+      "ratings": 1859,
+      "reviews": 81
+    },
+    {
+      "title": "The Turing Exception",
+      "url": "https://www.goodreads.com/book/show/24937378-the-turing-exception",
+      "id": "44594060",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1423967023i/24937378.jpg",
+      "authors": [
+        "William Hertling"
+      ],
+      "genres": [
+        "science-fiction",
+        "fiction",
+        "artificial-intelligence",
+        "cyberpunk",
+        "singularity",
+        "audiobook",
+        "thriller"
+      ],
+      "rating": 4.13,
+      "ratings": 1847,
+      "reviews": 90
     },
     {
       "title": "Pattern Recognition and Machine Learning",
@@ -344,7 +323,7 @@
         "non-fiction"
       ],
       "rating": 4.32,
-      "ratings": 1806,
+      "ratings": 1817,
       "reviews": 75
     },
     {
@@ -365,7 +344,7 @@
         "artificial-intelligence"
       ],
       "rating": 4.43,
-      "ratings": 1764,
+      "ratings": 1774,
       "reviews": 60
     },
     {
@@ -383,29 +362,8 @@
         "artificial-intelligence"
       ],
       "rating": 4.4,
-      "ratings": 1749,
+      "ratings": 1770,
       "reviews": 52
-    },
-    {
-      "title": "Rationality: From AI to Zombies",
-      "url": "https://www.goodreads.com/book/show/25131230-rationality",
-      "id": "44828040",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1440562023i/25131230.jpg",
-      "authors": [
-        "Eliezer Yudkowsky"
-      ],
-      "genres": [
-        "philosophy",
-        "non-fiction",
-        "science",
-        "psychology",
-        "artificial-intelligence",
-        "technology",
-        "unfinished"
-      ],
-      "rating": 4.33,
-      "ratings": 1619,
-      "reviews": 173
     },
     {
       "title": "Apocalypse: Quest System",
@@ -424,8 +382,29 @@
         "artificial-intelligence"
       ],
       "rating": 4.6,
-      "ratings": 1588,
-      "reviews": 77
+      "ratings": 1636,
+      "reviews": 79
+    },
+    {
+      "title": "Rationality: From AI to Zombies",
+      "url": "https://www.goodreads.com/book/show/25131230-rationality",
+      "id": "44828040",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1440562023i/25131230.jpg",
+      "authors": [
+        "Eliezer Yudkowsky"
+      ],
+      "genres": [
+        "philosophy",
+        "non-fiction",
+        "science",
+        "psychology",
+        "artificial-intelligence",
+        "unfinished",
+        "self-help"
+      ],
+      "rating": 4.33,
+      "ratings": 1636,
+      "reviews": 175
     },
     {
       "title": "Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence",
@@ -444,9 +423,9 @@
         "philosophy",
         "computer-science"
       ],
-      "rating": 4.01,
-      "ratings": 1491,
-      "reviews": 208
+      "rating": 4,
+      "ratings": 1607,
+      "reviews": 219
     },
     {
       "title": "Portal to Nova Roma: The Rhine",
@@ -465,9 +444,30 @@
         "artificial-intelligence",
         "alternate-history"
       ],
-      "rating": 4.58,
-      "ratings": 1437,
-      "reviews": 102
+      "rating": 4.59,
+      "ratings": 1528,
+      "reviews": 103
+    },
+    {
+      "title": "Programming Collective Intelligence: Building Smart Web 2.0 Applications",
+      "url": "https://www.goodreads.com/book/show/1741472.Programming_Collective_Intelligence",
+      "id": "1739097",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1371685521i/1741472.jpg",
+      "authors": [
+        "Toby Segaran"
+      ],
+      "genres": [
+        "programming",
+        "technology",
+        "computer-science",
+        "technical",
+        "non-fiction",
+        "artificial-intelligence",
+        "software"
+      ],
+      "rating": 4.08,
+      "ratings": 1450,
+      "reviews": 96
     },
     {
       "title": "Transporter",
@@ -483,9 +483,9 @@
         "childrens",
         "artificial-intelligence"
       ],
-      "rating": 4.61,
-      "ratings": 1382,
-      "reviews": 66
+      "rating": 4.6,
+      "ratings": 1420,
+      "reviews": 68
     }
   ]
 }

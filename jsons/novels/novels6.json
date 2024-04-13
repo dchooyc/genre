@@ -1,6 +1,27 @@
 {
   "books": [
     {
+      "title": "The Robots of Dawn",
+      "url": "https://www.goodreads.com/book/show/41810.The_Robots_of_Dawn",
+      "id": "905286",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1351030933i/41810.jpg",
+      "authors": [
+        "Isaac Asimov"
+      ],
+      "genres": [
+        "science-fiction",
+        "fiction",
+        "mystery",
+        "science-fiction-fantasy",
+        "robots",
+        "classics",
+        "novels"
+      ],
+      "rating": 4.19,
+      "ratings": 49644,
+      "reviews": 1944
+    },
+    {
       "title": "The Magic Mountain",
       "url": "https://www.goodreads.com/book/show/88077.The_Magic_Mountain",
       "id": "647489",
@@ -18,8 +39,8 @@
         "germany"
       ],
       "rating": 4.13,
-      "ratings": 48812,
-      "reviews": 3496
+      "ratings": 49441,
+      "reviews": 3608
     },
     {
       "title": "Thrawn",
@@ -39,16 +60,16 @@
         "novels"
       ],
       "rating": 4.3,
-      "ratings": 48102,
-      "reviews": 4049
+      "ratings": 49297,
+      "reviews": 4123
     },
     {
-      "title": "Angels and Demons / The Da Vinci Code",
+      "title": "Dan Brown Omnibus: Angels and Demons / The da Vinci Code",
       "url": "https://www.goodreads.com/book/show/643301.Angels_and_Demons_The_Da_Vinci_Code",
       "id": "24585562",
       "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1176671419i/643301.jpg",
       "authors": [
-        "Dan Brown"
+        "Dan       Brown"
       ],
       "genres": [
         "fiction",
@@ -56,33 +77,12 @@
         "thriller",
         "historical-fiction",
         "adventure",
-        "crime",
+        "suspense",
         "novels"
       ],
       "rating": 4.3,
-      "ratings": 47773,
+      "ratings": 48479,
       "reviews": 617
-    },
-    {
-      "title": "The Razor's Edge",
-      "url": "https://www.goodreads.com/book/show/31196.The_Razor_s_Edge",
-      "id": "2095259",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386925123i/31196.jpg",
-      "authors": [
-        "W. Somerset Maugham"
-      ],
-      "genres": [
-        "classics",
-        "fiction",
-        "literature",
-        "philosophy",
-        "novels",
-        "historical-fiction",
-        "literary-fiction"
-      ],
-      "rating": 4.19,
-      "ratings": 47738,
-      "reviews": 4103
     },
     {
       "title": "The Winter of Our Discontent",
@@ -102,8 +102,8 @@
         "20th-century"
       ],
       "rating": 4,
-      "ratings": 47332,
-      "reviews": 2912
+      "ratings": 48013,
+      "reviews": 2974
     },
     {
       "title": "A Song of Ice and Fire",
@@ -123,8 +123,8 @@
         "high-fantasy"
       ],
       "rating": 4.63,
-      "ratings": 47239,
-      "reviews": 1036
+      "ratings": 47349,
+      "reviews": 1037
     },
     {
       "title": "Crossing to Safety",
@@ -138,35 +138,35 @@
         "fiction",
         "classics",
         "literary-fiction",
-        "novels",
         "historical-fiction",
+        "novels",
         "literature",
         "book-club"
       ],
       "rating": 4.16,
-      "ratings": 45951,
-      "reviews": 6157
+      "ratings": 46377,
+      "reviews": 6213
     },
     {
-      "title": "Ahab's Wife, or The Star-Gazer",
-      "url": "https://www.goodreads.com/book/show/7742.Ahab_s_Wife_or_The_Star_Gazer",
-      "id": "10803",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442524251i/7742.jpg",
+      "title": "The Baron in the Trees",
+      "url": "https://www.goodreads.com/book/show/9804.The_Baron_in_the_Trees",
+      "id": "865256",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1344432724i/9804.jpg",
       "authors": [
-        "Sena Jeter Naslund"
+        "Italo Calvino"
       ],
       "genres": [
         "fiction",
-        "historical-fiction",
-        "historical",
+        "italian-literature",
+        "italy",
+        "fantasy",
         "literature",
-        "novels",
-        "adult-fiction",
-        "literary-fiction"
+        "magical-realism",
+        "novels"
       ],
       "rating": 4.03,
-      "ratings": 44563,
-      "reviews": 2874
+      "ratings": 45035,
+      "reviews": 2621
     },
     {
       "title": "The Hundred Secret Senses",
@@ -186,8 +186,8 @@
         "novels"
       ],
       "rating": 4,
-      "ratings": 44552,
-      "reviews": 2036
+      "ratings": 44763,
+      "reviews": 2051
     },
     {
       "title": "Sarum: The Novel of England",
@@ -207,8 +207,29 @@
         "novels"
       ],
       "rating": 4.08,
-      "ratings": 44506,
-      "reviews": 1808
+      "ratings": 44620,
+      "reviews": 1819
+    },
+    {
+      "title": "Ahab's Wife, or The Star-Gazer",
+      "url": "https://www.goodreads.com/book/show/7742.Ahab_s_Wife_or_The_Star_Gazer",
+      "id": "10803",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442524251i/7742.jpg",
+      "authors": [
+        "Sena Jeter Naslund"
+      ],
+      "genres": [
+        "fiction",
+        "historical-fiction",
+        "historical",
+        "literature",
+        "novels",
+        "adult-fiction",
+        "literary-fiction"
+      ],
+      "rating": 4.03,
+      "ratings": 44619,
+      "reviews": 2888
     },
     {
       "title": "Bastard Out of Carolina",
@@ -228,50 +249,8 @@
         "queer"
       ],
       "rating": 4.13,
-      "ratings": 44263,
-      "reviews": 3323
-    },
-    {
-      "title": "The Atonement Child",
-      "url": "https://www.goodreads.com/book/show/9943.The_Atonement_Child",
-      "id": "3014463",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1406513472i/9943.jpg",
-      "authors": [
-        "Francine Rivers"
-      ],
-      "genres": [
-        "christian-fiction",
-        "christian",
-        "fiction",
-        "romance",
-        "contemporary",
-        "adult",
-        "novels"
-      ],
-      "rating": 4.29,
-      "ratings": 43974,
-      "reviews": 1645
-    },
-    {
-      "title": "Gravity's Rainbow",
-      "url": "https://www.goodreads.com/book/show/415.Gravity_s_Rainbow",
-      "id": "866393",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1657594227i/415.jpg",
-      "authors": [
-        "Thomas Pynchon"
-      ],
-      "genres": [
-        "fiction",
-        "classics",
-        "science-fiction",
-        "literature",
-        "historical-fiction",
-        "novels",
-        "american"
-      ],
-      "rating": 4,
-      "ratings": 43861,
-      "reviews": 4166
+      "ratings": 44579,
+      "reviews": 3369
     },
     {
       "title": "Min kamp 1",
@@ -291,8 +270,29 @@
         "literary-fiction"
       ],
       "rating": 4.09,
-      "ratings": 43743,
-      "reviews": 4472
+      "ratings": 44281,
+      "reviews": 4545
+    },
+    {
+      "title": "The Atonement Child",
+      "url": "https://www.goodreads.com/book/show/9943.The_Atonement_Child",
+      "id": "3014463",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1406513472i/9943.jpg",
+      "authors": [
+        "Francine Rivers"
+      ],
+      "genres": [
+        "christian-fiction",
+        "christian",
+        "fiction",
+        "romance",
+        "contemporary",
+        "adult",
+        "novels"
+      ],
+      "rating": 4.29,
+      "ratings": 44215,
+      "reviews": 1670
     },
     {
       "title": "Mona Lisa Overdrive",
@@ -312,71 +312,8 @@
         "speculative-fiction"
       ],
       "rating": 4.01,
-      "ratings": 43641,
-      "reviews": 1208
-    },
-    {
-      "title": "Johnny Got His Gun",
-      "url": "https://www.goodreads.com/book/show/51606.Johnny_Got_His_Gun",
-      "id": "180461",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386925458i/51606.jpg",
-      "authors": [
-        "Dalton Trumbo"
-      ],
-      "genres": [
-        "fiction",
-        "classics",
-        "war",
-        "historical-fiction",
-        "horror",
-        "literature",
-        "novels"
-      ],
-      "rating": 4.19,
-      "ratings": 43426,
-      "reviews": 3180
-    },
-    {
-      "title": "Matterhorn",
-      "url": "https://www.goodreads.com/book/show/6411016-matterhorn",
-      "id": "6599953",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1431983015i/6411016.jpg",
-      "authors": [
-        "Karl Marlantes"
-      ],
-      "genres": [
-        "fiction",
-        "historical-fiction",
-        "war",
-        "military-fiction",
-        "historical",
-        "audiobook",
-        "novels"
-      ],
-      "rating": 4.25,
-      "ratings": 43396,
-      "reviews": 3581
-    },
-    {
-      "title": "The Source",
-      "url": "https://www.goodreads.com/book/show/12657.The_Source",
-      "id": "1251662",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1412531751i/12657.jpg",
-      "authors": [
-        "James A. Michener"
-      ],
-      "genres": [
-        "historical-fiction",
-        "fiction",
-        "historical",
-        "israel",
-        "religion",
-        "jewish",
-        "novels"
-      ],
-      "rating": 4.29,
-      "ratings": 43336,
-      "reviews": 1689
+      "ratings": 44076,
+      "reviews": 1232
     },
     {
       "title": "The Savage Detectives",
@@ -396,50 +333,29 @@
         "contemporary"
       ],
       "rating": 4.17,
-      "ratings": 43306,
-      "reviews": 4530
+      "ratings": 44065,
+      "reviews": 4632
     },
     {
-      "title": "Centennial",
-      "url": "https://www.goodreads.com/book/show/133430.Centennial",
-      "id": "14948",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348125094i/133430.jpg",
+      "title": "Johnny Got His Gun",
+      "url": "https://www.goodreads.com/book/show/51606.Johnny_Got_His_Gun",
+      "id": "180461",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386925458i/51606.jpg",
       "authors": [
-        "James A. Michener"
+        "Dalton Trumbo"
       ],
       "genres": [
-        "historical-fiction",
         "fiction",
-        "historical",
-        "westerns",
         "classics",
-        "adventure",
+        "war",
+        "historical-fiction",
+        "horror",
+        "literature",
         "novels"
       ],
-      "rating": 4.25,
-      "ratings": 43002,
-      "reviews": 1052
-    },
-    {
-      "title": "Not a Penny More, Not a Penny Less",
-      "url": "https://www.goodreads.com/book/show/78982.Not_a_Penny_More_Not_a_Penny_Less",
-      "id": "1952681",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388187539i/78982.jpg",
-      "authors": [
-        "Jeffrey Archer"
-      ],
-      "genres": [
-        "fiction",
-        "thriller",
-        "mystery",
-        "crime",
-        "mystery-thriller",
-        "drama",
-        "novels"
-      ],
-      "rating": 4.04,
-      "ratings": 42856,
-      "reviews": 1505
+      "rating": 4.2,
+      "ratings": 43954,
+      "reviews": 3244
     },
     {
       "title": "The Waves",
@@ -459,50 +375,134 @@
         "literary-fiction"
       ],
       "rating": 4.15,
-      "ratings": 42835,
-      "reviews": 4636
+      "ratings": 43817,
+      "reviews": 4830
     },
     {
-      "title": "Skinny Legs and All",
-      "url": "https://www.goodreads.com/book/show/9370.Skinny_Legs_and_All",
-      "id": "1231351",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1554143869i/9370.jpg",
+      "title": "Matterhorn",
+      "url": "https://www.goodreads.com/book/show/6411016-matterhorn",
+      "id": "6599953",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1431983015i/6411016.jpg",
       "authors": [
-        "Tom Robbins"
+        "Karl Marlantes"
       ],
       "genres": [
         "fiction",
-        "humor",
-        "literature",
+        "historical-fiction",
+        "war",
+        "military-fiction",
+        "historical",
+        "audiobook",
+        "novels"
+      ],
+      "rating": 4.25,
+      "ratings": 43525,
+      "reviews": 3615
+    },
+    {
+      "title": "The Source",
+      "url": "https://www.goodreads.com/book/show/12657.The_Source",
+      "id": "1251662",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1412531751i/12657.jpg",
+      "authors": [
+        "James A. Michener"
+      ],
+      "genres": [
+        "historical-fiction",
+        "fiction",
+        "historical",
+        "israel",
+        "religion",
+        "jewish",
+        "novels"
+      ],
+      "rating": 4.3,
+      "ratings": 43491,
+      "reviews": 1709
+    },
+    {
+      "title": "Le otto montagne",
+      "url": "https://www.goodreads.com/book/show/32916360-le-otto-montagne",
+      "id": "53534051",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1512307588i/32916360.jpg",
+      "authors": [
+        "Paolo Cognetti"
+      ],
+      "genres": [
+        "fiction",
+        "italy",
+        "italian-literature",
+        "contemporary",
+        "roman",
         "novels",
-        "magical-realism",
-        "fantasy",
-        "contemporary"
+        "nature"
       ],
-      "rating": 4.06,
-      "ratings": 42675,
-      "reviews": 1530
+      "rating": 4.1,
+      "ratings": 43465,
+      "reviews": 4055
     },
     {
-      "title": "Hopscotch",
-      "url": "https://www.goodreads.com/book/show/53413.Hopscotch",
-      "id": "1794732",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1367728486i/53413.jpg",
+      "title": "Centennial",
+      "url": "https://www.goodreads.com/book/show/133430.Centennial",
+      "id": "14948",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348125094i/133430.jpg",
       "authors": [
-        "Julio Cortázar"
+        "James A. Michener"
       ],
       "genres": [
+        "historical-fiction",
         "fiction",
+        "westerns",
+        "historical",
         "classics",
-        "spanish-literature",
-        "literature",
-        "latin-american",
-        "novels",
-        "magical-realism"
+        "adventure",
+        "novels"
       ],
-      "rating": 4.21,
-      "ratings": 42081,
-      "reviews": 3377
+      "rating": 4.25,
+      "ratings": 43168,
+      "reviews": 1066
+    },
+    {
+      "title": "Not a Penny More, Not a Penny Less",
+      "url": "https://www.goodreads.com/book/show/78982.Not_a_Penny_More_Not_a_Penny_Less",
+      "id": "1952681",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388187539i/78982.jpg",
+      "authors": [
+        "Jeffrey Archer"
+      ],
+      "genres": [
+        "fiction",
+        "thriller",
+        "mystery",
+        "crime",
+        "mystery-thriller",
+        "drama",
+        "novels"
+      ],
+      "rating": 4.04,
+      "ratings": 43103,
+      "reviews": 1521
+    },
+    {
+      "title": "Martin Eden",
+      "url": "https://www.goodreads.com/book/show/929782.Martin_Eden",
+      "id": "1702482",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1661678127i/929782.jpg",
+      "authors": [
+        "Jack London"
+      ],
+      "genres": [
+        "classics",
+        "fiction",
+        "american",
+        "literature",
+        "novels",
+        "the-united-states-of-america",
+        "adventure"
+      ],
+      "rating": 4.47,
+      "ratings": 43036,
+      "reviews": 2798
     }
   ]
 }

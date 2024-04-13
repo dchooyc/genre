@@ -1,6 +1,27 @@
 {
   "books": [
     {
+      "title": "Learn You a Haskell for Great Good!",
+      "url": "https://www.goodreads.com/book/show/6593810-learn-you-a-haskell-for-great-good",
+      "id": "6787531",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1294497489i/6593810.jpg",
+      "authors": [
+        "Miran Lipovača"
+      ],
+      "genres": [
+        "programming",
+        "computer-science",
+        "technology",
+        "non-fiction",
+        "technical",
+        "software",
+        "computers"
+      ],
+      "rating": 4.3,
+      "ratings": 2329,
+      "reviews": 193
+    },
+    {
       "title": "Programming Perl",
       "url": "https://www.goodreads.com/book/show/154155.Programming_Perl",
       "id": "675275",
@@ -18,8 +39,8 @@
         "computer-science"
       ],
       "rating": 4.06,
-      "ratings": 2290,
-      "reviews": 58
+      "ratings": 2293,
+      "reviews": 59
     },
     {
       "title": "Python for Data Analysis",
@@ -39,8 +60,8 @@
         "reference"
       ],
       "rating": 4.17,
-      "ratings": 2230,
-      "reviews": 173
+      "ratings": 2251,
+      "reviews": 172
     },
     {
       "title": "Thinking in Java",
@@ -60,8 +81,8 @@
         "reference"
       ],
       "rating": 4.15,
-      "ratings": 2189,
-      "reviews": 83
+      "ratings": 2195,
+      "reviews": 84
     },
     {
       "title": "An Introduction to Statistical Learning: with Applications in R",
@@ -81,7 +102,7 @@
         "technical"
       ],
       "rating": 4.59,
-      "ratings": 2159,
+      "ratings": 2170,
       "reviews": 172
     },
     {
@@ -102,7 +123,7 @@
         "technical"
       ],
       "rating": 4.06,
-      "ratings": 2102,
+      "ratings": 2108,
       "reviews": 122
     },
     {
@@ -123,7 +144,7 @@
         "reference"
       ],
       "rating": 4.14,
-      "ratings": 2083,
+      "ratings": 2091,
       "reviews": 67
     },
     {
@@ -144,7 +165,7 @@
         "technical"
       ],
       "rating": 4.29,
-      "ratings": 1952,
+      "ratings": 1953,
       "reviews": 134
     },
     {
@@ -165,7 +186,7 @@
         "technical"
       ],
       "rating": 4.12,
-      "ratings": 1910,
+      "ratings": 1915,
       "reviews": 47
     },
     {
@@ -182,12 +203,12 @@
         "science",
         "programming",
         "technology",
-        "technical",
-        "textbooks"
+        "textbooks",
+        "technical"
       ],
       "rating": 4.43,
-      "ratings": 1861,
-      "reviews": 133
+      "ratings": 1886,
+      "reviews": 136
     },
     {
       "title": "The Art of Computer Programming, Volume 1: Fundamental Algorithms",
@@ -202,13 +223,34 @@
         "computer-science",
         "technology",
         "non-fiction",
-        "science",
         "technical",
+        "science",
         "software"
       ],
       "rating": 4.38,
-      "ratings": 1856,
+      "ratings": 1860,
       "reviews": 56
+    },
+    {
+      "title": "Concrete Mathematics: A Foundation for Computer Science",
+      "url": "https://www.goodreads.com/book/show/112243.Concrete_Mathematics",
+      "id": "108076",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348780612i/112243.jpg",
+      "authors": [
+        "Ronald Graham"
+      ],
+      "genres": [
+        "mathematics",
+        "computer-science",
+        "programming",
+        "science",
+        "non-fiction",
+        "technology",
+        "technical"
+      ],
+      "rating": 4.34,
+      "ratings": 1854,
+      "reviews": 32
     },
     {
       "title": "You Don't Know JS: Scope and Closures",
@@ -224,12 +266,33 @@
         "computer-science",
         "non-fiction",
         "coding",
-        "technical",
-        "software"
+        "software",
+        "technical"
       ],
       "rating": 4.55,
-      "ratings": 1846,
+      "ratings": 1852,
       "reviews": 132
+    },
+    {
+      "title": "Coaching Agile Teams: A Companion for ScrumMasters, Agile Coaches, and Project Managers in Transition (Addison-Wesley Signature Series",
+      "url": "https://www.goodreads.com/book/show/8337919-coaching-agile-teams",
+      "id": "13188660",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348726600i/8337919.jpg",
+      "authors": [
+        "Lyssa Adkins"
+      ],
+      "genres": [
+        "business",
+        "leadership",
+        "management",
+        "non-fiction",
+        "technical",
+        "reference",
+        "technology"
+      ],
+      "rating": 4.22,
+      "ratings": 1843,
+      "reviews": 134
     },
     {
       "title": "Succeeding with Agile: Software Development Using Scrum",
@@ -249,29 +312,8 @@
         "technical"
       ],
       "rating": 4.01,
-      "ratings": 1832,
+      "ratings": 1831,
       "reviews": 75
-    },
-    {
-      "title": "Coaching Agile Teams: A Companion for ScrumMasters, Agile Coaches, and Project Managers in Transition (Addison-Wesley Signature Series",
-      "url": "https://www.goodreads.com/book/show/8337919-coaching-agile-teams",
-      "id": "13188660",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348726600i/8337919.jpg",
-      "authors": [
-        "Lyssa Adkins"
-      ],
-      "genres": [
-        "leadership",
-        "business",
-        "management",
-        "non-fiction",
-        "technical",
-        "reference",
-        "technology"
-      ],
-      "rating": 4.22,
-      "ratings": 1828,
-      "reviews": 134
     },
     {
       "title": "Pattern Recognition and Machine Learning",
@@ -291,7 +333,7 @@
         "non-fiction"
       ],
       "rating": 4.32,
-      "ratings": 1806,
+      "ratings": 1817,
       "reviews": 75
     },
     {
@@ -312,7 +354,7 @@
         "technical"
       ],
       "rating": 4.21,
-      "ratings": 1797,
+      "ratings": 1806,
       "reviews": 134
     },
     {
@@ -333,8 +375,8 @@
         "technical"
       ],
       "rating": 4.29,
-      "ratings": 1777,
-      "reviews": 97
+      "ratings": 1790,
+      "reviews": 96
     },
     {
       "title": "The Elements of Statistical Learning: Data Mining, Inference, and Prediction",
@@ -354,11 +396,11 @@
         "artificial-intelligence"
       ],
       "rating": 4.43,
-      "ratings": 1764,
+      "ratings": 1774,
       "reviews": 60
     },
     {
-      "title": "Information Dashboard Design: The Effective Visual Communication of Data",
+      "title": "Information Dashboard Design: The Effective Visual Communication Of Data",
       "url": "https://www.goodreads.com/book/show/336258.Information_Dashboard_Design",
       "id": "326716",
       "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328834536i/336258.jpg",
@@ -375,7 +417,7 @@
         "programming"
       ],
       "rating": 4.02,
-      "ratings": 1758,
+      "ratings": 1762,
       "reviews": 100
     },
     {
@@ -396,7 +438,7 @@
         "technical"
       ],
       "rating": 4.41,
-      "ratings": 1749,
+      "ratings": 1759,
       "reviews": 63
     },
     {
@@ -417,14 +459,14 @@
         "non-fiction"
       ],
       "rating": 4.34,
-      "ratings": 1707,
+      "ratings": 1710,
       "reviews": 43
     },
     {
-      "title": "Decode and Conquer: Answers to Product Management Interviews",
-      "url": "https://www.goodreads.com/book/show/20822143-decode-and-conquer",
+      "title": "Decode and Conquer: Answers to Project Management Interviews",
+      "url": "https://www.goodreads.com/book/show/48665024-decode-and-conquer",
       "id": "40168005",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1392579106i/20822143.jpg",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1572698010i/48665024.jpg",
       "authors": [
         "Lewis C. Lin"
       ],
@@ -438,29 +480,8 @@
         "personal-development"
       ],
       "rating": 4.08,
-      "ratings": 1666,
-      "reviews": 86
-    },
-    {
-      "title": "The Negative",
-      "url": "https://www.goodreads.com/book/show/20502.The_Negative",
-      "id": "21693",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388184776i/20502.jpg",
-      "authors": [
-        "Ansel Adams"
-      ],
-      "genres": [
-        "photography",
-        "non-fiction",
-        "art",
-        "reference",
-        "art-and-photography",
-        "film",
-        "technical"
-      ],
-      "rating": 4.42,
-      "ratings": 1646,
-      "reviews": 43
+      "ratings": 1676,
+      "reviews": 88
     },
     {
       "title": "The Go Programming Language",
@@ -480,29 +501,8 @@
         "non-fiction"
       ],
       "rating": 4.44,
-      "ratings": 1638,
-      "reviews": 131
-    },
-    {
-      "title": "Programming in Scala: A Comprehensive Step-by-step Guide",
-      "url": "https://www.goodreads.com/book/show/5680904-programming-in-scala",
-      "id": "5852455",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1267787153i/5680904.jpg",
-      "authors": [
-        "Martin Odersky"
-      ],
-      "genres": [
-        "programming",
-        "technology",
-        "computer-science",
-        "technical",
-        "software",
-        "non-fiction",
-        "computers"
-      ],
-      "rating": 4.22,
-      "ratings": 1636,
-      "reviews": 99
+      "ratings": 1660,
+      "reviews": 133
     }
   ]
 }

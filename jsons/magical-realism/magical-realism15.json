@@ -1,67 +1,485 @@
 {
   "books": [
     {
-      "title": "The Silver Dark Sea",
-      "url": "https://www.goodreads.com/book/show/13249733-the-silver-dark-sea",
-      "id": "18450516",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1341019392i/13249733.jpg",
+      "title": "Os Transparentes",
+      "url": "https://www.goodreads.com/book/show/16147589-os-transparentes",
+      "id": "21981707",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1631109775i/16147589.jpg",
       "authors": [
-        "Susan  Fletcher"
+        "Ondjaki"
+      ],
+      "genres": [
+        "fiction",
+        "angola",
+        "africa",
+        "african-literature",
+        "magical-realism",
+        "contemporary",
+        "literary-fiction"
+      ],
+      "rating": 4.13,
+      "ratings": 1281,
+      "reviews": 178
+    },
+    {
+      "title": "The Raven Boys, The Dream Thieves, Blue Lily Lily Blue, The Raven King",
+      "url": "https://www.goodreads.com/book/show/35669466-the-raven-boys-the-dream-thieves-blue-lily-lily-blue-the-raven-king",
+      "id": "54799317",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1499981273i/35669466.jpg",
+      "authors": [
+        "Maggie Stiefvater"
+      ],
+      "genres": [
+        "fantasy",
+        "fiction",
+        "young-adult",
+        "romance",
+        "magical-realism",
+        "audiobook",
+        "lgbt"
+      ],
+      "rating": 4.55,
+      "ratings": 1274,
+      "reviews": 95
+    },
+    {
+      "title": "Portrait of Jennie",
+      "url": "https://www.goodreads.com/book/show/1209527.Portrait_of_Jennie",
+      "id": "1883139",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1305659177i/1209527.jpg",
+      "authors": [
+        "Robert Nathan"
+      ],
+      "genres": [
+        "fantasy",
+        "fiction",
+        "romance",
+        "classics",
+        "time-travel",
+        "mystery",
+        "magical-realism"
+      ],
+      "rating": 4.03,
+      "ratings": 1267,
+      "reviews": 210
+    },
+    {
+      "title": "Sophie Dreams Big",
+      "url": "https://www.goodreads.com/book/show/59578018-sophie-dreams-big",
+      "id": "93829676",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1636469968i/59578018.jpg",
+      "authors": [
+        "Keke Palmer"
+      ],
+      "genres": [
+        "short-stories",
+        "audiobook",
+        "fiction",
+        "humor",
+        "contemporary",
+        "african-american",
+        "magical-realism"
+      ],
+      "rating": 4.05,
+      "ratings": 1266,
+      "reviews": 151
+    },
+    {
+      "title": "Nightshade for Warning",
+      "url": "https://www.goodreads.com/book/show/28824419-nightshade-for-warning",
+      "id": "49044768",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1493326055i/28824419.jpg",
+      "authors": [
+        "Bailey Cattrell"
+      ],
+      "genres": [
+        "mystery",
+        "cozy-mystery",
+        "paranormal",
+        "fiction",
+        "fantasy",
+        "magical-realism",
+        "witches"
+      ],
+      "rating": 4.12,
+      "ratings": 1262,
+      "reviews": 159
+    },
+    {
+      "title": "Gabriel Garcia Marquez: Chronicle Of A Death Foretold:  A Reader's Companion",
+      "url": "https://www.goodreads.com/book/show/66817.Gabriel_Garcia_Marquez",
+      "id": "64789",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1697959206i/66817.jpg",
+      "authors": [
+        "Santwana Haldar"
+      ],
+      "genres": [
+        "fiction",
+        "classics",
+        "magical-realism",
+        "literary-fiction",
+        "spanish-literature"
+      ],
+      "rating": 4.12,
+      "ratings": 1251,
+      "reviews": 27
+    },
+    {
+      "title": "The Violent Land",
+      "url": "https://www.goodreads.com/book/show/214840.The_Violent_Land",
+      "id": "207983",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1214446849i/214840.jpg",
+      "authors": [
+        "Jorge Amado"
+      ],
+      "genres": [
+        "fiction",
+        "brazil",
+        "classics",
+        "historical-fiction",
+        "portuguese-literature",
+        "latin-american",
+        "magical-realism"
+      ],
+      "rating": 4,
+      "ratings": 1251,
+      "reviews": 102
+    },
+    {
+      "title": "The Water Museum",
+      "url": "https://www.goodreads.com/book/show/22875098-the-water-museum",
+      "id": "42439388",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1418772689i/22875098.jpg",
+      "authors": [
+        "Luis Alberto Urrea"
+      ],
+      "genres": [
+        "short-stories",
+        "fiction",
+        "contemporary",
+        "literary-fiction",
+        "literature",
+        "audiobook",
+        "magical-realism"
+      ],
+      "rating": 4.03,
+      "ratings": 1231,
+      "reviews": 203
+    },
+    {
+      "title": "We Can Be Heroes",
+      "url": "https://www.goodreads.com/book/show/56197408-we-can-be-heroes",
+      "id": "85899733",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1613459262i/56197408.jpg",
+      "authors": [
+        "Kyrie McCauley"
+      ],
+      "genres": [
+        "young-adult",
+        "contemporary",
+        "fantasy",
+        "paranormal",
+        "fiction",
+        "magical-realism",
+        "lgbt"
+      ],
+      "rating": 4.27,
+      "ratings": 1217,
+      "reviews": 268
+    },
+    {
+      "title": "The Cupcake Witch: The Witching Hour Collection",
+      "url": "https://www.goodreads.com/book/show/27971129-the-cupcake-witch",
+      "id": "47321276",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1448497605i/27971129.jpg",
+      "authors": [
+        "Poppy Lawless"
+      ],
+      "genres": [
+        "romance",
+        "fantasy",
+        "witches",
+        "magic",
+        "contemporary",
+        "paranormal",
+        "magical-realism"
+      ],
+      "rating": 4.11,
+      "ratings": 1191,
+      "reviews": 181
+    },
+    {
+      "title": "Elantris, Part 3 of 3",
+      "url": "https://www.goodreads.com/book/show/6646852-elantris-part-3-of-3",
+      "id": "19116947",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1331999910i/6646852.jpg",
+      "authors": [
+        "Johann Dettweiler"
+      ],
+      "genres": [
+        "fantasy",
+        "audiobook",
+        "fiction",
+        "magic",
+        "romance",
+        "action",
+        "magical-realism"
+      ],
+      "rating": 4.46,
+      "ratings": 1151,
+      "reviews": 66
+    },
+    {
+      "title": "Charleston Green",
+      "url": "https://www.goodreads.com/book/show/53182633-charleston-green",
+      "id": "77821747",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1586952962i/53182633.jpg",
+      "authors": [
+        "Stephanie  Alexander"
+      ],
+      "genres": [
+        "mystery",
+        "fiction",
+        "cozy-mystery",
+        "paranormal",
+        "magical-realism",
+        "ghosts",
+        "southern"
+      ],
+      "rating": 4.19,
+      "ratings": 1147,
+      "reviews": 154
+    },
+    {
+      "title": "Todos los cuentos",
+      "url": "https://www.goodreads.com/book/show/30641764-todos-los-cuentos",
+      "id": "51180728",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1466222873i/30641764.jpg",
+      "authors": [
+        "Gabriel García Márquez"
+      ],
+      "genres": [
+        "short-stories",
+        "fiction",
+        "latin-american-literature",
+        "spanish-literature",
+        "magical-realism",
+        "classics",
+        "literature"
+      ],
+      "rating": 4.24,
+      "ratings": 1137,
+      "reviews": 91
+    },
+    {
+      "title": "The Book of Lost Saints: A Cuban American Family Saga of Love, Betrayal, and Revolution",
+      "url": "https://www.goodreads.com/book/show/42642035-the-book-of-lost-saints",
+      "id": "66378940",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1548185738i/42642035.jpg",
+      "authors": [
+        "Daniel José Older"
+      ],
+      "genres": [
+        "fiction",
+        "historical-fiction",
+        "magical-realism",
+        "fantasy",
+        "young-adult",
+        "historical",
+        "contemporary"
+      ],
+      "rating": 4.01,
+      "ratings": 1135,
+      "reviews": 213
+    },
+    {
+      "title": "The Cicada Tree",
+      "url": "https://www.goodreads.com/book/show/56544898-the-cicada-tree",
+      "id": "88278509",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1613837594i/56544898.jpg",
+      "authors": [
+        "Robert Gwaltney"
+      ],
+      "genres": [
+        "historical-fiction",
+        "southern",
+        "southern-gothic",
+        "fantasy",
+        "mystery",
+        "magical-realism",
+        "historical"
+      ],
+      "rating": 4.11,
+      "ratings": 1130,
+      "reviews": 248
+    },
+    {
+      "title": "Song of the Crocodile",
+      "url": "https://www.goodreads.com/book/show/53255180-song-of-the-crocodile",
+      "id": "80853194",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1587734436i/53255180.jpg",
+      "authors": [
+        "Nardi Simpson"
+      ],
+      "genres": [
+        "fiction",
+        "australia",
+        "historical-fiction",
+        "magical-realism",
+        "contemporary",
+        "historical",
+        "book-club"
+      ],
+      "rating": 4.08,
+      "ratings": 1102,
+      "reviews": 178
+    },
+    {
+      "title": "Lost Coast Literary",
+      "url": "https://www.goodreads.com/book/show/60469859-lost-coast-literary",
+      "id": "94640316",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1645479370i/60469859.jpg",
+      "authors": [
+        "Ellie Alexander"
+      ],
+      "genres": [
+        "fiction",
+        "magical-realism",
+        "mystery",
+        "contemporary",
+        "cozy-mystery",
+        "books-about-books",
+        "adult"
+      ],
+      "rating": 4.01,
+      "ratings": 1095,
+      "reviews": 356
+    },
+    {
+      "title": "La memoria de Shakespeare",
+      "url": "https://www.goodreads.com/book/show/929588.La_memoria_de_Shakespeare",
+      "id": "11065103",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1239685717i/929588.jpg",
+      "authors": [
+        "Jorge Luis Borges"
+      ],
+      "genres": [
+        "short-stories",
+        "fiction",
+        "classics",
+        "fantasy",
+        "magical-realism",
+        "literature",
+        "philosophy"
+      ],
+      "rating": 4.12,
+      "ratings": 1089,
+      "reviews": 117
+    },
+    {
+      "title": "O arroz de Palma",
+      "url": "https://www.goodreads.com/book/show/8485288-o-arroz-de-palma",
+      "id": "26680577",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1371779372i/8485288.jpg",
+      "authors": [
+        "Francisco Azevedo"
       ],
       "genres": [
         "fiction",
         "romance",
-        "scotland",
-        "fantasy",
-        "magical-realism",
-        "contemporary",
-        "mystery"
+        "brazil",
+        "historical-fiction",
+        "family",
+        "novels",
+        "magical-realism"
       ],
-      "rating": 4.19,
-      "ratings": 893,
-      "reviews": 143
+      "rating": 4.3,
+      "ratings": 1079,
+      "reviews": 151
     },
     {
-      "title": "The President and the Frog",
-      "url": "https://www.goodreads.com/book/show/55559895-the-president-and-the-frog",
-      "id": "86646540",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1614268718i/55559895.jpg",
+      "title": "The Autobiography of a Traitor and a Half-Savage",
+      "url": "https://www.goodreads.com/book/show/32815361-the-autobiography-of-a-traitor-and-a-half-savage",
+      "id": "53417318",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1481898622i/32815361.jpg",
       "authors": [
-        "Carolina De Robertis"
+        "Alix E. Harrow"
       ],
       "genres": [
-        "fiction",
+        "fantasy",
+        "short-stories",
         "historical-fiction",
+        "fiction",
         "magical-realism",
-        "literary-fiction",
-        "politics",
-        "audiobook",
-        "historical"
+        "historical",
+        "alternate-history"
       ],
-      "rating": 4.04,
-      "ratings": 880,
-      "reviews": 188
+      "rating": 4.11,
+      "ratings": 1067,
+      "reviews": 171
     },
     {
-      "title": "The Devil in America",
-      "url": "https://www.goodreads.com/book/show/21408358-the-devil-in-america",
-      "id": "40708381",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1396814360i/21408358.jpg",
+      "title": "The Unicorn in the Barn",
+      "url": "https://www.goodreads.com/book/show/30971733-the-unicorn-in-the-barn",
+      "id": "51589475",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1473599134i/30971733.jpg",
       "authors": [
-        "Kai Ashante Wilson"
+        "Jacqueline K. Ogburn"
+      ],
+      "genres": [
+        "middle-grade",
+        "fantasy",
+        "animals",
+        "fiction",
+        "magical-realism",
+        "magic",
+        "childrens"
+      ],
+      "rating": 4.04,
+      "ratings": 1045,
+      "reviews": 215
+    },
+    {
+      "title": "Quintessence",
+      "url": "https://www.goodreads.com/book/show/46223313-quintessence",
+      "id": "71198855",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1571143904i/46223313.jpg",
+      "authors": [
+        "Jess  Redman"
+      ],
+      "genres": [
+        "middle-grade",
+        "fantasy",
+        "mental-health",
+        "magical-realism",
+        "fiction",
+        "childrens",
+        "adventure"
+      ],
+      "rating": 4.17,
+      "ratings": 1034,
+      "reviews": 258
+    },
+    {
+      "title": "The Rock Eaters: Stories",
+      "url": "https://www.goodreads.com/book/show/54732983-the-rock-eaters",
+      "id": "85377796",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1597157766i/54732983.jpg",
+      "authors": [
+        "Brenda Peynado"
       ],
       "genres": [
         "short-stories",
         "fantasy",
-        "horror",
-        "historical-fiction",
         "fiction",
-        "historical",
-        "magical-realism"
+        "magical-realism",
+        "speculative-fiction",
+        "science-fiction",
+        "short-story-collection"
       ],
-      "rating": 4.03,
-      "ratings": 869,
-      "reviews": 175
+      "rating": 4.01,
+      "ratings": 1029,
+      "reviews": 154
     },
     {
       "title": "Miseria",
@@ -73,431 +491,12 @@
       ],
       "genres": [
         "fiction",
-        "magical-realism"
-      ],
-      "rating": 4.02,
-      "ratings": 854,
-      "reviews": 160
-    },
-    {
-      "title": "Log of the S.S. the Mrs. Unguentine",
-      "url": "https://www.goodreads.com/book/show/324056.Log_of_the_S_S_the_Mrs_Unguentine",
-      "id": "3342190",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1456091517i/324056.jpg",
-      "authors": [
-        "Stanley Crawford"
-      ],
-      "genres": [
-        "fiction",
-        "novels",
-        "american",
-        "magical-realism",
-        "literature",
-        "20th-century",
-        "literary-fiction"
-      ],
-      "rating": 4.09,
-      "ratings": 851,
-      "reviews": 121
-    },
-    {
-      "title": "The Weather Woman",
-      "url": "https://www.goodreads.com/book/show/62079482-the-weather-woman",
-      "id": "97860461",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1661421183i/62079482.jpg",
-      "authors": [
-        "Sally Gardner"
-      ],
-      "genres": [
-        "historical-fiction",
-        "fantasy",
-        "fiction",
-        "historical",
-        "magical-realism",
-        "romance",
-        "regency"
-      ],
-      "rating": 4.03,
-      "ratings": 838,
-      "reviews": 162
-    },
-    {
-      "title": "La furia",
-      "url": "https://www.goodreads.com/book/show/755100.La_furia",
-      "id": "741218",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1178070698i/755100.jpg",
-      "authors": [
-        "Silvina Ocampo"
-      ],
-      "genres": [
-        "short-stories",
-        "fiction",
-        "womens",
-        "classics",
-        "literature",
-        "magical-realism",
-        "portuguese-literature"
-      ],
-      "rating": 4.17,
-      "ratings": 810,
-      "reviews": 96
-    },
-    {
-      "title": "In the Land of Armadillos: Stories",
-      "url": "https://www.goodreads.com/book/show/25814227-in-the-land-of-armadillos",
-      "id": "45670937",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1454256527i/25814227.jpg",
-      "authors": [
-        "Helen Maryles Shankman"
-      ],
-      "genres": [
-        "short-stories",
-        "historical-fiction",
-        "fiction",
-        "holocaust",
-        "magical-realism",
-        "world-war-ii",
-        "war"
-      ],
-      "rating": 4.44,
-      "ratings": 797,
-      "reviews": 178
-    },
-    {
-      "title": "A Wish for Christmas",
-      "url": "https://www.goodreads.com/book/show/127654129-a-wish-for-christmas",
-      "id": "144049063",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1681126122i/127654129.jpg",
-      "authors": [
-        "Courtney Cole"
-      ],
-      "genres": [
-        "christmas",
-        "romance",
-        "holiday",
-        "fiction",
-        "magical-realism",
-        "fantasy",
-        "contemporary"
-      ],
-      "rating": 4,
-      "ratings": 789,
-      "reviews": 233
-    },
-    {
-      "title": "Lost in the Beehive",
-      "url": "https://www.goodreads.com/book/show/35297693-lost-in-the-beehive",
-      "id": "202283054",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1519618283i/35297693.jpg",
-      "authors": [
-        "Michele Young-Stone"
-      ],
-      "genres": [
-        "fiction",
-        "lgbt",
-        "historical-fiction",
-        "magical-realism",
-        "adult",
-        "queer",
-        "contemporary"
-      ],
-      "rating": 4.06,
-      "ratings": 785,
-      "reviews": 162
-    },
-    {
-      "title": "The Honey Month",
-      "url": "https://www.goodreads.com/book/show/8789052-the-honey-month",
-      "id": "13662872",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1566450028i/8789052.jpg",
-      "authors": [
-        "Amal El-Mohtar"
-      ],
-      "genres": [
-        "poetry",
-        "fantasy",
-        "short-stories",
-        "fiction",
-        "magical-realism",
-        "anthologies",
-        "speculative-fiction"
-      ],
-      "rating": 4.21,
-      "ratings": 774,
-      "reviews": 165
-    },
-    {
-      "title": "A Drop of Hope",
-      "url": "https://www.goodreads.com/book/show/39983518-a-drop-of-hope",
-      "id": "61906426",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1529197316i/39983518.jpg",
-      "authors": [
-        "Keith Calabrese"
-      ],
-      "genres": [
-        "middle-grade",
-        "realistic-fiction",
-        "fiction",
-        "fantasy",
-        "childrens",
-        "magical-realism",
-        "school"
-      ],
-      "rating": 4.08,
-      "ratings": 773,
-      "reviews": 160
-    },
-    {
-      "title": "El herbario de las hadas",
-      "url": "https://www.goodreads.com/book/show/13037983-el-herbario-de-las-hadas",
-      "id": "18186570",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1325092561i/13037983.jpg",
-      "authors": [
-        "Sébastien Pérez"
-      ],
-      "genres": [
-        "fantasy",
-        "art",
-        "picture-books",
-        "graphic-novels",
-        "childrens",
-        "magical-realism",
-        "historical-fantasy"
-      ],
-      "rating": 4.6,
-      "ratings": 768,
-      "reviews": 123
-    },
-    {
-      "title": "Dust",
-      "url": "https://www.goodreads.com/book/show/64000827-dust",
-      "id": "99474326",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1671522959i/64000827.jpg",
-      "authors": [
-        "Dusti Bowling"
-      ],
-      "genres": [
-        "middle-grade",
-        "fantasy",
-        "magical-realism",
-        "realistic-fiction",
-        "abuse",
-        "fiction",
-        "audiobook"
-      ],
-      "rating": 4.27,
-      "ratings": 767,
-      "reviews": 191
-    },
-    {
-      "title": "Crow",
-      "url": "https://www.goodreads.com/book/show/43681256-crow",
-      "id": "67959301",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1548168874i/43681256.jpg",
-      "authors": [
-        "Amy Spurway"
-      ],
-      "genres": [
-        "canada",
-        "fiction",
-        "contemporary",
-        "magical-realism",
-        "audiobook",
-        "humor",
-        "literary-fiction"
-      ],
-      "rating": 4.05,
-      "ratings": 755,
-      "reviews": 151
-    },
-    {
-      "title": "Night on the Galactic Railroad and Other Stories from Ihatov",
-      "url": "https://www.goodreads.com/book/show/17556523-night-on-the-galactic-railroad-and-other-stories-from-ihatov",
-      "id": "24470865",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1364769697i/17556523.jpg",
-      "authors": [
-        "Kenji Miyazawa"
-      ],
-      "genres": [
-        "fiction",
-        "fantasy",
-        "short-stories",
-        "japanese-literature",
-        "japan",
-        "classics",
-        "magical-realism"
-      ],
-      "rating": 4.04,
-      "ratings": 749,
-      "reviews": 112
-    },
-    {
-      "title": "Domy i inne duchy",
-      "url": "https://www.goodreads.com/book/show/57216425-domy-i-inne-duchy",
-      "id": "89551302",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1614361555i/57216425.jpg",
-      "authors": [
-        "Marta Bijan"
-      ],
-      "genres": [
-        "horror",
-        "short-stories",
-        "polish-literature",
-        "stories",
-        "short-story-collection",
-        "magical-realism",
-        "fiction"
-      ],
-      "rating": 4.03,
-      "ratings": 742,
-      "reviews": 225
-    },
-    {
-      "title": "Full Moon Over Freedom",
-      "url": "https://www.goodreads.com/book/show/63095149-full-moon-over-freedom",
-      "id": "98923951",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1680268696i/63095149.jpg",
-      "authors": [
-        "Angelina M. Lopez"
-      ],
-      "genres": [
-        "romance",
-        "contemporary",
-        "contemporary-romance",
-        "fiction",
-        "fantasy",
-        "adult",
-        "magical-realism"
-      ],
-      "rating": 4.02,
-      "ratings": 742,
-      "reviews": 252
-    },
-    {
-      "title": "His Name was Death",
-      "url": "https://www.goodreads.com/book/show/56760368-his-name-was-death",
-      "id": "1783878",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1616806546i/56760368.jpg",
-      "authors": [
-        "Rafael Bernal"
-      ],
-      "genres": [
-        "fiction",
-        "science-fiction",
-        "magical-realism",
-        "literature",
-        "novella",
-        "fantasy",
-        "literary-fiction"
-      ],
-      "rating": 4.11,
-      "ratings": 738,
-      "reviews": 111
-    },
-    {
-      "title": "Cuentos reunidos",
-      "url": "https://www.goodreads.com/book/show/7827151-cuentos-reunidos",
-      "id": "10880640",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1355149114i/7827151.jpg",
-      "authors": [
-        "Amparo Dávila"
-      ],
-      "genres": [
-        "short-stories",
-        "horror",
-        "fantasy",
         "spanish-literature",
-        "magical-realism",
-        "womens",
-        "anthologies"
-      ],
-      "rating": 4.28,
-      "ratings": 734,
-      "reviews": 140
-    },
-    {
-      "title": "Bloom",
-      "url": "https://www.goodreads.com/book/show/49202609-bloom",
-      "id": "66754678",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1576626298i/49202609.jpg",
-      "authors": [
-        "Nicola Skinner"
-      ],
-      "genres": [
-        "middle-grade",
-        "fantasy",
-        "magical-realism",
-        "childrens",
-        "fiction",
-        "school",
-        "audiobook"
-      ],
-      "rating": 4.04,
-      "ratings": 716,
-      "reviews": 154
-    },
-    {
-      "title": "Otherwood",
-      "url": "https://www.goodreads.com/book/show/38256488-otherwood",
-      "id": "59937289",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1522213543i/38256488.jpg",
-      "authors": [
-        "Pete Hautman"
-      ],
-      "genres": [
-        "middle-grade",
-        "fantasy",
-        "mystery",
-        "fiction",
-        "magical-realism",
-        "childrens",
-        "young-adult"
-      ],
-      "rating": 4,
-      "ratings": 711,
-      "reviews": 179
-    },
-    {
-      "title": "The Emporium of Imagination",
-      "url": "https://www.goodreads.com/book/show/53929331-the-emporium-of-imagination",
-      "id": "84292610",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1606298702i/53929331.jpg",
-      "authors": [
-        "Tabitha Bird"
-      ],
-      "genres": [
-        "fantasy",
-        "magical-realism",
-        "fiction",
-        "contemporary",
-        "magic",
-        "australia",
-        "book-club"
-      ],
-      "rating": 4.25,
-      "ratings": 711,
-      "reviews": 191
-    },
-    {
-      "title": "The Miracle on Ebenezer Street",
-      "url": "https://www.goodreads.com/book/show/53442146-the-miracle-on-ebenezer-street",
-      "id": "75494362",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1599564716i/53442146.jpg",
-      "authors": [
-        "Catherine Doyle"
-      ],
-      "genres": [
-        "christmas",
-        "middle-grade",
-        "fantasy",
-        "childrens",
-        "retellings",
-        "fiction",
         "magical-realism"
       ],
-      "rating": 4.13,
-      "ratings": 707,
-      "reviews": 142
+      "rating": 4.02,
+      "ratings": 1013,
+      "reviews": 183
     }
   ]
 }

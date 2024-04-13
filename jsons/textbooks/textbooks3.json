@@ -1,6 +1,90 @@
 {
   "books": [
     {
+      "title": "Neuroscience: Exploring the Brain",
+      "url": "https://www.goodreads.com/book/show/170011.Neuroscience",
+      "id": "164162",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328809598i/170011.jpg",
+      "authors": [
+        "Mark F. Bear"
+      ],
+      "genres": [
+        "neuroscience",
+        "science",
+        "psychology",
+        "textbooks",
+        "non-fiction",
+        "biology",
+        "brain"
+      ],
+      "rating": 4.27,
+      "ratings": 1186,
+      "reviews": 43
+    },
+    {
+      "title": "Option Volatility & Pricing: Advanced Trading Strategies and Techniques",
+      "url": "https://www.goodreads.com/book/show/119373.Option_Volatility_Pricing",
+      "id": "114929",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348260095i/119373.jpg",
+      "authors": [
+        "Sheldon Natenberg"
+      ],
+      "genres": [
+        "finance",
+        "business",
+        "non-fiction",
+        "economics",
+        "textbooks",
+        "technical",
+        "money"
+      ],
+      "rating": 4.26,
+      "ratings": 1170,
+      "reviews": 66
+    },
+    {
+      "title": "Topology",
+      "url": "https://www.goodreads.com/book/show/116418.Topology",
+      "id": "112114",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1325193543i/116418.jpg",
+      "authors": [
+        "James R. Munkres"
+      ],
+      "genres": [
+        "mathematics",
+        "textbooks",
+        "science",
+        "reference",
+        "non-fiction",
+        "technical",
+        "academic"
+      ],
+      "rating": 4.29,
+      "ratings": 1155,
+      "reviews": 53
+    },
+    {
+      "title": "Calculus Made Easy",
+      "url": "https://www.goodreads.com/book/show/818063.Calculus_Made_Easy",
+      "id": "803936",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1312067998i/818063.jpg",
+      "authors": [
+        "Silvanus Phillips Thompson"
+      ],
+      "genres": [
+        "mathematics",
+        "science",
+        "non-fiction",
+        "calculus",
+        "reference",
+        "textbooks",
+        "education"
+      ],
+      "rating": 4.22,
+      "ratings": 1151,
+      "reviews": 115
+    },
+    {
       "title": "Social Psychology",
       "url": "https://www.goodreads.com/book/show/3243469-social-psychology",
       "id": "2913278",
@@ -18,29 +102,8 @@
         "read-for-school"
       ],
       "rating": 4.02,
-      "ratings": 1140,
+      "ratings": 1149,
       "reviews": 55
-    },
-    {
-      "title": "Calculus Made Easy",
-      "url": "https://www.goodreads.com/book/show/818063.Calculus_Made_Easy",
-      "id": "803936",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1312067998i/818063.jpg",
-      "authors": [
-        "Silvanus Phillips Thompson"
-      ],
-      "genres": [
-        "mathematics",
-        "science",
-        "non-fiction",
-        "reference",
-        "calculus",
-        "textbooks",
-        "education"
-      ],
-      "rating": 4.22,
-      "ratings": 1140,
-      "reviews": 114
     },
     {
       "title": "The Study of Counterpoint",
@@ -61,7 +124,7 @@
       ],
       "rating": 4.18,
       "ratings": 1136,
-      "reviews": 46
+      "reviews": 47
     },
     {
       "title": "Linear Algebra and Its Applications",
@@ -80,9 +143,51 @@
         "reference",
         "computer-science"
       ],
-      "rating": 4.3,
-      "ratings": 1125,
-      "reviews": 50
+      "rating": 4.29,
+      "ratings": 1135,
+      "reviews": 51
+    },
+    {
+      "title": "The Making of a Story: A Norton Guide to Writing Fiction and Nonfiction",
+      "url": "https://www.goodreads.com/book/show/1679037.The_Making_of_a_Story",
+      "id": "1956418",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442015879i/1679037.jpg",
+      "authors": [
+        "Alice LaPlante"
+      ],
+      "genres": [
+        "writing",
+        "non-fiction",
+        "reference",
+        "crafts",
+        "short-stories",
+        "read-for-school",
+        "textbooks"
+      ],
+      "rating": 4.23,
+      "ratings": 1132,
+      "reviews": 125
+    },
+    {
+      "title": "Political Ideologies: An Introduction",
+      "url": "https://www.goodreads.com/book/show/679718.Political_Ideologies",
+      "id": "666120",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1311996722i/679718.jpg",
+      "authors": [
+        "Andrew Heywood"
+      ],
+      "genres": [
+        "politics",
+        "non-fiction",
+        "philosophy",
+        "political-science",
+        "history",
+        "textbooks",
+        "sociology"
+      ],
+      "rating": 4.12,
+      "ratings": 1123,
+      "reviews": 103
     },
     {
       "title": "Biochemistry",
@@ -102,7 +207,7 @@
         "school"
       ],
       "rating": 4.15,
-      "ratings": 1118,
+      "ratings": 1120,
       "reviews": 51
     },
     {
@@ -123,7 +228,7 @@
         "school"
       ],
       "rating": 4.15,
-      "ratings": 1115,
+      "ratings": 1119,
       "reviews": 77
     },
     {
@@ -140,54 +245,12 @@
         "non-fiction",
         "science",
         "algebra",
-        "reference",
-        "technical"
+        "technical",
+        "reference"
       ],
       "rating": 4.37,
-      "ratings": 1104,
+      "ratings": 1118,
       "reviews": 76
-    },
-    {
-      "title": "Computer Architecture: A Quantitative Approach",
-      "url": "https://www.goodreads.com/book/show/70135.Computer_Architecture",
-      "id": "67952",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388277732i/70135.jpg",
-      "authors": [
-        "John L. Hennessy"
-      ],
-      "genres": [
-        "computer-science",
-        "programming",
-        "computers",
-        "reference",
-        "textbooks",
-        "non-fiction",
-        "technology"
-      ],
-      "rating": 4.12,
-      "ratings": 1086,
-      "reviews": 36
-    },
-    {
-      "title": "The New Typography (Weimar and Now: German Cultural Criticism",
-      "url": "https://www.goodreads.com/book/show/119149.The_New_Typography_Weimar_and_Now",
-      "id": "114711",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347250533i/119149.jpg",
-      "authors": [
-        "Jan Tschichold"
-      ],
-      "genres": [
-        "design",
-        "non-fiction",
-        "art",
-        "art-design",
-        "reference",
-        "history",
-        "textbooks"
-      ],
-      "rating": 4.12,
-      "ratings": 1074,
-      "reviews": 27
     },
     {
       "title": "Biological Psychology",
@@ -207,8 +270,50 @@
         "biology"
       ],
       "rating": 4.02,
-      "ratings": 1073,
-      "reviews": 63
+      "ratings": 1091,
+      "reviews": 68
+    },
+    {
+      "title": "Computer Architecture: A Quantitative Approach",
+      "url": "https://www.goodreads.com/book/show/70135.Computer_Architecture",
+      "id": "67952",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388277732i/70135.jpg",
+      "authors": [
+        "John L. Hennessy"
+      ],
+      "genres": [
+        "computer-science",
+        "programming",
+        "computers",
+        "reference",
+        "textbooks",
+        "technology",
+        "non-fiction"
+      ],
+      "rating": 4.11,
+      "ratings": 1088,
+      "reviews": 37
+    },
+    {
+      "title": "The New Typography",
+      "url": "https://www.goodreads.com/book/show/119149.The_New_Typography",
+      "id": "114711",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347250533i/119149.jpg",
+      "authors": [
+        "Jan Tschichold"
+      ],
+      "genres": [
+        "design",
+        "non-fiction",
+        "art",
+        "art-design",
+        "reference",
+        "history",
+        "textbooks"
+      ],
+      "rating": 4.13,
+      "ratings": 1075,
+      "reviews": 27
     },
     {
       "title": "Lippincott's Illustrated Reviews: Pharmacology",
@@ -225,11 +330,11 @@
         "textbooks",
         "reference",
         "non-fiction",
-        "health"
+        "nursing"
       ],
-      "rating": 4.15,
-      "ratings": 1069,
-      "reviews": 53
+      "rating": 4.16,
+      "ratings": 1072,
+      "reviews": 54
     },
     {
       "title": "Anatomy Trains: Myofascial Meridians for Manual and Movement Therapists",
@@ -245,11 +350,11 @@
         "fitness",
         "science",
         "reference",
-        "textbooks",
-        "education"
+        "medical",
+        "textbooks"
       ],
       "rating": 4.47,
-      "ratings": 1062,
+      "ratings": 1070,
       "reviews": 41
     },
     {
@@ -270,8 +375,29 @@
         "reference"
       ],
       "rating": 4.38,
-      "ratings": 1049,
-      "reviews": 55
+      "ratings": 1054,
+      "reviews": 56
+    },
+    {
+      "title": "Guiding Readers and Writers (Grades 3-6): Teaching, Comprehension, Genre, and Content Literacy",
+      "url": "https://www.goodreads.com/book/show/432004.Guiding_Readers_and_Writers_Grades_3_6_",
+      "id": "420969",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347870069i/432004.jpg",
+      "authors": [
+        "Irene C. Fountas"
+      ],
+      "genres": [
+        "education",
+        "teaching",
+        "writing",
+        "non-fiction",
+        "reference",
+        "school",
+        "textbooks"
+      ],
+      "rating": 4.3,
+      "ratings": 1053,
+      "reviews": 44
     },
     {
       "title": "Gray's Anatomy for Students",
@@ -291,29 +417,8 @@
         "education"
       ],
       "rating": 4.35,
-      "ratings": 1046,
+      "ratings": 1048,
       "reviews": 43
-    },
-    {
-      "title": "Computer Systems: A Programmer's Perspective",
-      "url": "https://www.goodreads.com/book/show/829182.Computer_Systems",
-      "id": "814871",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1387708094i/829182.jpg",
-      "authors": [
-        "Randal E. Bryant"
-      ],
-      "genres": [
-        "computer-science",
-        "programming",
-        "technology",
-        "textbooks",
-        "computers",
-        "technical",
-        "non-fiction"
-      ],
-      "rating": 4.45,
-      "ratings": 1029,
-      "reviews": 58
     },
     {
       "title": "Investment Banking: Valuation, Leveraged Buyouts, and Mergers & Acquisitions",
@@ -332,9 +437,51 @@
         "banking",
         "reference"
       ],
-      "rating": 4.3,
-      "ratings": 1029,
-      "reviews": 43
+      "rating": 4.31,
+      "ratings": 1042,
+      "reviews": 44
+    },
+    {
+      "title": "Computer Systems: A Programmer's Perspective",
+      "url": "https://www.goodreads.com/book/show/829182.Computer_Systems",
+      "id": "814871",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1387708094i/829182.jpg",
+      "authors": [
+        "Randal E. Bryant"
+      ],
+      "genres": [
+        "computer-science",
+        "programming",
+        "technology",
+        "computers",
+        "textbooks",
+        "technical",
+        "non-fiction"
+      ],
+      "rating": 4.45,
+      "ratings": 1037,
+      "reviews": 58
+    },
+    {
+      "title": "The Jazz Theory Book",
+      "url": "https://www.goodreads.com/book/show/113171.The_Jazz_Theory_Book",
+      "id": "108961",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1171670678i/113171.jpg",
+      "authors": [
+        "Mark  Levine"
+      ],
+      "genres": [
+        "music",
+        "jazz",
+        "non-fiction",
+        "reference",
+        "art",
+        "theory",
+        "textbooks"
+      ],
+      "rating": 4.44,
+      "ratings": 1036,
+      "reviews": 31
     },
     {
       "title": "Physical Chemistry",
@@ -354,155 +501,8 @@
         "school"
       ],
       "rating": 4.02,
-      "ratings": 1022,
-      "reviews": 49
-    },
-    {
-      "title": "Guiding Readers and Writers (Grades 3-6): Teaching, Comprehension, Genre, and Content Literacy",
-      "url": "https://www.goodreads.com/book/show/432004.Guiding_Readers_and_Writers_Grades_3_6_",
-      "id": "420969",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347870069i/432004.jpg",
-      "authors": [
-        "Irene C. Fountas"
-      ],
-      "genres": [
-        "education",
-        "teaching",
-        "writing",
-        "non-fiction",
-        "reference",
-        "school",
-        "textbooks"
-      ],
-      "rating": 4.31,
-      "ratings": 1012,
-      "reviews": 41
-    },
-    {
-      "title": "Human Anatomy & Physiology",
-      "url": "https://www.goodreads.com/book/show/45840.Human_Anatomy_Physiology",
-      "id": "45002",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442699037i/45840.jpg",
-      "authors": [
-        "Elaine N. Marieb"
-      ],
-      "genres": [
-        "science",
-        "non-fiction",
-        "textbooks",
-        "reference",
-        "biology",
-        "medicine",
-        "nursing"
-      ],
-      "rating": 4.01,
-      "ratings": 1010,
-      "reviews": 66
-    },
-    {
-      "title": "Roget's International Thesaurus",
-      "url": "https://www.goodreads.com/book/show/833807.Roget_s_International_Thesaurus",
-      "id": "833871",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1437968496i/833807.jpg",
-      "authors": [
-        "Peter Mark Roget"
-      ],
-      "genres": [
-        "reference",
-        "writing",
-        "non-fiction",
-        "language",
-        "linguistics",
-        "education",
-        "textbooks"
-      ],
-      "rating": 4.44,
-      "ratings": 995,
-      "reviews": 48
-    },
-    {
-      "title": "The Artful Edit: On the Practice of Editing Yourself",
-      "url": "https://www.goodreads.com/book/show/1791971.The_Artful_Edit",
-      "id": "1790950",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348698942i/1791971.jpg",
-      "authors": [
-        "Susan Bell"
-      ],
-      "genres": [
-        "writing",
-        "non-fiction",
-        "reference",
-        "crafts",
-        "language",
-        "textbooks",
-        "business"
-      ],
-      "rating": 4.03,
-      "ratings": 991,
-      "reviews": 199
-    },
-    {
-      "title": "Organic Chemistry",
-      "url": "https://www.goodreads.com/book/show/1957892.Organic_Chemistry",
-      "id": "1960879",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348002795i/1957892.jpg",
-      "authors": [
-        "Jonathan Clayden"
-      ],
-      "genres": [
-        "chemistry",
-        "science",
-        "textbooks",
-        "reference",
-        "non-fiction",
-        "biography",
-        "education"
-      ],
-      "rating": 4.29,
-      "ratings": 991,
-      "reviews": 47
-    },
-    {
-      "title": "Thermodynamics: An Engineering Approach [with Student Resource DVD]",
-      "url": "https://www.goodreads.com/book/show/72049.Thermodynamics",
-      "id": "69751",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386921004i/72049.jpg",
-      "authors": [
-        "Yunus A. Cengel"
-      ],
-      "genres": [
-        "engineering",
-        "textbooks",
-        "science",
-        "physics",
-        "reference",
-        "academic",
-        "technical"
-      ],
-      "rating": 4.13,
-      "ratings": 983,
-      "reviews": 47
-    },
-    {
-      "title": "Mathematical Methods in the Physical Sciences",
-      "url": "https://www.goodreads.com/book/show/774911.Mathematical_Methods_in_the_Physical_Sciences",
-      "id": "760951",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1387736697i/774911.jpg",
-      "authors": [
-        "Mary L. Boas"
-      ],
-      "genres": [
-        "physics",
-        "mathematics",
-        "science",
-        "textbooks",
-        "non-fiction",
-        "reference",
-        "technical"
-      ],
-      "rating": 4.2,
-      "ratings": 970,
-      "reviews": 48
+      "ratings": 1027,
+      "reviews": 50
     }
   ]
 }

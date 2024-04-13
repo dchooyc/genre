@@ -1,6 +1,27 @@
 {
   "books": [
     {
+      "title": "Johnny Cash: The Life",
+      "url": "https://www.goodreads.com/book/show/17333255-johnny-cash",
+      "id": "24064559",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1376878090i/17333255.jpg",
+      "authors": [
+        "Robert Hilburn"
+      ],
+      "genres": [
+        "biography",
+        "music",
+        "non-fiction",
+        "history",
+        "biography-memoir",
+        "audiobook",
+        "memoir"
+      ],
+      "rating": 4.28,
+      "ratings": 3949,
+      "reviews": 484
+    },
+    {
       "title": "A Song for You: My Life with Whitney Houston",
       "url": "https://www.goodreads.com/book/show/44674459-a-song-for-you",
       "id": "69332456",
@@ -18,386 +39,155 @@
         "autobiography"
       ],
       "rating": 4.13,
-      "ratings": 3837,
-      "reviews": 585
+      "ratings": 3946,
+      "reviews": 593
     },
     {
-      "title": "I Can Only Imagine: A Memoir",
-      "url": "https://www.goodreads.com/book/show/35554372-i-can-only-imagine",
-      "id": "56978805",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1514391775i/35554372.jpg",
+      "title": "AMORALMAN: A True Story and Other Lies",
+      "url": "https://www.goodreads.com/book/show/53168892-amoralman",
+      "id": "80016005",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1604364678i/53168892.jpg",
       "authors": [
-        "Bart Millard"
+        "Derek Delgaudio"
+      ],
+      "genres": [
+        "non-fiction",
+        "memoir",
+        "biography",
+        "audiobook",
+        "magic",
+        "philosophy",
+        "biography-memoir"
+      ],
+      "rating": 4.26,
+      "ratings": 3945,
+      "reviews": 504
+    },
+    {
+      "title": "She Memes Well",
+      "url": "https://www.goodreads.com/book/show/49567214-she-memes-well",
+      "id": "71291897",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1613704501i/49567214.jpg",
+      "authors": [
+        "Quinta Brunson"
+      ],
+      "genres": [
+        "memoir",
+        "non-fiction",
+        "humor",
+        "essays",
+        "audiobook",
+        "biography",
+        "autobiography"
+      ],
+      "rating": 4.08,
+      "ratings": 3944,
+      "reviews": 510
+    },
+    {
+      "title": "Turning Points: A Journey Through Challenges",
+      "url": "https://www.goodreads.com/book/show/15735106-turning-points",
+      "id": "21417762",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1342436692i/15735106.jpg",
+      "authors": [
+        "A.P.J. Abdul Kalam"
+      ],
+      "genres": [
+        "non-fiction",
+        "biography",
+        "autobiography",
+        "india",
+        "inspirational",
+        "self-help",
+        "politics"
+      ],
+      "rating": 4.1,
+      "ratings": 3941,
+      "reviews": 220
+    },
+    {
+      "title": "Hur jag lärde mig förstå världen",
+      "url": "https://www.goodreads.com/book/show/36404996-hur-jag-l-rde-mig-f-rst-v-rlden",
+      "id": "65691654",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1507892265i/36404996.jpg",
+      "authors": [
+        "Hans Rosling"
+      ],
+      "genres": [
+        "non-fiction",
+        "biography",
+        "memoir",
+        "science",
+        "audiobook",
+        "autobiography",
+        "biography-memoir"
+      ],
+      "rating": 4.35,
+      "ratings": 3936,
+      "reviews": 354
+    },
+    {
+      "title": "Edgar Cayce: The Sleeping Prophet",
+      "url": "https://www.goodreads.com/book/show/1453576.Edgar_Cayce",
+      "id": "558257",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347430754i/1453576.jpg",
+      "authors": [
+        "Jess Stearn"
+      ],
+      "genres": [
+        "biography",
+        "non-fiction",
+        "spirituality",
+        "new-age",
+        "paranormal",
+        "metaphysics",
+        "religion"
+      ],
+      "rating": 4.23,
+      "ratings": 3933,
+      "reviews": 58
+    },
+    {
+      "title": "Paul McCartney: Many Years from Now",
+      "url": "https://www.goodreads.com/book/show/305955.Paul_McCartney",
+      "id": "841558",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328556145i/305955.jpg",
+      "authors": [
+        "Barry Miles"
+      ],
+      "genres": [
+        "music",
+        "biography",
+        "non-fiction",
+        "memoir",
+        "autobiography",
+        "history",
+        "biography-memoir"
+      ],
+      "rating": 4.17,
+      "ratings": 3929,
+      "reviews": 170
+    },
+    {
+      "title": "Like a River: Finding the Faith and Strength to Move Forward after Loss and Heartache",
+      "url": "https://www.goodreads.com/book/show/126597426-like-a-river",
+      "id": "99297353",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1680940447i/126597426.jpg",
+      "authors": [
+        "Granger Smith"
       ],
       "genres": [
         "non-fiction",
         "christian",
-        "biography",
-        "memoir",
-        "audiobook",
-        "music",
-        "autobiography"
-      ],
-      "rating": 4.46,
-      "ratings": 3836,
-      "reviews": 495
-    },
-    {
-      "title": "Mother Teresa: Come Be My Light: The Private Writings of the Saint of Calcutta",
-      "url": "https://www.goodreads.com/book/show/1543796.Mother_Teresa",
-      "id": "1536050",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442934644i/1543796.jpg",
-      "authors": [
-        "Brian Kolodiejchuk"
-      ],
-      "genres": [
-        "religion",
-        "non-fiction",
-        "biography",
-        "catholic",
-        "spirituality",
         "faith",
-        "christian"
-      ],
-      "rating": 4.16,
-      "ratings": 3830,
-      "reviews": 538
-    },
-    {
-      "title": "A Drop of Midnight: A Memoir",
-      "url": "https://www.goodreads.com/book/show/52590255-a-drop-of-midnight",
-      "id": "71667567",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1570470541l/52590255.jpg",
-      "authors": [
-        "Jason Timbuktu Diakité"
-      ],
-      "genres": [
-        "non-fiction",
-        "memoir",
-        "biography",
-        "biography-memoir",
-        "autobiography",
-        "music",
-        "swedish-literature"
-      ],
-      "rating": 4,
-      "ratings": 3830,
-      "reviews": 387
-    },
-    {
-      "title": "Who Was Albert Einstein?",
-      "url": "https://www.goodreads.com/book/show/142271.Who_Was_Albert_Einstein_",
-      "id": "137221",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1309213468i/142271.jpg",
-      "authors": [
-        "Jess M. Brallier"
-      ],
-      "genres": [
-        "biography",
-        "non-fiction",
-        "history",
-        "science",
-        "childrens",
-        "biography-memoir",
-        "education"
-      ],
-      "rating": 4.22,
-      "ratings": 3830,
-      "reviews": 430
-    },
-    {
-      "title": "Cat Daddy: What the World's Most Incorrigible Cat Taught Me About Life, Love, and Coming Clean",
-      "url": "https://www.goodreads.com/book/show/13446655-cat-daddy",
-      "id": "18959810",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1329986208i/13446655.jpg",
-      "authors": [
-        "Jackson Galaxy"
-      ],
-      "genres": [
-        "non-fiction",
-        "animals",
-        "cats",
-        "memoir",
-        "biography",
         "audiobook",
+        "biography",
+        "memoir",
         "autobiography"
       ],
-      "rating": 4,
-      "ratings": 3827,
-      "reviews": 572
-    },
-    {
-      "title": "Walk This Way: The Autobiography of Aerosmith",
-      "url": "https://www.goodreads.com/book/show/154755.Walk_This_Way",
-      "id": "149370",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348408567i/154755.jpg",
-      "authors": [
-        "Aerosmith"
-      ],
-      "genres": [
-        "music",
-        "biography",
-        "non-fiction",
-        "autobiography",
-        "memoir",
-        "rock-n-roll",
-        "history"
-      ],
-      "rating": 4.03,
-      "ratings": 3826,
-      "reviews": 150
-    },
-    {
-      "title": "The Wise Men: Six Friends and the World They Made",
-      "url": "https://www.goodreads.com/book/show/10885.The_Wise_Men",
-      "id": "1205942",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327870158i/10885.jpg",
-      "authors": [
-        "Walter Isaacson"
-      ],
-      "genres": [
-        "history",
-        "biography",
-        "non-fiction",
-        "politics",
-        "american-history",
-        "business",
-        "biography-memoir"
-      ],
-      "rating": 4.08,
-      "ratings": 3823,
-      "reviews": 172
-    },
-    {
-      "title": "Break Point: SAS: Who Dares Wins Host's Incredible True Story",
-      "url": "https://www.goodreads.com/book/show/43783741-break-point",
-      "id": "68116273",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1548788597i/43783741.jpg",
-      "authors": [
-        "Ollie Ollerton"
-      ],
-      "genres": [
-        "non-fiction",
-        "biography",
-        "war",
-        "autobiography",
-        "audiobook",
-        "memoir",
-        "military-fiction"
-      ],
-      "rating": 4.08,
-      "ratings": 3819,
-      "reviews": 191
-    },
-    {
-      "title": "Kicking & Dreaming: A Story of Heart, Soul, and Rock and Roll",
-      "url": "https://www.goodreads.com/book/show/13623901-kicking-dreaming",
-      "id": "19227649",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1346991555i/13623901.jpg",
-      "authors": [
-        "Ann  Wilson"
-      ],
-      "genres": [
-        "music",
-        "non-fiction",
-        "biography",
-        "memoir",
-        "biography-memoir",
-        "autobiography",
-        "audiobook"
-      ],
-      "rating": 4.06,
-      "ratings": 3818,
-      "reviews": 479
-    },
-    {
-      "title": "Abroad in Japan: Ten Years In The Land Of The Rising Sun",
-      "url": "https://www.goodreads.com/book/show/64645770-abroad-in-japan",
-      "id": "100015692",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1689819152i/64645770.jpg",
-      "authors": [
-        "Chris  Broad"
-      ],
-      "genres": [
-        "non-fiction",
-        "travel",
-        "japan",
-        "biography",
-        "memoir",
-        "audiobook",
-        "autobiography"
-      ],
-      "rating": 4.29,
-      "ratings": 3816,
-      "reviews": 429
-    },
-    {
-      "title": "Steve & Me",
-      "url": "https://www.goodreads.com/book/show/486550.Steve_Me",
-      "id": "474832",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1424469895i/486550.jpg",
-      "authors": [
-        "Terri Irwin"
-      ],
-      "genres": [
-        "non-fiction",
-        "biography",
-        "memoir",
-        "animals",
-        "australia",
-        "biography-memoir",
-        "autobiography"
-      ],
-      "rating": 4.4,
-      "ratings": 3810,
-      "reviews": 569
-    },
-    {
-      "title": "Tunnel 29: The True Story of an Extraordinary Escape Beneath the Berlin Wall",
-      "url": "https://www.goodreads.com/book/show/56222237-tunnel-29",
-      "id": "87573107",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1608632059i/56222237.jpg",
-      "authors": [
-        "Helena Merriman"
-      ],
-      "genres": [
-        "non-fiction",
-        "history",
-        "germany",
-        "historical",
-        "biography",
-        "audiobook",
-        "politics"
-      ],
-      "rating": 4.5,
-      "ratings": 3808,
-      "reviews": 447
-    },
-    {
-      "title": "Fairyland: A Memoir of My Father",
-      "url": "https://www.goodreads.com/book/show/16241141-fairyland",
-      "id": "22251264",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1689721706i/16241141.jpg",
-      "authors": [
-        "Alysia Abbott"
-      ],
-      "genres": [
-        "memoir",
-        "non-fiction",
-        "queer",
-        "biography",
-        "lgbt",
-        "biography-memoir",
-        "family"
-      ],
-      "rating": 4.02,
-      "ratings": 3807,
-      "reviews": 542
-    },
-    {
-      "title": "Everybody Loves Our Town: An Oral History of Grunge",
-      "url": "https://www.goodreads.com/book/show/10790499-everybody-loves-our-town",
-      "id": "15702785",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320563055i/10790499.jpg",
-      "authors": [
-        "Mark Yarm"
-      ],
-      "genres": [
-        "music",
-        "non-fiction",
-        "history",
-        "biography",
-        "oral-history",
-        "pop-culture",
-        "the-united-states-of-america"
-      ],
-      "rating": 4.27,
-      "ratings": 3803,
-      "reviews": 300
-    },
-    {
-      "title": "For the Love of Physics: From the End of the Rainbow to the Edge of Time - A Journey Through the Wonders of Physics",
-      "url": "https://www.goodreads.com/book/show/7841672-for-the-love-of-physics",
-      "id": "10935140",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1438420090i/7841672.jpg",
-      "authors": [
-        "Walter Lewin"
-      ],
-      "genres": [
-        "science",
-        "physics",
-        "non-fiction",
-        "education",
-        "biography",
-        "popular-science",
-        "audiobook"
-      ],
-      "rating": 4.25,
-      "ratings": 3802,
-      "reviews": 363
-    },
-    {
-      "title": "Miracle and Wonder: Conversations with Paul Simon",
-      "url": "https://www.goodreads.com/book/show/59545874-miracle-and-wonder",
-      "id": "93782197",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1636129301i/59545874.jpg",
-      "authors": [
-        "Malcolm Gladwell"
-      ],
-      "genres": [
-        "music",
-        "non-fiction",
-        "biography",
-        "audiobook",
-        "memoir",
-        "biography-memoir",
-        "art"
-      ],
-      "rating": 4.58,
-      "ratings": 3800,
-      "reviews": 732
-    },
-    {
-      "title": "Draft No. 4: On the Writing Process",
-      "url": "https://www.goodreads.com/book/show/18194765-draft-no-4",
-      "id": "25602290",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1505469268i/18194765.jpg",
-      "authors": [
-        "John McPhee"
-      ],
-      "genres": [
-        "writing",
-        "non-fiction",
-        "essays",
-        "memoir",
-        "crafts",
-        "biography",
-        "reference"
-      ],
-      "rating": 4.09,
-      "ratings": 3800,
-      "reviews": 584
-    },
-    {
-      "title": "Beautiful",
-      "url": "https://www.goodreads.com/book/show/10455614-beautiful",
-      "id": "15360505",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1344676280i/10455614.jpg",
-      "authors": [
-        "Katie Piper"
-      ],
-      "genres": [
-        "non-fiction",
-        "biography",
-        "memoir",
-        "autobiography",
-        "true-crime",
-        "inspirational",
-        "true-story"
-      ],
-      "rating": 4.41,
-      "ratings": 3797,
-      "reviews": 315
+      "rating": 4.67,
+      "ratings": 3926,
+      "reviews": 617
     },
     {
       "title": "Strangeways: A Prison Officer's Story",
@@ -417,92 +207,302 @@
         "memoir"
       ],
       "rating": 4.06,
-      "ratings": 3791,
-      "reviews": 280
+      "ratings": 3924,
+      "reviews": 283
     },
     {
-      "title": "In an Instant: A Family's Journey of Love and Healing",
-      "url": "https://www.goodreads.com/book/show/214049.In_an_Instant",
-      "id": "1707597",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1385154889i/214049.jpg",
+      "title": "The Frontiersmen",
+      "url": "https://www.goodreads.com/book/show/697650.The_Frontiersmen",
+      "id": "811344",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1306537814i/697650.jpg",
       "authors": [
-        "Lee Woodruff"
+        "Allan W. Eckert"
+      ],
+      "genres": [
+        "history",
+        "non-fiction",
+        "american-history",
+        "westerns",
+        "historical",
+        "biography",
+        "adventure"
+      ],
+      "rating": 4.45,
+      "ratings": 3922,
+      "reviews": 378
+    },
+    {
+      "title": "The Alchemy of Air: A Jewish Genius, a Doomed Tycoon, and the Scientific Discovery That Fed the World but Fueled the Rise of Hitler",
+      "url": "https://www.goodreads.com/book/show/3269091-the-alchemy-of-air",
+      "id": "3304430",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320429919i/3269091.jpg",
+      "authors": [
+        "Thomas Hager"
+      ],
+      "genres": [
+        "history",
+        "science",
+        "non-fiction",
+        "chemistry",
+        "biography",
+        "historical",
+        "technology"
+      ],
+      "rating": 4.34,
+      "ratings": 3921,
+      "reviews": 486
+    },
+    {
+      "title": "Full Tilt: Ireland to India with a Bicycle",
+      "url": "https://www.goodreads.com/book/show/163921.Full_Tilt",
+      "id": "565583",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1340739633i/163921.jpg",
+      "authors": [
+        "Dervla Murphy"
+      ],
+      "genres": [
+        "travel",
+        "non-fiction",
+        "memoir",
+        "adventure",
+        "india",
+        "cycling",
+        "biography"
+      ],
+      "rating": 4.07,
+      "ratings": 3919,
+      "reviews": 431
+    },
+    {
+      "title": "The Space Barons: Elon Musk, Jeff Bezos, and the Quest to Colonize the Cosmos",
+      "url": "https://www.goodreads.com/book/show/36205015-the-space-barons",
+      "id": "57835530",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1510381441i/36205015.jpg",
+      "authors": [
+        "Christian Davenport"
       ],
       "genres": [
         "non-fiction",
-        "memoir",
+        "science",
+        "space",
+        "business",
+        "technology",
         "biography",
-        "autobiography",
-        "biography-memoir",
-        "family",
-        "inspirational"
+        "history"
       ],
       "rating": 4.11,
-      "ratings": 3789,
-      "reviews": 437
+      "ratings": 3914,
+      "reviews": 370
     },
     {
-      "title": "Trouble Boys: The True Story of the Replacements",
-      "url": "https://www.goodreads.com/book/show/28098152-trouble-boys",
-      "id": "48102743",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1449239660i/28098152.jpg",
+      "title": "Bobby Kennedy: A Raging Spirit",
+      "url": "https://www.goodreads.com/book/show/25110984-bobby-kennedy",
+      "id": "58357697",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1509270010i/25110984.jpg",
       "authors": [
-        "Bob Mehr"
+        "Chris Matthews"
       ],
       "genres": [
-        "music",
-        "non-fiction",
         "biography",
         "history",
+        "non-fiction",
+        "politics",
+        "american-history",
+        "biography-memoir",
+        "historical"
+      ],
+      "rating": 4.07,
+      "ratings": 3910,
+      "reviews": 551
+    },
+    {
+      "title": "Growing Up bin Laden: Osama's Wife and Son Take Us Inside Their Secret World",
+      "url": "https://www.goodreads.com/book/show/6490174-growing-up-bin-laden",
+      "id": "19140904",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1311994127i/6490174.jpg",
+      "authors": [
+        "Jean Sasson"
+      ],
+      "genres": [
+        "non-fiction",
+        "biography",
+        "memoir",
+        "history",
+        "islam",
+        "biography-memoir",
+        "politics"
+      ],
+      "rating": 4.09,
+      "ratings": 3902,
+      "reviews": 457
+    },
+    {
+      "title": "The Medici: Godfathers of the Renaissance",
+      "url": "https://www.goodreads.com/book/show/844124.The_Medici",
+      "id": "2220097",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1414188204i/844124.jpg",
+      "authors": [
+        "Paul Strathern"
+      ],
+      "genres": [
+        "history",
+        "non-fiction",
+        "biography",
+        "italy",
+        "european-history",
+        "art",
+        "historical"
+      ],
+      "rating": 4.1,
+      "ratings": 3900,
+      "reviews": 390
+    },
+    {
+      "title": "Son",
+      "url": "https://www.goodreads.com/book/show/372165.Son",
+      "id": "2188218",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1420794314i/372165.jpg",
+      "authors": [
+        "Jack Olsen"
+      ],
+      "genres": [
+        "true-crime",
+        "non-fiction",
+        "crime",
+        "audiobook",
+        "biography",
+        "mystery",
+        "psychology"
+      ],
+      "rating": 4,
+      "ratings": 3899,
+      "reviews": 212
+    },
+    {
+      "title": "I Can Only Imagine: A Memoir",
+      "url": "https://www.goodreads.com/book/show/35554372-i-can-only-imagine",
+      "id": "56978805",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1514391775i/35554372.jpg",
+      "authors": [
+        "Bart Millard"
+      ],
+      "genres": [
+        "non-fiction",
+        "christian",
+        "biography",
         "memoir",
         "audiobook",
+        "music",
+        "autobiography"
+      ],
+      "rating": 4.46,
+      "ratings": 3893,
+      "reviews": 500
+    },
+    {
+      "title": "Children of the Flames: Dr. Josef Mengele and the Untold Story of the Twins of Auschwitz",
+      "url": "https://www.goodreads.com/book/show/619916.Children_of_the_Flames",
+      "id": "1379820",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1349001250i/619916.jpg",
+      "authors": [
+        "Lucette Matalon Lagnado"
+      ],
+      "genres": [
+        "history",
+        "non-fiction",
+        "holocaust",
+        "world-war-ii",
+        "war",
+        "biography",
+        "historical"
+      ],
+      "rating": 4,
+      "ratings": 3892,
+      "reviews": 207
+    },
+    {
+      "title": "Cosmic Trigger: Die letzten Geheimnisse der Illuminaten oder An den Grenzen des erweiterten Bewusstseins",
+      "url": "https://www.goodreads.com/book/show/48624.Cosmic_Trigger",
+      "id": "7928",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1170356249i/48624.jpg",
+      "authors": [
+        "Robert Anton Wilson"
+      ],
+      "genres": [
+        "philosophy",
+        "non-fiction",
+        "occult",
+        "psychology",
+        "spirituality",
+        "conspiracy-theories",
+        "biography"
+      ],
+      "rating": 4.26,
+      "ratings": 3887,
+      "reviews": 202
+    },
+    {
+      "title": "Do the Birds Still Sing in Hell?",
+      "url": "https://www.goodreads.com/book/show/17465040-do-the-birds-still-sing-in-hell",
+      "id": "9814783",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1376880967i/17465040.jpg",
+      "authors": [
+        "Horace Greasley"
+      ],
+      "genres": [
+        "non-fiction",
+        "history",
+        "war",
+        "historical",
+        "biography",
+        "world-war-ii",
+        "holocaust"
+      ],
+      "rating": 4.2,
+      "ratings": 3886,
+      "reviews": 385
+    },
+    {
+      "title": "The Terrible: A Storyteller's Memoir",
+      "url": "https://www.goodreads.com/book/show/36316300-the-terrible",
+      "id": "57990204",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1524529337i/36316300.jpg",
+      "authors": [
+        "Yrsa Daley-Ward"
+      ],
+      "genres": [
+        "poetry",
+        "memoir",
+        "non-fiction",
+        "contemporary",
+        "lgbt",
+        "biography",
         "biography-memoir"
       ],
-      "rating": 4.54,
-      "ratings": 3788,
-      "reviews": 518
+      "rating": 4.19,
+      "ratings": 3885,
+      "reviews": 442
     },
     {
-      "title": "Red China Blues: My Long March From Mao to Now",
-      "url": "https://www.goodreads.com/book/show/146335.Red_China_Blues",
-      "id": "1494196",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320462725i/146335.jpg",
+      "title": "America the Beautiful: Rediscovering What Made This Nation Great",
+      "url": "https://www.goodreads.com/book/show/13160142-america-the-beautiful",
+      "id": "18338874",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1344719210i/13160142.jpg",
       "authors": [
-        "Jan Wong"
+        "Ben Carson"
       ],
       "genres": [
-        "china",
         "non-fiction",
-        "history",
-        "memoir",
-        "biography",
         "politics",
-        "asia"
-      ],
-      "rating": 4.08,
-      "ratings": 3787,
-      "reviews": 277
-    },
-    {
-      "title": "Surprisingly Down to Earth, and Very Funny: My Autobiography",
-      "url": "https://www.goodreads.com/book/show/42369980-surprisingly-down-to-earth-and-very-funny",
-      "id": "66026522",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1550849038i/42369980.jpg",
-      "authors": [
-        "Limmy"
-      ],
-      "genres": [
-        "non-fiction",
+        "history",
         "biography",
-        "audiobook",
-        "memoir",
-        "comedy",
-        "autobiography",
-        "humor"
+        "political-science",
+        "philosophy",
+        "cultural"
       ],
-      "rating": 4.35,
-      "ratings": 3786,
-      "reviews": 274
+      "rating": 4.16,
+      "ratings": 3884,
+      "reviews": 527
     }
   ]
 }

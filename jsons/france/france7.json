@@ -1,6 +1,69 @@
 {
   "books": [
     {
+      "title": "Dragonfly",
+      "url": "https://www.goodreads.com/book/show/43722892-dragonfly",
+      "id": "68045082",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1550214505i/43722892.jpg",
+      "authors": [
+        "Leila Meacham"
+      ],
+      "genres": [
+        "historical-fiction",
+        "fiction",
+        "world-war-ii",
+        "historical",
+        "war",
+        "france",
+        "audiobook"
+      ],
+      "rating": 4.32,
+      "ratings": 11071,
+      "reviews": 1457
+    },
+    {
+      "title": "Asterix and the Golden Sickle",
+      "url": "https://www.goodreads.com/book/show/122439.Asterix_and_the_Golden_Sickle",
+      "id": "1988464",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1415583919i/122439.jpg",
+      "authors": [
+        "René Goscinny"
+      ],
+      "genres": [
+        "comics",
+        "graphic-novels",
+        "bande-dessin%C3%A9e",
+        "fiction",
+        "humor",
+        "france",
+        "historical-fiction"
+      ],
+      "rating": 4.16,
+      "ratings": 11071,
+      "reviews": 350
+    },
+    {
+      "title": "I, Tituba, Black Witch of Salem",
+      "url": "https://www.goodreads.com/book/show/89526.I_Tituba_Black_Witch_of_Salem",
+      "id": "86405",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1567697640i/89526.jpg",
+      "authors": [
+        "Maryse Condé"
+      ],
+      "genres": [
+        "historical-fiction",
+        "fiction",
+        "feminism",
+        "witches",
+        "historical",
+        "france",
+        "fantasy"
+      ],
+      "rating": 4.04,
+      "ratings": 11017,
+      "reviews": 1142
+    },
+    {
       "title": "Charlotte",
       "url": "https://www.goodreads.com/book/show/22819788-charlotte",
       "id": "42371260",
@@ -10,37 +73,184 @@
       ],
       "genres": [
         "france",
-        "fiction",
+        "biography",
+        "non-fiction",
         "art",
-        "historical-fiction",
         "french-literature",
-        "roman",
-        "historical"
+        "history",
+        "roman"
       ],
-      "rating": 4.32,
-      "ratings": 10403,
-      "reviews": 1110
+      "rating": 4.33,
+      "ratings": 10989,
+      "reviews": 1165
     },
     {
-      "title": "The Apprentice: My Life in the Kitchen",
-      "url": "https://www.goodreads.com/book/show/343684.The_Apprentice",
-      "id": "526117",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348112815i/343684.jpg",
+      "title": "The Paris Agent",
+      "url": "https://www.goodreads.com/book/show/62197599-the-paris-agent",
+      "id": "97875445",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1675355524i/62197599.jpg",
       "authors": [
-        "Jacques Pépin"
+        "Kelly Rimmer"
       ],
       "genres": [
-        "food",
-        "non-fiction",
-        "memoir",
-        "biography",
-        "cooking",
-        "cookbooks",
+        "historical-fiction",
+        "fiction",
+        "historical",
+        "world-war-ii",
+        "mystery",
+        "audiobook",
         "france"
       ],
-      "rating": 4.17,
-      "ratings": 10301,
-      "reviews": 747
+      "rating": 4.14,
+      "ratings": 10987,
+      "reviews": 1039
+    },
+    {
+      "title": "The Paris Apartment",
+      "url": "https://www.goodreads.com/book/show/54817545-the-paris-apartment",
+      "id": "85519630",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1607324682i/54817545.jpg",
+      "authors": [
+        "Kelly Bowen"
+      ],
+      "genres": [
+        "historical-fiction",
+        "fiction",
+        "world-war-ii",
+        "historical",
+        "france",
+        "romance",
+        "mystery"
+      ],
+      "rating": 4.29,
+      "ratings": 10970,
+      "reviews": 1098
+    },
+    {
+      "title": "Asterix and the Goths",
+      "url": "https://www.goodreads.com/book/show/122408.Asterix_and_the_Goths",
+      "id": "124167",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386924770i/122408.jpg",
+      "authors": [
+        "René Goscinny"
+      ],
+      "genres": [
+        "comics",
+        "graphic-novels",
+        "bande-dessin%C3%A9e",
+        "fiction",
+        "humor",
+        "france",
+        "historical-fiction"
+      ],
+      "rating": 4.16,
+      "ratings": 10870,
+      "reviews": 283
+    },
+    {
+      "title": "Asterix in Britain",
+      "url": "https://www.goodreads.com/book/show/71299.Asterix_in_Britain",
+      "id": "1320323",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1415582000i/71299.jpg",
+      "authors": [
+        "René Goscinny"
+      ],
+      "genres": [
+        "comics",
+        "graphic-novels",
+        "bande-dessin%C3%A9e",
+        "fiction",
+        "humor",
+        "france",
+        "historical-fiction"
+      ],
+      "rating": 4.3,
+      "ratings": 10864,
+      "reviews": 334
+    },
+    {
+      "title": "Le Comte de Monte-Cristo I",
+      "url": "https://www.goodreads.com/book/show/956323.Le_Comte_de_Monte_Cristo_I",
+      "id": "41399325",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1371603324i/956323.jpg",
+      "authors": [
+        "Alexandre Dumas"
+      ],
+      "genres": [
+        "classics",
+        "france",
+        "fiction",
+        "historical-fiction",
+        "french-literature",
+        "adventure",
+        "roman"
+      ],
+      "rating": 4.52,
+      "ratings": 10831,
+      "reviews": 715
+    },
+    {
+      "title": "Disney's The Lion King",
+      "url": "https://www.goodreads.com/book/show/1350249.Disney_s_The_Lion_King",
+      "id": "40728295",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1182920520i/1350249.jpg",
+      "authors": [
+        "Justine Korman Fontes"
+      ],
+      "genres": [
+        "childrens",
+        "picture-books",
+        "fiction",
+        "animals",
+        "fantasy",
+        "adventure",
+        "france"
+      ],
+      "rating": 4.49,
+      "ratings": 10701,
+      "reviews": 75
+    },
+    {
+      "title": "La Nuit où les étoiles se sont éteintes",
+      "url": "https://www.goodreads.com/book/show/58262685-la-nuit-o-les-toiles-se-sont-teintes",
+      "id": "91327142",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1622860013i/58262685.jpg",
+      "authors": [
+        "Nine Gorman"
+      ],
+      "genres": [
+        "romance",
+        "lgbt",
+        "young-adult",
+        "france",
+        "contemporary",
+        "fiction",
+        "roman"
+      ],
+      "rating": 4.34,
+      "ratings": 10479,
+      "reviews": 1317
+    },
+    {
+      "title": "Il est grand temps de rallumer les étoiles",
+      "url": "https://www.goodreads.com/book/show/39826281-il-est-grand-temps-de-rallumer-les-toiles",
+      "id": "61582005",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1523580001i/39826281.jpg",
+      "authors": [
+        "Virginie Grimaldi"
+      ],
+      "genres": [
+        "fiction",
+        "france",
+        "contemporary",
+        "roman",
+        "romance",
+        "travel",
+        "family"
+      ],
+      "rating": 4.22,
+      "ratings": 10376,
+      "reviews": 1134
     },
     {
       "title": "The Summer Queen",
@@ -60,29 +270,8 @@
         "12th-century"
       ],
       "rating": 4.12,
-      "ratings": 10216,
-      "reviews": 907
-    },
-    {
-      "title": "Captive",
-      "url": "https://www.goodreads.com/book/show/62617091-captive",
-      "id": "98375585",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1666072062i/62617091.jpg",
-      "authors": [
-        "Sarah Rivens"
-      ],
-      "genres": [
-        "romance",
-        "dark",
-        "love",
-        "roman",
-        "france",
-        "new-adult",
-        "young-adult"
-      ],
-      "rating": 4.45,
-      "ratings": 10132,
-      "reviews": 838
+      "ratings": 10328,
+      "reviews": 919
     },
     {
       "title": "Band of Sisters",
@@ -102,113 +291,8 @@
         "france"
       ],
       "rating": 4.07,
-      "ratings": 10066,
-      "reviews": 1521
-    },
-    {
-      "title": "The Guermantes Way",
-      "url": "https://www.goodreads.com/book/show/18798.The_Guermantes_Way",
-      "id": "40790576",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1657565194i/18798.jpg",
-      "authors": [
-        "Marcel Proust"
-      ],
-      "genres": [
-        "classics",
-        "fiction",
-        "france",
-        "french-literature",
-        "literature",
-        "novels",
-        "20th-century"
-      ],
-      "rating": 4.27,
-      "ratings": 9984,
-      "reviews": 927
-    },
-    {
-      "title": "Les Oubliés du dimanche",
-      "url": "https://www.goodreads.com/book/show/25586238-les-oubli-s-du-dimanche",
-      "id": "45390173",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1432364504i/25586238.jpg",
-      "authors": [
-        "Valérie Perrin"
-      ],
-      "genres": [
-        "fiction",
-        "france",
-        "romance",
-        "roman",
-        "contemporary",
-        "french-literature",
-        "audiobook"
-      ],
-      "rating": 4.22,
-      "ratings": 9972,
-      "reviews": 930
-    },
-    {
-      "title": "Complete Works",
-      "url": "https://www.goodreads.com/book/show/128453.Complete_Works",
-      "id": "2095346",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1218674552i/128453.jpg",
-      "authors": [
-        "Arthur Rimbaud"
-      ],
-      "genres": [
-        "poetry",
-        "classics",
-        "france",
-        "fiction",
-        "literature",
-        "french-literature",
-        "19th-century"
-      ],
-      "rating": 4.41,
-      "ratings": 9966,
-      "reviews": 340
-    },
-    {
-      "title": "Il est grand temps de rallumer les étoiles",
-      "url": "https://www.goodreads.com/book/show/39826281-il-est-grand-temps-de-rallumer-les-toiles",
-      "id": "61582005",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1523580001i/39826281.jpg",
-      "authors": [
-        "Virginie Grimaldi"
-      ],
-      "genres": [
-        "fiction",
-        "france",
-        "contemporary",
-        "romance",
-        "roman",
-        "travel",
-        "family"
-      ],
-      "rating": 4.22,
-      "ratings": 9947,
-      "reviews": 1096
-    },
-    {
-      "title": "The Paris Assignment",
-      "url": "https://www.goodreads.com/book/show/68047988-the-paris-assignment",
-      "id": "100233120",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1676460585i/68047988.jpg",
-      "authors": [
-        "Rhys Bowen"
-      ],
-      "genres": [
-        "historical-fiction",
-        "fiction",
-        "world-war-ii",
-        "historical",
-        "france",
-        "mystery",
-        "war"
-      ],
-      "rating": 4.34,
-      "ratings": 9933,
-      "reviews": 602
+      "ratings": 10320,
+      "reviews": 1549
     },
     {
       "title": "The Season of Dreams",
@@ -228,8 +312,113 @@
         "adult"
       ],
       "rating": 4.24,
-      "ratings": 9924,
-      "reviews": 272
+      "ratings": 10245,
+      "reviews": 277
+    },
+    {
+      "title": "A Very Easy Death",
+      "url": "https://www.goodreads.com/book/show/123942.A_Very_Easy_Death",
+      "id": "1805443",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1356458515i/123942.jpg",
+      "authors": [
+        "Simone de Beauvoir"
+      ],
+      "genres": [
+        "non-fiction",
+        "memoir",
+        "philosophy",
+        "classics",
+        "france",
+        "biography",
+        "death"
+      ],
+      "rating": 4.04,
+      "ratings": 10197,
+      "reviews": 1339
+    },
+    {
+      "title": "The Apprentice: My Life in the Kitchen",
+      "url": "https://www.goodreads.com/book/show/343684.The_Apprentice",
+      "id": "526117",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348112815i/343684.jpg",
+      "authors": [
+        "Jacques Pépin"
+      ],
+      "genres": [
+        "food",
+        "non-fiction",
+        "memoir",
+        "biography",
+        "cooking",
+        "france",
+        "cookbooks"
+      ],
+      "rating": 4.17,
+      "ratings": 10148,
+      "reviews": 722
+    },
+    {
+      "title": "The Guermantes Way",
+      "url": "https://www.goodreads.com/book/show/18798.The_Guermantes_Way",
+      "id": "40790576",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1657565194i/18798.jpg",
+      "authors": [
+        "Marcel Proust"
+      ],
+      "genres": [
+        "classics",
+        "fiction",
+        "france",
+        "french-literature",
+        "literature",
+        "novels",
+        "20th-century"
+      ],
+      "rating": 4.27,
+      "ratings": 10131,
+      "reviews": 952
+    },
+    {
+      "title": "The Secrets We Left Behind",
+      "url": "https://www.goodreads.com/book/show/56313269-the-secrets-we-left-behind",
+      "id": "86212888",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1617126270i/56313269.jpg",
+      "authors": [
+        "Soraya M. Lane"
+      ],
+      "genres": [
+        "historical-fiction",
+        "world-war-ii",
+        "historical",
+        "romance",
+        "fiction",
+        "france",
+        "war"
+      ],
+      "rating": 4.39,
+      "ratings": 10027,
+      "reviews": 567
+    },
+    {
+      "title": "Complete Works",
+      "url": "https://www.goodreads.com/book/show/128453.Complete_Works",
+      "id": "2095346",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1218674552i/128453.jpg",
+      "authors": [
+        "Arthur Rimbaud"
+      ],
+      "genres": [
+        "poetry",
+        "classics",
+        "france",
+        "fiction",
+        "literature",
+        "french-literature",
+        "19th-century"
+      ],
+      "rating": 4.41,
+      "ratings": 10008,
+      "reviews": 343
     },
     {
       "title": "How to Live: A Life of Montaigne in One Question and Twenty Attempts at an Answer",
@@ -248,72 +437,30 @@
         "biography-memoir",
         "france"
       ],
-      "rating": 4.01,
-      "ratings": 9909,
-      "reviews": 1174
+      "rating": 4.02,
+      "ratings": 9977,
+      "reviews": 1185
     },
     {
-      "title": "La Nuit où les étoiles se sont éteintes",
-      "url": "https://www.goodreads.com/book/show/58262685-la-nuit-o-les-toiles-se-sont-teintes",
-      "id": "91327142",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1622860013i/58262685.jpg",
+      "title": "Un automne pour te pardonner",
+      "url": "https://www.goodreads.com/book/show/123846615-un-automne-pour-te-pardonner",
+      "id": "145240346",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1679840727i/123846615.jpg",
       "authors": [
-        "Nine Gorman"
+        "Morgane Moncomble"
       ],
       "genres": [
         "romance",
-        "lgbt",
-        "young-adult",
-        "france",
-        "contemporary",
-        "roman",
-        "fiction"
-      ],
-      "rating": 4.35,
-      "ratings": 9794,
-      "reviews": 1236
-    },
-    {
-      "title": "The Secrets We Left Behind",
-      "url": "https://www.goodreads.com/book/show/56313269-the-secrets-we-left-behind",
-      "id": "86212888",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1617126270i/56313269.jpg",
-      "authors": [
-        "Soraya M. Lane"
-      ],
-      "genres": [
-        "historical-fiction",
-        "historical",
-        "romance",
-        "world-war-ii",
-        "fiction",
-        "france",
-        "war"
-      ],
-      "rating": 4.4,
-      "ratings": 9789,
-      "reviews": 557
-    },
-    {
-      "title": "Crimson Rivers",
-      "url": "https://www.goodreads.com/book/show/161503.Crimson_Rivers",
-      "id": "1538586",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1400897417i/161503.jpg",
-      "authors": [
-        "Jean-Christophe Grangé"
-      ],
-      "genres": [
         "thriller",
-        "crime",
-        "fiction",
-        "mystery",
         "france",
-        "detective",
-        "mystery-thriller"
+        "mystery",
+        "roman",
+        "contemporary",
+        "new-adult"
       ],
-      "rating": 4.18,
-      "ratings": 9753,
-      "reviews": 421
+      "rating": 4.51,
+      "ratings": 9917,
+      "reviews": 1581
     },
     {
       "title": "L'Arabe du futur 2 : Une jeunesse au Moyen-Orient, 1984-1985",
@@ -333,176 +480,29 @@
         "biography"
       ],
       "rating": 4.29,
-      "ratings": 9676,
-      "reviews": 527
+      "ratings": 9895,
+      "reviews": 536
     },
     {
-      "title": "A Very Easy Death",
-      "url": "https://www.goodreads.com/book/show/123942.A_Very_Easy_Death",
-      "id": "1805443",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1356458515i/123942.jpg",
+      "title": "Crimson Rivers",
+      "url": "https://www.goodreads.com/book/show/161503.Crimson_Rivers",
+      "id": "1538586",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1400897417i/161503.jpg",
       "authors": [
-        "Simone de Beauvoir"
+        "Jean-Christophe Grangé"
       ],
       "genres": [
-        "non-fiction",
-        "memoir",
-        "philosophy",
-        "classics",
-        "france",
-        "biography",
-        "death"
-      ],
-      "rating": 4.03,
-      "ratings": 9664,
-      "reviews": 1250
-    },
-    {
-      "title": "La Part de l'autre",
-      "url": "https://www.goodreads.com/book/show/1016600.La_Part_de_l_autre",
-      "id": "1153095",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1360846104i/1016600.jpg",
-      "authors": [
-        "Éric-Emmanuel Schmitt"
-      ],
-      "genres": [
+        "thriller",
+        "crime",
         "fiction",
-        "france",
-        "historical-fiction",
-        "roman",
-        "historical",
-        "novels",
-        "french-literature"
-      ],
-      "rating": 4.16,
-      "ratings": 9660,
-      "reviews": 615
-    },
-    {
-      "title": "Asterix the Gladiator",
-      "url": "https://www.goodreads.com/book/show/122401.Asterix_the_Gladiator",
-      "id": "2562616",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1385713583i/122401.jpg",
-      "authors": [
-        "René Goscinny"
-      ],
-      "genres": [
-        "comics",
-        "graphic-novels",
-        "bande-dessin%C3%A9e",
-        "fiction",
-        "humor",
-        "france",
-        "historical-fiction"
-      ],
-      "rating": 4.22,
-      "ratings": 9587,
-      "reviews": 243
-    },
-    {
-      "title": "Le Comte de Monte-Cristo II",
-      "url": "https://www.goodreads.com/book/show/956320.Le_Comte_de_Monte_Cristo_II",
-      "id": "19052285",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1179790329i/956320.jpg",
-      "authors": [
-        "Alexandre Dumas"
-      ],
-      "genres": [
-        "classics",
-        "france",
-        "fiction",
-        "historical-fiction",
-        "french-literature",
-        "adventure",
-        "roman"
-      ],
-      "rating": 4.58,
-      "ratings": 9464,
-      "reviews": 609
-    },
-    {
-      "title": "La Gloire de mon père",
-      "url": "https://www.goodreads.com/book/show/220334.La_Gloire_de_mon_p_re",
-      "id": "213343",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1332596026i/220334.jpg",
-      "authors": [
-        "Marcel Pagnol"
-      ],
-      "genres": [
-        "france",
-        "classics",
-        "fiction",
-        "french-literature",
-        "roman",
-        "novels",
-        "20th-century"
-      ],
-      "rating": 4.01,
-      "ratings": 9368,
-      "reviews": 311
-    },
-    {
-      "title": "Asterix the Legionary",
-      "url": "https://www.goodreads.com/book/show/122418.Asterix_the_Legionary",
-      "id": "518712",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1430877305i/122418.jpg",
-      "authors": [
-        "René Goscinny"
-      ],
-      "genres": [
-        "comics",
-        "bande-dessin%C3%A9e",
-        "graphic-novels",
-        "fiction",
-        "humor",
-        "historical-fiction",
-        "france"
-      ],
-      "rating": 4.31,
-      "ratings": 9338,
-      "reviews": 257
-    },
-    {
-      "title": "Viens, on s'aime",
-      "url": "https://www.goodreads.com/book/show/34941426-viens-on-s-aime",
-      "id": "56209767",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1492956319i/34941426.jpg",
-      "authors": [
-        "Morgane Moncomble"
-      ],
-      "genres": [
-        "romance",
-        "new-adult",
-        "contemporary",
-        "young-adult",
-        "audiobook",
-        "france",
-        "german-literature"
-      ],
-      "rating": 4.02,
-      "ratings": 9154,
-      "reviews": 956
-    },
-    {
-      "title": "From a Paris Balcony",
-      "url": "https://www.goodreads.com/book/show/30267768-from-a-paris-balcony",
-      "id": "50741358",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1473202216i/30267768.jpg",
-      "authors": [
-        "Ella Carey"
-      ],
-      "genres": [
-        "historical-fiction",
-        "fiction",
-        "romance",
         "mystery",
         "france",
-        "historical",
-        "chick-lit"
+        "detective",
+        "mystery-thriller"
       ],
-      "rating": 4.09,
-      "ratings": 9092,
-      "reviews": 496
+      "rating": 4.18,
+      "ratings": 9879,
+      "reviews": 435
     }
   ]
 }

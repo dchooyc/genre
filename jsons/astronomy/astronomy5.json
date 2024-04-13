@@ -1,25 +1,66 @@
 {
   "books": [
     {
-      "title": "Planets",
-      "url": "https://www.goodreads.com/book/show/13330418-planets",
-      "id": "18538057",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1333580250i/13330418.jpg",
+      "title": "Ptolemy's Almagest",
+      "url": "https://www.goodreads.com/book/show/436352.Ptolemy_s_Almagest",
+      "id": "425259",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347756437i/436352.jpg",
       "authors": [
-        "Elizabeth Carney"
+        "Ptolemy"
+      ],
+      "genres": [
+        "science",
+        "classics",
+        "philosophy",
+        "astronomy",
+        "physics",
+        "non-fiction",
+        "mathematics"
+      ],
+      "rating": 4,
+      "ratings": 615,
+      "reviews": 28
+    },
+    {
+      "title": "Apollo 11: The Inside Story",
+      "url": "https://www.goodreads.com/book/show/43170788-apollo-11",
+      "id": "66974330",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1544223814i/43170788.jpg",
+      "authors": [
+        "David Whitehouse"
+      ],
+      "genres": [
+        "history",
+        "non-fiction",
+        "space",
+        "science",
+        "american-history",
+        "astronomy",
+        "physics"
+      ],
+      "rating": 4.02,
+      "ratings": 613,
+      "reviews": 72
+    },
+    {
+      "title": "Isaac Asimov's Guide to Earth and Space",
+      "url": "https://www.goodreads.com/book/show/30019.Isaac_Asimov_s_Guide_to_Earth_and_Space",
+      "id": "516041",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388539083i/30019.jpg",
+      "authors": [
+        "Isaac Asimov"
       ],
       "genres": [
         "science",
         "non-fiction",
-        "picture-books",
-        "childrens",
+        "astronomy",
+        "physics",
         "space",
-        "planets",
-        "astronomy"
+        "history"
       ],
-      "rating": 4.2,
-      "ratings": 564,
-      "reviews": 62
+      "rating": 4.21,
+      "ratings": 590,
+      "reviews": 59
     },
     {
       "title": "Stephen Hawking: A Memoir of Friendship and Physics",
@@ -38,47 +79,30 @@
         "astronomy",
         "biography-memoir"
       ],
-      "rating": 4.03,
-      "ratings": 559,
-      "reviews": 72
+      "rating": 4.04,
+      "ratings": 588,
+      "reviews": 73
     },
     {
-      "title": "Sciencia: Mathematics, Physics, Chemistry, Biology, and Astronomy for All",
-      "url": "https://www.goodreads.com/book/show/11458319-sciencia",
-      "id": "16392404",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1364522249i/11458319.jpg",
+      "title": "Planets",
+      "url": "https://www.goodreads.com/book/show/13330418-planets",
+      "id": "18538057",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1333580250i/13330418.jpg",
       "authors": [
-        "Matt Tweed"
+        "Elizabeth Carney"
       ],
       "genres": [
         "science",
         "non-fiction",
-        "education",
-        "physics",
-        "mathematics",
-        "astronomy",
-        "chemistry"
+        "picture-books",
+        "childrens",
+        "space",
+        "planets",
+        "astronomy"
       ],
-      "rating": 4.22,
-      "ratings": 556,
-      "reviews": 46
-    },
-    {
-      "title": "Hijos de las estrellas: Un maravilloso recorrido sobre los orígenes del universo y del ser humano",
-      "url": "https://www.goodreads.com/book/show/35383853-hijos-de-las-estrellas",
-      "id": "56745011",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1496849096i/35383853.jpg",
-      "authors": [
-        "María Teresa Ruiz"
-      ],
-      "genres": [
-        "science",
-        "astronomy",
-        "non-fiction"
-      ],
-      "rating": 4.04,
-      "ratings": 551,
-      "reviews": 72
+      "rating": 4.2,
+      "ratings": 568,
+      "reviews": 62
     },
     {
       "title": "Astrobiology: A Very Short Introduction",
@@ -97,9 +121,47 @@
         "space",
         "chemistry"
       ],
+      "rating": 4.05,
+      "ratings": 565,
+      "reviews": 74
+    },
+    {
+      "title": "Sciencia: Mathematics, Physics, Chemistry, Biology, and Astronomy for All",
+      "url": "https://www.goodreads.com/book/show/11458319-sciencia",
+      "id": "16392404",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1364522249i/11458319.jpg",
+      "authors": [
+        "Matt Tweed"
+      ],
+      "genres": [
+        "science",
+        "non-fiction",
+        "education",
+        "physics",
+        "mathematics",
+        "astronomy",
+        "chemistry"
+      ],
+      "rating": 4.23,
+      "ratings": 560,
+      "reviews": 46
+    },
+    {
+      "title": "Hijos de las estrellas: Un maravilloso recorrido sobre los orígenes del universo y del ser humano",
+      "url": "https://www.goodreads.com/book/show/35383853-hijos-de-las-estrellas",
+      "id": "56745011",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1496849096i/35383853.jpg",
+      "authors": [
+        "María Teresa Ruiz"
+      ],
+      "genres": [
+        "science",
+        "astronomy",
+        "non-fiction"
+      ],
       "rating": 4.04,
-      "ratings": 550,
-      "reviews": 69
+      "ratings": 559,
+      "reviews": 74
     },
     {
       "title": "Space, Stars and Slimy Aliens",
@@ -118,8 +180,8 @@
         "astronomy",
         "collections"
       ],
-      "rating": 4.17,
-      "ratings": 546,
+      "rating": 4.16,
+      "ratings": 550,
       "reviews": 27
     },
     {
@@ -139,9 +201,51 @@
         "physics",
         "history"
       ],
-      "rating": 4.29,
-      "ratings": 527,
+      "rating": 4.3,
+      "ratings": 542,
       "reviews": 54
+    },
+    {
+      "title": "The Mysteries of the Universe: Discover the best-kept secrets of space",
+      "url": "https://www.goodreads.com/book/show/49194830-the-mysteries-of-the-universe",
+      "id": "74643444",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1581416207i/49194830.jpg",
+      "authors": [
+        "Will Gater"
+      ],
+      "genres": [
+        "science",
+        "non-fiction",
+        "space",
+        "astronomy",
+        "childrens",
+        "picture-books",
+        "middle-grade"
+      ],
+      "rating": 4.6,
+      "ratings": 509,
+      "reviews": 85
+    },
+    {
+      "title": "Calculating the Cosmos: How Mathematics Unveils the Universe",
+      "url": "https://www.goodreads.com/book/show/29502381-calculating-the-cosmos",
+      "id": "49789598",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1458494525i/29502381.jpg",
+      "authors": [
+        "Ian Stewart"
+      ],
+      "genres": [
+        "science",
+        "non-fiction",
+        "mathematics",
+        "physics",
+        "astronomy",
+        "popular-science",
+        "audiobook"
+      ],
+      "rating": 4.08,
+      "ratings": 502,
+      "reviews": 66
     }
   ]
 }

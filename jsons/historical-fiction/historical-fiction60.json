@@ -1,46 +1,487 @@
 {
   "books": [
     {
-      "title": "This Magnificent Dappled Sea",
-      "url": "https://www.goodreads.com/book/show/55522057-this-magnificent-dappled-sea",
-      "id": "75460656",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1601507437i/55522057.jpg",
+      "title": "Highland Velvet",
+      "url": "https://www.goodreads.com/book/show/871835.Highland_Velvet",
+      "id": "2455579",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1297705106i/871835.jpg",
       "authors": [
-        "David Biro"
+        "Jude Deveraux"
       ],
       "genres": [
-        "fiction",
-        "historical-fiction",
-        "italy",
-        "war",
+        "romance",
+        "historical-romance",
         "historical",
-        "world-war-ii",
-        "holocaust"
+        "historical-fiction",
+        "medieval",
+        "fiction",
+        "medieval-romance"
       ],
-      "rating": 4.02,
-      "ratings": 12883,
-      "reviews": 731
+      "rating": 4.07,
+      "ratings": 13544,
+      "reviews": 312
     },
     {
-      "title": "This Is Happiness",
-      "url": "https://www.goodreads.com/book/show/42972008-this-is-happiness",
-      "id": "66799824",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1557412358i/42972008.jpg",
+      "title": "Rascal",
+      "url": "https://www.goodreads.com/book/show/967511.Rascal",
+      "id": "952408",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1309211625i/967511.jpg",
       "authors": [
-        "Niall Williams"
+        "Sterling North"
+      ],
+      "genres": [
+        "animals",
+        "fiction",
+        "childrens",
+        "classics",
+        "young-adult",
+        "middle-grade",
+        "historical-fiction"
+      ],
+      "rating": 4.16,
+      "ratings": 13532,
+      "reviews": 839
+    },
+    {
+      "title": "Last Summer Boys",
+      "url": "https://www.goodreads.com/book/show/60726858-last-summer-boys",
+      "id": "93858066",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1648744521i/60726858.jpg",
+      "authors": [
+        "Bill Rivers"
+      ],
+      "genres": [
+        "historical-fiction",
+        "fiction",
+        "coming-of-age",
+        "young-adult",
+        "historical",
+        "adventure",
+        "amazon"
+      ],
+      "rating": 4.41,
+      "ratings": 13523,
+      "reviews": 966
+    },
+    {
+      "title": "An Unexpected Peril",
+      "url": "https://www.goodreads.com/book/show/53965865-an-unexpected-peril",
+      "id": "84332396",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1599525352i/53965865.jpg",
+      "authors": [
+        "Deanna Raybourn"
+      ],
+      "genres": [
+        "mystery",
+        "historical-fiction",
+        "historical",
+        "fiction",
+        "romance",
+        "historical-mystery",
+        "audiobook"
+      ],
+      "rating": 4.05,
+      "ratings": 13515,
+      "reviews": 1235
+    },
+    {
+      "title": "Sharpe's Trafalgar",
+      "url": "https://www.goodreads.com/book/show/62901.Sharpe_s_Trafalgar",
+      "id": "891820",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1558755803i/62901.jpg",
+      "authors": [
+        "Bernard Cornwell"
+      ],
+      "genres": [
+        "historical-fiction",
+        "fiction",
+        "historical",
+        "war",
+        "adventure",
+        "military-fiction",
+        "audiobook"
+      ],
+      "rating": 4.13,
+      "ratings": 13493,
+      "reviews": 450
+    },
+    {
+      "title": "I, Elizabeth",
+      "url": "https://www.goodreads.com/book/show/56353.I_Elizabeth",
+      "id": "2054888",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1403186670i/56353.jpg",
+      "authors": [
+        "Rosalind Miles"
+      ],
+      "genres": [
+        "historical-fiction",
+        "fiction",
+        "historical",
+        "tudor-period",
+        "british-literature",
+        "romance",
+        "16th-century"
+      ],
+      "rating": 4.02,
+      "ratings": 13487,
+      "reviews": 377
+    },
+    {
+      "title": "The Hummingbird's Daughter",
+      "url": "https://www.goodreads.com/book/show/91289.The_Hummingbird_s_Daughter",
+      "id": "88082",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1344268741i/91289.jpg",
+      "authors": [
+        "Luis Alberto Urrea"
+      ],
+      "genres": [
+        "historical-fiction",
+        "fiction",
+        "magical-realism",
+        "historical",
+        "latin-american",
+        "novels",
+        "religion"
+      ],
+      "rating": 4.21,
+      "ratings": 13470,
+      "reviews": 1888
+    },
+    {
+      "title": "Queen Margot",
+      "url": "https://www.goodreads.com/book/show/153875.Queen_Margot",
+      "id": "473934",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1223643548i/153875.jpg",
+      "authors": [
+        "Alexandre Dumas"
+      ],
+      "genres": [
+        "classics",
+        "historical-fiction",
+        "fiction",
+        "france",
+        "historical",
+        "french-literature",
+        "adventure"
+      ],
+      "rating": 4.15,
+      "ratings": 13469,
+      "reviews": 510
+    },
+    {
+      "title": "Speaks the Nightbird",
+      "url": "https://www.goodreads.com/book/show/1525997.Speaks_the_Nightbird",
+      "id": "16692325",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442931227i/1525997.jpg",
+      "authors": [
+        "Robert McCammon"
+      ],
+      "genres": [
+        "historical-fiction",
+        "mystery",
+        "horror",
+        "fiction",
+        "historical",
+        "thriller",
+        "witches"
+      ],
+      "rating": 4.14,
+      "ratings": 13451,
+      "reviews": 1429
+    },
+    {
+      "title": "The Summer that Melted Everything",
+      "url": "https://www.goodreads.com/book/show/26114523-the-summer-that-melted-everything",
+      "id": "46061361",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1462949293i/26114523.jpg",
+      "authors": [
+        "Tiffany   McDaniel"
+      ],
+      "genres": [
+        "fiction",
+        "magical-realism",
+        "contemporary",
+        "literary-fiction",
+        "fantasy",
+        "historical-fiction",
+        "adult"
+      ],
+      "rating": 4.01,
+      "ratings": 13374,
+      "reviews": 2525
+    },
+    {
+      "title": "Heaven Has No Favorites",
+      "url": "https://www.goodreads.com/book/show/397507.Heaven_Has_No_Favorites",
+      "id": "2087218",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1410764268i/397507.jpg",
+      "authors": [
+        "Erich Maria Remarque"
+      ],
+      "genres": [
+        "classics",
+        "fiction",
+        "german-literature",
+        "romance",
+        "germany",
+        "historical-fiction",
+        "novels"
+      ],
+      "rating": 4.26,
+      "ratings": 13360,
+      "reviews": 596
+    },
+    {
+      "title": "The Yellow Bird Sings",
+      "url": "https://www.goodreads.com/book/show/45734862-the-yellow-bird-sings",
+      "id": "70490155",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1562022866i/45734862.jpg",
+      "authors": [
+        "Jennifer  Rosner"
+      ],
+      "genres": [
+        "historical-fiction",
+        "fiction",
+        "world-war-ii",
+        "historical",
+        "holocaust",
+        "war",
+        "audiobook"
+      ],
+      "rating": 4.09,
+      "ratings": 13337,
+      "reviews": 1772
+    },
+    {
+      "title": "Jeremy Poldark",
+      "url": "https://www.goodreads.com/book/show/25365698-jeremy-poldark",
+      "id": "2683128",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1475242254i/25365698.jpg",
+      "authors": [
+        "Winston Graham"
+      ],
+      "genres": [
+        "historical-fiction",
+        "fiction",
+        "historical",
+        "romance",
+        "classics",
+        "audiobook",
+        "historical-romance"
+      ],
+      "rating": 4.19,
+      "ratings": 13320,
+      "reviews": 785
+    },
+    {
+      "title": "If You Deceive",
+      "url": "https://www.goodreads.com/book/show/420780.If_You_Deceive",
+      "id": "2734350",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1357617850i/420780.jpg",
+      "authors": [
+        "Kresley Cole"
+      ],
+      "genres": [
+        "historical-romance",
+        "romance",
+        "historical",
+        "historical-fiction",
+        "beauty-and-the-beast",
+        "adult",
+        "scotland"
+      ],
+      "rating": 4.14,
+      "ratings": 13308,
+      "reviews": 660
+    },
+    {
+      "title": "Lord of Emperors",
+      "url": "https://www.goodreads.com/book/show/104091.Lord_of_Emperors",
+      "id": "2903660",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386922916i/104091.jpg",
+      "authors": [
+        "Guy Gavriel Kay"
+      ],
+      "genres": [
+        "fantasy",
+        "historical-fiction",
+        "fiction",
+        "historical-fantasy",
+        "historical",
+        "science-fiction-fantasy",
+        "alternate-history"
+      ],
+      "rating": 4.28,
+      "ratings": 13305,
+      "reviews": 568
+    },
+    {
+      "title": "The Man Who Laughs",
+      "url": "https://www.goodreads.com/book/show/63038.The_Man_Who_Laughs",
+      "id": "2335257",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348955371i/63038.jpg",
+      "authors": [
+        "Victor Hugo"
+      ],
+      "genres": [
+        "classics",
+        "fiction",
+        "france",
+        "historical-fiction",
+        "french-literature",
+        "literature",
+        "novels"
+      ],
+      "rating": 4.24,
+      "ratings": 13290,
+      "reviews": 915
+    },
+    {
+      "title": "Mark of the Lion Trilogy",
+      "url": "https://www.goodreads.com/book/show/95602.Mark_of_the_Lion_Trilogy",
+      "id": "920037",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1349032180i/95602.jpg",
+      "authors": [
+        "Francine Rivers"
+      ],
+      "genres": [
+        "christian-fiction",
+        "christian",
+        "historical-fiction",
+        "fiction",
+        "romance",
+        "historical",
+        "christian-historical-fiction"
+      ],
+      "rating": 4.78,
+      "ratings": 13278,
+      "reviews": 885
+    },
+    {
+      "title": "Black Butler, Vol. 4",
+      "url": "https://www.goodreads.com/book/show/7972098-black-butler-vol-4",
+      "id": "5347605",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1325906642i/7972098.jpg",
+      "authors": [
+        "Yana Toboso"
+      ],
+      "genres": [
+        "manga",
+        "fantasy",
+        "graphic-novels",
+        "historical-fiction",
+        "horror",
+        "comics",
+        "supernatural"
+      ],
+      "rating": 4.42,
+      "ratings": 13274,
+      "reviews": 343
+    },
+    {
+      "title": "The Time Between",
+      "url": "https://www.goodreads.com/book/show/15812794-the-time-between",
+      "id": "21538145",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1359985559i/15812794.jpg",
+      "authors": [
+        "Karen   White"
       ],
       "genres": [
         "fiction",
         "historical-fiction",
-        "ireland",
-        "literary-fiction",
-        "irish-literature",
-        "coming-of-age",
-        "novels"
+        "romance",
+        "chick-lit",
+        "mystery",
+        "contemporary",
+        "womens-fiction"
       ],
-      "rating": 4.21,
-      "ratings": 12877,
-      "reviews": 2373
+      "rating": 4.09,
+      "ratings": 13270,
+      "reviews": 1378
+    },
+    {
+      "title": "Wildflower Hill",
+      "url": "https://www.goodreads.com/book/show/10002296-wildflower-hill",
+      "id": "14205888",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1314025082i/10002296.jpg",
+      "authors": [
+        "Kimberley Freeman"
+      ],
+      "genres": [
+        "historical-fiction",
+        "fiction",
+        "romance",
+        "australia",
+        "historical",
+        "chick-lit",
+        "contemporary"
+      ],
+      "rating": 4.1,
+      "ratings": 13269,
+      "reviews": 1517
+    },
+    {
+      "title": "Heir of Uncertain Magic",
+      "url": "https://www.goodreads.com/book/show/61252380-heir-of-uncertain-magic",
+      "id": "96581556",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1664400532i/61252380.jpg",
+      "authors": [
+        "Charlie N. Holmberg"
+      ],
+      "genres": [
+        "fantasy",
+        "historical-fiction",
+        "fiction",
+        "romance",
+        "magic",
+        "mystery",
+        "historical"
+      ],
+      "rating": 4.18,
+      "ratings": 13232,
+      "reviews": 1001
+    },
+    {
+      "title": "Sarah's Quilt",
+      "url": "https://www.goodreads.com/book/show/51741.Sarah_s_Quilt",
+      "id": "50487",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1439003104i/51741.jpg",
+      "authors": [
+        "Nancy E. Turner"
+      ],
+      "genres": [
+        "historical-fiction",
+        "fiction",
+        "historical",
+        "westerns",
+        "adult-fiction",
+        "adult",
+        "romance"
+      ],
+      "rating": 4.04,
+      "ratings": 13210,
+      "reviews": 2200
+    },
+    {
+      "title": "Becoming the Dark Prince",
+      "url": "https://www.goodreads.com/book/show/46184206-becoming-the-dark-prince",
+      "id": "71147585",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1561392201i/46184206.jpg",
+      "authors": [
+        "Kerri Maniscalco"
+      ],
+      "genres": [
+        "historical-fiction",
+        "young-adult",
+        "mystery",
+        "romance",
+        "historical",
+        "fantasy",
+        "novella"
+      ],
+      "rating": 4.32,
+      "ratings": 13208,
+      "reviews": 2051
     },
     {
       "title": "War Lord",
@@ -60,449 +501,8 @@
         "medieval"
       ],
       "rating": 4.6,
-      "ratings": 12861,
-      "reviews": 1125
-    },
-    {
-      "title": "...And Ladies of the Club",
-      "url": "https://www.goodreads.com/book/show/576666._And_Ladies_of_the_Club",
-      "id": "1480967",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388243144i/576666.jpg",
-      "authors": [
-        "Helen Hooven Santmyer"
-      ],
-      "genres": [
-        "fiction",
-        "historical-fiction",
-        "historical",
-        "classics",
-        "romance",
-        "womens",
-        "novels"
-      ],
-      "rating": 4.14,
-      "ratings": 12859,
-      "reviews": 653
-    },
-    {
-      "title": "Life and Fate",
-      "url": "https://www.goodreads.com/book/show/88432.Life_and_Fate",
-      "id": "2435598",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320447178i/88432.jpg",
-      "authors": [
-        "Vasily Grossman"
-      ],
-      "genres": [
-        "fiction",
-        "russia",
-        "classics",
-        "historical-fiction",
-        "russian-literature",
-        "war",
-        "literature"
-      ],
-      "rating": 4.44,
-      "ratings": 12858,
-      "reviews": 1470
-    },
-    {
-      "title": "Soul Eater",
-      "url": "https://www.goodreads.com/book/show/1223288.Soul_Eater",
-      "id": "2055131",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1334260982i/1223288.jpg",
-      "authors": [
-        "Michelle Paver"
-      ],
-      "genres": [
-        "fantasy",
-        "young-adult",
-        "fiction",
-        "adventure",
-        "historical-fiction",
-        "childrens",
-        "historical"
-      ],
-      "rating": 4.29,
-      "ratings": 12824,
-      "reviews": 384
-    },
-    {
-      "title": "Mandy",
-      "url": "https://www.goodreads.com/book/show/10332.Mandy",
-      "id": "1575652",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1389123997i/10332.jpg",
-      "authors": [
-        "Julie Andrews Edwards"
-      ],
-      "genres": [
-        "fiction",
-        "childrens",
-        "middle-grade",
-        "young-adult",
-        "classics",
-        "historical-fiction",
-        "juvenile"
-      ],
-      "rating": 4.27,
-      "ratings": 12810,
-      "reviews": 1285
-    },
-    {
-      "title": "Thief of Shadows",
-      "url": "https://www.goodreads.com/book/show/13503895-thief-of-shadows",
-      "id": "16393328",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1330453870i/13503895.jpg",
-      "authors": [
-        "Elizabeth Hoyt"
-      ],
-      "genres": [
-        "historical-romance",
-        "romance",
-        "historical",
-        "historical-fiction",
-        "fiction",
-        "adult",
-        "regency"
-      ],
-      "rating": 4.09,
-      "ratings": 12809,
-      "reviews": 1259
-    },
-    {
-      "title": "The Secret Messenger",
-      "url": "https://www.goodreads.com/book/show/52762957-the-secret-messenger",
-      "id": "70900370",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1570442407l/52762957.jpg",
-      "authors": [
-        "Mandy  Robotham"
-      ],
-      "genres": [
-        "historical-fiction",
-        "fiction",
-        "world-war-ii",
-        "historical",
-        "war",
-        "romance",
-        "italy"
-      ],
-      "rating": 4.16,
-      "ratings": 12803,
-      "reviews": 864
-    },
-    {
-      "title": "Curse of the Blue Tattoo: Being an Account of the Misadventures of Jacky Faber, Midshipman and Fine Lady",
-      "url": "https://www.goodreads.com/book/show/295654.Curse_of_the_Blue_Tattoo",
-      "id": "1125206",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327953077i/295654.jpg",
-      "authors": [
-        "L.A. Meyer"
-      ],
-      "genres": [
-        "historical-fiction",
-        "young-adult",
-        "adventure",
-        "fiction",
-        "historical",
-        "pirates",
-        "audiobook"
-      ],
-      "rating": 4.27,
-      "ratings": 12783,
-      "reviews": 978
-    },
-    {
-      "title": "The Secret Daughter",
-      "url": "https://www.goodreads.com/book/show/25505271-the-secret-daughter",
-      "id": "45283366",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1435234851i/25505271.jpg",
-      "authors": [
-        "Kelly Rimmer"
-      ],
-      "genres": [
-        "fiction",
-        "contemporary",
-        "historical-fiction",
-        "family",
-        "chick-lit",
-        "adoption",
-        "womens-fiction"
-      ],
-      "rating": 4.03,
-      "ratings": 12772,
-      "reviews": 771
-    },
-    {
-      "title": "The Surgeon's Mate",
-      "url": "https://www.goodreads.com/book/show/77433.The_Surgeon_s_Mate",
-      "id": "5277606",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386924500i/77433.jpg",
-      "authors": [
-        "Patrick O'Brian"
-      ],
-      "genres": [
-        "historical-fiction",
-        "fiction",
-        "historical",
-        "adventure",
-        "audiobook",
-        "war",
-        "military-fiction"
-      ],
-      "rating": 4.4,
-      "ratings": 12756,
-      "reviews": 469
-    },
-    {
-      "title": "Amy Snow",
-      "url": "https://www.goodreads.com/book/show/24993261-amy-snow",
-      "id": "44662270",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1484383257i/24993261.jpg",
-      "authors": [
-        "Tracy Rees"
-      ],
-      "genres": [
-        "historical-fiction",
-        "fiction",
-        "historical",
-        "mystery",
-        "romance",
-        "audiobook",
-        "british-literature"
-      ],
-      "rating": 4,
-      "ratings": 12738,
-      "reviews": 1287
-    },
-    {
-      "title": "The Corinthian",
-      "url": "https://www.goodreads.com/book/show/319033.The_Corinthian",
-      "id": "1364554",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1310712715i/319033.jpg",
-      "authors": [
-        "Georgette Heyer"
-      ],
-      "genres": [
-        "romance",
-        "historical-fiction",
-        "historical-romance",
-        "regency",
-        "historical",
-        "fiction",
-        "regency-romance"
-      ],
-      "rating": 4.04,
-      "ratings": 12706,
-      "reviews": 1037
-    },
-    {
-      "title": "Arráncame la vida",
-      "url": "https://www.goodreads.com/book/show/644009.Arr_ncame_la_vida",
-      "id": "630174",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1538366284i/644009.jpg",
-      "authors": [
-        "Ángeles Mastretta"
-      ],
-      "genres": [
-        "fiction",
-        "spanish-literature",
-        "historical-fiction",
-        "romance",
-        "latin-american",
-        "novels",
-        "contemporary"
-      ],
-      "rating": 4.08,
-      "ratings": 12705,
-      "reviews": 1032
-    },
-    {
-      "title": "1632",
-      "url": "https://www.goodreads.com/book/show/16967.1632",
-      "id": "1172297",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1391233659i/16967.jpg",
-      "authors": [
-        "Eric Flint"
-      ],
-      "genres": [
-        "alternate-history",
-        "science-fiction",
-        "fiction",
-        "time-travel",
-        "fantasy",
-        "historical-fiction",
-        "historical"
-      ],
-      "rating": 4.05,
-      "ratings": 12702,
-      "reviews": 939
-    },
-    {
-      "title": "Seeking Persephone",
-      "url": "https://www.goodreads.com/book/show/57832325-seeking-persephone",
-      "id": "5811967",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1619231811i/57832325.jpg",
-      "authors": [
-        "Sarah M. Eden"
-      ],
-      "genres": [
-        "romance",
-        "regency",
-        "historical-fiction",
-        "historical-romance",
-        "historical",
-        "clean-romance",
-        "regency-romance"
-      ],
-      "rating": 4.17,
-      "ratings": 12694,
-      "reviews": 1843
-    },
-    {
-      "title": "The Paris Secret",
-      "url": "https://www.goodreads.com/book/show/50358502-the-paris-secret",
-      "id": "74073567",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1596433223i/50358502.jpg",
-      "authors": [
-        "Natasha Lester"
-      ],
-      "genres": [
-        "historical-fiction",
-        "fiction",
-        "historical",
-        "world-war-ii",
-        "romance",
-        "france",
-        "war"
-      ],
-      "rating": 4.47,
-      "ratings": 12675,
-      "reviews": 1544
-    },
-    {
-      "title": "Birds of Prey",
-      "url": "https://www.goodreads.com/book/show/16954.Birds_of_Prey",
-      "id": "1892203",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386923678i/16954.jpg",
-      "authors": [
-        "Wilbur Smith"
-      ],
-      "genres": [
-        "historical-fiction",
-        "fiction",
-        "adventure",
-        "africa",
-        "historical",
-        "thriller",
-        "pirates"
-      ],
-      "rating": 4.22,
-      "ratings": 12665,
-      "reviews": 380
-    },
-    {
-      "title": "The Year of the Death of Ricardo Reis",
-      "url": "https://www.goodreads.com/book/show/2536.The_Year_of_the_Death_of_Ricardo_Reis",
-      "id": "340108",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348284177i/2536.jpg",
-      "authors": [
-        "José Saramago"
-      ],
-      "genres": [
-        "fiction",
-        "portugal",
-        "portuguese-literature",
-        "classics",
-        "historical-fiction",
-        "literature",
-        "nobel-prize"
-      ],
-      "rating": 4,
-      "ratings": 12663,
-      "reviews": 920
-    },
-    {
-      "title": "Charms for the Easy Life",
-      "url": "https://www.goodreads.com/book/show/15796.Charms_for_the_Easy_Life",
-      "id": "858671",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1440647542i/15796.jpg",
-      "authors": [
-        "Kaye Gibbons"
-      ],
-      "genres": [
-        "fiction",
-        "historical-fiction",
-        "southern",
-        "adult-fiction",
-        "book-club",
-        "novels",
-        "literature"
-      ],
-      "rating": 4.02,
-      "ratings": 12655,
-      "reviews": 917
-    },
-    {
-      "title": "Unashamed: Rahab",
-      "url": "https://www.goodreads.com/book/show/95609.Unashamed",
-      "id": "281091",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1406513239i/95609.jpg",
-      "authors": [
-        "Francine Rivers"
-      ],
-      "genres": [
-        "christian-fiction",
-        "christian",
-        "historical-fiction",
-        "fiction",
-        "biblical-fiction",
-        "historical",
-        "faith"
-      ],
-      "rating": 4.28,
-      "ratings": 12640,
-      "reviews": 422
-    },
-    {
-      "title": "Black Cross",
-      "url": "https://www.goodreads.com/book/show/369995.Black_Cross",
-      "id": "5951651",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1309284878i/369995.jpg",
-      "authors": [
-        "Greg Iles"
-      ],
-      "genres": [
-        "historical-fiction",
-        "fiction",
-        "thriller",
-        "war",
-        "world-war-ii",
-        "historical",
-        "mystery"
-      ],
-      "rating": 4.22,
-      "ratings": 12631,
-      "reviews": 698
-    },
-    {
-      "title": "The Blackthorn Key",
-      "url": "https://www.goodreads.com/book/show/23270216-the-blackthorn-key",
-      "id": "42810383",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1433428562i/23270216.jpg",
-      "authors": [
-        "Kevin Sands"
-      ],
-      "genres": [
-        "fantasy",
-        "mystery",
-        "middle-grade",
-        "historical-fiction",
-        "young-adult",
-        "adventure",
-        "fiction"
-      ],
-      "rating": 4.16,
-      "ratings": 12621,
-      "reviews": 1760
+      "ratings": 13205,
+      "reviews": 1156
     }
   ]
 }

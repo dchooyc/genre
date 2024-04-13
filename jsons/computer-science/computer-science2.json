@@ -1,6 +1,27 @@
 {
   "books": [
     {
+      "title": "A Philosophy of Software Design",
+      "url": "https://www.goodreads.com/book/show/39996759-a-philosophy-of-software-design",
+      "id": "61938796",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1531857377i/39996759.jpg",
+      "authors": [
+        "John Ousterhout"
+      ],
+      "genres": [
+        "programming",
+        "technology",
+        "software",
+        "computer-science",
+        "technical",
+        "non-fiction",
+        "engineering"
+      ],
+      "rating": 4.2,
+      "ratings": 3255,
+      "reviews": 401
+    },
+    {
       "title": "Pro Git",
       "url": "https://www.goodreads.com/book/show/6518085-pro-git",
       "id": "6709947",
@@ -18,11 +39,11 @@
         "software"
       ],
       "rating": 4.18,
-      "ratings": 3221,
-      "reviews": 294
+      "ratings": 3237,
+      "reviews": 295
     },
     {
-      "title": "CONTINUOUS DELIVERY",
+      "title": "Continuous delivery",
       "url": "https://www.goodreads.com/book/show/8686650-continuous-delivery",
       "id": "13558958",
       "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347640457i/8686650.jpg",
@@ -39,29 +60,8 @@
         "business"
       ],
       "rating": 4.2,
-      "ratings": 3206,
-      "reviews": 164
-    },
-    {
-      "title": "Programming Pearls",
-      "url": "https://www.goodreads.com/book/show/52084.Programming_Pearls",
-      "id": "50819",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1385191091i/52084.jpg",
-      "authors": [
-        "Jon L. Bentley"
-      ],
-      "genres": [
-        "programming",
-        "computer-science",
-        "technology",
-        "software",
-        "technical",
-        "non-fiction",
-        "computers"
-      ],
-      "rating": 4.2,
-      "ratings": 3178,
-      "reviews": 92
+      "ratings": 3220,
+      "reviews": 165
     },
     {
       "title": "Complexity: A Guided Tour",
@@ -81,29 +81,29 @@
         "biology"
       ],
       "rating": 4.11,
-      "ratings": 3147,
-      "reviews": 260
+      "ratings": 3185,
+      "reviews": 266
     },
     {
-      "title": "A Philosophy of Software Design",
-      "url": "https://www.goodreads.com/book/show/39996759-a-philosophy-of-software-design",
-      "id": "61938796",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1531857377i/39996759.jpg",
+      "title": "Programming Pearls",
+      "url": "https://www.goodreads.com/book/show/52084.Programming_Pearls",
+      "id": "50819",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1385191091i/52084.jpg",
       "authors": [
-        "John Ousterhout"
+        "Jon L. Bentley"
       ],
       "genres": [
         "programming",
+        "computer-science",
         "technology",
         "software",
-        "computer-science",
         "technical",
         "non-fiction",
-        "engineering"
+        "computers"
       ],
       "rating": 4.2,
-      "ratings": 3143,
-      "reviews": 392
+      "ratings": 3184,
+      "reviews": 92
     },
     {
       "title": "Learning Python",
@@ -123,7 +123,7 @@
         "technical"
       ],
       "rating": 4,
-      "ratings": 3106,
+      "ratings": 3114,
       "reviews": 171
     },
     {
@@ -144,8 +144,8 @@
         "engineering"
       ],
       "rating": 4.26,
-      "ratings": 3086,
-      "reviews": 251
+      "ratings": 3106,
+      "reviews": 254
     },
     {
       "title": "JavaScript: The Definitive Guide",
@@ -158,14 +158,14 @@
       "genres": [
         "programming",
         "reference",
-        "technology",
         "computer-science",
+        "technology",
         "non-fiction",
         "computers",
         "technical"
       ],
       "rating": 4.09,
-      "ratings": 3070,
+      "ratings": 3081,
       "reviews": 121
     },
     {
@@ -178,16 +178,16 @@
       ],
       "genres": [
         "programming",
-        "computer-science",
         "technology",
+        "computer-science",
         "non-fiction",
         "coding",
         "technical",
         "software"
       ],
-      "rating": 4.14,
-      "ratings": 3000,
-      "reviews": 258
+      "rating": 4.15,
+      "ratings": 3031,
+      "reviews": 260
     },
     {
       "title": "Compilers: Principles, Techniques, and Tools",
@@ -207,8 +207,29 @@
         "non-fiction"
       ],
       "rating": 4.09,
-      "ratings": 2964,
+      "ratings": 2968,
       "reviews": 64
+    },
+    {
+      "title": "The Alignment Problem: Machine Learning and Human Values",
+      "url": "https://www.goodreads.com/book/show/50489349-the-alignment-problem",
+      "id": "75461219",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1598630749i/50489349.jpg",
+      "authors": [
+        "Brian Christian"
+      ],
+      "genres": [
+        "artificial-intelligence",
+        "non-fiction",
+        "science",
+        "technology",
+        "philosophy",
+        "computer-science",
+        "business"
+      ],
+      "rating": 4.4,
+      "ratings": 2934,
+      "reviews": 357
     },
     {
       "title": "Automate the Boring Stuff with Python: Practical Programming for Total Beginners",
@@ -228,7 +249,7 @@
         "computers"
       ],
       "rating": 4.29,
-      "ratings": 2811,
+      "ratings": 2859,
       "reviews": 256
     },
     {
@@ -246,11 +267,11 @@
         "technical",
         "software",
         "non-fiction",
-        "reference"
+        "computers"
       ],
       "rating": 4.47,
-      "ratings": 2810,
-      "reviews": 136
+      "ratings": 2828,
+      "reviews": 138
     },
     {
       "title": "Practical Object Oriented Design in Ruby",
@@ -269,30 +290,9 @@
         "non-fiction",
         "coding"
       ],
-      "rating": 4.54,
-      "ratings": 2724,
-      "reviews": 197
-    },
-    {
-      "title": "The Alignment Problem: Machine Learning and Human Values",
-      "url": "https://www.goodreads.com/book/show/50489349-the-alignment-problem",
-      "id": "75461219",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1598630749i/50489349.jpg",
-      "authors": [
-        "Brian Christian"
-      ],
-      "genres": [
-        "artificial-intelligence",
-        "non-fiction",
-        "science",
-        "technology",
-        "philosophy",
-        "computer-science",
-        "business"
-      ],
-      "rating": 4.41,
-      "ratings": 2706,
-      "reviews": 327
+      "rating": 4.53,
+      "ratings": 2738,
+      "reviews": 199
     },
     {
       "title": "Mastering Bitcoin",
@@ -303,17 +303,17 @@
         "Andreas M. Antonopoulos"
       ],
       "genres": [
-        "technology",
         "finance",
+        "technology",
         "programming",
         "computer-science",
-        "non-fiction",
         "economics",
+        "non-fiction",
         "business"
       ],
-      "rating": 4.32,
-      "ratings": 2650,
-      "reviews": 269
+      "rating": 4.31,
+      "ratings": 2647,
+      "reviews": 252
     },
     {
       "title": "Site Reliability Engineering: How Google Runs Production Systems",
@@ -332,30 +332,9 @@
         "non-fiction",
         "engineering"
       ],
-      "rating": 4.22,
-      "ratings": 2618,
-      "reviews": 245
-    },
-    {
-      "title": "The Algorithm Design Manual",
-      "url": "https://www.goodreads.com/book/show/425208.The_Algorithm_Design_Manual",
-      "id": "414271",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388183113i/425208.jpg",
-      "authors": [
-        "Steven S. Skiena"
-      ],
-      "genres": [
-        "computer-science",
-        "programming",
-        "algorithms",
-        "technology",
-        "technical",
-        "non-fiction",
-        "software"
-      ],
-      "rating": 4.35,
-      "ratings": 2590,
-      "reviews": 96
+      "rating": 4.23,
+      "ratings": 2645,
+      "reviews": 251
     },
     {
       "title": "Python Crash Course: A Hands-On, Project-Based Introduction to Programming",
@@ -375,8 +354,29 @@
         "technical"
       ],
       "rating": 4.36,
-      "ratings": 2559,
-      "reviews": 252
+      "ratings": 2623,
+      "reviews": 256
+    },
+    {
+      "title": "The Algorithm Design Manual",
+      "url": "https://www.goodreads.com/book/show/425208.The_Algorithm_Design_Manual",
+      "id": "414271",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388183113i/425208.jpg",
+      "authors": [
+        "Steven S. Skiena"
+      ],
+      "genres": [
+        "computer-science",
+        "programming",
+        "algorithms",
+        "technology",
+        "technical",
+        "non-fiction",
+        "software"
+      ],
+      "rating": 4.35,
+      "ratings": 2600,
+      "reviews": 96
     },
     {
       "title": "You Don't Know JS: Up & Going",
@@ -396,8 +396,29 @@
         "software"
       ],
       "rating": 4.34,
-      "ratings": 2492,
+      "ratings": 2499,
       "reviews": 171
+    },
+    {
+      "title": "Hands-On Machine Learning with Scikit-Learn and TensorFlow",
+      "url": "https://www.goodreads.com/book/show/32899495-hands-on-machine-learning-with-scikit-learn-and-tensorflow",
+      "id": "53513052",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1478536137i/32899495.jpg",
+      "authors": [
+        "Aurélien Géron"
+      ],
+      "genres": [
+        "programming",
+        "computer-science",
+        "artificial-intelligence",
+        "technology",
+        "non-fiction",
+        "technical",
+        "textbooks"
+      ],
+      "rating": 4.56,
+      "ratings": 2455,
+      "reviews": 184
     },
     {
       "title": "Growing Object-Oriented Software, Guided by Tests",
@@ -416,30 +437,30 @@
         "non-fiction",
         "coding"
       ],
-      "rating": 4.2,
-      "ratings": 2420,
+      "rating": 4.19,
+      "ratings": 2427,
       "reviews": 139
     },
     {
-      "title": "Hands-On Machine Learning with Scikit-Learn and TensorFlow",
-      "url": "https://www.goodreads.com/book/show/32899495-hands-on-machine-learning-with-scikit-learn-and-tensorflow",
-      "id": "53513052",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1478536137i/32899495.jpg",
+      "title": "The Deadline",
+      "url": "https://www.goodreads.com/book/show/123716.The_Deadline",
+      "id": "119123",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1356474444i/123716.jpg",
       "authors": [
-        "Aurélien Géron"
+        "Tom DeMarco"
       ],
       "genres": [
-        "programming",
-        "computer-science",
-        "artificial-intelligence",
-        "technology",
+        "management",
+        "business",
         "non-fiction",
-        "technical",
-        "coding"
+        "programming",
+        "leadership",
+        "technology",
+        "computer-science"
       ],
-      "rating": 4.55,
-      "ratings": 2419,
-      "reviews": 181
+      "rating": 4.16,
+      "ratings": 2426,
+      "reviews": 183
     },
     {
       "title": "Data Science for Business: What You Need to Know about Data Mining and Data-Analytic Thinking",
@@ -459,29 +480,8 @@
         "technical"
       ],
       "rating": 4.13,
-      "ratings": 2403,
-      "reviews": 160
-    },
-    {
-      "title": "Hacking: The Art of Exploitation w/CD",
-      "url": "https://www.goodreads.com/book/show/61619.Hacking",
-      "id": "59928",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386745526i/61619.jpg",
-      "authors": [
-        "Jon Erickson"
-      ],
-      "genres": [
-        "computer-science",
-        "programming",
-        "hackers",
-        "non-fiction",
-        "technology",
-        "technical",
-        "computers"
-      ],
-      "rating": 4.17,
-      "ratings": 2378,
-      "reviews": 119
+      "ratings": 2420,
+      "reviews": 162
     },
     {
       "title": "A Mind at Play: How Claude Shannon Invented the Information Age",
@@ -501,7 +501,7 @@
         "mathematics"
       ],
       "rating": 4.16,
-      "ratings": 2370,
+      "ratings": 2412,
       "reviews": 276
     }
   ]

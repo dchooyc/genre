@@ -1,91 +1,402 @@
 {
   "books": [
     {
-      "title": "In the Dog House",
-      "url": "https://www.goodreads.com/book/show/37703508-in-the-dog-house",
-      "id": "59333169",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1527686661i/37703508.jpg",
+      "title": "The Mechanical Devil",
+      "url": "https://www.goodreads.com/book/show/35172119-the-mechanical-devil",
+      "id": "56504892",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1495993902i/35172119.jpg",
       "authors": [
-        "V.M. Burns"
+        "Kate Ellis"
+      ],
+      "genres": [
+        "mystery",
+        "crime",
+        "fiction",
+        "archaeology",
+        "british-literature",
+        "historical-fiction",
+        "historical-mystery"
+      ],
+      "rating": 4.13,
+      "ratings": 920,
+      "reviews": 67
+    },
+    {
+      "title": "Trixie Belden and the Mystery of the Castaway Children",
+      "url": "https://www.goodreads.com/book/show/183145.Trixie_Belden_and_the_Mystery_of_the_Castaway_Children",
+      "id": "1045473",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1390094160i/183145.jpg",
+      "authors": [
+        "Kathryn Kenny"
+      ],
+      "genres": [
+        "mystery",
+        "fiction",
+        "young-adult",
+        "childrens",
+        "mystery-thriller",
+        "adventure",
+        "middle-grade"
+      ],
+      "rating": 4.05,
+      "ratings": 920,
+      "reviews": 34
+    },
+    {
+      "title": "Crime in the Ballroom",
+      "url": "https://www.goodreads.com/book/show/54366354-crime-in-the-ballroom",
+      "id": "84837499",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1593720763i/54366354.jpg",
+      "authors": [
+        "Catherine Moloney"
+      ],
+      "genres": [
+        "mystery"
+      ],
+      "rating": 4.26,
+      "ratings": 920,
+      "reviews": 23
+    },
+    {
+      "title": "Murder in the Mansion",
+      "url": "https://www.goodreads.com/book/show/46014554-murder-in-the-mansion",
+      "id": "70889728",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1558823927i/46014554.jpg",
+      "authors": [
+        "Tegan Maher"
+      ],
+      "genres": [
+        "cozy-mystery",
+        "mystery",
+        "magic",
+        "paranormal-mystery"
+      ],
+      "rating": 4.62,
+      "ratings": 920,
+      "reviews": 58
+    },
+    {
+      "title": "The Greater Good",
+      "url": "https://www.goodreads.com/book/show/53458364-the-greater-good",
+      "id": "60413608",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1590121300i/53458364.jpg",
+      "authors": [
+        "Tim Ayliffe"
+      ],
+      "genres": [
+        "thriller",
+        "australia",
+        "crime",
+        "fiction",
+        "mystery",
+        "journalism",
+        "espionage"
+      ],
+      "rating": 4.03,
+      "ratings": 919,
+      "reviews": 69
+    },
+    {
+      "title": "Deadfall",
+      "url": "https://www.goodreads.com/book/show/701956.Deadfall",
+      "id": "688255",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1390227447i/701956.jpg",
+      "authors": [
+        "Sue Henry"
+      ],
+      "genres": [
+        "mystery",
+        "fiction",
+        "dogs",
+        "mystery-thriller",
+        "cozy-mystery",
+        "nature",
+        "animals"
+      ],
+      "rating": 4.03,
+      "ratings": 919,
+      "reviews": 67
+    },
+    {
+      "title": "Offstage in Nuala",
+      "url": "https://www.goodreads.com/book/show/36486886-offstage-in-nuala",
+      "id": "58198836",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1509118954i/36486886.jpg",
+      "authors": [
+        "Harriet Steel"
+      ],
+      "genres": [
+        "mystery",
+        "historical-fiction",
+        "crime",
+        "fiction",
+        "historical",
+        "audiobook",
+        "detective"
+      ],
+      "rating": 4.06,
+      "ratings": 919,
+      "reviews": 69
+    },
+    {
+      "title": "The Laughterhouse",
+      "url": "https://www.goodreads.com/book/show/13260312-the-laughterhouse",
+      "id": "18461815",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1337122954i/13260312.jpg",
+      "authors": [
+        "Paul Cleave"
+      ],
+      "genres": [
+        "thriller",
+        "crime",
+        "mystery",
+        "fiction",
+        "mystery-thriller",
+        "horror",
+        "audiobook"
+      ],
+      "rating": 4.03,
+      "ratings": 919,
+      "reviews": 109
+    },
+    {
+      "title": "Make Believe",
+      "url": "https://www.goodreads.com/book/show/61939681-make-believe",
+      "id": "40607454",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1660254557i/61939681.jpg",
+      "authors": [
+        "Cath Staincliffe"
+      ],
+      "genres": [
+        "crime",
+        "fiction",
+        "mystery"
+      ],
+      "rating": 4.38,
+      "ratings": 919,
+      "reviews": 7
+    },
+    {
+      "title": "The Great Gaston Murder",
+      "url": "https://www.goodreads.com/book/show/62880148-the-great-gaston-murder",
+      "id": "98677037",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1664903488i/62880148.jpg",
+      "authors": [
+        "Colette Clark"
       ],
       "genres": [
         "mystery",
         "cozy-mystery",
-        "animals",
-        "dogs",
-        "fiction",
-        "crime",
-        "contemporary"
+        "historical-fiction"
       ],
-      "rating": 4.1,
-      "ratings": 687,
-      "reviews": 166
+      "rating": 4.41,
+      "ratings": 919,
+      "reviews": 16
     },
     {
-      "title": "Second Shot",
-      "url": "https://www.goodreads.com/book/show/60465278-second-shot",
-      "id": "95287963",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1663198263i/60465278.jpg",
+      "title": "Lost Witch",
+      "url": "https://www.goodreads.com/book/show/36611609-lost-witch",
+      "id": "58368282",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1510926195i/36611609.jpg",
       "authors": [
-        "Cindy Dees"
+        "Tess Lake"
+      ],
+      "genres": [
+        "audiobook",
+        "fantasy",
+        "paranormal",
+        "mystery",
+        "cozy-mystery",
+        "urban-fantasy",
+        "witches"
+      ],
+      "rating": 4.11,
+      "ratings": 919,
+      "reviews": 30
+    },
+    {
+      "title": "Rest Not in Peace",
+      "url": "https://www.goodreads.com/book/show/18056605-rest-not-in-peace",
+      "id": "25346160",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386924800i/18056605.jpg",
+      "authors": [
+        "Melvin R. Starr"
+      ],
+      "genres": [
+        "historical-fiction",
+        "mystery",
+        "fiction",
+        "historical-mystery",
+        "medieval",
+        "historical",
+        "crime"
+      ],
+      "rating": 4.14,
+      "ratings": 919,
+      "reviews": 79
+    },
+    {
+      "title": "Everybody Lies",
+      "url": "https://www.goodreads.com/book/show/198564839-everybody-lies",
+      "id": "23840852",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1693884372i/198564839.jpg",
+      "authors": [
+        "L.J. Breedlove"
       ],
       "genres": [
         "mystery",
-        "thriller",
         "fiction",
         "suspense",
         "mystery-thriller",
-        "espionage",
-        "audiobook"
+        "crime"
       ],
-      "rating": 4.23,
-      "ratings": 687,
-      "reviews": 162
+      "rating": 4.32,
+      "ratings": 919,
+      "reviews": 65
     },
     {
-      "title": "Blizzard Showdown",
-      "url": "https://www.goodreads.com/book/show/58160110-blizzard-showdown",
-      "id": "91161321",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1632862999i/58160110.jpg",
+      "title": "The Day I Was Erased",
+      "url": "https://www.goodreads.com/book/show/42610528-the-day-i-was-erased",
+      "id": "66321027",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1556212485i/42610528.jpg",
       "authors": [
-        "Shirlee McCoy"
+        "Lisa   Thompson"
       ],
       "genres": [
-        "christian-fiction",
-        "love-inspired-suspense",
-        "romantic-suspense",
-        "christian",
-        "romance",
-        "mystery"
+        "middle-grade",
+        "fiction",
+        "fantasy",
+        "mystery",
+        "childrens",
+        "magical-realism",
+        "family"
       ],
-      "rating": 4.66,
-      "ratings": 687,
-      "reviews": 41
+      "rating": 4.29,
+      "ratings": 918,
+      "reviews": 102
     },
     {
-      "title": "Playing Dead",
-      "url": "https://www.goodreads.com/book/show/23444132-playing-dead",
-      "id": "43007616",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1422035897i/23444132.jpg",
+      "title": "The Pharos Gate: Griffin & Sabine's Lost Correspondence",
+      "url": "https://www.goodreads.com/book/show/25861970-the-pharos-gate",
+      "id": "45732626",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1461775638i/25861970.jpg",
       "authors": [
-        "Neil Richards"
+        "Nick Bantock"
+      ],
+      "genres": [
+        "fiction",
+        "fantasy",
+        "art",
+        "romance",
+        "magical-realism",
+        "mystery",
+        "graphic-novels"
+      ],
+      "rating": 4.31,
+      "ratings": 918,
+      "reviews": 172
+    },
+    {
+      "title": "The Wedding Cake Wish",
+      "url": "https://www.goodreads.com/book/show/58569829-the-wedding-cake-wish",
+      "id": "92061405",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1653382490i/58569829.jpg",
+      "authors": [
+        "Rosie Green"
+      ],
+      "genres": [
+        "romance",
+        "mystery",
+        "contemporary",
+        "fiction"
+      ],
+      "rating": 4.6,
+      "ratings": 918,
+      "reviews": 31
+    },
+    {
+      "title": "The Tally Stick",
+      "url": "https://www.goodreads.com/book/show/58342105-the-tally-stick",
+      "id": "85498980",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1623696159i/58342105.jpg",
+      "authors": [
+        "Carl Nixon"
+      ],
+      "genres": [
+        "fiction",
+        "mystery",
+        "crime",
+        "thriller",
+        "suspense",
+        "contemporary",
+        "book-club"
+      ],
+      "rating": 4.01,
+      "ratings": 918,
+      "reviews": 193
+    },
+    {
+      "title": "The Shearer's Wife",
+      "url": "https://www.goodreads.com/book/show/54962639-the-shearer-s-wife",
+      "id": "85150372",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1597536577i/54962639.jpg",
+      "authors": [
+        "Fleur McDonald"
+      ],
+      "genres": [
+        "crime",
+        "mystery",
+        "fiction",
+        "drama",
+        "romance",
+        "australia"
+      ],
+      "rating": 4.2,
+      "ratings": 918,
+      "reviews": 76
+    },
+    {
+      "title": "Free Fall",
+      "url": "https://www.goodreads.com/book/show/16155041-free-fall",
+      "id": "21993874",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1358729900i/16155041.jpg",
+      "authors": [
+        "Chris Grabenstein"
       ],
       "genres": [
         "mystery",
-        "audiobook",
-        "cozy-mystery",
         "mystery-thriller",
-        "fiction"
+        "fiction",
+        "audiobook",
+        "crime",
+        "humor",
+        "cozy-mystery"
       ],
-      "rating": 4.01,
-      "ratings": 687,
-      "reviews": 27
+      "rating": 4.05,
+      "ratings": 918,
+      "reviews": 128
     },
     {
-      "title": "The Apothecary Diaries (Light Novel): Volume 6",
-      "url": "https://www.goodreads.com/book/show/61429356-the-apothecary-diaries-light-novel",
-      "id": "59558037",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1657612940i/61429356.jpg",
+      "title": "Summary & Study Guide The Kalahari Typing School for Men by Alexander McCall Smith",
+      "url": "https://www.goodreads.com/book/show/9839870-summary-study-guide-the-kalahari-typing-school-for-men-by-alexander-mc",
+      "id": "14730613",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1511692025i/9839870.jpg",
+      "authors": [
+        "BookRags"
+      ],
+      "genres": [
+        "mystery",
+        "fiction"
+      ],
+      "rating": 4.37,
+      "ratings": 917,
+      "reviews": 8
+    },
+    {
+      "title": "The Apothecary Diaries (Light Novel): Volume 7",
+      "url": "https://www.goodreads.com/book/show/80343208-the-apothecary-diaries-light-novel",
+      "id": "60341216",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1674101910i/80343208.jpg",
       "authors": [
         "Natsu Hyuuga"
       ],
@@ -93,383 +404,77 @@
         "light-novel",
         "mystery",
         "romance",
+        "fiction",
+        "historical-fiction",
         "historical",
-        "fantasy",
-        "fiction",
-        "historical-fiction"
-      ],
-      "rating": 4.36,
-      "ratings": 687,
-      "reviews": 38
-    },
-    {
-      "title": "Most Definitely Murder",
-      "url": "https://www.goodreads.com/book/show/53710583-most-definitely-murder",
-      "id": "84028381",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1590955451i/53710583.jpg",
-      "authors": [
-        "Emily Queen"
-      ],
-      "genres": [
-        "mystery",
-        "cozy-mystery"
-      ],
-      "rating": 4.41,
-      "ratings": 686,
-      "reviews": 17
-    },
-    {
-      "title": "Assassin",
-      "url": "https://www.goodreads.com/book/show/15157488-assassin",
-      "id": "20812685",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1340595512i/15157488.jpg",
-      "authors": [
-        "Tara Moss"
-      ],
-      "genres": [
-        "crime",
-        "thriller",
-        "mystery",
-        "fiction",
-        "australia",
-        "action",
-        "audiobook"
-      ],
-      "rating": 4.02,
-      "ratings": 686,
-      "reviews": 69
-    },
-    {
-      "title": "No Questions Asked",
-      "url": "https://www.goodreads.com/book/show/52149942-no-questions-asked",
-      "id": "73603287",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1572777702l/52149942.jpg",
-      "authors": [
-        "Julie Moffett"
-      ],
-      "genres": [
-        "mystery",
-        "romantic-suspense",
-        "cozy-mystery",
-        "mystery-thriller",
-        "humor",
-        "romance",
-        "suspense"
-      ],
-      "rating": 4.59,
-      "ratings": 686,
-      "reviews": 93
-    },
-    {
-      "title": "The Haunting on West 10th Street",
-      "url": "https://www.goodreads.com/book/show/39904305-the-haunting-on-west-10th-street",
-      "id": "61750040",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1524269485i/39904305.jpg",
-      "authors": [
-        "Helen Phifer"
-      ],
-      "genres": [
-        "horror",
-        "mystery",
-        "thriller",
-        "paranormal",
-        "suspense",
-        "supernatural",
-        "mystery-thriller"
-      ],
-      "rating": 4.14,
-      "ratings": 686,
-      "reviews": 237
-    },
-    {
-      "title": "Rags of Time",
-      "url": "https://www.goodreads.com/book/show/54373214-rags-of-time",
-      "id": "71896680",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1593817954i/54373214.jpg",
-      "authors": [
-        "Michael        Ward"
-      ],
-      "genres": [
-        "historical-fiction",
-        "mystery",
-        "17th-century",
-        "fiction",
-        "british-literature",
-        "crime",
-        "thriller"
-      ],
-      "rating": 4.06,
-      "ratings": 686,
-      "reviews": 58
-    },
-    {
-      "title": "Deadly Night",
-      "url": "https://www.goodreads.com/book/show/60785683-deadly-night",
-      "id": "95850691",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1649601786i/60785683.jpg",
-      "authors": [
-        "O.M.J. Ryan"
-      ],
-      "genres": [
-        "mystery",
-        "thriller"
-      ],
-      "rating": 4.56,
-      "ratings": 686,
-      "reviews": 25
-    },
-    {
-      "title": "Subtle Bodies",
-      "url": "https://www.goodreads.com/book/show/61877091-subtle-bodies",
-      "id": "97550053",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1659803592i/61877091.jpg",
-      "authors": [
-        "Jordan Castillo Price"
-      ],
-      "genres": [
-        "paranormal",
-        "m-m-romance",
-        "mystery",
-        "ghosts",
-        "romance",
-        "fantasy",
-        "lgbt"
-      ],
-      "rating": 4.3,
-      "ratings": 686,
-      "reviews": 125
-    },
-    {
-      "title": "Devil's Table",
-      "url": "https://www.goodreads.com/book/show/56695707-devil-s-table",
-      "id": "130580307",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1633275495i/56695707.jpg",
-      "authors": [
-        "Kate Rhodes"
-      ],
-      "genres": [
-        "crime",
-        "mystery",
-        "fiction"
-      ],
-      "rating": 4.15,
-      "ratings": 685,
-      "reviews": 67
-    },
-    {
-      "title": "Case of the Sneaky Snowman",
-      "url": "https://www.goodreads.com/book/show/48762.Case_of_the_Sneaky_Snowman",
-      "id": "47704",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386924450i/48762.jpg",
-      "authors": [
-        "Carolyn Keene"
-      ],
-      "genres": [
-        "mystery",
-        "childrens",
-        "chapter-books",
-        "middle-grade",
-        "fiction",
-        "juvenile",
-        "detective"
-      ],
-      "rating": 4.03,
-      "ratings": 685,
-      "reviews": 55
-    },
-    {
-      "title": "Murder With Motive",
-      "url": "https://www.goodreads.com/book/show/75469351-murder-with-motive",
-      "id": "100737955",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1672580928i/75469351.jpg",
-      "authors": [
-        "Blythe Baker"
-      ],
-      "genres": [
-        "mystery",
-        "historical-fiction",
-        "fiction",
-        "mystery-thriller",
-        "cozy-mystery"
-      ],
-      "rating": 4.13,
-      "ratings": 685,
-      "reviews": 22
-    },
-    {
-      "title": "The Haunting of Whitecrest Estate",
-      "url": "https://www.goodreads.com/book/show/56318135-the-haunting-of-whitecrest-estate",
-      "id": "87739474",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1608200073i/56318135.jpg",
-      "authors": [
-        "Hazel Holmes"
-      ],
-      "genres": [
-        "horror",
-        "fiction",
-        "mystery",
-        "paranormal",
-        "mystery-thriller"
-      ],
-      "rating": 4.18,
-      "ratings": 685,
-      "reviews": 51
-    },
-    {
-      "title": "Death in the Margins",
-      "url": "https://www.goodreads.com/book/show/60588799-death-in-the-margins",
-      "id": "95502418",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1647019275i/60588799.jpg",
-      "authors": [
-        "Victoria Gilbert"
-      ],
-      "genres": [
-        "mystery",
-        "cozy-mystery",
-        "fiction",
-        "family"
-      ],
-      "rating": 4.05,
-      "ratings": 685,
-      "reviews": 146
-    },
-    {
-      "title": "Serenity",
-      "url": "https://www.goodreads.com/book/show/60215543-serenity",
-      "id": "94958699",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1643168578i/60215543.jpg",
-      "authors": [
-        "Karen Ann Hopkins"
-      ],
-      "genres": [
-        "mystery",
-        "amish",
-        "fiction",
-        "mystery-thriller"
-      ],
-      "rating": 4.3,
-      "ratings": 684,
-      "reviews": 37
-    },
-    {
-      "title": "His Promise",
-      "url": "https://www.goodreads.com/book/show/38254393-his-promise",
-      "id": "59815962",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1523477564i/38254393.jpg",
-      "authors": [
-        "Shelley Shepard Gray"
-      ],
-      "genres": [
-        "amish",
-        "christmas",
-        "romance",
-        "christian-fiction",
-        "amish-fiction",
-        "christian",
-        "mystery"
-      ],
-      "rating": 4.06,
-      "ratings": 684,
-      "reviews": 108
-    },
-    {
-      "title": "Sammy Keyes and the Kiss Goodbye",
-      "url": "https://www.goodreads.com/book/show/20169624-sammy-keyes-and-the-kiss-goodbye",
-      "id": "28028535",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388957618i/20169624.jpg",
-      "authors": [
-        "Wendelin Van Draanen"
-      ],
-      "genres": [
-        "mystery",
-        "young-adult",
-        "middle-grade",
-        "fiction",
-        "childrens",
-        "realistic-fiction",
-        "contemporary"
-      ],
-      "rating": 4.35,
-      "ratings": 684,
-      "reviews": 121
-    },
-    {
-      "title": "The Phoenix Sanction",
-      "url": "https://www.goodreads.com/book/show/41564405-the-phoenix-sanction",
-      "id": "64859317",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1535570848i/41564405.jpg",
-      "authors": [
-        "Christopher Cartwright"
-      ],
-      "genres": [
-        "action",
-        "adventure",
-        "mystery",
-        "thriller",
-        "amazon",
         "fantasy"
       ],
-      "rating": 4.39,
-      "ratings": 684,
-      "reviews": 42
+      "rating": 4.37,
+      "ratings": 917,
+      "reviews": 43
     },
     {
-      "title": "Tea is for Trouble",
-      "url": "https://www.goodreads.com/book/show/57962784-tea-is-for-trouble",
-      "id": "90820389",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1620306753i/57962784.jpg",
+      "title": "The Prioress' Tale",
+      "url": "https://www.goodreads.com/book/show/185651.The_Prioress_Tale",
+      "id": "179449",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388239095i/185651.jpg",
       "authors": [
-        "Karen Sue Walker"
+        "Margaret Frazer"
       ],
       "genres": [
         "mystery",
-        "cozy-mystery",
+        "historical-fiction",
+        "historical",
+        "medieval",
+        "historical-mystery",
+        "fiction",
+        "crime"
+      ],
+      "rating": 4.15,
+      "ratings": 917,
+      "reviews": 47
+    },
+    {
+      "title": "Get Up and Ghost",
+      "url": "https://www.goodreads.com/book/show/203689886-get-up-and-ghost",
+      "id": "69456832",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1702399426i/203689886.jpg",
+      "authors": [
+        "Carolyn Ridder Aspenson"
+      ],
+      "genres": [
         "paranormal",
+        "mystery",
+        "cozy-mystery",
+        "fiction",
         "fantasy",
-        "fiction",
-        "ghosts",
-        "mystery-thriller"
+        "romance",
+        "ghosts"
       ],
-      "rating": 4.32,
-      "ratings": 684,
-      "reviews": 87
+      "rating": 4.39,
+      "ratings": 917,
+      "reviews": 143
     },
     {
-      "title": "The Girl in the Water",
-      "url": "https://www.goodreads.com/book/show/123669725-the-girl-in-the-water",
-      "id": "55877946",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1689680366i/123669725.jpg",
+      "title": "Wed, Read & Dead",
+      "url": "https://www.goodreads.com/book/show/41064692-wed-read-dead",
+      "id": "64137818",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1540994076i/41064692.jpg",
       "authors": [
-        "J.A.  Baker"
-      ],
-      "genres": [
-        "thriller",
-        "psychological-thriller",
-        "fiction",
-        "mystery"
-      ],
-      "rating": 4.03,
-      "ratings": 684,
-      "reviews": 72
-    },
-    {
-      "title": "A Secret Killer",
-      "url": "https://www.goodreads.com/book/show/25361425-a-secret-killer",
-      "id": "45104628",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1441145974i/25361425.jpg",
-      "authors": [
-        "Gillian Larkin"
+        "V.M. Burns"
       ],
       "genres": [
         "mystery",
         "cozy-mystery",
-        "amazon",
         "fiction",
-        "mystery-thriller"
+        "mystery-thriller",
+        "romance",
+        "christmas",
+        "contemporary"
       ],
-      "rating": 4,
-      "ratings": 684,
-      "reviews": 57
+      "rating": 4.18,
+      "ratings": 917,
+      "reviews": 164
     }
   ]
 }

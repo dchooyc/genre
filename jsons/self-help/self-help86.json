@@ -1,170 +1,424 @@
 {
   "books": [
     {
-      "title": "Mitten Strings for God: Reflections for Mothers in a Hurry",
-      "url": "https://www.goodreads.com/book/show/344719.Mitten_Strings_for_God",
-      "id": "1085941",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1436324254i/344719.jpg",
+      "title": "Stoicism and the Art of Happiness",
+      "url": "https://www.goodreads.com/book/show/17841317-stoicism-and-the-art-of-happiness",
+      "id": "24968074",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1707892834i/17841317.jpg",
       "authors": [
-        "Katrina Kenison"
+        "Donald J. Robertson"
+      ],
+      "genres": [
+        "philosophy",
+        "non-fiction",
+        "self-help",
+        "psychology",
+        "personal-development",
+        "spirituality",
+        "history"
+      ],
+      "rating": 4.14,
+      "ratings": 1853,
+      "reviews": 157
+    },
+    {
+      "title": "The Intelligent Asset Allocator: How to Build Your Portfolio to Maximize Returns and Minimize Risk",
+      "url": "https://www.goodreads.com/book/show/208722.The_Intelligent_Asset_Allocator",
+      "id": "202024",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388270294i/208722.jpg",
+      "authors": [
+        "William J. Bernstein"
+      ],
+      "genres": [
+        "finance",
+        "non-fiction",
+        "personal-finance",
+        "economics",
+        "business",
+        "money",
+        "self-help"
+      ],
+      "rating": 4.2,
+      "ratings": 1853,
+      "reviews": 107
+    },
+    {
+      "title": "Becoming Better Grownups: Rediscovering What Matters and Remembering How to Fly",
+      "url": "https://www.goodreads.com/book/show/52669271-becoming-better-grownups",
+      "id": "73100243",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1572261464l/52669271.jpg",
+      "authors": [
+        "Brad Montague"
+      ],
+      "genres": [
+        "non-fiction",
+        "self-help",
+        "parenting",
+        "psychology",
+        "inspirational",
+        "personal-development",
+        "adult"
+      ],
+      "rating": 4.32,
+      "ratings": 1850,
+      "reviews": 277
+    },
+    {
+      "title": "The 7 Day Startup: You Don't Learn Until You Launch",
+      "url": "https://www.goodreads.com/book/show/23290805-the-7-day-startup",
+      "id": "42848001",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1441647358i/23290805.jpg",
+      "authors": [
+        "Dan  Norris"
+      ],
+      "genres": [
+        "business",
+        "entrepreneurship",
+        "non-fiction",
+        "management",
+        "self-help",
+        "personal-development",
+        "audiobook"
+      ],
+      "rating": 4.01,
+      "ratings": 1850,
+      "reviews": 104
+    },
+    {
+      "title": "The Man God Has For You: 7 Traits To Help You Determine Your Life Partner",
+      "url": "https://www.goodreads.com/book/show/35846170-the-man-god-has-for-you",
+      "id": "57358223",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1501278441i/35846170.jpg",
+      "authors": [
+        "Stephan Labossiere"
+      ],
+      "genres": [
+        "christian",
+        "non-fiction",
+        "self-help",
+        "love",
+        "relationships",
+        "faith",
+        "christian-non-fiction"
+      ],
+      "rating": 4.3,
+      "ratings": 1846,
+      "reviews": 179
+    },
+    {
+      "title": "The Seven Levels of Communication: Go from Relationships to Referrals",
+      "url": "https://www.goodreads.com/book/show/9858250-the-7l-the-seven-levels-of-communication",
+      "id": "14749449",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328761790i/9858250.jpg",
+      "authors": [
+        "Michael J.  Maher"
+      ],
+      "genres": [
+        "business",
+        "communication",
+        "non-fiction",
+        "self-help",
+        "leadership",
+        "relationships",
+        "personal-development"
+      ],
+      "rating": 4.35,
+      "ratings": 1846,
+      "reviews": 191
+    },
+    {
+      "title": "The Power of Kabbalah: Technology for the Soul",
+      "url": "https://www.goodreads.com/book/show/332823.The_Power_of_Kabbalah",
+      "id": "1398238",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328750956i/332823.jpg",
+      "authors": [
+        "Yehuda Berg"
+      ],
+      "genres": [
+        "spirituality",
+        "religion",
+        "non-fiction",
+        "philosophy",
+        "self-help",
+        "judaism",
+        "mysticism"
+      ],
+      "rating": 4.17,
+      "ratings": 1845,
+      "reviews": 157
+    },
+    {
+      "title": "Who Ordered This Truckload of Dung?: Inspiring Stories for Welcoming Life's Difficulties",
+      "url": "https://www.goodreads.com/book/show/647579.Who_Ordered_This_Truckload_of_Dung_",
+      "id": "633723",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1421037748i/647579.jpg",
+      "authors": [
+        "Ajahn Brahm"
+      ],
+      "genres": [
+        "buddhism",
+        "spirituality",
+        "non-fiction",
+        "self-help",
+        "philosophy",
+        "religion",
+        "short-stories"
+      ],
+      "rating": 4.43,
+      "ratings": 1844,
+      "reviews": 201
+    },
+    {
+      "title": "Rebel Buddha: On the Road to Freedom",
+      "url": "https://www.goodreads.com/book/show/7930947-rebel-buddha",
+      "id": "11256280",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320428064i/7930947.jpg",
+      "authors": [
+        "Dzogchen Ponlop"
+      ],
+      "genres": [
+        "buddhism",
+        "spirituality",
+        "non-fiction",
+        "religion",
+        "philosophy",
+        "self-help",
+        "audiobook"
+      ],
+      "rating": 4.05,
+      "ratings": 1843,
+      "reviews": 119
+    },
+    {
+      "title": "You Are Not a Before Picture",
+      "url": "https://www.goodreads.com/book/show/60094738-you-are-not-a-before-picture",
+      "id": "94755238",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1696834332i/60094738.jpg",
+      "authors": [
+        "Alex  Light"
+      ],
+      "genres": [
+        "non-fiction",
+        "self-help",
+        "feminism",
+        "health",
+        "adult",
+        "audiobook",
+        "psychology"
+      ],
+      "rating": 4.27,
+      "ratings": 1839,
+      "reviews": 196
+    },
+    {
+      "title": "The Four Doors",
+      "url": "https://www.goodreads.com/book/show/17571670-the-four-doors",
+      "id": "24508920",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1387146196i/17571670.jpg",
+      "authors": [
+        "Richard Paul Evans"
+      ],
+      "genres": [
+        "non-fiction",
+        "self-help",
+        "inspirational",
+        "christian",
+        "christmas",
+        "spirituality",
+        "audiobook"
+      ],
+      "rating": 4.03,
+      "ratings": 1833,
+      "reviews": 311
+    },
+    {
+      "title": "The Sober Girl Society Handbook: An Empowering Guide to Living Hangover Free",
+      "url": "https://www.goodreads.com/book/show/54742213-the-sober-girl-society-handbook",
+      "id": "85395498",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1599571048i/54742213.jpg",
+      "authors": [
+        "Millie Gooch"
+      ],
+      "genres": [
+        "non-fiction",
+        "self-help",
+        "audiobook",
+        "health",
+        "alcohol",
+        "mental-health",
+        "feminism"
+      ],
+      "rating": 4.19,
+      "ratings": 1829,
+      "reviews": 138
+    },
+    {
+      "title": "You Can Draw in 30 Days: The Fun, Easy Way to Learn to Draw in One Month or Less",
+      "url": "https://www.goodreads.com/book/show/3113980-you-can-draw-in-30-days",
+      "id": "3145263",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328829368i/3113980.jpg",
+      "authors": [
+        "Mark Kistler"
+      ],
+      "genres": [
+        "art",
+        "drawing",
+        "non-fiction",
+        "design",
+        "reference",
+        "how-to",
+        "self-help"
+      ],
+      "rating": 4.25,
+      "ratings": 1827,
+      "reviews": 161
+    },
+    {
+      "title": "The Stress Solution: The 4 Steps to Reset Your Body, Mind, Relationships and Purpose",
+      "url": "https://www.goodreads.com/book/show/40545856-the-stress-solution",
+      "id": "62958988",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1546029149i/40545856.jpg",
+      "authors": [
+        "Rangan Chatterjee"
+      ],
+      "genres": [
+        "health",
+        "non-fiction",
+        "self-help",
+        "psychology",
+        "audiobook",
+        "science",
+        "personal-development"
+      ],
+      "rating": 4.29,
+      "ratings": 1826,
+      "reviews": 134
+    },
+    {
+      "title": "Grief Is Love: Living with Loss",
+      "url": "https://www.goodreads.com/book/show/58684290-grief-is-love",
+      "id": "90047621",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1645390677i/58684290.jpg",
+      "authors": [
+        "Marisa Renee Lee"
+      ],
+      "genres": [
+        "non-fiction",
+        "psychology",
+        "self-help",
+        "memoir",
+        "mental-health",
+        "audiobook",
+        "death"
+      ],
+      "rating": 4.19,
+      "ratings": 1822,
+      "reviews": 235
+    },
+    {
+      "title": "It's Okay Not to Be Okay: Moving Forward One Day at a Time",
+      "url": "https://www.goodreads.com/book/show/38502478-it-s-okay-not-to-be-okay",
+      "id": "60141221",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1532428869i/38502478.jpg",
+      "authors": [
+        "Sheila Walsh"
+      ],
+      "genres": [
+        "christian",
+        "non-fiction",
+        "self-help",
+        "christian-living",
+        "faith",
+        "christian-non-fiction",
+        "audiobook"
+      ],
+      "rating": 4.39,
+      "ratings": 1819,
+      "reviews": 236
+    },
+    {
+      "title": "Imperfect Courage: Live a Life of Purpose by Leaving Comfort and Going Scared",
+      "url": "https://www.goodreads.com/book/show/37003176-imperfect-courage",
+      "id": "58855308",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1530528965i/37003176.jpg",
+      "authors": [
+        "Jessica Honegger"
+      ],
+      "genres": [
+        "non-fiction",
+        "self-help",
+        "personal-development",
+        "christian",
+        "memoir",
+        "leadership",
+        "faith"
+      ],
+      "rating": 4.11,
+      "ratings": 1818,
+      "reviews": 535
+    },
+    {
+      "title": "Hashimoto's Thyroiditis: Lifestyle Interventions for Finding and Treating the Root Cause",
+      "url": "https://www.goodreads.com/book/show/18106058-hashimoto-s-thyroiditis",
+      "id": "25426092",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1419182450i/18106058.jpg",
+      "authors": [
+        "Izabella Wentz"
+      ],
+      "genres": [
+        "health",
+        "non-fiction",
+        "self-help",
+        "science",
+        "medical",
+        "medicine",
+        "unfinished"
+      ],
+      "rating": 4.13,
+      "ratings": 1817,
+      "reviews": 174
+    },
+    {
+      "title": "Let Them Be Kids: Adventure, Boredom, Innocence, and Other Gifts Children Need",
+      "url": "https://www.goodreads.com/book/show/53595899-let-them-be-kids",
+      "id": "74245497",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1590714019i/53595899.jpg",
+      "authors": [
+        "Jessica Smartt"
       ],
       "genres": [
         "parenting",
         "non-fiction",
-        "memoir",
-        "self-help",
-        "inspirational",
+        "audiobook",
         "family",
-        "psychology"
-      ],
-      "rating": 4.16,
-      "ratings": 1753,
-      "reviews": 358
-    },
-    {
-      "title": "The Beggar King and the Secret of Happiness",
-      "url": "https://www.goodreads.com/book/show/134933.The_Beggar_King_and_the_Secret_of_Happiness",
-      "id": "2848481",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1410978298i/134933.jpg",
-      "authors": [
-        "Joel Ben Izzy"
-      ],
-      "genres": [
-        "non-fiction",
-        "memoir",
-        "biography",
-        "inspirational",
+        "childrens",
         "self-help",
-        "short-stories",
-        "biography-memoir"
-      ],
-      "rating": 4.16,
-      "ratings": 1753,
-      "reviews": 357
-    },
-    {
-      "title": "You Do You: Discovering Live Through Experiments and Self-Awareness",
-      "url": "https://www.goodreads.com/book/show/56317605-you-do-you",
-      "id": "87738769",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1630823025i/56317605.jpg",
-      "authors": [
-        "Fellexandro Ruby"
-      ],
-      "genres": [
-        "self-help",
-        "non-fiction",
-        "personal-development",
-        "business",
-        "indonesian-literature",
-        "productivity"
-      ],
-      "rating": 4.4,
-      "ratings": 1750,
-      "reviews": 447
-    },
-    {
-      "title": "Perfectly Imperfect: The Art and Soul of Yoga Practice",
-      "url": "https://www.goodreads.com/book/show/27204198-perfectly-imperfect",
-      "id": "47244989",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1447949812i/27204198.jpg",
-      "authors": [
-        "Baron Baptiste"
-      ],
-      "genres": [
-        "non-fiction",
-        "self-help",
-        "spirituality",
-        "health",
-        "philosophy",
-        "audiobook"
-      ],
-      "rating": 4.07,
-      "ratings": 1748,
-      "reviews": 137
-    },
-    {
-      "title": "Fear: Understanding and Accepting the Insecurities of Life",
-      "url": "https://www.goodreads.com/book/show/13538850-fear",
-      "id": "6553584",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1343333710i/13538850.jpg",
-      "authors": [
-        "Osho"
-      ],
-      "genres": [
-        "self-help",
-        "spirituality",
-        "philosophy",
-        "non-fiction",
-        "psychology",
-        "personal-development",
-        "inspirational"
-      ],
-      "rating": 4.12,
-      "ratings": 1747,
-      "reviews": 150
-    },
-    {
-      "title": "Self-Knowledge",
-      "url": "https://www.goodreads.com/book/show/37533013-self-knowledge",
-      "id": "59134520",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1513260490i/37533013.jpg",
-      "authors": [
-        "The School of Life"
-      ],
-      "genres": [
-        "self-help",
-        "philosophy",
-        "non-fiction",
-        "psychology",
-        "personal-development",
-        "mental-health",
-        "essays"
-      ],
-      "rating": 4.03,
-      "ratings": 1747,
-      "reviews": 190
-    },
-    {
-      "title": "The Fire in Fiction: Passion, Purpose and Techniques to Make Your Novel Great",
-      "url": "https://www.goodreads.com/book/show/6376896-the-fire-in-fiction",
-      "id": "6564585",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1408308457i/6376896.jpg",
-      "authors": [
-        "Donald Maass"
-      ],
-      "genres": [
-        "writing",
-        "non-fiction",
-        "reference",
-        "crafts",
-        "how-to",
-        "self-help",
-        "adult"
-      ],
-      "rating": 4.16,
-      "ratings": 1746,
-      "reviews": 187
-    },
-    {
-      "title": "A Better Way to Live",
-      "url": "https://www.goodreads.com/book/show/336882.A_Better_Way_to_Live",
-      "id": "2645722",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388377556i/336882.jpg",
-      "authors": [
-        "Og Mandino"
-      ],
-      "genres": [
-        "self-help",
-        "non-fiction",
-        "personal-development",
-        "inspirational",
-        "religion",
-        "buisness",
         "christian"
       ],
-      "rating": 4.31,
-      "ratings": 1745,
-      "reviews": 83
+      "rating": 4.2,
+      "ratings": 1817,
+      "reviews": 247
+    },
+    {
+      "title": "The Weight of Air: A Story of the Lies about Addiction and the Truth about Recovery",
+      "url": "https://www.goodreads.com/book/show/57558506-the-weight-of-air",
+      "id": "90136090",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1616980726i/57558506.jpg",
+      "authors": [
+        "David Poses"
+      ],
+      "genres": [
+        "memoir",
+        "non-fiction",
+        "mental-health",
+        "biography",
+        "biography-memoir",
+        "audiobook",
+        "self-help"
+      ],
+      "rating": 4.24,
+      "ratings": 1817,
+      "reviews": 194
     },
     {
       "title": "The Great CEO Within: The Tactical Guide to Company Building",
@@ -178,14 +432,35 @@
         "business",
         "leadership",
         "management",
-        "entrepreneurship",
         "non-fiction",
+        "entrepreneurship",
         "self-help",
         "productivity"
       ],
       "rating": 4.36,
-      "ratings": 1745,
-      "reviews": 136
+      "ratings": 1815,
+      "reviews": 141
+    },
+    {
+      "title": "Just One Thing: Developing a Buddha Brain One Simple Practice at a Time",
+      "url": "https://www.goodreads.com/book/show/11276139-just-one-thing",
+      "id": "16203237",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1344907792i/11276139.jpg",
+      "authors": [
+        "Rick Hanson"
+      ],
+      "genres": [
+        "self-help",
+        "non-fiction",
+        "buddhism",
+        "psychology",
+        "spirituality",
+        "personal-development",
+        "mental-health"
+      ],
+      "rating": 4.07,
+      "ratings": 1815,
+      "reviews": 138
     },
     {
       "title": "One Truth, One Law: I Am, I Create",
@@ -199,305 +474,33 @@
         "spirituality",
         "self-help",
         "non-fiction",
+        "psychology",
         "philosophy"
       ],
       "rating": 4.56,
-      "ratings": 1742,
-      "reviews": 265
+      "ratings": 1810,
+      "reviews": 272
     },
     {
-      "title": "Healing After Loss: Daily Meditations For Working Through Grief",
-      "url": "https://www.goodreads.com/book/show/68470.Healing_After_Loss",
-      "id": "66364",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1437325085i/68470.jpg",
+      "title": "Boundary Boss: The Essential Guide to Talk True, Be Seen, and (Finally) Live Free",
+      "url": "https://www.goodreads.com/book/show/53359440-boundary-boss",
+      "id": "82353173",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1596435233i/53359440.jpg",
       "authors": [
-        "Martha Whitmore Hickman"
+        "Terri Cole"
       ],
       "genres": [
         "non-fiction",
         "self-help",
         "psychology",
-        "spirituality",
-        "inspirational",
-        "death",
-        "mental-health"
-      ],
-      "rating": 4.49,
-      "ratings": 1741,
-      "reviews": 149
-    },
-    {
-      "title": "Making Work Visible: Exposing Time Theft to Optimize Work & Flow",
-      "url": "https://www.goodreads.com/book/show/36458712-making-work-visible",
-      "id": "58164057",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1508699316i/36458712.jpg",
-      "authors": [
-        "Dominica Degrandis"
-      ],
-      "genres": [
-        "business",
-        "non-fiction",
-        "management",
-        "productivity",
-        "leadership",
-        "technology",
-        "self-help"
-      ],
-      "rating": 4.11,
-      "ratings": 1741,
-      "reviews": 193
-    },
-    {
-      "title": "Toughness: Developing True Strength On and Off the Court",
-      "url": "https://www.goodreads.com/book/show/15808291-toughness",
-      "id": "21532925",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1355866928i/15808291.jpg",
-      "authors": [
-        "Jay Bilas"
-      ],
-      "genres": [
-        "sports",
-        "basketball",
-        "non-fiction",
-        "leadership",
-        "self-help",
-        "audiobook",
-        "memoir"
-      ],
-      "rating": 4.03,
-      "ratings": 1739,
-      "reviews": 157
-    },
-    {
-      "title": "The Dead Moms Club: A Memoir about Death, Grief, and Surviving the Mother of All Losses",
-      "url": "https://www.goodreads.com/book/show/34220646-the-dead-moms-club",
-      "id": "55272340",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1494476038i/34220646.jpg",
-      "authors": [
-        "Kate   Spencer"
-      ],
-      "genres": [
-        "non-fiction",
-        "memoir",
-        "death",
-        "self-help",
-        "biography",
-        "audiobook",
-        "psychology"
-      ],
-      "rating": 4.32,
-      "ratings": 1738,
-      "reviews": 223
-    },
-    {
-      "title": "Maaf Tuhan Aku Hampir Menyerah",
-      "url": "https://www.goodreads.com/book/show/55693501-maaf-tuhan-aku-hampir-menyerah",
-      "id": "86853100",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1611282437i/55693501.jpg",
-      "authors": [
-        "alfialghazi"
-      ],
-      "genres": [
-        "self-help",
-        "non-fiction",
-        "religion",
-        "islam",
-        "god",
-        "spirituality",
-        "love"
-      ],
-      "rating": 4.34,
-      "ratings": 1738,
-      "reviews": 182
-    },
-    {
-      "title": "Smile at Fear: Awakening the True Heart of Bravery",
-      "url": "https://www.goodreads.com/book/show/6458533-smile-at-fear",
-      "id": "6648907",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320528324i/6458533.jpg",
-      "authors": [
-        "Chögyam Trungpa"
-      ],
-      "genres": [
-        "buddhism",
-        "spirituality",
-        "non-fiction",
-        "philosophy",
-        "self-help",
-        "religion",
-        "psychology"
-      ],
-      "rating": 4.02,
-      "ratings": 1737,
-      "reviews": 126
-    },
-    {
-      "title": "The Investor's Manifesto: Preparing for Prosperity, Armageddon, and Everything in Between",
-      "url": "https://www.goodreads.com/book/show/6720027-the-investor-s-manifesto",
-      "id": "6916151",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348303344i/6720027.jpg",
-      "authors": [
-        "William J. Bernstein"
-      ],
-      "genres": [
-        "finance",
-        "non-fiction",
-        "personal-finance",
-        "business",
-        "economics",
-        "money",
-        "self-help"
-      ],
-      "rating": 4.15,
-      "ratings": 1736,
-      "reviews": 132
-    },
-    {
-      "title": "The Wizard of Oz and Other Narcissists: Coping with the One-Way Relationship in Work, Love, and Family",
-      "url": "https://www.goodreads.com/book/show/116590.The_Wizard_of_Oz_and_Other_Narcissists",
-      "id": "112274",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1387720534i/116590.jpg",
-      "authors": [
-        "Eleanor D. Payson"
-      ],
-      "genres": [
-        "psychology",
-        "non-fiction",
-        "self-help",
-        "relationships",
-        "mental-health",
         "personal-development",
-        "counselling"
+        "mental-health",
+        "audiobook",
+        "relationships"
       ],
-      "rating": 4.16,
-      "ratings": 1735,
-      "reviews": 172
-    },
-    {
-      "title": "It's Not Easy Being Green: And Other Things to Consider",
-      "url": "https://www.goodreads.com/book/show/6624.It_s_Not_Easy_Being_Green",
-      "id": "853933",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388183830i/6624.jpg",
-      "authors": [
-        "Jim Henson"
-      ],
-      "genres": [
-        "non-fiction",
-        "humor",
-        "inspirational",
-        "philosophy",
-        "memoir",
-        "self-help",
-        "biography"
-      ],
-      "rating": 4.23,
-      "ratings": 1733,
-      "reviews": 212
-    },
-    {
-      "title": "The Wild Edge of Sorrow: Rituals of Renewal and the Sacred Work of Grief",
-      "url": "https://www.goodreads.com/book/show/23992445-the-wild-edge-of-sorrow",
-      "id": "43593512",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1584472137i/23992445.jpg",
-      "authors": [
-        "Francis Weller"
-      ],
-      "genres": [
-        "non-fiction",
-        "psychology",
-        "spirituality",
-        "self-help",
-        "death",
-        "philosophy",
-        "mental-health"
-      ],
-      "rating": 4.43,
-      "ratings": 1733,
-      "reviews": 211
-    },
-    {
-      "title": "Meditations on Violence: A Comparison of Martial Arts Training & Real World Violence",
-      "url": "https://www.goodreads.com/book/show/3396377-meditations-on-violence",
-      "id": "3436367",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1378073308i/3396377.jpg",
-      "authors": [
-        "Rory Miller"
-      ],
-      "genres": [
-        "martial-arts",
-        "non-fiction",
-        "psychology",
-        "philosophy",
-        "self-help",
-        "survival",
-        "reference"
-      ],
-      "rating": 4.33,
-      "ratings": 1730,
-      "reviews": 165
-    },
-    {
-      "title": "The Birth Book",
-      "url": "https://www.goodreads.com/book/show/223042.The_Birth_Book",
-      "id": "215997",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442453277i/223042.jpg",
-      "authors": [
-        "William Sears"
-      ],
-      "genres": [
-        "parenting",
-        "non-fiction",
-        "health",
-        "reference",
-        "family",
-        "self-help",
-        "education"
-      ],
-      "rating": 4.21,
-      "ratings": 1730,
-      "reviews": 139
-    },
-    {
-      "title": "Instinct: The Power to Unleash Your Inborn Drive",
-      "url": "https://www.goodreads.com/book/show/18513630-instinct",
-      "id": "26471003",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1404484812i/18513630.jpg",
-      "authors": [
-        "T.D. Jakes"
-      ],
-      "genres": [
-        "self-help",
-        "non-fiction",
-        "christian",
-        "spirituality",
-        "faith",
-        "religion",
-        "leadership"
-      ],
-      "rating": 4.21,
-      "ratings": 1730,
-      "reviews": 160
-    },
-    {
-      "title": "Animal Spirit Guides: An Easy-to-Use Handbook for Identifying and Understanding Your Power Animals and Animal Spirit Helpers",
-      "url": "https://www.goodreads.com/book/show/661811.Animal_Spirit_Guides",
-      "id": "647882",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328860551i/661811.jpg",
-      "authors": [
-        "Steven D. Farmer"
-      ],
-      "genres": [
-        "spirituality",
-        "non-fiction",
-        "animals",
-        "reference",
-        "new-age",
-        "metaphysics",
-        "self-help"
-      ],
-      "rating": 4.32,
-      "ratings": 1728,
-      "reviews": 58
+      "rating": 4.31,
+      "ratings": 1810,
+      "reviews": 196
     }
   ]
 }

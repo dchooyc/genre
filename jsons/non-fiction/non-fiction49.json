@@ -1,46 +1,88 @@
 {
   "books": [
     {
-      "title": "The Art Thief: A True Story of Love, Crime, and a Dangerous Obsession",
-      "url": "https://www.goodreads.com/book/show/62873378-the-art-thief",
-      "id": "68763456",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1701688707i/62873378.jpg",
+      "title": "Pandora's Jar: Women in the Greek Myths",
+      "url": "https://www.goodreads.com/book/show/51135393-pandora-s-jar",
+      "id": "75925871",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1696265263i/51135393.jpg",
       "authors": [
-        "Michael Finkel"
+        "Natalie Haynes"
       ],
       "genres": [
+        "mythology",
         "non-fiction",
-        "art",
-        "true-crime",
+        "greek-mythology",
         "history",
-        "biography",
-        "audiobook",
-        "crime"
-      ],
-      "rating": 4.02,
-      "ratings": 18957,
-      "reviews": 2498
-    },
-    {
-      "title": "Stuff Matters: Exploring the Marvelous Materials That Shape Our Man-Made World",
-      "url": "https://www.goodreads.com/book/show/18222843-stuff-matters",
-      "id": "25332648",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1382416634i/18222843.jpg",
-      "authors": [
-        "Mark Miodownik"
-      ],
-      "genres": [
-        "science",
-        "non-fiction",
-        "history",
-        "chemistry",
-        "physics",
-        "engineering",
+        "feminism",
+        "retellings",
         "audiobook"
       ],
-      "rating": 4.11,
-      "ratings": 18934,
-      "reviews": 1994
+      "rating": 4.24,
+      "ratings": 19236,
+      "reviews": 2616
+    },
+    {
+      "title": "Foxe's Book of Martyrs",
+      "url": "https://www.goodreads.com/book/show/609035.Foxe_s_Book_of_Martyrs",
+      "id": "3016652",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348566202i/609035.jpg",
+      "authors": [
+        "John Foxe"
+      ],
+      "genres": [
+        "history",
+        "christian",
+        "biography",
+        "non-fiction",
+        "religion",
+        "christianity",
+        "classics"
+      ],
+      "rating": 4.26,
+      "ratings": 19196,
+      "reviews": 495
+    },
+    {
+      "title": "Adrift: Seventy-Six Days Lost at Sea",
+      "url": "https://www.goodreads.com/book/show/121410.Adrift",
+      "id": "551874",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1356596323i/121410.jpg",
+      "authors": [
+        "Steven Callahan"
+      ],
+      "genres": [
+        "non-fiction",
+        "adventure",
+        "survival",
+        "memoir",
+        "biography",
+        "travel",
+        "biography-memoir"
+      ],
+      "rating": 4.14,
+      "ratings": 19187,
+      "reviews": 1108
+    },
+    {
+      "title": "Strong Female Character",
+      "url": "https://www.goodreads.com/book/show/59903149-strong-female-character",
+      "id": "94321927",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1670358571i/59903149.jpg",
+      "authors": [
+        "Fern  Brady"
+      ],
+      "genres": [
+        "non-fiction",
+        "memoir",
+        "audiobook",
+        "autistic-spectrum-disorder",
+        "biography",
+        "mental-health",
+        "feminism"
+      ],
+      "rating": 4.51,
+      "ratings": 19186,
+      "reviews": 2228
     },
     {
       "title": "The Barefoot Investor: The Only Money Guide You'll Ever Need",
@@ -60,197 +102,134 @@
         "economics"
       ],
       "rating": 4.39,
-      "ratings": 18918,
-      "reviews": 1545
+      "ratings": 19184,
+      "reviews": 1563
     },
     {
-      "title": "No-Drama Discipline: The Whole-Brain Way to Calm the Chaos and Nurture Your Child's Developing Mind",
-      "url": "https://www.goodreads.com/book/show/40873423-no-drama-discipline",
-      "id": "28322561",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1532006712i/40873423.jpg",
+      "title": "Stuff Matters: Exploring the Marvelous Materials That Shape Our Man-Made World",
+      "url": "https://www.goodreads.com/book/show/18222843-stuff-matters",
+      "id": "25332648",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1382416634i/18222843.jpg",
       "authors": [
-        "Daniel J. Siegel"
+        "Mark Miodownik"
+      ],
+      "genres": [
+        "science",
+        "non-fiction",
+        "history",
+        "chemistry",
+        "physics",
+        "engineering",
+        "audiobook"
+      ],
+      "rating": 4.11,
+      "ratings": 19150,
+      "reviews": 2016
+    },
+    {
+      "title": "Humans of New York: Stories",
+      "url": "https://www.goodreads.com/book/show/24019187-humans-of-new-york",
+      "id": "43618137",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1430176879i/24019187.jpg",
+      "authors": [
+        "Brandon Stanton"
+      ],
+      "genres": [
+        "non-fiction",
+        "photography",
+        "art",
+        "biography",
+        "adult",
+        "new-york",
+        "short-stories"
+      ],
+      "rating": 4.55,
+      "ratings": 19148,
+      "reviews": 1734
+    },
+    {
+      "title": "Chaos: Charles Manson, the CIA, and the Secret History of the Sixties",
+      "url": "https://www.goodreads.com/book/show/43015073-chaos",
+      "id": "66837472",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1543561687i/43015073.jpg",
+      "authors": [
+        "Tom O'Neill"
+      ],
+      "genres": [
+        "non-fiction",
+        "history",
+        "true-crime",
+        "crime",
+        "politics",
+        "audiobook",
+        "conspiracy-theories"
+      ],
+      "rating": 4.03,
+      "ratings": 19073,
+      "reviews": 2148
+    },
+    {
+      "title": "Good Inside: A Guide to Becoming the Parent You Want to Be",
+      "url": "https://www.goodreads.com/book/show/59627738-good-inside",
+      "id": "93719359",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1651574826i/59627738.jpg",
+      "authors": [
+        "Becky   Kennedy"
       ],
       "genres": [
         "parenting",
         "non-fiction",
+        "audiobook",
+        "self-help",
         "psychology",
         "childrens",
-        "self-help",
-        "audiobook",
         "family"
       ],
-      "rating": 4.26,
-      "ratings": 18914,
-      "reviews": 1573
+      "rating": 4.57,
+      "ratings": 19067,
+      "reviews": 2089
     },
     {
-      "title": "Martha Stewart's Cookies: The Very Best Treats to Bake and to Share",
-      "url": "https://www.goodreads.com/book/show/2176873.Martha_Stewart_s_Cookies",
-      "id": "2182550",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320457250i/2176873.jpg",
+      "title": "The Plantagenets: The Warrior Kings and Queens Who Made England",
+      "url": "https://www.goodreads.com/book/show/15811559-the-plantagenets",
+      "id": "17229073",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1366387829i/15811559.jpg",
       "authors": [
-        "Martha Stewart"
+        "Dan Jones"
       ],
       "genres": [
-        "cookbooks",
-        "cooking",
-        "food",
-        "non-fiction",
-        "reference",
-        "foodie",
-        "culinary"
-      ],
-      "rating": 4.09,
-      "ratings": 18884,
-      "reviews": 208
-    },
-    {
-      "title": "World of Wonders: In Praise of Fireflies, Whale Sharks, and Other Astonishments",
-      "url": "https://www.goodreads.com/book/show/48615751-world-of-wonders",
-      "id": "73952157",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1577258440i/48615751.jpg",
-      "authors": [
-        "Aimee Nezhukumatathil"
-      ],
-      "genres": [
-        "non-fiction",
-        "nature",
-        "essays",
-        "memoir",
-        "science",
-        "poetry",
-        "animals"
-      ],
-      "rating": 4.07,
-      "ratings": 18848,
-      "reviews": 2838
-    },
-    {
-      "title": "The America's Test Kitchen Family Cookbook",
-      "url": "https://www.goodreads.com/book/show/3888.The_America_s_Test_Kitchen_Family_Cookbook",
-      "id": "7612",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348281876i/3888.jpg",
-      "authors": [
-        "America's Test Kitchen"
-      ],
-      "genres": [
-        "cookbooks",
-        "cooking",
-        "food",
-        "non-fiction",
-        "reference",
-        "foodie",
-        "culinary"
-      ],
-      "rating": 4.16,
-      "ratings": 18807,
-      "reviews": 234
-    },
-    {
-      "title": "Self-Reliance and Other Essays",
-      "url": "https://www.goodreads.com/book/show/123845.Self_Reliance_and_Other_Essays",
-      "id": "1472936",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1520778510i/123845.jpg",
-      "authors": [
-        "Ralph Waldo Emerson"
-      ],
-      "genres": [
-        "philosophy",
-        "classics",
-        "non-fiction",
-        "essays",
-        "literature",
-        "self-help",
-        "history"
-      ],
-      "rating": 4.13,
-      "ratings": 18807,
-      "reviews": 517
-    },
-    {
-      "title": "A Fever in the Heartland: The Ku Klux Klan's Plot to Take Over America, and the Woman Who Stopped Them",
-      "url": "https://www.goodreads.com/book/show/61423989-a-fever-in-the-heartland",
-      "id": "96926742",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1659417830i/61423989.jpg",
-      "authors": [
-        "Timothy Egan"
-      ],
-      "genres": [
-        "non-fiction",
         "history",
-        "true-crime",
+        "non-fiction",
+        "medieval",
+        "historical",
+        "biography",
+        "british-literature",
+        "european-history"
+      ],
+      "rating": 4.23,
+      "ratings": 19058,
+      "reviews": 1784
+    },
+    {
+      "title": "The 1619 Project: A New Origin Story",
+      "url": "https://www.goodreads.com/book/show/57717410-the-1619-project",
+      "id": "90403507",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1652703065i/57717410.jpg",
+      "authors": [
+        "Nikole Hannah-Jones"
+      ],
+      "genres": [
+        "history",
+        "non-fiction",
+        "race",
         "politics",
+        "social-justice",
         "audiobook",
-        "american-history",
-        "race"
+        "essays"
       ],
-      "rating": 4.41,
-      "ratings": 18806,
-      "reviews": 2941
-    },
-    {
-      "title": "Stillness Speaks",
-      "url": "https://www.goodreads.com/book/show/67864.Stillness_Speaks",
-      "id": "2782954",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1349064986i/67864.jpg",
-      "authors": [
-        "Eckhart Tolle"
-      ],
-      "genres": [
-        "spirituality",
-        "non-fiction",
-        "self-help",
-        "philosophy",
-        "psychology",
-        "personal-development",
-        "religion"
-      ],
-      "rating": 4.26,
-      "ratings": 18797,
-      "reviews": 930
-    },
-    {
-      "title": "Homicide: A Year on the Killing Streets",
-      "url": "https://www.goodreads.com/book/show/18956.Homicide",
-      "id": "3187942",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1432402772i/18956.jpg",
-      "authors": [
-        "David Simon"
-      ],
-      "genres": [
-        "non-fiction",
-        "true-crime",
-        "crime",
-        "history",
-        "journalism",
-        "mystery",
-        "sociology"
-      ],
-      "rating": 4.35,
-      "ratings": 18786,
-      "reviews": 1245
-    },
-    {
-      "title": "Of Mess and Moxie: Wrangling Delight Out of This Wild and Glorious Life",
-      "url": "https://www.goodreads.com/book/show/33027965-of-mess-and-moxie",
-      "id": "53684320",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1489239770i/33027965.jpg",
-      "authors": [
-        "Jen Hatmaker"
-      ],
-      "genres": [
-        "non-fiction",
-        "christian",
-        "audiobook",
-        "faith",
-        "memoir",
-        "self-help",
-        "humor"
-      ],
-      "rating": 4.01,
-      "ratings": 18778,
-      "reviews": 1870
+      "rating": 4.62,
+      "ratings": 19049,
+      "reviews": 2900
     },
     {
       "title": "Chasing the Scream: The First and Last Days of the War on Drugs",
@@ -270,134 +249,134 @@
         "health"
       ],
       "rating": 4.5,
-      "ratings": 18746,
-      "reviews": 2269
+      "ratings": 19047,
+      "reviews": 2307
     },
     {
-      "title": "High Output Management",
-      "url": "https://www.goodreads.com/book/show/324750.High_Output_Management",
-      "id": "315440",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347800461i/324750.jpg",
+      "title": "I'd Rather Be Reading: The Delights and Dilemmas of the Reading Life",
+      "url": "https://www.goodreads.com/book/show/38502471-i-d-rather-be-reading",
+      "id": "60141215",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1522239360i/38502471.jpg",
       "authors": [
-        "Andrew S. Grove"
-      ],
-      "genres": [
-        "business",
-        "management",
-        "leadership",
-        "non-fiction",
-        "entrepreneurship",
-        "productivity",
-        "buisness"
-      ],
-      "rating": 4.3,
-      "ratings": 18694,
-      "reviews": 962
-    },
-    {
-      "title": "Savage Inequalities: Children in America's Schools",
-      "url": "https://www.goodreads.com/book/show/25078.Savage_Inequalities",
-      "id": "25833",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1439920769i/25078.jpg",
-      "authors": [
-        "Jonathan Kozol"
-      ],
-      "genres": [
-        "education",
-        "non-fiction",
-        "sociology",
-        "social-justice",
-        "politics",
-        "teaching",
-        "race"
-      ],
-      "rating": 4.26,
-      "ratings": 18677,
-      "reviews": 811
-    },
-    {
-      "title": "This Much is True",
-      "url": "https://www.goodreads.com/book/show/58604389-this-much-is-true",
-      "id": "92149604",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1626912324i/58604389.jpg",
-      "authors": [
-        "Miriam Margolyes"
+        "Anne Bogel"
       ],
       "genres": [
         "non-fiction",
-        "biography",
+        "books-about-books",
+        "essays",
         "memoir",
-        "autobiography",
         "audiobook",
-        "lgbt",
-        "biography-memoir"
+        "adult",
+        "writing"
       ],
-      "rating": 4.11,
-      "ratings": 18659,
-      "reviews": 1863
+      "rating": 4.02,
+      "ratings": 19040,
+      "reviews": 4063
     },
     {
-      "title": "The Plantagenets: The Warrior Kings and Queens Who Made England",
-      "url": "https://www.goodreads.com/book/show/15811559-the-plantagenets",
-      "id": "17229073",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1366387829i/15811559.jpg",
+      "title": "Upstream: Selected Essays",
+      "url": "https://www.goodreads.com/book/show/29358559-upstream",
+      "id": "49602235",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1460911565i/29358559.jpg",
       "authors": [
-        "Dan Jones"
+        "Mary Oliver"
       ],
       "genres": [
-        "history",
+        "poetry",
+        "essays",
         "non-fiction",
-        "medieval",
-        "historical",
-        "biography",
-        "british-literature",
-        "european-history"
+        "nature",
+        "memoir",
+        "short-stories",
+        "writing"
       ],
-      "rating": 4.22,
-      "ratings": 18648,
-      "reviews": 1746
+      "rating": 4.17,
+      "ratings": 19035,
+      "reviews": 2978
     },
     {
-      "title": "Peril",
-      "url": "https://www.goodreads.com/book/show/58546518-peril",
-      "id": "88820346",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1629245743i/58546518.jpg",
+      "title": "Facing Your Giants: God Still Does the Impossible",
+      "url": "https://www.goodreads.com/book/show/74169.Facing_Your_Giants",
+      "id": "1518341",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1380857035i/74169.jpg",
       "authors": [
-        "Bob Woodward"
+        "Max Lucado"
+      ],
+      "genres": [
+        "christian",
+        "non-fiction",
+        "christian-living",
+        "christianity",
+        "faith",
+        "religion",
+        "spirituality"
+      ],
+      "rating": 4.43,
+      "ratings": 19033,
+      "reviews": 469
+    },
+    {
+      "title": "The Myth of Normal: Trauma, Illness, and Healing in a Toxic Culture",
+      "url": "https://www.goodreads.com/book/show/58537332-the-myth-of-normal",
+      "id": "90801983",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1647801716i/58537332.jpg",
+      "authors": [
+        "Gabor Maté"
       ],
       "genres": [
         "non-fiction",
-        "politics",
-        "history",
-        "audiobook",
-        "biography",
-        "american-history",
-        "presidents"
+        "psychology",
+        "self-help",
+        "mental-health",
+        "health",
+        "science",
+        "audiobook"
       ],
-      "rating": 4.09,
-      "ratings": 18645,
-      "reviews": 1787
+      "rating": 4.33,
+      "ratings": 19003,
+      "reviews": 2039
     },
     {
-      "title": "The Whole30: The 30-Day Guide to Total Health and Food Freedom",
-      "url": "https://www.goodreads.com/book/show/23453036-the-whole30",
-      "id": "43014854",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1416873417i/23453036.jpg",
+      "title": "Martha Stewart's Cookies: The Very Best Treats to Bake and to Share",
+      "url": "https://www.goodreads.com/book/show/2176873.Martha_Stewart_s_Cookies",
+      "id": "2182550",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320457250i/2176873.jpg",
       "authors": [
-        "Melissa Urban"
+        "Martha Stewart"
       ],
       "genres": [
         "cookbooks",
-        "non-fiction",
-        "health",
-        "food",
         "cooking",
-        "self-help",
-        "nutrition"
+        "food",
+        "non-fiction",
+        "reference",
+        "foodie",
+        "culinary"
       ],
-      "rating": 4.05,
-      "ratings": 18622,
-      "reviews": 783
+      "rating": 4.09,
+      "ratings": 18976,
+      "reviews": 208
+    },
+    {
+      "title": "Self-Reliance and Other Essays",
+      "url": "https://www.goodreads.com/book/show/123845.Self_Reliance_and_Other_Essays",
+      "id": "1472936",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1520778510i/123845.jpg",
+      "authors": [
+        "Ralph Waldo Emerson"
+      ],
+      "genres": [
+        "philosophy",
+        "classics",
+        "non-fiction",
+        "essays",
+        "literature",
+        "self-help",
+        "history"
+      ],
+      "rating": 4.12,
+      "ratings": 18962,
+      "reviews": 529
     },
     {
       "title": "Save the Cat: The Last Book on Screenwriting You'll Ever Need",
@@ -417,50 +396,71 @@
         "how-to"
       ],
       "rating": 4.03,
-      "ratings": 18605,
-      "reviews": 2054
+      "ratings": 18937,
+      "reviews": 2084
     },
     {
-      "title": "The Wives of Henry VIII",
-      "url": "https://www.goodreads.com/book/show/530793.The_Wives_of_Henry_VIII",
-      "id": "1037620",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347223113i/530793.jpg",
+      "title": "Liturgy of the Ordinary: Sacred Practices in Everyday Life",
+      "url": "https://www.goodreads.com/book/show/30010106-liturgy-of-the-ordinary",
+      "id": "50285449",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1463948524i/30010106.jpg",
       "authors": [
-        "Antonia Fraser"
-      ],
-      "genres": [
-        "history",
-        "non-fiction",
-        "biography",
-        "historical",
-        "tudor-period",
-        "british-literature",
-        "european-history"
-      ],
-      "rating": 4.1,
-      "ratings": 18600,
-      "reviews": 488
-    },
-    {
-      "title": "Miracles",
-      "url": "https://www.goodreads.com/book/show/13650512-miracles",
-      "id": "2682328",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1483970857i/13650512.jpg",
-      "authors": [
-        "C.S. Lewis"
+        "Tish Harrison Warren"
       ],
       "genres": [
         "christian",
-        "theology",
-        "religion",
         "non-fiction",
+        "faith",
+        "theology",
         "christianity",
-        "philosophy",
-        "faith"
+        "christian-living",
+        "religion"
       ],
-      "rating": 4.04,
-      "ratings": 18593,
-      "reviews": 989
+      "rating": 4.33,
+      "ratings": 18920,
+      "reviews": 2512
+    },
+    {
+      "title": "High Output Management",
+      "url": "https://www.goodreads.com/book/show/324750.High_Output_Management",
+      "id": "315440",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347800461i/324750.jpg",
+      "authors": [
+        "Andrew S. Grove"
+      ],
+      "genres": [
+        "business",
+        "management",
+        "leadership",
+        "non-fiction",
+        "entrepreneurship",
+        "productivity",
+        "buisness"
+      ],
+      "rating": 4.31,
+      "ratings": 18920,
+      "reviews": 980
+    },
+    {
+      "title": "Ghettoside: A True Story of Murder in America",
+      "url": "https://www.goodreads.com/book/show/13153693-ghettoside",
+      "id": "18331880",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1417410395i/13153693.jpg",
+      "authors": [
+        "Jill Leovy"
+      ],
+      "genres": [
+        "non-fiction",
+        "true-crime",
+        "crime",
+        "history",
+        "politics",
+        "race",
+        "sociology"
+      ],
+      "rating": 4.07,
+      "ratings": 18908,
+      "reviews": 2090
     },
     {
       "title": "Make It Stick: The Science of Successful Learning",
@@ -473,36 +473,36 @@
       "genres": [
         "non-fiction",
         "education",
-        "psychology",
         "self-help",
+        "psychology",
         "science",
         "productivity",
         "teaching"
       ],
       "rating": 4.16,
-      "ratings": 18593,
-      "reviews": 1904
+      "ratings": 18888,
+      "reviews": 1940
     },
     {
-      "title": "The Many Lives of Mama Love: A Memoir of Lying, Stealing, Writing, and Healing",
-      "url": "https://www.goodreads.com/book/show/64631561-the-many-lives-of-mama-love",
-      "id": "100009541",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1688576217i/64631561.jpg",
+      "title": "Stillness Speaks",
+      "url": "https://www.goodreads.com/book/show/67864.Stillness_Speaks",
+      "id": "2782954",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1349064986i/67864.jpg",
       "authors": [
-        "Lara Love Hardin"
+        "Eckhart Tolle"
       ],
       "genres": [
-        "memoir",
+        "spirituality",
         "non-fiction",
-        "audiobook",
-        "true-crime",
-        "biography",
-        "biography-memoir",
-        "crime"
+        "self-help",
+        "philosophy",
+        "psychology",
+        "personal-development",
+        "religion"
       ],
-      "rating": 4.47,
-      "ratings": 18587,
-      "reviews": 2454
+      "rating": 4.27,
+      "ratings": 18885,
+      "reviews": 945
     }
   ]
 }

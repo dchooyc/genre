@@ -1,109 +1,445 @@
 {
   "books": [
     {
-      "title": "The Kill",
-      "url": "https://www.goodreads.com/book/show/333670.The_Kill",
-      "id": "324194",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388890756i/333670.jpg",
+      "title": "The Lost Soul",
+      "url": "https://www.goodreads.com/book/show/13560388-the-lost-soul",
+      "id": "19134533",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1417706596i/13560388.jpg",
+      "authors": [
+        "Jessica Sorensen"
+      ],
+      "genres": [
+        "paranormal",
+        "fantasy",
+        "young-adult",
+        "romance",
+        "vampires",
+        "supernatural",
+        "paranormal-romance"
+      ],
+      "rating": 4.28,
+      "ratings": 4858,
+      "reviews": 177
+    },
+    {
+      "title": "God Hammer",
+      "url": "https://www.goodreads.com/book/show/27704928-god-hammer",
+      "id": "47698166",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1447006777i/27704928.jpg",
+      "authors": [
+        "John Conroe"
+      ],
+      "genres": [
+        "urban-fantasy",
+        "fantasy",
+        "paranormal",
+        "vampires",
+        "magic",
+        "supernatural",
+        "classics"
+      ],
+      "rating": 4.52,
+      "ratings": 4858,
+      "reviews": 131
+    },
+    {
+      "title": "Aimless Witch",
+      "url": "https://www.goodreads.com/book/show/40032834-aimless-witch",
+      "id": "62015701",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1525397586i/40032834.jpg",
+      "authors": [
+        "Shannon Mayer"
+      ],
+      "genres": [
+        "fantasy",
+        "paranormal",
+        "urban-fantasy",
+        "witches",
+        "magic",
+        "fiction",
+        "supernatural"
+      ],
+      "rating": 4.29,
+      "ratings": 4815,
+      "reviews": 303
+    },
+    {
+      "title": "Blackwing Defender",
+      "url": "https://www.goodreads.com/book/show/31866258-blackwing-defender",
+      "id": "52057644",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1473261541i/31866258.jpg",
+      "authors": [
+        "T.S. Joyce"
+      ],
+      "genres": [
+        "paranormal",
+        "shapeshifters",
+        "paranormal-romance",
+        "romance",
+        "fantasy",
+        "dragons",
+        "supernatural"
+      ],
+      "rating": 4.35,
+      "ratings": 4752,
+      "reviews": 302
+    },
+    {
+      "title": "The Perdition Score",
+      "url": "https://www.goodreads.com/book/show/26818454-the-perdition-score",
+      "id": "46846634",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1455179885i/26818454.jpg",
+      "authors": [
+        "Richard Kadrey"
+      ],
+      "genres": [
+        "urban-fantasy",
+        "fantasy",
+        "horror",
+        "fiction",
+        "supernatural",
+        "paranormal",
+        "audiobook"
+      ],
+      "rating": 4.16,
+      "ratings": 4745,
+      "reviews": 276
+    },
+    {
+      "title": "Blessed",
+      "url": "https://www.goodreads.com/book/show/16285805-blessed",
+      "id": "22409791",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1356209944i/16285805.jpg",
+      "authors": [
+        "S.J. West"
+      ],
+      "genres": [
+        "fantasy",
+        "angels",
+        "romance",
+        "paranormal",
+        "paranormal-romance",
+        "young-adult",
+        "supernatural"
+      ],
+      "rating": 4.13,
+      "ratings": 4737,
+      "reviews": 202
+    },
+    {
+      "title": "Unspoken",
+      "url": "https://www.goodreads.com/book/show/23014767-unspoken",
+      "id": "42377985",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1415300409i/23014767.jpg",
+      "authors": [
+        "C.C. Hunter"
+      ],
+      "genres": [
+        "fantasy",
+        "vampires",
+        "young-adult",
+        "paranormal",
+        "supernatural",
+        "romance",
+        "magic"
+      ],
+      "rating": 4.38,
+      "ratings": 4733,
+      "reviews": 330
+    },
+    {
+      "title": "Possession",
+      "url": "https://www.goodreads.com/book/show/181425.Possession",
+      "id": "175306",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442660166i/181425.jpg",
+      "authors": [
+        "Lynne Ewing"
+      ],
+      "genres": [
+        "young-adult",
+        "fantasy",
+        "paranormal",
+        "mythology",
+        "supernatural",
+        "urban-fantasy",
+        "romance"
+      ],
+      "rating": 4.04,
+      "ratings": 4689,
+      "reviews": 77
+    },
+    {
+      "title": "Dead Is Just A Rumor",
+      "url": "https://www.goodreads.com/book/show/7430195-dead-is-just-a-rumor",
+      "id": "9408497",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1285102317i/7430195.jpg",
+      "authors": [
+        "Marlene Perez"
+      ],
+      "genres": [
+        "young-adult",
+        "paranormal",
+        "mystery",
+        "fantasy",
+        "supernatural",
+        "vampires",
+        "romance"
+      ],
+      "rating": 4.23,
+      "ratings": 4671,
+      "reviews": 241
+    },
+    {
+      "title": "Bleach, Volume 29",
+      "url": "https://www.goodreads.com/book/show/6419543-bleach-volume-29",
+      "id": "6608691",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388206800i/6419543.jpg",
+      "authors": [
+        "Tite Kubo"
+      ],
+      "genres": [
+        "manga",
+        "fantasy",
+        "shonen",
+        "graphic-novels",
+        "comics",
+        "action",
+        "supernatural"
+      ],
+      "rating": 4.2,
+      "ratings": 4655,
+      "reviews": 91
+    },
+    {
+      "title": "Ocean of Blood",
+      "url": "https://www.goodreads.com/book/show/9456611-ocean-of-blood",
+      "id": "14341432",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1291003680i/9456611.jpg",
+      "authors": [
+        "Darren Shan"
+      ],
+      "genres": [
+        "fantasy",
+        "horror",
+        "young-adult",
+        "vampires",
+        "fiction",
+        "paranormal",
+        "supernatural"
+      ],
+      "rating": 4.26,
+      "ratings": 4636,
+      "reviews": 226
+    },
+    {
+      "title": "Consequence",
+      "url": "https://www.goodreads.com/book/show/35650308-consequence",
+      "id": "34080634",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1508437564i/35650308.jpg",
+      "authors": [
+        "Shelly Crane"
+      ],
+      "genres": [
+        "paranormal",
+        "young-adult",
+        "romance",
+        "fantasy",
+        "paranormal-romance",
+        "supernatural",
+        "novella"
+      ],
+      "rating": 4.34,
+      "ratings": 4614,
+      "reviews": 213
+    },
+    {
+      "title": "Blood Moon",
+      "url": "https://www.goodreads.com/book/show/13170035-blood-moon",
+      "id": "18309254",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1331527438i/13170035.jpg",
+      "authors": [
+        "Alyxandra Harvey"
+      ],
+      "genres": [
+        "vampires",
+        "young-adult",
+        "paranormal",
+        "fantasy",
+        "romance",
+        "supernatural",
+        "paranormal-romance"
+      ],
+      "rating": 4.16,
+      "ratings": 4602,
+      "reviews": 308
+    },
+    {
+      "title": "Everlasting",
+      "url": "https://www.goodreads.com/book/show/11725462-everlasting",
+      "id": "16673931",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1400339401i/11725462.jpg",
+      "authors": [
+        "Elizabeth Chandler"
+      ],
+      "genres": [
+        "angels",
+        "young-adult",
+        "romance",
+        "paranormal",
+        "fantasy",
+        "paranormal-romance",
+        "supernatural"
+      ],
+      "rating": 4.03,
+      "ratings": 4596,
+      "reviews": 261
+    },
+    {
+      "title": "Conspiracies",
+      "url": "https://www.goodreads.com/book/show/62552.Conspiracies",
+      "id": "1202952",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1410684215i/62552.jpg",
+      "authors": [
+        "F. Paul Wilson"
+      ],
+      "genres": [
+        "horror",
+        "thriller",
+        "urban-fantasy",
+        "fantasy",
+        "fiction",
+        "mystery",
+        "supernatural"
+      ],
+      "rating": 4.1,
+      "ratings": 4590,
+      "reviews": 208
+    },
+    {
+      "title": "Witchlight",
+      "url": "https://www.goodreads.com/book/show/293974.Witchlight",
+      "id": "285255",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1349789944i/293974.jpg",
       "authors": [
         "L.J. Smith"
       ],
       "genres": [
         "young-adult",
         "fantasy",
-        "paranormal",
-        "horror",
-        "romance",
-        "supernatural",
-        "urban-fantasy"
-      ],
-      "rating": 4.12,
-      "ratings": 4383,
-      "reviews": 232
-    },
-    {
-      "title": "Fractured",
-      "url": "https://www.goodreads.com/book/show/28201695-fractured",
-      "id": "46870209",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1450140863i/28201695.jpg",
-      "authors": [
-        "Suzanne Wright"
-      ],
-      "genres": [
-        "paranormal",
         "vampires",
-        "paranormal-romance",
-        "romance",
-        "fantasy",
-        "supernatural",
-        "dragons"
-      ],
-      "rating": 4.18,
-      "ratings": 4372,
-      "reviews": 224
-    },
-    {
-      "title": "Alpha's Challenge",
-      "url": "https://www.goodreads.com/book/show/36700417-alpha-s-challenge",
-      "id": "58404639",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1512156660i/36700417.jpg",
-      "authors": [
-        "Renee Rose"
-      ],
-      "genres": [
         "paranormal",
-        "shapeshifters",
         "romance",
-        "paranormal-romance",
-        "fantasy",
-        "werewolves",
+        "witches",
         "supernatural"
       ],
-      "rating": 4.28,
-      "ratings": 4367,
-      "reviews": 534
+      "rating": 4.1,
+      "ratings": 4584,
+      "reviews": 138
     },
     {
-      "title": "Emperor's Throne",
-      "url": "https://www.goodreads.com/book/show/50861233-emperor-s-throne",
-      "id": "73697352",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1570654455l/50861233.jpg",
+      "title": "The Quarter Moon",
+      "url": "https://www.goodreads.com/book/show/17408601-the-quarter-moon",
+      "id": "24249946",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1387030084i/17408601.jpg",
+      "authors": [
+        "Stephanie Hudson"
+      ],
+      "genres": [
+        "paranormal",
+        "paranormal-romance",
+        "angels",
+        "romance",
+        "fantasy",
+        "vampires",
+        "supernatural"
+      ],
+      "rating": 4.48,
+      "ratings": 4556,
+      "reviews": 210
+    },
+    {
+      "title": "Running from the Wolves",
+      "url": "https://www.goodreads.com/book/show/55658586-running-from-the-wolves",
+      "id": "86794634",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1602577408i/55658586.jpg",
+      "authors": [
+        "Lola Glass"
+      ],
+      "genres": [
+        "paranormal",
+        "romance",
+        "shapeshifters",
+        "fantasy",
+        "werewolves",
+        "paranormal-romance",
+        "supernatural"
+      ],
+      "rating": 4.01,
+      "ratings": 4540,
+      "reviews": 539
+    },
+    {
+      "title": "Sacrifice",
+      "url": "https://www.goodreads.com/book/show/17149158-sacrifice",
+      "id": "23555789",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1392042393i/17149158.jpg",
+      "authors": [
+        "Brigid Kemmerer"
+      ],
+      "genres": [
+        "young-adult",
+        "paranormal",
+        "fantasy",
+        "romance",
+        "urban-fantasy",
+        "magic",
+        "supernatural"
+      ],
+      "rating": 4,
+      "ratings": 4525,
+      "reviews": 595
+    },
+    {
+      "title": "Pack Rivals: Part One",
+      "url": "https://www.goodreads.com/book/show/110445053-pack-rivals",
+      "id": "133224159",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1676095024i/110445053.jpg",
+      "authors": [
+        "Hannah Haze"
+      ],
+      "genres": [
+        "omegaverse",
+        "reverse-harem",
+        "romance",
+        "fantasy",
+        "paranormal",
+        "contemporary",
+        "supernatural"
+      ],
+      "rating": 4.17,
+      "ratings": 4523,
+      "reviews": 268
+    },
+    {
+      "title": "Claimed by Fate",
+      "url": "https://www.goodreads.com/book/show/63133607-claimed-by-fate",
+      "id": "99035061",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1667147371i/63133607.jpg",
       "authors": [
         "Shannon Mayer"
       ],
       "genres": [
         "fantasy",
-        "dragons",
-        "magic",
-        "paranormal",
-        "urban-fantasy",
+        "vampires",
         "romance",
+        "paranormal",
+        "magic",
+        "shapeshifters",
         "supernatural"
       ],
-      "rating": 4.68,
-      "ratings": 4361,
+      "rating": 4.38,
+      "ratings": 4523,
       "reviews": 262
-    },
-    {
-      "title": "The Awakening of Sunshine Girl",
-      "url": "https://www.goodreads.com/book/show/25898175-the-awakening-of-sunshine-girl",
-      "id": "45781067",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1449855270i/25898175.jpg",
-      "authors": [
-        "Paige McKenzie"
-      ],
-      "genres": [
-        "young-adult",
-        "horror",
-        "paranormal",
-        "fantasy",
-        "supernatural",
-        "ghosts",
-        "mystery"
-      ],
-      "rating": 4.03,
-      "ratings": 4315,
-      "reviews": 486
     },
     {
       "title": "The Furies",
@@ -116,393 +452,57 @@
       "genres": [
         "thriller",
         "fiction",
-        "crime",
         "mystery",
+        "crime",
         "horror",
         "supernatural",
         "mystery-thriller"
       ],
-      "rating": 4.16,
-      "ratings": 4294,
-      "reviews": 363
+      "rating": 4.15,
+      "ratings": 4508,
+      "reviews": 374
     },
     {
-      "title": "Intensity",
-      "url": "https://www.goodreads.com/book/show/22559726-intensity",
-      "id": "42021852",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1502813460i/22559726.jpg",
+      "title": "Hidden",
+      "url": "https://www.goodreads.com/book/show/10853751-hidden",
+      "id": "15768539",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1309257931i/10853751.jpg",
       "authors": [
-        "Sherrilyn Kenyon"
-      ],
-      "genres": [
-        "young-adult",
-        "fantasy",
-        "paranormal",
-        "urban-fantasy",
-        "demons",
-        "mythology",
-        "supernatural"
-      ],
-      "rating": 4.13,
-      "ratings": 4292,
-      "reviews": 439
-    },
-    {
-      "title": "Black Butler, Vol. 16",
-      "url": "https://www.goodreads.com/book/show/18129488-black-butler-vol-16",
-      "id": "25464423",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1406215525i/18129488.jpg",
-      "authors": [
-        "Yana Toboso"
-      ],
-      "genres": [
-        "manga",
-        "fantasy",
-        "historical-fiction",
-        "graphic-novels",
-        "supernatural",
-        "comics",
-        "mystery"
-      ],
-      "rating": 4.36,
-      "ratings": 4284,
-      "reviews": 179
-    },
-    {
-      "title": "Gray Back Alpha Bear",
-      "url": "https://www.goodreads.com/book/show/26068453-gray-back-alpha-bear",
-      "id": "46004169",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1439613455i/26068453.jpg",
-      "authors": [
-        "T.S. Joyce"
-      ],
-      "genres": [
-        "paranormal",
-        "shapeshifters",
-        "romance",
-        "paranormal-romance",
-        "fantasy",
-        "urban-fantasy",
-        "supernatural"
-      ],
-      "rating": 4.33,
-      "ratings": 4281,
-      "reviews": 204
-    },
-    {
-      "title": "Rogues",
-      "url": "https://www.goodreads.com/book/show/30237154-rogues",
-      "id": "50699171",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1463705646i/30237154.jpg",
-      "authors": [
-        "John Conroe"
+        "Kelley Armstrong"
       ],
       "genres": [
         "urban-fantasy",
+        "paranormal",
         "fantasy",
-        "paranormal",
-        "magic",
-        "supernatural",
-        "vampires",
-        "horror"
-      ],
-      "rating": 4.47,
-      "ratings": 4264,
-      "reviews": 116
-    },
-    {
-      "title": "Black Crow",
-      "url": "https://www.goodreads.com/book/show/38502453-black-crow",
-      "id": "45552640",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1518496889i/38502453.jpg",
-      "authors": [
-        "J.L. Weil"
-      ],
-      "genres": [
-        "fantasy",
-        "paranormal",
-        "young-adult",
-        "paranormal-romance",
-        "romance",
-        "fiction",
-        "supernatural"
-      ],
-      "rating": 4.16,
-      "ratings": 4246,
-      "reviews": 208
-    },
-    {
-      "title": "The Secret by the Lake",
-      "url": "https://www.goodreads.com/book/show/24737086-the-secret-by-the-lake",
-      "id": "44363029",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1433334783i/24737086.jpg",
-      "authors": [
-        "Louise Douglas"
-      ],
-      "genres": [
-        "mystery",
-        "historical-fiction",
-        "thriller",
-        "historical",
-        "mystery-thriller",
-        "fiction",
-        "supernatural"
-      ],
-      "rating": 4.2,
-      "ratings": 4239,
-      "reviews": 252
-    },
-    {
-      "title": "Dark Secrets",
-      "url": "https://www.goodreads.com/book/show/53810401-dark-secrets",
-      "id": "84130625",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1591230982i/53810401.jpg",
-      "authors": [
-        "Linsey Hall"
-      ],
-      "genres": [
-        "fantasy",
-        "urban-fantasy",
-        "paranormal",
-        "romance",
-        "vampires",
-        "magic",
-        "supernatural"
-      ],
-      "rating": 4.28,
-      "ratings": 4209,
-      "reviews": 200
-    },
-    {
-      "title": "Hunting Angel",
-      "url": "https://www.goodreads.com/book/show/38502010-hunting-angel",
-      "id": "23689624",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1518494460i/38502010.jpg",
-      "authors": [
-        "J.L. Weil"
-      ],
-      "genres": [
-        "paranormal",
-        "demons",
-        "young-adult",
-        "fantasy",
-        "romance",
-        "paranormal-romance",
-        "supernatural"
-      ],
-      "rating": 4.12,
-      "ratings": 4175,
-      "reviews": 125
-    },
-    {
-      "title": "The Prophecy",
-      "url": "https://www.goodreads.com/book/show/181437.The_Prophecy",
-      "id": "175318",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442849599i/181437.jpg",
-      "authors": [
-        "Lynne Ewing"
-      ],
-      "genres": [
-        "young-adult",
-        "fantasy",
-        "paranormal",
-        "mythology",
-        "supernatural",
-        "urban-fantasy",
-        "teen"
-      ],
-      "rating": 4.02,
-      "ratings": 4136,
-      "reviews": 58
-    },
-    {
-      "title": "The Seance",
-      "url": "https://www.goodreads.com/book/show/959245.The_Seance",
-      "id": "944150",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1389568924i/959245.jpg",
-      "authors": [
-        "Heather Graham"
-      ],
-      "genres": [
-        "paranormal",
-        "mystery",
-        "romance",
-        "paranormal-romance",
-        "suspense",
-        "fiction",
-        "supernatural"
-      ],
-      "rating": 4.05,
-      "ratings": 4095,
-      "reviews": 223
-    },
-    {
-      "title": "Fated to the Alpha",
-      "url": "https://www.goodreads.com/book/show/71609130-fated-to-the-alpha",
-      "id": "91857388",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1671472070i/71609130.jpg",
-      "authors": [
-        "Jessica   Hall"
-      ],
-      "genres": [
         "werewolves",
-        "fantasy",
-        "romance",
-        "paranormal",
-        "shapeshifters",
+        "paranormal-romance",
         "supernatural",
-        "wolves"
+        "novella"
       ],
-      "rating": 4.17,
-      "ratings": 4067,
-      "reviews": 369
+      "rating": 4.3,
+      "ratings": 4504,
+      "reviews": 266
     },
     {
-      "title": "Forgiven",
-      "url": "https://www.goodreads.com/book/show/16285811-forgiven",
-      "id": "22409798",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1356209908i/16285811.jpg",
+      "title": "Blood Debts",
+      "url": "https://www.goodreads.com/book/show/45891202-blood-debts",
+      "id": "47816832",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1558357846i/45891202.jpg",
       "authors": [
-        "S.J. West"
+        "Shayne Silvers"
       ],
       "genres": [
+        "urban-fantasy",
         "fantasy",
+        "paranormal",
+        "magic",
+        "demons",
         "angels",
-        "paranormal",
-        "romance",
-        "young-adult",
-        "paranormal-romance",
         "supernatural"
       ],
-      "rating": 4.22,
-      "ratings": 4066,
-      "reviews": 190
-    },
-    {
-      "title": "Bright Blaze of Magic",
-      "url": "https://www.goodreads.com/book/show/25923471-bright-blaze-of-magic",
-      "id": "45814118",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1437089035i/25923471.jpg",
-      "authors": [
-        "Jennifer Estep"
-      ],
-      "genres": [
-        "fantasy",
-        "urban-fantasy",
-        "young-adult",
-        "magic",
-        "paranormal",
-        "romance",
-        "supernatural"
-      ],
-      "rating": 4.13,
-      "ratings": 4042,
-      "reviews": 387
-    },
-    {
-      "title": "The Sacred Veil",
-      "url": "https://www.goodreads.com/book/show/14290023-the-sacred-veil",
-      "id": "19930890",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1362932879i/14290023.jpg",
-      "authors": [
-        "Christopher Pike"
-      ],
-      "genres": [
-        "vampires",
-        "young-adult",
-        "fantasy",
-        "paranormal",
-        "fiction",
-        "supernatural",
-        "horror"
-      ],
-      "rating": 4.29,
-      "ratings": 4028,
-      "reviews": 284
-    },
-    {
-      "title": "Blue Exorcist, Vol. 9",
-      "url": "https://www.goodreads.com/book/show/16117438-blue-exorcist-vol-9",
-      "id": "21935571",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1353621784i/16117438.jpg",
-      "authors": [
-        "Kazue Kato"
-      ],
-      "genres": [
-        "manga",
-        "fantasy",
-        "young-adult",
-        "graphic-novels",
-        "shonen",
-        "supernatural",
-        "demons"
-      ],
-      "rating": 4.39,
-      "ratings": 4012,
-      "reviews": 126
-    },
-    {
-      "title": "Snake Eyes",
-      "url": "https://www.goodreads.com/book/show/33650935-snake-eyes",
-      "id": "54511603",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1483214155i/33650935.jpg",
-      "authors": [
-        "John Conroe"
-      ],
-      "genres": [
-        "urban-fantasy",
-        "fantasy",
-        "paranormal",
-        "magic",
-        "supernatural",
-        "vampires",
-        "horror"
-      ],
-      "rating": 4.49,
-      "ratings": 4006,
-      "reviews": 137
-    },
-    {
-      "title": "Undeniably Chosen",
-      "url": "https://www.goodreads.com/book/show/19108154-undeniably-chosen",
-      "id": "27141732",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1498697939i/19108154.jpg",
-      "authors": [
-        "Shelly Crane"
-      ],
-      "genres": [
-        "paranormal",
-        "romance",
-        "young-adult",
-        "fantasy",
-        "paranormal-romance",
-        "supernatural",
-        "magic"
-      ],
-      "rating": 4.25,
-      "ratings": 4002,
-      "reviews": 300
-    },
-    {
-      "title": "The Kill Society",
-      "url": "https://www.goodreads.com/book/show/32051577-the-kill-society",
-      "id": "52691495",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1479762459i/32051577.jpg",
-      "authors": [
-        "Richard Kadrey"
-      ],
-      "genres": [
-        "urban-fantasy",
-        "fantasy",
-        "horror",
-        "fiction",
-        "supernatural",
-        "audiobook",
-        "paranormal"
-      ],
-      "rating": 4.2,
-      "ratings": 3994,
-      "reviews": 280
+      "rating": 4.31,
+      "ratings": 4504,
+      "reviews": 222
     }
   ]
 }

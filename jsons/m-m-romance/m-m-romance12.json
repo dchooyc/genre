@@ -1,6 +1,48 @@
 {
   "books": [
     {
+      "title": "Acrobat",
+      "url": "https://www.goodreads.com/book/show/13594866-acrobat",
+      "id": "19183334",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1334035355i/13594866.jpg",
+      "authors": [
+        "Mary Calmes"
+      ],
+      "genres": [
+        "m-m-romance",
+        "romance",
+        "contemporary",
+        "lgbt",
+        "contemporary-romance",
+        "fiction",
+        "gay"
+      ],
+      "rating": 4.1,
+      "ratings": 5573,
+      "reviews": 661
+    },
+    {
+      "title": "Threshold",
+      "url": "https://www.goodreads.com/book/show/17840306-threshold",
+      "id": "24965721",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1366728374i/17840306.jpg",
+      "authors": [
+        "Jordan L. Hawk"
+      ],
+      "genres": [
+        "historical",
+        "fantasy",
+        "m-m-romance",
+        "romance",
+        "paranormal",
+        "mystery",
+        "horror"
+      ],
+      "rating": 4.12,
+      "ratings": 5550,
+      "reviews": 733
+    },
+    {
       "title": "A Guy Walks Into My Bar",
       "url": "https://www.goodreads.com/book/show/123856979-a-guy-walks-into-my-bar",
       "id": "83288774",
@@ -15,137 +57,242 @@
         "contemporary",
         "audiobook",
         "lgbt",
-        "contemporary-romance"
+        "sports-romance"
       ],
       "rating": 4.1,
-      "ratings": 5363,
-      "reviews": 999
+      "ratings": 5542,
+      "reviews": 1023
     },
     {
-      "title": "The High King's Golden Tongue",
-      "url": "https://www.goodreads.com/book/show/25902535-the-high-king-s-golden-tongue",
-      "id": "47453880",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1436805757i/25902535.jpg",
+      "title": "Of Sunlight and Stardust",
+      "url": "https://www.goodreads.com/book/show/41949295-of-sunlight-and-stardust",
+      "id": "64895967",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1537417098i/41949295.jpg",
       "authors": [
-        "Megan Derr"
+        "Riley Hart"
       ],
       "genres": [
-        "fantasy",
         "m-m-romance",
         "romance",
+        "contemporary",
         "lgbt",
-        "historical",
-        "queer",
-        "m-m-fantasy"
+        "gay-for-you",
+        "contemporary-romance",
+        "gay"
       ],
-      "rating": 4.08,
-      "ratings": 5353,
-      "reviews": 684
+      "rating": 4.24,
+      "ratings": 5538,
+      "reviews": 878
     },
     {
-      "title": "The King",
-      "url": "https://www.goodreads.com/book/show/19233301-the-king",
-      "id": "27278471",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1401211163i/19233301.jpg",
+      "title": "Broken",
+      "url": "https://www.goodreads.com/book/show/34447556-broken",
+      "id": "55549257",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1488459638i/34447556.jpg",
       "authors": [
-        "Tiffany Reisz"
+        "Jex Lane"
       ],
       "genres": [
+        "m-m-romance",
+        "fantasy",
+        "paranormal",
+        "vampires",
+        "dark",
+        "romance",
+        "lgbt"
+      ],
+      "rating": 4.54,
+      "ratings": 5537,
+      "reviews": 745
+    },
+    {
+      "title": "A Seditious Affair",
+      "url": "https://www.goodreads.com/book/show/25241403-a-seditious-affair",
+      "id": "44960983",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1690300144i/25241403.jpg",
+      "authors": [
+        "K.J. Charles"
+      ],
+      "genres": [
+        "romance",
+        "historical",
+        "m-m-romance",
+        "historical-fiction",
+        "historical-romance",
         "bdsm",
-        "erotica",
+        "lgbt"
+      ],
+      "rating": 4.28,
+      "ratings": 5533,
+      "reviews": 929
+    },
+    {
+      "title": "Final Play",
+      "url": "https://www.goodreads.com/book/show/48923590-final-play",
+      "id": "74102188",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1574622830i/48923590.jpg",
+      "authors": [
+        "Eden Finley"
+      ],
+      "genres": [
+        "m-m-romance",
+        "romance",
+        "sports",
+        "lgbt",
+        "contemporary",
+        "sports-romance",
+        "queer"
+      ],
+      "rating": 4.22,
+      "ratings": 5507,
+      "reviews": 498
+    },
+    {
+      "title": "Carry the Ocean",
+      "url": "https://www.goodreads.com/book/show/23110300-carry-the-ocean",
+      "id": "42657999",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1489167400i/23110300.jpg",
+      "authors": [
+        "Heidi Cullinan"
+      ],
+      "genres": [
+        "m-m-romance",
+        "romance",
+        "contemporary",
+        "disability",
+        "lgbt",
+        "new-adult",
+        "mental-health"
+      ],
+      "rating": 4.38,
+      "ratings": 5504,
+      "reviews": 1069
+    },
+    {
+      "title": "Right as Raine",
+      "url": "https://www.goodreads.com/book/show/56326586-right-as-raine",
+      "id": "87756933",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1610241080i/56326586.jpg",
+      "authors": [
+        "Lucy Lennox"
+      ],
+      "genres": [
+        "m-m-romance",
+        "romance",
+        "sports",
+        "contemporary",
+        "sports-romance",
+        "lgbt",
+        "football"
+      ],
+      "rating": 4.27,
+      "ratings": 5504,
+      "reviews": 644
+    },
+    {
+      "title": "How to Say I Do",
+      "url": "https://www.goodreads.com/book/show/172112406-how-to-say-i-do",
+      "id": "180604330",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1685917711i/172112406.jpg",
+      "authors": [
+        "Tal Bauer"
+      ],
+      "genres": [
+        "m-m-romance",
+        "romance",
+        "contemporary",
+        "westerns",
+        "lgbt",
+        "contemporary-romance",
+        "queer"
+      ],
+      "rating": 4.47,
+      "ratings": 5501,
+      "reviews": 785
+    },
+    {
+      "title": "Released",
+      "url": "https://www.goodreads.com/book/show/60076210-released",
+      "id": "94733605",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1645988636i/60076210.jpg",
+      "authors": [
+        "Rosa  Lee"
+      ],
+      "genres": [
+        "reverse-harem",
         "romance",
         "dark",
+        "high-school",
         "m-m-romance",
+        "contemporary-romance",
+        "new-adult"
+      ],
+      "rating": 4.13,
+      "ratings": 5500,
+      "reviews": 262
+    },
+    {
+      "title": "Aftermath",
+      "url": "https://www.goodreads.com/book/show/58782728-aftermath",
+      "id": "25601003",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1629093495i/58782728.jpg",
+      "authors": [
+        "Cara Dee"
+      ],
+      "genres": [
+        "m-m-romance",
+        "dark",
+        "romance",
         "contemporary",
-        "adult"
+        "abuse",
+        "gay-for-you",
+        "lgbt"
       ],
-      "rating": 4.61,
-      "ratings": 5348,
-      "reviews": 735
+      "rating": 4.07,
+      "ratings": 5484,
+      "reviews": 722
     },
     {
-      "title": "Lord of the White Hell, Book 1",
-      "url": "https://www.goodreads.com/book/show/8017244-lord-of-the-white-hell-book-1",
-      "id": "12582432",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1270983929i/8017244.jpg",
+      "title": "Body and Soul",
+      "url": "https://www.goodreads.com/book/show/6978605-body-and-soul",
+      "id": "2397353",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1406571534i/6978605.jpg",
       "authors": [
-        "Ginn Hale"
+        "Jordan Castillo Price"
       ],
       "genres": [
+        "m-m-romance",
+        "paranormal",
+        "mystery",
+        "romance",
+        "urban-fantasy",
         "fantasy",
-        "m-m-romance",
-        "romance",
-        "lgbt",
-        "magic",
-        "gay",
-        "steampunk"
+        "ghosts"
       ],
-      "rating": 4.03,
-      "ratings": 5324,
-      "reviews": 552
+      "rating": 4.16,
+      "ratings": 5458,
+      "reviews": 473
     },
     {
-      "title": "Need for Speed",
-      "url": "https://www.goodreads.com/book/show/50392429-need-for-speed",
-      "id": "75349985",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1583529022i/50392429.jpg",
+      "title": "Spencer Cohen, Book One",
+      "url": "https://www.goodreads.com/book/show/28436109-spencer-cohen-book-one",
+      "id": "48552457",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1451788390i/28436109.jpg",
       "authors": [
-        "Brooke Blaine"
+        "N.R. Walker"
       ],
       "genres": [
         "m-m-romance",
         "romance",
-        "military-fiction",
         "contemporary",
         "lgbt",
         "contemporary-romance",
-        "audiobook"
+        "m-m-contemporary",
+        "gay"
       ],
-      "rating": 4.3,
-      "ratings": 5324,
-      "reviews": 648
-    },
-    {
-      "title": "Kill Game",
-      "url": "https://www.goodreads.com/book/show/35138461-kill-game",
-      "id": "56463659",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1496392824i/35138461.jpg",
-      "authors": [
-        "Cordelia Kingsbridge"
-      ],
-      "genres": [
-        "m-m-romance",
-        "mystery",
-        "romance",
-        "contemporary",
-        "crime",
-        "lgbt",
-        "thriller"
-      ],
-      "rating": 4.26,
-      "ratings": 5322,
-      "reviews": 921
-    },
-    {
-      "title": "Omega's Obsession",
-      "url": "https://www.goodreads.com/book/show/59971085-omega-s-obsession",
-      "id": "94501999",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1645195893i/59971085.jpg",
-      "authors": [
-        "Sarah   Blue"
-      ],
-      "genres": [
-        "omegaverse",
-        "reverse-harem",
-        "romance",
-        "fantasy",
-        "paranormal",
-        "m-m-romance",
-        "contemporary"
-      ],
-      "rating": 4.04,
-      "ratings": 5320,
-      "reviews": 456
+      "rating": 4.2,
+      "ratings": 5457,
+      "reviews": 841
     },
     {
       "title": "Sanctuary Found",
@@ -164,9 +311,135 @@
         "abuse",
         "gay"
       ],
-      "rating": 4.34,
-      "ratings": 5320,
-      "reviews": 495
+      "rating": 4.33,
+      "ratings": 5454,
+      "reviews": 502
+    },
+    {
+      "title": "Kill Game",
+      "url": "https://www.goodreads.com/book/show/35138461-kill-game",
+      "id": "56463659",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1496392824i/35138461.jpg",
+      "authors": [
+        "Cordelia Kingsbridge"
+      ],
+      "genres": [
+        "m-m-romance",
+        "mystery",
+        "romance",
+        "contemporary",
+        "crime",
+        "lgbt",
+        "thriller"
+      ],
+      "rating": 4.25,
+      "ratings": 5445,
+      "reviews": 942
+    },
+    {
+      "title": "The Rebuilding Year",
+      "url": "https://www.goodreads.com/book/show/35525803-the-rebuilding-year",
+      "id": "18444724",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1498589441i/35525803.jpg",
+      "authors": [
+        "Kaje Harper"
+      ],
+      "genres": [
+        "m-m-romance",
+        "romance",
+        "contemporary",
+        "gay-for-you",
+        "disability",
+        "mystery",
+        "contemporary-romance"
+      ],
+      "rating": 4.04,
+      "ratings": 5445,
+      "reviews": 681
+    },
+    {
+      "title": "The High King's Golden Tongue",
+      "url": "https://www.goodreads.com/book/show/25902535-the-high-king-s-golden-tongue",
+      "id": "47453880",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1436805757i/25902535.jpg",
+      "authors": [
+        "Megan Derr"
+      ],
+      "genres": [
+        "fantasy",
+        "m-m-romance",
+        "romance",
+        "lgbt",
+        "historical",
+        "queer",
+        "m-m-fantasy"
+      ],
+      "rating": 4.07,
+      "ratings": 5437,
+      "reviews": 697
+    },
+    {
+      "title": "Leveled",
+      "url": "https://www.goodreads.com/book/show/27240468-leveled",
+      "id": "47288664",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1445350784i/27240468.jpg",
+      "authors": [
+        "Jay Crownover"
+      ],
+      "genres": [
+        "romance",
+        "m-m-romance",
+        "new-adult",
+        "contemporary",
+        "contemporary-romance",
+        "novella",
+        "lgbt"
+      ],
+      "rating": 4.04,
+      "ratings": 5408,
+      "reviews": 570
+    },
+    {
+      "title": "The King",
+      "url": "https://www.goodreads.com/book/show/21942759-the-king",
+      "id": "27278471",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1400416552i/21942759.jpg",
+      "authors": [
+        "Tiffany Reisz"
+      ],
+      "genres": [
+        "bdsm",
+        "erotica",
+        "romance",
+        "dark",
+        "m-m-romance",
+        "contemporary",
+        "adult"
+      ],
+      "rating": 4.61,
+      "ratings": 5393,
+      "reviews": 735
+    },
+    {
+      "title": "I'll Be Your Drill, Soldier",
+      "url": "https://www.goodreads.com/book/show/6897264-i-ll-be-your-drill-soldier",
+      "id": "7119571",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1303793741i/6897264.jpg",
+      "authors": [
+        "Crystal Rose"
+      ],
+      "genres": [
+        "m-m-romance",
+        "military-fiction",
+        "romance",
+        "contemporary",
+        "humor",
+        "gay",
+        "lgbt"
+      ],
+      "rating": 4.07,
+      "ratings": 5391,
+      "reviews": 702
     },
     {
       "title": "A Gentleman's Position",
@@ -186,50 +459,8 @@
         "queer"
       ],
       "rating": 4.24,
-      "ratings": 5314,
-      "reviews": 887
-    },
-    {
-      "title": "Platonic Rulebook",
-      "url": "https://www.goodreads.com/book/show/60039166-platonic-rulebook",
-      "id": "94657617",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1652966936i/60039166.jpg",
-      "authors": [
-        "Saxon James"
-      ],
-      "genres": [
-        "m-m-romance",
-        "romance",
-        "lgbt",
-        "contemporary",
-        "contemporary-romance",
-        "queer",
-        "audiobook"
-      ],
-      "rating": 4.03,
-      "ratings": 5288,
-      "reviews": 546
-    },
-    {
-      "title": "Spotlight",
-      "url": "https://www.goodreads.com/book/show/54544949-spotlight",
-      "id": "82736629",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1594839323i/54544949.jpg",
-      "authors": [
-        "Eden Finley"
-      ],
-      "genres": [
-        "m-m-romance",
-        "romance",
-        "contemporary",
-        "lgbt",
-        "music",
-        "musicians",
-        "contemporary-romance"
-      ],
-      "rating": 4.13,
-      "ratings": 5283,
-      "reviews": 516
+      "ratings": 5380,
+      "reviews": 890
     },
     {
       "title": "The Necromancer's Dance",
@@ -248,261 +479,30 @@
         "magic",
         "urban-fantasy"
       ],
-      "rating": 4.15,
-      "ratings": 5281,
-      "reviews": 753
+      "rating": 4.14,
+      "ratings": 5374,
+      "reviews": 766
     },
     {
-      "title": "His Saint",
-      "url": "https://www.goodreads.com/book/show/42597625-his-saint",
-      "id": "66294840",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1540987408i/42597625.jpg",
+      "title": "Lord of the White Hell, Book 1",
+      "url": "https://www.goodreads.com/book/show/8017244-lord-of-the-white-hell-book-1",
+      "id": "12582432",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1270983929i/8017244.jpg",
       "authors": [
-        "Lucy Lennox"
+        "Ginn Hale"
       ],
       "genres": [
-        "m-m-romance",
-        "romance",
-        "contemporary",
-        "lgbt",
-        "military-fiction",
-        "gay",
-        "mystery"
-      ],
-      "rating": 4.24,
-      "ratings": 5267,
-      "reviews": 417
-    },
-    {
-      "title": "Final Play",
-      "url": "https://www.goodreads.com/book/show/48923590-final-play",
-      "id": "74102188",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1574622830i/48923590.jpg",
-      "authors": [
-        "Eden Finley"
-      ],
-      "genres": [
-        "m-m-romance",
-        "romance",
-        "sports",
-        "contemporary",
-        "lgbt",
-        "sports-romance",
-        "queer"
-      ],
-      "rating": 4.22,
-      "ratings": 5230,
-      "reviews": 482
-    },
-    {
-      "title": "Locked",
-      "url": "https://www.goodreads.com/book/show/31819739-locked",
-      "id": "51823809",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1472760961i/31819739.jpg",
-      "authors": [
-        "Ella Frank"
-      ],
-      "genres": [
-        "m-m-romance",
-        "romance",
-        "contemporary",
-        "lgbt",
-        "contemporary-romance",
-        "gay",
-        "erotica"
-      ],
-      "rating": 4.29,
-      "ratings": 5228,
-      "reviews": 581
-    },
-    {
-      "title": "Seduction",
-      "url": "https://www.goodreads.com/book/show/59381616-seduction",
-      "id": "93551132",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1644570863i/59381616.jpg",
-      "authors": [
-        "Cassie Hargrove"
-      ],
-      "genres": [
-        "reverse-harem",
-        "dark",
-        "romance",
-        "contemporary",
-        "m-m-romance",
-        "college",
-        "new-adult"
-      ],
-      "rating": 4.18,
-      "ratings": 5221,
-      "reviews": 212
-    },
-    {
-      "title": "A Lost Paige",
-      "url": "https://www.goodreads.com/book/show/48632160-a-lost-paige",
-      "id": "73970696",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1574143029i/48632160.jpg",
-      "authors": [
-        "L.  Rose"
-      ],
-      "genres": [
-        "reverse-harem",
-        "paranormal",
         "fantasy",
-        "romance",
-        "shapeshifters",
-        "vampires",
-        "m-m-romance"
-      ],
-      "rating": 4.09,
-      "ratings": 5211,
-      "reviews": 314
-    },
-    {
-      "title": "Honeymoon for One",
-      "url": "https://www.goodreads.com/book/show/41823691-honeymoon-for-one",
-      "id": "65273875",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1536869982i/41823691.jpg",
-      "authors": [
-        "Keira Andrews"
-      ],
-      "genres": [
         "m-m-romance",
         "romance",
-        "contemporary",
-        "disability",
         "lgbt",
-        "contemporary-romance",
-        "australia"
-      ],
-      "rating": 4.09,
-      "ratings": 5199,
-      "reviews": 914
-    },
-    {
-      "title": "Salvation",
-      "url": "https://www.goodreads.com/book/show/29613595-salvation",
-      "id": "49955816",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1460121513i/29613595.jpg",
-      "authors": [
-        "Sloane Kennedy"
-      ],
-      "genres": [
-        "m-m-romance",
-        "romance",
-        "contemporary",
-        "military-fiction",
-        "abuse",
-        "lgbt",
-        "dark"
-      ],
-      "rating": 4.19,
-      "ratings": 5181,
-      "reviews": 499
-    },
-    {
-      "title": "Take Me Apart",
-      "url": "https://www.goodreads.com/book/show/75422809-take-me-apart",
-      "id": "100665577",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1672419991i/75422809.jpg",
-      "authors": [
-        "Brea Alepoú"
-      ],
-      "genres": [
-        "m-m-romance",
-        "dark",
-        "romance",
-        "lgbt",
-        "crime",
-        "contemporary",
-        "boys-love"
+        "magic",
+        "queer",
+        "gay"
       ],
       "rating": 4.03,
-      "ratings": 5174,
-      "reviews": 543
-    },
-    {
-      "title": "Shiver",
-      "url": "https://www.goodreads.com/book/show/26695561-shiver",
-      "id": "46723077",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1464122774i/26695561.jpg",
-      "authors": [
-        "Jocelynn Drake"
-      ],
-      "genres": [
-        "m-m-romance",
-        "romance",
-        "contemporary",
-        "mystery",
-        "crime",
-        "lgbt",
-        "suspense"
-      ],
-      "rating": 4.13,
-      "ratings": 5173,
-      "reviews": 717
-    },
-    {
-      "title": "Catch a Tiger by the Tail",
-      "url": "https://www.goodreads.com/book/show/49254683-catch-a-tiger-by-the-tail",
-      "id": "42242041",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1576446192i/49254683.jpg",
-      "authors": [
-        "Charlie Cochet"
-      ],
-      "genres": [
-        "m-m-romance",
-        "paranormal",
-        "shapeshifters",
-        "romance",
-        "military-fiction",
-        "lgbt",
-        "fantasy"
-      ],
-      "rating": 4.26,
-      "ratings": 5156,
-      "reviews": 669
-    },
-    {
-      "title": "Riches to Riches: Part Two",
-      "url": "https://www.goodreads.com/book/show/63391798-riches-to-riches",
-      "id": "97173017",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1669056348i/63391798.jpg",
-      "authors": [
-        "Ames Mills"
-      ],
-      "genres": [
-        "reverse-harem",
-        "romance",
-        "dark",
-        "m-m-romance",
-        "contemporary",
-        "m-m-f",
-        "polyamory"
-      ],
-      "rating": 4.39,
-      "ratings": 5154,
-      "reviews": 255
-    },
-    {
-      "title": "Wilde Love",
-      "url": "https://www.goodreads.com/book/show/45362841-wilde-love",
-      "id": "66306901",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1556575433i/45362841.jpg",
-      "authors": [
-        "Lucy Lennox"
-      ],
-      "genres": [
-        "m-m-romance",
-        "romance",
-        "military-fiction",
-        "lgbt",
-        "historical",
-        "contemporary",
-        "gay-for-you"
-      ],
-      "rating": 4.56,
-      "ratings": 5119,
-      "reviews": 689
+      "ratings": 5371,
+      "reviews": 560
     }
   ]
 }

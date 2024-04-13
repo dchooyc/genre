@@ -1,136 +1,344 @@
 {
   "books": [
     {
-      "title": "Jack & Coke",
-      "url": "https://www.goodreads.com/book/show/28943534-jack-coke",
-      "id": "49165125",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1454931093i/28943534.jpg",
+      "title": "Cold Snap",
+      "url": "https://www.goodreads.com/book/show/58669689-cold-snap",
+      "id": "92301209",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1627760807i/58669689.jpg",
+      "authors": [
+        "Marc Cameron"
+      ],
+      "genres": [
+        "fiction",
+        "thriller",
+        "mystery",
+        "crime",
+        "suspense",
+        "mystery-thriller",
+        "action"
+      ],
+      "rating": 4.46,
+      "ratings": 5345,
+      "reviews": 353
+    },
+    {
+      "title": "The Bandit",
+      "url": "https://www.goodreads.com/book/show/24559719-the-bandit",
+      "id": "44163692",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1462449172i/24559719.jpg",
+      "authors": [
+        "B.B. Reid"
+      ],
+      "genres": [
+        "dark",
+        "romance",
+        "contemporary",
+        "crime",
+        "contemporary-romance",
+        "new-adult",
+        "suspense"
+      ],
+      "rating": 4.03,
+      "ratings": 5338,
+      "reviews": 717
+    },
+    {
+      "title": "The Confession",
+      "url": "https://www.goodreads.com/book/show/48845764-the-confession",
+      "id": "114930",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1574024311i/48845764.jpg",
+      "authors": [
+        "Sheldon Siegel"
+      ],
+      "genres": [
+        "mystery",
+        "fiction",
+        "legal-thriller",
+        "thriller",
+        "amazon",
+        "suspense",
+        "crime"
+      ],
+      "rating": 4.34,
+      "ratings": 5337,
+      "reviews": 177
+    },
+    {
+      "title": "Crave Me",
+      "url": "https://www.goodreads.com/book/show/29075421-crave-me",
+      "id": "49306035",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1462233105i/29075421.jpg",
+      "authors": [
+        "M.  Robinson"
+      ],
+      "genres": [
+        "romance",
+        "new-adult",
+        "contemporary",
+        "contemporary-romance",
+        "dark",
+        "suspense",
+        "crime"
+      ],
+      "rating": 4.16,
+      "ratings": 5328,
+      "reviews": 794
+    },
+    {
+      "title": "The Ares Decision",
+      "url": "https://www.goodreads.com/book/show/3224566-the-ares-decision",
+      "id": "3285229",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1344271834i/3224566.jpg",
+      "authors": [
+        "Kyle Mills"
+      ],
+      "genres": [
+        "thriller",
+        "fiction",
+        "adventure",
+        "action",
+        "espionage",
+        "mystery",
+        "suspense"
+      ],
+      "rating": 4.07,
+      "ratings": 5327,
+      "reviews": 149
+    },
+    {
+      "title": "Covert Game",
+      "url": "https://www.goodreads.com/book/show/35620156-covert-game",
+      "id": "57064846",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1504346376i/35620156.jpg",
+      "authors": [
+        "Christine Feehan"
+      ],
+      "genres": [
+        "paranormal",
+        "romance",
+        "paranormal-romance",
+        "military-fiction",
+        "fantasy",
+        "romantic-suspense",
+        "suspense"
+      ],
+      "rating": 4.38,
+      "ratings": 5327,
+      "reviews": 443
+    },
+    {
+      "title": "Cruel Sacrifice",
+      "url": "https://www.goodreads.com/book/show/29927949-cruel-sacrifice",
+      "id": "88292",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1460826699i/29927949.jpg",
+      "authors": [
+        "Aphrodite Jones"
+      ],
+      "genres": [
+        "true-crime",
+        "non-fiction",
+        "crime",
+        "adult",
+        "biography",
+        "thriller",
+        "suspense"
+      ],
+      "rating": 4.05,
+      "ratings": 5325,
+      "reviews": 204
+    },
+    {
+      "title": "In Harm's Way",
+      "url": "https://www.goodreads.com/book/show/6630482-in-harm-s-way",
+      "id": "6824837",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1441325160i/6630482.jpg",
+      "authors": [
+        "Irene Hannon"
+      ],
+      "genres": [
+        "christian-fiction",
+        "romance",
+        "suspense",
+        "christian",
+        "fiction",
+        "mystery",
+        "romantic-suspense"
+      ],
+      "rating": 4.4,
+      "ratings": 5322,
+      "reviews": 243
+    },
+    {
+      "title": "Fear the Silence",
+      "url": "https://www.goodreads.com/book/show/75505890-fear-the-silence",
+      "id": "100794759",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1675939015i/75505890.jpg",
+      "authors": [
+        "Robert Bryndza"
+      ],
+      "genres": [
+        "thriller",
+        "mystery",
+        "crime",
+        "fiction",
+        "mystery-thriller",
+        "suspense",
+        "psychological-thriller"
+      ],
+      "rating": 4.1,
+      "ratings": 5320,
+      "reviews": 796
+    },
+    {
+      "title": "The Lost Girls",
+      "url": "https://www.goodreads.com/book/show/58421682-the-lost-girls",
+      "id": "91666868",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1624615253i/58421682.jpg",
+      "authors": [
+        "Elle Gray"
+      ],
+      "genres": [
+        "mystery",
+        "thriller",
+        "crime",
+        "suspense",
+        "fiction"
+      ],
+      "rating": 4.61,
+      "ratings": 5314,
+      "reviews": 103
+    },
+    {
+      "title": "The Mountain",
+      "url": "https://www.goodreads.com/book/show/51549308-the-mountain",
+      "id": "73382231",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1582544513i/51549308.jpg",
+      "authors": [
+        "Steven Konkoly"
+      ],
+      "genres": [
+        "thriller",
+        "fiction",
+        "mystery",
+        "action",
+        "suspense",
+        "crime",
+        "mystery-thriller"
+      ],
+      "rating": 4.45,
+      "ratings": 5310,
+      "reviews": 171
+    },
+    {
+      "title": "Trusting Cassidy",
+      "url": "https://www.goodreads.com/book/show/53298798-trusting-cassidy",
+      "id": "81349464",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1623389832i/53298798.jpg",
+      "authors": [
+        "Susan Stoker"
+      ],
+      "genres": [
+        "romance",
+        "romantic-suspense",
+        "military-fiction",
+        "contemporary",
+        "suspense",
+        "contemporary-romance",
+        "military-romance"
+      ],
+      "rating": 4.42,
+      "ratings": 5309,
+      "reviews": 422
+    },
+    {
+      "title": "Ricochet",
+      "url": "https://www.goodreads.com/book/show/25816447-ricochet",
+      "id": "41370433",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1436141872i/25816447.jpg",
+      "authors": [
+        "Keri Lake"
+      ],
+      "genres": [
+        "dark",
+        "romance",
+        "abuse",
+        "suspense",
+        "romantic-suspense",
+        "contemporary-romance",
+        "contemporary"
+      ],
+      "rating": 4.05,
+      "ratings": 5308,
+      "reviews": 863
+    },
+    {
+      "title": "Hold on to Hope",
+      "url": "https://www.goodreads.com/book/show/48588509-hold-on-to-hope",
+      "id": "70951901",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1572268289i/48588509.jpg",
+      "authors": [
+        "A.L. Jackson"
+      ],
+      "genres": [
+        "romance",
+        "contemporary-romance",
+        "contemporary",
+        "new-adult",
+        "disability",
+        "audiobook",
+        "suspense"
+      ],
+      "rating": 4.17,
+      "ratings": 5307,
+      "reviews": 723
+    },
+    {
+      "title": "A Cut for a Cut",
+      "url": "https://www.goodreads.com/book/show/56879257-a-cut-for-a-cut",
+      "id": "88934482",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1617592242i/56879257.jpg",
+      "authors": [
+        "Carol Wyer"
+      ],
+      "genres": [
+        "mystery",
+        "fiction",
+        "crime",
+        "thriller",
+        "mystery-thriller",
+        "suspense",
+        "audiobook"
+      ],
+      "rating": 4.32,
+      "ratings": 5305,
+      "reviews": 344
+    },
+    {
+      "title": "Charlie Foxtrot",
+      "url": "https://www.goodreads.com/book/show/25700512-charlie-foxtrot",
+      "id": "45532101",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1436983057i/25700512.jpg",
       "authors": [
         "Lani Lynn Vale"
       ],
       "genres": [
         "romance",
         "contemporary",
-        "contemporary-romance",
-        "suspense",
         "military-fiction",
-        "audiobook",
-        "romantic-suspense"
-      ],
-      "rating": 4.24,
-      "ratings": 4773,
-      "reviews": 323
-    },
-    {
-      "title": "Whiskey for Breakfast",
-      "url": "https://www.goodreads.com/book/show/18106877-whiskey-for-breakfast",
-      "id": "25427692",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1371771688i/18106877.jpg",
-      "authors": [
-        "Liliana Hart"
-      ],
-      "genres": [
-        "mystery",
-        "romance",
+        "contemporary-romance",
         "romantic-suspense",
-        "chick-lit",
-        "contemporary",
         "humor",
         "suspense"
       ],
-      "rating": 4.29,
-      "ratings": 4770,
-      "reviews": 255
+      "rating": 4.46,
+      "ratings": 5305,
+      "reviews": 277
     },
     {
-      "title": "More Than Memories",
-      "url": "https://www.goodreads.com/book/show/42858528-more-than-memories",
-      "id": "57623192",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1542556699i/42858528.jpg",
-      "authors": [
-        "N.E. Henderson"
-      ],
-      "genres": [
-        "romance",
-        "contemporary",
-        "contemporary-romance",
-        "music",
-        "suspense",
-        "abuse",
-        "medical"
-      ],
-      "rating": 4.21,
-      "ratings": 4769,
-      "reviews": 333
-    },
-    {
-      "title": "Still Not Into You",
-      "url": "https://www.goodreads.com/book/show/42272307-still-not-into-you",
-      "id": "65773983",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1539191966i/42272307.jpg",
-      "authors": [
-        "Nicole Snow"
-      ],
-      "genres": [
-        "romance",
-        "contemporary-romance",
-        "military-fiction",
-        "suspense",
-        "romantic-suspense",
-        "contemporary",
-        "mystery"
-      ],
-      "rating": 4.3,
-      "ratings": 4763,
-      "reviews": 348
-    },
-    {
-      "title": "Singe",
-      "url": "https://www.goodreads.com/book/show/26083341-singe",
-      "id": "46022452",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1484751862i/26083341.jpg",
-      "authors": [
-        "Aly Martinez"
-      ],
-      "genres": [
-        "romance",
-        "contemporary-romance",
-        "contemporary",
-        "romantic-suspense",
-        "suspense",
-        "new-adult",
-        "adult"
-      ],
-      "rating": 4.09,
-      "ratings": 4763,
-      "reviews": 714
-    },
-    {
-      "title": "Thirty-Five and a Half Conspiracies",
-      "url": "https://www.goodreads.com/book/show/26813208-thirty-five-and-a-half-conspiracies",
-      "id": "45228326",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1447539471i/26813208.jpg",
-      "authors": [
-        "Denise Grover Swank"
-      ],
-      "genres": [
-        "mystery",
-        "romance",
-        "fiction",
-        "paranormal",
-        "contemporary",
-        "mystery-thriller",
-        "suspense"
-      ],
-      "rating": 4.55,
-      "ratings": 4762,
-      "reviews": 299
-    },
-    {
-      "title": "A View to a Thrill",
-      "url": "https://www.goodreads.com/book/show/20840544-a-view-to-a-thrill",
-      "id": "40192519",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1394857124i/20840544.jpg",
+      "title": "Dungeon Royale",
+      "url": "https://www.goodreads.com/book/show/18333744-dungeon-royale",
+      "id": "25881191",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1381509321i/18333744.jpg",
       "authors": [
         "Lexi Blake"
       ],
@@ -138,370 +346,161 @@
         "bdsm",
         "romance",
         "erotica",
-        "romantic-suspense",
-        "erotic-romance",
         "contemporary",
+        "erotic-romance",
+        "romantic-suspense",
         "suspense"
       ],
-      "rating": 4.47,
-      "ratings": 4758,
-      "reviews": 292
+      "rating": 4.45,
+      "ratings": 5304,
+      "reviews": 286
     },
     {
-      "title": "The Royal",
-      "url": "https://www.goodreads.com/book/show/63328745-the-royal",
-      "id": "99248040",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1674177214i/63328745.jpg",
+      "title": "Jacob",
+      "url": "https://www.goodreads.com/book/show/35608735-jacob",
+      "id": "45042272",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1499307879i/35608735.jpg",
       "authors": [
-        "Susan Stoker"
+        "Kris Michaels"
       ],
       "genres": [
-        "romance",
         "military-fiction",
+        "romance",
         "romantic-suspense",
-        "contemporary",
         "contemporary-romance",
-        "audiobook",
+        "contemporary",
+        "military-romance",
         "suspense"
       ],
-      "rating": 4.24,
-      "ratings": 4756,
-      "reviews": 398
+      "rating": 4.39,
+      "ratings": 5304,
+      "reviews": 404
     },
     {
-      "title": "The Difference Between Somebody and Someone",
-      "url": "https://www.goodreads.com/book/show/52283593-the-difference-between-somebody-and-someone",
-      "id": "73029494",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1642255977i/52283593.jpg",
+      "title": "First Strike",
+      "url": "https://www.goodreads.com/book/show/26114322-first-strike",
+      "id": "45844272",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1455121738i/26114322.jpg",
       "authors": [
-        "Aly Martinez"
-      ],
-      "genres": [
-        "romance",
-        "contemporary-romance",
-        "contemporary",
-        "suspense",
-        "romantic-suspense",
-        "new-adult",
-        "mystery"
-      ],
-      "rating": 4.32,
-      "ratings": 4756,
-      "reviews": 688
-    },
-    {
-      "title": "Hail No",
-      "url": "https://www.goodreads.com/book/show/35542838-hail-no",
-      "id": "56966117",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1498750827i/35542838.jpg",
-      "authors": [
-        "Lani Lynn Vale"
-      ],
-      "genres": [
-        "romance",
-        "contemporary",
-        "contemporary-romance",
-        "humor",
-        "suspense",
-        "audiobook",
-        "romantic-suspense"
-      ],
-      "rating": 4.16,
-      "ratings": 4754,
-      "reviews": 331
-    },
-    {
-      "title": "Fixed Forever",
-      "url": "https://www.goodreads.com/book/show/36042937-fixed-forever",
-      "id": "57616373",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1503495510i/36042937.jpg",
-      "authors": [
-        "Laurelin Paige"
-      ],
-      "genres": [
-        "romance",
-        "contemporary-romance",
-        "contemporary",
-        "erotica",
-        "erotic-romance",
-        "suspense",
-        "marriage"
-      ],
-      "rating": 4.3,
-      "ratings": 4752,
-      "reviews": 510
-    },
-    {
-      "title": "Madam Temptress",
-      "url": "https://www.goodreads.com/book/show/50033073-madam-temptress",
-      "id": "73576963",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1585581909i/50033073.jpg",
-      "authors": [
-        "Meghan March"
-      ],
-      "genres": [
-        "romance",
-        "contemporary-romance",
-        "audiobook",
-        "contemporary",
-        "romantic-suspense",
-        "suspense",
-        "adult"
-      ],
-      "rating": 4.25,
-      "ratings": 4742,
-      "reviews": 580
-    },
-    {
-      "title": "Power and Justice",
-      "url": "https://www.goodreads.com/book/show/44181441-power-and-justice",
-      "id": "68725409",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1551620671i/44181441.jpg",
-      "authors": [
-        "Peter O'Mahoney"
-      ],
-      "genres": [
-        "mystery",
-        "thriller",
-        "legal-thriller",
-        "fiction",
-        "suspense",
-        "crime"
-      ],
-      "rating": 4.2,
-      "ratings": 4740,
-      "reviews": 86
-    },
-    {
-      "title": "Secret Service",
-      "url": "https://www.goodreads.com/book/show/61263260-secret-service",
-      "id": "96593774",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1654891080i/61263260.jpg",
-      "authors": [
-        "Tal Bauer"
-      ],
-      "genres": [
-        "m-m-romance",
-        "romance",
-        "lgbt",
-        "contemporary",
-        "suspense",
-        "romantic-suspense",
-        "mystery"
-      ],
-      "rating": 4.42,
-      "ratings": 4738,
-      "reviews": 692
-    },
-    {
-      "title": "Copycat",
-      "url": "https://www.goodreads.com/book/show/418621.Copycat",
-      "id": "407768",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1407962589i/418621.jpg",
-      "authors": [
-        "Erica Spindler"
-      ],
-      "genres": [
-        "mystery",
-        "thriller",
-        "crime",
-        "fiction",
-        "suspense",
-        "mystery-thriller",
-        "romantic-suspense"
-      ],
-      "rating": 4.09,
-      "ratings": 4737,
-      "reviews": 289
-    },
-    {
-      "title": "The Intruder",
-      "url": "https://www.goodreads.com/book/show/62121154-the-intruder",
-      "id": "97877301",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1663459006i/62121154.jpg",
-      "authors": [
-        "Daniel Hurst"
+        "Ben Coes"
       ],
       "genres": [
         "thriller",
-        "mystery-thriller",
-        "mystery",
         "fiction",
-        "audiobook",
+        "action",
         "suspense",
-        "crime"
-      ],
-      "rating": 4.03,
-      "ratings": 4734,
-      "reviews": 322
-    },
-    {
-      "title": "Wicked Lies",
-      "url": "https://www.goodreads.com/book/show/9866520-wicked-lies",
-      "id": "14050904",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388625991i/9866520.jpg",
-      "authors": [
-        "Lisa Jackson"
-      ],
-      "genres": [
-        "mystery",
-        "romantic-suspense",
-        "suspense",
-        "thriller",
-        "fiction",
-        "romance",
-        "paranormal"
-      ],
-      "rating": 4.05,
-      "ratings": 4734,
-      "reviews": 287
-    },
-    {
-      "title": "Deadly Gift",
-      "url": "https://www.goodreads.com/book/show/3856277-deadly-gift",
-      "id": "3901380",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388196080i/3856277.jpg",
-      "authors": [
-        "Heather Graham"
-      ],
-      "genres": [
-        "paranormal",
-        "mystery",
-        "romance",
-        "paranormal-romance",
-        "romantic-suspense",
-        "suspense",
-        "thriller"
-      ],
-      "rating": 4.03,
-      "ratings": 4733,
-      "reviews": 237
-    },
-    {
-      "title": "The Informant",
-      "url": "https://www.goodreads.com/book/show/9309985-the-informant",
-      "id": "14193012",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1349004476i/9309985.jpg",
-      "authors": [
-        "Thomas Perry"
-      ],
-      "genres": [
-        "thriller",
-        "mystery",
-        "fiction",
-        "crime",
-        "mystery-thriller",
-        "suspense",
+        "espionage",
+        "terrorism",
         "audiobook"
       ],
-      "rating": 4.29,
-      "ratings": 4730,
-      "reviews": 362
+      "rating": 4.43,
+      "ratings": 5300,
+      "reviews": 353
     },
     {
-      "title": "The Lonely Silver Rain",
-      "url": "https://www.goodreads.com/book/show/761817.The_Lonely_Silver_Rain",
-      "id": "557702",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1324202163i/761817.jpg",
+      "title": "Outlaw's Promise",
+      "url": "https://www.goodreads.com/book/show/32725923-outlaw-s-promise",
+      "id": "53268852",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1477163917i/32725923.jpg",
       "authors": [
-        "John D. MacDonald"
+        "Helena Newbury"
       ],
       "genres": [
-        "mystery",
-        "fiction",
-        "crime",
-        "detective",
-        "thriller",
-        "mystery-thriller",
+        "romance",
+        "contemporary",
+        "contemporary-romance",
+        "suspense",
+        "dark",
+        "new-adult",
+        "adult"
+      ],
+      "rating": 4.28,
+      "ratings": 5299,
+      "reviews": 420
+    },
+    {
+      "title": "Vicious Hearts",
+      "url": "https://www.goodreads.com/book/show/124946413-vicious-hearts",
+      "id": "144450144",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1681489806i/124946413.jpg",
+      "authors": [
+        "Jagger Cole"
+      ],
+      "genres": [
+        "dark",
+        "romance",
+        "bdsm",
+        "erotica",
+        "contemporary-romance",
+        "suspense",
+        "contemporary"
+      ],
+      "rating": 4.03,
+      "ratings": 5299,
+      "reviews": 587
+    },
+    {
+      "title": "The Bodyguard",
+      "url": "https://www.goodreads.com/book/show/57865432-the-bodyguard",
+      "id": "90341861",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1619478132i/57865432.jpg",
+      "authors": [
+        "Anna Hackett"
+      ],
+      "genres": [
+        "romance",
+        "romantic-suspense",
+        "contemporary-romance",
+        "contemporary",
+        "military-fiction",
+        "military-romance",
         "suspense"
       ],
-      "rating": 4.25,
-      "ratings": 4730,
-      "reviews": 257
+      "rating": 4.4,
+      "ratings": 5297,
+      "reviews": 216
     },
     {
-      "title": "An Unexpected Distraction",
-      "url": "https://www.goodreads.com/book/show/57866420-an-unexpected-distraction",
-      "id": "90655958",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1619485499i/57866420.jpg",
+      "title": "Night Shield",
+      "url": "https://www.goodreads.com/book/show/682162.Night_Shield",
+      "id": "698982",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388532485i/682162.jpg",
       "authors": [
-        "Catherine Bybee"
+        "Nora Roberts"
       ],
       "genres": [
         "romance",
         "romantic-suspense",
-        "audiobook",
-        "suspense",
+        "contemporary-romance",
         "contemporary",
         "fiction",
-        "contemporary-romance"
+        "mystery",
+        "suspense"
       ],
-      "rating": 4.52,
-      "ratings": 4724,
-      "reviews": 287
+      "rating": 4.11,
+      "ratings": 5288,
+      "reviews": 151
     },
     {
-      "title": "Pearl Cove",
-      "url": "https://www.goodreads.com/book/show/124853.Pearl_Cove",
-      "id": "517984",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1287070155i/124853.jpg",
+      "title": "The Exception",
+      "url": "https://www.goodreads.com/book/show/62326828-the-exception",
+      "id": "42219435",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1662562385i/62326828.jpg",
       "authors": [
-        "Elizabeth Lowell"
+        "Adriana Locke"
       ],
       "genres": [
         "romance",
-        "romantic-suspense",
-        "mystery",
-        "suspense",
+        "contemporary-romance",
         "contemporary",
-        "fiction",
-        "contemporary-romance"
-      ],
-      "rating": 4.09,
-      "ratings": 4723,
-      "reviews": 112
-    },
-    {
-      "title": "Ghosts of War",
-      "url": "https://www.goodreads.com/book/show/27774705-ghosts-of-war",
-      "id": "47750790",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1453060274i/27774705.jpg",
-      "authors": [
-        "Brad Taylor"
-      ],
-      "genres": [
-        "thriller",
-        "fiction",
-        "espionage",
+        "new-adult",
+        "adult",
         "suspense",
-        "action",
-        "military-fiction",
-        "adventure"
+        "erotica"
       ],
-      "rating": 4.35,
-      "ratings": 4722,
-      "reviews": 258
-    },
-    {
-      "title": "Reap The Wind",
-      "url": "https://www.goodreads.com/book/show/272256.Reap_The_Wind",
-      "id": "263966",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1314903250i/272256.jpg",
-      "authors": [
-        "Iris Johansen"
-      ],
-      "genres": [
-        "romance",
-        "mystery",
-        "thriller",
-        "fiction",
-        "romantic-suspense",
-        "suspense",
-        "mystery-thriller"
-      ],
-      "rating": 4.02,
-      "ratings": 4721,
-      "reviews": 118
+      "rating": 4.05,
+      "ratings": 5283,
+      "reviews": 501
     }
   ]
 }

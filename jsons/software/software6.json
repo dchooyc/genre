@@ -1,27 +1,6 @@
 {
   "books": [
     {
-      "title": "Kotlin in Action",
-      "url": "https://www.goodreads.com/book/show/29242249-kotlin-in-action",
-      "id": "49486079",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1508987882i/29242249.jpg",
-      "authors": [
-        "Dmitry Jemerov"
-      ],
-      "genres": [
-        "programming",
-        "technology",
-        "computer-science",
-        "technical",
-        "software",
-        "non-fiction",
-        "reference"
-      ],
-      "rating": 4.41,
-      "ratings": 566,
-      "reviews": 62
-    },
-    {
       "title": "Design Systems: A practical guide to creating design languages for digital products",
       "url": "https://www.goodreads.com/book/show/35857970-design-systems",
       "id": "57377068",
@@ -38,9 +17,51 @@
         "programming",
         "software"
       ],
-      "rating": 4.15,
-      "ratings": 558,
-      "reviews": 43
+      "rating": 4.14,
+      "ratings": 560,
+      "reviews": 44
+    },
+    {
+      "title": "The Scrum Fieldbook: A Master Class on Accelerating Performance, Getting Results, and Defining the Future",
+      "url": "https://www.goodreads.com/book/show/43582738-the-scrum-fieldbook",
+      "id": "67806678",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1562009768i/43582738.jpg",
+      "authors": [
+        "J.J.  Sutherland"
+      ],
+      "genres": [
+        "business",
+        "non-fiction",
+        "leadership",
+        "management",
+        "productivity",
+        "software",
+        "programming"
+      ],
+      "rating": 4.02,
+      "ratings": 552,
+      "reviews": 52
+    },
+    {
+      "title": "Clojure for the Brave and True",
+      "url": "https://www.goodreads.com/book/show/20873338-clojure-for-the-brave-and-true",
+      "id": "40212034",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1432497082i/20873338.jpg",
+      "authors": [
+        "Daniel Higginbotham"
+      ],
+      "genres": [
+        "programming",
+        "computer-science",
+        "technology",
+        "non-fiction",
+        "software",
+        "technical",
+        "computers"
+      ],
+      "rating": 4.28,
+      "ratings": 545,
+      "reviews": 67
     },
     {
       "title": "More Joel on Software: Further Thoughts on Diverse and Occasionally Related Matters That Will Prove of Interest to Software Developers, Designers, and ... or Ill Luck, Work with Them in Some Capacity",
@@ -64,46 +85,25 @@
       "reviews": 34
     },
     {
-      "title": "Clojure for the Brave and True",
-      "url": "https://www.goodreads.com/book/show/20873338-clojure-for-the-brave-and-true",
-      "id": "40212034",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1432497082i/20873338.jpg",
+      "title": "You Don't Know JS: ES6 & Beyond",
+      "url": "https://www.goodreads.com/book/show/22221111-you-don-t-know-js",
+      "id": "41559955",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1451243301i/22221111.jpg",
       "authors": [
-        "Daniel Higginbotham"
+        "Kyle Simpson"
       ],
       "genres": [
         "programming",
-        "computer-science",
         "technology",
-        "non-fiction",
-        "software",
+        "computer-science",
         "technical",
-        "computers"
-      ],
-      "rating": 4.28,
-      "ratings": 543,
-      "reviews": 66
-    },
-    {
-      "title": "The Scrum Fieldbook: A Master Class on Accelerating Performance, Getting Results, and Defining the Future",
-      "url": "https://www.goodreads.com/book/show/43582738-the-scrum-fieldbook",
-      "id": "67806678",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1562009768i/43582738.jpg",
-      "authors": [
-        "J.J.  Sutherland"
-      ],
-      "genres": [
-        "business",
         "non-fiction",
-        "leadership",
-        "management",
         "software",
-        "productivity",
-        "programming"
+        "coding"
       ],
-      "rating": 4.01,
-      "ratings": 537,
-      "reviews": 52
+      "rating": 4.41,
+      "ratings": 532,
+      "reviews": 19
     },
     {
       "title": "The Nature of Software Development",
@@ -122,9 +122,9 @@
         "business",
         "technical"
       ],
-      "rating": 4.1,
-      "ratings": 526,
-      "reviews": 79
+      "rating": 4.09,
+      "ratings": 530,
+      "reviews": 80
     },
     {
       "title": "Programming Rust: Fast, Safe Systems Development",
@@ -144,7 +144,7 @@
         "computers"
       ],
       "rating": 4.63,
-      "ratings": 503,
+      "ratings": 517,
       "reviews": 56
     },
     {
@@ -163,8 +163,8 @@
         "software",
         "technology"
       ],
-      "rating": 4.3,
-      "ratings": 502,
+      "rating": 4.31,
+      "ratings": 506,
       "reviews": 51
     },
     {
@@ -185,8 +185,29 @@
         "computers"
       ],
       "rating": 4.23,
-      "ratings": 501,
+      "ratings": 505,
       "reviews": 72
+    },
+    {
+      "title": "Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications",
+      "url": "https://www.goodreads.com/book/show/60715378-designing-machine-learning-systems",
+      "id": "95721327",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1653945265i/60715378.jpg",
+      "authors": [
+        "Chip Huyen"
+      ],
+      "genres": [
+        "artificial-intelligence",
+        "technology",
+        "programming",
+        "computer-science",
+        "technical",
+        "non-fiction",
+        "software"
+      ],
+      "rating": 4.52,
+      "ratings": 500,
+      "reviews": 54
     }
   ]
 }

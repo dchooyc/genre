@@ -1,6 +1,27 @@
 {
   "books": [
     {
+      "title": "Hatchet Island",
+      "url": "https://www.goodreads.com/book/show/58724854-hatchet-island",
+      "id": "92420772",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1647805643i/58724854.jpg",
+      "authors": [
+        "Paul Doiron"
+      ],
+      "genres": [
+        "mystery",
+        "fiction",
+        "suspense",
+        "mystery-thriller",
+        "thriller",
+        "crime",
+        "nature"
+      ],
+      "rating": 4.07,
+      "ratings": 4208,
+      "reviews": 457
+    },
+    {
       "title": "The Sparkling One",
       "url": "https://www.goodreads.com/book/show/658441.The_Sparkling_One",
       "id": "2421240",
@@ -20,48 +41,6 @@
       "rating": 4.14,
       "ratings": 4208,
       "reviews": 154
-    },
-    {
-      "title": "Stones for Ibarra",
-      "url": "https://www.goodreads.com/book/show/76986.Stones_for_Ibarra",
-      "id": "1634347",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1346008427i/76986.jpg",
-      "authors": [
-        "Harriet Doerr"
-      ],
-      "genres": [
-        "fiction",
-        "literary-fiction",
-        "literature",
-        "contemporary",
-        "adult-fiction",
-        "novels",
-        "travel"
-      ],
-      "rating": 4,
-      "ratings": 4208,
-      "reviews": 386
-    },
-    {
-      "title": "Ruins of Sea and Souls",
-      "url": "https://www.goodreads.com/book/show/63103521-ruins-of-sea-and-souls",
-      "id": "98988351",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1670860221i/63103521.jpg",
-      "authors": [
-        "Lisette Marshall"
-      ],
-      "genres": [
-        "fantasy",
-        "romance",
-        "fantasy-romance",
-        "fae",
-        "new-adult",
-        "magic",
-        "fiction"
-      ],
-      "rating": 4.31,
-      "ratings": 4207,
-      "reviews": 387
     },
     {
       "title": "Shattered Mirror",
@@ -85,25 +64,25 @@
       "reviews": 424
     },
     {
-      "title": "Resolution",
-      "url": "https://www.goodreads.com/book/show/57966066-resolution",
-      "id": "90108839",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1637950749i/57966066.jpg",
+      "title": "Ruins of Sea and Souls",
+      "url": "https://www.goodreads.com/book/show/63103521-ruins-of-sea-and-souls",
+      "id": "98988351",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1670860221i/63103521.jpg",
       "authors": [
-        "Adriana Locke"
+        "Lisette Marshall"
       ],
       "genres": [
+        "fantasy",
         "romance",
-        "contemporary-romance",
-        "contemporary",
-        "family",
-        "fiction",
-        "adult",
-        "new-adult"
+        "fantasy-romance",
+        "fae",
+        "new-adult",
+        "magic",
+        "fiction"
       ],
-      "rating": 4.48,
-      "ratings": 4206,
-      "reviews": 462
+      "rating": 4.31,
+      "ratings": 4207,
+      "reviews": 387
     },
     {
       "title": "The Two Mrs. Grenvilles",
@@ -148,27 +127,6 @@
       "reviews": 384
     },
     {
-      "title": "Stalked",
-      "url": "https://www.goodreads.com/book/show/13513663-stalked",
-      "id": "19068980",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1336571967i/13513663.jpg",
-      "authors": [
-        "Allison Brennan"
-      ],
-      "genres": [
-        "mystery",
-        "romantic-suspense",
-        "thriller",
-        "suspense",
-        "crime",
-        "romance",
-        "fiction"
-      ],
-      "rating": 4.2,
-      "ratings": 4206,
-      "reviews": 206
-    },
-    {
       "title": "Homeland",
       "url": "https://www.goodreads.com/book/show/71770.Homeland",
       "id": "1736914",
@@ -188,6 +146,48 @@
       "rating": 4.19,
       "ratings": 4206,
       "reviews": 208
+    },
+    {
+      "title": "Resolution",
+      "url": "https://www.goodreads.com/book/show/57966066-resolution",
+      "id": "90108839",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1637950749i/57966066.jpg",
+      "authors": [
+        "Adriana Locke"
+      ],
+      "genres": [
+        "romance",
+        "contemporary-romance",
+        "contemporary",
+        "family",
+        "fiction",
+        "adult",
+        "new-adult"
+      ],
+      "rating": 4.48,
+      "ratings": 4206,
+      "reviews": 462
+    },
+    {
+      "title": "Stalked",
+      "url": "https://www.goodreads.com/book/show/13513663-stalked",
+      "id": "19068980",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1336571967i/13513663.jpg",
+      "authors": [
+        "Allison Brennan"
+      ],
+      "genres": [
+        "mystery",
+        "romantic-suspense",
+        "thriller",
+        "suspense",
+        "crime",
+        "romance",
+        "fiction"
+      ],
+      "rating": 4.2,
+      "ratings": 4206,
+      "reviews": 206
     },
     {
       "title": "Scion of Cyador",
@@ -211,6 +211,26 @@
       "reviews": 75
     },
     {
+      "title": "Quantum Time",
+      "url": "https://www.goodreads.com/book/show/43165075-quantum-time",
+      "id": "66963146",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1544150385i/43165075.jpg",
+      "authors": [
+        "Douglas Phillips"
+      ],
+      "genres": [
+        "science-fiction",
+        "time-travel",
+        "fiction",
+        "thriller",
+        "space",
+        "science-fiction-fantasy"
+      ],
+      "rating": 4.28,
+      "ratings": 4205,
+      "reviews": 141
+    },
+    {
       "title": "Wizardology",
       "url": "https://www.goodreads.com/book/show/100394.Wizardology",
       "id": "96799",
@@ -232,26 +252,6 @@
       "reviews": 158
     },
     {
-      "title": "Quantum Time",
-      "url": "https://www.goodreads.com/book/show/43165075-quantum-time",
-      "id": "66963146",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1544150385i/43165075.jpg",
-      "authors": [
-        "Douglas Phillips"
-      ],
-      "genres": [
-        "science-fiction",
-        "time-travel",
-        "fiction",
-        "thriller",
-        "space",
-        "science-fiction-fantasy"
-      ],
-      "rating": 4.28,
-      "ratings": 4205,
-      "reviews": 141
-    },
-    {
       "title": "Odysseus Awakening",
       "url": "https://www.goodreads.com/book/show/35484277-odysseus-awakening",
       "id": "56881661",
@@ -271,6 +271,27 @@
       "rating": 4.32,
       "ratings": 4205,
       "reviews": 169
+    },
+    {
+      "title": "Christmas in Cedar Cove: An Anthology",
+      "url": "https://www.goodreads.com/book/show/8254968-christmas-in-cedar-cove",
+      "id": "13102721",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348810495i/8254968.jpg",
+      "authors": [
+        "Debbie Macomber"
+      ],
+      "genres": [
+        "christmas",
+        "romance",
+        "fiction",
+        "holiday",
+        "chick-lit",
+        "contemporary",
+        "contemporary-romance"
+      ],
+      "rating": 4.17,
+      "ratings": 4204,
+      "reviews": 226
     },
     {
       "title": "Buffalo Valley",
@@ -315,48 +336,6 @@
       "reviews": 350
     },
     {
-      "title": "Christmas in Cedar Cove: An Anthology",
-      "url": "https://www.goodreads.com/book/show/8254968-christmas-in-cedar-cove",
-      "id": "13102721",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348810495i/8254968.jpg",
-      "authors": [
-        "Debbie Macomber"
-      ],
-      "genres": [
-        "christmas",
-        "romance",
-        "fiction",
-        "holiday",
-        "chick-lit",
-        "contemporary",
-        "contemporary-romance"
-      ],
-      "rating": 4.17,
-      "ratings": 4204,
-      "reviews": 226
-    },
-    {
-      "title": "Lucifer, Vol. 5: Inferno",
-      "url": "https://www.goodreads.com/book/show/314573.Lucifer_Vol_5",
-      "id": "305411",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1309578687i/314573.jpg",
-      "authors": [
-        "Mike Carey"
-      ],
-      "genres": [
-        "comics",
-        "graphic-novels",
-        "fantasy",
-        "fiction",
-        "horror",
-        "graphic-novels-comics",
-        "comic-book"
-      ],
-      "rating": 4.23,
-      "ratings": 4203,
-      "reviews": 76
-    },
-    {
       "title": "The Book of the New Sun",
       "url": "https://www.goodreads.com/book/show/968868.The_Book_of_the_New_Sun",
       "id": "6965668",
@@ -376,6 +355,27 @@
       "rating": 4.22,
       "ratings": 4203,
       "reviews": 230
+    },
+    {
+      "title": "Transcendence",
+      "url": "https://www.goodreads.com/book/show/57176254-transcendence",
+      "id": "71064420",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1614026201i/57176254.jpg",
+      "authors": [
+        "TurtleMe"
+      ],
+      "genres": [
+        "fantasy",
+        "light-novel",
+        "fiction",
+        "magic",
+        "manga",
+        "adventure",
+        "manhwa"
+      ],
+      "rating": 4.44,
+      "ratings": 4203,
+      "reviews": 111
     },
     {
       "title": "Execution",
@@ -399,25 +399,25 @@
       "reviews": 397
     },
     {
-      "title": "Transcendence",
-      "url": "https://www.goodreads.com/book/show/57176254-transcendence",
-      "id": "71064420",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1614026201i/57176254.jpg",
+      "title": "Lucifer, Vol. 5: Inferno",
+      "url": "https://www.goodreads.com/book/show/314573.Lucifer_Vol_5",
+      "id": "305411",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1309578687i/314573.jpg",
       "authors": [
-        "TurtleMe"
+        "Mike Carey"
       ],
       "genres": [
+        "comics",
+        "graphic-novels",
         "fantasy",
-        "light-novel",
         "fiction",
-        "magic",
-        "manga",
-        "adventure",
-        "manhwa"
+        "horror",
+        "graphic-novels-comics",
+        "comic-book"
       ],
-      "rating": 4.44,
+      "rating": 4.23,
       "ratings": 4203,
-      "reviews": 111
+      "reviews": 76
     },
     {
       "title": "New Spring: The Graphic Novel",
@@ -462,27 +462,6 @@
       "reviews": 250
     },
     {
-      "title": "Executive Order",
-      "url": "https://www.goodreads.com/book/show/33288122-executive-order",
-      "id": "54016266",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1481161954i/33288122.jpg",
-      "authors": [
-        "Max Allan Collins"
-      ],
-      "genres": [
-        "thriller",
-        "fiction",
-        "mystery",
-        "politics",
-        "suspense",
-        "crime",
-        "mystery-thriller"
-      ],
-      "rating": 4.24,
-      "ratings": 4202,
-      "reviews": 176
-    },
-    {
       "title": "New Beginnings at Seaside Blooms",
       "url": "https://www.goodreads.com/book/show/50239867-new-beginnings-at-seaside-blooms",
       "id": "44071652",
@@ -502,6 +481,27 @@
       "rating": 4.22,
       "ratings": 4202,
       "reviews": 241
+    },
+    {
+      "title": "Gamer for Life",
+      "url": "https://www.goodreads.com/book/show/34419450-gamer-for-life",
+      "id": "55524073",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1488254873i/34419450.jpg",
+      "authors": [
+        "Daniel Schinhofen"
+      ],
+      "genres": [
+        "fantasy",
+        "harem",
+        "fiction",
+        "science-fiction",
+        "erotica",
+        "adult",
+        "magic"
+      ],
+      "rating": 4.1,
+      "ratings": 4202,
+      "reviews": 222
     }
   ]
 }

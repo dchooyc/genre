@@ -1,22 +1,6 @@
 {
   "books": [
     {
-      "title": "The Old Ranger: A Texas Ranger Short Story",
-      "url": "https://www.goodreads.com/book/show/24806884-the-old-ranger",
-      "id": "44445748",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1422904081i/24806884.jpg",
-      "authors": [
-        "Donald L. Robertson"
-      ],
-      "genres": [
-        "westerns",
-        "short-stories"
-      ],
-      "rating": 4.08,
-      "ratings": 569,
-      "reviews": 41
-    },
-    {
       "title": "The Ranch",
       "url": "https://www.goodreads.com/book/show/60453564-the-ranch",
       "id": "95267051",
@@ -35,19 +19,23 @@
       "reviews": 51
     },
     {
-      "title": "White Mist Dog: Saga of the Mountain Sage, Book Two: A Classic Historical Western Series",
-      "url": "https://www.goodreads.com/book/show/141222654-white-mist-dog",
-      "id": "157032493",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1682957733i/141222654.jpg",
+      "title": "Kari",
+      "url": "https://www.goodreads.com/book/show/49991354-kari",
+      "id": "72586494",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1567474686l/49991354.jpg",
       "authors": [
-        "W. Michael Gear"
+        "Miriam Minger"
       ],
       "genres": [
-        "westerns"
+        "historical-romance",
+        "historical",
+        "romance",
+        "westerns",
+        "western-historical-romance"
       ],
-      "rating": 4.59,
+      "rating": 4.34,
       "ratings": 569,
-      "reviews": 21
+      "reviews": 53
     },
     {
       "title": "An Ivy Tangles",
@@ -69,23 +57,35 @@
       "reviews": 54
     },
     {
-      "title": "Kari",
-      "url": "https://www.goodreads.com/book/show/49991354-kari",
-      "id": "72586494",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1567474686l/49991354.jpg",
+      "title": "The Old Ranger: A Texas Ranger Short Story",
+      "url": "https://www.goodreads.com/book/show/24806884-the-old-ranger",
+      "id": "44445748",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1422904081i/24806884.jpg",
       "authors": [
-        "Miriam Minger"
+        "Donald L. Robertson"
       ],
       "genres": [
-        "historical-romance",
-        "historical",
-        "romance",
         "westerns",
-        "western-historical-romance"
+        "short-stories"
       ],
-      "rating": 4.34,
+      "rating": 4.08,
       "ratings": 569,
-      "reviews": 53
+      "reviews": 41
+    },
+    {
+      "title": "White Mist Dog: Saga of the Mountain Sage, Book Two: A Classic Historical Western Series",
+      "url": "https://www.goodreads.com/book/show/141222654-white-mist-dog",
+      "id": "157032493",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1682957733i/141222654.jpg",
+      "authors": [
+        "W. Michael Gear"
+      ],
+      "genres": [
+        "westerns"
+      ],
+      "rating": 4.59,
+      "ratings": 569,
+      "reviews": 21
     },
     {
       "title": "Sweetness",
@@ -182,27 +182,6 @@
       "reviews": 21
     },
     {
-      "title": "The Sixth Gun, Vol. 7: Not the Bullet, But the Fall",
-      "url": "https://www.goodreads.com/book/show/22129497-the-sixth-gun-vol-7",
-      "id": "41475875",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1400841278i/22129497.jpg",
-      "authors": [
-        "Cullen Bunn"
-      ],
-      "genres": [
-        "comics",
-        "graphic-novels",
-        "westerns",
-        "fantasy",
-        "horror",
-        "graphic-novels-comics",
-        "fiction"
-      ],
-      "rating": 4.15,
-      "ratings": 565,
-      "reviews": 50
-    },
-    {
       "title": "It Had To Be You",
       "url": "https://www.goodreads.com/book/show/44786821-it-had-to-be-you",
       "id": "306811",
@@ -222,6 +201,27 @@
       "rating": 4.28,
       "ratings": 565,
       "reviews": 30
+    },
+    {
+      "title": "The Sixth Gun, Vol. 7: Not the Bullet, But the Fall",
+      "url": "https://www.goodreads.com/book/show/22129497-the-sixth-gun-vol-7",
+      "id": "41475875",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1400841278i/22129497.jpg",
+      "authors": [
+        "Cullen Bunn"
+      ],
+      "genres": [
+        "comics",
+        "graphic-novels",
+        "westerns",
+        "fantasy",
+        "horror",
+        "graphic-novels-comics",
+        "fiction"
+      ],
+      "rating": 4.15,
+      "ratings": 565,
+      "reviews": 50
     },
     {
       "title": "The Cowboy Who Saved Christmas",
@@ -385,23 +385,6 @@
       "reviews": 359
     },
     {
-      "title": "Blood Ward",
-      "url": "https://www.goodreads.com/book/show/56130478-blood-ward",
-      "id": "87425671",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1606845825i/56130478.jpg",
-      "authors": [
-        "Glynn Stewart"
-      ],
-      "genres": [
-        "fantasy",
-        "westerns",
-        "weird-west"
-      ],
-      "rating": 4.35,
-      "ratings": 559,
-      "reviews": 23
-    },
-    {
       "title": "A Cowboy's Temptation",
       "url": "https://www.goodreads.com/book/show/33217155-a-cowboy-s-temptation",
       "id": "53919680",
@@ -420,6 +403,23 @@
       "rating": 4.24,
       "ratings": 559,
       "reviews": 42
+    },
+    {
+      "title": "Blood Ward",
+      "url": "https://www.goodreads.com/book/show/56130478-blood-ward",
+      "id": "87425671",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1606845825i/56130478.jpg",
+      "authors": [
+        "Glynn Stewart"
+      ],
+      "genres": [
+        "fantasy",
+        "westerns",
+        "weird-west"
+      ],
+      "rating": 4.35,
+      "ratings": 559,
+      "reviews": 23
     },
     {
       "title": "Texas Cowboy",

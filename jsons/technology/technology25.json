@@ -1,27 +1,6 @@
 {
   "books": [
     {
-      "title": "Kotlin in Action",
-      "url": "https://www.goodreads.com/book/show/29242249-kotlin-in-action",
-      "id": "49486079",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1508987882i/29242249.jpg",
-      "authors": [
-        "Dmitry Jemerov"
-      ],
-      "genres": [
-        "programming",
-        "technology",
-        "computer-science",
-        "technical",
-        "software",
-        "non-fiction",
-        "reference"
-      ],
-      "rating": 4.41,
-      "ratings": 568,
-      "reviews": 62
-    },
-    {
       "title": "Volt Rush: The Winners and Losers in the Race to Go Green",
       "url": "https://www.goodreads.com/book/show/60137558-volt-rush",
       "id": "94840045",
@@ -41,6 +20,27 @@
       "rating": 4.11,
       "ratings": 568,
       "reviews": 56
+    },
+    {
+      "title": "Kotlin in Action",
+      "url": "https://www.goodreads.com/book/show/29242249-kotlin-in-action",
+      "id": "49486079",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1508987882i/29242249.jpg",
+      "authors": [
+        "Dmitry Jemerov"
+      ],
+      "genres": [
+        "programming",
+        "technology",
+        "computer-science",
+        "technical",
+        "software",
+        "non-fiction",
+        "reference"
+      ],
+      "rating": 4.41,
+      "ratings": 568,
+      "reviews": 62
     },
     {
       "title": "Ruby on Rails Tutorial: Learn Web Development with Rails",
@@ -271,24 +271,6 @@
       "reviews": 58
     },
     {
-      "title": "3 Months to No.1: The 2024 \"No-Nonsense\" SEO Playbook for Getting Your Website Found on Google",
-      "url": "https://www.goodreads.com/book/show/36254474-3-months-to-no-1",
-      "id": "57904213",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1505641420i/36254474.jpg",
-      "authors": [
-        "Will Coombe"
-      ],
-      "genres": [
-        "business",
-        "non-fiction",
-        "technology",
-        "writing"
-      ],
-      "rating": 4.52,
-      "ratings": 551,
-      "reviews": 88
-    },
-    {
       "title": "The Internet of Garbage",
       "url": "https://www.goodreads.com/book/show/25910719-the-internet-of-garbage",
       "id": "45797432",
@@ -310,25 +292,22 @@
       "reviews": 74
     },
     {
-      "title": "Black Hat Python: Python Programming for Hackers and Pentesters",
-      "url": "https://www.goodreads.com/book/show/22299369-black-hat-python",
-      "id": "41687198",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1418765234i/22299369.jpg",
+      "title": "3 Months to No.1: The 2024 \"No-Nonsense\" SEO Playbook for Getting Your Website Found on Google",
+      "url": "https://www.goodreads.com/book/show/36254474-3-months-to-no-1",
+      "id": "57904213",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1505641420i/36254474.jpg",
       "authors": [
-        "Justin Seitz"
+        "Will Coombe"
       ],
       "genres": [
-        "hackers",
-        "programming",
-        "technology",
-        "computer-science",
+        "business",
         "non-fiction",
-        "technical",
-        "reference"
+        "technology",
+        "writing"
       ],
-      "rating": 4.08,
-      "ratings": 546,
-      "reviews": 26
+      "rating": 4.52,
+      "ratings": 551,
+      "reviews": 88
     },
     {
       "title": "The Invisible Rainbow: A History of Electricity and Life",
@@ -350,6 +329,27 @@
       "rating": 4.52,
       "ratings": 546,
       "reviews": 115
+    },
+    {
+      "title": "Black Hat Python: Python Programming for Hackers and Pentesters",
+      "url": "https://www.goodreads.com/book/show/22299369-black-hat-python",
+      "id": "41687198",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1418765234i/22299369.jpg",
+      "authors": [
+        "Justin Seitz"
+      ],
+      "genres": [
+        "hackers",
+        "programming",
+        "technology",
+        "computer-science",
+        "non-fiction",
+        "technical",
+        "reference"
+      ],
+      "rating": 4.08,
+      "ratings": 546,
+      "reviews": 26
     },
     {
       "title": "Clojure for the Brave and True",

@@ -1,6 +1,27 @@
 {
   "books": [
     {
+      "title": "Mosaic",
+      "url": "https://www.goodreads.com/book/show/30126159-mosaic",
+      "id": "50536822",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1465911351i/30126159.jpg",
+      "authors": [
+        "Sarah Fine"
+      ],
+      "genres": [
+        "fantasy",
+        "romance",
+        "urban-fantasy",
+        "paranormal",
+        "fiction",
+        "magic",
+        "paranormal-romance"
+      ],
+      "rating": 4.02,
+      "ratings": 1287,
+      "reviews": 168
+    },
+    {
       "title": "Guardian of Earth",
       "url": "https://www.goodreads.com/book/show/199274241-guardian-of-earth",
       "id": "144639027",
@@ -20,27 +41,6 @@
       "rating": 4.26,
       "ratings": 1287,
       "reviews": 92
-    },
-    {
-      "title": "Bite Me",
-      "url": "https://www.goodreads.com/book/show/40164565-bite-me",
-      "id": "62305100",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1526641495i/40164565.jpg",
-      "authors": [
-        "Aidy Award"
-      ],
-      "genres": [
-        "romance",
-        "dragons",
-        "paranormal",
-        "shapeshifters",
-        "fantasy",
-        "paranormal-romance",
-        "magic"
-      ],
-      "rating": 4.23,
-      "ratings": 1287,
-      "reviews": 115
     },
     {
       "title": "Rise of the Weakest Summoner: Volume II",
@@ -64,27 +64,6 @@
       "reviews": 48
     },
     {
-      "title": "Shadow",
-      "url": "https://www.goodreads.com/book/show/50396157-shadow",
-      "id": "75354910",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1614213283i/50396157.jpg",
-      "authors": [
-        "Kara Swanson"
-      ],
-      "genres": [
-        "fantasy",
-        "young-adult",
-        "retellings",
-        "romance",
-        "fiction",
-        "christian-fiction",
-        "magic"
-      ],
-      "rating": 4.26,
-      "ratings": 1284,
-      "reviews": 407
-    },
-    {
       "title": "Leyenda de fuego y plomo",
       "url": "https://www.goodreads.com/book/show/32057310-leyenda-de-fuego-y-plomo",
       "id": "52699129",
@@ -103,27 +82,6 @@
       "rating": 4.6,
       "ratings": 1284,
       "reviews": 422
-    },
-    {
-      "title": "Ashbrock Curse",
-      "url": "https://www.goodreads.com/book/show/59435639-ashbrock-curse",
-      "id": "93620154",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1634995351i/59435639.jpg",
-      "authors": [
-        "T.S. Joyce"
-      ],
-      "genres": [
-        "shapeshifters",
-        "paranormal",
-        "romance",
-        "paranormal-romance",
-        "magic",
-        "adult",
-        "novella"
-      ],
-      "rating": 4.34,
-      "ratings": 1284,
-      "reviews": 107
     },
     {
       "title": "Everyday Magic: Spells & Rituals for Modern Living",
@@ -147,21 +105,46 @@
       "reviews": 34
     },
     {
-      "title": "Wicked Whispers",
-      "url": "https://www.goodreads.com/book/show/57437428-wicked-whispers",
-      "id": "89928893",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1615947016i/57437428.jpg",
+      "title": "Shadow",
+      "url": "https://www.goodreads.com/book/show/50396157-shadow",
+      "id": "75354910",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1614213283i/50396157.jpg",
       "authors": [
-        "Lily Harper Hart"
+        "Kara Swanson"
       ],
       "genres": [
-        "paranormal",
-        "cozy-mystery",
+        "fantasy",
+        "young-adult",
+        "retellings",
+        "romance",
+        "fiction",
+        "christian-fiction",
         "magic"
       ],
-      "rating": 4.64,
-      "ratings": 1283,
-      "reviews": 75
+      "rating": 4.26,
+      "ratings": 1284,
+      "reviews": 407
+    },
+    {
+      "title": "Ashbrock Curse",
+      "url": "https://www.goodreads.com/book/show/59435639-ashbrock-curse",
+      "id": "93620154",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1634995351i/59435639.jpg",
+      "authors": [
+        "T.S. Joyce"
+      ],
+      "genres": [
+        "shapeshifters",
+        "paranormal",
+        "romance",
+        "paranormal-romance",
+        "magic",
+        "adult",
+        "novella"
+      ],
+      "rating": 4.34,
+      "ratings": 1284,
+      "reviews": 107
     },
     {
       "title": "Darkness Rising",
@@ -178,6 +161,23 @@
         "adventure"
       ],
       "rating": 4.18,
+      "ratings": 1283,
+      "reviews": 75
+    },
+    {
+      "title": "Wicked Whispers",
+      "url": "https://www.goodreads.com/book/show/57437428-wicked-whispers",
+      "id": "89928893",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1615947016i/57437428.jpg",
+      "authors": [
+        "Lily Harper Hart"
+      ],
+      "genres": [
+        "paranormal",
+        "cozy-mystery",
+        "magic"
+      ],
+      "rating": 4.64,
       "ratings": 1283,
       "reviews": 75
     },
@@ -265,6 +265,27 @@
       "reviews": 77
     },
     {
+      "title": "Solo Leveling, Vol. 7",
+      "url": "https://www.goodreads.com/book/show/63102690-solo-leveling-vol-7",
+      "id": "98741935",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1679853340i/63102690.jpg",
+      "authors": [
+        "Chugong"
+      ],
+      "genres": [
+        "fantasy",
+        "light-novel",
+        "manga",
+        "urban-fantasy",
+        "magic",
+        "action",
+        "adventure"
+      ],
+      "rating": 4.47,
+      "ratings": 1277,
+      "reviews": 55
+    },
+    {
       "title": "Rumpel's Prize",
       "url": "https://www.goodreads.com/book/show/20805859-rumpel-s-prize",
       "id": "40150517",
@@ -307,47 +328,6 @@
       "reviews": 116
     },
     {
-      "title": "Solo Leveling, Vol. 7",
-      "url": "https://www.goodreads.com/book/show/63102690-solo-leveling-vol-7",
-      "id": "98741935",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1679853340i/63102690.jpg",
-      "authors": [
-        "Chugong"
-      ],
-      "genres": [
-        "fantasy",
-        "light-novel",
-        "manga",
-        "urban-fantasy",
-        "magic",
-        "action",
-        "adventure"
-      ],
-      "rating": 4.47,
-      "ratings": 1277,
-      "reviews": 55
-    },
-    {
-      "title": "The Book of Levi",
-      "url": "https://www.goodreads.com/book/show/61403703-the-book-of-levi",
-      "id": "96877504",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1657149762i/61403703.jpg",
-      "authors": [
-        "John Conroe"
-      ],
-      "genres": [
-        "fantasy",
-        "urban-fantasy",
-        "paranormal",
-        "supernatural",
-        "vampires",
-        "magic"
-      ],
-      "rating": 4.6,
-      "ratings": 1276,
-      "reviews": 85
-    },
-    {
       "title": "How to Summon a Boyfriend",
       "url": "https://www.goodreads.com/book/show/61052382-how-to-summon-a-boyfriend",
       "id": "96216692",
@@ -367,27 +347,6 @@
       "rating": 4.05,
       "ratings": 1276,
       "reviews": 112
-    },
-    {
-      "title": "Mage Shifter",
-      "url": "https://www.goodreads.com/book/show/45696788-mage-shifter",
-      "id": "70464436",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1557415150i/45696788.jpg",
-      "authors": [
-        "Lucia Ashta"
-      ],
-      "genres": [
-        "paranormal",
-        "fantasy",
-        "magic",
-        "paranormal-romance",
-        "romance",
-        "shapeshifters",
-        "fae"
-      ],
-      "rating": 4.32,
-      "ratings": 1276,
-      "reviews": 96
     },
     {
       "title": "Champagne, Misfits, and Other Shady Magic",
@@ -431,6 +390,47 @@
       "reviews": 38
     },
     {
+      "title": "The Book of Levi",
+      "url": "https://www.goodreads.com/book/show/61403703-the-book-of-levi",
+      "id": "96877504",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1657149762i/61403703.jpg",
+      "authors": [
+        "John Conroe"
+      ],
+      "genres": [
+        "fantasy",
+        "urban-fantasy",
+        "paranormal",
+        "supernatural",
+        "vampires",
+        "magic"
+      ],
+      "rating": 4.6,
+      "ratings": 1276,
+      "reviews": 85
+    },
+    {
+      "title": "Mage Shifter",
+      "url": "https://www.goodreads.com/book/show/45696788-mage-shifter",
+      "id": "70464436",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1557415150i/45696788.jpg",
+      "authors": [
+        "Lucia Ashta"
+      ],
+      "genres": [
+        "paranormal",
+        "fantasy",
+        "magic",
+        "paranormal-romance",
+        "romance",
+        "shapeshifters",
+        "fae"
+      ],
+      "rating": 4.32,
+      "ratings": 1276,
+      "reviews": 96
+    },
+    {
       "title": "The Dreamer's Curse",
       "url": "https://www.goodreads.com/book/show/51061382-the-dreamer-s-curse",
       "id": "41426503",
@@ -452,27 +452,6 @@
       "reviews": 43
     },
     {
-      "title": "Ropuszki",
-      "url": "https://www.goodreads.com/book/show/26367538-ropuszki",
-      "id": "46369965",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442002196i/26367538.jpg",
-      "authors": [
-        "Aneta Jadowska"
-      ],
-      "genres": [
-        "fantasy",
-        "urban-fantasy",
-        "audiobook",
-        "polish-literature",
-        "stories",
-        "magic",
-        "short-story-collection"
-      ],
-      "rating": 4.04,
-      "ratings": 1273,
-      "reviews": 162
-    },
-    {
       "title": "Bad Witch",
       "url": "https://www.goodreads.com/book/show/57821086-bad-witch",
       "id": "85596715",
@@ -492,6 +471,27 @@
       "rating": 4.31,
       "ratings": 1273,
       "reviews": 70
+    },
+    {
+      "title": "God of Broken Things",
+      "url": "https://www.goodreads.com/book/show/41861132-god-of-broken-things",
+      "id": "65350343",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1544239618i/41861132.jpg",
+      "authors": [
+        "Cameron Johnston"
+      ],
+      "genres": [
+        "fantasy",
+        "epic-fantasy",
+        "high-fantasy",
+        "fiction",
+        "adult",
+        "dark-fantasy",
+        "magic"
+      ],
+      "rating": 4.26,
+      "ratings": 1273,
+      "reviews": 137
     }
   ]
 }

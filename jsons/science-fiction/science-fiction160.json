@@ -1,25 +1,25 @@
 {
   "books": [
     {
-      "title": "The Neil Gaiman Reader: Selected Fiction",
-      "url": "https://www.goodreads.com/book/show/50358085-the-neil-gaiman-reader",
-      "id": "75306774",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1606505460i/50358085.jpg",
+      "title": "Zoey Is Too Drunk for This Dystopia",
+      "url": "https://www.goodreads.com/book/show/65213633-zoey-is-too-drunk-for-this-dystopia",
+      "id": "100097058",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1673871257i/65213633.jpg",
       "authors": [
-        "Neil Gaiman"
+        "Jason Pargin"
       ],
       "genres": [
-        "fantasy",
-        "fiction",
-        "short-stories",
-        "horror",
         "science-fiction",
-        "anthologies",
-        "audiobook"
+        "fiction",
+        "fantasy",
+        "dystopia",
+        "audiobook",
+        "humor",
+        "cyberpunk"
       ],
-      "rating": 4.48,
+      "rating": 4.32,
       "ratings": 1837,
-      "reviews": 262
+      "reviews": 271
     },
     {
       "title": "Desperate Fire",
@@ -85,6 +85,27 @@
       "reviews": 144
     },
     {
+      "title": "Invincible, Vol. 17: What's Happening",
+      "url": "https://www.goodreads.com/book/show/16094382-invincible-vol-17",
+      "id": "21901088",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1367767345i/16094382.jpg",
+      "authors": [
+        "Robert Kirkman"
+      ],
+      "genres": [
+        "comics",
+        "graphic-novels",
+        "superheroes",
+        "graphic-novels-comics",
+        "comic-book",
+        "fiction",
+        "science-fiction"
+      ],
+      "rating": 4.13,
+      "ratings": 1833,
+      "reviews": 106
+    },
+    {
       "title": "The Servants of the Storm",
       "url": "https://www.goodreads.com/book/show/28179851-the-servants-of-the-storm",
       "id": "48199655",
@@ -125,27 +146,6 @@
       "rating": 4.23,
       "ratings": 1833,
       "reviews": 154
-    },
-    {
-      "title": "Invincible, Vol. 17: What's Happening",
-      "url": "https://www.goodreads.com/book/show/16094382-invincible-vol-17",
-      "id": "21901088",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1367767345i/16094382.jpg",
-      "authors": [
-        "Robert Kirkman"
-      ],
-      "genres": [
-        "comics",
-        "graphic-novels",
-        "superheroes",
-        "graphic-novels-comics",
-        "comic-book",
-        "fiction",
-        "science-fiction"
-      ],
-      "rating": 4.13,
-      "ratings": 1833,
-      "reviews": 106
     },
     {
       "title": "The Department of Truth, Vol 2: The City Upon a Hill",
@@ -190,48 +190,6 @@
       "reviews": 130
     },
     {
-      "title": "20th Century Boys, 19",
-      "url": "https://www.goodreads.com/book/show/3183874-20th-century-boys-19",
-      "id": "3216734",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1207817701i/3183874.jpg",
-      "authors": [
-        "Naoki Urasawa"
-      ],
-      "genres": [
-        "manga",
-        "comics",
-        "science-fiction",
-        "mystery",
-        "graphic-novels",
-        "seinen",
-        "fiction"
-      ],
-      "rating": 4.38,
-      "ratings": 1830,
-      "reviews": 54
-    },
-    {
-      "title": "Rising: After the Thaw",
-      "url": "https://www.goodreads.com/book/show/48895502-rising",
-      "id": "74288393",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1574198455i/48895502.jpg",
-      "authors": [
-        "Tamar Sloan"
-      ],
-      "genres": [
-        "dystopia",
-        "young-adult",
-        "fantasy",
-        "science-fiction",
-        "romance",
-        "post-apocalyptic",
-        "fiction"
-      ],
-      "rating": 4.03,
-      "ratings": 1830,
-      "reviews": 155
-    },
-    {
       "title": "Between Burning Worlds",
       "url": "https://www.goodreads.com/book/show/51337956-between-burning-worlds",
       "id": "57881035",
@@ -272,6 +230,48 @@
       "rating": 4.27,
       "ratings": 1830,
       "reviews": 184
+    },
+    {
+      "title": "20th Century Boys, 19",
+      "url": "https://www.goodreads.com/book/show/3183874-20th-century-boys-19",
+      "id": "3216734",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1207817701i/3183874.jpg",
+      "authors": [
+        "Naoki Urasawa"
+      ],
+      "genres": [
+        "manga",
+        "comics",
+        "science-fiction",
+        "mystery",
+        "graphic-novels",
+        "seinen",
+        "fiction"
+      ],
+      "rating": 4.38,
+      "ratings": 1830,
+      "reviews": 54
+    },
+    {
+      "title": "Rising: After the Thaw",
+      "url": "https://www.goodreads.com/book/show/48895502-rising",
+      "id": "74288393",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1574198455i/48895502.jpg",
+      "authors": [
+        "Tamar Sloan"
+      ],
+      "genres": [
+        "dystopia",
+        "young-adult",
+        "fantasy",
+        "science-fiction",
+        "romance",
+        "post-apocalyptic",
+        "fiction"
+      ],
+      "rating": 4.03,
+      "ratings": 1830,
+      "reviews": 155
     },
     {
       "title": "Stories of the Raksura, Volume 2: The Dead City & The Dark Earth Below",
@@ -373,27 +373,6 @@
       "reviews": 51
     },
     {
-      "title": "Castle in the Stars: The Space Race of 1869",
-      "url": "https://www.goodreads.com/book/show/33290524-castle-in-the-stars",
-      "id": "42848152",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1481208926i/33290524.jpg",
-      "authors": [
-        "Alex Alice"
-      ],
-      "genres": [
-        "graphic-novels",
-        "comics",
-        "bande-dessin%C3%A9e",
-        "steampunk",
-        "fantasy",
-        "science-fiction",
-        "middle-grade"
-      ],
-      "rating": 4.13,
-      "ratings": 1824,
-      "reviews": 284
-    },
-    {
       "title": "Gantz /9",
       "url": "https://www.goodreads.com/book/show/1201650.Gantz_9",
       "id": "10124712",
@@ -415,25 +394,25 @@
       "reviews": 56
     },
     {
-      "title": "20th Century Boys 18",
-      "url": "https://www.goodreads.com/book/show/1725516.20th_Century_Boys_18",
-      "id": "2260564",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1344501288i/1725516.jpg",
+      "title": "Castle in the Stars: The Space Race of 1869",
+      "url": "https://www.goodreads.com/book/show/33290524-castle-in-the-stars",
+      "id": "42848152",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1481208926i/33290524.jpg",
       "authors": [
-        "Naoki Urasawa"
+        "Alex Alice"
       ],
       "genres": [
-        "manga",
-        "comics",
-        "science-fiction",
-        "mystery",
         "graphic-novels",
-        "seinen",
-        "fiction"
+        "comics",
+        "bande-dessin%C3%A9e",
+        "steampunk",
+        "fantasy",
+        "science-fiction",
+        "middle-grade"
       ],
-      "rating": 4.4,
-      "ratings": 1823,
-      "reviews": 67
+      "rating": 4.13,
+      "ratings": 1824,
+      "reviews": 284
     },
     {
       "title": "Charon Docks at Daylight",
@@ -457,6 +436,27 @@
       "reviews": 303
     },
     {
+      "title": "20th Century Boys 18",
+      "url": "https://www.goodreads.com/book/show/1725516.20th_Century_Boys_18",
+      "id": "2260564",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1344501288i/1725516.jpg",
+      "authors": [
+        "Naoki Urasawa"
+      ],
+      "genres": [
+        "manga",
+        "comics",
+        "science-fiction",
+        "mystery",
+        "graphic-novels",
+        "seinen",
+        "fiction"
+      ],
+      "rating": 4.4,
+      "ratings": 1823,
+      "reviews": 67
+    },
+    {
       "title": "Deathstalker Return",
       "url": "https://www.goodreads.com/book/show/963623.Deathstalker_Return",
       "id": "2075452",
@@ -478,21 +478,25 @@
       "reviews": 14
     },
     {
-      "title": "An Uneasy Alliance",
-      "url": "https://www.goodreads.com/book/show/58131389-an-uneasy-alliance",
-      "id": "91114095",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1621806184i/58131389.jpg",
+      "title": "Song of the Space Siren",
+      "url": "https://www.goodreads.com/book/show/34328959-song-of-the-space-siren",
+      "id": "55393862",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1487357552i/34328959.jpg",
       "authors": [
-        "J.N. Chaney"
+        "Barry J. Hutchison"
       ],
       "genres": [
         "science-fiction",
-        "military-fiction",
-        "fiction"
+        "humor",
+        "fiction",
+        "audiobook",
+        "comedy",
+        "space-opera",
+        "aliens"
       ],
-      "rating": 4.38,
+      "rating": 4.42,
       "ratings": 1819,
-      "reviews": 59
+      "reviews": 114
     }
   ]
 }

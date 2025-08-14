@@ -1,6 +1,27 @@
 {
   "books": [
     {
+      "title": "Naoki Urasawa's Monster, Volume 8: My Nameless Hero",
+      "url": "https://www.goodreads.com/book/show/533011.Naoki_Urasawa_s_Monster_Volume_8",
+      "id": "864441",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348282585i/533011.jpg",
+      "authors": [
+        "Naoki Urasawa"
+      ],
+      "genres": [
+        "manga",
+        "comics",
+        "thriller",
+        "mystery",
+        "monsters",
+        "horror",
+        "graphic-novels"
+      ],
+      "rating": 4.47,
+      "ratings": 2570,
+      "reviews": 84
+    },
+    {
       "title": "Mark of the Fool 4",
       "url": "https://www.goodreads.com/book/show/125970443-mark-of-the-fool-4",
       "id": "147420856",
@@ -20,27 +41,6 @@
       "rating": 4.57,
       "ratings": 2570,
       "reviews": 88
-    },
-    {
-      "title": "Cherished",
-      "url": "https://www.goodreads.com/book/show/54565980-cherished",
-      "id": "85138290",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1594990426i/54565980.jpg",
-      "authors": [
-        "Helen Hardt"
-      ],
-      "genres": [
-        "romance",
-        "fiction",
-        "contemporary",
-        "mystery",
-        "erotica",
-        "contemporary-romance",
-        "audiobook"
-      ],
-      "rating": 4.54,
-      "ratings": 2570,
-      "reviews": 255
     },
     {
       "title": "Fast Pitch",
@@ -85,25 +85,25 @@
       "reviews": 145
     },
     {
-      "title": "Moon Dragon",
-      "url": "https://www.goodreads.com/book/show/23285553-moon-dragon",
-      "id": "26742848",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1412001706i/23285553.jpg",
+      "title": "Watch Me Die",
+      "url": "https://www.goodreads.com/book/show/8971204-watch-me-die",
+      "id": "21827773",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1440369155i/8971204.jpg",
       "authors": [
-        "J.R. Rain"
+        "Erica Spindler"
       ],
       "genres": [
-        "paranormal",
-        "urban-fantasy",
-        "vampires",
-        "fantasy",
         "mystery",
-        "werewolves",
-        "fiction"
+        "thriller",
+        "suspense",
+        "fiction",
+        "mystery-thriller",
+        "crime",
+        "romantic-suspense"
       ],
-      "rating": 4.28,
+      "rating": 4.02,
       "ratings": 2567,
-      "reviews": 123
+      "reviews": 258
     },
     {
       "title": "Nowhere to Turn",
@@ -127,25 +127,25 @@
       "reviews": 278
     },
     {
-      "title": "Watch Me Die",
-      "url": "https://www.goodreads.com/book/show/8971204-watch-me-die",
-      "id": "21827773",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1440369155i/8971204.jpg",
+      "title": "Moon Dragon",
+      "url": "https://www.goodreads.com/book/show/23285553-moon-dragon",
+      "id": "26742848",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1412001706i/23285553.jpg",
       "authors": [
-        "Erica Spindler"
+        "J.R. Rain"
       ],
       "genres": [
+        "paranormal",
+        "urban-fantasy",
+        "vampires",
+        "fantasy",
         "mystery",
-        "thriller",
-        "suspense",
-        "fiction",
-        "mystery-thriller",
-        "crime",
-        "romantic-suspense"
+        "werewolves",
+        "fiction"
       ],
-      "rating": 4.02,
+      "rating": 4.28,
       "ratings": 2567,
-      "reviews": 258
+      "reviews": 123
     },
     {
       "title": "Fields' Guide to Abduction",
@@ -208,23 +208,6 @@
       "rating": 4.39,
       "ratings": 2564,
       "reviews": 89
-    },
-    {
-      "title": "The Kremlin's Vote",
-      "url": "https://www.goodreads.com/book/show/54160202-the-kremlin-s-vote",
-      "id": "84518808",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1611149170i/54160202.jpg",
-      "authors": [
-        "Andrew  Turpin"
-      ],
-      "genres": [
-        "mystery",
-        "thriller",
-        "spy-thriller"
-      ],
-      "rating": 4.23,
-      "ratings": 2563,
-      "reviews": 51
     },
     {
       "title": "Break and Enter",
@@ -290,6 +273,23 @@
       "reviews": 139
     },
     {
+      "title": "The Kremlin's Vote",
+      "url": "https://www.goodreads.com/book/show/54160202-the-kremlin-s-vote",
+      "id": "84518808",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1611149170i/54160202.jpg",
+      "authors": [
+        "Andrew  Turpin"
+      ],
+      "genres": [
+        "mystery",
+        "thriller",
+        "spy-thriller"
+      ],
+      "rating": 4.23,
+      "ratings": 2563,
+      "reviews": 51
+    },
+    {
       "title": "The Atlas Maneuver",
       "url": "https://www.goodreads.com/book/show/173403990-the-atlas-maneuver",
       "id": "181238387",
@@ -311,64 +311,24 @@
       "reviews": 231
     },
     {
-      "title": "Magical Mojo",
-      "url": "https://www.goodreads.com/book/show/56229596-magical-mojo",
-      "id": "87585276",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1607508545i/56229596.jpg",
+      "title": "A Knot of Sparrows",
+      "url": "https://www.goodreads.com/book/show/57263622-a-knot-of-sparrows",
+      "id": "89621736",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1614622745i/57263622.jpg",
       "authors": [
-        "Kim Richardson"
-      ],
-      "genres": [
-        "fantasy",
-        "paranormal",
-        "urban-fantasy",
-        "magic",
-        "mystery",
-        "witches",
-        "paranormal-romance"
-      ],
-      "rating": 4.46,
-      "ratings": 2560,
-      "reviews": 88
-    },
-    {
-      "title": "Beneath the Surface",
-      "url": "https://www.goodreads.com/book/show/35086540-beneath-the-surface",
-      "id": "56389758",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1499364834i/35086540.jpg",
-      "authors": [
-        "Lynn H. Blackburn"
-      ],
-      "genres": [
-        "christian-fiction",
-        "mystery",
-        "suspense",
-        "romance",
-        "romantic-suspense",
-        "christian",
-        "fiction"
-      ],
-      "rating": 4.33,
-      "ratings": 2560,
-      "reviews": 391
-    },
-    {
-      "title": "King Rat",
-      "url": "https://www.goodreads.com/book/show/63224596-king-rat",
-      "id": "96894303",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1667643790i/63224596.jpg",
-      "authors": [
-        "Alex  Smith"
+        "Cheryl Rees-Price"
       ],
       "genres": [
         "mystery",
         "crime",
+        "fiction",
+        "british-literature",
         "thriller",
-        "fiction"
+        "audiobook"
       ],
-      "rating": 4.67,
+      "rating": 4.34,
       "ratings": 2560,
-      "reviews": 132
+      "reviews": 77
     },
     {
       "title": "Friend of the Devil",
@@ -392,24 +352,25 @@
       "reviews": 293
     },
     {
-      "title": "A Knot of Sparrows",
-      "url": "https://www.goodreads.com/book/show/57263622-a-knot-of-sparrows",
-      "id": "89621736",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1614622745i/57263622.jpg",
+      "title": "Magical Mojo",
+      "url": "https://www.goodreads.com/book/show/56229596-magical-mojo",
+      "id": "87585276",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1607508545i/56229596.jpg",
       "authors": [
-        "Cheryl Rees-Price"
+        "Kim Richardson"
       ],
       "genres": [
+        "fantasy",
+        "paranormal",
+        "urban-fantasy",
+        "magic",
         "mystery",
-        "crime",
-        "fiction",
-        "british-literature",
-        "thriller",
-        "audiobook"
+        "witches",
+        "paranormal-romance"
       ],
-      "rating": 4.34,
+      "rating": 4.46,
       "ratings": 2560,
-      "reviews": 77
+      "reviews": 88
     },
     {
       "title": "Chance",
@@ -433,25 +394,43 @@
       "reviews": 158
     },
     {
-      "title": "Murder on the Poet's Walk",
-      "url": "https://www.goodreads.com/book/show/60055969-murder-on-the-poet-s-walk",
-      "id": "94563116",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1641579006i/60055969.jpg",
+      "title": "King Rat",
+      "url": "https://www.goodreads.com/book/show/63224596-king-rat",
+      "id": "96894303",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1667643790i/63224596.jpg",
       "authors": [
-        "Ellery Adams"
+        "Alex  Smith"
       ],
       "genres": [
         "mystery",
-        "cozy-mystery",
-        "fiction",
-        "books-about-books",
-        "family",
-        "romance",
-        "audiobook"
+        "crime",
+        "thriller",
+        "fiction"
       ],
-      "rating": 4.3,
-      "ratings": 2559,
-      "reviews": 325
+      "rating": 4.67,
+      "ratings": 2560,
+      "reviews": 132
+    },
+    {
+      "title": "Beneath the Surface",
+      "url": "https://www.goodreads.com/book/show/35086540-beneath-the-surface",
+      "id": "56389758",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1499364834i/35086540.jpg",
+      "authors": [
+        "Lynn H. Blackburn"
+      ],
+      "genres": [
+        "christian-fiction",
+        "mystery",
+        "suspense",
+        "romance",
+        "romantic-suspense",
+        "christian",
+        "fiction"
+      ],
+      "rating": 4.33,
+      "ratings": 2560,
+      "reviews": 391
     },
     {
       "title": "Hallowed Bones",
@@ -475,25 +454,46 @@
       "reviews": 132
     },
     {
-      "title": "Dancer in Lingerie",
-      "url": "https://www.goodreads.com/book/show/41583472-dancer-in-lingerie",
-      "id": "64907260",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1535772827i/41583472.jpg",
+      "title": "Murder on the Poet's Walk",
+      "url": "https://www.goodreads.com/book/show/60055969-murder-on-the-poet-s-walk",
+      "id": "94563116",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1641579006i/60055969.jpg",
       "authors": [
-        "Penelope Sky"
+        "Ellery Adams"
       ],
       "genres": [
+        "mystery",
+        "cozy-mystery",
+        "fiction",
+        "books-about-books",
+        "family",
         "romance",
-        "contemporary-romance",
-        "dark",
-        "crime",
-        "erotic-romance",
-        "romantic-suspense",
-        "mystery"
+        "audiobook"
       ],
-      "rating": 4.48,
+      "rating": 4.3,
+      "ratings": 2559,
+      "reviews": 325
+    },
+    {
+      "title": "Shallow Waters",
+      "url": "https://www.goodreads.com/book/show/29997926-shallow-waters",
+      "id": "43581553",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1461613839i/29997926.jpg",
+      "authors": [
+        "Rebecca  Bradley"
+      ],
+      "genres": [
+        "mystery",
+        "crime",
+        "thriller",
+        "fiction",
+        "detective",
+        "audiobook",
+        "mystery-thriller"
+      ],
+      "rating": 4.01,
       "ratings": 2558,
-      "reviews": 125
+      "reviews": 215
     }
   ]
 }

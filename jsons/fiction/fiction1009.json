@@ -1,69 +1,6 @@
 {
   "books": [
     {
-      "title": "Sweet on You",
-      "url": "https://www.goodreads.com/book/show/42075205-sweet-on-you",
-      "id": "65611062",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1539965358i/42075205.jpg",
-      "authors": [
-        "Becky Wade"
-      ],
-      "genres": [
-        "christian-fiction",
-        "romance",
-        "contemporary",
-        "christian",
-        "fiction",
-        "christian-romance",
-        "contemporary-romance"
-      ],
-      "rating": 4.3,
-      "ratings": 2725,
-      "reviews": 531
-    },
-    {
-      "title": "Where the Stars Meet the Sea",
-      "url": "https://www.goodreads.com/book/show/48739513-where-the-stars-meet-the-sea",
-      "id": "74107608",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1584156663i/48739513.jpg",
-      "authors": [
-        "Heidi Kimball"
-      ],
-      "genres": [
-        "romance",
-        "historical-fiction",
-        "regency",
-        "historical-romance",
-        "historical",
-        "clean-romance",
-        "fiction"
-      ],
-      "rating": 4.15,
-      "ratings": 2725,
-      "reviews": 570
-    },
-    {
-      "title": "The Odds of Getting Even",
-      "url": "https://www.goodreads.com/book/show/24611884-the-odds-of-getting-even",
-      "id": "44223000",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1424976742i/24611884.jpg",
-      "authors": [
-        "Sheila Turnage"
-      ],
-      "genres": [
-        "mystery",
-        "middle-grade",
-        "fiction",
-        "childrens",
-        "humor",
-        "young-adult",
-        "realistic-fiction"
-      ],
-      "rating": 4.31,
-      "ratings": 2725,
-      "reviews": 377
-    },
-    {
       "title": "Killer Run",
       "url": "https://www.goodreads.com/book/show/25605824-killer-run",
       "id": "44684355",
@@ -83,48 +20,6 @@
       "rating": 4.05,
       "ratings": 2725,
       "reviews": 245
-    },
-    {
-      "title": "Merrily Ever After",
-      "url": "https://www.goodreads.com/book/show/61203306-merrily-ever-after",
-      "id": "96483791",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1663375745i/61203306.jpg",
-      "authors": [
-        "Cathy Bramley"
-      ],
-      "genres": [
-        "christmas",
-        "romance",
-        "fiction",
-        "contemporary",
-        "holiday",
-        "family",
-        "chick-lit"
-      ],
-      "rating": 4.25,
-      "ratings": 2725,
-      "reviews": 262
-    },
-    {
-      "title": "Perras de reserva",
-      "url": "https://www.goodreads.com/book/show/49255900-perras-de-reserva",
-      "id": "74699768",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1576453620i/49255900.jpg",
-      "authors": [
-        "Dahlia de la Cerda"
-      ],
-      "genres": [
-        "feminism",
-        "fiction",
-        "short-stories",
-        "womens",
-        "latin-american",
-        "drama",
-        "latin-american-literature"
-      ],
-      "rating": 4.31,
-      "ratings": 2725,
-      "reviews": 678
     },
     {
       "title": "My Child is Missing",
@@ -148,25 +43,109 @@
       "reviews": 301
     },
     {
-      "title": "The Veiled Throne",
-      "url": "https://www.goodreads.com/book/show/18952403-the-veiled-throne",
-      "id": "26965722",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1617258542i/18952403.jpg",
+      "title": "Merrily Ever After",
+      "url": "https://www.goodreads.com/book/show/61203306-merrily-ever-after",
+      "id": "96483791",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1663375745i/61203306.jpg",
       "authors": [
-        "Ken Liu"
+        "Cathy Bramley"
       ],
       "genres": [
+        "christmas",
+        "romance",
+        "fiction",
+        "contemporary",
+        "holiday",
+        "family",
+        "chick-lit"
+      ],
+      "rating": 4.25,
+      "ratings": 2725,
+      "reviews": 262
+    },
+    {
+      "title": "Sweet on You",
+      "url": "https://www.goodreads.com/book/show/42075205-sweet-on-you",
+      "id": "65611062",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1539965358i/42075205.jpg",
+      "authors": [
+        "Becky Wade"
+      ],
+      "genres": [
+        "christian-fiction",
+        "romance",
+        "contemporary",
+        "christian",
+        "fiction",
+        "christian-romance",
+        "contemporary-romance"
+      ],
+      "rating": 4.3,
+      "ratings": 2725,
+      "reviews": 531
+    },
+    {
+      "title": "The Odds of Getting Even",
+      "url": "https://www.goodreads.com/book/show/24611884-the-odds-of-getting-even",
+      "id": "44223000",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1424976742i/24611884.jpg",
+      "authors": [
+        "Sheila Turnage"
+      ],
+      "genres": [
+        "mystery",
+        "middle-grade",
+        "fiction",
+        "childrens",
+        "humor",
+        "young-adult",
+        "realistic-fiction"
+      ],
+      "rating": 4.31,
+      "ratings": 2725,
+      "reviews": 377
+    },
+    {
+      "title": "Perras de reserva",
+      "url": "https://www.goodreads.com/book/show/49255900-perras-de-reserva",
+      "id": "74699768",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1576453620i/49255900.jpg",
+      "authors": [
+        "Dahlia de la Cerda"
+      ],
+      "genres": [
+        "feminism",
+        "fiction",
+        "short-stories",
+        "womens",
+        "latin-american",
+        "drama",
+        "latin-american-literature"
+      ],
+      "rating": 4.31,
+      "ratings": 2725,
+      "reviews": 678
+    },
+    {
+      "title": "Warcraft: Of Blood and Honor",
+      "url": "https://www.goodreads.com/book/show/16395922-warcraft",
+      "id": "5116660",
+      "cover_url": "https://dryofg8nmyqjw.cloudfront.net/images/no-cover.png",
+      "authors": [
+        "Chris Metzen"
+      ],
+      "genres": [
+        "warcraft",
         "fantasy",
         "fiction",
-        "epic-fantasy",
-        "high-fantasy",
-        "adult",
-        "steampunk",
-        "science-fiction"
+        "world-of-warcraft",
+        "games",
+        "adventure",
+        "video-games"
       ],
-      "rating": 4.17,
-      "ratings": 2724,
-      "reviews": 394
+      "rating": 4.01,
+      "ratings": 2725,
+      "reviews": 123
     },
     {
       "title": "Merchanter's Luck",
@@ -190,46 +169,25 @@
       "reviews": 192
     },
     {
-      "title": "Cataclysm",
-      "url": "https://www.goodreads.com/book/show/61213099-cataclysm",
-      "id": "96503618",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1665326677i/61213099.jpg",
+      "title": "The Veiled Throne",
+      "url": "https://www.goodreads.com/book/show/18952403-the-veiled-throne",
+      "id": "26965722",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1617258542i/18952403.jpg",
       "authors": [
-        "Lydia Kang"
+        "Ken Liu"
       ],
       "genres": [
-        "star-wars",
-        "science-fiction",
+        "fantasy",
         "fiction",
-        "audiobook",
-        "fantasy",
-        "space-opera",
-        "adult"
-      ],
-      "rating": 4.21,
-      "ratings": 2723,
-      "reviews": 309
-    },
-    {
-      "title": "Jackal",
-      "url": "https://www.goodreads.com/book/show/40144365-jackal",
-      "id": "62279705",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1529072006i/40144365.jpg",
-      "authors": [
-        "Tarryn Fisher"
-      ],
-      "genres": [
-        "romance",
-        "dystopia",
+        "epic-fantasy",
+        "high-fantasy",
         "adult",
-        "science-fiction",
-        "fantasy",
-        "audiobook",
-        "fiction"
+        "steampunk",
+        "science-fiction"
       ],
-      "rating": 4.21,
-      "ratings": 2723,
-      "reviews": 302
+      "rating": 4.17,
+      "ratings": 2724,
+      "reviews": 394
     },
     {
       "title": "Wicked Deeds",
@@ -253,42 +211,6 @@
       "reviews": 259
     },
     {
-      "title": "7 Brides for 7 Bodies",
-      "url": "https://www.goodreads.com/book/show/17992819-7-brides-for-7-bodies",
-      "id": "25231639",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1369789742i/17992819.jpg",
-      "authors": [
-        "Stephanie Bond"
-      ],
-      "genres": [
-        "mystery",
-        "romance",
-        "chick-lit",
-        "cozy-mystery",
-        "fiction",
-        "mystery-thriller",
-        "humor"
-      ],
-      "rating": 4.16,
-      "ratings": 2723,
-      "reviews": 219
-    },
-    {
-      "title": "One For Sorrow",
-      "url": "https://www.goodreads.com/book/show/61332269-one-for-sorrow",
-      "id": "96715179",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1655797259i/61332269.jpg",
-      "authors": [
-        "Jack  Cartwright"
-      ],
-      "genres": [
-        "fiction"
-      ],
-      "rating": 4.47,
-      "ratings": 2723,
-      "reviews": 38
-    },
-    {
       "title": "Os Pilares da Terra, Volume II",
       "url": "https://www.goodreads.com/book/show/6304285-os-pilares-da-terra-volume-ii",
       "id": "42913767",
@@ -310,88 +232,82 @@
       "reviews": 116
     },
     {
-      "title": "SandRider",
-      "url": "https://www.goodreads.com/book/show/16069951-sandrider",
-      "id": "21863020",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1425473104i/16069951.jpg",
+      "title": "7 Brides for 7 Bodies",
+      "url": "https://www.goodreads.com/book/show/17992819-7-brides-for-7-bodies",
+      "id": "25231639",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1369789742i/17992819.jpg",
       "authors": [
-        "Angie Sage"
-      ],
-      "genres": [
-        "fantasy",
-        "young-adult",
-        "middle-grade",
-        "fiction",
-        "magic",
-        "adventure",
-        "childrens"
-      ],
-      "rating": 4.18,
-      "ratings": 2722,
-      "reviews": 204
-    },
-    {
-      "title": "Dark Crimes",
-      "url": "https://www.goodreads.com/book/show/28791344-dark-crimes",
-      "id": "49001409",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1453969323i/28791344.jpg",
-      "authors": [
-        "Michael Hambling"
+        "Stephanie Bond"
       ],
       "genres": [
         "mystery",
-        "crime",
+        "romance",
+        "chick-lit",
+        "cozy-mystery",
         "fiction",
-        "thriller",
-        "british-literature",
-        "suspense",
-        "mystery-thriller"
+        "mystery-thriller",
+        "humor"
       ],
       "rating": 4.16,
-      "ratings": 2722,
-      "reviews": 169
+      "ratings": 2723,
+      "reviews": 219
     },
     {
-      "title": "Coral Holiday",
-      "url": "https://www.goodreads.com/book/show/57120227-coral-holiday",
-      "id": "89392178",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1613677198i/57120227.jpg",
+      "title": "Jackal",
+      "url": "https://www.goodreads.com/book/show/40144365-jackal",
+      "id": "62279705",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1529072006i/40144365.jpg",
       "authors": [
-        "Jan Moran"
+        "Tarryn Fisher"
       ],
       "genres": [
         "romance",
-        "fiction",
-        "christmas",
-        "chick-lit",
+        "dystopia",
+        "adult",
+        "science-fiction",
+        "fantasy",
         "audiobook",
-        "contemporary",
-        "womens-fiction"
+        "fiction"
       ],
-      "rating": 4.36,
-      "ratings": 2722,
-      "reviews": 82
+      "rating": 4.21,
+      "ratings": 2723,
+      "reviews": 302
     },
     {
-      "title": "A Problem of Proportion",
-      "url": "https://www.goodreads.com/book/show/16180362-a-problem-of-proportion",
-      "id": "22035295",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1358273356i/16180362.jpg",
+      "title": "One For Sorrow",
+      "url": "https://www.goodreads.com/book/show/61332269-one-for-sorrow",
+      "id": "96715179",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1655797259i/61332269.jpg",
       "authors": [
-        "John Scalzi"
+        "Jack  Cartwright"
       ],
       "genres": [
+        "fiction"
+      ],
+      "rating": 4.47,
+      "ratings": 2723,
+      "reviews": 38
+    },
+    {
+      "title": "Cataclysm",
+      "url": "https://www.goodreads.com/book/show/61213099-cataclysm",
+      "id": "96503618",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1665326677i/61213099.jpg",
+      "authors": [
+        "Lydia Kang"
+      ],
+      "genres": [
+        "star-wars",
         "science-fiction",
         "fiction",
-        "short-stories",
-        "space-opera",
         "audiobook",
-        "aliens",
-        "military-fiction"
+        "fantasy",
+        "space-opera",
+        "adult"
       ],
-      "rating": 4.19,
-      "ratings": 2722,
-      "reviews": 79
+      "rating": 4.21,
+      "ratings": 2723,
+      "reviews": 309
     },
     {
       "title": "Kashi: Secret of the Black Temple",
@@ -415,23 +331,130 @@
       "reviews": 198
     },
     {
-      "title": "Noah",
-      "url": "https://www.goodreads.com/book/show/53091864-noah",
-      "id": "73343428",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1573044560l/53091864.jpg",
+      "title": "Dark Crimes",
+      "url": "https://www.goodreads.com/book/show/28791344-dark-crimes",
+      "id": "49001409",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1453969323i/28791344.jpg",
       "authors": [
-        "Melody Anne"
+        "Michael Hambling"
+      ],
+      "genres": [
+        "mystery",
+        "crime",
+        "fiction",
+        "thriller",
+        "british-literature",
+        "suspense",
+        "mystery-thriller"
+      ],
+      "rating": 4.16,
+      "ratings": 2722,
+      "reviews": 169
+    },
+    {
+      "title": "SandRider",
+      "url": "https://www.goodreads.com/book/show/16069951-sandrider",
+      "id": "21863020",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1425473104i/16069951.jpg",
+      "authors": [
+        "Angie Sage"
+      ],
+      "genres": [
+        "fantasy",
+        "young-adult",
+        "middle-grade",
+        "fiction",
+        "magic",
+        "adventure",
+        "childrens"
+      ],
+      "rating": 4.18,
+      "ratings": 2722,
+      "reviews": 204
+    },
+    {
+      "title": "A Problem of Proportion",
+      "url": "https://www.goodreads.com/book/show/16180362-a-problem-of-proportion",
+      "id": "22035295",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1358273356i/16180362.jpg",
+      "authors": [
+        "John Scalzi"
+      ],
+      "genres": [
+        "science-fiction",
+        "fiction",
+        "short-stories",
+        "space-opera",
+        "audiobook",
+        "aliens",
+        "military-fiction"
+      ],
+      "rating": 4.19,
+      "ratings": 2722,
+      "reviews": 79
+    },
+    {
+      "title": "Coral Holiday",
+      "url": "https://www.goodreads.com/book/show/57120227-coral-holiday",
+      "id": "89392178",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1613677198i/57120227.jpg",
+      "authors": [
+        "Jan Moran"
       ],
       "genres": [
         "romance",
-        "contemporary",
-        "contemporary-romance",
         "fiction",
-        "audiobook"
+        "christmas",
+        "chick-lit",
+        "audiobook",
+        "contemporary",
+        "womens-fiction"
       ],
-      "rating": 4.17,
+      "rating": 4.36,
+      "ratings": 2722,
+      "reviews": 82
+    },
+    {
+      "title": "Last Look",
+      "url": "https://www.goodreads.com/book/show/194937.Last_Look",
+      "id": "188520",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1439067355i/194937.jpg",
+      "authors": [
+        "Mariah Stewart"
+      ],
+      "genres": [
+        "romantic-suspense",
+        "suspense",
+        "mystery",
+        "romance",
+        "thriller",
+        "crime",
+        "fiction"
+      ],
+      "rating": 4.12,
       "ratings": 2721,
-      "reviews": 209
+      "reviews": 111
+    },
+    {
+      "title": "The Complete Stories of Leonora Carrington",
+      "url": "https://www.goodreads.com/book/show/33395084-the-complete-stories-of-leonora-carrington",
+      "id": "54143562",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1681065035i/33395084.jpg",
+      "authors": [
+        "Leonora Carrington"
+      ],
+      "genres": [
+        "short-stories",
+        "fiction",
+        "fantasy",
+        "horror",
+        "art",
+        "surreal",
+        "magical-realism"
+      ],
+      "rating": 4.04,
+      "ratings": 2721,
+      "reviews": 428
     },
     {
       "title": "The Club: Culmination: An Epilogue  Book",
@@ -455,46 +478,25 @@
       "reviews": 265
     },
     {
-      "title": "Tea Rooms: Mujeres obreras",
-      "url": "https://www.goodreads.com/book/show/12856395-tea-rooms",
-      "id": "18008021",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1486905410i/12856395.jpg",
+      "title": "Flop Dead Gorgeous",
+      "url": "https://www.goodreads.com/book/show/61884997-flop-dead-gorgeous",
+      "id": "97563875",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1678754550i/61884997.jpg",
       "authors": [
-        "Luisa Carnés"
+        "David Rosenfelt"
       ],
       "genres": [
-        "feminism",
+        "mystery",
         "fiction",
-        "spanish-literature",
-        "classics",
-        "womens",
-        "spain",
-        "historical-fiction"
+        "humor",
+        "dogs",
+        "audiobook",
+        "crime",
+        "animals"
       ],
-      "rating": 4.14,
+      "rating": 4.17,
       "ratings": 2721,
-      "reviews": 430
-    },
-    {
-      "title": "Selena",
-      "url": "https://www.goodreads.com/book/show/52416700-selena",
-      "id": "77787678",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1584353767i/52416700.jpg",
-      "authors": [
-        "Tere Liye"
-      ],
-      "genres": [
-        "fantasy",
-        "fiction",
-        "novels",
-        "indonesian-literature",
-        "adventure",
-        "young-adult",
-        "action"
-      ],
-      "rating": 4.3,
-      "ratings": 2721,
-      "reviews": 295
+      "reviews": 427
     }
   ]
 }

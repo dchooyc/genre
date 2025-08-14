@@ -1,6 +1,27 @@
 {
   "books": [
     {
+      "title": "The Year of the Rogues",
+      "url": "https://www.goodreads.com/book/show/55515180-the-year-of-the-rogues",
+      "id": "86569139",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1601454883i/55515180.jpg",
+      "authors": [
+        "Maxime J. Durand"
+      ],
+      "genres": [
+        "fantasy",
+        "dragons",
+        "humor",
+        "adventure",
+        "zombies",
+        "vampires",
+        "demons"
+      ],
+      "rating": 4.29,
+      "ratings": 754,
+      "reviews": 35
+    },
+    {
       "title": "Off-Limits",
       "url": "https://www.goodreads.com/book/show/56733491-off-limits",
       "id": "88676137",
@@ -20,27 +41,6 @@
       "rating": 4.22,
       "ratings": 754,
       "reviews": 174
-    },
-    {
-      "title": "Dragonfired",
-      "url": "https://www.goodreads.com/book/show/42921438-dragonfired",
-      "id": "66698547",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1693934831i/42921438.jpg",
-      "authors": [
-        "J. Zachary Pike"
-      ],
-      "genres": [
-        "fantasy",
-        "fiction",
-        "magic",
-        "humor",
-        "science-fiction-fantasy",
-        "dragons",
-        "epic-fantasy"
-      ],
-      "rating": 4.5,
-      "ratings": 754,
-      "reviews": 77
     },
     {
       "title": "Rebel Without A Claus",
@@ -84,25 +84,25 @@
       "reviews": 14
     },
     {
-      "title": "Anansi and the Talking Melon",
-      "url": "https://www.goodreads.com/book/show/1343134.Anansi_and_the_Talking_Melon",
-      "id": "1332732",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347465997i/1343134.jpg",
+      "title": "Love and Chaos",
+      "url": "https://www.goodreads.com/book/show/28598955-love-and-chaos",
+      "id": "41877706",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1453153182i/28598955.jpg",
       "authors": [
-        "Eric A. Kimmel"
+        "K.F. Breene"
       ],
       "genres": [
-        "picture-books",
-        "animals",
-        "africa",
-        "childrens",
+        "romance",
+        "amazon",
+        "contemporary",
+        "contemporary-romance",
+        "adult",
         "humor",
-        "folk-tales",
-        "folklore"
+        "chick-lit"
       ],
-      "rating": 4.09,
+      "rating": 4.16,
       "ratings": 751,
-      "reviews": 121
+      "reviews": 53
     },
     {
       "title": "The Buccaneers' Code",
@@ -124,6 +124,48 @@
       "rating": 4.29,
       "ratings": 751,
       "reviews": 80
+    },
+    {
+      "title": "Anansi and the Talking Melon",
+      "url": "https://www.goodreads.com/book/show/1343134.Anansi_and_the_Talking_Melon",
+      "id": "1332732",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347465997i/1343134.jpg",
+      "authors": [
+        "Eric A. Kimmel"
+      ],
+      "genres": [
+        "picture-books",
+        "animals",
+        "africa",
+        "childrens",
+        "humor",
+        "folk-tales",
+        "folklore"
+      ],
+      "rating": 4.09,
+      "ratings": 751,
+      "reviews": 121
+    },
+    {
+      "title": "The Nanny and the Beefcake",
+      "url": "https://www.goodreads.com/book/show/59042808-the-nanny-and-the-beefcake",
+      "id": "93091031",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1642017252i/59042808.jpg",
+      "authors": [
+        "Krista Sandor"
+      ],
+      "genres": [
+        "romance",
+        "sports",
+        "contemporary",
+        "contemporary-romance",
+        "sports-romance",
+        "amazon",
+        "humor"
+      ],
+      "rating": 4.31,
+      "ratings": 751,
+      "reviews": 155
     },
     {
       "title": "Sexcastle",
@@ -166,48 +208,6 @@
       "rating": 4.21,
       "ratings": 751,
       "reviews": 67
-    },
-    {
-      "title": "The Nanny and the Beefcake",
-      "url": "https://www.goodreads.com/book/show/59042808-the-nanny-and-the-beefcake",
-      "id": "93091031",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1642017252i/59042808.jpg",
-      "authors": [
-        "Krista Sandor"
-      ],
-      "genres": [
-        "romance",
-        "sports",
-        "contemporary",
-        "contemporary-romance",
-        "sports-romance",
-        "amazon",
-        "humor"
-      ],
-      "rating": 4.31,
-      "ratings": 751,
-      "reviews": 155
-    },
-    {
-      "title": "Love and Chaos",
-      "url": "https://www.goodreads.com/book/show/28598955-love-and-chaos",
-      "id": "41877706",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1453153182i/28598955.jpg",
-      "authors": [
-        "K.F. Breene"
-      ],
-      "genres": [
-        "romance",
-        "amazon",
-        "contemporary",
-        "contemporary-romance",
-        "adult",
-        "humor",
-        "chick-lit"
-      ],
-      "rating": 4.16,
-      "ratings": 751,
-      "reviews": 53
     },
     {
       "title": "Beelzebelle",
@@ -270,25 +270,25 @@
       "reviews": 137
     },
     {
-      "title": "My Love Story!!, Vol. 8",
-      "url": "https://www.goodreads.com/book/show/25813998-my-love-story-vol-8",
-      "id": "45670716",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1447138082i/25813998.jpg",
+      "title": "The Bad Guys in Let the Games Begin!",
+      "url": "https://www.goodreads.com/book/show/61780069-the-bad-guys-in-let-the-games-begin",
+      "id": "97410568",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1688067924i/61780069.jpg",
       "authors": [
-        "Kazune Kawahara"
+        "Aaron Blabey"
       ],
       "genres": [
-        "manga",
-        "romance",
         "graphic-novels",
-        "shojo",
-        "comics",
+        "childrens",
+        "animals",
+        "juvenile",
         "humor",
-        "comedy"
+        "adventure",
+        "fiction"
       ],
-      "rating": 4.27,
+      "rating": 4.23,
       "ratings": 748,
-      "reviews": 69
+      "reviews": 48
     },
     {
       "title": "The Odd Job",
@@ -311,25 +311,25 @@
       "reviews": 38
     },
     {
-      "title": "The Bad Guys in Let the Games Begin!",
-      "url": "https://www.goodreads.com/book/show/61780069-the-bad-guys-in-let-the-games-begin",
-      "id": "97410568",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1688067924i/61780069.jpg",
+      "title": "My Love Story!!, Vol. 8",
+      "url": "https://www.goodreads.com/book/show/25813998-my-love-story-vol-8",
+      "id": "45670716",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1447138082i/25813998.jpg",
       "authors": [
-        "Aaron Blabey"
+        "Kazune Kawahara"
       ],
       "genres": [
+        "manga",
+        "romance",
         "graphic-novels",
-        "childrens",
-        "animals",
-        "juvenile",
+        "shojo",
+        "comics",
         "humor",
-        "adventure",
-        "fiction"
+        "comedy"
       ],
-      "rating": 4.23,
+      "rating": 4.27,
       "ratings": 748,
-      "reviews": 48
+      "reviews": 69
     },
     {
       "title": "Adventure Time, Vol. 6",
@@ -372,24 +372,22 @@
       "reviews": 175
     },
     {
-      "title": "HJBRL",
-      "url": "https://www.goodreads.com/book/show/1247395.HJBRL",
-      "id": "1236131",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1349077260i/1247395.jpg",
+      "title": "Hell Is a World Without You",
+      "url": "https://www.goodreads.com/book/show/202087804-hell-is-a-world-without-you",
+      "id": "207321330",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1700312936i/202087804.jpg",
       "authors": [
-        "Sukumar Ray"
+        "Jason Kirk"
       ],
       "genres": [
-        "humor",
         "fiction",
-        "classics",
-        "fantasy",
-        "childrens",
-        "poetry"
+        "religion",
+        "coming-of-age",
+        "humor"
       ],
-      "rating": 4.68,
+      "rating": 4.72,
       "ratings": 745,
-      "reviews": 43
+      "reviews": 260
     },
     {
       "title": "Let That Sh*t Go: A Journal for Leaving Your Bullsh*t Behind and Creating a Happy Life",
@@ -413,24 +411,6 @@
       "reviews": 32
     },
     {
-      "title": "Hell Is a World Without You",
-      "url": "https://www.goodreads.com/book/show/202087804-hell-is-a-world-without-you",
-      "id": "207321330",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1700312936i/202087804.jpg",
-      "authors": [
-        "Jason Kirk"
-      ],
-      "genres": [
-        "fiction",
-        "religion",
-        "coming-of-age",
-        "humor"
-      ],
-      "rating": 4.72,
-      "ratings": 745,
-      "reviews": 260
-    },
-    {
       "title": "Hot Gossip",
       "url": "https://www.goodreads.com/book/show/18965677-hot-gossip",
       "id": "26983501",
@@ -450,6 +430,26 @@
       "rating": 4.14,
       "ratings": 745,
       "reviews": 22
+    },
+    {
+      "title": "HJBRL",
+      "url": "https://www.goodreads.com/book/show/1247395.HJBRL",
+      "id": "1236131",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1349077260i/1247395.jpg",
+      "authors": [
+        "Sukumar Ray"
+      ],
+      "genres": [
+        "humor",
+        "fiction",
+        "classics",
+        "fantasy",
+        "childrens",
+        "poetry"
+      ],
+      "rating": 4.68,
+      "ratings": 745,
+      "reviews": 43
     },
     {
       "title": "Loading Penguin Hugs: Heartwarming Comics from Chibird",

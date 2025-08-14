@@ -1,6 +1,27 @@
 {
   "books": [
     {
+      "title": "Illegally Yours: A Memoir",
+      "url": "https://www.goodreads.com/book/show/59568607-illegally-yours",
+      "id": "93815882",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1637605694i/59568607.jpg",
+      "authors": [
+        "Rafael Agustin"
+      ],
+      "genres": [
+        "memoir",
+        "non-fiction",
+        "biography",
+        "audiobook",
+        "humor",
+        "biography-memoir",
+        "autobiography"
+      ],
+      "rating": 4.17,
+      "ratings": 820,
+      "reviews": 102
+    },
+    {
       "title": "Uncle Scrooge and Donald Duck: The Son of the Sun",
       "url": "https://www.goodreads.com/book/show/18444220-uncle-scrooge-and-donald-duck",
       "id": "26087760",
@@ -20,27 +41,6 @@
       "rating": 4.47,
       "ratings": 820,
       "reviews": 67
-    },
-    {
-      "title": "A Very Scalzi Christmas",
-      "url": "https://www.goodreads.com/book/show/51101829-a-very-scalzi-christmas",
-      "id": "71815772",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1562528522l/51101829.jpg",
-      "authors": [
-        "John Scalzi"
-      ],
-      "genres": [
-        "humor",
-        "short-stories",
-        "christmas",
-        "science-fiction",
-        "fiction",
-        "fantasy",
-        "holiday"
-      ],
-      "rating": 4,
-      "ratings": 820,
-      "reviews": 168
     },
     {
       "title": "Marvel Meow",
@@ -83,48 +83,6 @@
       "reviews": 131
     },
     {
-      "title": "Tasha: A Son's Memoir",
-      "url": "https://www.goodreads.com/book/show/58438617-tasha",
-      "id": "91709209",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1647447896i/58438617.jpg",
-      "authors": [
-        "Brian Morton"
-      ],
-      "genres": [
-        "memoir",
-        "non-fiction",
-        "biography",
-        "biography-memoir",
-        "family",
-        "humor",
-        "audiobook"
-      ],
-      "rating": 4.16,
-      "ratings": 818,
-      "reviews": 182
-    },
-    {
-      "title": "Cheeky: A Head-to-Toe Memoir",
-      "url": "https://www.goodreads.com/book/show/49127585-cheeky",
-      "id": "74580882",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1597701929i/49127585.jpg",
-      "authors": [
-        "Ariella Elovic"
-      ],
-      "genres": [
-        "graphic-novels",
-        "memoir",
-        "non-fiction",
-        "feminism",
-        "comics",
-        "graphic-novels-comics",
-        "humor"
-      ],
-      "rating": 4.2,
-      "ratings": 818,
-      "reviews": 177
-    },
-    {
       "title": "Bird & Squirrel On Fire",
       "url": "https://www.goodreads.com/book/show/30652339-bird-squirrel-on-fire",
       "id": "51196493",
@@ -146,25 +104,25 @@
       "reviews": 77
     },
     {
-      "title": "What's Up, Beanie?: Acutely Relatable Comics",
-      "url": "https://www.goodreads.com/book/show/53968437-what-s-up-beanie",
-      "id": "84337211",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1593147568i/53968437.jpg",
+      "title": "Tasha: A Son's Memoir",
+      "url": "https://www.goodreads.com/book/show/58438617-tasha",
+      "id": "91709209",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1647447896i/58438617.jpg",
       "authors": [
-        "Alina Tysoe"
+        "Brian Morton"
       ],
       "genres": [
-        "graphic-novels",
-        "comics",
-        "humor",
-        "comedy",
-        "non-fiction",
         "memoir",
-        "graphic-novels-comics"
+        "non-fiction",
+        "biography",
+        "biography-memoir",
+        "family",
+        "humor",
+        "audiobook"
       ],
-      "rating": 4.48,
+      "rating": 4.16,
       "ratings": 818,
-      "reviews": 240
+      "reviews": 182
     },
     {
       "title": "Finnish Nightmares",
@@ -188,6 +146,27 @@
       "reviews": 113
     },
     {
+      "title": "Cheeky: A Head-to-Toe Memoir",
+      "url": "https://www.goodreads.com/book/show/49127585-cheeky",
+      "id": "74580882",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1597701929i/49127585.jpg",
+      "authors": [
+        "Ariella Elovic"
+      ],
+      "genres": [
+        "graphic-novels",
+        "memoir",
+        "non-fiction",
+        "feminism",
+        "comics",
+        "graphic-novels-comics",
+        "humor"
+      ],
+      "rating": 4.2,
+      "ratings": 818,
+      "reviews": 177
+    },
+    {
       "title": "Frequently Asked Questions about the Universe",
       "url": "https://www.goodreads.com/book/show/57410613-frequently-asked-questions-about-the-universe",
       "id": "89882728",
@@ -209,45 +188,25 @@
       "reviews": 125
     },
     {
-      "title": "Lupin Leaps In: A Breaking Cat News Adventure",
-      "url": "https://www.goodreads.com/book/show/40622481-lupin-leaps-in",
-      "id": "63115019",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1537480169i/40622481.jpg",
+      "title": "What's Up, Beanie?: Acutely Relatable Comics",
+      "url": "https://www.goodreads.com/book/show/53968437-what-s-up-beanie",
+      "id": "84337211",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1593147568i/53968437.jpg",
       "authors": [
-        "Georgia Dunn"
+        "Alina Tysoe"
       ],
       "genres": [
         "graphic-novels",
-        "humor",
         "comics",
-        "cats",
-        "fiction",
-        "middle-grade",
-        "animals"
-      ],
-      "rating": 4.52,
-      "ratings": 816,
-      "reviews": 153
-    },
-    {
-      "title": "The Marquess' Daring Wager",
-      "url": "https://www.goodreads.com/book/show/54135536-the-marquess-daring-wager",
-      "id": "84489064",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1599872004i/54135536.jpg",
-      "authors": [
-        "Kate  Archer"
-      ],
-      "genres": [
-        "historical-romance",
-        "romance",
-        "historical",
-        "regency",
         "humor",
-        "historical-fiction"
+        "comedy",
+        "non-fiction",
+        "memoir",
+        "graphic-novels-comics"
       ],
-      "rating": 4.26,
-      "ratings": 816,
-      "reviews": 76
+      "rating": 4.48,
+      "ratings": 818,
+      "reviews": 240
     },
     {
       "title": "We Don't Lose Our Class Goldfish",
@@ -291,6 +250,47 @@
       "reviews": 64
     },
     {
+      "title": "The Marquess' Daring Wager",
+      "url": "https://www.goodreads.com/book/show/54135536-the-marquess-daring-wager",
+      "id": "84489064",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1599872004i/54135536.jpg",
+      "authors": [
+        "Kate  Archer"
+      ],
+      "genres": [
+        "historical-romance",
+        "romance",
+        "historical",
+        "regency",
+        "humor",
+        "historical-fiction"
+      ],
+      "rating": 4.26,
+      "ratings": 816,
+      "reviews": 76
+    },
+    {
+      "title": "Lupin Leaps In: A Breaking Cat News Adventure",
+      "url": "https://www.goodreads.com/book/show/40622481-lupin-leaps-in",
+      "id": "63115019",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1537480169i/40622481.jpg",
+      "authors": [
+        "Georgia Dunn"
+      ],
+      "genres": [
+        "graphic-novels",
+        "humor",
+        "comics",
+        "cats",
+        "fiction",
+        "middle-grade",
+        "animals"
+      ],
+      "rating": 4.52,
+      "ratings": 816,
+      "reviews": 153
+    },
+    {
       "title": "Little Rabbit Foo Foo",
       "url": "https://www.goodreads.com/book/show/1971206.Little_Rabbit_Foo_Foo",
       "id": "1974437",
@@ -331,27 +331,6 @@
       "reviews": 69
     },
     {
-      "title": "A House in the Woods",
-      "url": "https://www.goodreads.com/book/show/11233975-a-house-in-the-woods",
-      "id": "16160054",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347784094i/11233975.jpg",
-      "authors": [
-        "Inga Moore"
-      ],
-      "genres": [
-        "picture-books",
-        "childrens",
-        "animals",
-        "storytime",
-        "fiction",
-        "construction",
-        "humor"
-      ],
-      "rating": 4.18,
-      "ratings": 814,
-      "reviews": 114
-    },
-    {
       "title": "A Causa das Coisas",
       "url": "https://www.goodreads.com/book/show/1502177.A_Causa_das_Coisas",
       "id": "1493611",
@@ -371,6 +350,27 @@
       "rating": 4.03,
       "ratings": 814,
       "reviews": 31
+    },
+    {
+      "title": "A House in the Woods",
+      "url": "https://www.goodreads.com/book/show/11233975-a-house-in-the-woods",
+      "id": "16160054",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347784094i/11233975.jpg",
+      "authors": [
+        "Inga Moore"
+      ],
+      "genres": [
+        "picture-books",
+        "childrens",
+        "animals",
+        "storytime",
+        "fiction",
+        "construction",
+        "humor"
+      ],
+      "rating": 4.18,
+      "ratings": 814,
+      "reviews": 114
     },
     {
       "title": "The Future of British Politics",

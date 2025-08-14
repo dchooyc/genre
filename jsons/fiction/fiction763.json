@@ -1,6 +1,27 @@
 {
   "books": [
     {
+      "title": "Midnight Come Again",
+      "url": "https://www.goodreads.com/book/show/271298.Midnight_Come_Again",
+      "id": "1098976",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1426172686i/271298.jpg",
+      "authors": [
+        "Dana Stabenow"
+      ],
+      "genres": [
+        "mystery",
+        "fiction",
+        "crime",
+        "mystery-thriller",
+        "suspense",
+        "thriller",
+        "detective"
+      ],
+      "rating": 4.29,
+      "ratings": 4099,
+      "reviews": 216
+    },
+    {
       "title": "Eva's Treetop Festival",
       "url": "https://www.goodreads.com/book/show/22323689-eva-s-treetop-festival",
       "id": "41718300",
@@ -20,48 +41,6 @@
       "rating": 4.19,
       "ratings": 4099,
       "reviews": 372
-    },
-    {
-      "title": "The Number of Love",
-      "url": "https://www.goodreads.com/book/show/42075376-the-number-of-love",
-      "id": "65611344",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1539093452i/42075376.jpg",
-      "authors": [
-        "Roseanna M. White"
-      ],
-      "genres": [
-        "historical-fiction",
-        "christian-fiction",
-        "romance",
-        "historical",
-        "christian",
-        "fiction",
-        "historical-romance"
-      ],
-      "rating": 4.3,
-      "ratings": 4099,
-      "reviews": 802
-    },
-    {
-      "title": "Parasyte 2",
-      "url": "https://www.goodreads.com/book/show/2000458.Parasyte_2",
-      "id": "2004281",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348589991i/2000458.jpg",
-      "authors": [
-        "Hitoshi Iwaaki"
-      ],
-      "genres": [
-        "manga",
-        "horror",
-        "graphic-novels",
-        "science-fiction",
-        "comics",
-        "fiction",
-        "seinen"
-      ],
-      "rating": 4.33,
-      "ratings": 4098,
-      "reviews": 227
     },
     {
       "title": "Someone Perfect",
@@ -85,25 +64,46 @@
       "reviews": 404
     },
     {
-      "title": "Murder Most Royal",
-      "url": "https://www.goodreads.com/book/show/31091.Murder_Most_Royal",
-      "id": "1136839",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1460124804i/31091.jpg",
+      "title": "Parasyte 2",
+      "url": "https://www.goodreads.com/book/show/2000458.Parasyte_2",
+      "id": "2004281",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348589991i/2000458.jpg",
       "authors": [
-        "Jean Plaidy"
+        "Hitoshi Iwaaki"
       ],
       "genres": [
-        "historical-fiction",
-        "historical",
+        "manga",
+        "horror",
+        "graphic-novels",
+        "science-fiction",
+        "comics",
         "fiction",
-        "tudor-period",
-        "british-literature",
-        "16th-century",
-        "romance"
+        "seinen"
       ],
-      "rating": 4.01,
+      "rating": 4.33,
+      "ratings": 4098,
+      "reviews": 227
+    },
+    {
+      "title": "Star Father",
+      "url": "https://www.goodreads.com/book/show/58411579-star-father",
+      "id": "91628523",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1633110558i/58411579.jpg",
+      "authors": [
+        "Charlie N. Holmberg"
+      ],
+      "genres": [
+        "fantasy",
+        "romance",
+        "fiction",
+        "mythology",
+        "audiobook",
+        "young-adult",
+        "magic"
+      ],
+      "rating": 4.29,
       "ratings": 4097,
-      "reviews": 137
+      "reviews": 383
     },
     {
       "title": "Captain Horatio Hornblower: Beat to Quarters / Ship of the Line / Flying Colours",
@@ -165,25 +165,45 @@
       "reviews": 146
     },
     {
-      "title": "Star Father",
-      "url": "https://www.goodreads.com/book/show/58411579-star-father",
-      "id": "91628523",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1633110558i/58411579.jpg",
+      "title": "Murder Most Royal",
+      "url": "https://www.goodreads.com/book/show/31091.Murder_Most_Royal",
+      "id": "1136839",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1460124804i/31091.jpg",
       "authors": [
-        "Charlie N. Holmberg"
+        "Jean Plaidy"
       ],
       "genres": [
-        "fantasy",
-        "romance",
+        "historical-fiction",
+        "historical",
         "fiction",
-        "mythology",
-        "audiobook",
-        "young-adult",
-        "magic"
+        "tudor-period",
+        "british-literature",
+        "16th-century",
+        "romance"
+      ],
+      "rating": 4.01,
+      "ratings": 4097,
+      "reviews": 137
+    },
+    {
+      "title": "Claiming Cari",
+      "url": "https://www.goodreads.com/book/show/44294148-claiming-cari",
+      "id": "57687315",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1551916523i/44294148.jpg",
+      "authors": [
+        "Megyn Ward"
+      ],
+      "genres": [
+        "romance",
+        "contemporary-romance",
+        "contemporary",
+        "fiction",
+        "new-adult-romance",
+        "new-adult"
       ],
       "rating": 4.29,
-      "ratings": 4097,
-      "reviews": 383
+      "ratings": 4096,
+      "reviews": 206
     },
     {
       "title": "The Monks Hood Murders",
@@ -207,27 +227,6 @@
       "reviews": 221
     },
     {
-      "title": "Little Girl Missing",
-      "url": "https://www.goodreads.com/book/show/45438966-little-girl-missing",
-      "id": "70194509",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1556812378i/45438966.jpg",
-      "authors": [
-        "J.G. Roberts"
-      ],
-      "genres": [
-        "thriller",
-        "mystery",
-        "fiction",
-        "mystery-thriller",
-        "crime",
-        "adult",
-        "suspense"
-      ],
-      "rating": 4.01,
-      "ratings": 4096,
-      "reviews": 283
-    },
-    {
       "title": "Strangers in Paradise: Pocket Book 1",
       "url": "https://www.goodreads.com/book/show/15666.Strangers_in_Paradise",
       "id": "17501",
@@ -249,26 +248,6 @@
       "reviews": 299
     },
     {
-      "title": "Claiming Cari",
-      "url": "https://www.goodreads.com/book/show/44294148-claiming-cari",
-      "id": "57687315",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1551916523i/44294148.jpg",
-      "authors": [
-        "Megyn Ward"
-      ],
-      "genres": [
-        "romance",
-        "contemporary-romance",
-        "contemporary",
-        "fiction",
-        "new-adult-romance",
-        "new-adult"
-      ],
-      "rating": 4.29,
-      "ratings": 4096,
-      "reviews": 206
-    },
-    {
       "title": "House of Glass",
       "url": "https://www.goodreads.com/book/show/174442.House_of_Glass",
       "id": "1328998",
@@ -288,6 +267,27 @@
       "rating": 4.34,
       "ratings": 4096,
       "reviews": 342
+    },
+    {
+      "title": "Little Girl Missing",
+      "url": "https://www.goodreads.com/book/show/45438966-little-girl-missing",
+      "id": "70194509",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1556812378i/45438966.jpg",
+      "authors": [
+        "J.G. Roberts"
+      ],
+      "genres": [
+        "thriller",
+        "mystery",
+        "fiction",
+        "mystery-thriller",
+        "crime",
+        "adult",
+        "suspense"
+      ],
+      "rating": 4.01,
+      "ratings": 4096,
+      "reviews": 283
     },
     {
       "title": "Oral History",
@@ -332,27 +332,6 @@
       "reviews": 175
     },
     {
-      "title": "Becoming Brianna",
-      "url": "https://www.goodreads.com/book/show/52517819-becoming-brianna",
-      "id": "70033336",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1576006536l/52517819.jpg",
-      "authors": [
-        "Terri Libenson"
-      ],
-      "genres": [
-        "graphic-novels",
-        "middle-grade",
-        "realistic-fiction",
-        "fiction",
-        "comics",
-        "childrens",
-        "jewish"
-      ],
-      "rating": 4.13,
-      "ratings": 4095,
-      "reviews": 303
-    },
-    {
       "title": "It's Okay to Be Different",
       "url": "https://www.goodreads.com/book/show/120661.It_s_Okay_to_Be_Different",
       "id": "527176",
@@ -372,6 +351,27 @@
       "rating": 4.37,
       "ratings": 4095,
       "reviews": 511
+    },
+    {
+      "title": "Becoming Brianna",
+      "url": "https://www.goodreads.com/book/show/52517819-becoming-brianna",
+      "id": "70033336",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1576006536l/52517819.jpg",
+      "authors": [
+        "Terri Libenson"
+      ],
+      "genres": [
+        "graphic-novels",
+        "middle-grade",
+        "realistic-fiction",
+        "fiction",
+        "comics",
+        "childrens",
+        "jewish"
+      ],
+      "rating": 4.13,
+      "ratings": 4095,
+      "reviews": 303
     },
     {
       "title": "The Orphans of Raspay",
@@ -395,25 +395,45 @@
       "reviews": 367
     },
     {
-      "title": "Lucifer, Vol. 10: Morningstar",
-      "url": "https://www.goodreads.com/book/show/359193.Lucifer_Vol_10",
-      "id": "867367",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1309579331i/359193.jpg",
+      "title": "Fair Game",
+      "url": "https://www.goodreads.com/book/show/61202702-fair-game",
+      "id": "96482652",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1663172512i/61202702.jpg",
       "authors": [
-        "Mike Carey"
+        "David J. Gatward"
+      ],
+      "genres": [
+        "mystery",
+        "crime",
+        "mystery-thriller",
+        "fiction",
+        "thriller",
+        "audiobook"
+      ],
+      "rating": 4.61,
+      "ratings": 4094,
+      "reviews": 97
+    },
+    {
+      "title": "Calvin and Hobbes: Sunday Pages, 1985-1995: An Exhibition Catalogue",
+      "url": "https://www.goodreads.com/book/show/24820.Calvin_and_Hobbes",
+      "id": "3320656",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1437956476i/24820.jpg",
+      "authors": [
+        "Bill Watterson"
       ],
       "genres": [
         "comics",
+        "humor",
         "graphic-novels",
-        "fantasy",
         "fiction",
-        "horror",
-        "graphic-novels-comics",
-        "comic-book"
+        "comic-book",
+        "comic-strips",
+        "graphic-novels-comics"
       ],
-      "rating": 4.31,
+      "rating": 4.71,
       "ratings": 4094,
-      "reviews": 84
+      "reviews": 122
     },
     {
       "title": "Ask, Tell",
@@ -437,67 +457,46 @@
       "reviews": 380
     },
     {
-      "title": "Lone Wolf",
-      "url": "https://www.goodreads.com/book/show/36142615-lone-wolf",
-      "id": "48645850",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1503979913i/36142615.jpg",
+      "title": "The Lost Princess",
+      "url": "https://www.goodreads.com/book/show/43157164-the-lost-princess",
+      "id": "66947836",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1567706990i/43157164.jpg",
       "authors": [
-        "Jen J. Danna"
-      ],
-      "genres": [
-        "mystery",
-        "thriller",
-        "suspense",
-        "fiction",
-        "dogs",
-        "mystery-thriller",
-        "animals"
-      ],
-      "rating": 4.21,
-      "ratings": 4094,
-      "reviews": 482
-    },
-    {
-      "title": "A Treasury of Curious George",
-      "url": "https://www.goodreads.com/book/show/141936.A_Treasury_of_Curious_George",
-      "id": "136899",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348810766i/141936.jpg",
-      "authors": [
-        "Margret Rey"
-      ],
-      "genres": [
-        "childrens",
-        "picture-books",
-        "fiction",
-        "animals",
-        "classics",
-        "kids",
-        "short-stories"
-      ],
-      "rating": 4.35,
-      "ratings": 4094,
-      "reviews": 103
-    },
-    {
-      "title": "The Toymaker's Curse",
-      "url": "https://www.goodreads.com/book/show/54670772-the-toymaker-s-curse",
-      "id": "85297323",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1595685890i/54670772.jpg",
-      "authors": [
-        "C.J. Archer"
+        "Connie Glynn"
       ],
       "genres": [
         "fantasy",
-        "mystery",
-        "audiobook",
-        "historical-fiction",
-        "magic",
-        "historical",
-        "fiction"
+        "young-adult",
+        "lgbt",
+        "romance",
+        "queer",
+        "fiction",
+        "lesbian"
       ],
-      "rating": 4.1,
+      "rating": 4.2,
       "ratings": 4094,
-      "reviews": 144
+      "reviews": 314
+    },
+    {
+      "title": "Lucifer, Vol. 10: Morningstar",
+      "url": "https://www.goodreads.com/book/show/359193.Lucifer_Vol_10",
+      "id": "867367",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1309579331i/359193.jpg",
+      "authors": [
+        "Mike Carey"
+      ],
+      "genres": [
+        "comics",
+        "graphic-novels",
+        "fantasy",
+        "fiction",
+        "horror",
+        "graphic-novels-comics",
+        "comic-book"
+      ],
+      "rating": 4.31,
+      "ratings": 4094,
+      "reviews": 84
     }
   ]
 }

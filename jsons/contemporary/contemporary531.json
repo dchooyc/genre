@@ -1,6 +1,27 @@
 {
   "books": [
     {
+      "title": "Dom",
+      "url": "https://www.goodreads.com/book/show/54993981-dom",
+      "id": "85402101",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1597672427i/54993981.jpg",
+      "authors": [
+        "Fiona Davenport"
+      ],
+      "genres": [
+        "romance",
+        "novella",
+        "contemporary",
+        "contemporary-romance",
+        "short-stories",
+        "amazon",
+        "erotica"
+      ],
+      "rating": 4.19,
+      "ratings": 1946,
+      "reviews": 173
+    },
+    {
       "title": "The Shadow Between Us",
       "url": "https://www.goodreads.com/book/show/42615796-the-shadow-between-us",
       "id": "64888620",
@@ -38,27 +59,6 @@
       "rating": 4.37,
       "ratings": 1946,
       "reviews": 181
-    },
-    {
-      "title": "Dom",
-      "url": "https://www.goodreads.com/book/show/54993981-dom",
-      "id": "85402101",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1597672427i/54993981.jpg",
-      "authors": [
-        "Fiona Davenport"
-      ],
-      "genres": [
-        "romance",
-        "novella",
-        "contemporary",
-        "contemporary-romance",
-        "short-stories",
-        "amazon",
-        "erotica"
-      ],
-      "rating": 4.19,
-      "ratings": 1946,
-      "reviews": 173
     },
     {
       "title": "Secrets of the Cottage by the Sea",
@@ -145,67 +145,25 @@
       "reviews": 242
     },
     {
-      "title": "The Rising",
-      "url": "https://www.goodreads.com/book/show/60185260-the-rising",
-      "id": "94922638",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1670861329i/60185260.jpg",
+      "title": "The Third Wish",
+      "url": "https://www.goodreads.com/book/show/59711597-the-third-wish",
+      "id": "55401801",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1682375440i/59711597.jpg",
       "authors": [
-        "Jodi Ellen Malpas"
+        "Carolyn Brown"
       ],
       "genres": [
-        "dark",
         "romance",
-        "suspense",
-        "erotica",
-        "crime",
-        "romantic-suspense",
-        "contemporary"
-      ],
-      "rating": 4.57,
-      "ratings": 1944,
-      "reviews": 254
-    },
-    {
-      "title": "El descontento",
-      "url": "https://www.goodreads.com/book/show/184213307-el-descontento",
-      "id": "188132986",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1688554467i/184213307.jpg",
-      "authors": [
-        "Beatriz Serrano"
-      ],
-      "genres": [
-        "fiction",
-        "novels",
-        "literary-fiction",
         "contemporary",
-        "spanish-literature",
-        "spain",
-        "womens"
+        "contemporary-romance",
+        "fiction",
+        "novella",
+        "womens-fiction",
+        "short-stories"
       ],
-      "rating": 4.15,
+      "rating": 4.19,
       "ratings": 1944,
-      "reviews": 372
-    },
-    {
-      "title": "Jonny's Redemption",
-      "url": "https://www.goodreads.com/book/show/55769462-jonny-s-redemption",
-      "id": "86979292",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1614235705i/55769462.jpg",
-      "authors": [
-        "Riley Edwards"
-      ],
-      "genres": [
-        "romance",
-        "romantic-suspense",
-        "military-romance",
-        "suspense",
-        "military-fiction",
-        "adult",
-        "contemporary"
-      ],
-      "rating": 4.55,
-      "ratings": 1944,
-      "reviews": 219
+      "reviews": 80
     },
     {
       "title": "The Snow Man",
@@ -229,25 +187,107 @@
       "reviews": 124
     },
     {
-      "title": "The Third Wish",
-      "url": "https://www.goodreads.com/book/show/59711597-the-third-wish",
-      "id": "55401801",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1682375440i/59711597.jpg",
+      "title": "The Rising",
+      "url": "https://www.goodreads.com/book/show/60185260-the-rising",
+      "id": "94922638",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1670861329i/60185260.jpg",
       "authors": [
-        "Carolyn Brown"
+        "Jodi Ellen Malpas"
+      ],
+      "genres": [
+        "dark",
+        "romance",
+        "suspense",
+        "erotica",
+        "crime",
+        "romantic-suspense",
+        "contemporary"
+      ],
+      "rating": 4.57,
+      "ratings": 1944,
+      "reviews": 254
+    },
+    {
+      "title": "Jonny's Redemption",
+      "url": "https://www.goodreads.com/book/show/55769462-jonny-s-redemption",
+      "id": "86979292",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1614235705i/55769462.jpg",
+      "authors": [
+        "Riley Edwards"
       ],
       "genres": [
         "romance",
-        "contemporary",
-        "contemporary-romance",
-        "fiction",
-        "novella",
-        "womens-fiction",
-        "short-stories"
+        "romantic-suspense",
+        "military-romance",
+        "suspense",
+        "military-fiction",
+        "adult",
+        "contemporary"
       ],
-      "rating": 4.19,
+      "rating": 4.55,
       "ratings": 1944,
-      "reviews": 80
+      "reviews": 219
+    },
+    {
+      "title": "El descontento",
+      "url": "https://www.goodreads.com/book/show/184213307-el-descontento",
+      "id": "188132986",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1688554467i/184213307.jpg",
+      "authors": [
+        "Beatriz Serrano"
+      ],
+      "genres": [
+        "fiction",
+        "novels",
+        "literary-fiction",
+        "contemporary",
+        "spanish-literature",
+        "spain",
+        "womens"
+      ],
+      "rating": 4.15,
+      "ratings": 1944,
+      "reviews": 372
+    },
+    {
+      "title": "Illúzió",
+      "url": "https://www.goodreads.com/book/show/27384162-ill-zi",
+      "id": "47427393",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1446071401i/27384162.jpg",
+      "authors": [
+        "Laura Leiner"
+      ],
+      "genres": [
+        "hungarian-literature",
+        "romance",
+        "young-adult",
+        "romantic",
+        "contemporary"
+      ],
+      "rating": 4.54,
+      "ratings": 1943,
+      "reviews": 24
+    },
+    {
+      "title": "The Princess",
+      "url": "https://www.goodreads.com/book/show/42281557-the-princess",
+      "id": "65914862",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1539296519i/42281557.jpg",
+      "authors": [
+        "Lisa Renee Jones"
+      ],
+      "genres": [
+        "romance",
+        "contemporary-romance",
+        "contemporary",
+        "audiobook",
+        "suspense",
+        "mystery",
+        "romantic-suspense"
+      ],
+      "rating": 4.09,
+      "ratings": 1943,
+      "reviews": 263
     },
     {
       "title": "No One to Trust",
@@ -292,88 +332,6 @@
       "reviews": 282
     },
     {
-      "title": "Illúzió",
-      "url": "https://www.goodreads.com/book/show/27384162-ill-zi",
-      "id": "47427393",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1446071401i/27384162.jpg",
-      "authors": [
-        "Laura Leiner"
-      ],
-      "genres": [
-        "hungarian-literature",
-        "romance",
-        "young-adult",
-        "romantic",
-        "contemporary"
-      ],
-      "rating": 4.54,
-      "ratings": 1943,
-      "reviews": 24
-    },
-    {
-      "title": "The Princess",
-      "url": "https://www.goodreads.com/book/show/42281557-the-princess",
-      "id": "65914862",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1539296519i/42281557.jpg",
-      "authors": [
-        "Lisa Renee Jones"
-      ],
-      "genres": [
-        "romance",
-        "contemporary-romance",
-        "contemporary",
-        "audiobook",
-        "suspense",
-        "mystery",
-        "romantic-suspense"
-      ],
-      "rating": 4.09,
-      "ratings": 1943,
-      "reviews": 263
-    },
-    {
-      "title": "It Had to Be Them",
-      "url": "https://www.goodreads.com/book/show/29912436-it-had-to-be-them",
-      "id": "50289339",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1472156593i/29912436.jpg",
-      "authors": [
-        "Tamra Baumann"
-      ],
-      "genres": [
-        "romance",
-        "contemporary",
-        "contemporary-romance",
-        "chick-lit",
-        "fiction",
-        "adult",
-        "amazon"
-      ],
-      "rating": 4.23,
-      "ratings": 1942,
-      "reviews": 96
-    },
-    {
-      "title": "Her Irish Boss",
-      "url": "https://www.goodreads.com/book/show/49600934-her-irish-boss",
-      "id": "73535769",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1569590595l/49600934.jpg",
-      "authors": [
-        "Palmer Jones"
-      ],
-      "genres": [
-        "romance",
-        "contemporary",
-        "contemporary-romance",
-        "fiction",
-        "chick-lit",
-        "amazon",
-        "irish-literature"
-      ],
-      "rating": 4.06,
-      "ratings": 1942,
-      "reviews": 98
-    },
-    {
       "title": "Forever Mine: Hayden & Savannah",
       "url": "https://www.goodreads.com/book/show/58578664-forever-mine",
       "id": "67505749",
@@ -393,27 +351,6 @@
       "rating": 4.05,
       "ratings": 1942,
       "reviews": 237
-    },
-    {
-      "title": "Zero Divergence",
-      "url": "https://www.goodreads.com/book/show/52351789-zero-divergence",
-      "id": "75204771",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1584124079i/52351789.jpg",
-      "authors": [
-        "Aimee Nicole Walker"
-      ],
-      "genres": [
-        "m-m-romance",
-        "romance",
-        "mystery",
-        "contemporary",
-        "crime",
-        "lgbt",
-        "suspense"
-      ],
-      "rating": 4.29,
-      "ratings": 1942,
-      "reviews": 214
     },
     {
       "title": "A Constellation of Roses",
@@ -437,6 +374,27 @@
       "reviews": 404
     },
     {
+      "title": "Her Irish Boss",
+      "url": "https://www.goodreads.com/book/show/49600934-her-irish-boss",
+      "id": "73535769",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1569590595l/49600934.jpg",
+      "authors": [
+        "Palmer Jones"
+      ],
+      "genres": [
+        "romance",
+        "contemporary",
+        "contemporary-romance",
+        "fiction",
+        "chick-lit",
+        "amazon",
+        "irish-literature"
+      ],
+      "rating": 4.06,
+      "ratings": 1942,
+      "reviews": 98
+    },
+    {
       "title": "Squint",
       "url": "https://www.goodreads.com/book/show/38903003-squint",
       "id": "60456738",
@@ -456,6 +414,48 @@
       "rating": 4.19,
       "ratings": 1942,
       "reviews": 359
+    },
+    {
+      "title": "Zero Divergence",
+      "url": "https://www.goodreads.com/book/show/52351789-zero-divergence",
+      "id": "75204771",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1584124079i/52351789.jpg",
+      "authors": [
+        "Aimee Nicole Walker"
+      ],
+      "genres": [
+        "m-m-romance",
+        "romance",
+        "mystery",
+        "contemporary",
+        "crime",
+        "lgbt",
+        "suspense"
+      ],
+      "rating": 4.29,
+      "ratings": 1942,
+      "reviews": 214
+    },
+    {
+      "title": "It Had to Be Them",
+      "url": "https://www.goodreads.com/book/show/29912436-it-had-to-be-them",
+      "id": "50289339",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1472156593i/29912436.jpg",
+      "authors": [
+        "Tamra Baumann"
+      ],
+      "genres": [
+        "romance",
+        "contemporary",
+        "contemporary-romance",
+        "chick-lit",
+        "fiction",
+        "adult",
+        "amazon"
+      ],
+      "rating": 4.23,
+      "ratings": 1942,
+      "reviews": 96
     },
     {
       "title": "Candy Color Paradox, Vol. 1",

@@ -1,6 +1,27 @@
 {
   "books": [
     {
+      "title": "Cakes and Pains",
+      "url": "https://www.goodreads.com/book/show/58349578-cakes-and-pains",
+      "id": "91443833",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1623794368i/58349578.jpg",
+      "authors": [
+        "Nancy Warren"
+      ],
+      "genres": [
+        "cozy-mystery",
+        "mystery",
+        "fantasy",
+        "paranormal",
+        "fiction",
+        "audiobook",
+        "mystery-thriller"
+      ],
+      "rating": 4.25,
+      "ratings": 1031,
+      "reviews": 93
+    },
+    {
       "title": "Etheric Researcher",
       "url": "https://www.goodreads.com/book/show/36697932-etheric-researcher",
       "id": "58498337",
@@ -17,27 +38,6 @@
       "rating": 4.66,
       "ratings": 1031,
       "reviews": 92
-    },
-    {
-      "title": "Seeking the Dead",
-      "url": "https://www.goodreads.com/book/show/3063616-seeking-the-dead",
-      "id": "26365187",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1408929377i/3063616.jpg",
-      "authors": [
-        "Kate Ellis"
-      ],
-      "genres": [
-        "mystery",
-        "crime",
-        "fiction",
-        "mystery-thriller",
-        "british-literature",
-        "paranormal",
-        "detective"
-      ],
-      "rating": 4,
-      "ratings": 1031,
-      "reviews": 76
     },
     {
       "title": "Two Feet Under",
@@ -124,25 +124,25 @@
       "reviews": 83
     },
     {
-      "title": "Deathmark",
-      "url": "https://www.goodreads.com/book/show/122750282-deathmark",
-      "id": "144012036",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1676618200i/122750282.jpg",
+      "title": "Trouble",
+      "url": "https://www.goodreads.com/book/show/63291771-trouble",
+      "id": "99211351",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1668349799i/63291771.jpg",
       "authors": [
-        "Kate Stradling"
+        "Roe Horvat"
       ],
       "genres": [
-        "fantasy",
+        "omegaverse",
+        "m-m-romance",
         "romance",
-        "magic",
-        "young-adult",
-        "fantasy-romance",
         "paranormal",
-        "fiction"
+        "lgbt",
+        "fantasy",
+        "erotica"
       ],
-      "rating": 4.41,
+      "rating": 4.13,
       "ratings": 1027,
-      "reviews": 154
+      "reviews": 153
     },
     {
       "title": "Dancer Dragon",
@@ -182,24 +182,6 @@
       "reviews": 44
     },
     {
-      "title": "Poltergeist Rider",
-      "url": "https://www.goodreads.com/book/show/123028558-poltergeist-rider",
-      "id": "144326120",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1677597171i/123028558.jpg",
-      "authors": [
-        "Lily Harper Hart"
-      ],
-      "genres": [
-        "paranormal",
-        "romance",
-        "fantasy",
-        "paranormal-romance"
-      ],
-      "rating": 4.62,
-      "ratings": 1027,
-      "reviews": 32
-    },
-    {
       "title": "A Very Shifty Christmas",
       "url": "https://www.goodreads.com/book/show/28241805-a-very-shifty-christmas",
       "id": "48275182",
@@ -221,25 +203,62 @@
       "reviews": 98
     },
     {
-      "title": "Trouble",
-      "url": "https://www.goodreads.com/book/show/63291771-trouble",
-      "id": "99211351",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1668349799i/63291771.jpg",
+      "title": "Deathmark",
+      "url": "https://www.goodreads.com/book/show/122750282-deathmark",
+      "id": "144012036",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1676618200i/122750282.jpg",
       "authors": [
-        "Roe Horvat"
+        "Kate Stradling"
       ],
       "genres": [
-        "omegaverse",
-        "m-m-romance",
-        "romance",
-        "paranormal",
-        "lgbt",
         "fantasy",
-        "erotica"
+        "romance",
+        "magic",
+        "young-adult",
+        "fantasy-romance",
+        "paranormal",
+        "fiction"
       ],
-      "rating": 4.13,
+      "rating": 4.41,
       "ratings": 1027,
-      "reviews": 153
+      "reviews": 154
+    },
+    {
+      "title": "Poltergeist Rider",
+      "url": "https://www.goodreads.com/book/show/123028558-poltergeist-rider",
+      "id": "144326120",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1677597171i/123028558.jpg",
+      "authors": [
+        "Lily Harper Hart"
+      ],
+      "genres": [
+        "paranormal",
+        "romance",
+        "fantasy",
+        "paranormal-romance"
+      ],
+      "rating": 4.62,
+      "ratings": 1027,
+      "reviews": 32
+    },
+    {
+      "title": "Walong Diwata ng Pagkahulog",
+      "url": "https://www.goodreads.com/book/show/7045198-walong-diwata-ng-pagkahulog",
+      "id": "7295130",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1362039219i/7045198.jpg",
+      "authors": [
+        "Edgar Calabia Samar"
+      ],
+      "genres": [
+        "fantasy",
+        "fiction",
+        "novels",
+        "horror",
+        "paranormal"
+      ],
+      "rating": 4.1,
+      "ratings": 1026,
+      "reviews": 84
     },
     {
       "title": "The Other Realm Omnibus",
@@ -263,25 +282,6 @@
       "reviews": 93
     },
     {
-      "title": "Walong Diwata ng Pagkahulog",
-      "url": "https://www.goodreads.com/book/show/7045198-walong-diwata-ng-pagkahulog",
-      "id": "7295130",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1362039219i/7045198.jpg",
-      "authors": [
-        "Edgar Calabia Samar"
-      ],
-      "genres": [
-        "fantasy",
-        "fiction",
-        "novels",
-        "horror",
-        "paranormal"
-      ],
-      "rating": 4.1,
-      "ratings": 1026,
-      "reviews": 84
-    },
-    {
       "title": "Christmas Bear",
       "url": "https://www.goodreads.com/book/show/36704851-christmas-bear",
       "id": "58503697",
@@ -301,44 +301,46 @@
       "reviews": 78
     },
     {
-      "title": "The Happy Medium: Life Lessons from the Other Side",
-      "url": "https://www.goodreads.com/book/show/26198894-the-happy-medium",
-      "id": "46174663",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1458495342i/26198894.jpg",
+      "title": "Blue Curse",
+      "url": "https://www.goodreads.com/book/show/36588585-blue-curse",
+      "id": "58158098",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1510589544i/36588585.jpg",
       "authors": [
-        "Kim Russo"
+        "Brad Magnarella"
       ],
       "genres": [
-        "non-fiction",
-        "spirituality",
+        "urban-fantasy",
+        "fantasy",
         "paranormal",
-        "biography",
-        "memoir",
         "supernatural",
-        "audiobook"
+        "military-fiction",
+        "shapeshifters",
+        "dragons"
+      ],
+      "rating": 4.25,
+      "ratings": 1025,
+      "reviews": 101
+    },
+    {
+      "title": "To Enthrall the Demon Lord: A Novel of Love and Magic",
+      "url": "https://www.goodreads.com/book/show/179953756-to-enthrall-the-demon-lord",
+      "id": "57637079",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1687410925i/179953756.jpg",
+      "authors": [
+        "Nadine Mutas"
+      ],
+      "genres": [
+        "paranormal",
+        "romance",
+        "paranormal-romance",
+        "demons",
+        "fantasy",
+        "magic",
+        "witches"
       ],
       "rating": 4.32,
       "ratings": 1025,
-      "reviews": 85
-    },
-    {
-      "title": "Ruling The Pack",
-      "url": "https://www.goodreads.com/book/show/124941127-ruling-the-pack",
-      "id": "146373102",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1680461442i/124941127.jpg",
-      "authors": [
-        "Lindsey Devin"
-      ],
-      "genres": [
-        "fantasy",
-        "shapeshifters",
-        "romance",
-        "paranormal",
-        "fiction"
-      ],
-      "rating": 4.42,
-      "ratings": 1025,
-      "reviews": 40
+      "reviews": 126
     },
     {
       "title": "Bargain with a Beast",
@@ -404,46 +406,44 @@
       "reviews": 74
     },
     {
-      "title": "Blue Curse",
-      "url": "https://www.goodreads.com/book/show/36588585-blue-curse",
-      "id": "58158098",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1510589544i/36588585.jpg",
+      "title": "The Happy Medium: Life Lessons from the Other Side",
+      "url": "https://www.goodreads.com/book/show/26198894-the-happy-medium",
+      "id": "46174663",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1458495342i/26198894.jpg",
       "authors": [
-        "Brad Magnarella"
+        "Kim Russo"
       ],
       "genres": [
-        "urban-fantasy",
-        "fantasy",
+        "non-fiction",
+        "spirituality",
         "paranormal",
+        "biography",
+        "memoir",
         "supernatural",
-        "military-fiction",
-        "shapeshifters",
-        "dragons"
-      ],
-      "rating": 4.25,
-      "ratings": 1025,
-      "reviews": 101
-    },
-    {
-      "title": "To Enthrall the Demon Lord: A Novel of Love and Magic",
-      "url": "https://www.goodreads.com/book/show/179953756-to-enthrall-the-demon-lord",
-      "id": "57637079",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1687410925i/179953756.jpg",
-      "authors": [
-        "Nadine Mutas"
-      ],
-      "genres": [
-        "paranormal",
-        "romance",
-        "paranormal-romance",
-        "demons",
-        "fantasy",
-        "magic",
-        "witches"
+        "audiobook"
       ],
       "rating": 4.32,
       "ratings": 1025,
-      "reviews": 126
+      "reviews": 85
+    },
+    {
+      "title": "Ruling The Pack",
+      "url": "https://www.goodreads.com/book/show/124941127-ruling-the-pack",
+      "id": "146373102",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1680461442i/124941127.jpg",
+      "authors": [
+        "Lindsey Devin"
+      ],
+      "genres": [
+        "fantasy",
+        "shapeshifters",
+        "romance",
+        "paranormal",
+        "fiction"
+      ],
+      "rating": 4.42,
+      "ratings": 1025,
+      "reviews": 40
     },
     {
       "title": "Queenie & the Krakens",

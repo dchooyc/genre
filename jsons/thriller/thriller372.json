@@ -1,27 +1,6 @@
 {
   "books": [
     {
-      "title": "Berlin Red",
-      "url": "https://www.goodreads.com/book/show/29489057-berlin-red",
-      "id": "49771997",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1457782329i/29489057.jpg",
-      "authors": [
-        "Sam Eastland"
-      ],
-      "genres": [
-        "mystery",
-        "historical-fiction",
-        "russia",
-        "fiction",
-        "thriller",
-        "world-war-ii",
-        "war"
-      ],
-      "rating": 4.23,
-      "ratings": 761,
-      "reviews": 75
-    },
-    {
       "title": "The Sleeping Girls",
       "url": "https://www.goodreads.com/book/show/199864926-the-sleeping-girls",
       "id": "204471282",
@@ -40,6 +19,27 @@
       "rating": 4.54,
       "ratings": 761,
       "reviews": 97
+    },
+    {
+      "title": "The Odin Mission",
+      "url": "https://www.goodreads.com/book/show/3327114-the-odin-mission",
+      "id": "3365101",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1368620345i/3327114.jpg",
+      "authors": [
+        "James  Holland"
+      ],
+      "genres": [
+        "historical-fiction",
+        "fiction",
+        "world-war-ii",
+        "historical",
+        "military-fiction",
+        "war",
+        "thriller"
+      ],
+      "rating": 4.04,
+      "ratings": 761,
+      "reviews": 55
     },
     {
       "title": "Seed of Evil",
@@ -61,48 +61,6 @@
       "reviews": 71
     },
     {
-      "title": "Dark Angel",
-      "url": "https://www.goodreads.com/book/show/60454205-dark-angel",
-      "id": "92979409",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1645318725i/60454205.jpg",
-      "authors": [
-        "Brian  Andrews"
-      ],
-      "genres": [
-        "fiction",
-        "christian-fiction",
-        "thriller",
-        "mystery",
-        "audiobook",
-        "suspense",
-        "military-fiction"
-      ],
-      "rating": 4.39,
-      "ratings": 760,
-      "reviews": 87
-    },
-    {
-      "title": "The Gathering",
-      "url": "https://www.goodreads.com/book/show/186872450-the-gathering",
-      "id": "164914756",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1690811189i/186872450.jpg",
-      "authors": [
-        "C.J. Tudor"
-      ],
-      "genres": [
-        "horror",
-        "thriller",
-        "mystery",
-        "fiction",
-        "mystery-thriller",
-        "paranormal",
-        "vampires"
-      ],
-      "rating": 4.14,
-      "ratings": 760,
-      "reviews": 538
-    },
-    {
       "title": "Relentless",
       "url": "https://www.goodreads.com/book/show/40543531-relentless",
       "id": "62736896",
@@ -120,23 +78,6 @@
       "rating": 4.07,
       "ratings": 760,
       "reviews": 56
-    },
-    {
-      "title": "The Florentine",
-      "url": "https://www.goodreads.com/book/show/60380788-the-florentine",
-      "id": "95152869",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1644426783i/60380788.jpg",
-      "authors": [
-        "Tom Trott"
-      ],
-      "genres": [
-        "thriller",
-        "mystery-thriller",
-        "amazon"
-      ],
-      "rating": 4.3,
-      "ratings": 760,
-      "reviews": 36
     },
     {
       "title": "No Way Out",
@@ -160,21 +101,63 @@
       "reviews": 92
     },
     {
-      "title": "Sea of Lies",
-      "url": "https://www.goodreads.com/book/show/107524632-sea-of-lies",
-      "id": "130575958",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1675902348i/107524632.jpg",
+      "title": "The Gathering",
+      "url": "https://www.goodreads.com/book/show/186872450-the-gathering",
+      "id": "164914756",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1690811189i/186872450.jpg",
       "authors": [
-        "Andrew  Cunningham"
+        "C.J. Tudor"
+      ],
+      "genres": [
+        "horror",
+        "thriller",
+        "mystery",
+        "fiction",
+        "mystery-thriller",
+        "paranormal",
+        "vampires"
+      ],
+      "rating": 4.14,
+      "ratings": 760,
+      "reviews": 538
+    },
+    {
+      "title": "The Florentine",
+      "url": "https://www.goodreads.com/book/show/60380788-the-florentine",
+      "id": "95152869",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1644426783i/60380788.jpg",
+      "authors": [
+        "Tom Trott"
       ],
       "genres": [
         "thriller",
-        "mystery",
-        "fiction"
+        "mystery-thriller",
+        "amazon"
       ],
-      "rating": 4.41,
-      "ratings": 759,
-      "reviews": 28
+      "rating": 4.3,
+      "ratings": 760,
+      "reviews": 36
+    },
+    {
+      "title": "Dark Angel",
+      "url": "https://www.goodreads.com/book/show/60454205-dark-angel",
+      "id": "92979409",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1645318725i/60454205.jpg",
+      "authors": [
+        "Brian  Andrews"
+      ],
+      "genres": [
+        "fiction",
+        "christian-fiction",
+        "thriller",
+        "mystery",
+        "audiobook",
+        "suspense",
+        "military-fiction"
+      ],
+      "rating": 4.39,
+      "ratings": 760,
+      "reviews": 87
     },
     {
       "title": "22 Dead Little Bodies and Other Stories (Logan McRae #9.5).",
@@ -198,22 +181,20 @@
       "reviews": 52
     },
     {
-      "title": "The Perfume Killer",
-      "url": "https://www.goodreads.com/book/show/58616326-the-perfume-killer",
-      "id": "92982148",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1627084291i/58616326.jpg",
+      "title": "The Plagues of Pandora",
+      "url": "https://www.goodreads.com/book/show/25050306-the-plagues-of-pandora",
+      "id": "44729876",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1430925207i/25050306.jpg",
       "authors": [
-        "Linda Hagan"
+        "David Leadbeater"
       ],
       "genres": [
-        "mystery",
-        "crime",
-        "audiobook",
+        "adventure",
         "thriller"
       ],
-      "rating": 4.29,
+      "rating": 4.27,
       "ratings": 759,
-      "reviews": 37
+      "reviews": 22
     },
     {
       "title": "Her Risk to Take",
@@ -237,20 +218,22 @@
       "reviews": 52
     },
     {
-      "title": "The Plagues of Pandora",
-      "url": "https://www.goodreads.com/book/show/25050306-the-plagues-of-pandora",
-      "id": "44729876",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1430925207i/25050306.jpg",
+      "title": "The Perfume Killer",
+      "url": "https://www.goodreads.com/book/show/58616326-the-perfume-killer",
+      "id": "92982148",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1627084291i/58616326.jpg",
       "authors": [
-        "David Leadbeater"
+        "Linda Hagan"
       ],
       "genres": [
-        "adventure",
+        "mystery",
+        "crime",
+        "audiobook",
         "thriller"
       ],
-      "rating": 4.27,
+      "rating": 4.29,
       "ratings": 759,
-      "reviews": 22
+      "reviews": 37
     },
     {
       "title": "LITTLE LOST ANGEL",
@@ -272,25 +255,39 @@
       "reviews": 69
     },
     {
-      "title": "In Desperation",
-      "url": "https://www.goodreads.com/book/show/9566974-in-desperation",
-      "id": "14453740",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1349026273l/9566974.jpg",
+      "title": "Sea of Lies",
+      "url": "https://www.goodreads.com/book/show/107524632-sea-of-lies",
+      "id": "130575958",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1675902348i/107524632.jpg",
       "authors": [
-        "Rick Mofina"
+        "Andrew  Cunningham"
       ],
       "genres": [
-        "fiction",
-        "mystery",
         "thriller",
-        "mystery-thriller",
-        "suspense",
-        "crime",
-        "adult-fiction"
+        "mystery",
+        "fiction"
       ],
-      "rating": 4,
+      "rating": 4.41,
+      "ratings": 759,
+      "reviews": 28
+    },
+    {
+      "title": "Die Macht des Täters",
+      "url": "https://www.goodreads.com/book/show/60648222-die-macht-des-t-ters",
+      "id": "95204322",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1647704065i/60648222.jpg",
+      "authors": [
+        "Arno Strobel"
+      ],
+      "genres": [
+        "thriller",
+        "german-literature",
+        "crime",
+        "audiobook"
+      ],
+      "rating": 4.08,
       "ratings": 758,
-      "reviews": 76
+      "reviews": 91
     },
     {
       "title": "This Mortal Boy",
@@ -314,22 +311,25 @@
       "reviews": 130
     },
     {
-      "title": "Die Macht des Täters",
-      "url": "https://www.goodreads.com/book/show/60648222-die-macht-des-t-ters",
-      "id": "95204322",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1647704065i/60648222.jpg",
+      "title": "In Desperation",
+      "url": "https://www.goodreads.com/book/show/9566974-in-desperation",
+      "id": "14453740",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1349026273l/9566974.jpg",
       "authors": [
-        "Arno Strobel"
+        "Rick Mofina"
       ],
       "genres": [
+        "fiction",
+        "mystery",
         "thriller",
-        "german-literature",
+        "mystery-thriller",
+        "suspense",
         "crime",
-        "audiobook"
+        "adult-fiction"
       ],
-      "rating": 4.08,
+      "rating": 4,
       "ratings": 758,
-      "reviews": 91
+      "reviews": 76
     },
     {
       "title": "Una stella senza luce",
@@ -353,27 +353,6 @@
       "reviews": 110
     },
     {
-      "title": "The Last Day of Christmas: The Fall of Jack Parlabane",
-      "url": "https://www.goodreads.com/book/show/23476555-the-last-day-of-christmas",
-      "id": "43067866",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1421315583i/23476555.jpg",
-      "authors": [
-        "Christopher Brookmyre"
-      ],
-      "genres": [
-        "crime",
-        "fiction",
-        "mystery",
-        "short-stories",
-        "thriller",
-        "humor",
-        "christmas"
-      ],
-      "rating": 4.06,
-      "ratings": 755,
-      "reviews": 35
-    },
-    {
       "title": "Grant Park",
       "url": "https://www.goodreads.com/book/show/24998922-grant-park",
       "id": "44669040",
@@ -393,6 +372,27 @@
       "rating": 4.25,
       "ratings": 755,
       "reviews": 162
+    },
+    {
+      "title": "The Last Day of Christmas: The Fall of Jack Parlabane",
+      "url": "https://www.goodreads.com/book/show/23476555-the-last-day-of-christmas",
+      "id": "43067866",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1421315583i/23476555.jpg",
+      "authors": [
+        "Christopher Brookmyre"
+      ],
+      "genres": [
+        "crime",
+        "fiction",
+        "mystery",
+        "short-stories",
+        "thriller",
+        "humor",
+        "christmas"
+      ],
+      "rating": 4.06,
+      "ratings": 755,
+      "reviews": 35
     },
     {
       "title": "Dead Fall",

@@ -16,12 +16,17 @@ type Genres struct {
 	Genres []string `json:"genres"`
 }
 
+type genreAndCount struct {
+	genre string
+	count int
+}
+
 func main() {
 	allBooks := retrieveFile("output.json")
 	allBooks = removeDuplicates(allBooks)
 	fmt.Println("Length of all books: ", len(allBooks))
 
-	genreToBooks := sortByGenre(allBooks)
+	genreToBooks := filterTopGenres(sortByGenre(allBooks))
 	createJsons(genreToBooks)
 }
 
@@ -142,7 +147,30 @@ func sortByGenre(books []book.Book) map[string][]book.Book {
 		}
 	}
 
+	delete(genreToBooks, "audiobook")
+
 	return genreToBooks
+}
+
+func filterTopGenres(genreToBooks map[string][]book.Book) map[string][]book.Book {
+	res := make(map[string][]book.Book)
+	genres := []genreAndCount{}
+
+	for genre, books := range genreToBooks {
+		genres = append(genres, genreAndCount{genre, len(books)})
+	}
+
+	sort.Slice(genres, func(i, j int) bool {
+		return genres[i].count > genres[j].count
+	})
+
+	genres = genres[:365]
+
+	for _, g := range genres {
+		res[g.genre] = genreToBooks[g.genre]
+	}
+
+	return res
 }
 
 func retrieveFile(target string) []book.Book {

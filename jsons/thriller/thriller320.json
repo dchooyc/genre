@@ -1,41 +1,23 @@
 {
   "books": [
     {
-      "title": "Perilous",
-      "url": "https://www.goodreads.com/book/show/25547595-perilous",
-      "id": "45340762",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1441918985i/25547595.jpg",
+      "title": "Head Hunters",
+      "url": "https://www.goodreads.com/book/show/39124181-head-hunters",
+      "id": "60726703",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1520809321i/39124181.jpg",
       "authors": [
-        "E.H. Reinhard"
+        "Chris Ryan"
       ],
       "genres": [
+        "fiction",
+        "audiobook",
+        "military-fiction",
         "thriller",
-        "mystery",
-        "crime",
-        "mystery-thriller",
-        "fiction"
+        "action"
       ],
-      "rating": 4.39,
+      "rating": 4.43,
       "ratings": 1186,
-      "reviews": 53
-    },
-    {
-      "title": "Scourge",
-      "url": "https://www.goodreads.com/book/show/41834169-scourge",
-      "id": "67796980",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1536996149i/41834169.jpg",
-      "authors": [
-        "Bradley  Wright"
-      ],
-      "genres": [
-        "thriller",
-        "action",
-        "mystery-thriller",
-        "mystery"
-      ],
-      "rating": 4.5,
-      "ratings": 1185,
-      "reviews": 68
+      "reviews": 40
     },
     {
       "title": "The Bastille Spy",
@@ -57,6 +39,39 @@
       "rating": 4.04,
       "ratings": 1185,
       "reviews": 119
+    },
+    {
+      "title": "Scourge",
+      "url": "https://www.goodreads.com/book/show/41834169-scourge",
+      "id": "67796980",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1536996149i/41834169.jpg",
+      "authors": [
+        "Bradley  Wright"
+      ],
+      "genres": [
+        "thriller",
+        "action",
+        "mystery-thriller",
+        "mystery"
+      ],
+      "rating": 4.5,
+      "ratings": 1185,
+      "reviews": 68
+    },
+    {
+      "title": "Tanner Times Two",
+      "url": "https://www.goodreads.com/book/show/27281881-tanner-times-two",
+      "id": "47337631",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1445892776i/27281881.jpg",
+      "authors": [
+        "Remington Kane"
+      ],
+      "genres": [
+        "thriller"
+      ],
+      "rating": 4.54,
+      "ratings": 1184,
+      "reviews": 18
     },
     {
       "title": "Blackbird",
@@ -98,40 +113,25 @@
       "reviews": 66
     },
     {
-      "title": "Tanner Times Two",
-      "url": "https://www.goodreads.com/book/show/27281881-tanner-times-two",
-      "id": "47337631",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1445892776i/27281881.jpg",
+      "title": "Todesrache",
+      "url": "https://www.goodreads.com/book/show/59959889-todesrache",
+      "id": "94475262",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1640705657i/59959889.jpg",
       "authors": [
-        "Remington Kane"
+        "Andreas Gruber"
       ],
       "genres": [
-        "thriller"
-      ],
-      "rating": 4.54,
-      "ratings": 1184,
-      "reviews": 18
-    },
-    {
-      "title": "Dead Point",
-      "url": "https://www.goodreads.com/book/show/2470327.Dead_Point",
-      "id": "2477524",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347489872i/2470327.jpg",
-      "authors": [
-        "Peter Temple"
-      ],
-      "genres": [
-        "crime",
-        "fiction",
-        "mystery",
-        "australia",
         "thriller",
-        "detective",
-        "audiobook"
+        "fiction",
+        "german-literature",
+        "audiobook",
+        "adult",
+        "contemporary",
+        "crime"
       ],
-      "rating": 4.08,
+      "rating": 4.52,
       "ratings": 1183,
-      "reviews": 91
+      "reviews": 90
     },
     {
       "title": "Lennox",
@@ -155,25 +155,25 @@
       "reviews": 117
     },
     {
-      "title": "Todesrache",
-      "url": "https://www.goodreads.com/book/show/59959889-todesrache",
-      "id": "94475262",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1640705657i/59959889.jpg",
+      "title": "Dead Point",
+      "url": "https://www.goodreads.com/book/show/2470327.Dead_Point",
+      "id": "2477524",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347489872i/2470327.jpg",
       "authors": [
-        "Andreas Gruber"
+        "Peter Temple"
       ],
       "genres": [
-        "thriller",
+        "crime",
         "fiction",
-        "german-literature",
-        "audiobook",
-        "adult",
-        "contemporary",
-        "crime"
+        "mystery",
+        "australia",
+        "thriller",
+        "detective",
+        "audiobook"
       ],
-      "rating": 4.52,
+      "rating": 4.08,
       "ratings": 1183,
-      "reviews": 90
+      "reviews": 91
     },
     {
       "title": "Locke & Key Slipcase Set",
@@ -239,6 +239,24 @@
       "reviews": 57
     },
     {
+      "title": "Invasion",
+      "url": "https://www.goodreads.com/book/show/38343431-invasion",
+      "id": "60005004",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1517723808i/38343431.jpg",
+      "authors": [
+        "M.P. McDonald"
+      ],
+      "genres": [
+        "post-apocalyptic",
+        "dystopia",
+        "fiction",
+        "thriller"
+      ],
+      "rating": 4.39,
+      "ratings": 1181,
+      "reviews": 79
+    },
+    {
       "title": "River Bones",
       "url": "https://www.goodreads.com/book/show/36435013-river-bones",
       "id": "58135571",
@@ -259,22 +277,25 @@
       "reviews": 100
     },
     {
-      "title": "Invasion",
-      "url": "https://www.goodreads.com/book/show/38343431-invasion",
-      "id": "60005004",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1517723808i/38343431.jpg",
+      "title": "The Foundation",
+      "url": "https://www.goodreads.com/book/show/37808451-the-foundation",
+      "id": "42409452",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1515016763i/37808451.jpg",
       "authors": [
-        "M.P. McDonald"
+        "Steve P. Vincent"
       ],
       "genres": [
-        "post-apocalyptic",
-        "dystopia",
+        "thriller",
         "fiction",
-        "thriller"
+        "mystery",
+        "action",
+        "crime",
+        "mystery-thriller",
+        "amazon"
       ],
-      "rating": 4.39,
-      "ratings": 1181,
-      "reviews": 79
+      "rating": 4.09,
+      "ratings": 1180,
+      "reviews": 140
     },
     {
       "title": "False Witness",
@@ -315,27 +336,6 @@
       "rating": 4.2,
       "ratings": 1180,
       "reviews": 40
-    },
-    {
-      "title": "The Foundation",
-      "url": "https://www.goodreads.com/book/show/37808451-the-foundation",
-      "id": "42409452",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1515016763i/37808451.jpg",
-      "authors": [
-        "Steve P. Vincent"
-      ],
-      "genres": [
-        "thriller",
-        "fiction",
-        "mystery",
-        "action",
-        "crime",
-        "mystery-thriller",
-        "amazon"
-      ],
-      "rating": 4.09,
-      "ratings": 1180,
-      "reviews": 140
     },
     {
       "title": "Hidden in the Silence",
@@ -396,27 +396,6 @@
       "reviews": 100
     },
     {
-      "title": "Gulf Lynx",
-      "url": "https://www.goodreads.com/book/show/46253875-gulf-lynx",
-      "id": "71236993",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1560207409i/46253875.jpg",
-      "authors": [
-        "Fiona    Quinn"
-      ],
-      "genres": [
-        "romance",
-        "military-fiction",
-        "paranormal",
-        "fiction",
-        "romantic-suspense",
-        "contemporary-romance",
-        "thriller"
-      ],
-      "rating": 4.54,
-      "ratings": 1178,
-      "reviews": 74
-    },
-    {
       "title": "Grave's End",
       "url": "https://www.goodreads.com/book/show/48665304-grave-s-end",
       "id": "74009448",
@@ -436,6 +415,27 @@
       "rating": 4.27,
       "ratings": 1178,
       "reviews": 142
+    },
+    {
+      "title": "Gulf Lynx",
+      "url": "https://www.goodreads.com/book/show/46253875-gulf-lynx",
+      "id": "71236993",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1560207409i/46253875.jpg",
+      "authors": [
+        "Fiona    Quinn"
+      ],
+      "genres": [
+        "romance",
+        "military-fiction",
+        "paranormal",
+        "fiction",
+        "romantic-suspense",
+        "contemporary-romance",
+        "thriller"
+      ],
+      "rating": 4.54,
+      "ratings": 1178,
+      "reviews": 74
     },
     {
       "title": "Toutes blessent, la dernière tue",

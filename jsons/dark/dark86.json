@@ -1,6 +1,25 @@
 {
   "books": [
     {
+      "title": "Avenging Angel",
+      "url": "https://www.goodreads.com/book/show/57543072-avenging-angel",
+      "id": "90108903",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1619442598i/57543072.jpg",
+      "authors": [
+        "Naomi Porter"
+      ],
+      "genres": [
+        "romance",
+        "contemporary",
+        "erotica",
+        "dark",
+        "family"
+      ],
+      "rating": 4.33,
+      "ratings": 1832,
+      "reviews": 149
+    },
+    {
       "title": "Truly's Biker",
       "url": "https://www.goodreads.com/book/show/56425485-truly-s-biker",
       "id": "87986574",
@@ -42,23 +61,25 @@
       "reviews": 184
     },
     {
-      "title": "Avenging Angel",
-      "url": "https://www.goodreads.com/book/show/57543072-avenging-angel",
-      "id": "90108903",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1619442598i/57543072.jpg",
+      "title": "Iron & Bone",
+      "url": "https://www.goodreads.com/book/show/28002943-iron-bone",
+      "id": "45228469",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1448727256i/28002943.jpg",
       "authors": [
-        "Naomi Porter"
+        "Cat Porter"
       ],
       "genres": [
         "romance",
+        "contemporary-romance",
         "contemporary",
-        "erotica",
         "dark",
-        "family"
+        "suspense",
+        "crime",
+        "erotica"
       ],
-      "rating": 4.33,
-      "ratings": 1832,
-      "reviews": 149
+      "rating": 4.3,
+      "ratings": 1829,
+      "reviews": 212
     },
     {
       "title": "Deliver Me From Evil",
@@ -82,27 +103,6 @@
       "reviews": 237
     },
     {
-      "title": "Iron & Bone",
-      "url": "https://www.goodreads.com/book/show/28002943-iron-bone",
-      "id": "45228469",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1448727256i/28002943.jpg",
-      "authors": [
-        "Cat Porter"
-      ],
-      "genres": [
-        "romance",
-        "contemporary-romance",
-        "contemporary",
-        "dark",
-        "suspense",
-        "crime",
-        "erotica"
-      ],
-      "rating": 4.3,
-      "ratings": 1829,
-      "reviews": 212
-    },
-    {
       "title": "Relentless Hunter: The O'Malley Family",
       "url": "https://www.goodreads.com/book/show/58506242-relentless-hunter",
       "id": "91889528",
@@ -124,25 +124,6 @@
       "reviews": 251
     },
     {
-      "title": "I Promise You",
-      "url": "https://www.goodreads.com/book/show/198867201-i-promise-you",
-      "id": "202139687",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1703883819i/198867201.jpg",
-      "authors": [
-        "Lexie Axelson"
-      ],
-      "genres": [
-        "romance",
-        "dark",
-        "military-romance",
-        "military-fiction",
-        "suspense"
-      ],
-      "rating": 4.22,
-      "ratings": 1827,
-      "reviews": 207
-    },
-    {
       "title": "Loathing You",
       "url": "https://www.goodreads.com/book/show/123173649-loathing-you",
       "id": "144471434",
@@ -162,6 +143,25 @@
       "rating": 4.17,
       "ratings": 1827,
       "reviews": 300
+    },
+    {
+      "title": "I Promise You",
+      "url": "https://www.goodreads.com/book/show/198867201-i-promise-you",
+      "id": "202139687",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1703883819i/198867201.jpg",
+      "authors": [
+        "Lexie Axelson"
+      ],
+      "genres": [
+        "romance",
+        "dark",
+        "military-romance",
+        "military-fiction",
+        "suspense"
+      ],
+      "rating": 4.22,
+      "ratings": 1827,
+      "reviews": 207
     },
     {
       "title": "Torment",
@@ -269,27 +269,6 @@
       "reviews": 246
     },
     {
-      "title": "Fearless",
-      "url": "https://www.goodreads.com/book/show/26235551-fearless",
-      "id": "45884197",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1647878521i/26235551.jpg",
-      "authors": [
-        "Michelle St. James"
-      ],
-      "genres": [
-        "romance",
-        "contemporary",
-        "crime",
-        "dark",
-        "adult",
-        "contemporary-romance",
-        "erotica"
-      ],
-      "rating": 4.18,
-      "ratings": 1820,
-      "reviews": 93
-    },
-    {
       "title": "Don't Be Afraid",
       "url": "https://www.goodreads.com/book/show/38236015-don-t-be-afraid",
       "id": "58410334",
@@ -309,6 +288,27 @@
       "rating": 4.42,
       "ratings": 1820,
       "reviews": 418
+    },
+    {
+      "title": "Fearless",
+      "url": "https://www.goodreads.com/book/show/26235551-fearless",
+      "id": "45884197",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1647878521i/26235551.jpg",
+      "authors": [
+        "Michelle St. James"
+      ],
+      "genres": [
+        "romance",
+        "contemporary",
+        "crime",
+        "dark",
+        "adult",
+        "contemporary-romance",
+        "erotica"
+      ],
+      "rating": 4.18,
+      "ratings": 1820,
+      "reviews": 93
     },
     {
       "title": "The Bonds We Break",

@@ -1,6 +1,23 @@
 {
   "books": [
     {
+      "title": "Revealed",
+      "url": "https://www.goodreads.com/book/show/105737010-revealed",
+      "id": "128903638",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1675845670i/105737010.jpg",
+      "authors": [
+        "D.I. Freed"
+      ],
+      "genres": [
+        "fantasy",
+        "young-adult",
+        "magic"
+      ],
+      "rating": 4.66,
+      "ratings": 1634,
+      "reviews": 96
+    },
+    {
       "title": "Accord",
       "url": "https://www.goodreads.com/book/show/62814723-accord",
       "id": "98583038",
@@ -20,27 +37,6 @@
       "rating": 4.62,
       "ratings": 1634,
       "reviews": 99
-    },
-    {
-      "title": "Nightsoul",
-      "url": "https://www.goodreads.com/book/show/51271702-nightsoul",
-      "id": "75990237",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1581727204i/51271702.jpg",
-      "authors": [
-        "McKenzie Hunter"
-      ],
-      "genres": [
-        "urban-fantasy",
-        "fantasy",
-        "vampires",
-        "fae",
-        "magic",
-        "romance",
-        "paranormal"
-      ],
-      "rating": 4.45,
-      "ratings": 1634,
-      "reviews": 95
     },
     {
       "title": "The Elders",
@@ -106,67 +102,25 @@
       "reviews": 100
     },
     {
-      "title": "Black Magic",
-      "url": "https://www.goodreads.com/book/show/15758076-black-magic",
-      "id": "21456663",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1351234719i/15758076.jpg",
+      "title": "Where Dragons Collide",
+      "url": "https://www.goodreads.com/book/show/58385089-where-dragons-collide",
+      "id": "91569024",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1624239675i/58385089.jpg",
       "authors": [
-        "Megan Derr"
+        "T.A. White"
       ],
       "genres": [
         "fantasy",
-        "m-m-romance",
-        "magic",
+        "dragons",
         "romance",
+        "science-fiction",
         "paranormal",
-        "lgbt",
-        "demons"
+        "shapeshifters",
+        "magic"
       ],
-      "rating": 4.1,
+      "rating": 4.43,
       "ratings": 1630,
-      "reviews": 177
-    },
-    {
-      "title": "Wicked Long Nights",
-      "url": "https://www.goodreads.com/book/show/40635593-wicked-long-nights",
-      "id": "63139315",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1529907363i/40635593.jpg",
-      "authors": [
-        "Gina LaManna"
-      ],
-      "genres": [
-        "fantasy",
-        "paranormal",
-        "mystery",
-        "urban-fantasy",
-        "romance",
-        "magic",
-        "vampires"
-      ],
-      "rating": 4.28,
-      "ratings": 1630,
-      "reviews": 115
-    },
-    {
-      "title": "Peta",
-      "url": "https://www.goodreads.com/book/show/27255786-peta",
-      "id": "47305746",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1445529613i/27255786.jpg",
-      "authors": [
-        "Shannon Mayer"
-      ],
-      "genres": [
-        "fantasy",
-        "paranormal",
-        "magic",
-        "fae",
-        "urban-fantasy",
-        "paranormal-romance",
-        "novella"
-      ],
-      "rating": 4.28,
-      "ratings": 1630,
-      "reviews": 81
+      "reviews": 99
     },
     {
       "title": "Love, Lies, and Hocus Pocus: Allies",
@@ -190,25 +144,67 @@
       "reviews": 141
     },
     {
-      "title": "Where Dragons Collide",
-      "url": "https://www.goodreads.com/book/show/58385089-where-dragons-collide",
-      "id": "91569024",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1624239675i/58385089.jpg",
+      "title": "Wicked Long Nights",
+      "url": "https://www.goodreads.com/book/show/40635593-wicked-long-nights",
+      "id": "63139315",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1529907363i/40635593.jpg",
       "authors": [
-        "T.A. White"
+        "Gina LaManna"
       ],
       "genres": [
         "fantasy",
-        "dragons",
-        "romance",
-        "science-fiction",
         "paranormal",
-        "shapeshifters",
-        "magic"
+        "mystery",
+        "urban-fantasy",
+        "romance",
+        "magic",
+        "vampires"
       ],
-      "rating": 4.43,
+      "rating": 4.28,
       "ratings": 1630,
-      "reviews": 99
+      "reviews": 115
+    },
+    {
+      "title": "Black Magic",
+      "url": "https://www.goodreads.com/book/show/15758076-black-magic",
+      "id": "21456663",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1351234719i/15758076.jpg",
+      "authors": [
+        "Megan Derr"
+      ],
+      "genres": [
+        "fantasy",
+        "m-m-romance",
+        "magic",
+        "romance",
+        "paranormal",
+        "lgbt",
+        "demons"
+      ],
+      "rating": 4.1,
+      "ratings": 1630,
+      "reviews": 177
+    },
+    {
+      "title": "Peta",
+      "url": "https://www.goodreads.com/book/show/27255786-peta",
+      "id": "47305746",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1445529613i/27255786.jpg",
+      "authors": [
+        "Shannon Mayer"
+      ],
+      "genres": [
+        "fantasy",
+        "paranormal",
+        "magic",
+        "fae",
+        "urban-fantasy",
+        "paranormal-romance",
+        "novella"
+      ],
+      "rating": 4.28,
+      "ratings": 1630,
+      "reviews": 81
     },
     {
       "title": "Herald of Shalia",
@@ -232,6 +228,27 @@
       "reviews": 102
     },
     {
+      "title": "The Omen of Stones",
+      "url": "https://www.goodreads.com/book/show/50915485-the-omen-of-stones",
+      "id": "75792862",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1581108749i/50915485.jpg",
+      "authors": [
+        "Casey L. Bond"
+      ],
+      "genres": [
+        "fantasy",
+        "young-adult",
+        "romance",
+        "young-adult-fantasy",
+        "magic",
+        "fiction",
+        "fantasy-romance"
+      ],
+      "rating": 4,
+      "ratings": 1629,
+      "reviews": 157
+    },
+    {
       "title": "The High Council",
       "url": "https://www.goodreads.com/book/show/37654026-the-high-council",
       "id": "59248455",
@@ -253,25 +270,24 @@
       "reviews": 98
     },
     {
-      "title": "The Omen of Stones",
-      "url": "https://www.goodreads.com/book/show/50915485-the-omen-of-stones",
-      "id": "75792862",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1581108749i/50915485.jpg",
+      "title": "Paladin of the Sword",
+      "url": "https://www.goodreads.com/book/show/59064810-paladin-of-the-sword",
+      "id": "93134670",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1632451986i/59064810.jpg",
       "authors": [
-        "Casey L. Bond"
+        "Marvin Knight"
       ],
       "genres": [
+        "harem",
         "fantasy",
-        "young-adult",
         "romance",
-        "young-adult-fantasy",
+        "demons",
         "magic",
-        "fiction",
-        "fantasy-romance"
+        "erotica"
       ],
-      "rating": 4,
-      "ratings": 1629,
-      "reviews": 157
+      "rating": 4.41,
+      "ratings": 1627,
+      "reviews": 98
     },
     {
       "title": "The Spook's Bestiary",
@@ -316,26 +332,6 @@
       "reviews": 188
     },
     {
-      "title": "Paladin of the Sword",
-      "url": "https://www.goodreads.com/book/show/59064810-paladin-of-the-sword",
-      "id": "93134670",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1632451986i/59064810.jpg",
-      "authors": [
-        "Marvin Knight"
-      ],
-      "genres": [
-        "harem",
-        "fantasy",
-        "romance",
-        "demons",
-        "magic",
-        "erotica"
-      ],
-      "rating": 4.41,
-      "ratings": 1627,
-      "reviews": 98
-    },
-    {
       "title": "The Enemy's Triumph",
       "url": "https://www.goodreads.com/book/show/51279722-the-enemy-s-triumph",
       "id": "75996636",
@@ -378,27 +374,6 @@
       "reviews": 198
     },
     {
-      "title": "Midlife in Gretna Green",
-      "url": "https://www.goodreads.com/book/show/61415590-midlife-in-gretna-green",
-      "id": "96863735",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1657390474i/61415590.jpg",
-      "authors": [
-        "Linzi Day"
-      ],
-      "genres": [
-        "fantasy",
-        "magic",
-        "paranormal",
-        "urban-fantasy",
-        "cozy-mystery",
-        "science-fiction-fantasy",
-        "fiction"
-      ],
-      "rating": 4.65,
-      "ratings": 1625,
-      "reviews": 258
-    },
-    {
       "title": "Rise of the Weakest Summoner: Volume I",
       "url": "https://www.goodreads.com/book/show/58927255-rise-of-the-weakest-summoner",
       "id": "92858263",
@@ -420,6 +395,27 @@
       "reviews": 94
     },
     {
+      "title": "Midlife in Gretna Green",
+      "url": "https://www.goodreads.com/book/show/61415590-midlife-in-gretna-green",
+      "id": "96863735",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1657390474i/61415590.jpg",
+      "authors": [
+        "Linzi Day"
+      ],
+      "genres": [
+        "fantasy",
+        "magic",
+        "paranormal",
+        "urban-fantasy",
+        "cozy-mystery",
+        "science-fiction-fantasy",
+        "fiction"
+      ],
+      "rating": 4.65,
+      "ratings": 1625,
+      "reviews": 258
+    },
+    {
       "title": "Of Witches and Wind",
       "url": "https://www.goodreads.com/book/show/16074851-of-witches-and-wind",
       "id": "21869430",
@@ -439,27 +435,6 @@
       "rating": 4.57,
       "ratings": 1623,
       "reviews": 105
-    },
-    {
-      "title": "A Witch's Path",
-      "url": "https://www.goodreads.com/book/show/21570552-a-witch-s-path",
-      "id": "40903120",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1398449294i/21570552.jpg",
-      "authors": [
-        "N.E.  Conneely"
-      ],
-      "genres": [
-        "fantasy",
-        "paranormal",
-        "urban-fantasy",
-        "witches",
-        "romance",
-        "magic",
-        "mystery"
-      ],
-      "rating": 4.16,
-      "ratings": 1622,
-      "reviews": 103
     },
     {
       "title": "Being Alpha",
@@ -502,6 +477,27 @@
       "rating": 4.07,
       "ratings": 1622,
       "reviews": 241
+    },
+    {
+      "title": "A Witch's Path",
+      "url": "https://www.goodreads.com/book/show/21570552-a-witch-s-path",
+      "id": "40903120",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1398449294i/21570552.jpg",
+      "authors": [
+        "N.E.  Conneely"
+      ],
+      "genres": [
+        "fantasy",
+        "paranormal",
+        "urban-fantasy",
+        "witches",
+        "romance",
+        "magic",
+        "mystery"
+      ],
+      "rating": 4.16,
+      "ratings": 1622,
+      "reviews": 103
     }
   ]
 }

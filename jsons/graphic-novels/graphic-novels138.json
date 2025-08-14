@@ -1,24 +1,46 @@
 {
   "books": [
     {
-      "title": "Le petit astronaute",
-      "url": "https://www.goodreads.com/book/show/57049047-le-petit-astronaute",
-      "id": "89272086",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1613232356i/57049047.jpg",
+      "title": "Tintin: The Complete Companion",
+      "url": "https://www.goodreads.com/book/show/87426.Tintin",
+      "id": "84391",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1387708583i/87426.jpg",
       "authors": [
-        "Jean-Paul Eid"
+        "Michael Farr"
       ],
       "genres": [
-        "bande-dessin%C3%A9e",
-        "graphic-novels",
         "comics",
-        "france",
-        "fiction",
-        "graphic-novels-comics"
+        "non-fiction",
+        "graphic-novels",
+        "history",
+        "art",
+        "biography",
+        "comic-book"
       ],
-      "rating": 4.81,
+      "rating": 4.38,
       "ratings": 2251,
-      "reviews": 412
+      "reviews": 75
+    },
+    {
+      "title": "Naoki Urasawa Präsentiert: Monster, Band 12: Die Rosenvilla",
+      "url": "https://www.goodreads.com/book/show/1284031.Naoki_Urasawa_Pr_sentiert",
+      "id": "1273078",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1182490997i/1284031.jpg",
+      "authors": [
+        "Naoki Urasawa"
+      ],
+      "genres": [
+        "manga",
+        "comics",
+        "thriller",
+        "mystery",
+        "monsters",
+        "graphic-novels",
+        "horror"
+      ],
+      "rating": 4.51,
+      "ratings": 2248,
+      "reviews": 69
     },
     {
       "title": "InuYasha, Vol. 14: Gray Areas",
@@ -63,27 +85,6 @@
       "reviews": 165
     },
     {
-      "title": "Naoki Urasawa Präsentiert: Monster, Band 12: Die Rosenvilla",
-      "url": "https://www.goodreads.com/book/show/1284031.Naoki_Urasawa_Pr_sentiert",
-      "id": "1273078",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1182490997i/1284031.jpg",
-      "authors": [
-        "Naoki Urasawa"
-      ],
-      "genres": [
-        "manga",
-        "comics",
-        "thriller",
-        "mystery",
-        "monsters",
-        "graphic-novels",
-        "horror"
-      ],
-      "rating": 4.51,
-      "ratings": 2248,
-      "reviews": 69
-    },
-    {
       "title": "FCBD 2015: All-New, All-Different Avengers #1",
       "url": "https://www.goodreads.com/book/show/25749514-fcbd-2015",
       "id": "45591578",
@@ -103,48 +104,6 @@
       "rating": 4.11,
       "ratings": 2247,
       "reviews": 66
-    },
-    {
-      "title": "Megg  & Mogg In Amsterdam",
-      "url": "https://www.goodreads.com/book/show/25620783-megg-mogg-in-amsterdam",
-      "id": "45433179",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1450587808i/25620783.jpg",
-      "authors": [
-        "Simon Hanselmann"
-      ],
-      "genres": [
-        "graphic-novels",
-        "comics",
-        "fiction",
-        "humor",
-        "comix",
-        "graphic-novels-comics",
-        "comedy"
-      ],
-      "rating": 4.17,
-      "ratings": 2241,
-      "reviews": 163
-    },
-    {
-      "title": "Moon Rising",
-      "url": "https://www.goodreads.com/book/show/60758256-moon-rising",
-      "id": "95801591",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1669963679i/60758256.jpg",
-      "authors": [
-        "Tui T. Sutherland"
-      ],
-      "genres": [
-        "fantasy",
-        "graphic-novels",
-        "dragons",
-        "middle-grade",
-        "fiction",
-        "comics",
-        "childrens"
-      ],
-      "rating": 4.59,
-      "ratings": 2241,
-      "reviews": 146
     },
     {
       "title": "Heartbreak Soup",
@@ -208,6 +167,48 @@
       "rating": 4.23,
       "ratings": 2241,
       "reviews": 80
+    },
+    {
+      "title": "Megg  & Mogg In Amsterdam",
+      "url": "https://www.goodreads.com/book/show/25620783-megg-mogg-in-amsterdam",
+      "id": "45433179",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1450587808i/25620783.jpg",
+      "authors": [
+        "Simon Hanselmann"
+      ],
+      "genres": [
+        "graphic-novels",
+        "comics",
+        "fiction",
+        "humor",
+        "comix",
+        "graphic-novels-comics",
+        "comedy"
+      ],
+      "rating": 4.17,
+      "ratings": 2241,
+      "reviews": 163
+    },
+    {
+      "title": "Moon Rising",
+      "url": "https://www.goodreads.com/book/show/60758256-moon-rising",
+      "id": "95801591",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1669963679i/60758256.jpg",
+      "authors": [
+        "Tui T. Sutherland"
+      ],
+      "genres": [
+        "fantasy",
+        "graphic-novels",
+        "dragons",
+        "middle-grade",
+        "fiction",
+        "comics",
+        "childrens"
+      ],
+      "rating": 4.59,
+      "ratings": 2241,
+      "reviews": 146
     },
     {
       "title": "The Shape of Ideas: An Illustrated Exploration of Creativity",
@@ -357,27 +358,6 @@
       "reviews": 268
     },
     {
-      "title": "Virginia Wolf",
-      "url": "https://www.goodreads.com/book/show/12564868-virginia-wolf",
-      "id": "17572831",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348543700i/12564868.jpg",
-      "authors": [
-        "Kyo Maclear"
-      ],
-      "genres": [
-        "picture-books",
-        "childrens",
-        "family",
-        "fiction",
-        "art",
-        "mental-health",
-        "graphic-novels"
-      ],
-      "rating": 4.16,
-      "ratings": 2233,
-      "reviews": 376
-    },
-    {
       "title": "Neon Genesis Evangelion, Vol. 6",
       "url": "https://www.goodreads.com/book/show/283487.Neon_Genesis_Evangelion_Vol_6",
       "id": "275016",
@@ -397,6 +377,27 @@
       "rating": 4.37,
       "ratings": 2233,
       "reviews": 118
+    },
+    {
+      "title": "Virginia Wolf",
+      "url": "https://www.goodreads.com/book/show/12564868-virginia-wolf",
+      "id": "17572831",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348543700i/12564868.jpg",
+      "authors": [
+        "Kyo Maclear"
+      ],
+      "genres": [
+        "picture-books",
+        "childrens",
+        "family",
+        "fiction",
+        "art",
+        "mental-health",
+        "graphic-novels"
+      ],
+      "rating": 4.16,
+      "ratings": 2233,
+      "reviews": 376
     },
     {
       "title": "Camp Babymouse",

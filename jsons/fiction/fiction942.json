@@ -1,6 +1,27 @@
 {
   "books": [
     {
+      "title": "The Hiding Place",
+      "url": "https://www.goodreads.com/book/show/57321600-the-hiding-place",
+      "id": "89706032",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1622463618i/57321600.jpg",
+      "authors": [
+        "Helen Phifer"
+      ],
+      "genres": [
+        "mystery",
+        "thriller",
+        "crime",
+        "british-literature",
+        "fiction",
+        "contemporary",
+        "suspense"
+      ],
+      "rating": 4.38,
+      "ratings": 3029,
+      "reviews": 165
+    },
+    {
       "title": "Kingdoms of Death",
       "url": "https://www.goodreads.com/book/show/57443696-kingdoms-of-death",
       "id": "89939526",
@@ -20,111 +41,6 @@
       "rating": 4.45,
       "ratings": 3029,
       "reviews": 348
-    },
-    {
-      "title": "Too Many Clients",
-      "url": "https://www.goodreads.com/book/show/77626.Too_Many_Clients",
-      "id": "2179838",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1358316817i/77626.jpg",
-      "authors": [
-        "Rex Stout"
-      ],
-      "genres": [
-        "mystery",
-        "fiction",
-        "detective",
-        "crime",
-        "golden-age-mystery",
-        "mystery-thriller",
-        "adult"
-      ],
-      "rating": 4.19,
-      "ratings": 3029,
-      "reviews": 110
-    },
-    {
-      "title": "The Hunger Pains",
-      "url": "https://www.goodreads.com/book/show/30833325-the-hunger-pains",
-      "id": "51429358",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1467513708i/30833325.jpg",
-      "authors": [
-        "Chelsea Field"
-      ],
-      "genres": [
-        "mystery",
-        "cozy-mystery",
-        "humor",
-        "romance",
-        "fiction",
-        "contemporary",
-        "comedy"
-      ],
-      "rating": 4.25,
-      "ratings": 3028,
-      "reviews": 142
-    },
-    {
-      "title": "Searching for You",
-      "url": "https://www.goodreads.com/book/show/38484810-searching-for-you",
-      "id": "60120573",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1539122798i/38484810.jpg",
-      "authors": [
-        "Jody Hedlund"
-      ],
-      "genres": [
-        "historical-fiction",
-        "christian-fiction",
-        "romance",
-        "fiction",
-        "historical",
-        "christian",
-        "historical-romance"
-      ],
-      "rating": 4.31,
-      "ratings": 3028,
-      "reviews": 408
-    },
-    {
-      "title": "No More Lies",
-      "url": "https://www.goodreads.com/book/show/57657709-no-more-lies",
-      "id": "90311601",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1620230198i/57657709.jpg",
-      "authors": [
-        "Kerry Lonsdale"
-      ],
-      "genres": [
-        "thriller",
-        "mystery",
-        "fiction",
-        "suspense",
-        "audiobook",
-        "mystery-thriller",
-        "family"
-      ],
-      "rating": 4.24,
-      "ratings": 3028,
-      "reviews": 297
-    },
-    {
-      "title": "The Jewels of Halstead Manor",
-      "url": "https://www.goodreads.com/book/show/50992764-the-jewels-of-halstead-manor",
-      "id": "75837882",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1580782555i/50992764.jpg",
-      "authors": [
-        "Kasey Stockton"
-      ],
-      "genres": [
-        "romance",
-        "historical-fiction",
-        "historical-romance",
-        "regency",
-        "historical",
-        "fiction",
-        "clean-romance"
-      ],
-      "rating": 4.12,
-      "ratings": 3028,
-      "reviews": 293
     },
     {
       "title": "The Iron Marshal",
@@ -148,6 +64,27 @@
       "reviews": 133
     },
     {
+      "title": "The Hunger Pains",
+      "url": "https://www.goodreads.com/book/show/30833325-the-hunger-pains",
+      "id": "51429358",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1467513708i/30833325.jpg",
+      "authors": [
+        "Chelsea Field"
+      ],
+      "genres": [
+        "mystery",
+        "cozy-mystery",
+        "humor",
+        "romance",
+        "fiction",
+        "contemporary",
+        "comedy"
+      ],
+      "rating": 4.25,
+      "ratings": 3028,
+      "reviews": 142
+    },
+    {
       "title": "California Gold",
       "url": "https://www.goodreads.com/book/show/71775.California_Gold",
       "id": "2030891",
@@ -167,6 +104,48 @@
       "rating": 4.09,
       "ratings": 3028,
       "reviews": 181
+    },
+    {
+      "title": "The Jewels of Halstead Manor",
+      "url": "https://www.goodreads.com/book/show/50992764-the-jewels-of-halstead-manor",
+      "id": "75837882",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1580782555i/50992764.jpg",
+      "authors": [
+        "Kasey Stockton"
+      ],
+      "genres": [
+        "romance",
+        "historical-fiction",
+        "historical-romance",
+        "regency",
+        "historical",
+        "fiction",
+        "clean-romance"
+      ],
+      "rating": 4.12,
+      "ratings": 3028,
+      "reviews": 293
+    },
+    {
+      "title": "Searching for You",
+      "url": "https://www.goodreads.com/book/show/38484810-searching-for-you",
+      "id": "60120573",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1539122798i/38484810.jpg",
+      "authors": [
+        "Jody Hedlund"
+      ],
+      "genres": [
+        "historical-fiction",
+        "christian-fiction",
+        "romance",
+        "fiction",
+        "historical",
+        "christian",
+        "historical-romance"
+      ],
+      "rating": 4.31,
+      "ratings": 3028,
+      "reviews": 408
     },
     {
       "title": "S Is for Space",
@@ -190,25 +169,25 @@
       "reviews": 98
     },
     {
-      "title": "Buried In Books",
-      "url": "https://www.goodreads.com/book/show/36246825-buried-in-books",
-      "id": "57892470",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1510115135i/36246825.jpg",
+      "title": "No More Lies",
+      "url": "https://www.goodreads.com/book/show/57657709-no-more-lies",
+      "id": "90311601",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1620230198i/57657709.jpg",
       "authors": [
-        "Kate Carlisle"
+        "Kerry Lonsdale"
       ],
       "genres": [
+        "thriller",
         "mystery",
-        "cozy-mystery",
         "fiction",
-        "romance",
-        "books-about-books",
-        "contemporary",
-        "adult"
+        "suspense",
+        "audiobook",
+        "mystery-thriller",
+        "family"
       ],
-      "rating": 4.11,
-      "ratings": 3027,
-      "reviews": 423
+      "rating": 4.24,
+      "ratings": 3028,
+      "reviews": 297
     },
     {
       "title": "Shadow of the Batgirl",
@@ -232,6 +211,27 @@
       "reviews": 558
     },
     {
+      "title": "Found You",
+      "url": "https://www.goodreads.com/book/show/60043436-found-you",
+      "id": "94668418",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1641438681i/60043436.jpg",
+      "authors": [
+        "Molly Black"
+      ],
+      "genres": [
+        "mystery",
+        "thriller",
+        "crime",
+        "fiction",
+        "mystery-thriller",
+        "audiobook",
+        "suspense"
+      ],
+      "rating": 4.18,
+      "ratings": 3027,
+      "reviews": 107
+    },
+    {
       "title": "The Prince: Jonathan",
       "url": "https://www.goodreads.com/book/show/95605.The_Prince",
       "id": "92173",
@@ -251,6 +251,27 @@
       "rating": 4.26,
       "ratings": 3027,
       "reviews": 107
+    },
+    {
+      "title": "Giant Days, Vol. 11",
+      "url": "https://www.goodreads.com/book/show/43909499-giant-days-vol-11",
+      "id": "68250054",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1549839664i/43909499.jpg",
+      "authors": [
+        "John Allison"
+      ],
+      "genres": [
+        "graphic-novels",
+        "comics",
+        "young-adult",
+        "contemporary",
+        "fiction",
+        "humor",
+        "graphic-novels-comics"
+      ],
+      "rating": 4.16,
+      "ratings": 3027,
+      "reviews": 299
     },
     {
       "title": "S'adapter",
@@ -294,67 +315,46 @@
       "reviews": 771
     },
     {
-      "title": "Found You",
-      "url": "https://www.goodreads.com/book/show/60043436-found-you",
-      "id": "94668418",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1641438681i/60043436.jpg",
+      "title": "Buried In Books",
+      "url": "https://www.goodreads.com/book/show/36246825-buried-in-books",
+      "id": "57892470",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1510115135i/36246825.jpg",
       "authors": [
-        "Molly Black"
+        "Kate Carlisle"
       ],
       "genres": [
         "mystery",
-        "thriller",
-        "crime",
+        "cozy-mystery",
         "fiction",
-        "mystery-thriller",
-        "audiobook",
-        "suspense"
+        "romance",
+        "books-about-books",
+        "contemporary",
+        "adult"
       ],
-      "rating": 4.18,
+      "rating": 4.11,
       "ratings": 3027,
-      "reviews": 107
+      "reviews": 423
     },
     {
-      "title": "Giant Days, Vol. 11",
-      "url": "https://www.goodreads.com/book/show/43909499-giant-days-vol-11",
-      "id": "68250054",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1549839664i/43909499.jpg",
+      "title": "The Bedbug and Selected Poetry",
+      "url": "https://www.goodreads.com/book/show/118413.The_Bedbug_and_Selected_Poetry",
+      "id": "113988",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1626230626i/118413.jpg",
       "authors": [
-        "John Allison"
+        "Vladimir Mayakovsky"
       ],
       "genres": [
-        "graphic-novels",
-        "comics",
-        "young-adult",
-        "contemporary",
+        "poetry",
+        "russia",
+        "russian-literature",
+        "classics",
+        "plays",
         "fiction",
-        "humor",
-        "graphic-novels-comics"
+        "drama"
       ],
-      "rating": 4.16,
-      "ratings": 3027,
-      "reviews": 299
-    },
-    {
-      "title": "Juliet Takes a Breath: The Graphic Novel",
-      "url": "https://www.goodreads.com/book/show/52854192-juliet-takes-a-breath",
-      "id": "85082475",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1598448366i/52854192.jpg",
-      "authors": [
-        "Gabby Rivera"
-      ],
-      "genres": [
-        "graphic-novels",
-        "lgbt",
-        "young-adult",
-        "queer",
-        "comics",
-        "contemporary",
-        "fiction"
-      ],
-      "rating": 4.08,
+      "rating": 4.2,
       "ratings": 3026,
-      "reviews": 664
+      "reviews": 71
     },
     {
       "title": "Dead Certain",
@@ -378,25 +378,46 @@
       "reviews": 74
     },
     {
-      "title": "The Bedbug and Selected Poetry",
-      "url": "https://www.goodreads.com/book/show/118413.The_Bedbug_and_Selected_Poetry",
-      "id": "113988",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1626230626i/118413.jpg",
+      "title": "Juliet Takes a Breath: The Graphic Novel",
+      "url": "https://www.goodreads.com/book/show/52854192-juliet-takes-a-breath",
+      "id": "85082475",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1598448366i/52854192.jpg",
       "authors": [
-        "Vladimir Mayakovsky"
+        "Gabby Rivera"
       ],
       "genres": [
-        "poetry",
-        "russia",
-        "russian-literature",
-        "classics",
-        "plays",
-        "fiction",
-        "drama"
+        "graphic-novels",
+        "lgbt",
+        "young-adult",
+        "queer",
+        "comics",
+        "contemporary",
+        "fiction"
       ],
-      "rating": 4.2,
+      "rating": 4.08,
       "ratings": 3026,
-      "reviews": 71
+      "reviews": 664
+    },
+    {
+      "title": "Big Nate: The Gerbil Ate My Homework",
+      "url": "https://www.goodreads.com/book/show/54493635-big-nate",
+      "id": "82705623",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1594615025i/54493635.jpg",
+      "authors": [
+        "Lincoln Peirce"
+      ],
+      "genres": [
+        "graphic-novels",
+        "comics",
+        "humor",
+        "middle-grade",
+        "fiction",
+        "juvenile",
+        "comedy"
+      ],
+      "rating": 4.56,
+      "ratings": 3025,
+      "reviews": 91
     },
     {
       "title": "Dear Sister",
@@ -439,27 +460,6 @@
       "reviews": 225
     },
     {
-      "title": "Big Nate: The Gerbil Ate My Homework",
-      "url": "https://www.goodreads.com/book/show/54493635-big-nate",
-      "id": "82705623",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1594615025i/54493635.jpg",
-      "authors": [
-        "Lincoln Peirce"
-      ],
-      "genres": [
-        "graphic-novels",
-        "comics",
-        "humor",
-        "middle-grade",
-        "fiction",
-        "juvenile",
-        "comedy"
-      ],
-      "rating": 4.56,
-      "ratings": 3025,
-      "reviews": 91
-    },
-    {
       "title": "Home",
       "url": "https://www.goodreads.com/book/show/22747806-home",
       "id": "42292742",
@@ -481,25 +481,25 @@
       "reviews": 550
     },
     {
-      "title": "A Cat Was Involved",
-      "url": "https://www.goodreads.com/book/show/13546640-a-cat-was-involved",
-      "id": "19111766",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1389589084i/13546640.jpg",
+      "title": "A Sister's Secret",
+      "url": "https://www.goodreads.com/book/show/495300.A_Sister_s_Secret",
+      "id": "2379233",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1441210315i/495300.jpg",
       "authors": [
-        "Spencer Quinn"
+        "Wanda E. Brunstetter"
       ],
       "genres": [
-        "mystery",
+        "amish",
+        "christian-fiction",
+        "amish-fiction",
         "fiction",
-        "animals",
-        "short-stories",
-        "dogs",
-        "humor",
-        "mystery-thriller"
+        "christian",
+        "romance",
+        "christian-romance"
       ],
-      "rating": 4.2,
+      "rating": 4.17,
       "ratings": 3024,
-      "reviews": 340
+      "reviews": 255
     }
   ]
 }

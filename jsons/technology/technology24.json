@@ -1,46 +1,25 @@
 {
   "books": [
     {
-      "title": "The Hacker and the State: Cyber Attacks and the New Normal of Geopolitics",
-      "url": "https://www.goodreads.com/book/show/51589806-the-hacker-and-the-state",
-      "id": "72891069",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1574911946l/51589806.jpg",
+      "title": "Microservice Patterns",
+      "url": "https://www.goodreads.com/book/show/34372564-microservice-patterns",
+      "id": "55456565",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1487751473i/34372564.jpg",
       "authors": [
-        "Ben  Buchanan"
+        "Chris Richardson"
       ],
       "genres": [
+        "programming",
         "technology",
-        "non-fiction",
-        "politics",
-        "science",
-        "espionage",
-        "history",
-        "military-fiction"
+        "software",
+        "computer-science",
+        "architecture",
+        "technical",
+        "non-fiction"
       ],
-      "rating": 4.21,
+      "rating": 4.24,
       "ratings": 620,
-      "reviews": 55
-    },
-    {
-      "title": "Wiek paradoksów. Czy technologia nas ocali?",
-      "url": "https://www.goodreads.com/book/show/58459687-wiek-paradoks-w-czy-technologia-nas-ocali",
-      "id": "91767911",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1634806443i/58459687.jpg",
-      "authors": [
-        "Natalia Hatalska"
-      ],
-      "genres": [
-        "non-fiction",
-        "polish-literature",
-        "science",
-        "technology",
-        "psychology",
-        "popular-science",
-        "audiobook"
-      ],
-      "rating": 4.27,
-      "ratings": 619,
-      "reviews": 72
+      "reviews": 66
     },
     {
       "title": "Digital Apollo: Human and Machine in Spaceflight",
@@ -64,6 +43,27 @@
       "reviews": 56
     },
     {
+      "title": "Wiek paradoksów. Czy technologia nas ocali?",
+      "url": "https://www.goodreads.com/book/show/58459687-wiek-paradoks-w-czy-technologia-nas-ocali",
+      "id": "91767911",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1634806443i/58459687.jpg",
+      "authors": [
+        "Natalia Hatalska"
+      ],
+      "genres": [
+        "non-fiction",
+        "polish-literature",
+        "science",
+        "technology",
+        "psychology",
+        "popular-science",
+        "audiobook"
+      ],
+      "rating": 4.27,
+      "ratings": 619,
+      "reviews": 72
+    },
+    {
       "title": "Kubernetes in Action",
       "url": "https://www.goodreads.com/book/show/34013922-kubernetes-in-action",
       "id": "55010684",
@@ -85,27 +85,6 @@
       "reviews": 88
     },
     {
-      "title": "Algorithm Design",
-      "url": "https://www.goodreads.com/book/show/145055.Algorithm_Design",
-      "id": "139960",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348335904i/145055.jpg",
-      "authors": [
-        "Jon Kleinberg"
-      ],
-      "genres": [
-        "computer-science",
-        "algorithms",
-        "programming",
-        "technical",
-        "technology",
-        "reference",
-        "textbooks"
-      ],
-      "rating": 4.16,
-      "ratings": 616,
-      "reviews": 23
-    },
-    {
       "title": "Professional JavaScript for Web Developers",
       "url": "https://www.goodreads.com/book/show/135437.Professional_JavaScript_for_Web_Developers",
       "id": "130520",
@@ -125,6 +104,27 @@
       "rating": 4.19,
       "ratings": 616,
       "reviews": 32
+    },
+    {
+      "title": "Algorithm Design",
+      "url": "https://www.goodreads.com/book/show/145055.Algorithm_Design",
+      "id": "139960",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348335904i/145055.jpg",
+      "authors": [
+        "Jon Kleinberg"
+      ],
+      "genres": [
+        "computer-science",
+        "algorithms",
+        "programming",
+        "technical",
+        "technology",
+        "reference",
+        "textbooks"
+      ],
+      "rating": 4.16,
+      "ratings": 616,
+      "reviews": 23
     },
     {
       "title": "Effective STL: 50 Specific Ways to Improve Your Use of the Standard Template Library",
@@ -441,25 +441,25 @@
       "reviews": 77
     },
     {
-      "title": "Service Design: From Insight to Implementation",
-      "url": "https://www.goodreads.com/book/show/19904558-service-design",
-      "id": "24466662",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1387739935i/19904558.jpg",
+      "title": "Architects of Intelligence: The truth about AI from the people building it",
+      "url": "https://www.goodreads.com/book/show/41998128-architects-of-intelligence",
+      "id": "65536796",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1537760364i/41998128.jpg",
       "authors": [
-        "Andy Polaine"
+        "Martin Ford"
       ],
       "genres": [
-        "design",
-        "business",
+        "artificial-intelligence",
         "non-fiction",
-        "research",
         "technology",
-        "management",
-        "school"
+        "science",
+        "business",
+        "computer-science",
+        "programming"
       ],
-      "rating": 4.06,
+      "rating": 4.09,
       "ratings": 576,
-      "reviews": 31
+      "reviews": 78
     },
     {
       "title": "Fifty Quick Ideas to Improve Your User Stories",
@@ -483,25 +483,25 @@
       "reviews": 56
     },
     {
-      "title": "Architects of Intelligence: The truth about AI from the people building it",
-      "url": "https://www.goodreads.com/book/show/41998128-architects-of-intelligence",
-      "id": "65536796",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1537760364i/41998128.jpg",
+      "title": "Service Design: From Insight to Implementation",
+      "url": "https://www.goodreads.com/book/show/19904558-service-design",
+      "id": "24466662",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1387739935i/19904558.jpg",
       "authors": [
-        "Martin Ford"
+        "Andy Polaine"
       ],
       "genres": [
-        "artificial-intelligence",
-        "non-fiction",
-        "technology",
-        "science",
+        "design",
         "business",
-        "computer-science",
-        "programming"
+        "non-fiction",
+        "research",
+        "technology",
+        "management",
+        "school"
       ],
-      "rating": 4.09,
+      "rating": 4.06,
       "ratings": 576,
-      "reviews": 78
+      "reviews": 31
     }
   ]
 }

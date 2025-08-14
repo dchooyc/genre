@@ -1,6 +1,27 @@
 {
   "books": [
     {
+      "title": "The Adventures of Huckleberry Finn",
+      "url": "https://www.goodreads.com/book/show/223663.The_Adventures_of_Huckleberry_Finn",
+      "id": "73031549",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1395132462i/223663.jpg",
+      "authors": [
+        "Deidre S. Laiken"
+      ],
+      "genres": [
+        "classics",
+        "fiction",
+        "adventure",
+        "childrens",
+        "historical-fiction",
+        "middle-grade",
+        "realistic-fiction"
+      ],
+      "rating": 4.09,
+      "ratings": 1929,
+      "reviews": 75
+    },
+    {
       "title": "Willful in Winter",
       "url": "https://www.goodreads.com/book/show/49369637-willful-in-winter",
       "id": "73510491",
@@ -20,27 +41,6 @@
       "rating": 4.28,
       "ratings": 1929,
       "reviews": 112
-    },
-    {
-      "title": "To Marry Is Madness",
-      "url": "https://www.goodreads.com/book/show/59516858-to-marry-is-madness",
-      "id": "93741162",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1636120628i/59516858.jpg",
-      "authors": [
-        "Ashtyn Newbold"
-      ],
-      "genres": [
-        "romance",
-        "historical-fiction",
-        "historical-romance",
-        "regency",
-        "regency-romance",
-        "historical",
-        "mystery"
-      ],
-      "rating": 4.15,
-      "ratings": 1929,
-      "reviews": 167
     },
     {
       "title": "Missing Isaac",
@@ -274,48 +274,6 @@
       "reviews": 68
     },
     {
-      "title": "Rebecca's Reward",
-      "url": "https://www.goodreads.com/book/show/2900666-rebecca-s-reward",
-      "id": "2927793",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1439935371i/2900666.jpg",
-      "authors": [
-        "Lauraine Snelling"
-      ],
-      "genres": [
-        "christian-fiction",
-        "historical-fiction",
-        "fiction",
-        "christian",
-        "romance",
-        "historical",
-        "historical-romance"
-      ],
-      "rating": 4.42,
-      "ratings": 1921,
-      "reviews": 68
-    },
-    {
-      "title": "En lykkelig slutning",
-      "url": "https://www.goodreads.com/book/show/48656284-en-lykkelig-slutning",
-      "id": "73999312",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1572595905i/48656284.jpg",
-      "authors": [
-        "Maren Uthaug"
-      ],
-      "genres": [
-        "fiction",
-        "historical-fiction",
-        "audiobook",
-        "contemporary",
-        "denmark",
-        "danish",
-        "roman"
-      ],
-      "rating": 4.07,
-      "ratings": 1921,
-      "reviews": 143
-    },
-    {
       "title": "Scarlett Parts 1 & 2",
       "url": "https://www.goodreads.com/book/show/2642816-scarlett-parts-1-2",
       "id": "11023023",
@@ -358,22 +316,65 @@
       "reviews": 206
     },
     {
-      "title": "The Postcard from Italy",
-      "url": "https://www.goodreads.com/book/show/60375568-the-postcard-from-italy",
-      "id": "95144493",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1644350466i/60375568.jpg",
+      "title": "Rebecca's Reward",
+      "url": "https://www.goodreads.com/book/show/2900666-rebecca-s-reward",
+      "id": "2927793",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1439935371i/2900666.jpg",
       "authors": [
-        "Angela Petch"
+        "Lauraine Snelling"
       ],
       "genres": [
+        "christian-fiction",
         "historical-fiction",
-        "italy",
+        "fiction",
+        "christian",
         "romance",
-        "world-war-ii",
-        "audiobook",
-        "contemporary"
+        "historical",
+        "historical-romance"
       ],
-      "rating": 4.3,
+      "rating": 4.42,
+      "ratings": 1921,
+      "reviews": 68
+    },
+    {
+      "title": "En lykkelig slutning",
+      "url": "https://www.goodreads.com/book/show/48656284-en-lykkelig-slutning",
+      "id": "73999312",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1572595905i/48656284.jpg",
+      "authors": [
+        "Maren Uthaug"
+      ],
+      "genres": [
+        "fiction",
+        "historical-fiction",
+        "audiobook",
+        "contemporary",
+        "denmark",
+        "danish",
+        "roman"
+      ],
+      "rating": 4.07,
+      "ratings": 1921,
+      "reviews": 143
+    },
+    {
+      "title": "Galvanism and Ghouls",
+      "url": "https://www.goodreads.com/book/show/46273707-galvanism-and-ghouls",
+      "id": "71173234",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1560378273i/46273707.jpg",
+      "authors": [
+        "Tilly Wallace"
+      ],
+      "genres": [
+        "fantasy",
+        "mystery",
+        "paranormal",
+        "historical",
+        "historical-fiction",
+        "romance",
+        "magic"
+      ],
+      "rating": 4.09,
       "ratings": 1919,
       "reviews": 130
     },
@@ -397,23 +398,22 @@
       "reviews": 38
     },
     {
-      "title": "Galvanism and Ghouls",
-      "url": "https://www.goodreads.com/book/show/46273707-galvanism-and-ghouls",
-      "id": "71173234",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1560378273i/46273707.jpg",
+      "title": "The Postcard from Italy",
+      "url": "https://www.goodreads.com/book/show/60375568-the-postcard-from-italy",
+      "id": "95144493",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1644350466i/60375568.jpg",
       "authors": [
-        "Tilly Wallace"
+        "Angela Petch"
       ],
       "genres": [
-        "fantasy",
-        "mystery",
-        "paranormal",
-        "historical",
         "historical-fiction",
+        "italy",
         "romance",
-        "magic"
+        "world-war-ii",
+        "audiobook",
+        "contemporary"
       ],
-      "rating": 4.09,
+      "rating": 4.3,
       "ratings": 1919,
       "reviews": 130
     },

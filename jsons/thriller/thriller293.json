@@ -1,25 +1,43 @@
 {
   "books": [
     {
-      "title": "Ich bin der Zorn",
-      "url": "https://www.goodreads.com/book/show/30294956-ich-bin-der-zorn",
-      "id": "49718035",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1464267799i/30294956.jpg",
+      "title": "Along the River of Flesh",
+      "url": "https://www.goodreads.com/book/show/193432869-along-the-river-of-flesh",
+      "id": "195171426",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1689955137i/193432869.jpg",
       "authors": [
-        "Ethan Cross"
+        "Kristopher Triana"
       ],
       "genres": [
-        "thriller",
-        "crime",
-        "mystery",
+        "horror",
         "fiction",
+        "splatterpunk",
+        "thriller",
         "adult",
         "audiobook",
-        "horror"
+        "mystery-thriller"
       ],
-      "rating": 4.12,
+      "rating": 4.01,
       "ratings": 1459,
-      "reviews": 110
+      "reviews": 276
+    },
+    {
+      "title": "KACAU",
+      "url": "https://www.goodreads.com/book/show/20804268-kacau",
+      "id": "40148782",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1392313953i/20804268.jpg",
+      "authors": [
+        "Ariff Adly"
+      ],
+      "genres": [
+        "horror",
+        "thriller",
+        "paranormal",
+        "fiction"
+      ],
+      "rating": 4.26,
+      "ratings": 1458,
+      "reviews": 231
     },
     {
       "title": "The Avignon Affair",
@@ -61,24 +79,6 @@
       "reviews": 84
     },
     {
-      "title": "KACAU",
-      "url": "https://www.goodreads.com/book/show/20804268-kacau",
-      "id": "40148782",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1392313953i/20804268.jpg",
-      "authors": [
-        "Ariff Adly"
-      ],
-      "genres": [
-        "horror",
-        "thriller",
-        "paranormal",
-        "fiction"
-      ],
-      "rating": 4.26,
-      "ratings": 1458,
-      "reviews": 231
-    },
-    {
       "title": "Night Man",
       "url": "https://www.goodreads.com/book/show/44016465-night-man",
       "id": "67972822",
@@ -97,43 +97,6 @@
       "rating": 4.13,
       "ratings": 1457,
       "reviews": 134
-    },
-    {
-      "title": "The Taken",
-      "url": "https://www.goodreads.com/book/show/31428978-the-taken",
-      "id": "52122922",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1470950080i/31428978.jpg",
-      "authors": [
-        "Casey Kelleher"
-      ],
-      "genres": [
-        "thriller",
-        "suspense",
-        "crime",
-        "fiction",
-        "mystery-thriller"
-      ],
-      "rating": 4.36,
-      "ratings": 1456,
-      "reviews": 111
-    },
-    {
-      "title": "Once Was Lost",
-      "url": "https://www.goodreads.com/book/show/42351977-once-was-lost",
-      "id": "48145994",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1539638059i/42351977.jpg",
-      "authors": [
-        "Matthew Iden"
-      ],
-      "genres": [
-        "thriller",
-        "fiction",
-        "mystery",
-        "crime"
-      ],
-      "rating": 4.31,
-      "ratings": 1456,
-      "reviews": 49
     },
     {
       "title": "Bullet Drop",
@@ -155,6 +118,64 @@
       "rating": 4.39,
       "ratings": 1456,
       "reviews": 45
+    },
+    {
+      "title": "Once Was Lost",
+      "url": "https://www.goodreads.com/book/show/42351977-once-was-lost",
+      "id": "48145994",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1539638059i/42351977.jpg",
+      "authors": [
+        "Matthew Iden"
+      ],
+      "genres": [
+        "thriller",
+        "fiction",
+        "mystery",
+        "crime"
+      ],
+      "rating": 4.31,
+      "ratings": 1456,
+      "reviews": 49
+    },
+    {
+      "title": "The Taken",
+      "url": "https://www.goodreads.com/book/show/31428978-the-taken",
+      "id": "52122922",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1470950080i/31428978.jpg",
+      "authors": [
+        "Casey Kelleher"
+      ],
+      "genres": [
+        "thriller",
+        "suspense",
+        "crime",
+        "fiction",
+        "mystery-thriller"
+      ],
+      "rating": 4.36,
+      "ratings": 1456,
+      "reviews": 111
+    },
+    {
+      "title": "Ghost Force",
+      "url": "https://www.goodreads.com/book/show/1105724.Ghost_Force",
+      "id": "2374872",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1436528874i/1105724.jpg",
+      "authors": [
+        "Patrick Robinson"
+      ],
+      "genres": [
+        "fiction",
+        "thriller",
+        "military-fiction",
+        "action",
+        "war",
+        "audiobook",
+        "adventure"
+      ],
+      "rating": 4.06,
+      "ratings": 1455,
+      "reviews": 64
     },
     {
       "title": "The Lost Causes",
@@ -198,27 +219,6 @@
       "reviews": 49
     },
     {
-      "title": "Ghost Force",
-      "url": "https://www.goodreads.com/book/show/1105724.Ghost_Force",
-      "id": "2374872",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1436528874i/1105724.jpg",
-      "authors": [
-        "Patrick Robinson"
-      ],
-      "genres": [
-        "fiction",
-        "thriller",
-        "military-fiction",
-        "action",
-        "war",
-        "audiobook",
-        "adventure"
-      ],
-      "rating": 4.06,
-      "ratings": 1455,
-      "reviews": 64
-    },
-    {
       "title": "The Advocate's Homicides",
       "url": "https://www.goodreads.com/book/show/31945473-the-advocate-s-homicides",
       "id": "52604240",
@@ -237,6 +237,25 @@
       "rating": 4.45,
       "ratings": 1454,
       "reviews": 90
+    },
+    {
+      "title": "Global Strike",
+      "url": "https://www.goodreads.com/book/show/48560257-global-strike",
+      "id": "73887370",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1582283888i/48560257.jpg",
+      "authors": [
+        "Andrew  Watts"
+      ],
+      "genres": [
+        "fiction",
+        "thriller",
+        "military-fiction",
+        "war",
+        "amazon"
+      ],
+      "rating": 4.55,
+      "ratings": 1453,
+      "reviews": 103
     },
     {
       "title": "Know No Evil",
@@ -259,23 +278,22 @@
       "reviews": 65
     },
     {
-      "title": "Global Strike",
-      "url": "https://www.goodreads.com/book/show/48560257-global-strike",
-      "id": "73887370",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1582283888i/48560257.jpg",
+      "title": "The Inca Con",
+      "url": "https://www.goodreads.com/book/show/42858751-the-inca-con",
+      "id": "66634548",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1542558781i/42858751.jpg",
       "authors": [
-        "Andrew  Watts"
+        "J.C. Ryan"
       ],
       "genres": [
-        "fiction",
         "thriller",
-        "military-fiction",
-        "war",
-        "amazon"
+        "fiction",
+        "amazon",
+        "mystery"
       ],
-      "rating": 4.55,
-      "ratings": 1453,
-      "reviews": 103
+      "rating": 4.3,
+      "ratings": 1452,
+      "reviews": 104
     },
     {
       "title": "Plunder Squad",
@@ -297,24 +315,6 @@
       "rating": 4.06,
       "ratings": 1452,
       "reviews": 130
-    },
-    {
-      "title": "The Inca Con",
-      "url": "https://www.goodreads.com/book/show/42858751-the-inca-con",
-      "id": "66634548",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1542558781i/42858751.jpg",
-      "authors": [
-        "J.C. Ryan"
-      ],
-      "genres": [
-        "thriller",
-        "fiction",
-        "amazon",
-        "mystery"
-      ],
-      "rating": 4.3,
-      "ratings": 1452,
-      "reviews": 104
     },
     {
       "title": "Their Last Secret",
@@ -376,27 +376,6 @@
       "reviews": 58
     },
     {
-      "title": "The Storm",
-      "url": "https://www.goodreads.com/book/show/34971537-the-storm",
-      "id": "56247185",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1493170129i/34971537.jpg",
-      "authors": [
-        "Nicholas Sansbury Smith"
-      ],
-      "genres": [
-        "post-apocalyptic",
-        "fiction",
-        "science-fiction",
-        "apocalyptic",
-        "dystopia",
-        "audiobook",
-        "thriller"
-      ],
-      "rating": 4.17,
-      "ratings": 1450,
-      "reviews": 128
-    },
-    {
       "title": "City of the Dead",
       "url": "https://www.goodreads.com/book/show/42482130-city-of-the-dead",
       "id": "57738867",
@@ -418,25 +397,25 @@
       "reviews": 151
     },
     {
-      "title": "Lowcountry Punch",
-      "url": "https://www.goodreads.com/book/show/52236797-lowcountry-punch",
-      "id": "18195201",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1561521776l/52236797.jpg",
+      "title": "The Storm",
+      "url": "https://www.goodreads.com/book/show/34971537-the-storm",
+      "id": "56247185",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1493170129i/34971537.jpg",
       "authors": [
-        "Benjamin Blackmore"
+        "Nicholas Sansbury Smith"
       ],
       "genres": [
-        "mystery",
-        "thriller",
-        "mystery-thriller",
-        "amazon",
+        "post-apocalyptic",
         "fiction",
-        "contemporary",
-        "action"
+        "science-fiction",
+        "apocalyptic",
+        "dystopia",
+        "audiobook",
+        "thriller"
       ],
-      "rating": 4.16,
-      "ratings": 1449,
-      "reviews": 90
+      "rating": 4.17,
+      "ratings": 1450,
+      "reviews": 128
     },
     {
       "title": "The Insomniac",
@@ -459,25 +438,44 @@
       "reviews": 143
     },
     {
-      "title": "Enemies Foreign And Domestic",
-      "url": "https://www.goodreads.com/book/show/12287160-enemies-foreign-and-domestic",
-      "id": "177612",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1346945138i/12287160.jpg",
+      "title": "Outbreak",
+      "url": "https://www.goodreads.com/book/show/56075880-outbreak",
+      "id": "87343520",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1606600567i/56075880.jpg",
       "authors": [
-        "Matthew Bracken"
+        "Frank   Gardner"
       ],
       "genres": [
+        "thriller",
+        "fiction",
+        "crime",
+        "espionage",
+        "mystery"
+      ],
+      "rating": 4,
+      "ratings": 1449,
+      "reviews": 126
+    },
+    {
+      "title": "The Wrong Man",
+      "url": "https://www.goodreads.com/book/show/13542920-the-wrong-man",
+      "id": "19107211",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1332959331i/13542920.jpg",
+      "authors": [
+        "David Ellis"
+      ],
+      "genres": [
+        "mystery",
         "fiction",
         "thriller",
-        "mystery",
-        "adventure",
-        "survival",
-        "dystopia",
-        "politics"
+        "legal-thriller",
+        "suspense",
+        "mystery-thriller",
+        "audiobook"
       ],
-      "rating": 4.15,
+      "rating": 4.02,
       "ratings": 1449,
-      "reviews": 115
+      "reviews": 197
     }
   ]
 }

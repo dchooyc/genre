@@ -1,25 +1,25 @@
 {
   "books": [
     {
-      "title": "The Bridesmaid",
-      "url": "https://www.goodreads.com/book/show/13511356-the-bridesmaid",
-      "id": "19065338",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1330898423i/13511356.jpg",
+      "title": "The Other Side",
+      "url": "https://www.goodreads.com/book/show/45310112-the-other-side",
+      "id": "70039634",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1559828179i/45310112.jpg",
       "authors": [
-        "Beverly Lewis"
+        "Kim Holden"
       ],
       "genres": [
-        "amish",
-        "amish-fiction",
-        "fiction",
         "romance",
-        "christian-fiction",
-        "christian",
-        "christian-romance"
+        "young-adult",
+        "contemporary",
+        "mental-health",
+        "mental-illness",
+        "fiction",
+        "new-adult"
       ],
-      "rating": 4.2,
+      "rating": 4.39,
       "ratings": 3734,
-      "reviews": 299
+      "reviews": 654
     },
     {
       "title": "A Bad Spell for the Worst Witch",
@@ -43,48 +43,6 @@
       "reviews": 185
     },
     {
-      "title": "The Summer Book Club",
-      "url": "https://www.goodreads.com/book/show/150453918-the-summer-book-club",
-      "id": "162971334",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1707330449i/150453918.jpg",
-      "authors": [
-        "Susan Mallery"
-      ],
-      "genres": [
-        "romance",
-        "fiction",
-        "contemporary",
-        "womens-fiction",
-        "audiobook",
-        "chick-lit",
-        "adult"
-      ],
-      "rating": 4.03,
-      "ratings": 3733,
-      "reviews": 562
-    },
-    {
-      "title": "Lost",
-      "url": "https://www.goodreads.com/book/show/36036821-lost",
-      "id": "57024661",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1529009647i/36036821.jpg",
-      "authors": [
-        "P.C. Cast"
-      ],
-      "genres": [
-        "fantasy",
-        "young-adult",
-        "vampires",
-        "paranormal",
-        "romance",
-        "fiction",
-        "magic"
-      ],
-      "rating": 4.34,
-      "ratings": 3733,
-      "reviews": 318
-    },
-    {
       "title": "The Turquoise Lament",
       "url": "https://www.goodreads.com/book/show/878065.The_Turquoise_Lament",
       "id": "1924504",
@@ -104,26 +62,6 @@
       "rating": 4.1,
       "ratings": 3733,
       "reviews": 161
-    },
-    {
-      "title": "Il nous restera ça",
-      "url": "https://www.goodreads.com/book/show/60679424-il-nous-restera-a",
-      "id": "95655585",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1648063799i/60679424.jpg",
-      "authors": [
-        "Virginie Grimaldi"
-      ],
-      "genres": [
-        "france",
-        "fiction",
-        "roman",
-        "contemporary",
-        "romance",
-        "drama"
-      ],
-      "rating": 4.47,
-      "ratings": 3733,
-      "reviews": 438
     },
     {
       "title": "Masquerade in Lodi",
@@ -147,25 +85,108 @@
       "reviews": 321
     },
     {
-      "title": "Supergifted",
-      "url": "https://www.goodreads.com/book/show/35068631-supergifted",
-      "id": "56364078",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1502120839i/35068631.jpg",
+      "title": "Lost",
+      "url": "https://www.goodreads.com/book/show/36036821-lost",
+      "id": "57024661",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1529009647i/36036821.jpg",
       "authors": [
-        "Gordon Korman"
+        "P.C. Cast"
       ],
       "genres": [
-        "realistic-fiction",
-        "middle-grade",
-        "fiction",
-        "humor",
+        "fantasy",
         "young-adult",
-        "childrens",
-        "juvenile"
+        "vampires",
+        "paranormal",
+        "romance",
+        "fiction",
+        "magic"
       ],
-      "rating": 4.2,
+      "rating": 4.34,
+      "ratings": 3733,
+      "reviews": 318
+    },
+    {
+      "title": "The Summer Book Club",
+      "url": "https://www.goodreads.com/book/show/150453918-the-summer-book-club",
+      "id": "162971334",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1707330449i/150453918.jpg",
+      "authors": [
+        "Susan Mallery"
+      ],
+      "genres": [
+        "romance",
+        "fiction",
+        "contemporary",
+        "womens-fiction",
+        "audiobook",
+        "chick-lit",
+        "adult"
+      ],
+      "rating": 4.03,
+      "ratings": 3733,
+      "reviews": 562
+    },
+    {
+      "title": "Il nous restera ça",
+      "url": "https://www.goodreads.com/book/show/60679424-il-nous-restera-a",
+      "id": "95655585",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1648063799i/60679424.jpg",
+      "authors": [
+        "Virginie Grimaldi"
+      ],
+      "genres": [
+        "france",
+        "fiction",
+        "roman",
+        "contemporary",
+        "romance",
+        "drama"
+      ],
+      "rating": 4.47,
+      "ratings": 3733,
+      "reviews": 438
+    },
+    {
+      "title": "Winter's Secret",
+      "url": "https://www.goodreads.com/book/show/13349459-winter-s-secret",
+      "id": "1342941",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1689881853i/13349459.jpg",
+      "authors": [
+        "Lyn Cote"
+      ],
+      "genres": [
+        "romance",
+        "mystery",
+        "christian",
+        "christian-fiction",
+        "fiction",
+        "suspense",
+        "contemporary"
+      ],
+      "rating": 4.13,
       "ratings": 3732,
-      "reviews": 349
+      "reviews": 291
+    },
+    {
+      "title": "Love Hard",
+      "url": "https://www.goodreads.com/book/show/50439038-love-hard",
+      "id": "74503854",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1578961450i/50439038.jpg",
+      "authors": [
+        "Nalini Singh"
+      ],
+      "genres": [
+        "romance",
+        "contemporary",
+        "contemporary-romance",
+        "sports",
+        "sports-romance",
+        "fiction",
+        "adult"
+      ],
+      "rating": 4.14,
+      "ratings": 3732,
+      "reviews": 518
     },
     {
       "title": "Kill Switch",
@@ -189,25 +210,25 @@
       "reviews": 307
     },
     {
-      "title": "Love Hard",
-      "url": "https://www.goodreads.com/book/show/50439038-love-hard",
-      "id": "74503854",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1578961450i/50439038.jpg",
+      "title": "Supergifted",
+      "url": "https://www.goodreads.com/book/show/35068631-supergifted",
+      "id": "56364078",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1502120839i/35068631.jpg",
       "authors": [
-        "Nalini Singh"
+        "Gordon Korman"
       ],
       "genres": [
-        "romance",
-        "contemporary",
-        "contemporary-romance",
-        "sports",
-        "sports-romance",
+        "realistic-fiction",
+        "middle-grade",
         "fiction",
-        "adult"
+        "humor",
+        "young-adult",
+        "childrens",
+        "juvenile"
       ],
-      "rating": 4.14,
+      "rating": 4.2,
       "ratings": 3732,
-      "reviews": 518
+      "reviews": 349
     },
     {
       "title": "Memoirs of a Goldfish",
@@ -251,46 +272,25 @@
       "reviews": 182
     },
     {
-      "title": "Winter's Secret",
-      "url": "https://www.goodreads.com/book/show/13349459-winter-s-secret",
-      "id": "1342941",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1689881853i/13349459.jpg",
+      "title": "Legacies",
+      "url": "https://www.goodreads.com/book/show/535525.Legacies",
+      "id": "353975",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388338725i/535525.jpg",
       "authors": [
-        "Lyn Cote"
+        "L.E. Modesitt Jr."
       ],
       "genres": [
-        "romance",
-        "mystery",
-        "christian",
-        "christian-fiction",
+        "fantasy",
         "fiction",
-        "suspense",
-        "contemporary"
+        "epic-fantasy",
+        "science-fiction",
+        "science-fiction-fantasy",
+        "high-fantasy",
+        "magic"
       ],
-      "rating": 4.13,
-      "ratings": 3732,
-      "reviews": 291
-    },
-    {
-      "title": "Tout comme les tortues",
-      "url": "https://www.goodreads.com/book/show/52370048-tout-comme-les-tortues",
-      "id": "73053142",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1566694197l/52370048.jpg",
-      "authors": [
-        "Marie-Christine Chartier"
-      ],
-      "genres": [
-        "romance",
-        "roman",
-        "fiction",
-        "france",
-        "chick-lit",
-        "contemporary",
-        "young-adult"
-      ],
-      "rating": 4.27,
+      "rating": 4.06,
       "ratings": 3731,
-      "reviews": 321
+      "reviews": 136
     },
     {
       "title": "Beauty and the Beast",
@@ -314,25 +314,46 @@
       "reviews": 155
     },
     {
-      "title": "The Missing Piece",
-      "url": "https://www.goodreads.com/book/show/44905775-the-missing-piece",
-      "id": "53615680",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1554755150i/44905775.jpg",
+      "title": "Ellana, l'Envol",
+      "url": "https://www.goodreads.com/book/show/4610292-ellana-l-envol",
+      "id": "4660182",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1335541430i/4610292.jpg",
       "authors": [
-        "Kiersten Modglin"
+        "Pierre Bottero"
       ],
       "genres": [
-        "thriller",
-        "mystery",
+        "fantasy",
+        "france",
+        "young-adult",
         "fiction",
-        "suspense",
-        "psychological-thriller",
-        "audiobook",
+        "roman",
+        "childrens",
+        "adventure"
+      ],
+      "rating": 4.71,
+      "ratings": 3731,
+      "reviews": 85
+    },
+    {
+      "title": "Tout comme les tortues",
+      "url": "https://www.goodreads.com/book/show/52370048-tout-comme-les-tortues",
+      "id": "73053142",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1566694197l/52370048.jpg",
+      "authors": [
+        "Marie-Christine Chartier"
+      ],
+      "genres": [
+        "romance",
+        "roman",
+        "fiction",
+        "france",
+        "chick-lit",
+        "contemporary",
         "young-adult"
       ],
-      "rating": 4.04,
+      "rating": 4.27,
       "ratings": 3731,
-      "reviews": 319
+      "reviews": 321
     },
     {
       "title": "The Coldest War",
@@ -356,27 +377,6 @@
       "reviews": 395
     },
     {
-      "title": "Legacies",
-      "url": "https://www.goodreads.com/book/show/535525.Legacies",
-      "id": "353975",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388338725i/535525.jpg",
-      "authors": [
-        "L.E. Modesitt Jr."
-      ],
-      "genres": [
-        "fantasy",
-        "fiction",
-        "epic-fantasy",
-        "science-fiction",
-        "science-fiction-fantasy",
-        "high-fantasy",
-        "magic"
-      ],
-      "rating": 4.06,
-      "ratings": 3731,
-      "reviews": 136
-    },
-    {
       "title": "Blood & Bones: Trip",
       "url": "https://www.goodreads.com/book/show/50186766-blood-bones",
       "id": "75118502",
@@ -398,6 +398,27 @@
       "reviews": 338
     },
     {
+      "title": "The Missing Piece",
+      "url": "https://www.goodreads.com/book/show/44905775-the-missing-piece",
+      "id": "53615680",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1554755150i/44905775.jpg",
+      "authors": [
+        "Kiersten Modglin"
+      ],
+      "genres": [
+        "thriller",
+        "mystery",
+        "fiction",
+        "suspense",
+        "psychological-thriller",
+        "audiobook",
+        "young-adult"
+      ],
+      "rating": 4.04,
+      "ratings": 3731,
+      "reviews": 319
+    },
+    {
       "title": "Acolo unde femeile sunt regi",
       "url": "https://www.goodreads.com/book/show/35050238-acolo-unde-femeile-sunt-regi",
       "id": "61632851",
@@ -417,27 +438,6 @@
       "rating": 4.23,
       "ratings": 3731,
       "reviews": 365
-    },
-    {
-      "title": "Ellana, l'Envol",
-      "url": "https://www.goodreads.com/book/show/4610292-ellana-l-envol",
-      "id": "4660182",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1335541430i/4610292.jpg",
-      "authors": [
-        "Pierre Bottero"
-      ],
-      "genres": [
-        "fantasy",
-        "france",
-        "young-adult",
-        "fiction",
-        "roman",
-        "childrens",
-        "adventure"
-      ],
-      "rating": 4.71,
-      "ratings": 3731,
-      "reviews": 85
     },
     {
       "title": "The Case of the Headless Billionaire",

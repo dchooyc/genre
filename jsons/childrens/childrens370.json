@@ -1,6 +1,27 @@
 {
   "books": [
     {
+      "title": "Cowboy Haven",
+      "url": "https://www.goodreads.com/book/show/60209228-cowboy-haven",
+      "id": "94950246",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1643089726i/60209228.jpg",
+      "authors": [
+        "B.A. Tortuga"
+      ],
+      "genres": [
+        "m-m-romance",
+        "contemporary",
+        "westerns",
+        "romance",
+        "childrens",
+        "lgbt",
+        "gay"
+      ],
+      "rating": 4.4,
+      "ratings": 607,
+      "reviews": 117
+    },
+    {
       "title": "Enid",
       "url": "https://www.goodreads.com/book/show/3217195-enid",
       "id": "3251134",
@@ -22,61 +43,6 @@
       "reviews": 44
     },
     {
-      "title": "Aster and the Mixed-Up Magic",
-      "url": "https://www.goodreads.com/book/show/54416135-aster-and-the-mixed-up-magic",
-      "id": "87685959",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1594616290i/54416135.jpg",
-      "authors": [
-        "Thom Pico"
-      ],
-      "genres": [
-        "graphic-novels",
-        "fantasy",
-        "middle-grade",
-        "comics",
-        "childrens",
-        "magic",
-        "fiction"
-      ],
-      "rating": 4.01,
-      "ratings": 607,
-      "reviews": 73
-    },
-    {
-      "title": "Maria's Island",
-      "url": "https://www.goodreads.com/book/show/58238698-maria-s-island",
-      "id": "91281846",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1622588924i/58238698.jpg",
-      "authors": [
-        "Victoria Hislop"
-      ],
-      "genres": [
-        "historical-fiction",
-        "childrens",
-        "middle-grade"
-      ],
-      "rating": 4.31,
-      "ratings": 606,
-      "reviews": 59
-    },
-    {
-      "title": "Walt Disney - Eeyore, Be Happy",
-      "url": "https://www.goodreads.com/book/show/887184.Walt_Disney_Eeyore_Be_Happy",
-      "id": "872442",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1424724598i/887184.jpg",
-      "authors": [
-        "Don Ferguson"
-      ],
-      "genres": [
-        "childrens",
-        "picture-books",
-        "fiction"
-      ],
-      "rating": 4.35,
-      "ratings": 606,
-      "reviews": 26
-    },
-    {
       "title": "Georgie",
       "url": "https://www.goodreads.com/book/show/913207.Georgie",
       "id": "2912504",
@@ -96,44 +62,6 @@
       "rating": 4.18,
       "ratings": 606,
       "reviews": 50
-    },
-    {
-      "title": "Nightstorm and the Grand Slam",
-      "url": "https://www.goodreads.com/book/show/10357742-nightstorm-and-the-grand-slam",
-      "id": "15260729",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1595814872i/10357742.jpg",
-      "authors": [
-        "Stacy Gregg"
-      ],
-      "genres": [
-        "horses",
-        "childrens",
-        "animals"
-      ],
-      "rating": 4.61,
-      "ratings": 606,
-      "reviews": 19
-    },
-    {
-      "title": "As Fast As Words Could Fly",
-      "url": "https://www.goodreads.com/book/show/17066096-as-fast-as-words-could-fly",
-      "id": "23405989",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1361148403i/17066096.jpg",
-      "authors": [
-        "Pamela M. Tuck"
-      ],
-      "genres": [
-        "picture-books",
-        "historical-fiction",
-        "childrens",
-        "african-american",
-        "fiction",
-        "cultural",
-        "realistic-fiction"
-      ],
-      "rating": 4.38,
-      "ratings": 606,
-      "reviews": 144
     },
     {
       "title": "A Terrible Thing Happened: A Story for Children Who Have Witnessed Violence or Trauma",
@@ -178,6 +106,120 @@
       "reviews": 99
     },
     {
+      "title": "Nightstorm and the Grand Slam",
+      "url": "https://www.goodreads.com/book/show/10357742-nightstorm-and-the-grand-slam",
+      "id": "15260729",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1595814872i/10357742.jpg",
+      "authors": [
+        "Stacy Gregg"
+      ],
+      "genres": [
+        "horses",
+        "childrens",
+        "animals"
+      ],
+      "rating": 4.61,
+      "ratings": 606,
+      "reviews": 19
+    },
+    {
+      "title": "Maria's Island",
+      "url": "https://www.goodreads.com/book/show/58238698-maria-s-island",
+      "id": "91281846",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1622588924i/58238698.jpg",
+      "authors": [
+        "Victoria Hislop"
+      ],
+      "genres": [
+        "historical-fiction",
+        "childrens",
+        "middle-grade"
+      ],
+      "rating": 4.31,
+      "ratings": 606,
+      "reviews": 59
+    },
+    {
+      "title": "As Fast As Words Could Fly",
+      "url": "https://www.goodreads.com/book/show/17066096-as-fast-as-words-could-fly",
+      "id": "23405989",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1361148403i/17066096.jpg",
+      "authors": [
+        "Pamela M. Tuck"
+      ],
+      "genres": [
+        "picture-books",
+        "historical-fiction",
+        "childrens",
+        "african-american",
+        "fiction",
+        "cultural",
+        "realistic-fiction"
+      ],
+      "rating": 4.38,
+      "ratings": 606,
+      "reviews": 144
+    },
+    {
+      "title": "Walt Disney - Eeyore, Be Happy",
+      "url": "https://www.goodreads.com/book/show/887184.Walt_Disney_Eeyore_Be_Happy",
+      "id": "872442",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1424724598i/887184.jpg",
+      "authors": [
+        "Don Ferguson"
+      ],
+      "genres": [
+        "childrens",
+        "picture-books",
+        "fiction"
+      ],
+      "rating": 4.35,
+      "ratings": 606,
+      "reviews": 26
+    },
+    {
+      "title": "Santa in the City",
+      "url": "https://www.goodreads.com/book/show/56749647-santa-in-the-city",
+      "id": "88694366",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1615237165i/56749647.jpg",
+      "authors": [
+        "Tiffany D. Jackson"
+      ],
+      "genres": [
+        "picture-books",
+        "christmas",
+        "holiday",
+        "fiction",
+        "childrens",
+        "family",
+        "african-american"
+      ],
+      "rating": 4.01,
+      "ratings": 605,
+      "reviews": 91
+    },
+    {
+      "title": "The Elephant",
+      "url": "https://www.goodreads.com/book/show/35443010-the-elephant",
+      "id": "56825787",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1497572652i/35443010.jpg",
+      "authors": [
+        "Peter Carnavas"
+      ],
+      "genres": [
+        "middle-grade",
+        "childrens",
+        "fiction",
+        "animals",
+        "family",
+        "health",
+        "picture-books"
+      ],
+      "rating": 4.41,
+      "ratings": 605,
+      "reviews": 169
+    },
+    {
       "title": "Raising Children Compassionately: Parenting the Nonviolent Communication Way",
       "url": "https://www.goodreads.com/book/show/71732.Raising_Children_Compassionately",
       "id": "69456",
@@ -197,6 +239,25 @@
       "rating": 4.18,
       "ratings": 605,
       "reviews": 56
+    },
+    {
+      "title": "The Castle Crime",
+      "url": "https://www.goodreads.com/book/show/17883952-the-castle-crime",
+      "id": "25047061",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1377629821i/17883952.jpg",
+      "authors": [
+        "Ron Roy"
+      ],
+      "genres": [
+        "mystery",
+        "childrens",
+        "fiction",
+        "young-adult",
+        "chapter-books"
+      ],
+      "rating": 4.33,
+      "ratings": 605,
+      "reviews": 43
     },
     {
       "title": "Santa Claus and His Elves",
@@ -241,109 +302,6 @@
       "reviews": 17
     },
     {
-      "title": "The Castle Crime",
-      "url": "https://www.goodreads.com/book/show/17883952-the-castle-crime",
-      "id": "25047061",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1377629821i/17883952.jpg",
-      "authors": [
-        "Ron Roy"
-      ],
-      "genres": [
-        "mystery",
-        "childrens",
-        "fiction",
-        "young-adult",
-        "chapter-books"
-      ],
-      "rating": 4.33,
-      "ratings": 605,
-      "reviews": 43
-    },
-    {
-      "title": "The Elephant",
-      "url": "https://www.goodreads.com/book/show/35443010-the-elephant",
-      "id": "56825787",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1497572652i/35443010.jpg",
-      "authors": [
-        "Peter Carnavas"
-      ],
-      "genres": [
-        "middle-grade",
-        "childrens",
-        "fiction",
-        "animals",
-        "family",
-        "health",
-        "picture-books"
-      ],
-      "rating": 4.41,
-      "ratings": 605,
-      "reviews": 169
-    },
-    {
-      "title": "Santa in the City",
-      "url": "https://www.goodreads.com/book/show/56749647-santa-in-the-city",
-      "id": "88694366",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1615237165i/56749647.jpg",
-      "authors": [
-        "Tiffany D. Jackson"
-      ],
-      "genres": [
-        "picture-books",
-        "christmas",
-        "holiday",
-        "fiction",
-        "childrens",
-        "family",
-        "african-american"
-      ],
-      "rating": 4.01,
-      "ratings": 605,
-      "reviews": 91
-    },
-    {
-      "title": "A Poke in the I: A Collection of Concrete Poems",
-      "url": "https://www.goodreads.com/book/show/908726.A_Poke_in_the_I",
-      "id": "3017172",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320504921i/908726.jpg",
-      "authors": [
-        "Paul B. Janeczko"
-      ],
-      "genres": [
-        "poetry",
-        "picture-books",
-        "childrens",
-        "non-fiction",
-        "humor",
-        "cultural",
-        "middle-grade"
-      ],
-      "rating": 4.07,
-      "ratings": 604,
-      "reviews": 146
-    },
-    {
-      "title": "100 Mighty Dragons All Named Broccoli",
-      "url": "https://www.goodreads.com/book/show/61103015-100-mighty-dragons-all-named-broccoli",
-      "id": "96310557",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1676843245i/61103015.jpg",
-      "authors": [
-        "David LaRochelle"
-      ],
-      "genres": [
-        "picture-books",
-        "mathematics",
-        "dragons",
-        "counting",
-        "childrens",
-        "humor",
-        "storytime"
-      ],
-      "rating": 4.16,
-      "ratings": 604,
-      "reviews": 120
-    },
-    {
       "title": "The Last Shadow Warrior",
       "url": "https://www.goodreads.com/book/show/53354405-the-last-shadow-warrior",
       "id": "82250334",
@@ -363,6 +321,43 @@
       "rating": 4.05,
       "ratings": 604,
       "reviews": 159
+    },
+    {
+      "title": "The Horrible Chocolate",
+      "url": "https://www.goodreads.com/book/show/60936204-the-horrible-chocolate",
+      "id": "94986080",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1651466771i/60936204.jpg",
+      "authors": [
+        "Jacob M. Ronsen"
+      ],
+      "genres": [
+        "fiction",
+        "childrens",
+        "fantasy",
+        "young-adult"
+      ],
+      "rating": 4.36,
+      "ratings": 604,
+      "reviews": 15
+    },
+    {
+      "title": "The Taylor TurboChaser",
+      "url": "https://www.goodreads.com/book/show/52100418-the-taylor-turbochaser",
+      "id": "72965175",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1566157027l/52100418.jpg",
+      "authors": [
+        "David Baddiel"
+      ],
+      "genres": [
+        "middle-grade",
+        "fiction",
+        "childrens",
+        "audiobook",
+        "humor"
+      ],
+      "rating": 4.31,
+      "ratings": 604,
+      "reviews": 36
     },
     {
       "title": "Ride for Your Life!",
@@ -386,43 +381,67 @@
       "reviews": 18
     },
     {
-      "title": "Supertato",
-      "url": "https://www.goodreads.com/book/show/19822888-supertato",
-      "id": "27840767",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1435523726i/19822888.jpg",
+      "title": "Kitty and the Tiger Treasure",
+      "url": "https://www.goodreads.com/book/show/42519320-kitty-and-the-tiger-treasure",
+      "id": "66239123",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1565780435i/42519320.jpg",
       "authors": [
-        "Sue Hendra"
+        "Paula Harrison"
       ],
       "genres": [
-        "picture-books",
         "childrens",
-        "superheroes",
-        "food",
-        "humor",
-        "adventure",
-        "storytime"
+        "fiction",
+        "chapter-books",
+        "middle-grade",
+        "fantasy",
+        "mystery",
+        "superheroes"
       ],
-      "rating": 4.14,
+      "rating": 4.07,
       "ratings": 604,
-      "reviews": 77
+      "reviews": 76
     },
     {
-      "title": "The Horrible Chocolate",
-      "url": "https://www.goodreads.com/book/show/60936204-the-horrible-chocolate",
-      "id": "94986080",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1651466771i/60936204.jpg",
+      "title": "Attack at the Arena",
+      "url": "https://www.goodreads.com/book/show/9994878-attack-at-the-arena",
+      "id": "14889709",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1406504918i/9994878.jpg",
       "authors": [
-        "Jacob M. Ronsen"
+        "Marianne Hering"
       ],
       "genres": [
-        "fiction",
+        "historical-fiction",
+        "christian",
         "childrens",
+        "chapter-books",
+        "fiction",
         "fantasy",
-        "young-adult"
+        "christian-fiction"
       ],
-      "rating": 4.36,
+      "rating": 4.19,
       "ratings": 604,
-      "reviews": 15
+      "reviews": 63
+    },
+    {
+      "title": "A Poke in the I: A Collection of Concrete Poems",
+      "url": "https://www.goodreads.com/book/show/908726.A_Poke_in_the_I",
+      "id": "3017172",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320504921i/908726.jpg",
+      "authors": [
+        "Paul B. Janeczko"
+      ],
+      "genres": [
+        "poetry",
+        "picture-books",
+        "childrens",
+        "non-fiction",
+        "humor",
+        "cultural",
+        "middle-grade"
+      ],
+      "rating": 4.07,
+      "ratings": 604,
+      "reviews": 146
     },
     {
       "title": "The Little Ghost Who Lost Her Boo!",
@@ -446,44 +465,25 @@
       "reviews": 113
     },
     {
-      "title": "The Taylor TurboChaser",
-      "url": "https://www.goodreads.com/book/show/52100418-the-taylor-turbochaser",
-      "id": "72965175",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1566157027l/52100418.jpg",
+      "title": "Supertato",
+      "url": "https://www.goodreads.com/book/show/19822888-supertato",
+      "id": "27840767",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1435523726i/19822888.jpg",
       "authors": [
-        "David Baddiel"
+        "Sue Hendra"
       ],
       "genres": [
-        "middle-grade",
-        "fiction",
+        "picture-books",
         "childrens",
-        "audiobook",
-        "humor"
+        "superheroes",
+        "food",
+        "humor",
+        "adventure",
+        "storytime"
       ],
-      "rating": 4.31,
+      "rating": 4.14,
       "ratings": 604,
-      "reviews": 36
-    },
-    {
-      "title": "Attack at the Arena",
-      "url": "https://www.goodreads.com/book/show/9994878-attack-at-the-arena",
-      "id": "14889709",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1406504918i/9994878.jpg",
-      "authors": [
-        "Marianne Hering"
-      ],
-      "genres": [
-        "historical-fiction",
-        "christian",
-        "childrens",
-        "chapter-books",
-        "fiction",
-        "fantasy",
-        "christian-fiction"
-      ],
-      "rating": 4.19,
-      "ratings": 604,
-      "reviews": 63
+      "reviews": 77
     }
   ]
 }

@@ -1,6 +1,27 @@
 {
   "books": [
     {
+      "title": "Race of Scorpions",
+      "url": "https://www.goodreads.com/book/show/112083.Race_of_Scorpions",
+      "id": "1694441",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1542322846i/112083.jpg",
+      "authors": [
+        "Dorothy Dunnett"
+      ],
+      "genres": [
+        "historical-fiction",
+        "historical",
+        "fiction",
+        "15th-century",
+        "adventure",
+        "romance",
+        "italy"
+      ],
+      "rating": 4.44,
+      "ratings": 2499,
+      "reviews": 119
+    },
+    {
       "title": "Ramage",
       "url": "https://www.goodreads.com/book/show/852721.Ramage",
       "id": "838225",
@@ -43,48 +64,6 @@
       "reviews": 221
     },
     {
-      "title": "Thicker Than Water",
-      "url": "https://www.goodreads.com/book/show/904940.Thicker_Than_Water",
-      "id": "890088",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328869526i/904940.jpg",
-      "authors": [
-        "Lauren Brooke"
-      ],
-      "genres": [
-        "horses",
-        "young-adult",
-        "childrens",
-        "fiction",
-        "animals",
-        "middle-grade",
-        "contemporary"
-      ],
-      "rating": 4.15,
-      "ratings": 2499,
-      "reviews": 40
-    },
-    {
-      "title": "The Magdalen Martyrs",
-      "url": "https://www.goodreads.com/book/show/166897.The_Magdalen_Martyrs",
-      "id": "1866754",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1438012082i/166897.jpg",
-      "authors": [
-        "Ken Bruen"
-      ],
-      "genres": [
-        "mystery",
-        "crime",
-        "fiction",
-        "ireland",
-        "noir",
-        "mystery-thriller",
-        "irish-literature"
-      ],
-      "rating": 4.03,
-      "ratings": 2498,
-      "reviews": 180
-    },
-    {
       "title": "Command and Control",
       "url": "https://www.goodreads.com/book/show/58758884-command-and-control",
       "id": "92503377",
@@ -102,46 +81,6 @@
       "rating": 4.39,
       "ratings": 2498,
       "reviews": 106
-    },
-    {
-      "title": "Romancing His Heart",
-      "url": "https://www.goodreads.com/book/show/199288140-romancing-his-heart",
-      "id": "89552878",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1696505808i/199288140.jpg",
-      "authors": [
-        "Avery Maxwell"
-      ],
-      "genres": [
-        "romance",
-        "contemporary-romance",
-        "romantic-suspense",
-        "contemporary",
-        "fiction"
-      ],
-      "rating": 4.5,
-      "ratings": 2498,
-      "reviews": 235
-    },
-    {
-      "title": "The Chimera's Curse",
-      "url": "https://www.goodreads.com/book/show/744322.The_Chimera_s_Curse",
-      "id": "730471",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1332555705i/744322.jpg",
-      "authors": [
-        "Julia Golding"
-      ],
-      "genres": [
-        "fantasy",
-        "young-adult",
-        "mythology",
-        "middle-grade",
-        "magic",
-        "fiction",
-        "adventure"
-      ],
-      "rating": 4.3,
-      "ratings": 2498,
-      "reviews": 105
     },
     {
       "title": "Hostile Intent",
@@ -165,25 +104,65 @@
       "reviews": 319
     },
     {
-      "title": "All for You",
-      "url": "https://www.goodreads.com/book/show/34464877-all-for-you",
-      "id": "54026401",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1494454559i/34464877.jpg",
+      "title": "The Magdalen Martyrs",
+      "url": "https://www.goodreads.com/book/show/166897.The_Magdalen_Martyrs",
+      "id": "1866754",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1438012082i/166897.jpg",
       "authors": [
-        "Melody Grace"
+        "Ken Bruen"
+      ],
+      "genres": [
+        "mystery",
+        "crime",
+        "fiction",
+        "ireland",
+        "noir",
+        "mystery-thriller",
+        "irish-literature"
+      ],
+      "rating": 4.03,
+      "ratings": 2498,
+      "reviews": 180
+    },
+    {
+      "title": "The Chimera's Curse",
+      "url": "https://www.goodreads.com/book/show/744322.The_Chimera_s_Curse",
+      "id": "730471",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1332555705i/744322.jpg",
+      "authors": [
+        "Julia Golding"
+      ],
+      "genres": [
+        "fantasy",
+        "young-adult",
+        "mythology",
+        "middle-grade",
+        "magic",
+        "fiction",
+        "adventure"
+      ],
+      "rating": 4.3,
+      "ratings": 2498,
+      "reviews": 105
+    },
+    {
+      "title": "Romancing His Heart",
+      "url": "https://www.goodreads.com/book/show/199288140-romancing-his-heart",
+      "id": "89552878",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1696505808i/199288140.jpg",
+      "authors": [
+        "Avery Maxwell"
       ],
       "genres": [
         "romance",
-        "contemporary",
         "contemporary-romance",
-        "chick-lit",
-        "fiction",
-        "amazon",
-        "drama"
+        "romantic-suspense",
+        "contemporary",
+        "fiction"
       ],
-      "rating": 4.24,
-      "ratings": 2497,
-      "reviews": 117
+      "rating": 4.5,
+      "ratings": 2498,
+      "reviews": 235
     },
     {
       "title": "The Ballad of Sir Dinadan",
@@ -207,88 +186,25 @@
       "reviews": 118
     },
     {
-      "title": "The Amateurs",
-      "url": "https://www.goodreads.com/book/show/6328366-the-amateurs",
-      "id": "6513989",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1343975856i/6328366.jpg",
+      "title": "All for You",
+      "url": "https://www.goodreads.com/book/show/34464877-all-for-you",
+      "id": "54026401",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1494454559i/34464877.jpg",
       "authors": [
-        "John Niven"
+        "Melody Grace"
       ],
       "genres": [
-        "fiction",
-        "humor",
-        "contemporary",
-        "sports",
-        "novels",
-        "german-literature",
-        "crime"
-      ],
-      "rating": 4.1,
-      "ratings": 2496,
-      "reviews": 160
-    },
-    {
-      "title": "Immersed",
-      "url": "https://www.goodreads.com/book/show/35413368-immersed",
-      "id": "56112811",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1497227633i/35413368.jpg",
-      "authors": [
-        "Jenetta Penner"
-      ],
-      "genres": [
-        "dystopia",
-        "young-adult",
-        "science-fiction",
-        "fiction",
         "romance",
-        "fantasy",
-        "paranormal"
-      ],
-      "rating": 4.13,
-      "ratings": 2496,
-      "reviews": 186
-    },
-    {
-      "title": "Clip-Clop",
-      "url": "https://www.goodreads.com/book/show/563148.Clip_Clop",
-      "id": "550285",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328838075i/563148.jpg",
-      "authors": [
-        "Nicola Smee"
-      ],
-      "genres": [
-        "picture-books",
-        "storytime",
-        "animals",
-        "childrens",
-        "horses",
+        "contemporary",
+        "contemporary-romance",
+        "chick-lit",
         "fiction",
-        "cats"
+        "amazon",
+        "drama"
       ],
-      "rating": 4.03,
-      "ratings": 2496,
-      "reviews": 169
-    },
-    {
-      "title": "The Beast and the Bethany",
-      "url": "https://www.goodreads.com/book/show/48587521-the-beast-and-the-bethany",
-      "id": "73923057",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1610798467i/48587521.jpg",
-      "authors": [
-        "Jack Meggitt-Phillips"
-      ],
-      "genres": [
-        "middle-grade",
-        "fantasy",
-        "childrens",
-        "humor",
-        "horror",
-        "audiobook",
-        "fiction"
-      ],
-      "rating": 4.01,
-      "ratings": 2496,
-      "reviews": 440
+      "rating": 4.24,
+      "ratings": 2497,
+      "reviews": 117
     },
     {
       "title": "Frozen Souls",
@@ -333,6 +249,48 @@
       "reviews": 43
     },
     {
+      "title": "The Amateurs",
+      "url": "https://www.goodreads.com/book/show/6328366-the-amateurs",
+      "id": "6513989",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1343975856i/6328366.jpg",
+      "authors": [
+        "John Niven"
+      ],
+      "genres": [
+        "fiction",
+        "humor",
+        "contemporary",
+        "sports",
+        "novels",
+        "german-literature",
+        "crime"
+      ],
+      "rating": 4.1,
+      "ratings": 2496,
+      "reviews": 160
+    },
+    {
+      "title": "The Beast and the Bethany",
+      "url": "https://www.goodreads.com/book/show/48587521-the-beast-and-the-bethany",
+      "id": "73923057",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1610798467i/48587521.jpg",
+      "authors": [
+        "Jack Meggitt-Phillips"
+      ],
+      "genres": [
+        "middle-grade",
+        "fantasy",
+        "childrens",
+        "humor",
+        "horror",
+        "audiobook",
+        "fiction"
+      ],
+      "rating": 4.01,
+      "ratings": 2496,
+      "reviews": 440
+    },
+    {
       "title": "Vindolanda",
       "url": "https://www.goodreads.com/book/show/34835282-vindolanda",
       "id": "55659980",
@@ -352,6 +310,48 @@
       "rating": 4.03,
       "ratings": 2496,
       "reviews": 278
+    },
+    {
+      "title": "Immersed",
+      "url": "https://www.goodreads.com/book/show/35413368-immersed",
+      "id": "56112811",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1497227633i/35413368.jpg",
+      "authors": [
+        "Jenetta Penner"
+      ],
+      "genres": [
+        "dystopia",
+        "young-adult",
+        "science-fiction",
+        "fiction",
+        "romance",
+        "fantasy",
+        "paranormal"
+      ],
+      "rating": 4.13,
+      "ratings": 2496,
+      "reviews": 186
+    },
+    {
+      "title": "Clip-Clop",
+      "url": "https://www.goodreads.com/book/show/563148.Clip_Clop",
+      "id": "550285",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328838075i/563148.jpg",
+      "authors": [
+        "Nicola Smee"
+      ],
+      "genres": [
+        "picture-books",
+        "storytime",
+        "animals",
+        "childrens",
+        "horses",
+        "fiction",
+        "cats"
+      ],
+      "rating": 4.03,
+      "ratings": 2496,
+      "reviews": 169
     },
     {
       "title": "My Vegas Groom",
@@ -375,27 +375,6 @@
       "reviews": 381
     },
     {
-      "title": "School. Hasn't This Gone on Long Enough?",
-      "url": "https://www.goodreads.com/book/show/11684505-school-hasn-t-this-gone-on-long-enough",
-      "id": "16630804",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1420688814i/11684505.jpg",
-      "authors": [
-        "Jim Benton"
-      ],
-      "genres": [
-        "middle-grade",
-        "childrens",
-        "humor",
-        "realistic-fiction",
-        "fiction",
-        "juvenile",
-        "diary"
-      ],
-      "rating": 4.22,
-      "ratings": 2495,
-      "reviews": 75
-    },
-    {
       "title": "A Daughter's Place",
       "url": "https://www.goodreads.com/book/show/22568227-a-daughter-s-place",
       "id": "42032428",
@@ -415,48 +394,6 @@
       "rating": 4.02,
       "ratings": 2495,
       "reviews": 149
-    },
-    {
-      "title": "It's In His Touch",
-      "url": "https://www.goodreads.com/book/show/25355111-it-s-in-his-touch",
-      "id": "45096859",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1434150356i/25355111.jpg",
-      "authors": [
-        "Shelly Alexander"
-      ],
-      "genres": [
-        "romance",
-        "contemporary",
-        "contemporary-romance",
-        "adult",
-        "fiction",
-        "family",
-        "audiobook"
-      ],
-      "rating": 4.25,
-      "ratings": 2495,
-      "reviews": 107
-    },
-    {
-      "title": "Doctor Who: Engines of War",
-      "url": "https://www.goodreads.com/book/show/22401661-doctor-who",
-      "id": "41826280",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1401876854i/22401661.jpg",
-      "authors": [
-        "George Mann"
-      ],
-      "genres": [
-        "doctor-who",
-        "science-fiction",
-        "fiction",
-        "time-travel",
-        "fantasy",
-        "media-tie-in",
-        "audiobook"
-      ],
-      "rating": 4.03,
-      "ratings": 2495,
-      "reviews": 375
     },
     {
       "title": "A Shadow in Moscow",
@@ -480,25 +417,88 @@
       "reviews": 587
     },
     {
-      "title": "Murder in the Grave",
-      "url": "https://www.goodreads.com/book/show/56938596-murder-in-the-grave",
-      "id": "89050384",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1612374821i/56938596.jpg",
+      "title": "Doctor Who: Engines of War",
+      "url": "https://www.goodreads.com/book/show/22401661-doctor-who",
+      "id": "41826280",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1401876854i/22401661.jpg",
       "authors": [
-        "Irina Shapiro"
+        "George Mann"
       ],
       "genres": [
-        "mystery",
-        "historical-mystery",
-        "historical-fiction",
-        "historical",
-        "crime",
-        "mystery-thriller",
-        "fiction"
+        "doctor-who",
+        "science-fiction",
+        "fiction",
+        "time-travel",
+        "fantasy",
+        "media-tie-in",
+        "audiobook"
       ],
-      "rating": 4.46,
+      "rating": 4.03,
+      "ratings": 2495,
+      "reviews": 375
+    },
+    {
+      "title": "It's In His Touch",
+      "url": "https://www.goodreads.com/book/show/25355111-it-s-in-his-touch",
+      "id": "45096859",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1434150356i/25355111.jpg",
+      "authors": [
+        "Shelly Alexander"
+      ],
+      "genres": [
+        "romance",
+        "contemporary",
+        "contemporary-romance",
+        "adult",
+        "fiction",
+        "family",
+        "audiobook"
+      ],
+      "rating": 4.25,
+      "ratings": 2495,
+      "reviews": 107
+    },
+    {
+      "title": "School. Hasn't This Gone on Long Enough?",
+      "url": "https://www.goodreads.com/book/show/11684505-school-hasn-t-this-gone-on-long-enough",
+      "id": "16630804",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1420688814i/11684505.jpg",
+      "authors": [
+        "Jim Benton"
+      ],
+      "genres": [
+        "middle-grade",
+        "childrens",
+        "humor",
+        "realistic-fiction",
+        "fiction",
+        "juvenile",
+        "diary"
+      ],
+      "rating": 4.22,
+      "ratings": 2495,
+      "reviews": 75
+    },
+    {
+      "title": "Heirs of the Blade",
+      "url": "https://www.goodreads.com/book/show/9923824-heirs-of-the-blade",
+      "id": "14816653",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1292451966i/9923824.jpg",
+      "authors": [
+        "Adrian Tchaikovsky"
+      ],
+      "genres": [
+        "fantasy",
+        "epic-fantasy",
+        "fiction",
+        "steampunk",
+        "epic",
+        "high-fantasy",
+        "adventure"
+      ],
+      "rating": 4.12,
       "ratings": 2494,
-      "reviews": 79
+      "reviews": 123
     }
   ]
 }

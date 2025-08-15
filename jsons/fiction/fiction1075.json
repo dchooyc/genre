@@ -1,6 +1,27 @@
 {
   "books": [
     {
+      "title": "The Key to Justice",
+      "url": "https://www.goodreads.com/book/show/25533748-the-key-to-justice",
+      "id": "24174208",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1440310601i/25533748.jpg",
+      "authors": [
+        "Dennis Carstens"
+      ],
+      "genres": [
+        "mystery",
+        "fiction",
+        "legal-thriller",
+        "suspense",
+        "thriller",
+        "mystery-thriller",
+        "amazon"
+      ],
+      "rating": 4.32,
+      "ratings": 2473,
+      "reviews": 212
+    },
+    {
       "title": "Mask of the Template",
       "url": "https://www.goodreads.com/book/show/50056549-mask-of-the-template",
       "id": "63062167",
@@ -41,69 +62,6 @@
       "rating": 4.01,
       "ratings": 2473,
       "reviews": 341
-    },
-    {
-      "title": "Injection, Vol. 2",
-      "url": "https://www.goodreads.com/book/show/29584610-injection-vol-2",
-      "id": "49911090",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1459029328i/29584610.jpg",
-      "authors": [
-        "Warren Ellis"
-      ],
-      "genres": [
-        "comics",
-        "graphic-novels",
-        "science-fiction",
-        "horror",
-        "fantasy",
-        "fiction",
-        "graphic-novels-comics"
-      ],
-      "rating": 4.07,
-      "ratings": 2473,
-      "reviews": 238
-    },
-    {
-      "title": "Daddy-Long-Legs / Dear Enemy",
-      "url": "https://www.goodreads.com/book/show/53236.Daddy_Long_Legs_Dear_Enemy",
-      "id": "88481489",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1611051890i/53236.jpg",
-      "authors": [
-        "Jean Webster"
-      ],
-      "genres": [
-        "classics",
-        "fiction",
-        "young-adult",
-        "romance",
-        "childrens",
-        "humor",
-        "historical-fiction"
-      ],
-      "rating": 4.03,
-      "ratings": 2472,
-      "reviews": 214
-    },
-    {
-      "title": "Het Helse Paradijs",
-      "url": "https://www.goodreads.com/book/show/3207566-het-helse-paradijs",
-      "id": "3241076",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1227272282i/3207566.jpg",
-      "authors": [
-        "Thea Beckman"
-      ],
-      "genres": [
-        "young-adult",
-        "fantasy",
-        "fiction",
-        "childrens",
-        "science-fiction",
-        "dystopia",
-        "historical-fiction"
-      ],
-      "rating": 4.22,
-      "ratings": 2472,
-      "reviews": 48
     },
     {
       "title": "Catching the Cowboy",
@@ -190,25 +148,46 @@
       "reviews": 82
     },
     {
-      "title": "Miss Devon's Choice",
-      "url": "https://www.goodreads.com/book/show/41431142-miss-devon-s-choice",
-      "id": "64654314",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1534926722i/41431142.jpg",
+      "title": "Daddy-Long-Legs / Dear Enemy",
+      "url": "https://www.goodreads.com/book/show/53236.Daddy_Long_Legs_Dear_Enemy",
+      "id": "88481489",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1611051890i/53236.jpg",
       "authors": [
-        "Sally Britton"
+        "Jean Webster"
       ],
       "genres": [
+        "classics",
+        "fiction",
+        "young-adult",
         "romance",
-        "historical-romance",
-        "regency",
-        "historical",
-        "historical-fiction",
-        "regency-romance",
-        "fiction"
+        "childrens",
+        "humor",
+        "historical-fiction"
       ],
-      "rating": 4.39,
-      "ratings": 2471,
-      "reviews": 286
+      "rating": 4.03,
+      "ratings": 2472,
+      "reviews": 214
+    },
+    {
+      "title": "Het Helse Paradijs",
+      "url": "https://www.goodreads.com/book/show/3207566-het-helse-paradijs",
+      "id": "3241076",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1227272282i/3207566.jpg",
+      "authors": [
+        "Thea Beckman"
+      ],
+      "genres": [
+        "young-adult",
+        "fantasy",
+        "fiction",
+        "childrens",
+        "science-fiction",
+        "dystopia",
+        "historical-fiction"
+      ],
+      "rating": 4.22,
+      "ratings": 2472,
+      "reviews": 48
     },
     {
       "title": "All That Really Matters",
@@ -274,6 +253,27 @@
       "reviews": 328
     },
     {
+      "title": "Miss Devon's Choice",
+      "url": "https://www.goodreads.com/book/show/41431142-miss-devon-s-choice",
+      "id": "64654314",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1534926722i/41431142.jpg",
+      "authors": [
+        "Sally Britton"
+      ],
+      "genres": [
+        "romance",
+        "historical-romance",
+        "regency",
+        "historical",
+        "historical-fiction",
+        "regency-romance",
+        "fiction"
+      ],
+      "rating": 4.39,
+      "ratings": 2471,
+      "reviews": 286
+    },
+    {
       "title": "Don't Scream",
       "url": "https://www.goodreads.com/book/show/889019.Don_t_Scream",
       "id": "26681499",
@@ -293,90 +293,6 @@
       "rating": 4.04,
       "ratings": 2471,
       "reviews": 170
-    },
-    {
-      "title": "The Race Across America",
-      "url": "https://www.goodreads.com/book/show/6036000-the-race-across-america",
-      "id": "6211516",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1428315649i/6036000.jpg",
-      "authors": [
-        "Geronimo Stilton"
-      ],
-      "genres": [
-        "childrens",
-        "fantasy",
-        "fiction",
-        "chapter-books",
-        "adventure",
-        "animals",
-        "middle-grade"
-      ],
-      "rating": 4.15,
-      "ratings": 2470,
-      "reviews": 83
-    },
-    {
-      "title": "Smoke and Mirrors",
-      "url": "https://www.goodreads.com/book/show/176408.Smoke_and_Mirrors",
-      "id": "1059374",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388183640i/176408.jpg",
-      "authors": [
-        "Tanya Huff"
-      ],
-      "genres": [
-        "urban-fantasy",
-        "fantasy",
-        "vampires",
-        "fiction",
-        "paranormal",
-        "horror",
-        "mystery"
-      ],
-      "rating": 4.06,
-      "ratings": 2470,
-      "reviews": 102
-    },
-    {
-      "title": "Christmas Wishes at the Chocolate Shop",
-      "url": "https://www.goodreads.com/book/show/58447111-christmas-wishes-at-the-chocolate-shop",
-      "id": "91734694",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1633188940i/58447111.jpg",
-      "authors": [
-        "Jessica Redland"
-      ],
-      "genres": [
-        "christmas",
-        "romance",
-        "fiction",
-        "contemporary",
-        "chick-lit",
-        "contemporary-romance",
-        "adult"
-      ],
-      "rating": 4.39,
-      "ratings": 2470,
-      "reviews": 242
-    },
-    {
-      "title": "Where Angels Fear",
-      "url": "https://www.goodreads.com/book/show/42948874-where-angels-fear",
-      "id": "66751265",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1543136765i/42948874.jpg",
-      "authors": [
-        "D.K. Hood"
-      ],
-      "genres": [
-        "mystery",
-        "crime",
-        "thriller",
-        "suspense",
-        "fiction",
-        "mystery-thriller",
-        "contemporary"
-      ],
-      "rating": 4.43,
-      "ratings": 2470,
-      "reviews": 140
     },
     {
       "title": "Paradyzja",
@@ -442,25 +358,88 @@
       "reviews": 210
     },
     {
-      "title": "Serafina's Promise",
-      "url": "https://www.goodreads.com/book/show/17270515-serafina-s-promise",
-      "id": "23882839",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1366277975i/17270515.jpg",
+      "title": "Where Angels Fear",
+      "url": "https://www.goodreads.com/book/show/42948874-where-angels-fear",
+      "id": "66751265",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1543136765i/42948874.jpg",
       "authors": [
-        "Ann E. Burg"
+        "D.K. Hood"
       ],
       "genres": [
-        "poetry",
-        "middle-grade",
-        "realistic-fiction",
-        "historical-fiction",
+        "mystery",
+        "crime",
+        "thriller",
+        "suspense",
         "fiction",
-        "cultural",
-        "childrens"
+        "mystery-thriller",
+        "contemporary"
       ],
-      "rating": 4.03,
-      "ratings": 2469,
-      "reviews": 343
+      "rating": 4.43,
+      "ratings": 2470,
+      "reviews": 140
+    },
+    {
+      "title": "Christmas Wishes at the Chocolate Shop",
+      "url": "https://www.goodreads.com/book/show/58447111-christmas-wishes-at-the-chocolate-shop",
+      "id": "91734694",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1633188940i/58447111.jpg",
+      "authors": [
+        "Jessica Redland"
+      ],
+      "genres": [
+        "christmas",
+        "romance",
+        "fiction",
+        "contemporary",
+        "chick-lit",
+        "contemporary-romance",
+        "adult"
+      ],
+      "rating": 4.39,
+      "ratings": 2470,
+      "reviews": 242
+    },
+    {
+      "title": "The Race Across America",
+      "url": "https://www.goodreads.com/book/show/6036000-the-race-across-america",
+      "id": "6211516",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1428315649i/6036000.jpg",
+      "authors": [
+        "Geronimo Stilton"
+      ],
+      "genres": [
+        "childrens",
+        "fantasy",
+        "fiction",
+        "chapter-books",
+        "adventure",
+        "animals",
+        "middle-grade"
+      ],
+      "rating": 4.15,
+      "ratings": 2470,
+      "reviews": 83
+    },
+    {
+      "title": "Smoke and Mirrors",
+      "url": "https://www.goodreads.com/book/show/176408.Smoke_and_Mirrors",
+      "id": "1059374",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388183640i/176408.jpg",
+      "authors": [
+        "Tanya Huff"
+      ],
+      "genres": [
+        "urban-fantasy",
+        "fantasy",
+        "vampires",
+        "fiction",
+        "paranormal",
+        "horror",
+        "mystery"
+      ],
+      "rating": 4.06,
+      "ratings": 2470,
+      "reviews": 102
     },
     {
       "title": "A Little Christmas Spirit",
@@ -484,25 +463,46 @@
       "reviews": 361
     },
     {
-      "title": "The Slow March of Light",
-      "url": "https://www.goodreads.com/book/show/57035653-the-slow-march-of-light",
-      "id": "89248588",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1621563493i/57035653.jpg",
+      "title": "Serafina's Promise",
+      "url": "https://www.goodreads.com/book/show/17270515-serafina-s-promise",
+      "id": "23882839",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1366277975i/17270515.jpg",
       "authors": [
-        "Heather B. Moore"
+        "Ann E. Burg"
       ],
       "genres": [
+        "poetry",
+        "middle-grade",
+        "realistic-fiction",
         "historical-fiction",
         "fiction",
-        "historical",
-        "christian",
-        "adult-fiction",
+        "cultural",
+        "childrens"
+      ],
+      "rating": 4.03,
+      "ratings": 2469,
+      "reviews": 343
+    },
+    {
+      "title": "Zur See",
+      "url": "https://www.goodreads.com/book/show/61073953-zur-see",
+      "id": "96257659",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1652273837i/61073953.jpg",
+      "authors": [
+        "Dörte Hansen"
+      ],
+      "genres": [
+        "german-literature",
+        "fiction",
+        "contemporary",
         "germany",
+        "novels",
+        "literary-fiction",
         "audiobook"
       ],
-      "rating": 4.28,
+      "rating": 4.19,
       "ratings": 2468,
-      "reviews": 613
+      "reviews": 237
     }
   ]
 }

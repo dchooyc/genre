@@ -1,6 +1,27 @@
 {
   "books": [
     {
+      "title": "Swan Lake",
+      "url": "https://www.goodreads.com/book/show/30487769-swan-lake",
+      "id": "50222723",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1465550128i/30487769.jpg",
+      "authors": [
+        "K.M. Shea"
+      ],
+      "genres": [
+        "fantasy",
+        "fairy-tales",
+        "romance",
+        "young-adult",
+        "fairy-tale-retellings",
+        "retellings",
+        "magic"
+      ],
+      "rating": 4.16,
+      "ratings": 2573,
+      "reviews": 139
+    },
+    {
       "title": "Cursed",
       "url": "https://www.goodreads.com/book/show/175961187-cursed",
       "id": "182767219",
@@ -22,88 +43,25 @@
       "reviews": 166
     },
     {
-      "title": "Medusa's Sisters",
-      "url": "https://www.goodreads.com/book/show/63273108-medusa-s-sisters",
-      "id": "93702344",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1668116440i/63273108.jpg",
+      "title": "Weapons Training",
+      "url": "https://www.goodreads.com/book/show/17369403-weapons-training",
+      "id": "24154189",
+      "cover_url": "https://dryofg8nmyqjw.cloudfront.net/images/no-cover.png",
       "authors": [
-        "Lauren J.A. Bear"
+        "Nalini Singh"
       ],
       "genres": [
-        "mythology",
-        "fantasy",
-        "greek-mythology",
-        "historical-fiction",
-        "fiction",
-        "retellings",
-        "adult"
-      ],
-      "rating": 4.21,
-      "ratings": 2573,
-      "reviews": 518
-    },
-    {
-      "title": "Fate of Devotion",
-      "url": "https://www.goodreads.com/book/show/32613693-fate-of-devotion",
-      "id": "53642725",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1484181167i/32613693.jpg",
-      "authors": [
-        "K.F. Breene"
-      ],
-      "genres": [
-        "science-fiction",
+        "paranormal",
+        "angels",
         "romance",
         "fantasy",
-        "fiction",
-        "dystopia",
-        "paranormal",
-        "futuristic"
+        "paranormal-romance",
+        "urban-fantasy",
+        "short-stories"
       ],
-      "rating": 4.25,
+      "rating": 4.08,
       "ratings": 2573,
-      "reviews": 151
-    },
-    {
-      "title": "Deadman Wonderland, Vol. 6",
-      "url": "https://www.goodreads.com/book/show/21412466-deadman-wonderland-vol-6",
-      "id": "15055983",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1407137984i/21412466.jpg",
-      "authors": [
-        "Jinsei Kataoka"
-      ],
-      "genres": [
-        "manga",
-        "horror",
-        "science-fiction",
-        "graphic-novels",
-        "comics",
-        "action",
-        "fantasy"
-      ],
-      "rating": 4.19,
-      "ratings": 2572,
-      "reviews": 114
-    },
-    {
-      "title": "Deliverer",
-      "url": "https://www.goodreads.com/book/show/57009.Deliverer",
-      "id": "55537",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1436535186i/57009.jpg",
-      "authors": [
-        "C.J. Cherryh"
-      ],
-      "genres": [
-        "science-fiction",
-        "fiction",
-        "space-opera",
-        "science-fiction-fantasy",
-        "aliens",
-        "fantasy",
-        "adventure"
-      ],
-      "rating": 4.27,
-      "ratings": 2572,
-      "reviews": 93
+      "reviews": 131
     },
     {
       "title": "The Savior's Book Café Story in Another World, Vol. 2",
@@ -148,6 +106,48 @@
       "reviews": 103
     },
     {
+      "title": "Deadman Wonderland, Vol. 6",
+      "url": "https://www.goodreads.com/book/show/21412466-deadman-wonderland-vol-6",
+      "id": "15055983",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1407137984i/21412466.jpg",
+      "authors": [
+        "Jinsei Kataoka"
+      ],
+      "genres": [
+        "manga",
+        "horror",
+        "science-fiction",
+        "graphic-novels",
+        "comics",
+        "action",
+        "fantasy"
+      ],
+      "rating": 4.19,
+      "ratings": 2572,
+      "reviews": 114
+    },
+    {
+      "title": "Deliverer",
+      "url": "https://www.goodreads.com/book/show/57009.Deliverer",
+      "id": "55537",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1436535186i/57009.jpg",
+      "authors": [
+        "C.J. Cherryh"
+      ],
+      "genres": [
+        "science-fiction",
+        "fiction",
+        "space-opera",
+        "science-fiction-fantasy",
+        "aliens",
+        "fantasy",
+        "adventure"
+      ],
+      "rating": 4.27,
+      "ratings": 2572,
+      "reviews": 93
+    },
+    {
       "title": "Fables: The Deluxe Edition, Book Four",
       "url": "https://www.goodreads.com/book/show/12172425-fables",
       "id": "17143888",
@@ -188,27 +188,6 @@
       "rating": 4.3,
       "ratings": 2571,
       "reviews": 120
-    },
-    {
-      "title": "Dodging Calamities",
-      "url": "https://www.goodreads.com/book/show/55791459-dodging-calamities",
-      "id": "87010779",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1603708030i/55791459.jpg",
-      "authors": [
-        "Erin R. Flynn"
-      ],
-      "genres": [
-        "reverse-harem",
-        "paranormal",
-        "fae",
-        "magic",
-        "fantasy",
-        "vampires",
-        "dragons"
-      ],
-      "rating": 4.52,
-      "ratings": 2571,
-      "reviews": 267
     },
     {
       "title": "Love Bites",
@@ -253,6 +232,27 @@
       "reviews": 199
     },
     {
+      "title": "Dodging Calamities",
+      "url": "https://www.goodreads.com/book/show/55791459-dodging-calamities",
+      "id": "87010779",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1603708030i/55791459.jpg",
+      "authors": [
+        "Erin R. Flynn"
+      ],
+      "genres": [
+        "reverse-harem",
+        "paranormal",
+        "fae",
+        "magic",
+        "fantasy",
+        "vampires",
+        "dragons"
+      ],
+      "rating": 4.52,
+      "ratings": 2571,
+      "reviews": 267
+    },
+    {
       "title": "Fate Hollow Academy: Term 4",
       "url": "https://www.goodreads.com/book/show/61442392-fate-hollow-academy",
       "id": "96980969",
@@ -272,27 +272,6 @@
       "rating": 4.25,
       "ratings": 2571,
       "reviews": 236
-    },
-    {
-      "title": "Mark of the Fool 4",
-      "url": "https://www.goodreads.com/book/show/125970443-mark-of-the-fool-4",
-      "id": "147420856",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1687072528i/125970443.jpg",
-      "authors": [
-        "J.M.     Clarke"
-      ],
-      "genres": [
-        "fantasy",
-        "magic",
-        "fiction",
-        "audiobook",
-        "adventure",
-        "mystery",
-        "young-adult"
-      ],
-      "rating": 4.57,
-      "ratings": 2570,
-      "reviews": 88
     },
     {
       "title": "The Ishbane Conspiracy",
@@ -316,25 +295,25 @@
       "reviews": 145
     },
     {
-      "title": "Dragonslayer",
-      "url": "https://www.goodreads.com/book/show/981869.Dragonslayer",
-      "id": "966758",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1179978731i/981869.jpg",
+      "title": "Mark of the Fool 4",
+      "url": "https://www.goodreads.com/book/show/125970443-mark-of-the-fool-4",
+      "id": "147420856",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1687072528i/125970443.jpg",
       "authors": [
-        "William King"
+        "J.M.     Clarke"
       ],
       "genres": [
         "fantasy",
+        "magic",
         "fiction",
         "audiobook",
-        "high-fantasy",
-        "science-fiction-fantasy",
-        "action",
-        "novels"
+        "adventure",
+        "mystery",
+        "young-adult"
       ],
-      "rating": 4.08,
-      "ratings": 2569,
-      "reviews": 83
+      "rating": 4.57,
+      "ratings": 2570,
+      "reviews": 88
     },
     {
       "title": "Dreaming the Bull",
@@ -356,6 +335,69 @@
       "rating": 4.28,
       "ratings": 2569,
       "reviews": 139
+    },
+    {
+      "title": "Dragonslayer",
+      "url": "https://www.goodreads.com/book/show/981869.Dragonslayer",
+      "id": "966758",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1179978731i/981869.jpg",
+      "authors": [
+        "William King"
+      ],
+      "genres": [
+        "fantasy",
+        "fiction",
+        "audiobook",
+        "high-fantasy",
+        "science-fiction-fantasy",
+        "action",
+        "novels"
+      ],
+      "rating": 4.08,
+      "ratings": 2569,
+      "reviews": 83
+    },
+    {
+      "title": "The Parasol Protectorate Boxed Set: Soulless, Changeless, Blameless, Heartless and Timeless",
+      "url": "https://www.goodreads.com/book/show/15381427-the-parasol-protectorate-boxed-set",
+      "id": "19082095",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1361045535i/15381427.jpg",
+      "authors": [
+        "Gail Carriger"
+      ],
+      "genres": [
+        "steampunk",
+        "fantasy",
+        "romance",
+        "paranormal",
+        "vampires",
+        "urban-fantasy",
+        "fiction"
+      ],
+      "rating": 4.45,
+      "ratings": 2568,
+      "reviews": 145
+    },
+    {
+      "title": "Miss Percy's Pocket Guide to the Care and Feeding of British Dragons",
+      "url": "https://www.goodreads.com/book/show/55040182-miss-percy-s-pocket-guide-to-the-care-and-feeding-of-british-dragons",
+      "id": "85829586",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1633368588i/55040182.jpg",
+      "authors": [
+        "Quenby Olson"
+      ],
+      "genres": [
+        "fantasy",
+        "dragons",
+        "cozy-mystery",
+        "historical-fiction",
+        "romance",
+        "fiction",
+        "historical"
+      ],
+      "rating": 4.13,
+      "ratings": 2568,
+      "reviews": 482
     },
     {
       "title": "Rechenka's Eggs",
@@ -400,67 +442,25 @@
       "reviews": 141
     },
     {
-      "title": "Miss Percy's Pocket Guide to the Care and Feeding of British Dragons",
-      "url": "https://www.goodreads.com/book/show/55040182-miss-percy-s-pocket-guide-to-the-care-and-feeding-of-british-dragons",
-      "id": "85829586",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1633368588i/55040182.jpg",
+      "title": "Hellblazer: Red Sepulchre",
+      "url": "https://www.goodreads.com/book/show/320815.Hellblazer",
+      "id": "311551",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348257950i/320815.jpg",
       "authors": [
-        "Quenby Olson"
+        "Mike Carey"
       ],
       "genres": [
-        "fantasy",
-        "dragons",
-        "cozy-mystery",
-        "historical-fiction",
-        "romance",
-        "fiction",
-        "historical"
-      ],
-      "rating": 4.13,
-      "ratings": 2568,
-      "reviews": 482
-    },
-    {
-      "title": "The Parasol Protectorate Boxed Set: Soulless, Changeless, Blameless, Heartless and Timeless",
-      "url": "https://www.goodreads.com/book/show/15381427-the-parasol-protectorate-boxed-set",
-      "id": "19082095",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1361045535i/15381427.jpg",
-      "authors": [
-        "Gail Carriger"
-      ],
-      "genres": [
-        "steampunk",
-        "fantasy",
-        "romance",
-        "paranormal",
-        "vampires",
-        "urban-fantasy",
-        "fiction"
-      ],
-      "rating": 4.45,
-      "ratings": 2568,
-      "reviews": 145
-    },
-    {
-      "title": "Dragon Ball Z, Vol. 4: Goku vs. Vegeta",
-      "url": "https://www.goodreads.com/book/show/1042629.Dragon_Ball_Z_Vol_4",
-      "id": "1029030",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442636127i/1042629.jpg",
-      "authors": [
-        "Akira Toriyama"
-      ],
-      "genres": [
-        "manga",
         "comics",
-        "fantasy",
         "graphic-novels",
+        "horror",
         "fiction",
-        "science-fiction",
-        "shonen"
+        "fantasy",
+        "comic-book",
+        "graphic-novels-comics"
       ],
-      "rating": 4.43,
+      "rating": 4.14,
       "ratings": 2567,
-      "reviews": 100
+      "reviews": 34
     },
     {
       "title": "Wolf Forsaken",
@@ -484,25 +484,25 @@
       "reviews": 163
     },
     {
-      "title": "Hellblazer: Red Sepulchre",
-      "url": "https://www.goodreads.com/book/show/320815.Hellblazer",
-      "id": "311551",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348257950i/320815.jpg",
+      "title": "Dragon Ball Z, Vol. 4: Goku vs. Vegeta",
+      "url": "https://www.goodreads.com/book/show/1042629.Dragon_Ball_Z_Vol_4",
+      "id": "1029030",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442636127i/1042629.jpg",
       "authors": [
-        "Mike Carey"
+        "Akira Toriyama"
       ],
       "genres": [
+        "manga",
         "comics",
-        "graphic-novels",
-        "horror",
-        "fiction",
         "fantasy",
-        "comic-book",
-        "graphic-novels-comics"
+        "graphic-novels",
+        "fiction",
+        "science-fiction",
+        "shonen"
       ],
-      "rating": 4.14,
+      "rating": 4.43,
       "ratings": 2567,
-      "reviews": 34
+      "reviews": 100
     }
   ]
 }

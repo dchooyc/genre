@@ -1,27 +1,6 @@
 {
   "books": [
     {
-      "title": "The Haunting of Highdown Hall",
-      "url": "https://www.goodreads.com/book/show/38313857-the-haunting-of-highdown-hall",
-      "id": "41161633",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1517419715i/38313857.jpg",
-      "authors": [
-        "Shani Struthers"
-      ],
-      "genres": [
-        "horror",
-        "paranormal",
-        "ghosts",
-        "mystery",
-        "fiction",
-        "fantasy",
-        "supernatural"
-      ],
-      "rating": 4.1,
-      "ratings": 2597,
-      "reviews": 282
-    },
-    {
       "title": "Bad Wolf",
       "url": "https://www.goodreads.com/book/show/25158775-bad-wolf",
       "id": "44862272",
@@ -43,25 +22,25 @@
       "reviews": 195
     },
     {
-      "title": "Ein Geheimnis liegt in der Luft",
-      "url": "https://www.goodreads.com/book/show/38102207-ein-geheimnis-liegt-in-der-luft",
-      "id": "59776539",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1516383280i/38102207.jpg",
+      "title": "Scared Witchless",
+      "url": "https://www.goodreads.com/book/show/30310071-scared-witchless",
+      "id": "50795632",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1464485119i/30310071.jpg",
       "authors": [
-        "Anna Ruhe"
+        "Amy Boyles"
       ],
       "genres": [
+        "cozy-mystery",
+        "paranormal",
+        "mystery",
         "fantasy",
-        "middle-grade",
-        "childrens",
-        "audiobook",
-        "young-adult",
-        "german-literature",
-        "fiction"
+        "witches",
+        "magic",
+        "romance"
       ],
-      "rating": 4.01,
+      "rating": 4,
       "ratings": 2597,
-      "reviews": 271
+      "reviews": 212
     },
     {
       "title": "Capture Death",
@@ -85,46 +64,25 @@
       "reviews": 100
     },
     {
-      "title": "Dust",
-      "url": "https://www.goodreads.com/book/show/50396193-dust",
-      "id": "73356309",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1585285570i/50396193.jpg",
+      "title": "Ein Geheimnis liegt in der Luft",
+      "url": "https://www.goodreads.com/book/show/38102207-ein-geheimnis-liegt-in-der-luft",
+      "id": "59776539",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1516383280i/38102207.jpg",
       "authors": [
-        "Kara Swanson"
+        "Anna Ruhe"
       ],
       "genres": [
         "fantasy",
-        "retellings",
+        "middle-grade",
+        "childrens",
+        "audiobook",
         "young-adult",
-        "romance",
-        "fiction",
-        "christian",
-        "christian-fiction"
+        "german-literature",
+        "fiction"
       ],
-      "rating": 4.05,
-      "ratings": 2596,
-      "reviews": 781
-    },
-    {
-      "title": "Odin's Wolves",
-      "url": "https://www.goodreads.com/book/show/13531842-odin-s-wolves",
-      "id": "14619615",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1344371525i/13531842.jpg",
-      "authors": [
-        "Giles Kristian"
-      ],
-      "genres": [
-        "historical-fiction",
-        "fiction",
-        "historical",
-        "fantasy",
-        "adventure",
-        "medieval",
-        "mythology"
-      ],
-      "rating": 4.31,
-      "ratings": 2596,
-      "reviews": 162
+      "rating": 4.01,
+      "ratings": 2597,
+      "reviews": 271
     },
     {
       "title": "Wolves",
@@ -169,6 +127,48 @@
       "reviews": 264
     },
     {
+      "title": "Dust",
+      "url": "https://www.goodreads.com/book/show/50396193-dust",
+      "id": "73356309",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1585285570i/50396193.jpg",
+      "authors": [
+        "Kara Swanson"
+      ],
+      "genres": [
+        "fantasy",
+        "retellings",
+        "young-adult",
+        "romance",
+        "fiction",
+        "christian",
+        "christian-fiction"
+      ],
+      "rating": 4.05,
+      "ratings": 2596,
+      "reviews": 781
+    },
+    {
+      "title": "Odin's Wolves",
+      "url": "https://www.goodreads.com/book/show/13531842-odin-s-wolves",
+      "id": "14619615",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1344371525i/13531842.jpg",
+      "authors": [
+        "Giles Kristian"
+      ],
+      "genres": [
+        "historical-fiction",
+        "fiction",
+        "historical",
+        "fantasy",
+        "adventure",
+        "medieval",
+        "mythology"
+      ],
+      "rating": 4.31,
+      "ratings": 2596,
+      "reviews": 162
+    },
+    {
       "title": "Alpha's Blood",
       "url": "https://www.goodreads.com/book/show/45133466-alpha-s-blood",
       "id": "67096482",
@@ -188,6 +188,27 @@
       "rating": 4.16,
       "ratings": 2595,
       "reviews": 359
+    },
+    {
+      "title": "Uhura's Song",
+      "url": "https://www.goodreads.com/book/show/216847.Uhura_s_Song",
+      "id": "209940",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388927642i/216847.jpg",
+      "authors": [
+        "Janet Kagan"
+      ],
+      "genres": [
+        "star-trek",
+        "science-fiction",
+        "fiction",
+        "science-fiction-fantasy",
+        "media-tie-in",
+        "fantasy",
+        "star-trek-original-series"
+      ],
+      "rating": 4.06,
+      "ratings": 2594,
+      "reviews": 221
     },
     {
       "title": "Why Is Nothing Ever Simple?",
@@ -232,27 +253,6 @@
       "reviews": 193
     },
     {
-      "title": "Uhura's Song",
-      "url": "https://www.goodreads.com/book/show/216847.Uhura_s_Song",
-      "id": "209940",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388927642i/216847.jpg",
-      "authors": [
-        "Janet Kagan"
-      ],
-      "genres": [
-        "star-trek",
-        "science-fiction",
-        "fiction",
-        "science-fiction-fantasy",
-        "media-tie-in",
-        "fantasy",
-        "star-trek-original-series"
-      ],
-      "rating": 4.06,
-      "ratings": 2594,
-      "reviews": 221
-    },
-    {
       "title": "Magic Wild",
       "url": "https://www.goodreads.com/book/show/34518381-magic-wild",
       "id": "55649827",
@@ -274,27 +274,6 @@
       "reviews": 104
     },
     {
-      "title": "Gone With the Witch",
-      "url": "https://www.goodreads.com/book/show/26068064-gone-with-the-witch",
-      "id": "46003793",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1445789490i/26068064.jpg",
-      "authors": [
-        "Heather Blake"
-      ],
-      "genres": [
-        "mystery",
-        "cozy-mystery",
-        "paranormal",
-        "witches",
-        "magic",
-        "fantasy",
-        "fiction"
-      ],
-      "rating": 4.22,
-      "ratings": 2593,
-      "reviews": 231
-    },
-    {
       "title": "Another Omnibus",
       "url": "https://www.goodreads.com/book/show/17333323-another-omnibus",
       "id": "24949429",
@@ -314,6 +293,27 @@
       "rating": 4.3,
       "ratings": 2593,
       "reviews": 205
+    },
+    {
+      "title": "Gone With the Witch",
+      "url": "https://www.goodreads.com/book/show/26068064-gone-with-the-witch",
+      "id": "46003793",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1445789490i/26068064.jpg",
+      "authors": [
+        "Heather Blake"
+      ],
+      "genres": [
+        "mystery",
+        "cozy-mystery",
+        "paranormal",
+        "witches",
+        "magic",
+        "fantasy",
+        "fiction"
+      ],
+      "rating": 4.22,
+      "ratings": 2593,
+      "reviews": 231
     },
     {
       "title": "Secrets of the Highlander",
@@ -419,25 +419,6 @@
       "reviews": 131
     },
     {
-      "title": "Uru's Third Temple",
-      "url": "https://www.goodreads.com/book/show/54647047-uru-s-third-temple",
-      "id": "85260869",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1595508253i/54647047.jpg",
-      "authors": [
-        "A.F. Kay"
-      ],
-      "genres": [
-        "fantasy",
-        "audiobook",
-        "fiction",
-        "martial-arts",
-        "magic"
-      ],
-      "rating": 4.48,
-      "ratings": 2590,
-      "reviews": 96
-    },
-    {
       "title": "Leopard's Rage",
       "url": "https://www.goodreads.com/book/show/51215570-leopard-s-rage",
       "id": "74313728",
@@ -457,6 +438,25 @@
       "rating": 4.09,
       "ratings": 2590,
       "reviews": 293
+    },
+    {
+      "title": "Uru's Third Temple",
+      "url": "https://www.goodreads.com/book/show/54647047-uru-s-third-temple",
+      "id": "85260869",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1595508253i/54647047.jpg",
+      "authors": [
+        "A.F. Kay"
+      ],
+      "genres": [
+        "fantasy",
+        "audiobook",
+        "fiction",
+        "martial-arts",
+        "magic"
+      ],
+      "rating": 4.48,
+      "ratings": 2590,
+      "reviews": 96
     },
     {
       "title": "Soulhome",
@@ -480,25 +480,25 @@
       "reviews": 174
     },
     {
-      "title": "Spelunking Through Hell",
-      "url": "https://www.goodreads.com/book/show/57187851-spelunking-through-hell",
-      "id": "89500727",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1622654234i/57187851.jpg",
+      "title": "The Fox's Curse",
+      "url": "https://www.goodreads.com/book/show/48564400-the-fox-s-curse",
+      "id": "73891690",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1571854277i/48564400.jpg",
       "authors": [
-        "Seanan McGuire"
+        "Sarah Painter"
       ],
       "genres": [
         "urban-fantasy",
         "fantasy",
+        "mystery",
         "fiction",
-        "paranormal",
         "magic",
-        "romance",
-        "mystery"
+        "paranormal",
+        "audiobook"
       ],
-      "rating": 4.28,
+      "rating": 4.09,
       "ratings": 2589,
-      "reviews": 304
+      "reviews": 143
     }
   ]
 }

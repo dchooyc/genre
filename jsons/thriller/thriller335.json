@@ -1,96 +1,24 @@
 {
   "books": [
     {
-      "title": "Death On The New Moon",
-      "url": "https://www.goodreads.com/book/show/63255262-death-on-the-new-moon",
-      "id": "70861988",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1667918685i/63255262.jpg",
+      "title": "Late Checkout",
+      "url": "https://www.goodreads.com/book/show/30089819-late-checkout",
+      "id": "50510428",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1462281816i/30089819.jpg",
       "authors": [
-        "Michael Lindley"
+        "Alex Walters"
       ],
       "genres": [
-        "suspense",
-        "romance",
-        "thriller"
-      ],
-      "rating": 4.48,
-      "ratings": 1056,
-      "reviews": 42
-    },
-    {
-      "title": "Collapse",
-      "url": "https://www.goodreads.com/book/show/48895047-collapse",
-      "id": "74287949",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1574194027i/48895047.jpg",
-      "authors": [
-        "Kurt Schlichter"
-      ],
-      "genres": [
-        "fiction",
-        "thriller",
-        "dystopia",
-        "politics"
-      ],
-      "rating": 4.61,
-      "ratings": 1055,
-      "reviews": 78
-    },
-    {
-      "title": "Tahoe Silence",
-      "url": "https://www.goodreads.com/book/show/10997536-tahoe-silence",
-      "id": "962387",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1394248403i/10997536.jpg",
-      "authors": [
-        "Todd Borg"
-      ],
-      "genres": [
-        "mystery",
-        "thriller"
-      ],
-      "rating": 4.31,
-      "ratings": 1055,
-      "reviews": 69
-    },
-    {
-      "title": "Can't Stop Me",
-      "url": "https://www.goodreads.com/book/show/171589826-can-t-stop-me",
-      "id": "852584",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1685689196i/171589826.jpg",
-      "authors": [
-        "James Scott Bell"
-      ],
-      "genres": [
-        "christian-fiction",
-        "mystery",
-        "fiction",
-        "thriller",
-        "legal-thriller",
-        "suspense"
-      ],
-      "rating": 4.17,
-      "ratings": 1055,
-      "reviews": 80
-    },
-    {
-      "title": "Sherlock Holmes: The Complete Collection",
-      "url": "https://www.goodreads.com/book/show/43784750-sherlock-holmes",
-      "id": "216203250",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1548796027i/43784750.jpg",
-      "authors": [
-        "Arthur Conan Doyle"
-      ],
-      "genres": [
-        "classics",
-        "mystery",
-        "fiction",
         "crime",
-        "detective",
         "thriller",
-        "historical-fiction"
+        "fiction",
+        "audiobook",
+        "mystery",
+        "detective"
       ],
-      "rating": 4.58,
-      "ratings": 1055,
-      "reviews": 25
+      "rating": 4.04,
+      "ratings": 1056,
+      "reviews": 54
     },
     {
       "title": "Tahoe Chase",
@@ -132,6 +60,81 @@
       "reviews": 49
     },
     {
+      "title": "Tahoe Silence",
+      "url": "https://www.goodreads.com/book/show/10997536-tahoe-silence",
+      "id": "962387",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1394248403i/10997536.jpg",
+      "authors": [
+        "Todd Borg"
+      ],
+      "genres": [
+        "mystery",
+        "thriller"
+      ],
+      "rating": 4.31,
+      "ratings": 1055,
+      "reviews": 69
+    },
+    {
+      "title": "Sherlock Holmes: The Complete Collection",
+      "url": "https://www.goodreads.com/book/show/43784750-sherlock-holmes",
+      "id": "216203250",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1548796027i/43784750.jpg",
+      "authors": [
+        "Arthur Conan Doyle"
+      ],
+      "genres": [
+        "classics",
+        "mystery",
+        "fiction",
+        "crime",
+        "detective",
+        "thriller",
+        "historical-fiction"
+      ],
+      "rating": 4.58,
+      "ratings": 1055,
+      "reviews": 25
+    },
+    {
+      "title": "Collapse",
+      "url": "https://www.goodreads.com/book/show/48895047-collapse",
+      "id": "74287949",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1574194027i/48895047.jpg",
+      "authors": [
+        "Kurt Schlichter"
+      ],
+      "genres": [
+        "fiction",
+        "thriller",
+        "dystopia",
+        "politics"
+      ],
+      "rating": 4.61,
+      "ratings": 1055,
+      "reviews": 78
+    },
+    {
+      "title": "Can't Stop Me",
+      "url": "https://www.goodreads.com/book/show/171589826-can-t-stop-me",
+      "id": "852584",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1685689196i/171589826.jpg",
+      "authors": [
+        "James Scott Bell"
+      ],
+      "genres": [
+        "christian-fiction",
+        "mystery",
+        "fiction",
+        "thriller",
+        "legal-thriller",
+        "suspense"
+      ],
+      "rating": 4.17,
+      "ratings": 1055,
+      "reviews": 80
+    },
+    {
       "title": "The Mara Dyer Trilogy",
       "url": "https://www.goodreads.com/book/show/24885599-the-mara-dyer-trilogy",
       "id": "44534208",
@@ -151,6 +154,23 @@
       "rating": 4.46,
       "ratings": 1053,
       "reviews": 75
+    },
+    {
+      "title": "The Lost Colony",
+      "url": "https://www.goodreads.com/book/show/63256895-the-lost-colony",
+      "id": "99158072",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1667934140i/63256895.jpg",
+      "authors": [
+        "Irina Shapiro"
+      ],
+      "genres": [
+        "mystery",
+        "thriller",
+        "fiction"
+      ],
+      "rating": 4.22,
+      "ratings": 1053,
+      "reviews": 73
     },
     {
       "title": "Remnants",
@@ -173,21 +193,22 @@
       "reviews": 124
     },
     {
-      "title": "The Lost Colony",
-      "url": "https://www.goodreads.com/book/show/63256895-the-lost-colony",
-      "id": "99158072",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1667934140i/63256895.jpg",
+      "title": "The Skin Hunters",
+      "url": "https://www.goodreads.com/book/show/56912262-the-skin-hunters",
+      "id": "89001322",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1612162374i/56912262.jpg",
       "authors": [
-        "Irina Shapiro"
+        "Dominika Best"
       ],
       "genres": [
-        "mystery",
         "thriller",
-        "fiction"
+        "mystery",
+        "fiction",
+        "mystery-thriller"
       ],
-      "rating": 4.22,
-      "ratings": 1053,
-      "reviews": 73
+      "rating": 4.48,
+      "ratings": 1052,
+      "reviews": 26
     },
     {
       "title": "Danganronpa: The Animation Volume 2",
@@ -211,24 +232,6 @@
       "reviews": 50
     },
     {
-      "title": "The Skin Hunters",
-      "url": "https://www.goodreads.com/book/show/56912262-the-skin-hunters",
-      "id": "89001322",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1612162374i/56912262.jpg",
-      "authors": [
-        "Dominika Best"
-      ],
-      "genres": [
-        "thriller",
-        "mystery",
-        "fiction",
-        "mystery-thriller"
-      ],
-      "rating": 4.48,
-      "ratings": 1052,
-      "reviews": 26
-    },
-    {
       "title": "Her Dying Kiss",
       "url": "https://www.goodreads.com/book/show/146518126-her-dying-kiss",
       "id": "161753922",
@@ -246,25 +249,6 @@
       "rating": 4.51,
       "ratings": 1051,
       "reviews": 82
-    },
-    {
-      "title": "The Salish Sea",
-      "url": "https://www.goodreads.com/book/show/56096137-the-salish-sea",
-      "id": "87373695",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1606712569i/56096137.jpg",
-      "authors": [
-        "Susan Lund"
-      ],
-      "genres": [
-        "mystery",
-        "fiction",
-        "thriller",
-        "mystery-thriller",
-        "amazon"
-      ],
-      "rating": 4.03,
-      "ratings": 1051,
-      "reviews": 55
     },
     {
       "title": "Raven's Hart",
@@ -288,23 +272,23 @@
       "reviews": 152
     },
     {
-      "title": "Last Seen Alive",
-      "url": "https://www.goodreads.com/book/show/61252335-last-seen-alive",
-      "id": "96573029",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1654721456i/61252335.jpg",
+      "title": "The Salish Sea",
+      "url": "https://www.goodreads.com/book/show/56096137-the-salish-sea",
+      "id": "87373695",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1606712569i/56096137.jpg",
       "authors": [
-        "Carolyn Arnold"
+        "Susan Lund"
       ],
       "genres": [
-        "thriller",
-        "suspense",
         "mystery",
+        "fiction",
+        "thriller",
         "mystery-thriller",
-        "fiction"
+        "amazon"
       ],
-      "rating": 4.56,
-      "ratings": 1050,
-      "reviews": 83
+      "rating": 4.03,
+      "ratings": 1051,
+      "reviews": 55
     },
     {
       "title": "Shattered Trident",
@@ -328,20 +312,23 @@
       "reviews": 74
     },
     {
-      "title": "Just a Breath Away",
-      "url": "https://www.goodreads.com/book/show/58662781-just-a-breath-away",
-      "id": "57292620",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1627662682i/58662781.jpg",
+      "title": "Last Seen Alive",
+      "url": "https://www.goodreads.com/book/show/61252335-last-seen-alive",
+      "id": "96573029",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1654721456i/61252335.jpg",
       "authors": [
-        "Carlene Thompson"
+        "Carolyn Arnold"
       ],
       "genres": [
+        "thriller",
+        "suspense",
         "mystery",
-        "thriller"
+        "mystery-thriller",
+        "fiction"
       ],
-      "rating": 4.09,
-      "ratings": 1049,
-      "reviews": 47
+      "rating": 4.56,
+      "ratings": 1050,
+      "reviews": 83
     },
     {
       "title": "Long Dark Night: A Michael Carter Cold Case Thriller",
@@ -359,6 +346,22 @@
       "rating": 4.39,
       "ratings": 1049,
       "reviews": 20
+    },
+    {
+      "title": "Just a Breath Away",
+      "url": "https://www.goodreads.com/book/show/58662781-just-a-breath-away",
+      "id": "57292620",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1627662682i/58662781.jpg",
+      "authors": [
+        "Carlene Thompson"
+      ],
+      "genres": [
+        "mystery",
+        "thriller"
+      ],
+      "rating": 4.09,
+      "ratings": 1049,
+      "reviews": 47
     },
     {
       "title": "For My Own Good",

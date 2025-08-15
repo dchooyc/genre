@@ -1,25 +1,25 @@
 {
   "books": [
     {
-      "title": "Scoundrel",
-      "url": "https://www.goodreads.com/book/show/436735.Scoundrel",
-      "id": "993903",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1356442753i/436735.jpg",
+      "title": "Slagside",
+      "url": "https://www.goodreads.com/book/show/54397136-slagside",
+      "id": "84885193",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1593944475i/54397136.jpg",
       "authors": [
-        "Bernard Cornwell"
+        "Jørn Lier Horst"
       ],
       "genres": [
-        "fiction",
-        "thriller",
-        "historical-fiction",
-        "adventure",
-        "mystery",
         "crime",
-        "mystery-thriller"
+        "nordic-noir",
+        "mystery",
+        "thriller",
+        "fiction",
+        "audiobook",
+        "suspense"
       ],
-      "rating": 4.01,
+      "rating": 4.1,
       "ratings": 2124,
-      "reviews": 76
+      "reviews": 165
     },
     {
       "title": "Break of Day",
@@ -41,6 +41,27 @@
       "rating": 4.34,
       "ratings": 2123,
       "reviews": 288
+    },
+    {
+      "title": "Chourmo",
+      "url": "https://www.goodreads.com/book/show/106808.Chourmo",
+      "id": "102947",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347685022i/106808.jpg",
+      "authors": [
+        "Jean-Claude Izzo"
+      ],
+      "genres": [
+        "noir",
+        "mystery",
+        "crime",
+        "fiction",
+        "france",
+        "thriller",
+        "novels"
+      ],
+      "rating": 4.11,
+      "ratings": 2121,
+      "reviews": 162
     },
     {
       "title": "Hold Back the Night",
@@ -83,27 +104,6 @@
       "rating": 4.42,
       "ratings": 2121,
       "reviews": 186
-    },
-    {
-      "title": "Chourmo",
-      "url": "https://www.goodreads.com/book/show/106808.Chourmo",
-      "id": "102947",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347685022i/106808.jpg",
-      "authors": [
-        "Jean-Claude Izzo"
-      ],
-      "genres": [
-        "noir",
-        "mystery",
-        "crime",
-        "fiction",
-        "france",
-        "thriller",
-        "novels"
-      ],
-      "rating": 4.11,
-      "ratings": 2121,
-      "reviews": 162
     },
     {
       "title": "The Flatmate",
@@ -187,45 +187,25 @@
       "reviews": 175
     },
     {
-      "title": "Una novela criminal",
-      "url": "https://www.goodreads.com/book/show/38326698-una-novela-criminal",
-      "id": "59982625",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1521136518i/38326698.jpg",
+      "title": "Pandemia",
+      "url": "https://www.goodreads.com/book/show/25278263-pandemia",
+      "id": "45004282",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1428077310i/25278263.jpg",
       "authors": [
-        "Jorge Volpi"
+        "Franck Thilliez"
       ],
       "genres": [
-        "non-fiction",
         "thriller",
-        "crime",
-        "spanish-literature",
-        "politics",
-        "history"
-      ],
-      "rating": 4.16,
-      "ratings": 2118,
-      "reviews": 341
-    },
-    {
-      "title": "The Strange Death of Fiona Griffiths",
-      "url": "https://www.goodreads.com/book/show/18804704-the-strange-death-of-fiona-griffiths",
-      "id": "26734272",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1384438685i/18804704.jpg",
-      "authors": [
-        "Harry Bingham"
-      ],
-      "genres": [
-        "mystery",
-        "crime",
+        "france",
         "fiction",
-        "thriller",
-        "british-literature",
+        "crime",
         "mystery-thriller",
-        "dark"
+        "mystery",
+        "detective"
       ],
-      "rating": 4.33,
+      "rating": 4.21,
       "ratings": 2118,
-      "reviews": 279
+      "reviews": 196
     },
     {
       "title": "Target Zero",
@@ -249,25 +229,45 @@
       "reviews": 97
     },
     {
-      "title": "Pandemia",
-      "url": "https://www.goodreads.com/book/show/25278263-pandemia",
-      "id": "45004282",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1428077310i/25278263.jpg",
+      "title": "The Strange Death of Fiona Griffiths",
+      "url": "https://www.goodreads.com/book/show/18804704-the-strange-death-of-fiona-griffiths",
+      "id": "26734272",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1384438685i/18804704.jpg",
       "authors": [
-        "Franck Thilliez"
+        "Harry Bingham"
       ],
       "genres": [
-        "thriller",
-        "france",
-        "fiction",
-        "crime",
-        "mystery-thriller",
         "mystery",
-        "detective"
+        "crime",
+        "fiction",
+        "thriller",
+        "british-literature",
+        "mystery-thriller",
+        "dark"
       ],
-      "rating": 4.21,
+      "rating": 4.33,
       "ratings": 2118,
-      "reviews": 196
+      "reviews": 279
+    },
+    {
+      "title": "Una novela criminal",
+      "url": "https://www.goodreads.com/book/show/38326698-una-novela-criminal",
+      "id": "59982625",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1521136518i/38326698.jpg",
+      "authors": [
+        "Jorge Volpi"
+      ],
+      "genres": [
+        "non-fiction",
+        "thriller",
+        "crime",
+        "spanish-literature",
+        "politics",
+        "history"
+      ],
+      "rating": 4.16,
+      "ratings": 2118,
+      "reviews": 341
     },
     {
       "title": "The Medusa Stone",
@@ -312,27 +312,6 @@
       "reviews": 107
     },
     {
-      "title": "The New Neighbour",
-      "url": "https://www.goodreads.com/book/show/59703678-the-new-neighbour",
-      "id": "94010734",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1637956586i/59703678.jpg",
-      "authors": [
-        "Miranda Rijks"
-      ],
-      "genres": [
-        "thriller",
-        "mystery",
-        "audiobook",
-        "fiction",
-        "mystery-thriller",
-        "contemporary",
-        "psychological-thriller"
-      ],
-      "rating": 4.02,
-      "ratings": 2116,
-      "reviews": 252
-    },
-    {
       "title": "Five Years After",
       "url": "https://www.goodreads.com/book/show/61884892-five-years-after",
       "id": "97563794",
@@ -373,6 +352,27 @@
       "rating": 4.04,
       "ratings": 2116,
       "reviews": 140
+    },
+    {
+      "title": "The New Neighbour",
+      "url": "https://www.goodreads.com/book/show/59703678-the-new-neighbour",
+      "id": "94010734",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1637956586i/59703678.jpg",
+      "authors": [
+        "Miranda Rijks"
+      ],
+      "genres": [
+        "thriller",
+        "mystery",
+        "audiobook",
+        "fiction",
+        "mystery-thriller",
+        "contemporary",
+        "psychological-thriller"
+      ],
+      "rating": 4.02,
+      "ratings": 2116,
+      "reviews": 252
     },
     {
       "title": "Dead at Daybreak",
@@ -417,43 +417,6 @@
       "reviews": 126
     },
     {
-      "title": "The Hidden Grave",
-      "url": "https://www.goodreads.com/book/show/50730686-the-hidden-grave",
-      "id": "75764900",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1580484459i/50730686.jpg",
-      "authors": [
-        "Dominika Best"
-      ],
-      "genres": [
-        "mystery",
-        "thriller",
-        "fiction",
-        "mystery-thriller",
-        "crime",
-        "detective"
-      ],
-      "rating": 4.42,
-      "ratings": 2114,
-      "reviews": 69
-    },
-    {
-      "title": "The Collection Girls",
-      "url": "https://www.goodreads.com/book/show/61414295-the-collection-girls",
-      "id": "96738928",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1657374285i/61414295.jpg",
-      "authors": [
-        "Alex Sigmore"
-      ],
-      "genres": [
-        "mystery",
-        "thriller",
-        "mystery-thriller"
-      ],
-      "rating": 4.54,
-      "ratings": 2114,
-      "reviews": 53
-    },
-    {
       "title": "The Heathens",
       "url": "https://www.goodreads.com/book/show/55936243-the-heathens",
       "id": "86910061",
@@ -475,25 +438,62 @@
       "reviews": 198
     },
     {
-      "title": "Stone Cold Heart",
-      "url": "https://www.goodreads.com/book/show/40538629-stone-cold-heart",
-      "id": "62941275",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1551618357i/40538629.jpg",
+      "title": "The Collection Girls",
+      "url": "https://www.goodreads.com/book/show/61414295-the-collection-girls",
+      "id": "96738928",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1657374285i/61414295.jpg",
       "authors": [
-        "Laura Griffin"
+        "Alex Sigmore"
       ],
       "genres": [
-        "romantic-suspense",
-        "romance",
+        "mystery",
+        "thriller",
+        "mystery-thriller"
+      ],
+      "rating": 4.54,
+      "ratings": 2114,
+      "reviews": 53
+    },
+    {
+      "title": "The Hidden Grave",
+      "url": "https://www.goodreads.com/book/show/50730686-the-hidden-grave",
+      "id": "75764900",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1580484459i/50730686.jpg",
+      "authors": [
+        "Dominika Best"
+      ],
+      "genres": [
+        "mystery",
+        "thriller",
+        "fiction",
+        "mystery-thriller",
+        "crime",
+        "detective"
+      ],
+      "rating": 4.42,
+      "ratings": 2114,
+      "reviews": 69
+    },
+    {
+      "title": "Too Far Gone",
+      "url": "https://www.goodreads.com/book/show/37638086-too-far-gone",
+      "id": "59225500",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1536539858i/37638086.jpg",
+      "authors": [
+        "Allison Brennan"
+      ],
+      "genres": [
         "mystery",
         "suspense",
-        "contemporary",
         "fiction",
-        "thriller"
+        "romantic-suspense",
+        "thriller",
+        "audiobook",
+        "mystery-thriller"
       ],
-      "rating": 4.23,
+      "rating": 4.27,
       "ratings": 2113,
-      "reviews": 250
+      "reviews": 143
     }
   ]
 }

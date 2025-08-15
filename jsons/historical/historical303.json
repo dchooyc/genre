@@ -1,6 +1,27 @@
 {
   "books": [
     {
+      "title": "The Excitements",
+      "url": "https://www.goodreads.com/book/show/145654359-the-excitements",
+      "id": "149724419",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1693405420i/145654359.jpg",
+      "authors": [
+        "C.J. Wray"
+      ],
+      "genres": [
+        "historical-fiction",
+        "mystery",
+        "fiction",
+        "mystery-thriller",
+        "historical",
+        "thriller",
+        "contemporary"
+      ],
+      "rating": 4.06,
+      "ratings": 1243,
+      "reviews": 273
+    },
+    {
       "title": "Allerdale",
       "url": "https://www.goodreads.com/book/show/56686599-allerdale",
       "id": "88610510",
@@ -41,25 +62,25 @@
       "reviews": 76
     },
     {
-      "title": "The Excitements",
-      "url": "https://www.goodreads.com/book/show/145654359-the-excitements",
-      "id": "149724419",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1693405420i/145654359.jpg",
+      "title": "Trudy",
+      "url": "https://www.goodreads.com/book/show/18109918-trudy",
+      "id": "25433628",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1408644001i/18109918.jpg",
       "authors": [
-        "C.J. Wray"
+        "Debra Holland"
       ],
       "genres": [
-        "historical-fiction",
-        "mystery",
-        "fiction",
-        "mystery-thriller",
+        "romance",
         "historical",
-        "thriller",
-        "contemporary"
+        "westerns",
+        "historical-romance",
+        "western-romance",
+        "western-historical-romance",
+        "historical-fiction"
       ],
-      "rating": 4.06,
+      "rating": 4.29,
       "ratings": 1243,
-      "reviews": 273
+      "reviews": 70
     },
     {
       "title": "Deception",
@@ -104,64 +125,6 @@
       "reviews": 61
     },
     {
-      "title": "Trudy",
-      "url": "https://www.goodreads.com/book/show/18109918-trudy",
-      "id": "25433628",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1408644001i/18109918.jpg",
-      "authors": [
-        "Debra Holland"
-      ],
-      "genres": [
-        "romance",
-        "historical",
-        "westerns",
-        "historical-romance",
-        "western-romance",
-        "western-historical-romance",
-        "historical-fiction"
-      ],
-      "rating": 4.29,
-      "ratings": 1243,
-      "reviews": 70
-    },
-    {
-      "title": "Charity",
-      "url": "https://www.goodreads.com/book/show/61501248-charity",
-      "id": "97080684",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1658125247i/61501248.jpg",
-      "authors": [
-        "Beverley Watts"
-      ],
-      "genres": [
-        "regency-romance",
-        "historical-romance",
-        "historical"
-      ],
-      "rating": 4.45,
-      "ratings": 1242,
-      "reviews": 16
-    },
-    {
-      "title": "O Quarto Arcano - O Anjo Negro",
-      "url": "https://www.goodreads.com/book/show/6476461-o-quarto-arcano---o-anjo-negro",
-      "id": "6652957",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1242591653i/6476461.jpg",
-      "authors": [
-        "Florencia Bonelli"
-      ],
-      "genres": [
-        "romance",
-        "historical-romance",
-        "historical-fiction",
-        "historical",
-        "fiction",
-        "spanish-literature"
-      ],
-      "rating": 4.12,
-      "ratings": 1242,
-      "reviews": 109
-    },
-    {
       "title": "Aunt Sookie & Me",
       "url": "https://www.goodreads.com/book/show/35612838-aunt-sookie-me",
       "id": "56944091",
@@ -204,22 +167,41 @@
       "reviews": 123
     },
     {
-      "title": "One Quiet Woman",
-      "url": "https://www.goodreads.com/book/show/32188181-one-quiet-woman",
-      "id": "52828096",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1503431054i/32188181.jpg",
+      "title": "O Quarto Arcano - O Anjo Negro",
+      "url": "https://www.goodreads.com/book/show/6476461-o-quarto-arcano---o-anjo-negro",
+      "id": "6652957",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1242591653i/6476461.jpg",
       "authors": [
-        "Anna Jacobs"
+        "Florencia Bonelli"
       ],
       "genres": [
         "romance",
-        "fiction",
+        "historical-romance",
         "historical-fiction",
+        "historical",
+        "fiction",
+        "spanish-literature"
+      ],
+      "rating": 4.12,
+      "ratings": 1242,
+      "reviews": 109
+    },
+    {
+      "title": "Charity",
+      "url": "https://www.goodreads.com/book/show/61501248-charity",
+      "id": "97080684",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1658125247i/61501248.jpg",
+      "authors": [
+        "Beverley Watts"
+      ],
+      "genres": [
+        "regency-romance",
+        "historical-romance",
         "historical"
       ],
-      "rating": 4.42,
-      "ratings": 1241,
-      "reviews": 62
+      "rating": 4.45,
+      "ratings": 1242,
+      "reviews": 16
     },
     {
       "title": "An Offer from the Marquess",
@@ -238,6 +220,24 @@
       "rating": 4.28,
       "ratings": 1241,
       "reviews": 58
+    },
+    {
+      "title": "One Quiet Woman",
+      "url": "https://www.goodreads.com/book/show/32188181-one-quiet-woman",
+      "id": "52828096",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1503431054i/32188181.jpg",
+      "authors": [
+        "Anna Jacobs"
+      ],
+      "genres": [
+        "romance",
+        "fiction",
+        "historical-fiction",
+        "historical"
+      ],
+      "rating": 4.42,
+      "ratings": 1241,
+      "reviews": 62
     },
     {
       "title": "Cocktails & Chloroform",
@@ -282,27 +282,6 @@
       "reviews": 75
     },
     {
-      "title": "The Crimes of Clearwell Castle",
-      "url": "https://www.goodreads.com/book/show/62685865-the-crimes-of-clearwell-castle",
-      "id": "98453929",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1663821490i/62685865.jpg",
-      "authors": [
-        "Benedict Brown"
-      ],
-      "genres": [
-        "mystery",
-        "historical-fiction",
-        "audiobook",
-        "historical",
-        "cozy-mystery",
-        "british-literature",
-        "mystery-thriller"
-      ],
-      "rating": 4.42,
-      "ratings": 1239,
-      "reviews": 68
-    },
-    {
       "title": "Only One Lie",
       "url": "https://www.goodreads.com/book/show/62013721-only-one-lie",
       "id": "97755703",
@@ -322,6 +301,48 @@
       "rating": 4.22,
       "ratings": 1239,
       "reviews": 159
+    },
+    {
+      "title": "The Leper's Bell",
+      "url": "https://www.goodreads.com/book/show/706477.The_Leper_s_Bell",
+      "id": "692757",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442580784i/706477.jpg",
+      "authors": [
+        "Peter Tremayne"
+      ],
+      "genres": [
+        "mystery",
+        "historical-fiction",
+        "historical-mystery",
+        "historical",
+        "fiction",
+        "ireland",
+        "crime"
+      ],
+      "rating": 4.18,
+      "ratings": 1239,
+      "reviews": 71
+    },
+    {
+      "title": "The Crimes of Clearwell Castle",
+      "url": "https://www.goodreads.com/book/show/62685865-the-crimes-of-clearwell-castle",
+      "id": "98453929",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1663821490i/62685865.jpg",
+      "authors": [
+        "Benedict Brown"
+      ],
+      "genres": [
+        "mystery",
+        "historical-fiction",
+        "audiobook",
+        "historical",
+        "cozy-mystery",
+        "british-literature",
+        "mystery-thriller"
+      ],
+      "rating": 4.42,
+      "ratings": 1239,
+      "reviews": 68
     },
     {
       "title": "To Disguise the Truth",
@@ -345,25 +366,65 @@
       "reviews": 273
     },
     {
-      "title": "The Leper's Bell",
-      "url": "https://www.goodreads.com/book/show/706477.The_Leper_s_Bell",
-      "id": "692757",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442580784i/706477.jpg",
+      "title": "Murder in the Air",
+      "url": "https://www.goodreads.com/book/show/58838233-murder-in-the-air",
+      "id": "92675816",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1629750382i/58838233.jpg",
       "authors": [
-        "Peter Tremayne"
+        "Emily Organ"
       ],
       "genres": [
         "mystery",
         "historical-fiction",
         "historical-mystery",
+        "cozy-mystery",
+        "historical",
+        "british-literature",
+        "fiction"
+      ],
+      "rating": 4.27,
+      "ratings": 1238,
+      "reviews": 62
+    },
+    {
+      "title": "Daughters of Paris",
+      "url": "https://www.goodreads.com/book/show/60839023-daughters-of-paris",
+      "id": "95943699",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1650312381i/60839023.jpg",
+      "authors": [
+        "Elisabeth Hobbes"
+      ],
+      "genres": [
+        "historical-fiction",
         "historical",
         "fiction",
-        "ireland",
-        "crime"
+        "world-war-ii",
+        "war"
       ],
-      "rating": 4.18,
-      "ratings": 1239,
-      "reviews": 71
+      "rating": 4.28,
+      "ratings": 1238,
+      "reviews": 107
+    },
+    {
+      "title": "Vinland Saga, Tome 5",
+      "url": "https://www.goodreads.com/book/show/7860818-vinland-saga-tome-5",
+      "id": "11009236",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1350337473i/7860818.jpg",
+      "authors": [
+        "Makoto Yukimura"
+      ],
+      "genres": [
+        "manga",
+        "historical-fiction",
+        "seinen",
+        "comics",
+        "historical",
+        "fiction",
+        "graphic-novels"
+      ],
+      "rating": 4.42,
+      "ratings": 1238,
+      "reviews": 34
     },
     {
       "title": "Anime baltiche",
@@ -408,86 +469,21 @@
       "reviews": 205
     },
     {
-      "title": "Daughters of Paris",
-      "url": "https://www.goodreads.com/book/show/60839023-daughters-of-paris",
-      "id": "95943699",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1650312381i/60839023.jpg",
+      "title": "The Workhouse Girl",
+      "url": "https://www.goodreads.com/book/show/19028496-the-workhouse-girl",
+      "id": "21973898",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1385668529i/19028496.jpg",
       "authors": [
-        "Elisabeth Hobbes"
+        "Dilly Court"
       ],
       "genres": [
         "historical-fiction",
-        "historical",
         "fiction",
-        "world-war-ii",
-        "war"
+        "historical"
       ],
-      "rating": 4.28,
-      "ratings": 1238,
-      "reviews": 107
-    },
-    {
-      "title": "Vinland Saga, Tome 5",
-      "url": "https://www.goodreads.com/book/show/7860818-vinland-saga-tome-5",
-      "id": "11009236",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1350337473i/7860818.jpg",
-      "authors": [
-        "Makoto Yukimura"
-      ],
-      "genres": [
-        "manga",
-        "historical-fiction",
-        "seinen",
-        "comics",
-        "historical",
-        "fiction",
-        "graphic-novels"
-      ],
-      "rating": 4.42,
-      "ratings": 1238,
-      "reviews": 34
-    },
-    {
-      "title": "Murder in the Air",
-      "url": "https://www.goodreads.com/book/show/58838233-murder-in-the-air",
-      "id": "92675816",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1629750382i/58838233.jpg",
-      "authors": [
-        "Emily Organ"
-      ],
-      "genres": [
-        "mystery",
-        "historical-fiction",
-        "historical-mystery",
-        "cozy-mystery",
-        "historical",
-        "british-literature",
-        "fiction"
-      ],
-      "rating": 4.27,
-      "ratings": 1238,
-      "reviews": 62
-    },
-    {
-      "title": "The Devereaux Affair",
-      "url": "https://www.goodreads.com/book/show/57434993-the-devereaux-affair",
-      "id": "89923736",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1625000927i/57434993.jpg",
-      "authors": [
-        "Adele Clee"
-      ],
-      "genres": [
-        "historical-romance",
-        "romance",
-        "historical",
-        "regency",
-        "historical-fiction",
-        "mystery",
-        "chick-lit"
-      ],
-      "rating": 4.31,
+      "rating": 4.38,
       "ratings": 1237,
-      "reviews": 81
+      "reviews": 56
     }
   ]
 }

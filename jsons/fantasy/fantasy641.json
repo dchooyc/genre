@@ -1,6 +1,27 @@
 {
   "books": [
     {
+      "title": "When We Were Dancing",
+      "url": "https://www.goodreads.com/book/show/41565651-when-we-were-dancing",
+      "id": "48956441",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1535582760i/41565651.jpg",
+      "authors": [
+        "Auryn Hadley"
+      ],
+      "genres": [
+        "fantasy",
+        "romance",
+        "fantasy-romance",
+        "historical",
+        "historical-romance",
+        "paranormal-romance",
+        "m-f-romance"
+      ],
+      "rating": 4.44,
+      "ratings": 1632,
+      "reviews": 129
+    },
+    {
       "title": "Conan: The Barbarian complete collection",
       "url": "https://www.goodreads.com/book/show/28149241-conan",
       "id": "52947061",
@@ -22,88 +43,25 @@
       "reviews": 86
     },
     {
-      "title": "A Promise Is a Promise",
-      "url": "https://www.goodreads.com/book/show/285744.A_Promise_Is_a_Promise",
-      "id": "2911618",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347240979i/285744.jpg",
+      "title": "Wolf's Calling",
+      "url": "https://www.goodreads.com/book/show/41131646-wolf-s-calling",
+      "id": "63337929",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1534125128i/41131646.jpg",
       "authors": [
-        "Robert Munsch"
+        "M.H. Soars"
       ],
       "genres": [
-        "picture-books",
-        "childrens",
-        "canada",
-        "fiction",
-        "mythology",
-        "fantasy",
-        "kids"
-      ],
-      "rating": 4,
-      "ratings": 1632,
-      "reviews": 86
-    },
-    {
-      "title": "Hearth, Home, and Havoc",
-      "url": "https://www.goodreads.com/book/show/37955330-hearth-home-and-havoc",
-      "id": "59261743",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1516084929i/37955330.jpg",
-      "authors": [
-        "R.J. Blain"
-      ],
-      "genres": [
-        "romance",
+        "reverse-harem",
         "paranormal",
-        "urban-fantasy",
-        "fantasy",
-        "paranormal-romance",
-        "magic",
-        "novella"
-      ],
-      "rating": 4.09,
-      "ratings": 1632,
-      "reviews": 100
-    },
-    {
-      "title": "El príncipe de los prodigios",
-      "url": "https://www.goodreads.com/book/show/35310254-el-pr-ncipe-de-los-prodigios",
-      "id": "56679632",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1532601621i/35310254.jpg",
-      "authors": [
-        "Victoria Álvarez"
-      ],
-      "genres": [
-        "historical-fiction",
         "romance",
-        "young-adult",
+        "paranormal-romance",
+        "shapeshifters",
         "fantasy",
-        "spanish-literature",
-        "thriller",
-        "mystery"
+        "magic"
       ],
-      "rating": 4.25,
-      "ratings": 1631,
-      "reviews": 345
-    },
-    {
-      "title": "Saga #56",
-      "url": "https://www.goodreads.com/book/show/60166392-saga-56",
-      "id": "94897727",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1645701776i/60166392.jpg",
-      "authors": [
-        "Brian K. Vaughan"
-      ],
-      "genres": [
-        "comics",
-        "graphic-novels",
-        "fantasy",
-        "science-fiction",
-        "graphic-novels-comics",
-        "fiction",
-        "adult"
-      ],
-      "rating": 4.32,
-      "ratings": 1631,
-      "reviews": 192
+      "rating": 4.01,
+      "ratings": 1632,
+      "reviews": 115
     },
     {
       "title": "The Rejection",
@@ -127,6 +85,48 @@
       "reviews": 113
     },
     {
+      "title": "Saga #56",
+      "url": "https://www.goodreads.com/book/show/60166392-saga-56",
+      "id": "94897727",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1645701776i/60166392.jpg",
+      "authors": [
+        "Brian K. Vaughan"
+      ],
+      "genres": [
+        "comics",
+        "graphic-novels",
+        "fantasy",
+        "science-fiction",
+        "graphic-novels-comics",
+        "fiction",
+        "adult"
+      ],
+      "rating": 4.32,
+      "ratings": 1631,
+      "reviews": 192
+    },
+    {
+      "title": "El príncipe de los prodigios",
+      "url": "https://www.goodreads.com/book/show/35310254-el-pr-ncipe-de-los-prodigios",
+      "id": "56679632",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1532601621i/35310254.jpg",
+      "authors": [
+        "Victoria Álvarez"
+      ],
+      "genres": [
+        "historical-fiction",
+        "romance",
+        "young-adult",
+        "fantasy",
+        "spanish-literature",
+        "thriller",
+        "mystery"
+      ],
+      "rating": 4.25,
+      "ratings": 1631,
+      "reviews": 345
+    },
+    {
       "title": "Wicked Long Nights",
       "url": "https://www.goodreads.com/book/show/40635593-wicked-long-nights",
       "id": "63139315",
@@ -148,25 +148,25 @@
       "reviews": 115
     },
     {
-      "title": "When Monsters Lie",
-      "url": "https://www.goodreads.com/book/show/59738828-when-monsters-lie",
-      "id": "87070206",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1638412804i/59738828.jpg",
+      "title": "L'amuleto d'ambra",
+      "url": "https://www.goodreads.com/book/show/8624421-l-amuleto-d-ambra",
+      "id": "57837334",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1279883096i/8624421.jpg",
       "authors": [
-        "Debbie  Cassidy"
+        "Diana Gabaldon"
       ],
       "genres": [
-        "reverse-harem",
-        "paranormal",
-        "monsters",
-        "dystopia",
         "fantasy",
-        "angels",
-        "romance"
+        "romance",
+        "historical-fiction",
+        "time-travel",
+        "historical-romance",
+        "historical",
+        "adult"
       ],
-      "rating": 4.25,
+      "rating": 4.05,
       "ratings": 1630,
-      "reviews": 202
+      "reviews": 135
     },
     {
       "title": "Love, Lies, and Hocus Pocus: Allies",
@@ -190,46 +190,25 @@
       "reviews": 141
     },
     {
-      "title": "Götterkrieg",
-      "url": "https://www.goodreads.com/book/show/57012653-g-tterkrieg",
-      "id": "89205584",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1612894588i/57012653.jpg",
+      "title": "Where Dragons Collide",
+      "url": "https://www.goodreads.com/book/show/58385089-where-dragons-collide",
+      "id": "91569024",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1624239675i/58385089.jpg",
       "authors": [
-        "Julia Dippel"
+        "T.A. White"
       ],
       "genres": [
         "fantasy",
-        "urban-fantasy",
+        "dragons",
         "romance",
-        "german-literature",
-        "young-adult",
-        "audiobook",
-        "paranormal"
+        "science-fiction",
+        "paranormal",
+        "shapeshifters",
+        "magic"
       ],
       "rating": 4.43,
       "ratings": 1630,
-      "reviews": 172
-    },
-    {
-      "title": "Black Magic",
-      "url": "https://www.goodreads.com/book/show/15758076-black-magic",
-      "id": "21456663",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1351234719i/15758076.jpg",
-      "authors": [
-        "Megan Derr"
-      ],
-      "genres": [
-        "fantasy",
-        "m-m-romance",
-        "magic",
-        "romance",
-        "paranormal",
-        "lgbt",
-        "demons"
-      ],
-      "rating": 4.1,
-      "ratings": 1630,
-      "reviews": 177
+      "reviews": 99
     },
     {
       "title": "Magic & Misfortune",
@@ -247,48 +226,6 @@
       "rating": 4.67,
       "ratings": 1630,
       "reviews": 57
-    },
-    {
-      "title": "Ace in the Hole",
-      "url": "https://www.goodreads.com/book/show/1281216.Ace_in_the_Hole",
-      "id": "1270234",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328368345i/1281216.jpg",
-      "authors": [
-        "George R.R. Martin"
-      ],
-      "genres": [
-        "science-fiction",
-        "fantasy",
-        "fiction",
-        "superheroes",
-        "anthologies",
-        "short-stories",
-        "alternate-history"
-      ],
-      "rating": 4.03,
-      "ratings": 1630,
-      "reviews": 71
-    },
-    {
-      "title": "L'amuleto d'ambra",
-      "url": "https://www.goodreads.com/book/show/8624421-l-amuleto-d-ambra",
-      "id": "57837334",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1279883096i/8624421.jpg",
-      "authors": [
-        "Diana Gabaldon"
-      ],
-      "genres": [
-        "fantasy",
-        "romance",
-        "historical-fiction",
-        "time-travel",
-        "historical-romance",
-        "historical",
-        "adult"
-      ],
-      "rating": 4.05,
-      "ratings": 1630,
-      "reviews": 135
     },
     {
       "title": "The First Fowler",
@@ -333,25 +270,109 @@
       "reviews": 81
     },
     {
-      "title": "Where Dragons Collide",
-      "url": "https://www.goodreads.com/book/show/58385089-where-dragons-collide",
-      "id": "91569024",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1624239675i/58385089.jpg",
+      "title": "Ace in the Hole",
+      "url": "https://www.goodreads.com/book/show/1281216.Ace_in_the_Hole",
+      "id": "1270234",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328368345i/1281216.jpg",
       "authors": [
-        "T.A. White"
+        "George R.R. Martin"
+      ],
+      "genres": [
+        "science-fiction",
+        "fantasy",
+        "fiction",
+        "superheroes",
+        "anthologies",
+        "short-stories",
+        "alternate-history"
+      ],
+      "rating": 4.03,
+      "ratings": 1630,
+      "reviews": 71
+    },
+    {
+      "title": "Spring's Rising",
+      "url": "https://www.goodreads.com/book/show/58710138-spring-s-rising",
+      "id": "68859812",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1628210236i/58710138.jpg",
+      "authors": [
+        "Robin D. Mahle"
       ],
       "genres": [
         "fantasy",
-        "dragons",
         "romance",
-        "science-fiction",
+        "fiction",
+        "young-adult",
+        "new-adult",
+        "audiobook",
+        "fantasy-romance"
+      ],
+      "rating": 4.1,
+      "ratings": 1630,
+      "reviews": 140
+    },
+    {
+      "title": "Black Magic",
+      "url": "https://www.goodreads.com/book/show/15758076-black-magic",
+      "id": "21456663",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1351234719i/15758076.jpg",
+      "authors": [
+        "Megan Derr"
+      ],
+      "genres": [
+        "fantasy",
+        "m-m-romance",
+        "magic",
+        "romance",
         "paranormal",
-        "shapeshifters",
-        "magic"
+        "lgbt",
+        "demons"
+      ],
+      "rating": 4.1,
+      "ratings": 1630,
+      "reviews": 177
+    },
+    {
+      "title": "When Monsters Lie",
+      "url": "https://www.goodreads.com/book/show/59738828-when-monsters-lie",
+      "id": "87070206",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1638412804i/59738828.jpg",
+      "authors": [
+        "Debbie  Cassidy"
+      ],
+      "genres": [
+        "reverse-harem",
+        "paranormal",
+        "monsters",
+        "dystopia",
+        "fantasy",
+        "angels",
+        "romance"
+      ],
+      "rating": 4.25,
+      "ratings": 1630,
+      "reviews": 202
+    },
+    {
+      "title": "Götterkrieg",
+      "url": "https://www.goodreads.com/book/show/57012653-g-tterkrieg",
+      "id": "89205584",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1612894588i/57012653.jpg",
+      "authors": [
+        "Julia Dippel"
+      ],
+      "genres": [
+        "fantasy",
+        "urban-fantasy",
+        "romance",
+        "german-literature",
+        "young-adult",
+        "audiobook",
+        "paranormal"
       ],
       "rating": 4.43,
       "ratings": 1630,
-      "reviews": 99
+      "reviews": 172
     },
     {
       "title": "Dragon Guard",
@@ -375,25 +396,25 @@
       "reviews": 102
     },
     {
-      "title": "Spring's Rising",
-      "url": "https://www.goodreads.com/book/show/58710138-spring-s-rising",
-      "id": "68859812",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1628210236i/58710138.jpg",
+      "title": "Herald of Shalia",
+      "url": "https://www.goodreads.com/book/show/50233141-herald-of-shalia",
+      "id": "72261816",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1563990076l/50233141.jpg",
       "authors": [
-        "Robin D. Mahle"
+        "Tamryn Tamer"
       ],
       "genres": [
         "fantasy",
+        "harem",
+        "erotica",
         "romance",
-        "fiction",
-        "young-adult",
-        "new-adult",
-        "audiobook",
-        "fantasy-romance"
+        "adult",
+        "magic",
+        "action"
       ],
-      "rating": 4.1,
-      "ratings": 1630,
-      "reviews": 140
+      "rating": 4.17,
+      "ratings": 1629,
+      "reviews": 102
     },
     {
       "title": "The High Council",
@@ -459,46 +480,25 @@
       "reviews": 157
     },
     {
-      "title": "Herald of Shalia",
-      "url": "https://www.goodreads.com/book/show/50233141-herald-of-shalia",
-      "id": "72261816",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1563990076l/50233141.jpg",
+      "title": "Hikaru no Go, Vol. 3: Preliminary Scrimmage",
+      "url": "https://www.goodreads.com/book/show/282392.Hikaru_no_Go_Vol_3",
+      "id": "273945",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348598690i/282392.jpg",
       "authors": [
-        "Tamryn Tamer"
+        "Yumi Hotta"
       ],
       "genres": [
-        "fantasy",
-        "harem",
-        "erotica",
-        "romance",
-        "adult",
-        "magic",
-        "action"
-      ],
-      "rating": 4.17,
-      "ratings": 1629,
-      "reviews": 102
-    },
-    {
-      "title": "The Ghost and the Bride",
-      "url": "https://www.goodreads.com/book/show/40613208-the-ghost-and-the-bride",
-      "id": "57018863",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1529700470i/40613208.jpg",
-      "authors": [
-        "Bobbi Holmes"
-      ],
-      "genres": [
-        "mystery",
-        "paranormal",
-        "ghosts",
-        "cozy-mystery",
+        "manga",
+        "comics",
+        "graphic-novels",
         "fiction",
-        "audiobook",
-        "fantasy"
+        "fantasy",
+        "shonen",
+        "go"
       ],
-      "rating": 4.31,
+      "rating": 4.19,
       "ratings": 1628,
-      "reviews": 82
+      "reviews": 49
     }
   ]
 }

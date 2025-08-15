@@ -1,6 +1,27 @@
 {
   "books": [
     {
+      "title": "A Matter of Happiness",
+      "url": "https://www.goodreads.com/book/show/61469404-a-matter-of-happiness",
+      "id": "95818738",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1657982871i/61469404.jpg",
+      "authors": [
+        "Tori Whitaker"
+      ],
+      "genres": [
+        "historical-fiction",
+        "fiction",
+        "historical",
+        "family",
+        "novels",
+        "book-club",
+        "contemporary"
+      ],
+      "rating": 4.17,
+      "ratings": 1000,
+      "reviews": 143
+    },
+    {
       "title": "Miss Determined",
       "url": "https://www.goodreads.com/book/show/122756004-miss-determined",
       "id": "144022217",
@@ -22,88 +43,24 @@
       "reviews": 38
     },
     {
-      "title": "In Due Time",
-      "url": "https://www.goodreads.com/book/show/62973610-in-due-time",
-      "id": "42793257",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1665550744i/62973610.jpg",
+      "title": "Discreet Destruction",
+      "url": "https://www.goodreads.com/book/show/60887723-discreet-destruction",
+      "id": "96031710",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1650991307i/60887723.jpg",
       "authors": [
-        "Bethany Claire"
+        "K.J. Jackson"
       ],
       "genres": [
-        "time-travel",
         "romance",
         "historical-romance",
-        "time-travel-romance",
         "historical",
-        "novella",
-        "fantasy"
-      ],
-      "rating": 4.2,
-      "ratings": 1000,
-      "reviews": 36
-    },
-    {
-      "title": "A Summer Game",
-      "url": "https://www.goodreads.com/book/show/62342375-a-summer-game",
-      "id": "98159985",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1662733461i/62342375.jpg",
-      "authors": [
-        "Mary Kingswood"
-      ],
-      "genres": [
-        "historical-romance",
-        "romance",
         "regency",
-        "m-f-romance",
-        "historical-fiction",
-        "fiction",
-        "historical"
+        "mystery",
+        "historical-fiction"
       ],
-      "rating": 4.43,
+      "rating": 4.28,
       "ratings": 999,
-      "reviews": 67
-    },
-    {
-      "title": "The Shiralee",
-      "url": "https://www.goodreads.com/book/show/625198.The_Shiralee",
-      "id": "611556",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1176425617i/625198.jpg",
-      "authors": [
-        "D'Arcy Niland"
-      ],
-      "genres": [
-        "australia",
-        "classics",
-        "fiction",
-        "historical-fiction",
-        "20th-century",
-        "historical",
-        "literary-fiction"
-      ],
-      "rating": 4.03,
-      "ratings": 999,
-      "reviews": 103
-    },
-    {
-      "title": "The Heiress",
-      "url": "https://www.goodreads.com/book/show/44449554-the-heiress",
-      "id": "69030741",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1552817303i/44449554.jpg",
-      "authors": [
-        "Laura Beers"
-      ],
-      "genres": [
-        "romance",
-        "regency",
-        "historical-fiction",
-        "historical-romance",
-        "historical",
-        "fiction",
-        "regency-romance"
-      ],
-      "rating": 4.19,
-      "ratings": 999,
-      "reviews": 78
+      "reviews": 58
     },
     {
       "title": "Honour this Day",
@@ -127,6 +84,69 @@
       "reviews": 21
     },
     {
+      "title": "The Heiress",
+      "url": "https://www.goodreads.com/book/show/44449554-the-heiress",
+      "id": "69030741",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1552817303i/44449554.jpg",
+      "authors": [
+        "Laura Beers"
+      ],
+      "genres": [
+        "romance",
+        "regency",
+        "historical-fiction",
+        "historical-romance",
+        "historical",
+        "fiction",
+        "regency-romance"
+      ],
+      "rating": 4.19,
+      "ratings": 999,
+      "reviews": 78
+    },
+    {
+      "title": "The Shiralee",
+      "url": "https://www.goodreads.com/book/show/625198.The_Shiralee",
+      "id": "611556",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1176425617i/625198.jpg",
+      "authors": [
+        "D'Arcy Niland"
+      ],
+      "genres": [
+        "australia",
+        "classics",
+        "fiction",
+        "historical-fiction",
+        "20th-century",
+        "historical",
+        "literary-fiction"
+      ],
+      "rating": 4.03,
+      "ratings": 999,
+      "reviews": 103
+    },
+    {
+      "title": "A Summer Game",
+      "url": "https://www.goodreads.com/book/show/62342375-a-summer-game",
+      "id": "98159985",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1662733461i/62342375.jpg",
+      "authors": [
+        "Mary Kingswood"
+      ],
+      "genres": [
+        "historical-romance",
+        "romance",
+        "regency",
+        "m-f-romance",
+        "historical-fiction",
+        "fiction",
+        "historical"
+      ],
+      "rating": 4.43,
+      "ratings": 999,
+      "reviews": 67
+    },
+    {
       "title": "City of Nets: A Portrait of Hollywood in the 1940s",
       "url": "https://www.goodreads.com/book/show/484077.City_of_Nets",
       "id": "1855674",
@@ -146,47 +166,6 @@
       "rating": 4.12,
       "ratings": 999,
       "reviews": 125
-    },
-    {
-      "title": "Discreet Destruction",
-      "url": "https://www.goodreads.com/book/show/60887723-discreet-destruction",
-      "id": "96031710",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1650991307i/60887723.jpg",
-      "authors": [
-        "K.J. Jackson"
-      ],
-      "genres": [
-        "romance",
-        "historical-romance",
-        "historical",
-        "regency",
-        "mystery",
-        "historical-fiction"
-      ],
-      "rating": 4.28,
-      "ratings": 999,
-      "reviews": 58
-    },
-    {
-      "title": "Bridget",
-      "url": "https://www.goodreads.com/book/show/525680.Bridget",
-      "id": "1552309",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1175540205i/525680.jpg",
-      "authors": [
-        "Linda Lael Miller"
-      ],
-      "genres": [
-        "romance",
-        "historical-romance",
-        "historical",
-        "historical-fiction",
-        "fiction",
-        "westerns",
-        "family"
-      ],
-      "rating": 4.04,
-      "ratings": 998,
-      "reviews": 30
     },
     {
       "title": "Roses Have Thorns: A Novel of Elizabeth I",
@@ -210,6 +189,27 @@
       "reviews": 171
     },
     {
+      "title": "Bridget",
+      "url": "https://www.goodreads.com/book/show/525680.Bridget",
+      "id": "1552309",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1175540205i/525680.jpg",
+      "authors": [
+        "Linda Lael Miller"
+      ],
+      "genres": [
+        "romance",
+        "historical-romance",
+        "historical",
+        "historical-fiction",
+        "fiction",
+        "westerns",
+        "family"
+      ],
+      "rating": 4.04,
+      "ratings": 998,
+      "reviews": 30
+    },
+    {
       "title": "Melting the Ice",
       "url": "https://www.goodreads.com/book/show/30687746-melting-the-ice",
       "id": "51231209",
@@ -231,25 +231,23 @@
       "reviews": 46
     },
     {
-      "title": "The Boy Who Drew Auschwitz: A Powerful True Story of Hope and Survival",
-      "url": "https://www.goodreads.com/book/show/56554640-the-boy-who-drew-auschwitz",
-      "id": "86555094",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1626717498i/56554640.jpg",
+      "title": "Isabelle's Choice",
+      "url": "https://www.goodreads.com/book/show/35562629-isabelle-s-choice",
+      "id": "18531974",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1498913714i/35562629.jpg",
       "authors": [
-        "Thomas Geve"
+        "AnneMarie Brear"
       ],
       "genres": [
-        "history",
-        "non-fiction",
-        "holocaust",
-        "world-war-ii",
-        "war",
+        "romance",
         "historical",
-        "memoir"
+        "historical-fiction",
+        "fiction",
+        "historical-romance"
       ],
-      "rating": 4.41,
+      "rating": 4.43,
       "ratings": 997,
-      "reviews": 115
+      "reviews": 27
     },
     {
       "title": "Bewitched by the Bluestocking",
@@ -273,67 +271,6 @@
       "reviews": 107
     },
     {
-      "title": "Penelope and the Wicked Duke",
-      "url": "https://www.goodreads.com/book/show/58509165-penelope-and-the-wicked-duke",
-      "id": "91896874",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1634442019i/58509165.jpg",
-      "authors": [
-        "Sofi Laporte"
-      ],
-      "genres": [
-        "historical",
-        "historical-romance",
-        "fiction",
-        "regency",
-        "romance",
-        "clean-romance",
-        "regency-romance"
-      ],
-      "rating": 4.36,
-      "ratings": 997,
-      "reviews": 65
-    },
-    {
-      "title": "Isabelle's Choice",
-      "url": "https://www.goodreads.com/book/show/35562629-isabelle-s-choice",
-      "id": "18531974",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1498913714i/35562629.jpg",
-      "authors": [
-        "AnneMarie Brear"
-      ],
-      "genres": [
-        "romance",
-        "historical",
-        "historical-fiction",
-        "fiction",
-        "historical-romance"
-      ],
-      "rating": 4.43,
-      "ratings": 997,
-      "reviews": 27
-    },
-    {
-      "title": "The Boy's Tale",
-      "url": "https://www.goodreads.com/book/show/185628.The_Boy_s_Tale",
-      "id": "179426",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1360177666i/185628.jpg",
-      "authors": [
-        "Margaret Frazer"
-      ],
-      "genres": [
-        "mystery",
-        "historical-fiction",
-        "historical",
-        "historical-mystery",
-        "medieval",
-        "fiction",
-        "british-literature"
-      ],
-      "rating": 4.11,
-      "ratings": 997,
-      "reviews": 43
-    },
-    {
       "title": "The Player",
       "url": "https://www.goodreads.com/book/show/57647295-the-player",
       "id": "43939070",
@@ -353,27 +290,6 @@
       "rating": 4.26,
       "ratings": 997,
       "reviews": 160
-    },
-    {
-      "title": "The Best Man",
-      "url": "https://www.goodreads.com/book/show/574136.The_Best_Man",
-      "id": "561135",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1379040898i/574136.jpg",
-      "authors": [
-        "Grace Livingston Hill"
-      ],
-      "genres": [
-        "romance",
-        "fiction",
-        "christian-fiction",
-        "christian",
-        "historical-fiction",
-        "christian-romance",
-        "historical"
-      ],
-      "rating": 4.08,
-      "ratings": 997,
-      "reviews": 90
     },
     {
       "title": "Never Forget",
@@ -397,63 +313,88 @@
       "reviews": 165
     },
     {
-      "title": "The Master of Medicine",
-      "url": "https://www.goodreads.com/book/show/32621288-the-master-of-medicine",
-      "id": "53317001",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1485305341i/32621288.jpg",
+      "title": "The Boy's Tale",
+      "url": "https://www.goodreads.com/book/show/185628.The_Boy_s_Tale",
+      "id": "179426",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1360177666i/185628.jpg",
       "authors": [
-        "Ellin Carsta"
+        "Margaret Frazer"
       ],
       "genres": [
+        "mystery",
         "historical-fiction",
         "historical",
-        "fiction"
+        "historical-mystery",
+        "medieval",
+        "fiction",
+        "british-literature"
+      ],
+      "rating": 4.11,
+      "ratings": 997,
+      "reviews": 43
+    },
+    {
+      "title": "Penelope and the Wicked Duke",
+      "url": "https://www.goodreads.com/book/show/58509165-penelope-and-the-wicked-duke",
+      "id": "91896874",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1634442019i/58509165.jpg",
+      "authors": [
+        "Sofi Laporte"
+      ],
+      "genres": [
+        "historical",
+        "historical-romance",
+        "fiction",
+        "regency",
+        "romance",
+        "clean-romance",
+        "regency-romance"
+      ],
+      "rating": 4.36,
+      "ratings": 997,
+      "reviews": 65
+    },
+    {
+      "title": "The Boy Who Drew Auschwitz: A Powerful True Story of Hope and Survival",
+      "url": "https://www.goodreads.com/book/show/56554640-the-boy-who-drew-auschwitz",
+      "id": "86555094",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1626717498i/56554640.jpg",
+      "authors": [
+        "Thomas Geve"
+      ],
+      "genres": [
+        "history",
+        "non-fiction",
+        "holocaust",
+        "world-war-ii",
+        "war",
+        "historical",
+        "memoir"
+      ],
+      "rating": 4.41,
+      "ratings": 997,
+      "reviews": 115
+    },
+    {
+      "title": "The Best Man",
+      "url": "https://www.goodreads.com/book/show/574136.The_Best_Man",
+      "id": "561135",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1379040898i/574136.jpg",
+      "authors": [
+        "Grace Livingston Hill"
+      ],
+      "genres": [
+        "romance",
+        "fiction",
+        "christian-fiction",
+        "christian",
+        "historical-fiction",
+        "christian-romance",
+        "historical"
       ],
       "rating": 4.08,
-      "ratings": 996,
-      "reviews": 51
-    },
-    {
-      "title": "Yellowstone Redemption",
-      "url": "https://www.goodreads.com/book/show/13453244-yellowstone-redemption",
-      "id": "18979705",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328421982i/13453244.jpg",
-      "authors": [
-        "Peggy L. Henderson"
-      ],
-      "genres": [
-        "time-travel",
-        "romance",
-        "historical-romance",
-        "historical",
-        "time-travel-romance",
-        "fantasy",
-        "historical-fiction"
-      ],
-      "rating": 4.19,
-      "ratings": 996,
-      "reviews": 89
-    },
-    {
-      "title": "A Distant Hope",
-      "url": "https://www.goodreads.com/book/show/44565074-a-distant-hope",
-      "id": "60032221",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1553205800i/44565074.jpg",
-      "authors": [
-        "Ellin Carsta"
-      ],
-      "genres": [
-        "historical-fiction",
-        "fiction",
-        "family",
-        "german-literature",
-        "historical",
-        "roman",
-        "adult"
-      ],
-      "rating": 4.18,
-      "ratings": 996,
-      "reviews": 78
+      "ratings": 997,
+      "reviews": 90
     },
     {
       "title": "Lespada",
@@ -477,25 +418,84 @@
       "reviews": 72
     },
     {
-      "title": "Love Finds You in Last Chance, California",
-      "url": "https://www.goodreads.com/book/show/6142601-love-finds-you-in-last-chance-california",
-      "id": "6321476",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347334085i/6142601.jpg",
+      "title": "A Distant Hope",
+      "url": "https://www.goodreads.com/book/show/44565074-a-distant-hope",
+      "id": "60032221",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1553205800i/44565074.jpg",
       "authors": [
-        "Miralee Ferrell"
+        "Ellin Carsta"
       ],
       "genres": [
-        "christian-fiction",
-        "christian",
+        "historical-fiction",
+        "fiction",
+        "family",
+        "german-literature",
+        "historical",
+        "roman",
+        "adult"
+      ],
+      "rating": 4.18,
+      "ratings": 996,
+      "reviews": 78
+    },
+    {
+      "title": "Yellowstone Redemption",
+      "url": "https://www.goodreads.com/book/show/13453244-yellowstone-redemption",
+      "id": "18979705",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328421982i/13453244.jpg",
+      "authors": [
+        "Peggy L. Henderson"
+      ],
+      "genres": [
+        "time-travel",
+        "romance",
+        "historical-romance",
+        "historical",
+        "time-travel-romance",
+        "fantasy",
+        "historical-fiction"
+      ],
+      "rating": 4.19,
+      "ratings": 996,
+      "reviews": 89
+    },
+    {
+      "title": "The Master of Medicine",
+      "url": "https://www.goodreads.com/book/show/32621288-the-master-of-medicine",
+      "id": "53317001",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1485305341i/32621288.jpg",
+      "authors": [
+        "Ellin Carsta"
+      ],
+      "genres": [
+        "historical-fiction",
+        "historical",
+        "fiction"
+      ],
+      "rating": 4.08,
+      "ratings": 996,
+      "reviews": 51
+    },
+    {
+      "title": "A Dinner of Herbs",
+      "url": "https://www.goodreads.com/book/show/670367.A_Dinner_of_Herbs",
+      "id": "2815011",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1176971083i/670367.jpg",
+      "authors": [
+        "Catherine Cookson"
+      ],
+      "genres": [
         "historical-fiction",
         "romance",
+        "fiction",
         "historical",
-        "westerns",
-        "historical-romance"
+        "novels",
+        "19th-century",
+        "drama"
       ],
-      "rating": 4.15,
+      "rating": 4.18,
       "ratings": 995,
-      "reviews": 138
+      "reviews": 38
     }
   ]
 }

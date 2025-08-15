@@ -1,25 +1,46 @@
 {
   "books": [
     {
-      "title": "The Invincible Summer of Juniper Jones",
-      "url": "https://www.goodreads.com/book/show/53805921-the-invincible-summer-of-juniper-jones",
-      "id": "73282233",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1591212434i/53805921.jpg",
+      "title": "House of Omega",
+      "url": "https://www.goodreads.com/book/show/203763969-house-of-omega",
+      "id": "209606104",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1702519037i/203763969.jpg",
       "authors": [
-        "Daven McQueen"
+        "Roxy Collins"
       ],
       "genres": [
-        "historical-fiction",
-        "young-adult",
-        "fiction",
-        "historical",
-        "coming-of-age",
+        "omegaverse",
+        "reverse-harem",
+        "romance",
         "contemporary",
-        "middle-grade"
+        "m-m-romance",
+        "fantasy",
+        "adult"
       ],
-      "rating": 4.46,
+      "rating": 4.13,
       "ratings": 3074,
-      "reviews": 864
+      "reviews": 311
+    },
+    {
+      "title": "Tilly in Technicolor",
+      "url": "https://www.goodreads.com/book/show/61884907-tilly-in-technicolor",
+      "id": "91421834",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1663627387i/61884907.jpg",
+      "authors": [
+        "Mazey Eddings"
+      ],
+      "genres": [
+        "romance",
+        "young-adult",
+        "contemporary",
+        "mental-health",
+        "fiction",
+        "autistic-spectrum-disorder",
+        "young-adult-romance"
+      ],
+      "rating": 4.11,
+      "ratings": 3074,
+      "reviews": 1208
     },
     {
       "title": "Saturdays at Noon",
@@ -43,27 +64,6 @@
       "reviews": 308
     },
     {
-      "title": "Thirst",
-      "url": "https://www.goodreads.com/book/show/55586848-thirst",
-      "id": "86686783",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1639326018i/55586848.jpg",
-      "authors": [
-        "Varsha Bajaj"
-      ],
-      "genres": [
-        "middle-grade",
-        "realistic-fiction",
-        "fiction",
-        "india",
-        "contemporary",
-        "family",
-        "audiobook"
-      ],
-      "rating": 4.15,
-      "ratings": 3074,
-      "reviews": 455
-    },
-    {
       "title": "The Cardinal Bird",
       "url": "https://www.goodreads.com/book/show/50194147-the-cardinal-bird",
       "id": "72616790",
@@ -83,48 +83,6 @@
       "rating": 4.21,
       "ratings": 3073,
       "reviews": 233
-    },
-    {
-      "title": "Rule",
-      "url": "https://www.goodreads.com/book/show/36641106-rule",
-      "id": "26158561",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1511352174i/36641106.jpg",
-      "authors": [
-        "C.D. Reiss"
-      ],
-      "genres": [
-        "romance",
-        "contemporary-romance",
-        "erotica",
-        "dark",
-        "bdsm",
-        "contemporary",
-        "romantic-suspense"
-      ],
-      "rating": 4.28,
-      "ratings": 3072,
-      "reviews": 365
-    },
-    {
-      "title": "Alpha",
-      "url": "https://www.goodreads.com/book/show/56429078-alpha",
-      "id": "87641588",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1620594853i/56429078.jpg",
-      "authors": [
-        "Sybil Bartel"
-      ],
-      "genres": [
-        "military-fiction",
-        "romance",
-        "romantic-suspense",
-        "military-romance",
-        "contemporary-romance",
-        "contemporary",
-        "suspense"
-      ],
-      "rating": 4.31,
-      "ratings": 3072,
-      "reviews": 239
     },
     {
       "title": "The Path To You",
@@ -148,25 +106,46 @@
       "reviews": 182
     },
     {
-      "title": "Fighting For a Second Chance",
-      "url": "https://www.goodreads.com/book/show/57959503-fighting-for-a-second-chance",
-      "id": "53185420",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1620270329i/57959503.jpg",
+      "title": "Alpha",
+      "url": "https://www.goodreads.com/book/show/56429078-alpha",
+      "id": "87641588",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1620594853i/56429078.jpg",
       "authors": [
-        "Nikki Ash"
+        "Sybil Bartel"
+      ],
+      "genres": [
+        "military-fiction",
+        "romance",
+        "romantic-suspense",
+        "military-romance",
+        "contemporary-romance",
+        "contemporary",
+        "suspense"
+      ],
+      "rating": 4.31,
+      "ratings": 3072,
+      "reviews": 239
+    },
+    {
+      "title": "Rule",
+      "url": "https://www.goodreads.com/book/show/36641106-rule",
+      "id": "26158561",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1511352174i/36641106.jpg",
+      "authors": [
+        "C.D. Reiss"
       ],
       "genres": [
         "romance",
-        "sports",
-        "sports-romance",
-        "contemporary",
         "contemporary-romance",
-        "fighters",
-        "mixed-martial-arts"
+        "erotica",
+        "dark",
+        "bdsm",
+        "contemporary",
+        "romantic-suspense"
       ],
-      "rating": 4.05,
-      "ratings": 3071,
-      "reviews": 371
+      "rating": 4.28,
+      "ratings": 3072,
+      "reviews": 365
     },
     {
       "title": "Wicked Dark Heathens",
@@ -188,6 +167,27 @@
       "rating": 4.38,
       "ratings": 3071,
       "reviews": 280
+    },
+    {
+      "title": "Fighting For a Second Chance",
+      "url": "https://www.goodreads.com/book/show/57959503-fighting-for-a-second-chance",
+      "id": "53185420",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1620270329i/57959503.jpg",
+      "authors": [
+        "Nikki Ash"
+      ],
+      "genres": [
+        "romance",
+        "sports",
+        "sports-romance",
+        "contemporary",
+        "contemporary-romance",
+        "fighters",
+        "mixed-martial-arts"
+      ],
+      "rating": 4.05,
+      "ratings": 3071,
+      "reviews": 371
     },
     {
       "title": "The Gift of Happiness",
@@ -295,48 +295,6 @@
       "reviews": 285
     },
     {
-      "title": "Scandals of the Father",
-      "url": "https://www.goodreads.com/book/show/117731840-scandals-of-the-father",
-      "id": "139770305",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1676390266i/117731840.jpg",
-      "authors": [
-        "Zoe Blake"
-      ],
-      "genres": [
-        "romance",
-        "dark",
-        "contemporary-romance",
-        "contemporary",
-        "erotica",
-        "bdsm",
-        "abuse"
-      ],
-      "rating": 4.07,
-      "ratings": 3067,
-      "reviews": 394
-    },
-    {
-      "title": "I Just Want You",
-      "url": "https://www.goodreads.com/book/show/34405864-i-just-want-you",
-      "id": "55508989",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1488602799i/34405864.jpg",
-      "authors": [
-        "Kaylee Ryan"
-      ],
-      "genres": [
-        "romance",
-        "new-adult",
-        "contemporary",
-        "adult",
-        "contemporary-romance",
-        "fiction",
-        "unfinished"
-      ],
-      "rating": 4.17,
-      "ratings": 3067,
-      "reviews": 276
-    },
-    {
       "title": "The Young Team",
       "url": "https://www.goodreads.com/book/show/49527269-the-young-team",
       "id": "74826451",
@@ -358,46 +316,25 @@
       "reviews": 301
     },
     {
-      "title": "Royal Blood",
-      "url": "https://www.goodreads.com/book/show/57679013-royal-blood",
-      "id": "90346945",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1656447957i/57679013.jpg",
+      "title": "Scandals of the Father",
+      "url": "https://www.goodreads.com/book/show/117731840-scandals-of-the-father",
+      "id": "139770305",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1676390266i/117731840.jpg",
       "authors": [
-        "Aimee Carter"
+        "Zoe Blake"
       ],
       "genres": [
-        "young-adult",
-        "mystery",
+        "romance",
+        "dark",
+        "contemporary-romance",
         "contemporary",
-        "thriller",
-        "romance",
-        "mystery-thriller",
-        "fiction"
+        "erotica",
+        "bdsm",
+        "abuse"
       ],
-      "rating": 4.11,
+      "rating": 4.07,
       "ratings": 3067,
-      "reviews": 605
-    },
-    {
-      "title": "Accidentally Fabulous",
-      "url": "https://www.goodreads.com/book/show/2842572-accidentally-fabulous",
-      "id": "2868685",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328840431i/2842572.jpg",
-      "authors": [
-        "Lisa Papademetriou"
-      ],
-      "genres": [
-        "middle-grade",
-        "childrens",
-        "realistic-fiction",
-        "romance",
-        "fiction",
-        "chick-lit",
-        "contemporary"
-      ],
-      "rating": 4.14,
-      "ratings": 3067,
-      "reviews": 67
+      "reviews": 394
     },
     {
       "title": "How to Blow It with a Billionaire",
@@ -421,46 +358,67 @@
       "reviews": 428
     },
     {
-      "title": "After Care",
-      "url": "https://www.goodreads.com/book/show/38231899-after-care",
-      "id": "59455105",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1517238157i/38231899.jpg",
+      "title": "I Just Want You",
+      "url": "https://www.goodreads.com/book/show/34405864-i-just-want-you",
+      "id": "55508989",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1488602799i/34405864.jpg",
       "authors": [
-        "L.B. Dunbar"
+        "Kaylee Ryan"
       ],
       "genres": [
         "romance",
-        "contemporary-romance",
+        "new-adult",
         "contemporary",
-        "music",
-        "audiobook",
         "adult",
-        "family"
+        "contemporary-romance",
+        "fiction",
+        "unfinished"
       ],
-      "rating": 4.25,
-      "ratings": 3066,
-      "reviews": 587
+      "rating": 4.17,
+      "ratings": 3067,
+      "reviews": 276
     },
     {
-      "title": "Dirty Like Us",
-      "url": "https://www.goodreads.com/book/show/57663596-dirty-like-us",
-      "id": "54051216",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1617851240i/57663596.jpg",
+      "title": "Accidentally Fabulous",
+      "url": "https://www.goodreads.com/book/show/2842572-accidentally-fabulous",
+      "id": "2868685",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328840431i/2842572.jpg",
       "authors": [
-        "Jaine Diamond"
+        "Lisa Papademetriou"
       ],
       "genres": [
+        "middle-grade",
+        "childrens",
+        "realistic-fiction",
         "romance",
-        "novella",
-        "contemporary",
-        "music",
-        "contemporary-romance",
-        "musicians",
-        "new-adult"
+        "fiction",
+        "chick-lit",
+        "contemporary"
       ],
-      "rating": 4.28,
-      "ratings": 3066,
-      "reviews": 164
+      "rating": 4.14,
+      "ratings": 3067,
+      "reviews": 67
+    },
+    {
+      "title": "Royal Blood",
+      "url": "https://www.goodreads.com/book/show/57679013-royal-blood",
+      "id": "90346945",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1656447957i/57679013.jpg",
+      "authors": [
+        "Aimee Carter"
+      ],
+      "genres": [
+        "young-adult",
+        "mystery",
+        "contemporary",
+        "thriller",
+        "romance",
+        "mystery-thriller",
+        "fiction"
+      ],
+      "rating": 4.11,
+      "ratings": 3067,
+      "reviews": 605
     },
     {
       "title": "Vicious Punks",
@@ -484,25 +442,67 @@
       "reviews": 248
     },
     {
-      "title": "Riggs",
-      "url": "https://www.goodreads.com/book/show/58373839-riggs",
-      "id": "91578426",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1624107223i/58373839.jpg",
+      "title": "Dirty Like Us",
+      "url": "https://www.goodreads.com/book/show/57663596-dirty-like-us",
+      "id": "54051216",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1617851240i/57663596.jpg",
       "authors": [
-        "Sawyer Bennett"
+        "Jaine Diamond"
       ],
       "genres": [
-        "sports",
         "romance",
-        "sports-romance",
-        "hockey",
+        "novella",
+        "contemporary",
+        "music",
+        "contemporary-romance",
+        "musicians",
+        "new-adult"
+      ],
+      "rating": 4.28,
+      "ratings": 3066,
+      "reviews": 164
+    },
+    {
+      "title": "Wrapped in Ink",
+      "url": "https://www.goodreads.com/book/show/50847917-wrapped-in-ink",
+      "id": "65159399",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1570641845i/50847917.jpg",
+      "authors": [
+        "Carrie Ann Ryan"
+      ],
+      "genres": [
+        "romance",
         "contemporary",
         "contemporary-romance",
+        "amazon",
+        "audiobook",
+        "fiction",
+        "illness"
+      ],
+      "rating": 4.12,
+      "ratings": 3066,
+      "reviews": 411
+    },
+    {
+      "title": "Sunshine Beach",
+      "url": "https://www.goodreads.com/book/show/27209401-sunshine-beach",
+      "id": "47250884",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1455501928i/27209401.jpg",
+      "authors": [
+        "Wendy  Wax"
+      ],
+      "genres": [
+        "fiction",
+        "chick-lit",
+        "romance",
+        "contemporary",
+        "womens-fiction",
+        "mystery",
         "adult"
       ],
-      "rating": 4.18,
+      "rating": 4.01,
       "ratings": 3066,
-      "reviews": 393
+      "reviews": 233
     }
   ]
 }

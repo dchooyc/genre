@@ -1,6 +1,27 @@
 {
   "books": [
     {
+      "title": "The Spark of Resistance",
+      "url": "https://www.goodreads.com/book/show/54294830-the-spark-of-resistance",
+      "id": "84723567",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1593294085i/54294830.jpg",
+      "authors": [
+        "Kit Sergeant"
+      ],
+      "genres": [
+        "historical-fiction",
+        "world-war-ii",
+        "war",
+        "historical",
+        "fiction",
+        "espionage",
+        "womens-fiction"
+      ],
+      "rating": 4.29,
+      "ratings": 1724,
+      "reviews": 88
+    },
+    {
       "title": "Tindr",
       "url": "https://www.goodreads.com/book/show/29505200-tindr",
       "id": "49794241",
@@ -21,46 +42,24 @@
       "reviews": 92
     },
     {
-      "title": "The Lost Letters of Pergamum: A Story from the New Testament World",
-      "url": "https://www.goodreads.com/book/show/805522.The_Lost_Letters_of_Pergamum",
-      "id": "791474",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348449611i/805522.jpg",
+      "title": "End of Spies",
+      "url": "https://www.goodreads.com/book/show/57383159-end-of-spies",
+      "id": "86960269",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1615527679i/57383159.jpg",
       "authors": [
-        "Bruce W. Longenecker"
-      ],
-      "genres": [
-        "fiction",
-        "historical-fiction",
-        "christian",
-        "theology",
-        "christian-fiction",
-        "christianity",
-        "school"
-      ],
-      "rating": 4.11,
-      "ratings": 1724,
-      "reviews": 201
-    },
-    {
-      "title": "The Spark of Resistance",
-      "url": "https://www.goodreads.com/book/show/54294830-the-spark-of-resistance",
-      "id": "84723567",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1593294085i/54294830.jpg",
-      "authors": [
-        "Kit Sergeant"
+        "Alex Gerlis"
       ],
       "genres": [
         "historical-fiction",
-        "world-war-ii",
-        "war",
-        "historical",
+        "thriller",
         "fiction",
         "espionage",
-        "womens-fiction"
+        "world-war-ii",
+        "mystery"
       ],
-      "rating": 4.29,
+      "rating": 4.38,
       "ratings": 1724,
-      "reviews": 88
+      "reviews": 45
     },
     {
       "title": "A Mother's Shame",
@@ -101,46 +100,6 @@
       "reviews": 121
     },
     {
-      "title": "A Bone of Contention",
-      "url": "https://www.goodreads.com/book/show/71103.A_Bone_of_Contention",
-      "id": "2232844",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1332326979i/71103.jpg",
-      "authors": [
-        "Susanna Gregory"
-      ],
-      "genres": [
-        "historical-fiction",
-        "mystery",
-        "historical-mystery",
-        "fiction",
-        "medieval",
-        "historical",
-        "crime"
-      ],
-      "rating": 4.06,
-      "ratings": 1722,
-      "reviews": 79
-    },
-    {
-      "title": "The Legend of Fire Mountain",
-      "url": "https://www.goodreads.com/book/show/57797444-the-legend-of-fire-mountain",
-      "id": "90532809",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1631640662i/57797444.jpg",
-      "authors": [
-        "Sarah Lark"
-      ],
-      "genres": [
-        "historical-fiction",
-        "roman",
-        "german-literature",
-        "fiction",
-        "romance"
-      ],
-      "rating": 4.31,
-      "ratings": 1722,
-      "reviews": 48
-    },
-    {
       "title": "Captured Heart",
       "url": "https://www.goodreads.com/book/show/24299988-captured-heart",
       "id": "19171932",
@@ -162,23 +121,86 @@
       "reviews": 150
     },
     {
-      "title": "Storm of Steel",
-      "url": "https://www.goodreads.com/book/show/39088143-storm-of-steel",
-      "id": "60662214",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1584671925i/39088143.jpg",
+      "title": "The Legend of Fire Mountain",
+      "url": "https://www.goodreads.com/book/show/57797444-the-legend-of-fire-mountain",
+      "id": "90532809",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1631640662i/57797444.jpg",
       "authors": [
-        "Matthew Harffy"
+        "Sarah Lark"
+      ],
+      "genres": [
+        "historical-fiction",
+        "roman",
+        "german-literature",
+        "fiction",
+        "romance"
+      ],
+      "rating": 4.31,
+      "ratings": 1722,
+      "reviews": 48
+    },
+    {
+      "title": "A Bone of Contention",
+      "url": "https://www.goodreads.com/book/show/71103.A_Bone_of_Contention",
+      "id": "2232844",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1332326979i/71103.jpg",
+      "authors": [
+        "Susanna Gregory"
+      ],
+      "genres": [
+        "historical-fiction",
+        "mystery",
+        "historical-mystery",
+        "fiction",
+        "medieval",
+        "historical",
+        "crime"
+      ],
+      "rating": 4.06,
+      "ratings": 1722,
+      "reviews": 79
+    },
+    {
+      "title": "Providence Act 2",
+      "url": "https://www.goodreads.com/book/show/31139997-providence-act-2",
+      "id": "51765901",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1468779474i/31139997.jpg",
+      "authors": [
+        "Alan Moore"
+      ],
+      "genres": [
+        "comics",
+        "horror",
+        "graphic-novels",
+        "fantasy",
+        "lovecraftian",
+        "historical-fiction",
+        "fiction"
+      ],
+      "rating": 4.04,
+      "ratings": 1721,
+      "reviews": 153
+    },
+    {
+      "title": "Dreams of Silver",
+      "url": "https://www.goodreads.com/book/show/36995077-dreams-of-silver",
+      "id": "58802507",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1534430136i/36995077.jpg",
+      "authors": [
+        "Mina Baites"
       ],
       "genres": [
         "historical-fiction",
         "fiction",
+        "world-war-ii",
         "historical",
-        "medieval",
-        "war"
+        "holocaust",
+        "audiobook",
+        "british-literature"
       ],
-      "rating": 4.48,
+      "rating": 4.32,
       "ratings": 1721,
-      "reviews": 83
+      "reviews": 114
     },
     {
       "title": "Blue Hole Back Home",
@@ -223,6 +245,25 @@
       "reviews": 215
     },
     {
+      "title": "Storm of Steel",
+      "url": "https://www.goodreads.com/book/show/39088143-storm-of-steel",
+      "id": "60662214",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1584671925i/39088143.jpg",
+      "authors": [
+        "Matthew Harffy"
+      ],
+      "genres": [
+        "historical-fiction",
+        "fiction",
+        "historical",
+        "medieval",
+        "war"
+      ],
+      "rating": 4.48,
+      "ratings": 1721,
+      "reviews": 83
+    },
+    {
       "title": "The East End Girl in Blue",
       "url": "https://www.goodreads.com/book/show/56535347-the-east-end-girl-in-blue",
       "id": "88265477",
@@ -236,48 +277,6 @@
       "rating": 4.5,
       "ratings": 1721,
       "reviews": 43
-    },
-    {
-      "title": "Dreams of Silver",
-      "url": "https://www.goodreads.com/book/show/36995077-dreams-of-silver",
-      "id": "58802507",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1534430136i/36995077.jpg",
-      "authors": [
-        "Mina Baites"
-      ],
-      "genres": [
-        "historical-fiction",
-        "fiction",
-        "world-war-ii",
-        "historical",
-        "holocaust",
-        "audiobook",
-        "british-literature"
-      ],
-      "rating": 4.32,
-      "ratings": 1721,
-      "reviews": 114
-    },
-    {
-      "title": "Providence Act 2",
-      "url": "https://www.goodreads.com/book/show/31139997-providence-act-2",
-      "id": "51765901",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1468779474i/31139997.jpg",
-      "authors": [
-        "Alan Moore"
-      ],
-      "genres": [
-        "comics",
-        "horror",
-        "graphic-novels",
-        "fantasy",
-        "lovecraftian",
-        "historical-fiction",
-        "fiction"
-      ],
-      "rating": 4.04,
-      "ratings": 1721,
-      "reviews": 153
     },
     {
       "title": "The Last Beginning",
@@ -301,25 +300,25 @@
       "reviews": 267
     },
     {
-      "title": "A Prairie Heritage: The Early Years: A Three-Book Boxed Set",
-      "url": "https://www.goodreads.com/book/show/34846419-a-prairie-heritage",
-      "id": "56080810",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1492026505i/34846419.jpg",
+      "title": "The Miner's Lady",
+      "url": "https://www.goodreads.com/book/show/17384511-the-miner-s-lady",
+      "id": "24191695",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1361377747i/17384511.jpg",
       "authors": [
-        "Vikki Kestell"
+        "Tracie Peterson"
       ],
       "genres": [
-        "christian",
         "christian-fiction",
         "historical-fiction",
-        "historical",
         "romance",
-        "unfinished",
+        "christian",
+        "fiction",
+        "christian-romance",
         "historical-romance"
       ],
-      "rating": 4.64,
+      "rating": 4.11,
       "ratings": 1719,
-      "reviews": 135
+      "reviews": 176
     },
     {
       "title": "Song of the Exile",
@@ -343,46 +342,25 @@
       "reviews": 263
     },
     {
-      "title": "The Miner's Lady",
-      "url": "https://www.goodreads.com/book/show/17384511-the-miner-s-lady",
-      "id": "24191695",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1361377747i/17384511.jpg",
+      "title": "A Prairie Heritage: The Early Years: A Three-Book Boxed Set",
+      "url": "https://www.goodreads.com/book/show/34846419-a-prairie-heritage",
+      "id": "56080810",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1492026505i/34846419.jpg",
       "authors": [
-        "Tracie Peterson"
+        "Vikki Kestell"
       ],
       "genres": [
+        "christian",
         "christian-fiction",
         "historical-fiction",
-        "romance",
-        "christian",
-        "fiction",
-        "christian-romance",
-        "historical-romance"
-      ],
-      "rating": 4.11,
-      "ratings": 1719,
-      "reviews": 176
-    },
-    {
-      "title": "Stars Over Clear Lake",
-      "url": "https://www.goodreads.com/book/show/31451188-stars-over-clear-lake",
-      "id": "52153963",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1491122292i/31451188.jpg",
-      "authors": [
-        "Loretta Ellsworth"
-      ],
-      "genres": [
-        "historical-fiction",
-        "fiction",
-        "romance",
-        "world-war-ii",
         "historical",
-        "adult",
+        "romance",
+        "unfinished",
         "historical-romance"
       ],
-      "rating": 4.1,
-      "ratings": 1718,
-      "reviews": 280
+      "rating": 4.64,
+      "ratings": 1719,
+      "reviews": 135
     },
     {
       "title": "The Secret of Bow Lane",
@@ -406,25 +384,25 @@
       "reviews": 204
     },
     {
-      "title": "The Prophecy",
-      "url": "https://www.goodreads.com/book/show/46252380-the-prophecy",
-      "id": "71124432",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1560192273i/46252380.jpg",
+      "title": "A Bond Undone",
+      "url": "https://www.goodreads.com/book/show/45046734-a-bond-undone",
+      "id": "60447225",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1567056344i/45046734.jpg",
       "authors": [
-        "Kim Sakwa"
+        "Jin Yong"
       ],
       "genres": [
-        "time-travel",
-        "historical-romance",
-        "historical",
-        "romance",
-        "time-travel-romance",
         "fantasy",
-        "historical-fiction"
+        "fiction",
+        "historical-fiction",
+        "china",
+        "classics",
+        "historical",
+        "martial-arts"
       ],
-      "rating": 4.19,
+      "rating": 4.37,
       "ratings": 1718,
-      "reviews": 134
+      "reviews": 216
     },
     {
       "title": "The Big Fisherman",
@@ -448,6 +426,48 @@
       "reviews": 121
     },
     {
+      "title": "Stars Over Clear Lake",
+      "url": "https://www.goodreads.com/book/show/31451188-stars-over-clear-lake",
+      "id": "52153963",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1491122292i/31451188.jpg",
+      "authors": [
+        "Loretta Ellsworth"
+      ],
+      "genres": [
+        "historical-fiction",
+        "fiction",
+        "romance",
+        "world-war-ii",
+        "historical",
+        "adult",
+        "historical-romance"
+      ],
+      "rating": 4.1,
+      "ratings": 1718,
+      "reviews": 280
+    },
+    {
+      "title": "The Prophecy",
+      "url": "https://www.goodreads.com/book/show/46252380-the-prophecy",
+      "id": "71124432",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1560192273i/46252380.jpg",
+      "authors": [
+        "Kim Sakwa"
+      ],
+      "genres": [
+        "time-travel",
+        "historical-romance",
+        "historical",
+        "romance",
+        "time-travel-romance",
+        "fantasy",
+        "historical-fiction"
+      ],
+      "rating": 4.19,
+      "ratings": 1718,
+      "reviews": 134
+    },
+    {
       "title": "Child of the River",
       "url": "https://www.goodreads.com/book/show/29388853-child-of-the-river",
       "id": "18484246",
@@ -467,27 +487,6 @@
       "rating": 4.12,
       "ratings": 1718,
       "reviews": 298
-    },
-    {
-      "title": "A Bond Undone",
-      "url": "https://www.goodreads.com/book/show/45046734-a-bond-undone",
-      "id": "60447225",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1567056344i/45046734.jpg",
-      "authors": [
-        "Jin Yong"
-      ],
-      "genres": [
-        "fantasy",
-        "fiction",
-        "historical-fiction",
-        "china",
-        "classics",
-        "historical",
-        "martial-arts"
-      ],
-      "rating": 4.37,
-      "ratings": 1718,
-      "reviews": 216
     }
   ]
 }

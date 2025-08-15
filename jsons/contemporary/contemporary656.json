@@ -1,6 +1,27 @@
 {
   "books": [
     {
+      "title": "Wicked Cowboy Charm",
+      "url": "https://www.goodreads.com/book/show/30145121-wicked-cowboy-charm",
+      "id": "50578825",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1465765413i/30145121.jpg",
+      "authors": [
+        "Carolyn Brown"
+      ],
+      "genres": [
+        "romance",
+        "westerns",
+        "contemporary-romance",
+        "contemporary",
+        "fiction",
+        "adult",
+        "family"
+      ],
+      "rating": 4.38,
+      "ratings": 1388,
+      "reviews": 124
+    },
+    {
       "title": "Everything Will Be Alright",
       "url": "https://www.goodreads.com/book/show/59617765-everything-will-be-alright",
       "id": "93888840",
@@ -20,129 +41,6 @@
       "rating": 4.2,
       "ratings": 1388,
       "reviews": 202
-    },
-    {
-      "title": "Chilled to the Cone",
-      "url": "https://www.goodreads.com/book/show/53138171-chilled-to-the-cone",
-      "id": "79888692",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1589256025i/53138171.jpg",
-      "authors": [
-        "Ellie Alexander"
-      ],
-      "genres": [
-        "mystery",
-        "cozy-mystery",
-        "fiction",
-        "contemporary",
-        "adult",
-        "audiobook",
-        "adult-fiction"
-      ],
-      "rating": 4.14,
-      "ratings": 1388,
-      "reviews": 201
-    },
-    {
-      "title": "Mason",
-      "url": "https://www.goodreads.com/book/show/25728422-mason",
-      "id": "45565311",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1434325468i/25728422.jpg",
-      "authors": [
-        "S.M. Shade"
-      ],
-      "genres": [
-        "romance",
-        "contemporary",
-        "new-adult",
-        "contemporary-romance",
-        "abuse",
-        "erotica",
-        "fighters"
-      ],
-      "rating": 4.18,
-      "ratings": 1387,
-      "reviews": 138
-    },
-    {
-      "title": "Blood Feud",
-      "url": "https://www.goodreads.com/book/show/18934490-blood-feud",
-      "id": "21446762",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1406884287i/18934490.jpg",
-      "authors": [
-        "J.D. Nixon"
-      ],
-      "genres": [
-        "mystery",
-        "contemporary",
-        "romantic-suspense",
-        "romance",
-        "thriller",
-        "suspense",
-        "contemporary-romance"
-      ],
-      "rating": 4.49,
-      "ratings": 1387,
-      "reviews": 69
-    },
-    {
-      "title": "The Silver Cage",
-      "url": "https://www.goodreads.com/book/show/38895251-the-silver-cage",
-      "id": "59858427",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1519929153i/38895251.jpg",
-      "authors": [
-        "Anonymous"
-      ],
-      "genres": [
-        "m-m-romance",
-        "romance",
-        "dark",
-        "lgbt",
-        "contemporary",
-        "mental-health",
-        "adult"
-      ],
-      "rating": 4.46,
-      "ratings": 1387,
-      "reviews": 459
-    },
-    {
-      "title": "Friends",
-      "url": "https://www.goodreads.com/book/show/55761541-friends",
-      "id": "86966717",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1603350358i/55761541.jpg",
-      "authors": [
-        "Nora Phoenix"
-      ],
-      "genres": [
-        "m-m-romance",
-        "romance",
-        "contemporary",
-        "mystery",
-        "lgbt",
-        "politics",
-        "gay-for-you"
-      ],
-      "rating": 4.4,
-      "ratings": 1387,
-      "reviews": 181
-    },
-    {
-      "title": "How Much I Need",
-      "url": "https://www.goodreads.com/book/show/77261952-how-much-i-need",
-      "id": "95895818",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1673645539i/77261952.jpg",
-      "authors": [
-        "Marie Force"
-      ],
-      "genres": [
-        "romance",
-        "contemporary",
-        "contemporary-romance",
-        "fiction"
-      ],
-      "rating": 4.47,
-      "ratings": 1387,
-      "reviews": 113
     },
     {
       "title": "Bossy Baby",
@@ -166,6 +64,45 @@
       "reviews": 101
     },
     {
+      "title": "Mason",
+      "url": "https://www.goodreads.com/book/show/25728422-mason",
+      "id": "45565311",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1434325468i/25728422.jpg",
+      "authors": [
+        "S.M. Shade"
+      ],
+      "genres": [
+        "romance",
+        "contemporary",
+        "new-adult",
+        "contemporary-romance",
+        "abuse",
+        "erotica",
+        "fighters"
+      ],
+      "rating": 4.18,
+      "ratings": 1387,
+      "reviews": 138
+    },
+    {
+      "title": "How Much I Need",
+      "url": "https://www.goodreads.com/book/show/77261952-how-much-i-need",
+      "id": "95895818",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1673645539i/77261952.jpg",
+      "authors": [
+        "Marie Force"
+      ],
+      "genres": [
+        "romance",
+        "contemporary",
+        "contemporary-romance",
+        "fiction"
+      ],
+      "rating": 4.47,
+      "ratings": 1387,
+      "reviews": 113
+    },
+    {
       "title": "One Ordinary Day at a Time",
       "url": "https://www.goodreads.com/book/show/57021426-one-ordinary-day-at-a-time",
       "id": "89222015",
@@ -182,108 +119,67 @@
       "reviews": 154
     },
     {
-      "title": "Rock Star, Interrupted",
-      "url": "https://www.goodreads.com/book/show/53137129-rock-star-interrupted",
-      "id": "73026202",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1569693019l/53137129.jpg",
+      "title": "Friends",
+      "url": "https://www.goodreads.com/book/show/55761541-friends",
+      "id": "86966717",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1603350358i/55761541.jpg",
       "authors": [
-        "S.M. Shade"
+        "Nora Phoenix"
       ],
       "genres": [
+        "m-m-romance",
         "romance",
-        "music",
         "contemporary",
-        "contemporary-romance",
-        "abuse",
-        "musicians",
-        "erotica"
-      ],
-      "rating": 4.33,
-      "ratings": 1386,
-      "reviews": 250
-    },
-    {
-      "title": "When the Ground Is Hard",
-      "url": "https://www.goodreads.com/book/show/35391597-when-the-ground-is-hard",
-      "id": "56756915",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1545616241i/35391597.jpg",
-      "authors": [
-        "Malla Nunn"
-      ],
-      "genres": [
-        "young-adult",
-        "historical-fiction",
-        "africa",
-        "fiction",
         "mystery",
-        "contemporary",
-        "historical"
+        "lgbt",
+        "politics",
+        "gay-for-you"
       ],
-      "rating": 4.16,
-      "ratings": 1386,
-      "reviews": 248
+      "rating": 4.4,
+      "ratings": 1387,
+      "reviews": 181
     },
     {
-      "title": "Sunburn",
-      "url": "https://www.goodreads.com/book/show/24828534-sunburn",
-      "id": "449871",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1423047305i/24828534.jpg",
+      "title": "The Silver Cage",
+      "url": "https://www.goodreads.com/book/show/38895251-the-silver-cage",
+      "id": "59858427",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1519929153i/38895251.jpg",
       "authors": [
-        "Laurence Shames"
+        "Anonymous"
       ],
       "genres": [
-        "fiction",
-        "mystery",
-        "humor",
-        "crime",
-        "comedy",
-        "contemporary"
-      ],
-      "rating": 4.15,
-      "ratings": 1386,
-      "reviews": 54
-    },
-    {
-      "title": "Mountain Survival",
-      "url": "https://www.goodreads.com/book/show/55216717-mountain-survival",
-      "id": "86086290",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1604441162i/55216717.jpg",
-      "authors": [
-        "Christy Barritt"
-      ],
-      "genres": [
+        "m-m-romance",
         "romance",
-        "christian-fiction",
-        "romantic-suspense",
-        "christian",
-        "suspense",
-        "fiction",
-        "contemporary"
-      ],
-      "rating": 4.42,
-      "ratings": 1386,
-      "reviews": 142
-    },
-    {
-      "title": "Filthy Richer",
-      "url": "https://www.goodreads.com/book/show/123232991-filthy-richer",
-      "id": "95469613",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1678662621i/123232991.jpg",
-      "authors": [
-        "Serena Akeroyd"
-      ],
-      "genres": [
-        "romance",
-        "novella",
-        "contemporary",
         "dark",
-        "contemporary-romance",
-        "erotica",
-        "crime"
+        "lgbt",
+        "contemporary",
+        "mental-health",
+        "adult"
       ],
-      "rating": 4.32,
-      "ratings": 1386,
-      "reviews": 91
+      "rating": 4.46,
+      "ratings": 1387,
+      "reviews": 459
+    },
+    {
+      "title": "Blood Feud",
+      "url": "https://www.goodreads.com/book/show/18934490-blood-feud",
+      "id": "21446762",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1406884287i/18934490.jpg",
+      "authors": [
+        "J.D. Nixon"
+      ],
+      "genres": [
+        "mystery",
+        "contemporary",
+        "romantic-suspense",
+        "romance",
+        "thriller",
+        "suspense",
+        "contemporary-romance"
+      ],
+      "rating": 4.49,
+      "ratings": 1387,
+      "reviews": 69
     },
     {
       "title": "Necessary Peril",
@@ -307,6 +203,89 @@
       "reviews": 75
     },
     {
+      "title": "Sunburn",
+      "url": "https://www.goodreads.com/book/show/24828534-sunburn",
+      "id": "449871",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1423047305i/24828534.jpg",
+      "authors": [
+        "Laurence Shames"
+      ],
+      "genres": [
+        "fiction",
+        "mystery",
+        "humor",
+        "crime",
+        "comedy",
+        "contemporary"
+      ],
+      "rating": 4.15,
+      "ratings": 1386,
+      "reviews": 54
+    },
+    {
+      "title": "When the Ground Is Hard",
+      "url": "https://www.goodreads.com/book/show/35391597-when-the-ground-is-hard",
+      "id": "56756915",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1545616241i/35391597.jpg",
+      "authors": [
+        "Malla Nunn"
+      ],
+      "genres": [
+        "young-adult",
+        "historical-fiction",
+        "africa",
+        "fiction",
+        "mystery",
+        "contemporary",
+        "historical"
+      ],
+      "rating": 4.16,
+      "ratings": 1386,
+      "reviews": 248
+    },
+    {
+      "title": "Filthy Richer",
+      "url": "https://www.goodreads.com/book/show/123232991-filthy-richer",
+      "id": "95469613",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1678662621i/123232991.jpg",
+      "authors": [
+        "Serena Akeroyd"
+      ],
+      "genres": [
+        "romance",
+        "novella",
+        "contemporary",
+        "dark",
+        "contemporary-romance",
+        "erotica",
+        "crime"
+      ],
+      "rating": 4.32,
+      "ratings": 1386,
+      "reviews": 91
+    },
+    {
+      "title": "Rock Star, Interrupted",
+      "url": "https://www.goodreads.com/book/show/53137129-rock-star-interrupted",
+      "id": "73026202",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1569693019l/53137129.jpg",
+      "authors": [
+        "S.M. Shade"
+      ],
+      "genres": [
+        "romance",
+        "music",
+        "contemporary",
+        "contemporary-romance",
+        "abuse",
+        "musicians",
+        "erotica"
+      ],
+      "rating": 4.33,
+      "ratings": 1386,
+      "reviews": 250
+    },
+    {
       "title": "Christmas at the Little Waffle Shack",
       "url": "https://www.goodreads.com/book/show/60898060-christmas-at-the-little-waffle-shack",
       "id": "84179090",
@@ -328,6 +307,27 @@
       "reviews": 68
     },
     {
+      "title": "Mountain Survival",
+      "url": "https://www.goodreads.com/book/show/55216717-mountain-survival",
+      "id": "86086290",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1604441162i/55216717.jpg",
+      "authors": [
+        "Christy Barritt"
+      ],
+      "genres": [
+        "romance",
+        "christian-fiction",
+        "romantic-suspense",
+        "christian",
+        "suspense",
+        "fiction",
+        "contemporary"
+      ],
+      "rating": 4.42,
+      "ratings": 1386,
+      "reviews": 142
+    },
+    {
       "title": "Marriage on Demand",
       "url": "https://www.goodreads.com/book/show/42863176-marriage-on-demand",
       "id": "1380328",
@@ -347,6 +347,48 @@
       "rating": 4,
       "ratings": 1386,
       "reviews": 51
+    },
+    {
+      "title": "Bared Souls",
+      "url": "https://www.goodreads.com/book/show/55336709-bared-souls",
+      "id": "85648099",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1600103792i/55336709.jpg",
+      "authors": [
+        "Ellie Wade"
+      ],
+      "genres": [
+        "romance",
+        "contemporary",
+        "college",
+        "new-adult",
+        "contemporary-romance",
+        "death",
+        "abuse"
+      ],
+      "rating": 4.26,
+      "ratings": 1385,
+      "reviews": 250
+    },
+    {
+      "title": "Death in Room 7",
+      "url": "https://www.goodreads.com/book/show/26039930-death-in-room-7",
+      "id": "45967449",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1441203498i/26039930.jpg",
+      "authors": [
+        "K.J. Emrick"
+      ],
+      "genres": [
+        "mystery",
+        "cozy-mystery",
+        "fiction",
+        "amazon",
+        "paranormal",
+        "mystery-thriller",
+        "contemporary"
+      ],
+      "rating": 4.08,
+      "ratings": 1385,
+      "reviews": 119
     },
     {
       "title": "The Post Box at the North Pole",
@@ -386,27 +428,6 @@
       "reviews": 105
     },
     {
-      "title": "Death in Room 7",
-      "url": "https://www.goodreads.com/book/show/26039930-death-in-room-7",
-      "id": "45967449",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1441203498i/26039930.jpg",
-      "authors": [
-        "K.J. Emrick"
-      ],
-      "genres": [
-        "mystery",
-        "cozy-mystery",
-        "fiction",
-        "amazon",
-        "paranormal",
-        "mystery-thriller",
-        "contemporary"
-      ],
-      "rating": 4.08,
-      "ratings": 1385,
-      "reviews": 119
-    },
-    {
       "title": "Just a Friend",
       "url": "https://www.goodreads.com/book/show/58480840-just-a-friend",
       "id": "91820745",
@@ -424,27 +445,6 @@
       "rating": 4.72,
       "ratings": 1385,
       "reviews": 261
-    },
-    {
-      "title": "Bared Souls",
-      "url": "https://www.goodreads.com/book/show/55336709-bared-souls",
-      "id": "85648099",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1600103792i/55336709.jpg",
-      "authors": [
-        "Ellie Wade"
-      ],
-      "genres": [
-        "romance",
-        "contemporary",
-        "college",
-        "new-adult",
-        "contemporary-romance",
-        "death",
-        "abuse"
-      ],
-      "rating": 4.26,
-      "ratings": 1385,
-      "reviews": 250
     },
     {
       "title": "The Moon Within",
@@ -468,25 +468,21 @@
       "reviews": 295
     },
     {
-      "title": "Total Surrender",
-      "url": "https://www.goodreads.com/book/show/46064544-total-surrender",
-      "id": "70890332",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1559777838i/46064544.jpg",
+      "title": "Taming The CEO Beast",
+      "url": "https://www.goodreads.com/book/show/63002337-taming-the-ceo-beast",
+      "id": "98844239",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1665876041i/63002337.jpg",
       "authors": [
-        "Erika Wilde"
+        "Iona Rose"
       ],
       "genres": [
         "romance",
-        "contemporary",
         "contemporary-romance",
-        "erotica",
-        "dark",
-        "erotic-romance",
-        "fiction"
+        "contemporary"
       ],
-      "rating": 4,
+      "rating": 4.17,
       "ratings": 1384,
-      "reviews": 195
+      "reviews": 81
     }
   ]
 }

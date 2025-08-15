@@ -1,6 +1,26 @@
 {
   "books": [
     {
+      "title": "Good Old Neon",
+      "url": "https://www.goodreads.com/book/show/49766169-good-old-neon",
+      "id": "72195404",
+      "cover_url": "https://dryofg8nmyqjw.cloudfront.net/images/no-cover.png",
+      "authors": [
+        "David Foster Wallace"
+      ],
+      "genres": [
+        "short-stories",
+        "fiction",
+        "mental-health",
+        "novels",
+        "school",
+        "contemporary"
+      ],
+      "rating": 4.55,
+      "ratings": 676,
+      "reviews": 100
+    },
+    {
       "title": "Strut",
       "url": "https://www.goodreads.com/book/show/60777558-strut",
       "id": "95836958",
@@ -20,27 +40,6 @@
       "rating": 4.32,
       "ratings": 676,
       "reviews": 137
-    },
-    {
-      "title": "Psychiatric Studies",
-      "url": "https://www.goodreads.com/book/show/2088080.Psychiatric_Studies",
-      "id": "331973",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1393788224i/2088080.jpg",
-      "authors": [
-        "C.G. Jung"
-      ],
-      "genres": [
-        "psychology",
-        "non-fiction",
-        "philosophy",
-        "science",
-        "mental-health",
-        "psychoanalysis",
-        "classics"
-      ],
-      "rating": 4.06,
-      "ratings": 676,
-      "reviews": 16
     },
     {
       "title": "The Huge Bag of Worries",
@@ -85,25 +84,25 @@
       "reviews": 62
     },
     {
-      "title": "The King of Jam Sandwiches",
-      "url": "https://www.goodreads.com/book/show/51349140-the-king-of-jam-sandwiches",
-      "id": "76029049",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1599570182i/51349140.jpg",
+      "title": "Daughter Detox: Recovering from An Unloving Mother and Reclaiming Your Life",
+      "url": "https://www.goodreads.com/book/show/36689134-daughter-detox",
+      "id": "58485472",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1512021949i/36689134.jpg",
       "authors": [
-        "Eric Walters"
+        "Peg Streep"
       ],
       "genres": [
-        "middle-grade",
-        "canada",
-        "realistic-fiction",
+        "self-help",
+        "non-fiction",
+        "psychology",
         "mental-health",
-        "young-adult",
-        "childrens",
-        "contemporary"
+        "personal-development",
+        "parenting",
+        "abuse"
       ],
-      "rating": 4.35,
+      "rating": 4.19,
       "ratings": 674,
-      "reviews": 110
+      "reviews": 63
     },
     {
       "title": "The Poet",
@@ -127,65 +126,25 @@
       "reviews": 142
     },
     {
-      "title": "Daughter Detox: Recovering from An Unloving Mother and Reclaiming Your Life",
-      "url": "https://www.goodreads.com/book/show/36689134-daughter-detox",
-      "id": "58485472",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1512021949i/36689134.jpg",
+      "title": "The King of Jam Sandwiches",
+      "url": "https://www.goodreads.com/book/show/51349140-the-king-of-jam-sandwiches",
+      "id": "76029049",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1599570182i/51349140.jpg",
       "authors": [
-        "Peg Streep"
+        "Eric Walters"
       ],
       "genres": [
-        "self-help",
-        "non-fiction",
-        "psychology",
+        "middle-grade",
+        "canada",
+        "realistic-fiction",
         "mental-health",
-        "personal-development",
-        "parenting",
-        "abuse"
+        "young-adult",
+        "childrens",
+        "contemporary"
       ],
-      "rating": 4.19,
+      "rating": 4.35,
       "ratings": 674,
-      "reviews": 63
-    },
-    {
-      "title": "The Stress Prescription: Seven Days to More Joy and Ease",
-      "url": "https://www.goodreads.com/book/show/60750102-the-stress-prescription",
-      "id": "95786880",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1652692330i/60750102.jpg",
-      "authors": [
-        "Elissa Epel"
-      ],
-      "genres": [
-        "self-help",
-        "non-fiction",
-        "psychology",
-        "health",
-        "mental-health",
-        "personal-development",
-        "science"
-      ],
-      "rating": 4.24,
-      "ratings": 673,
-      "reviews": 60
-    },
-    {
-      "title": "How to Be Happy: Not a Self-Help Book. Seriously.",
-      "url": "https://www.goodreads.com/book/show/25665264-how-to-be-happy",
-      "id": "45488244",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1437065629i/25665264.jpg",
-      "authors": [
-        "Iain S. Thomas"
-      ],
-      "genres": [
-        "poetry",
-        "self-help",
-        "non-fiction",
-        "psychology",
-        "mental-health"
-      ],
-      "rating": 4.04,
-      "ratings": 673,
-      "reviews": 67
+      "reviews": 110
     },
     {
       "title": "Battle to Surrender",
@@ -207,6 +166,46 @@
       "rating": 4.09,
       "ratings": 673,
       "reviews": 100
+    },
+    {
+      "title": "How to Be Happy: Not a Self-Help Book. Seriously.",
+      "url": "https://www.goodreads.com/book/show/25665264-how-to-be-happy",
+      "id": "45488244",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1437065629i/25665264.jpg",
+      "authors": [
+        "Iain S. Thomas"
+      ],
+      "genres": [
+        "poetry",
+        "self-help",
+        "non-fiction",
+        "psychology",
+        "mental-health"
+      ],
+      "rating": 4.04,
+      "ratings": 673,
+      "reviews": 67
+    },
+    {
+      "title": "The Stress Prescription: Seven Days to More Joy and Ease",
+      "url": "https://www.goodreads.com/book/show/60750102-the-stress-prescription",
+      "id": "95786880",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1652692330i/60750102.jpg",
+      "authors": [
+        "Elissa Epel"
+      ],
+      "genres": [
+        "self-help",
+        "non-fiction",
+        "psychology",
+        "health",
+        "mental-health",
+        "personal-development",
+        "science"
+      ],
+      "rating": 4.24,
+      "ratings": 673,
+      "reviews": 60
     },
     {
       "title": "Madness Explained: Psychosis and Human Nature",
@@ -334,6 +333,26 @@
       "reviews": 125
     },
     {
+      "title": "See Me",
+      "url": "https://www.goodreads.com/book/show/59699779-see-me",
+      "id": "94008144",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1637859640i/59699779.jpg",
+      "authors": [
+        "Tella Alvarez"
+      ],
+      "genres": [
+        "romance",
+        "contemporary",
+        "mental-health",
+        "young-adult",
+        "high-school",
+        "young-adult-contemporary"
+      ],
+      "rating": 4.38,
+      "ratings": 663,
+      "reviews": 93
+    },
+    {
       "title": "Stay with My Heart",
       "url": "https://www.goodreads.com/book/show/150444501-stay-with-my-heart",
       "id": "99096225",
@@ -355,24 +374,24 @@
       "reviews": 236
     },
     {
-      "title": "See Me",
-      "url": "https://www.goodreads.com/book/show/59699779-see-me",
-      "id": "94008144",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1637859640i/59699779.jpg",
+      "title": "Swallowtail",
+      "url": "https://www.goodreads.com/book/show/44603720-swallowtail",
+      "id": "69239437",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1565062743i/44603720.jpg",
       "authors": [
-        "Tella Alvarez"
+        "Brenna Twohy"
       ],
       "genres": [
-        "romance",
-        "contemporary",
+        "poetry",
+        "feminism",
         "mental-health",
-        "young-adult",
-        "high-school",
-        "young-adult-contemporary"
+        "non-fiction",
+        "adult",
+        "mental-illness"
       ],
-      "rating": 4.38,
-      "ratings": 663,
-      "reviews": 93
+      "rating": 4.35,
+      "ratings": 662,
+      "reviews": 124
     },
     {
       "title": "Disavow",
@@ -394,26 +413,6 @@
       "rating": 4.36,
       "ratings": 662,
       "reviews": 141
-    },
-    {
-      "title": "Swallowtail",
-      "url": "https://www.goodreads.com/book/show/44603720-swallowtail",
-      "id": "69239437",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1565062743i/44603720.jpg",
-      "authors": [
-        "Brenna Twohy"
-      ],
-      "genres": [
-        "poetry",
-        "feminism",
-        "mental-health",
-        "non-fiction",
-        "adult",
-        "mental-illness"
-      ],
-      "rating": 4.35,
-      "ratings": 662,
-      "reviews": 124
     },
     {
       "title": "The Consequence of Anna",

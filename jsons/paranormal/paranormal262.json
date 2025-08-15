@@ -1,6 +1,25 @@
 {
   "books": [
     {
+      "title": "Black & Brew",
+      "url": "https://www.goodreads.com/book/show/61774938-black-brew",
+      "id": "97402037",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1659116086i/61774938.jpg",
+      "authors": [
+        "Lily Harper Hart"
+      ],
+      "genres": [
+        "paranormal",
+        "mystery",
+        "romance",
+        "paranormal-romance",
+        "cozy-mystery"
+      ],
+      "rating": 4.7,
+      "ratings": 1598,
+      "reviews": 59
+    },
+    {
       "title": "Traquée",
       "url": "https://www.goodreads.com/book/show/10379849-traqu-e",
       "id": "15283329",
@@ -41,46 +60,6 @@
       "rating": 4.12,
       "ratings": 1598,
       "reviews": 112
-    },
-    {
-      "title": "Black & Brew",
-      "url": "https://www.goodreads.com/book/show/61774938-black-brew",
-      "id": "97402037",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1659116086i/61774938.jpg",
-      "authors": [
-        "Lily Harper Hart"
-      ],
-      "genres": [
-        "paranormal",
-        "mystery",
-        "romance",
-        "paranormal-romance",
-        "cozy-mystery"
-      ],
-      "rating": 4.7,
-      "ratings": 1598,
-      "reviews": 59
-    },
-    {
-      "title": "Portents and Oddities",
-      "url": "https://www.goodreads.com/book/show/59910001-portents-and-oddities",
-      "id": "94071607",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1640184412i/59910001.jpg",
-      "authors": [
-        "Gwen DeMarco"
-      ],
-      "genres": [
-        "urban-fantasy",
-        "fantasy",
-        "paranormal",
-        "romance",
-        "magic",
-        "mystery",
-        "supernatural"
-      ],
-      "rating": 4.39,
-      "ratings": 1595,
-      "reviews": 90
     },
     {
       "title": "Midnight Queen",
@@ -167,22 +146,25 @@
       "reviews": 81
     },
     {
-      "title": "Bare Bones",
-      "url": "https://www.goodreads.com/book/show/123277641-bare-bones",
-      "id": "144666254",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1679281884i/123277641.jpg",
+      "title": "Portents and Oddities",
+      "url": "https://www.goodreads.com/book/show/59910001-portents-and-oddities",
+      "id": "94071607",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1640184412i/59910001.jpg",
       "authors": [
-        "Lauretta Hignett"
+        "Gwen DeMarco"
       ],
       "genres": [
-        "fantasy",
         "urban-fantasy",
+        "fantasy",
         "paranormal",
-        "fae"
+        "romance",
+        "magic",
+        "mystery",
+        "supernatural"
       ],
-      "rating": 4.51,
-      "ratings": 1594,
-      "reviews": 51
+      "rating": 4.39,
+      "ratings": 1595,
+      "reviews": 90
     },
     {
       "title": "Valdemar",
@@ -206,25 +188,22 @@
       "reviews": 196
     },
     {
-      "title": "Cat's Paws and Curses",
-      "url": "https://www.goodreads.com/book/show/49109960-cat-s-paws-and-curses",
-      "id": "74552511",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575592245i/49109960.jpg",
+      "title": "Bare Bones",
+      "url": "https://www.goodreads.com/book/show/123277641-bare-bones",
+      "id": "144666254",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1679281884i/123277641.jpg",
       "authors": [
-        "Nancy Warren"
+        "Lauretta Hignett"
       ],
       "genres": [
-        "mystery",
-        "cozy-mystery",
         "fantasy",
+        "urban-fantasy",
         "paranormal",
-        "audiobook",
-        "fiction",
-        "vampires"
+        "fae"
       ],
-      "rating": 4.01,
-      "ratings": 1593,
-      "reviews": 121
+      "rating": 4.51,
+      "ratings": 1594,
+      "reviews": 51
     },
     {
       "title": "How to Defy a Vampire",
@@ -248,25 +227,25 @@
       "reviews": 175
     },
     {
-      "title": "Charms & Chapters",
-      "url": "https://www.goodreads.com/book/show/43810112-charms-chapters",
-      "id": "68169873",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1549074406i/43810112.jpg",
+      "title": "Cat's Paws and Curses",
+      "url": "https://www.goodreads.com/book/show/49109960-cat-s-paws-and-curses",
+      "id": "74552511",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575592245i/49109960.jpg",
       "authors": [
-        "Elle Adams"
+        "Nancy Warren"
       ],
       "genres": [
         "mystery",
-        "paranormal",
         "cozy-mystery",
         "fantasy",
-        "witches",
-        "magic",
+        "paranormal",
+        "audiobook",
+        "fiction",
         "vampires"
       ],
-      "rating": 4.29,
-      "ratings": 1592,
-      "reviews": 85
+      "rating": 4.01,
+      "ratings": 1593,
+      "reviews": 121
     },
     {
       "title": "Shearwater",
@@ -306,6 +285,27 @@
       "rating": 4.27,
       "ratings": 1592,
       "reviews": 53
+    },
+    {
+      "title": "Charms & Chapters",
+      "url": "https://www.goodreads.com/book/show/43810112-charms-chapters",
+      "id": "68169873",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1549074406i/43810112.jpg",
+      "authors": [
+        "Elle Adams"
+      ],
+      "genres": [
+        "mystery",
+        "paranormal",
+        "cozy-mystery",
+        "fantasy",
+        "witches",
+        "magic",
+        "vampires"
+      ],
+      "rating": 4.29,
+      "ratings": 1592,
+      "reviews": 85
     },
     {
       "title": "Witchling Academy: Semester Three",
@@ -350,27 +350,6 @@
       "reviews": 164
     },
     {
-      "title": "Steeped in Suspicion",
-      "url": "https://www.goodreads.com/book/show/52871280-steeped-in-suspicion",
-      "id": "79105221",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1585757066i/52871280.jpg",
-      "authors": [
-        "Eryn Scott"
-      ],
-      "genres": [
-        "mystery",
-        "cozy-mystery",
-        "paranormal",
-        "fiction",
-        "contemporary",
-        "ghosts",
-        "fantasy"
-      ],
-      "rating": 4.15,
-      "ratings": 1589,
-      "reviews": 209
-    },
-    {
       "title": "Sins of the Innocent",
       "url": "https://www.goodreads.com/book/show/25625901-sins-of-the-innocent",
       "id": "43324892",
@@ -392,25 +371,25 @@
       "reviews": 162
     },
     {
-      "title": "The Enforcers: Kane",
-      "url": "https://www.goodreads.com/book/show/33518020-the-enforcers",
-      "id": "54280985",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1482200401i/33518020.jpg",
+      "title": "Steeped in Suspicion",
+      "url": "https://www.goodreads.com/book/show/52871280-steeped-in-suspicion",
+      "id": "79105221",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1585757066i/52871280.jpg",
       "authors": [
-        "Anastasia Wilde"
+        "Eryn Scott"
       ],
       "genres": [
+        "mystery",
+        "cozy-mystery",
         "paranormal",
-        "shapeshifters",
-        "romance",
-        "fantasy",
-        "paranormal-romance",
-        "urban-fantasy",
-        "werewolves"
+        "fiction",
+        "contemporary",
+        "ghosts",
+        "fantasy"
       ],
-      "rating": 4.32,
-      "ratings": 1588,
-      "reviews": 142
+      "rating": 4.15,
+      "ratings": 1589,
+      "reviews": 209
     },
     {
       "title": "Discord",
@@ -432,6 +411,27 @@
       "rating": 4.16,
       "ratings": 1588,
       "reviews": 105
+    },
+    {
+      "title": "The Enforcers: Kane",
+      "url": "https://www.goodreads.com/book/show/33518020-the-enforcers",
+      "id": "54280985",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1482200401i/33518020.jpg",
+      "authors": [
+        "Anastasia Wilde"
+      ],
+      "genres": [
+        "paranormal",
+        "shapeshifters",
+        "romance",
+        "fantasy",
+        "paranormal-romance",
+        "urban-fantasy",
+        "werewolves"
+      ],
+      "rating": 4.32,
+      "ratings": 1588,
+      "reviews": 142
     },
     {
       "title": "Cursed Witch",
@@ -475,25 +475,25 @@
       "reviews": 54
     },
     {
-      "title": "On the Prowl",
-      "url": "https://www.goodreads.com/book/show/30839780-on-the-prowl",
-      "id": "51438954",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1467617893i/30839780.jpg",
+      "title": "Broken Curse",
+      "url": "https://www.goodreads.com/book/show/57182012-broken-curse",
+      "id": "89492884",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1614056950i/57182012.jpg",
       "authors": [
-        "Cynthia  Eden"
+        "Jen L. Grey"
       ],
       "genres": [
         "paranormal",
-        "paranormal-romance",
-        "romance",
-        "vampires",
-        "shapeshifters",
         "fantasy",
-        "angels"
+        "shapeshifters",
+        "romance",
+        "paranormal-romance",
+        "werewolves",
+        "contemporary"
       ],
-      "rating": 4.08,
+      "rating": 4.46,
       "ratings": 1587,
-      "reviews": 147
+      "reviews": 100
     }
   ]
 }

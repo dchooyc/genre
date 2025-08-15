@@ -1,6 +1,27 @@
 {
   "books": [
     {
+      "title": "Out of Season",
+      "url": "https://www.goodreads.com/book/show/1978496.Out_of_Season",
+      "id": "1981869",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1312003824i/1978496.jpg",
+      "authors": [
+        "Steven F. Havill"
+      ],
+      "genres": [
+        "mystery",
+        "fiction",
+        "westerns",
+        "mystery-thriller",
+        "audiobook",
+        "crime",
+        "thriller"
+      ],
+      "rating": 4.05,
+      "ratings": 1240,
+      "reviews": 41
+    },
+    {
       "title": "Mayhem and Murder",
       "url": "https://www.goodreads.com/book/show/37771933-mayhem-and-murder",
       "id": "59412412",
@@ -43,27 +64,6 @@
       "reviews": 111
     },
     {
-      "title": "Relight My Fire",
-      "url": "https://www.goodreads.com/book/show/141310699-relight-my-fire",
-      "id": "157118212",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1690113657i/141310699.jpg",
-      "authors": [
-        "C.K. McDonnell"
-      ],
-      "genres": [
-        "fantasy",
-        "paranormal",
-        "urban-fantasy",
-        "mystery",
-        "audiobook",
-        "humor",
-        "fiction"
-      ],
-      "rating": 4.52,
-      "ratings": 1240,
-      "reviews": 207
-    },
-    {
       "title": "To Disguise the Truth",
       "url": "https://www.goodreads.com/book/show/58302929-to-disguise-the-truth",
       "id": "91405644",
@@ -83,100 +83,6 @@
       "rating": 4.32,
       "ratings": 1239,
       "reviews": 273
-    },
-    {
-      "title": "Capital Murder",
-      "url": "https://www.goodreads.com/book/show/57726728-capital-murder",
-      "id": "90370688",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1618291034i/57726728.jpg",
-      "authors": [
-        "Dan Willis"
-      ],
-      "genres": [
-        "fantasy",
-        "urban-fantasy",
-        "mystery",
-        "paranormal",
-        "fiction",
-        "urban",
-        "historical-fiction"
-      ],
-      "rating": 4.65,
-      "ratings": 1239,
-      "reviews": 125
-    },
-    {
-      "title": "One Lie Too Many",
-      "url": "https://www.goodreads.com/book/show/57445645-one-lie-too-many",
-      "id": "89942613",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1616023162i/57445645.jpg",
-      "authors": [
-        "L.A. Dobbs"
-      ],
-      "genres": [
-        "mystery"
-      ],
-      "rating": 4.02,
-      "ratings": 1239,
-      "reviews": 29
-    },
-    {
-      "title": "Girl Under the Ice",
-      "url": "https://www.goodreads.com/book/show/63345771-girl-under-the-ice",
-      "id": "99282162",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1668754998i/63345771.jpg",
-      "authors": [
-        "Georgia Wagner"
-      ],
-      "genres": [
-        "thriller",
-        "mystery"
-      ],
-      "rating": 4.05,
-      "ratings": 1239,
-      "reviews": 33
-    },
-    {
-      "title": "Agent Undercover",
-      "url": "https://www.goodreads.com/book/show/26874494-agent-undercover",
-      "id": "16845239",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1444129208i/26874494.jpg",
-      "authors": [
-        "Lynette Eason"
-      ],
-      "genres": [
-        "christian-fiction",
-        "romance",
-        "christian",
-        "romantic-suspense",
-        "mystery",
-        "love-inspired-suspense",
-        "suspense"
-      ],
-      "rating": 4.24,
-      "ratings": 1239,
-      "reviews": 87
-    },
-    {
-      "title": "Animal",
-      "url": "https://www.goodreads.com/book/show/48922837-animal",
-      "id": "74075782",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1584537407i/48922837.jpg",
-      "authors": [
-        "Ker Dukey"
-      ],
-      "genres": [
-        "dark",
-        "romance",
-        "contemporary",
-        "suspense",
-        "contemporary-romance",
-        "mystery",
-        "motorcycle"
-      ],
-      "rating": 4.08,
-      "ratings": 1239,
-      "reviews": 245
     },
     {
       "title": "The Leper's Bell",
@@ -200,21 +106,40 @@
       "reviews": 71
     },
     {
-      "title": "Rising Warrior",
-      "url": "https://www.goodreads.com/book/show/53531637-rising-warrior",
-      "id": "80029039",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1590628458i/53531637.jpg",
+      "title": "Agent Undercover",
+      "url": "https://www.goodreads.com/book/show/26874494-agent-undercover",
+      "id": "16845239",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1444129208i/26874494.jpg",
       "authors": [
-        "Wayne Stinnett"
+        "Lynette Eason"
       ],
       "genres": [
-        "adventure",
+        "christian-fiction",
+        "romance",
+        "christian",
+        "romantic-suspense",
         "mystery",
-        "fiction"
+        "love-inspired-suspense",
+        "suspense"
       ],
-      "rating": 4.62,
+      "rating": 4.24,
       "ratings": 1239,
-      "reviews": 77
+      "reviews": 87
+    },
+    {
+      "title": "One Lie Too Many",
+      "url": "https://www.goodreads.com/book/show/57445645-one-lie-too-many",
+      "id": "89942613",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1616023162i/57445645.jpg",
+      "authors": [
+        "L.A. Dobbs"
+      ],
+      "genres": [
+        "mystery"
+      ],
+      "rating": 4.02,
+      "ratings": 1239,
+      "reviews": 29
     },
     {
       "title": "Only One Lie",
@@ -238,6 +163,60 @@
       "reviews": 159
     },
     {
+      "title": "Animal",
+      "url": "https://www.goodreads.com/book/show/48922837-animal",
+      "id": "74075782",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1584537407i/48922837.jpg",
+      "authors": [
+        "Ker Dukey"
+      ],
+      "genres": [
+        "dark",
+        "romance",
+        "contemporary",
+        "suspense",
+        "contemporary-romance",
+        "mystery",
+        "motorcycle"
+      ],
+      "rating": 4.08,
+      "ratings": 1239,
+      "reviews": 245
+    },
+    {
+      "title": "Rising Warrior",
+      "url": "https://www.goodreads.com/book/show/53531637-rising-warrior",
+      "id": "80029039",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1590628458i/53531637.jpg",
+      "authors": [
+        "Wayne Stinnett"
+      ],
+      "genres": [
+        "adventure",
+        "mystery",
+        "fiction"
+      ],
+      "rating": 4.62,
+      "ratings": 1239,
+      "reviews": 77
+    },
+    {
+      "title": "Girl Under the Ice",
+      "url": "https://www.goodreads.com/book/show/63345771-girl-under-the-ice",
+      "id": "99282162",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1668754998i/63345771.jpg",
+      "authors": [
+        "Georgia Wagner"
+      ],
+      "genres": [
+        "thriller",
+        "mystery"
+      ],
+      "rating": 4.05,
+      "ratings": 1239,
+      "reviews": 33
+    },
+    {
       "title": "The Crimes of Clearwell Castle",
       "url": "https://www.goodreads.com/book/show/62685865-the-crimes-of-clearwell-castle",
       "id": "98453929",
@@ -259,46 +238,25 @@
       "reviews": 68
     },
     {
-      "title": "Întâlnire cu Thomas Cresswell",
-      "url": "https://www.goodreads.com/book/show/45299375-nt-lnire-cu-thomas-cresswell",
-      "id": "70017277",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1556159875i/45299375.jpg",
+      "title": "Capital Murder",
+      "url": "https://www.goodreads.com/book/show/57726728-capital-murder",
+      "id": "90370688",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1618291034i/57726728.jpg",
       "authors": [
-        "Kerri Maniscalco"
+        "Dan Willis"
       ],
       "genres": [
-        "historical-fiction",
+        "fantasy",
+        "urban-fantasy",
         "mystery",
-        "young-adult",
-        "romance",
-        "historical",
-        "short-stories",
-        "novella"
+        "paranormal",
+        "fiction",
+        "urban",
+        "historical-fiction"
       ],
-      "rating": 4.03,
-      "ratings": 1238,
-      "reviews": 205
-    },
-    {
-      "title": "Nocturnes & Nightmares",
-      "url": "https://www.goodreads.com/book/show/43784253-nocturnes-nightmares",
-      "id": "68117103",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1555943010i/43784253.jpg",
-      "authors": [
-        "Keri Lake"
-      ],
-      "genres": [
-        "dark",
-        "romance",
-        "thriller",
-        "romantic-suspense",
-        "mystery",
-        "suspense",
-        "contemporary-romance"
-      ],
-      "rating": 4.09,
-      "ratings": 1238,
-      "reviews": 223
+      "rating": 4.65,
+      "ratings": 1239,
+      "reviews": 125
     },
     {
       "title": "El incienso de los espíritus",
@@ -343,6 +301,48 @@
       "reviews": 62
     },
     {
+      "title": "Nocturnes & Nightmares",
+      "url": "https://www.goodreads.com/book/show/43784253-nocturnes-nightmares",
+      "id": "68117103",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1555943010i/43784253.jpg",
+      "authors": [
+        "Keri Lake"
+      ],
+      "genres": [
+        "dark",
+        "romance",
+        "thriller",
+        "romantic-suspense",
+        "mystery",
+        "suspense",
+        "contemporary-romance"
+      ],
+      "rating": 4.09,
+      "ratings": 1238,
+      "reviews": 223
+    },
+    {
+      "title": "Întâlnire cu Thomas Cresswell",
+      "url": "https://www.goodreads.com/book/show/45299375-nt-lnire-cu-thomas-cresswell",
+      "id": "70017277",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1556159875i/45299375.jpg",
+      "authors": [
+        "Kerri Maniscalco"
+      ],
+      "genres": [
+        "historical-fiction",
+        "mystery",
+        "young-adult",
+        "romance",
+        "historical",
+        "short-stories",
+        "novella"
+      ],
+      "rating": 4.03,
+      "ratings": 1238,
+      "reviews": 205
+    },
+    {
       "title": "A Side of Murder",
       "url": "https://www.goodreads.com/book/show/53289229-a-side-of-murder",
       "id": "81193306",
@@ -362,26 +362,6 @@
       "rating": 4,
       "ratings": 1238,
       "reviews": 207
-    },
-    {
-      "title": "A Jazzy Little Murder",
-      "url": "https://www.goodreads.com/book/show/44449122-a-jazzy-little-murder",
-      "id": "69030182",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1552811180i/44449122.jpg",
-      "authors": [
-        "Beth Byers"
-      ],
-      "genres": [
-        "mystery",
-        "cozy-mystery",
-        "historical-fiction",
-        "historical-mystery",
-        "historical",
-        "fiction"
-      ],
-      "rating": 4.22,
-      "ratings": 1237,
-      "reviews": 31
     },
     {
       "title": "Rien ne va plus",
@@ -405,6 +385,26 @@
       "reviews": 100
     },
     {
+      "title": "A Jazzy Little Murder",
+      "url": "https://www.goodreads.com/book/show/44449122-a-jazzy-little-murder",
+      "id": "69030182",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1552811180i/44449122.jpg",
+      "authors": [
+        "Beth Byers"
+      ],
+      "genres": [
+        "mystery",
+        "cozy-mystery",
+        "historical-fiction",
+        "historical-mystery",
+        "historical",
+        "fiction"
+      ],
+      "rating": 4.22,
+      "ratings": 1237,
+      "reviews": 31
+    },
+    {
       "title": "The Devereaux Affair",
       "url": "https://www.goodreads.com/book/show/57434993-the-devereaux-affair",
       "id": "89923736",
@@ -426,22 +426,22 @@
       "reviews": 81
     },
     {
-      "title": "Lean Mean Thirteen / Fearless Fourteen / Finger Lickin' Fifteen",
-      "url": "https://www.goodreads.com/book/show/49228236-lean-mean-thirteen-fearless-fourteen-finger-lickin-fifteen",
-      "id": "17378710",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1565688828l/49228236.jpg",
+      "title": "The Body on the Island",
+      "url": "https://www.goodreads.com/book/show/55550769-the-body-on-the-island",
+      "id": "85481960",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1601782238i/55550769.jpg",
       "authors": [
-        "Janet Evanovich"
+        "Nick Louth"
       ],
       "genres": [
+        "crime",
         "mystery",
-        "chick-lit",
         "fiction",
-        "humor"
+        "detective"
       ],
-      "rating": 4.51,
+      "rating": 4.2,
       "ratings": 1236,
-      "reviews": 10
+      "reviews": 77
     },
     {
       "title": "La vida secreta de Úrsula Bas",
@@ -460,23 +460,22 @@
       "reviews": 207
     },
     {
-      "title": "An Italian Secret",
-      "url": "https://www.goodreads.com/book/show/195587990-an-italian-secret",
-      "id": "197373776",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1691141669i/195587990.jpg",
+      "title": "Lean Mean Thirteen / Fearless Fourteen / Finger Lickin' Fifteen",
+      "url": "https://www.goodreads.com/book/show/49228236-lean-mean-thirteen-fearless-fourteen-finger-lickin-fifteen",
+      "id": "17378710",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1565688828l/49228236.jpg",
       "authors": [
-        "Ella Carey"
+        "Janet Evanovich"
       ],
       "genres": [
-        "historical-fiction",
-        "world-war-ii",
-        "historical",
+        "mystery",
+        "chick-lit",
         "fiction",
-        "mystery"
+        "humor"
       ],
-      "rating": 4.38,
+      "rating": 4.51,
       "ratings": 1236,
-      "reviews": 52
+      "reviews": 10
     }
   ]
 }

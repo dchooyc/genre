@@ -1,25 +1,40 @@
 {
   "books": [
     {
-      "title": "Camelot",
-      "url": "https://www.goodreads.com/book/show/51820795-camelot",
-      "id": "71662803",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1569429553l/51820795.jpg",
+      "title": "Fever Coast",
+      "url": "https://www.goodreads.com/book/show/62834105-fever-coast",
+      "id": "98613546",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1664580814i/62834105.jpg",
       "authors": [
-        "Giles Kristian"
+        "Colin Falconer"
+      ],
+      "genres": [
+        "historical-fiction"
+      ],
+      "rating": 4.42,
+      "ratings": 1334,
+      "reviews": 14
+    },
+    {
+      "title": "All the Days Past, All the Days to Come",
+      "url": "https://www.goodreads.com/book/show/49538823-all-the-days-past-all-the-days-to-come",
+      "id": "70173101",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1573873017l/49538823.jpg",
+      "authors": [
+        "Mildred D. Taylor"
       ],
       "genres": [
         "historical-fiction",
-        "fantasy",
-        "arthurian",
-        "historical",
+        "young-adult",
         "fiction",
-        "retellings",
-        "mythology"
+        "historical",
+        "african-american",
+        "audiobook",
+        "family"
       ],
-      "rating": 4.26,
+      "rating": 4.23,
       "ratings": 1334,
-      "reviews": 187
+      "reviews": 259
     },
     {
       "title": "The Secret Agent",
@@ -41,22 +56,6 @@
       "rating": 4.23,
       "ratings": 1334,
       "reviews": 89
-    },
-    {
-      "title": "The Fortune Teller of Kathmandu",
-      "url": "https://www.goodreads.com/book/show/201087761-the-fortune-teller-of-kathmandu",
-      "id": "205973026",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1698710735i/201087761.jpg",
-      "authors": [
-        "Ann Bennett"
-      ],
-      "genres": [
-        "historical-fiction",
-        "india"
-      ],
-      "rating": 4.38,
-      "ratings": 1334,
-      "reviews": 23
     },
     {
       "title": "Miss Desirable",
@@ -99,63 +98,6 @@
       "rating": 4.39,
       "ratings": 1333,
       "reviews": 209
-    },
-    {
-      "title": "Chasing the Earl",
-      "url": "https://www.goodreads.com/book/show/60776338-chasing-the-earl",
-      "id": "95833856",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1649462040i/60776338.jpg",
-      "authors": [
-        "Kathleen Ayers"
-      ],
-      "genres": [
-        "historical-romance",
-        "historical",
-        "romance",
-        "regency",
-        "novella",
-        "adult",
-        "historical-fiction"
-      ],
-      "rating": 4.28,
-      "ratings": 1332,
-      "reviews": 149
-    },
-    {
-      "title": "Tobacco Rose",
-      "url": "https://www.goodreads.com/book/show/59513931-tobacco-rose",
-      "id": "93679137",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1635789855i/59513931.jpg",
-      "authors": [
-        "Florence Love Karsner"
-      ],
-      "genres": [
-        "historical-fiction"
-      ],
-      "rating": 4.32,
-      "ratings": 1332,
-      "reviews": 35
-    },
-    {
-      "title": "Men in Green Faces",
-      "url": "https://www.goodreads.com/book/show/16002056-men-in-green-faces",
-      "id": "1012243",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1350328130i/16002056.jpg",
-      "authors": [
-        "Gene Wentz"
-      ],
-      "genres": [
-        "military-fiction",
-        "fiction",
-        "war",
-        "historical-fiction",
-        "military-history",
-        "audiobook",
-        "adventure"
-      ],
-      "rating": 4.33,
-      "ratings": 1332,
-      "reviews": 75
     },
     {
       "title": "Vagabond Vol. 30",
@@ -221,6 +163,78 @@
       "reviews": 105
     },
     {
+      "title": "Tobacco Rose",
+      "url": "https://www.goodreads.com/book/show/59513931-tobacco-rose",
+      "id": "93679137",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1635789855i/59513931.jpg",
+      "authors": [
+        "Florence Love Karsner"
+      ],
+      "genres": [
+        "historical-fiction"
+      ],
+      "rating": 4.32,
+      "ratings": 1332,
+      "reviews": 35
+    },
+    {
+      "title": "Chasing the Earl",
+      "url": "https://www.goodreads.com/book/show/60776338-chasing-the-earl",
+      "id": "95833856",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1649462040i/60776338.jpg",
+      "authors": [
+        "Kathleen Ayers"
+      ],
+      "genres": [
+        "historical-romance",
+        "historical",
+        "romance",
+        "regency",
+        "novella",
+        "adult",
+        "historical-fiction"
+      ],
+      "rating": 4.28,
+      "ratings": 1332,
+      "reviews": 149
+    },
+    {
+      "title": "Men in Green Faces",
+      "url": "https://www.goodreads.com/book/show/16002056-men-in-green-faces",
+      "id": "1012243",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1350328130i/16002056.jpg",
+      "authors": [
+        "Gene Wentz"
+      ],
+      "genres": [
+        "military-fiction",
+        "fiction",
+        "war",
+        "historical-fiction",
+        "military-history",
+        "audiobook",
+        "adventure"
+      ],
+      "rating": 4.33,
+      "ratings": 1332,
+      "reviews": 75
+    },
+    {
+      "title": "The Ambulance Girl",
+      "url": "https://www.goodreads.com/book/show/51006056-the-ambulance-girl",
+      "id": "75855018",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1580924694i/51006056.jpg",
+      "authors": [
+        "Tania Crosse"
+      ],
+      "genres": [
+        "historical-fiction"
+      ],
+      "rating": 4.3,
+      "ratings": 1331,
+      "reviews": 22
+    },
+    {
       "title": "The Assyrian",
       "url": "https://www.goodreads.com/book/show/311497.The_Assyrian",
       "id": "302423",
@@ -240,21 +254,6 @@
       "rating": 4.25,
       "ratings": 1331,
       "reviews": 117
-    },
-    {
-      "title": "The Ambulance Girl",
-      "url": "https://www.goodreads.com/book/show/51006056-the-ambulance-girl",
-      "id": "75855018",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1580924694i/51006056.jpg",
-      "authors": [
-        "Tania Crosse"
-      ],
-      "genres": [
-        "historical-fiction"
-      ],
-      "rating": 4.3,
-      "ratings": 1331,
-      "reviews": 22
     },
     {
       "title": "A Ration Book Wedding",
@@ -336,69 +335,6 @@
       "reviews": 164
     },
     {
-      "title": "The End of the Battle",
-      "url": "https://www.goodreads.com/book/show/600834.The_End_of_the_Battle",
-      "id": "2179652",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1344268291i/600834.jpg",
-      "authors": [
-        "Evelyn Waugh"
-      ],
-      "genres": [
-        "fiction",
-        "classics",
-        "war",
-        "historical-fiction",
-        "british-literature",
-        "literature",
-        "novels"
-      ],
-      "rating": 4.05,
-      "ratings": 1329,
-      "reviews": 115
-    },
-    {
-      "title": "In Dreams Forgotten",
-      "url": "https://www.goodreads.com/book/show/36347510-in-dreams-forgotten",
-      "id": "58028724",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1510074926i/36347510.jpg",
-      "authors": [
-        "Tracie Peterson"
-      ],
-      "genres": [
-        "christian-fiction",
-        "historical-fiction",
-        "fiction",
-        "romance",
-        "historical",
-        "christian",
-        "historical-romance"
-      ],
-      "rating": 4.39,
-      "ratings": 1329,
-      "reviews": 96
-    },
-    {
-      "title": "Mendelssohn is on the Roof",
-      "url": "https://www.goodreads.com/book/show/1188126.Mendelssohn_is_on_the_Roof",
-      "id": "1176115",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348597705i/1188126.jpg",
-      "authors": [
-        "Jiří Weil"
-      ],
-      "genres": [
-        "fiction",
-        "historical-fiction",
-        "czech-literature",
-        "holocaust",
-        "war",
-        "world-war-ii",
-        "literature"
-      ],
-      "rating": 4.09,
-      "ratings": 1329,
-      "reviews": 149
-    },
-    {
       "title": "Once Upon a Summer Night",
       "url": "https://www.goodreads.com/book/show/53934760-once-upon-a-summer-night",
       "id": "47170569",
@@ -441,6 +377,69 @@
       "reviews": 75
     },
     {
+      "title": "Mendelssohn is on the Roof",
+      "url": "https://www.goodreads.com/book/show/1188126.Mendelssohn_is_on_the_Roof",
+      "id": "1176115",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348597705i/1188126.jpg",
+      "authors": [
+        "Jiří Weil"
+      ],
+      "genres": [
+        "fiction",
+        "historical-fiction",
+        "czech-literature",
+        "holocaust",
+        "war",
+        "world-war-ii",
+        "literature"
+      ],
+      "rating": 4.09,
+      "ratings": 1329,
+      "reviews": 149
+    },
+    {
+      "title": "In Dreams Forgotten",
+      "url": "https://www.goodreads.com/book/show/36347510-in-dreams-forgotten",
+      "id": "58028724",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1510074926i/36347510.jpg",
+      "authors": [
+        "Tracie Peterson"
+      ],
+      "genres": [
+        "christian-fiction",
+        "historical-fiction",
+        "fiction",
+        "romance",
+        "historical",
+        "christian",
+        "historical-romance"
+      ],
+      "rating": 4.39,
+      "ratings": 1329,
+      "reviews": 96
+    },
+    {
+      "title": "The End of the Battle",
+      "url": "https://www.goodreads.com/book/show/600834.The_End_of_the_Battle",
+      "id": "2179652",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1344268291i/600834.jpg",
+      "authors": [
+        "Evelyn Waugh"
+      ],
+      "genres": [
+        "fiction",
+        "classics",
+        "war",
+        "historical-fiction",
+        "british-literature",
+        "literature",
+        "novels"
+      ],
+      "rating": 4.05,
+      "ratings": 1329,
+      "reviews": 115
+    },
+    {
       "title": "The Seamstress",
       "url": "https://www.goodreads.com/book/show/42403768-the-seamstress",
       "id": "66091082",
@@ -462,25 +461,25 @@
       "reviews": 70
     },
     {
-      "title": "The Bishop's Tale",
-      "url": "https://www.goodreads.com/book/show/185646.The_Bishop_s_Tale",
-      "id": "179444",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1387713143i/185646.jpg",
+      "title": "Mary Magdalene",
+      "url": "https://www.goodreads.com/book/show/12970261-mary-magdalene",
+      "id": "18128510",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347352462i/12970261.jpg",
       "authors": [
-        "Margaret Frazer"
+        "Diana Wallis Taylor"
       ],
       "genres": [
-        "mystery",
+        "biblical-fiction",
         "historical-fiction",
-        "historical-mystery",
-        "historical",
+        "christian-fiction",
         "fiction",
-        "medieval",
-        "crime"
+        "christian",
+        "historical",
+        "biblical"
       ],
-      "rating": 4.09,
+      "rating": 4.13,
       "ratings": 1328,
-      "reviews": 56
+      "reviews": 154
     }
   ]
 }

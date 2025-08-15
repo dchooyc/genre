@@ -1,25 +1,25 @@
 {
   "books": [
     {
-      "title": "Mort Cinder",
-      "url": "https://www.goodreads.com/book/show/1612733.Mort_Cinder",
-      "id": "1606495",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1259656972i/1612733.jpg",
+      "title": "Hellblazer: Roots of Coincidence",
+      "url": "https://www.goodreads.com/book/show/5509441-hellblazer",
+      "id": "5617859",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1329336526i/5509441.jpg",
       "authors": [
-        "Héctor Germán Oesterheld"
+        "Andy Diggle"
       ],
       "genres": [
-        "graphic-novels",
         "comics",
-        "bande-dessin%C3%A9e",
-        "fantasy",
+        "graphic-novels",
         "horror",
-        "science-fiction",
-        "graphic-novels-comics"
+        "graphic-novels-comics",
+        "fantasy",
+        "fiction",
+        "comic-book"
       ],
-      "rating": 4.27,
+      "rating": 4.1,
       "ratings": 808,
-      "reviews": 80
+      "reviews": 25
     },
     {
       "title": "Strung III: The Last Drop",
@@ -58,6 +58,26 @@
       "reviews": 144
     },
     {
+      "title": "Dark Carousel",
+      "url": "https://www.goodreads.com/book/show/49852641-dark-carousel",
+      "id": "61511776",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1567484138l/49852641.jpg",
+      "authors": [
+        "Joe Hill"
+      ],
+      "genres": [
+        "horror",
+        "short-stories",
+        "fiction",
+        "fantasy",
+        "thriller",
+        "dark-fantasy"
+      ],
+      "rating": 4.16,
+      "ratings": 806,
+      "reviews": 83
+    },
+    {
       "title": "Fantasteen: Lucid Dream",
       "url": "https://www.goodreads.com/book/show/22926237-fantasteen",
       "id": "42495451",
@@ -77,26 +97,6 @@
       "rating": 4.26,
       "ratings": 806,
       "reviews": 177
-    },
-    {
-      "title": "Dark Carousel",
-      "url": "https://www.goodreads.com/book/show/49852641-dark-carousel",
-      "id": "61511776",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1567484138l/49852641.jpg",
-      "authors": [
-        "Joe Hill"
-      ],
-      "genres": [
-        "horror",
-        "short-stories",
-        "fiction",
-        "fantasy",
-        "thriller",
-        "dark-fantasy"
-      ],
-      "rating": 4.16,
-      "ratings": 806,
-      "reviews": 83
     },
     {
       "title": "The Undead Twenty Five: The Heat",
@@ -194,48 +194,6 @@
       "reviews": 44
     },
     {
-      "title": "Alien vs. Predator: Armageddon",
-      "url": "https://www.goodreads.com/book/show/28439467-alien-vs-predator",
-      "id": "48558545",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1464409162i/28439467.jpg",
-      "authors": [
-        "Tim Lebbon"
-      ],
-      "genres": [
-        "science-fiction",
-        "aliens",
-        "horror",
-        "fiction",
-        "audiobook",
-        "media-tie-in",
-        "science-fiction-fantasy"
-      ],
-      "rating": 4,
-      "ratings": 803,
-      "reviews": 75
-    },
-    {
-      "title": "Mindless",
-      "url": "https://www.goodreads.com/book/show/56427890-mindless",
-      "id": "87994811",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1609026063i/56427890.jpg",
-      "authors": [
-        "Keith C. Blackmore"
-      ],
-      "genres": [
-        "horror",
-        "zombies",
-        "post-apocalyptic",
-        "audiobook",
-        "fiction",
-        "dystopia",
-        "science-fiction"
-      ],
-      "rating": 4.47,
-      "ratings": 803,
-      "reviews": 62
-    },
-    {
       "title": "The Haunting of Coyote Island",
       "url": "https://www.goodreads.com/book/show/53921723-the-haunting-of-coyote-island",
       "id": "84279049",
@@ -275,6 +233,48 @@
       "rating": 4.01,
       "ratings": 803,
       "reviews": 85
+    },
+    {
+      "title": "Mindless",
+      "url": "https://www.goodreads.com/book/show/56427890-mindless",
+      "id": "87994811",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1609026063i/56427890.jpg",
+      "authors": [
+        "Keith C. Blackmore"
+      ],
+      "genres": [
+        "horror",
+        "zombies",
+        "post-apocalyptic",
+        "audiobook",
+        "fiction",
+        "dystopia",
+        "science-fiction"
+      ],
+      "rating": 4.47,
+      "ratings": 803,
+      "reviews": 62
+    },
+    {
+      "title": "Alien vs. Predator: Armageddon",
+      "url": "https://www.goodreads.com/book/show/28439467-alien-vs-predator",
+      "id": "48558545",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1464409162i/28439467.jpg",
+      "authors": [
+        "Tim Lebbon"
+      ],
+      "genres": [
+        "science-fiction",
+        "aliens",
+        "horror",
+        "fiction",
+        "audiobook",
+        "media-tie-in",
+        "science-fiction-fantasy"
+      ],
+      "rating": 4,
+      "ratings": 803,
+      "reviews": 75
     },
     {
       "title": "The Dark Tower: The Sorcerer #1",
@@ -361,27 +361,6 @@
       "reviews": 87
     },
     {
-      "title": "The Perfect Betrayal",
-      "url": "https://www.goodreads.com/book/show/48713156-the-perfect-betrayal",
-      "id": "74068643",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1572977462i/48713156.jpg",
-      "authors": [
-        "Mark Tufo"
-      ],
-      "genres": [
-        "zombies",
-        "horror",
-        "audiobook",
-        "post-apocalyptic",
-        "vampires",
-        "fiction",
-        "military-fiction"
-      ],
-      "rating": 4.61,
-      "ratings": 799,
-      "reviews": 51
-    },
-    {
       "title": "Alice in Borderland, vol. 7",
       "url": "https://www.goodreads.com/book/show/74964416-alice-in-borderland-vol-7",
       "id": "127704121",
@@ -403,25 +382,25 @@
       "reviews": 59
     },
     {
-      "title": "L'Appel de Cthulhu",
-      "url": "https://www.goodreads.com/book/show/55437956-l-appel-de-cthulhu",
-      "id": "86450427",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1600897859i/55437956.jpg",
+      "title": "The Perfect Betrayal",
+      "url": "https://www.goodreads.com/book/show/48713156-the-perfect-betrayal",
+      "id": "74068643",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1572977462i/48713156.jpg",
       "authors": [
-        "Gou Tanabe"
+        "Mark Tufo"
       ],
       "genres": [
-        "manga",
+        "zombies",
         "horror",
-        "comics",
-        "graphic-novels",
-        "lovecraftian",
-        "fantasy",
-        "bande-dessin%C3%A9e"
+        "audiobook",
+        "post-apocalyptic",
+        "vampires",
+        "fiction",
+        "military-fiction"
       ],
-      "rating": 4.29,
-      "ratings": 798,
-      "reviews": 89
+      "rating": 4.61,
+      "ratings": 799,
+      "reviews": 51
     },
     {
       "title": "Zero",
@@ -445,6 +424,27 @@
       "reviews": 68
     },
     {
+      "title": "L'Appel de Cthulhu",
+      "url": "https://www.goodreads.com/book/show/55437956-l-appel-de-cthulhu",
+      "id": "86450427",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1600897859i/55437956.jpg",
+      "authors": [
+        "Gou Tanabe"
+      ],
+      "genres": [
+        "manga",
+        "horror",
+        "comics",
+        "graphic-novels",
+        "lovecraftian",
+        "fantasy",
+        "bande-dessin%C3%A9e"
+      ],
+      "rating": 4.29,
+      "ratings": 798,
+      "reviews": 89
+    },
+    {
       "title": "Once & Future, Vol. 5: The Wasteland",
       "url": "https://www.goodreads.com/book/show/61273399-once-future-vol-5",
       "id": "96612081",
@@ -466,25 +466,25 @@
       "reviews": 118
     },
     {
-      "title": "B.P.R.D. Hell on Earth, Vol. 4: The Devil's Engine & The Long Death",
-      "url": "https://www.goodreads.com/book/show/15757817-b-p-r-d-hell-on-earth-vol-4",
-      "id": "21456332",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1342614589i/15757817.jpg",
+      "title": "Domy i inne duchy",
+      "url": "https://www.goodreads.com/book/show/57216425-domy-i-inne-duchy",
+      "id": "89551302",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1614361555i/57216425.jpg",
       "authors": [
-        "Mike Mignola"
+        "Marta Bijan"
       ],
       "genres": [
-        "comics",
-        "graphic-novels",
         "horror",
-        "fantasy",
-        "comic-book",
-        "graphic-novels-comics",
-        "fiction"
+        "short-stories",
+        "polish-literature",
+        "stories",
+        "magical-realism",
+        "fiction",
+        "short-story-collection"
       ],
-      "rating": 4.07,
+      "rating": 4.02,
       "ratings": 797,
-      "reviews": 78
+      "reviews": 249
     }
   ]
 }

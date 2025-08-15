@@ -1,44 +1,480 @@
 {
   "books": [
     {
-      "title": "Bachelor Unbound",
-      "url": "https://www.goodreads.com/book/show/38087387-bachelor-unbound",
-      "id": "59755040",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1568804121i/38087387.jpg",
+      "title": "For Baby and Me",
+      "url": "https://www.goodreads.com/book/show/41858987-for-baby-and-me",
+      "id": "15330968",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1537139912i/41858987.jpg",
+      "authors": [
+        "Margaret Watson"
+      ],
+      "genres": [
+        "romance",
+        "contemporary",
+        "contemporary-romance",
+        "harlequin"
+      ],
+      "rating": 4.22,
+      "ratings": 790,
+      "reviews": 48
+    },
+    {
+      "title": "Steel Resolve",
+      "url": "https://www.goodreads.com/book/show/42641425-steel-resolve",
+      "id": "66374528",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1551799999i/42641425.jpg",
+      "authors": [
+        "B.J. Daniels"
+      ],
+      "genres": [
+        "romance",
+        "romantic-suspense",
+        "mystery",
+        "contemporary",
+        "harlequin",
+        "westerns",
+        "adult"
+      ],
+      "rating": 4.14,
+      "ratings": 780,
+      "reviews": 171
+    },
+    {
+      "title": "A Crown for a Lady",
+      "url": "https://www.goodreads.com/book/show/52338085-a-crown-for-a-lady",
+      "id": "1420607",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1566602584l/52338085.jpg",
+      "authors": [
+        "Tanya Anne Crosby"
+      ],
+      "genres": [
+        "historical-romance",
+        "romance",
+        "historical",
+        "regency",
+        "fiction",
+        "harlequin",
+        "amazon"
+      ],
+      "rating": 4.39,
+      "ratings": 762,
+      "reviews": 50
+    },
+    {
+      "title": "Star Valley Winter",
+      "url": "https://www.goodreads.com/book/show/42929820-star-valley-winter",
+      "id": "2780225",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1542899899i/42929820.jpg",
+      "authors": [
+        "RaeAnne Thayne"
+      ],
+      "genres": [
+        "romance",
+        "contemporary-romance",
+        "harlequin",
+        "mystery",
+        "contemporary",
+        "audiobook",
+        "romantic-suspense"
+      ],
+      "rating": 4.17,
+      "ratings": 753,
+      "reviews": 71
+    },
+    {
+      "title": "Mystery Man",
+      "url": "https://www.goodreads.com/book/show/1935518.Mystery_Man",
+      "id": "57524",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1190568473i/1935518.jpg",
+      "authors": [
+        "Diana Palmer"
+      ],
+      "genres": [
+        "romance",
+        "harlequin",
+        "fiction"
+      ],
+      "rating": 4.05,
+      "ratings": 751,
+      "reviews": 27
+    },
+    {
+      "title": "Dearest Love",
+      "url": "https://www.goodreads.com/book/show/2065872.Dearest_Love",
+      "id": "1965567",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1224463737i/2065872.jpg",
+      "authors": [
+        "Betty Neels"
+      ],
+      "genres": [
+        "romance",
+        "harlequin",
+        "contemporary-romance",
+        "harlequin-romance",
+        "clean-romance",
+        "hqn",
+        "fiction"
+      ],
+      "rating": 4.09,
+      "ratings": 747,
+      "reviews": 59
+    },
+    {
+      "title": "Fully Involved",
+      "url": "https://www.goodreads.com/book/show/53338629-fully-involved",
+      "id": "13114064",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1588753175i/53338629.jpg",
+      "authors": [
+        "Amy Knupp"
+      ],
+      "genres": [
+        "romance",
+        "contemporary",
+        "contemporary-romance",
+        "firefighters",
+        "amazon",
+        "small-town-romance",
+        "harlequin"
+      ],
+      "rating": 4.14,
+      "ratings": 739,
+      "reviews": 52
+    },
+    {
+      "title": "Homicide at Whiskey Gulch",
+      "url": "https://www.goodreads.com/book/show/55127219-homicide-at-whiskey-gulch",
+      "id": "85939620",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1603917069i/55127219.jpg",
+      "authors": [
+        "Elle James"
+      ],
+      "genres": [
+        "harlequin",
+        "romantic-suspense",
+        "romance",
+        "suspense"
+      ],
+      "rating": 4.43,
+      "ratings": 721,
+      "reviews": 64
+    },
+    {
+      "title": "Justice at Cardwell Ranch",
+      "url": "https://www.goodreads.com/book/show/13706806-justice-at-cardwell-ranch",
+      "id": "19339331",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1344413528i/13706806.jpg",
+      "authors": [
+        "B.J. Daniels"
+      ],
+      "genres": [
+        "romance",
+        "mystery",
+        "westerns",
+        "suspense",
+        "romantic-suspense",
+        "harlequin",
+        "contemporary"
+      ],
+      "rating": 4.21,
+      "ratings": 720,
+      "reviews": 65
+    },
+    {
+      "title": "I Wanna Dance",
+      "url": "https://www.goodreads.com/book/show/223133709-i-wanna-dance",
+      "id": "230186902",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1735651880i/223133709.jpg",
+      "authors": [
+        "Maya Alden"
+      ],
+      "genres": [
+        "novella",
+        "romance",
+        "contemporary",
+        "contemporary-romance",
+        "friends-to-lovers",
+        "second-chance",
+        "harlequin"
+      ],
+      "rating": 4.08,
+      "ratings": 719,
+      "reviews": 123
+    },
+    {
+      "title": "Trail of Danger",
+      "url": "https://www.goodreads.com/book/show/44130624-trail-of-danger",
+      "id": "68009856",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1556582564i/44130624.jpg",
+      "authors": [
+        "Valerie Hansen"
+      ],
+      "genres": [
+        "romance",
+        "christian-fiction",
+        "love-inspired-suspense",
+        "mystery",
+        "suspense",
+        "romantic-suspense",
+        "harlequin"
+      ],
+      "rating": 4.45,
+      "ratings": 714,
+      "reviews": 51
+    },
+    {
+      "title": "Seduced by a Steele",
+      "url": "https://www.goodreads.com/book/show/48510130-seduced-by-a-steele",
+      "id": "74939570",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1583786995i/48510130.jpg",
       "authors": [
         "Brenda Jackson"
       ],
       "genres": [
         "romance",
         "harlequin",
-        "adult",
-        "fiction",
-        "contemporary"
+        "contemporary",
+        "contemporary-romance"
       ],
-      "rating": 4.43,
-      "ratings": 507,
-      "reviews": 74
+      "rating": 4.46,
+      "ratings": 711,
+      "reviews": 121
     },
     {
-      "title": "Wrangled",
-      "url": "https://www.goodreads.com/book/show/18881392-wrangled",
-      "id": "18465064",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1385090363i/18881392.jpg",
+      "title": "Secret Agent Man",
+      "url": "https://www.goodreads.com/book/show/256904.Secret_Agent_Man",
+      "id": "248990",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388899125i/256904.jpg",
+      "authors": [
+        "Diana Palmer"
+      ],
+      "genres": [
+        "romance",
+        "contemporary-romance",
+        "contemporary",
+        "suspense",
+        "second-chance",
+        "harlequin"
+      ],
+      "rating": 4.07,
+      "ratings": 711,
+      "reviews": 22
+    },
+    {
+      "title": "Renegade's Pride",
+      "url": "https://www.goodreads.com/book/show/31394310-renegade-s-pride",
+      "id": "52087236",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1475738211i/31394310.jpg",
       "authors": [
         "B.J. Daniels"
       ],
       "genres": [
         "romance",
-        "westerns",
+        "mystery",
         "romantic-suspense",
+        "westerns",
+        "suspense",
         "western-romance",
+        "harlequin"
+      ],
+      "rating": 4.26,
+      "ratings": 707,
+      "reviews": 88
+    },
+    {
+      "title": "Beth and the Bachelor",
+      "url": "https://www.goodreads.com/book/show/24380105-beth-and-the-bachelor",
+      "id": "588534",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1427187275i/24380105.jpg",
+      "authors": [
+        "Susan Mallery"
+      ],
+      "genres": [
+        "romance",
+        "contemporary-romance",
+        "chick-lit",
+        "harlequin"
+      ],
+      "rating": 4.05,
+      "ratings": 701,
+      "reviews": 29
+    },
+    {
+      "title": "The Nanny's Secret",
+      "url": "https://www.goodreads.com/book/show/48722974-the-nanny-s-secret",
+      "id": "6956343",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1573082091i/48722974.jpg",
+      "authors": [
+        "Kay Stockham"
+      ],
+      "genres": [
+        "romance",
+        "contemporary-romance",
+        "harlequin",
+        "contemporary",
+        "amazon",
+        "category-romance",
+        "medical"
+      ],
+      "rating": 4.24,
+      "ratings": 698,
+      "reviews": 40
+    },
+    {
+      "title": "Texas Proud",
+      "url": "https://www.goodreads.com/book/show/53612572-texas-proud",
+      "id": "70531295",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1594357114i/53612572.jpg",
+      "authors": [
+        "Diana Palmer"
+      ],
+      "genres": [
+        "romance",
+        "harlequin",
+        "contemporary-romance",
+        "suspense"
+      ],
+      "rating": 4.16,
+      "ratings": 697,
+      "reviews": 44
+    },
+    {
+      "title": "This Baby Business",
+      "url": "https://www.goodreads.com/book/show/125433370-this-baby-business",
+      "id": "56747912",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1680735468i/125433370.jpg",
+      "authors": [
+        "Heatherly Bell"
+      ],
+      "genres": [
+        "romance",
+        "contemporary",
+        "harlequin",
+        "amazon",
+        "contemporary-romance"
+      ],
+      "rating": 4.2,
+      "ratings": 695,
+      "reviews": 80
+    },
+    {
+      "title": "Branded",
+      "url": "https://www.goodreads.com/book/show/11159401-branded",
+      "id": "15312083",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328330477i/11159401.jpg",
+      "authors": [
+        "B.J. Daniels"
+      ],
+      "genres": [
+        "romance",
+        "romantic-suspense",
+        "westerns",
         "harlequin",
         "mystery",
-        "contemporary"
+        "suspense",
+        "contemporary-romance"
       ],
-      "rating": 4.42,
-      "ratings": 505,
-      "reviews": 38
+      "rating": 4.32,
+      "ratings": 694,
+      "reviews": 36
+    },
+    {
+      "title": "Second Time's the Charm",
+      "url": "https://www.goodreads.com/book/show/63035491-second-time-s-the-charm",
+      "id": "97996776",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1682394692i/63035491.jpg",
+      "authors": [
+        "Brenda Jackson"
+      ],
+      "genres": [
+        "romance",
+        "contemporary",
+        "second-chance",
+        "harlequin"
+      ],
+      "rating": 4.62,
+      "ratings": 677,
+      "reviews": 82
+    },
+    {
+      "title": "Christmas Ransom",
+      "url": "https://www.goodreads.com/book/show/60749403-christmas-ransom",
+      "id": "95846155",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1660054525i/60749403.jpg",
+      "authors": [
+        "B.J. Daniels"
+      ],
+      "genres": [
+        "romance",
+        "harlequin",
+        "christmas",
+        "romantic-suspense",
+        "mystery",
+        "adult",
+        "suspense"
+      ],
+      "rating": 4.44,
+      "ratings": 673,
+      "reviews": 72
+    },
+    {
+      "title": "Born in a Small Town",
+      "url": "https://www.goodreads.com/book/show/10159173-born-in-a-small-town",
+      "id": "683090",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328305339i/10159173.jpg",
+      "authors": [
+        "Debbie Macomber"
+      ],
+      "genres": [
+        "romance",
+        "anthologies",
+        "harlequin",
+        "category-romance",
+        "contemporary-romance",
+        "fiction"
+      ],
+      "rating": 4.03,
+      "ratings": 672,
+      "reviews": 22
+    },
+    {
+      "title": "Silent Night Man",
+      "url": "https://www.goodreads.com/book/show/27417262-silent-night-man",
+      "id": "47466515",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1449017772i/27417262.jpg",
+      "authors": [
+        "Diana Palmer"
+      ],
+      "genres": [
+        "romance",
+        "harlequin",
+        "christmas",
+        "contemporary-romance",
+        "romantic-suspense"
+      ],
+      "rating": 4.03,
+      "ratings": 664,
+      "reviews": 27
+    },
+    {
+      "title": "Royal's Child",
+      "url": "https://www.goodreads.com/book/show/602051.Royal_s_Child",
+      "id": "3285998",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1313417558i/602051.jpg",
+      "authors": [
+        "Sharon Sala"
+      ],
+      "genres": [
+        "romance",
+        "harlequin",
+        "romantic-suspense",
+        "contemporary-romance",
+        "suspense",
+        "contemporary",
+        "paranormal"
+      ],
+      "rating": 4.26,
+      "ratings": 659,
+      "reviews": 27
     }
   ]
 }

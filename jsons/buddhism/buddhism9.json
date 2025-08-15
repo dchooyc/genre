@@ -1,6 +1,27 @@
 {
   "books": [
     {
+      "title": "Walking Each Other Home: Conversations on Loving and Dying",
+      "url": "https://www.goodreads.com/book/show/39346786-walking-each-other-home",
+      "id": "60997277",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1521731298i/39346786.jpg",
+      "authors": [
+        "Ram Dass"
+      ],
+      "genres": [
+        "non-fiction",
+        "spirituality",
+        "death",
+        "grief",
+        "philosophy",
+        "self-help",
+        "buddhism"
+      ],
+      "rating": 4.45,
+      "ratings": 1264,
+      "reviews": 132
+    },
+    {
       "title": "The Embodied Mind: Cognitive Science and Human Experience",
       "url": "https://www.goodreads.com/book/show/243436.The_Embodied_Mind",
       "id": "723122",
@@ -17,30 +38,9 @@
         "buddhism",
         "evolution"
       ],
-      "rating": 4.13,
-      "ratings": 1195,
-      "reviews": 68
-    },
-    {
-      "title": "Osho Zen Tarot",
-      "url": "https://www.goodreads.com/book/show/4289305-osho-zen-tarot",
-      "id": "6499387",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1311999676i/4289305.jpg",
-      "authors": [
-        "Osho"
-      ],
-      "genres": [
-        "tarot",
-        "spirituality",
-        "non-fiction",
-        "divination",
-        "philosophy",
-        "religion",
-        "buddhism"
-      ],
-      "rating": 4.41,
-      "ratings": 1190,
-      "reviews": 66
+      "rating": 4.14,
+      "ratings": 1259,
+      "reviews": 77
     },
     {
       "title": "Breathe! You Are Alive: Sutra on the Full Awareness of Breathing",
@@ -53,36 +53,246 @@
       "genres": [
         "buddhism",
         "spirituality",
+        "meditation",
         "non-fiction",
         "religion",
         "philosophy",
-        "zen",
-        "self-help"
+        "zen"
       ],
-      "rating": 4.33,
-      "ratings": 1185,
-      "reviews": 69
+      "rating": 4.32,
+      "ratings": 1258,
+      "reviews": 71
     },
     {
-      "title": "In My Own Way: An Autobiography",
-      "url": "https://www.goodreads.com/book/show/581526.In_My_Own_Way",
-      "id": "568413",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1391749942i/581526.jpg",
+      "title": "How Can I Help?: Stories and Reflections on Service",
+      "url": "https://www.goodreads.com/book/show/95713.How_Can_I_Help_",
+      "id": "92249",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1630674230i/95713.jpg",
       "authors": [
-        "Alan Watts"
+        "Ram Dass"
       ],
       "genres": [
-        "biography",
+        "spirituality",
+        "non-fiction",
+        "psychology",
+        "self-help",
+        "buddhism",
         "philosophy",
+        "religion"
+      ],
+      "rating": 4.2,
+      "ratings": 1250,
+      "reviews": 95
+    },
+    {
+      "title": "The Teaching of Buddha",
+      "url": "https://www.goodreads.com/book/show/1621249.The_Teaching_of_Buddha",
+      "id": "41788251",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1345064472i/1621249.jpg",
+      "authors": [
+        "Bukkyo Dendo Kyokai"
+      ],
+      "genres": [
+        "religion",
+        "philosophy",
+        "buddhism",
         "non-fiction",
         "spirituality",
-        "autobiography",
-        "memoir",
-        "buddhism"
+        "reference",
+        "history"
       ],
-      "rating": 4.19,
-      "ratings": 1182,
-      "reviews": 101
+      "rating": 4,
+      "ratings": 1236,
+      "reviews": 135
+    },
+    {
+      "title": "Tantra: The Supreme Understanding - Discourses on the Tantric Way of Tilopa's Song of Mahamudra",
+      "url": "https://www.goodreads.com/book/show/131390.Tantra",
+      "id": "126538",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1254131901i/131390.jpg",
+      "authors": [
+        "Osho"
+      ],
+      "genres": [
+        "spirituality",
+        "philosophy",
+        "non-fiction",
+        "religion",
+        "sexuality",
+        "buddhism",
+        "psychology"
+      ],
+      "rating": 4.33,
+      "ratings": 1236,
+      "reviews": 67
+    },
+    {
+      "title": "Be Free Where You Are",
+      "url": "https://www.goodreads.com/book/show/95746.Be_Free_Where_You_Are",
+      "id": "2314958",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328698096i/95746.jpg",
+      "authors": [
+        "Thich Nhat Hanh"
+      ],
+      "genres": [
+        "buddhism",
+        "non-fiction",
+        "spirituality",
+        "philosophy",
+        "self-help",
+        "religion",
+        "meditation"
+      ],
+      "rating": 4.45,
+      "ratings": 1231,
+      "reviews": 96
+    },
+    {
+      "title": "Emotional Awareness: Overcoming the Obstacles to Psychological Balance and Compassion",
+      "url": "https://www.goodreads.com/book/show/3084431-emotional-awareness",
+      "id": "3115496",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1312034206i/3084431.jpg",
+      "authors": [
+        "Dalai Lama XIV"
+      ],
+      "genres": [
+        "psychology",
+        "buddhism",
+        "non-fiction",
+        "spirituality",
+        "philosophy",
+        "self-help",
+        "religion"
+      ],
+      "rating": 4.07,
+      "ratings": 1229,
+      "reviews": 123
+    },
+    {
+      "title": "How to Train a Wild Elephant: And Other Adventures in Mindfulness",
+      "url": "https://www.goodreads.com/book/show/10479419-how-to-train-a-wild-elephant",
+      "id": "15384815",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320565879i/10479419.jpg",
+      "authors": [
+        "Jan Chozen Bays"
+      ],
+      "genres": [
+        "non-fiction",
+        "self-help",
+        "psychology",
+        "buddhism",
+        "meditation",
+        "spirituality",
+        "health"
+      ],
+      "rating": 4.04,
+      "ratings": 1226,
+      "reviews": 122
+    },
+    {
+      "title": "The Gateless Gate: The Classic Book of Zen Koans",
+      "url": "https://www.goodreads.com/book/show/769888.The_Gateless_Gate",
+      "id": "755952",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1563000882i/769888.jpg",
+      "authors": [
+        "Wumen Huikai"
+      ],
+      "genres": [
+        "buddhism",
+        "zen",
+        "philosophy",
+        "religion",
+        "spirituality",
+        "non-fiction",
+        "classics"
+      ],
+      "rating": 4.23,
+      "ratings": 1215,
+      "reviews": 119
+    },
+    {
+      "title": "Il silenzio è cosa viva: L'arte della meditazione",
+      "url": "https://www.goodreads.com/book/show/42266638-il-silenzio-cosa-viva",
+      "id": "65884566",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1539120503i/42266638.jpg",
+      "authors": [
+        "Chandra Livia Candiani"
+      ],
+      "genres": [
+        "poetry",
+        "spirituality",
+        "non-fiction",
+        "italian-literature",
+        "audiobook",
+        "buddhism",
+        "philosophy"
+      ],
+      "rating": 4.24,
+      "ratings": 1210,
+      "reviews": 110
+    },
+    {
+      "title": "Meditation: A Simple Eight-Point Program for Translating Spiritual Ideala Simple Eight-Point Program for Translating Spiritual Ideals Into Daily Life S Into Daily Life",
+      "url": "https://www.goodreads.com/book/show/370997.Meditation",
+      "id": "360965",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388265207i/370997.jpg",
+      "authors": [
+        "Eknath Easwaran"
+      ],
+      "genres": [
+        "spirituality",
+        "meditation",
+        "non-fiction",
+        "self-help",
+        "religion",
+        "buddhism",
+        "philosophy"
+      ],
+      "rating": 4.34,
+      "ratings": 1206,
+      "reviews": 129
+    },
+    {
+      "title": "Work: How to Find Joy and Meaning in Each Hour of the Day",
+      "url": "https://www.goodreads.com/book/show/13590613-work",
+      "id": "23604845",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1346115995i/13590613.jpg",
+      "authors": [
+        "Thich Nhat Hanh"
+      ],
+      "genres": [
+        "non-fiction",
+        "buddhism",
+        "spirituality",
+        "self-help",
+        "philosophy",
+        "religion",
+        "business"
+      ],
+      "rating": 4.05,
+      "ratings": 1204,
+      "reviews": 106
+    },
+    {
+      "title": "Siddhartha's Brain: Unlocking the Ancient Science of Enlightenment",
+      "url": "https://www.goodreads.com/book/show/25817459-siddhartha-s-brain",
+      "id": "45583548",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1451244377i/25817459.jpg",
+      "authors": [
+        "James Kingsland"
+      ],
+      "genres": [
+        "buddhism",
+        "non-fiction",
+        "science",
+        "psychology",
+        "philosophy",
+        "spirituality",
+        "meditation"
+      ],
+      "rating": 4.1,
+      "ratings": 1204,
+      "reviews": 150
     },
     {
       "title": "The Wisdom of Forgiveness: Intimate Conversations and Journeys",
@@ -101,112 +311,9 @@
         "audiobook",
         "biography"
       ],
-      "rating": 4.15,
-      "ratings": 1165,
-      "reviews": 128
-    },
-    {
-      "title": "How to Train a Wild Elephant: And Other Adventures in Mindfulness",
-      "url": "https://www.goodreads.com/book/show/10479419-how-to-train-a-wild-elephant",
-      "id": "15384815",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320565879i/10479419.jpg",
-      "authors": [
-        "Jan Chozen Bays"
-      ],
-      "genres": [
-        "non-fiction",
-        "self-help",
-        "psychology",
-        "buddhism",
-        "spirituality",
-        "health",
-        "mental-health"
-      ],
-      "rating": 4.04,
-      "ratings": 1159,
-      "reviews": 124
-    },
-    {
-      "title": "Budismo para Principiantes: Una Guía Práctica para la Iluminación Espiritual",
-      "url": "https://www.goodreads.com/book/show/38912771-budismo-para-principiantes",
-      "id": "51190077",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1520045329i/38912771.jpg",
-      "authors": [
-        "Tai Morello"
-      ],
-      "genres": [
-        "buddhism",
-        "spirituality",
-        "non-fiction",
-        "philosophy",
-        "religion"
-      ],
-      "rating": 4.13,
-      "ratings": 1156,
-      "reviews": 92
-    },
-    {
-      "title": "Be Free Where You Are",
-      "url": "https://www.goodreads.com/book/show/95746.Be_Free_Where_You_Are",
-      "id": "2314958",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328698096i/95746.jpg",
-      "authors": [
-        "Thich Nhat Hanh"
-      ],
-      "genres": [
-        "buddhism",
-        "non-fiction",
-        "spirituality",
-        "philosophy",
-        "self-help",
-        "religion",
-        "reference"
-      ],
-      "rating": 4.44,
-      "ratings": 1155,
-      "reviews": 89
-    },
-    {
-      "title": "Siddhartha's Brain: Unlocking the Ancient Science of Enlightenment",
-      "url": "https://www.goodreads.com/book/show/25817459-siddhartha-s-brain",
-      "id": "45583548",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1451244377i/25817459.jpg",
-      "authors": [
-        "James Kingsland"
-      ],
-      "genres": [
-        "buddhism",
-        "non-fiction",
-        "science",
-        "psychology",
-        "philosophy",
-        "spirituality",
-        "neuroscience"
-      ],
-      "rating": 4.09,
-      "ratings": 1147,
-      "reviews": 143
-    },
-    {
-      "title": "Magic and Mystery in Tibet",
-      "url": "https://www.goodreads.com/book/show/921455.Magic_and_Mystery_in_Tibet",
-      "id": "906484",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328865585i/921455.jpg",
-      "authors": [
-        "Alexandra David-Néel"
-      ],
-      "genres": [
-        "buddhism",
-        "non-fiction",
-        "travel",
-        "history",
-        "religion",
-        "spirituality",
-        "occult"
-      ],
-      "rating": 4.08,
-      "ratings": 1135,
-      "reviews": 91
+      "rating": 4.14,
+      "ratings": 1196,
+      "reviews": 129
     },
     {
       "title": "The Enlightened Heart",
@@ -221,76 +328,76 @@
         "spirituality",
         "religion",
         "philosophy",
-        "buddhism",
         "non-fiction",
+        "buddhism",
         "mysticism"
       ],
-      "rating": 4.34,
-      "ratings": 1132,
-      "reviews": 52
+      "rating": 4.33,
+      "ratings": 1170,
+      "reviews": 55
     },
     {
-      "title": "Tantra: The Supreme Understanding - Discourses on the Tantric Way of Tilopa's Song of Mahamudra",
-      "url": "https://www.goodreads.com/book/show/131390.Tantra",
-      "id": "126538",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1254131901i/131390.jpg",
+      "title": "The Undefeated Mind: On the Science of Constructing an Indestructible Self",
+      "url": "https://www.goodreads.com/book/show/16092850-the-undefeated-mind",
+      "id": "19400724",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1350516776i/16092850.jpg",
       "authors": [
-        "Osho"
+        "Alex Lickerman"
       ],
       "genres": [
-        "spirituality",
-        "non-fiction",
-        "philosophy",
-        "religion",
-        "buddhism",
-        "sexuality",
-        "unfinished"
-      ],
-      "rating": 4.36,
-      "ratings": 1125,
-      "reviews": 60
-    },
-    {
-      "title": "Work: How to Find Joy and Meaning in Each Hour of the Day",
-      "url": "https://www.goodreads.com/book/show/13590613-work",
-      "id": "23604845",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1346115995i/13590613.jpg",
-      "authors": [
-        "Thich Nhat Hanh"
-      ],
-      "genres": [
-        "buddhism",
-        "non-fiction",
-        "spirituality",
+        "psychology",
         "self-help",
-        "business",
+        "non-fiction",
         "philosophy",
-        "religion"
+        "personal-development",
+        "buddhism",
+        "spirituality"
+      ],
+      "rating": 4,
+      "ratings": 1155,
+      "reviews": 78
+    },
+    {
+      "title": "Introduction to Tantra: The Transformation of Desire",
+      "url": "https://www.goodreads.com/book/show/137526.Introduction_to_Tantra_",
+      "id": "132550",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1385341851i/137526.jpg",
+      "authors": [
+        "Thubten Yeshe"
+      ],
+      "genres": [
+        "buddhism",
+        "spirituality",
+        "non-fiction",
+        "religion",
+        "philosophy",
+        "meditation",
+        "sexuality"
       ],
       "rating": 4.07,
-      "ratings": 1122,
-      "reviews": 95
+      "ratings": 1155,
+      "reviews": 98
     },
     {
-      "title": "The Noble Eightfold Path: Way to the End of Suffering",
-      "url": "https://www.goodreads.com/book/show/973368.The_Noble_Eightfold_Path",
-      "id": "958265",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328838260i/973368.jpg",
+      "title": "Real Change: Mindfulness to Heal Ourselves and the World",
+      "url": "https://www.goodreads.com/book/show/52863343-real-change",
+      "id": "73282238",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1585639570i/52863343.jpg",
       "authors": [
-        "Bhikkhu Bodhi"
+        "Sharon Salzberg"
       ],
       "genres": [
-        "buddhism",
-        "philosophy",
-        "religion",
-        "spirituality",
         "non-fiction",
         "self-help",
-        "psychology"
+        "buddhism",
+        "spirituality",
+        "psychology",
+        "meditation",
+        "audiobook"
       ],
-      "rating": 4.44,
-      "ratings": 1115,
-      "reviews": 103
+      "rating": 4.06,
+      "ratings": 1155,
+      "reviews": 125
     },
     {
       "title": "Moon in a Dewdrop: Writings of Zen Master Dogen",
@@ -309,113 +416,72 @@
         "non-fiction",
         "japan"
       ],
-      "rating": 4.27,
-      "ratings": 1114,
-      "reviews": 33
+      "rating": 4.28,
+      "ratings": 1152,
+      "reviews": 41
     },
     {
-      "title": "How Can I Help?: Stories and Reflections on Service",
-      "url": "https://www.goodreads.com/book/show/95713.How_Can_I_Help_",
-      "id": "92249",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1630674230i/95713.jpg",
+      "title": "One Blade Of Grass: Finding the Old Road of the Heart, a Zen Memoir",
+      "url": "https://www.goodreads.com/book/show/46015894-one-blade-of-grass",
+      "id": "70893261",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1558844424i/46015894.jpg",
       "authors": [
-        "Ram Dass"
+        "Henry Shukman"
       ],
       "genres": [
-        "spirituality",
         "non-fiction",
-        "psychology",
-        "buddhism",
-        "self-help",
-        "philosophy",
-        "mental-health"
-      ],
-      "rating": 4.2,
-      "ratings": 1107,
-      "reviews": 83
-    },
-    {
-      "title": "Meditation: A Simple Eight-Point Program for Translating Spiritual Ideala Simple Eight-Point Program for Translating Spiritual Ideals Into Daily Life S Into Daily Life",
-      "url": "https://www.goodreads.com/book/show/370997.Meditation",
-      "id": "360965",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388265207i/370997.jpg",
-      "authors": [
-        "Eknath Easwaran"
-      ],
-      "genres": [
         "spirituality",
-        "non-fiction",
-        "self-help",
-        "religion",
         "buddhism",
         "philosophy",
-        "psychology"
+        "meditation",
+        "memoir",
+        "zen"
       ],
       "rating": 4.32,
-      "ratings": 1092,
-      "reviews": 115
+      "ratings": 1151,
+      "reviews": 94
     },
     {
-      "title": "The Four Noble Truths",
-      "url": "https://www.goodreads.com/book/show/79336.The_Four_Noble_Truths",
-      "id": "1417114",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1434688666i/79336.jpg",
+      "title": "Love and Rage: The Path of Liberation through Anger",
+      "url": "https://www.goodreads.com/book/show/53133204-love-and-rage",
+      "id": "73638319",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1570273822l/53133204.jpg",
       "authors": [
-        "Dalai Lama XIV"
+        "Lama Rod Owens"
       ],
       "genres": [
-        "buddhism",
-        "philosophy",
-        "spirituality",
         "non-fiction",
-        "religion",
-        "zen",
+        "buddhism",
+        "spirituality",
+        "social-justice",
+        "self-help",
+        "race",
         "psychology"
       ],
-      "rating": 4.22,
-      "ratings": 1076,
-      "reviews": 57
+      "rating": 4.39,
+      "ratings": 1150,
+      "reviews": 127
     },
     {
-      "title": "His Holiness The Dalai Lama: A Message of Spiritual Wisdom",
-      "url": "https://www.goodreads.com/book/show/18711186-his-holiness-the-dalai-lama",
-      "id": "26570338",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1382593263i/18711186.jpg",
+      "title": "What Is Tao?",
+      "url": "https://www.goodreads.com/book/show/60574.What_Is_Tao_",
+      "id": "58933",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347598759i/60574.jpg",
       "authors": [
-        "Comcast NBCUniversal"
+        "Alan W. Watts"
       ],
       "genres": [
-        "non-fiction",
-        "spirituality",
-        "buddhism",
-        "theology",
-        "religion",
-        "biography"
-      ],
-      "rating": 4.01,
-      "ratings": 1072,
-      "reviews": 61
-    },
-    {
-      "title": "Taking the Path of Zen",
-      "url": "https://www.goodreads.com/book/show/336373.Taking_the_Path_of_Zen",
-      "id": "326831",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388256380i/336373.jpg",
-      "authors": [
-        "Robert Aitken"
-      ],
-      "genres": [
-        "buddhism",
-        "zen",
-        "religion",
         "philosophy",
-        "non-fiction",
         "spirituality",
-        "self-help"
+        "taoism",
+        "religion",
+        "non-fiction",
+        "buddhism",
+        "eastern-philosophy"
       ],
-      "rating": 4.03,
-      "ratings": 1072,
-      "reviews": 57
+      "rating": 4.17,
+      "ratings": 1136,
+      "reviews": 77
     },
     {
       "title": "A Force for Good: The Dalai Lama's Vision for Our World",
@@ -430,76 +496,13 @@
         "spirituality",
         "philosophy",
         "buddhism",
-        "psychology",
         "self-help",
+        "psychology",
         "personal-development"
       ],
       "rating": 4.04,
-      "ratings": 1066,
-      "reviews": 94
-    },
-    {
-      "title": "Real Change: Mindfulness to Heal Ourselves and the World",
-      "url": "https://www.goodreads.com/book/show/52863343-real-change",
-      "id": "73282238",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1585639570i/52863343.jpg",
-      "authors": [
-        "Sharon Salzberg"
-      ],
-      "genres": [
-        "non-fiction",
-        "self-help",
-        "spirituality",
-        "buddhism",
-        "psychology",
-        "personal-development",
-        "mental-health"
-      ],
-      "rating": 4.09,
-      "ratings": 1041,
-      "reviews": 119
-    },
-    {
-      "title": "What Is Tao?",
-      "url": "https://www.goodreads.com/book/show/60574.What_Is_Tao_",
-      "id": "58933",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347598759i/60574.jpg",
-      "authors": [
-        "Alan W. Watts"
-      ],
-      "genres": [
-        "philosophy",
-        "spirituality",
-        "religion",
-        "taoism",
-        "non-fiction",
-        "eastern-philosophy",
-        "buddhism"
-      ],
-      "rating": 4.16,
-      "ratings": 1038,
-      "reviews": 70
-    },
-    {
-      "title": "Introduction to Tantra : The Transformation of Desire",
-      "url": "https://www.goodreads.com/book/show/137526.Introduction_to_Tantra_",
-      "id": "132550",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1385341851i/137526.jpg",
-      "authors": [
-        "Thubten Yeshe"
-      ],
-      "genres": [
-        "buddhism",
-        "spirituality",
-        "non-fiction",
-        "religion",
-        "philosophy",
-        "sexuality",
-        "self-help"
-      ],
-      "rating": 4.08,
-      "ratings": 1033,
-      "reviews": 85
+      "ratings": 1124,
+      "reviews": 97
     }
   ]
 }

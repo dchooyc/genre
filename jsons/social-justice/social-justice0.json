@@ -1,25 +1,25 @@
 {
   "books": [
     {
-      "title": "The Hate U Give",
-      "url": "https://www.goodreads.com/book/show/32075671-the-hate-u-give",
-      "id": "49638190",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1476284759i/32075671.jpg",
+      "title": "I Am Malala: The Story of the Girl Who Stood Up for Education and Was Shot by the Taliban",
+      "url": "https://www.goodreads.com/book/show/17851885-i-am-malala",
+      "id": "24987300",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1375414895i/17851885.jpg",
       "authors": [
-        "Angie Thomas"
+        "Malala Yousafzai"
       ],
       "genres": [
-        "young-adult",
-        "fiction",
-        "contemporary",
-        "audiobook",
-        "realistic-fiction",
-        "race",
+        "autobiography",
+        "history",
+        "biography-memoir",
+        "politics",
+        "education",
+        "middle-east",
         "social-justice"
       ],
-      "rating": 4.47,
-      "ratings": 897638,
-      "reviews": 75711
+      "rating": 4.16,
+      "ratings": 613374,
+      "reviews": 26923
     },
     {
       "title": "Between the World and Me",
@@ -35,12 +35,12 @@
         "race",
         "audiobook",
         "history",
-        "social-justice",
-        "biography"
+        "book-club",
+        "social-justice"
       ],
       "rating": 4.4,
-      "ratings": 333008,
-      "reviews": 29704
+      "ratings": 358289,
+      "reviews": 31754
     },
     {
       "title": "Just Mercy",
@@ -53,15 +53,36 @@
       "genres": [
         "non-fiction",
         "memoir",
+        "book-club",
         "social-justice",
         "race",
-        "politics",
-        "history",
-        "audiobook"
+        "audiobook",
+        "politics"
       ],
       "rating": 4.63,
-      "ratings": 231568,
-      "reviews": 25671
+      "ratings": 255395,
+      "reviews": 28431
+    },
+    {
+      "title": "White Fragility: Why It's So Hard for White People to Talk About Racism",
+      "url": "https://www.goodreads.com/book/show/43708708-white-fragility",
+      "id": "58159636",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1614966481i/43708708.jpg",
+      "authors": [
+        "Robin DiAngelo"
+      ],
+      "genres": [
+        "non-fiction",
+        "race",
+        "social-justice",
+        "audiobook",
+        "politics",
+        "anti-racist",
+        "sociology"
+      ],
+      "rating": 4.16,
+      "ratings": 170441,
+      "reviews": 19135
     },
     {
       "title": "Caste: The Origins of Our Discontents",
@@ -78,11 +99,11 @@
         "audiobook",
         "social-justice",
         "sociology",
-        "anti-racist"
+        "book-club"
       ],
-      "rating": 4.54,
-      "ratings": 137249,
-      "reviews": 18969
+      "rating": 4.53,
+      "ratings": 156671,
+      "reviews": 21078
     },
     {
       "title": "How to Be an Antiracist",
@@ -96,14 +117,14 @@
         "non-fiction",
         "race",
         "social-justice",
-        "anti-racist",
         "politics",
         "audiobook",
+        "anti-racist",
         "history"
       ],
-      "rating": 4.38,
-      "ratings": 114459,
-      "reviews": 12069
+      "rating": 4.37,
+      "ratings": 118460,
+      "reviews": 12285
     },
     {
       "title": "The New Jim Crow: Mass Incarceration in the Age of Colorblindness",
@@ -116,15 +137,57 @@
       "genres": [
         "non-fiction",
         "history",
-        "race",
         "politics",
+        "race",
         "social-justice",
         "sociology",
-        "anti-racist"
+        "audiobook"
       ],
       "rating": 4.52,
-      "ratings": 108092,
-      "reviews": 10677
+      "ratings": 115289,
+      "reviews": 11343
+    },
+    {
+      "title": "The Warmth of Other Suns: The Epic Story of America's Great Migration",
+      "url": "https://www.goodreads.com/book/show/8171378-the-warmth-of-other-suns",
+      "id": "13341052",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1433354252i/8171378.jpg",
+      "authors": [
+        "Isabel Wilkerson"
+      ],
+      "genres": [
+        "history",
+        "non-fiction",
+        "race",
+        "book-club",
+        "american-history",
+        "audiobook",
+        "social-justice"
+      ],
+      "rating": 4.48,
+      "ratings": 113670,
+      "reviews": 13272
+    },
+    {
+      "title": "Evicted: Poverty and Profit in the American City",
+      "url": "https://www.goodreads.com/book/show/25852784-evicted",
+      "id": "45720714",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442840968i/25852784.jpg",
+      "authors": [
+        "Matthew Desmond"
+      ],
+      "genres": [
+        "non-fiction",
+        "sociology",
+        "politics",
+        "social-justice",
+        "history",
+        "book-club",
+        "audiobook"
+      ],
+      "rating": 4.47,
+      "ratings": 110432,
+      "reviews": 13318
     },
     {
       "title": "So You Want to Talk About Race",
@@ -143,72 +206,9 @@
         "politics",
         "sociology"
       ],
-      "rating": 4.5,
-      "ratings": 104733,
-      "reviews": 11499
-    },
-    {
-      "title": "The Warmth of Other Suns: The Epic Story of America's Great Migration",
-      "url": "https://www.goodreads.com/book/show/8171378-the-warmth-of-other-suns",
-      "id": "13341052",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1433354252i/8171378.jpg",
-      "authors": [
-        "Isabel Wilkerson"
-      ],
-      "genres": [
-        "history",
-        "non-fiction",
-        "race",
-        "american-history",
-        "african-american",
-        "social-justice",
-        "historical"
-      ],
-      "rating": 4.46,
-      "ratings": 101612,
-      "reviews": 12097
-    },
-    {
-      "title": "The Fire Next Time",
-      "url": "https://www.goodreads.com/book/show/464260.The_Fire_Next_Time",
-      "id": "1129041",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1657560861i/464260.jpg",
-      "authors": [
-        "James Baldwin"
-      ],
-      "genres": [
-        "non-fiction",
-        "classics",
-        "essays",
-        "race",
-        "history",
-        "politics",
-        "social-justice"
-      ],
-      "rating": 4.54,
-      "ratings": 100409,
-      "reviews": 9081
-    },
-    {
-      "title": "Evicted: Poverty and Profit in the American City",
-      "url": "https://www.goodreads.com/book/show/25852784-evicted",
-      "id": "45720714",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442840968i/25852784.jpg",
-      "authors": [
-        "Matthew Desmond"
-      ],
-      "genres": [
-        "non-fiction",
-        "sociology",
-        "politics",
-        "social-justice",
-        "history",
-        "economics",
-        "audiobook"
-      ],
-      "rating": 4.47,
-      "ratings": 97488,
-      "reviews": 11779
+      "rating": 4.49,
+      "ratings": 107344,
+      "reviews": 11616
     },
     {
       "title": "Why I'm No Longer Talking to White People About Race",
@@ -221,15 +221,15 @@
       "genres": [
         "non-fiction",
         "race",
-        "feminism",
         "politics",
+        "feminism",
         "anti-racist",
         "social-justice",
-        "history"
+        "audiobook"
       ],
-      "rating": 4.38,
-      "ratings": 95428,
-      "reviews": 7957
+      "rating": 4.37,
+      "ratings": 99991,
+      "reviews": 8228
     },
     {
       "title": "Dear Martin",
@@ -248,9 +248,30 @@
         "race",
         "social-justice"
       ],
-      "rating": 4.35,
-      "ratings": 79252,
-      "reviews": 11715
+      "rating": 4.33,
+      "ratings": 84189,
+      "reviews": 12141
+    },
+    {
+      "title": "The Sun Does Shine: How I Found Life and Freedom on Death Row",
+      "url": "https://www.goodreads.com/book/show/34964905-the-sun-does-shine",
+      "id": "56239899",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1591203630i/34964905.jpg",
+      "authors": [
+        "Anthony Ray Hinton"
+      ],
+      "genres": [
+        "non-fiction",
+        "memoir",
+        "audiobook",
+        "book-club",
+        "biography",
+        "true-crime",
+        "social-justice"
+      ],
+      "rating": 4.65,
+      "ratings": 76251,
+      "reviews": 10651
     },
     {
       "title": "I'm Still Here: Black Dignity in a World Made for Whiteness",
@@ -267,32 +288,53 @@
         "audiobook",
         "social-justice",
         "anti-racist",
-        "biography"
+        "book-club"
       ],
       "rating": 4.38,
-      "ratings": 70036,
-      "reviews": 6649
+      "ratings": 72340,
+      "reviews": 6829
     },
     {
-      "title": "The Sun Does Shine: How I Found Life and Freedom on Death Row",
-      "url": "https://www.goodreads.com/book/show/34964905-the-sun-does-shine",
-      "id": "56239899",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1591203630i/34964905.jpg",
+      "title": "Hood Feminism: Notes from the Women That a Movement Forgot",
+      "url": "https://www.goodreads.com/book/show/36687229-hood-feminism",
+      "id": "58481445",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1577489813i/36687229.jpg",
       "authors": [
-        "Anthony Ray Hinton"
+        "Mikki Kendall"
       ],
       "genres": [
         "non-fiction",
-        "memoir",
-        "biography",
-        "audiobook",
-        "true-crime",
+        "feminism",
         "race",
+        "audiobook",
+        "social-justice",
+        "essays",
+        "politics"
+      ],
+      "rating": 4.36,
+      "ratings": 61126,
+      "reviews": 7696
+    },
+    {
+      "title": "Poverty, by America",
+      "url": "https://www.goodreads.com/book/show/61358638-poverty-by-america",
+      "id": "96720702",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1665696294i/61358638.jpg",
+      "authors": [
+        "Matthew Desmond"
+      ],
+      "genres": [
+        "non-fiction",
+        "politics",
+        "audiobook",
+        "history",
+        "sociology",
+        "economics",
         "social-justice"
       ],
-      "rating": 4.65,
-      "ratings": 59417,
-      "reviews": 8472
+      "rating": 4.27,
+      "ratings": 57201,
+      "reviews": 7933
     },
     {
       "title": "Half the Sky: Turning Oppression into Opportunity for Women Worldwide",
@@ -305,15 +347,15 @@
       "genres": [
         "non-fiction",
         "feminism",
-        "social-justice",
+        "book-club",
         "womens",
+        "social-justice",
         "politics",
-        "sociology",
-        "africa"
+        "sociology"
       ],
       "rating": 4.28,
-      "ratings": 54852,
-      "reviews": 5349
+      "ratings": 55477,
+      "reviews": 5378
     },
     {
       "title": "Stamped: Racism, Antiracism, and You",
@@ -332,30 +374,9 @@
         "anti-racist",
         "politics"
       ],
-      "rating": 4.48,
-      "ratings": 51349,
-      "reviews": 7466
-    },
-    {
-      "title": "Hood Feminism: Notes from the Women That a Movement Forgot",
-      "url": "https://www.goodreads.com/book/show/36687229-hood-feminism",
-      "id": "58481445",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1577489813i/36687229.jpg",
-      "authors": [
-        "Mikki Kendall"
-      ],
-      "genres": [
-        "non-fiction",
-        "feminism",
-        "race",
-        "social-justice",
-        "audiobook",
-        "essays",
-        "politics"
-      ],
-      "rating": 4.38,
-      "ratings": 51291,
-      "reviews": 6454
+      "rating": 4.47,
+      "ratings": 53626,
+      "reviews": 7649
     },
     {
       "title": "Citizen: An American Lyric",
@@ -374,9 +395,9 @@
         "politics",
         "african-american"
       ],
-      "rating": 4.27,
-      "ratings": 47243,
-      "reviews": 4280
+      "rating": 4.26,
+      "ratings": 50840,
+      "reviews": 4632
     },
     {
       "title": "All American Boys",
@@ -389,15 +410,36 @@
       "genres": [
         "young-adult",
         "fiction",
-        "contemporary",
         "realistic-fiction",
+        "contemporary",
         "banned-books",
         "audiobook",
         "social-justice"
       ],
-      "rating": 4.3,
-      "ratings": 45624,
-      "reviews": 7285
+      "rating": 4.29,
+      "ratings": 49215,
+      "reviews": 7683
+    },
+    {
+      "title": "The Color of Law: A Forgotten History of How Our Government Segregated America",
+      "url": "https://www.goodreads.com/book/show/32191706-the-color-of-law",
+      "id": "52832599",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1493422076i/32191706.jpg",
+      "authors": [
+        "Richard Rothstein"
+      ],
+      "genres": [
+        "non-fiction",
+        "history",
+        "race",
+        "politics",
+        "social-justice",
+        "law",
+        "anti-racist"
+      ],
+      "rating": 4.44,
+      "ratings": 44382,
+      "reviews": 5816
     },
     {
       "title": "Minor Feelings: An Asian American Reckoning",
@@ -414,74 +456,11 @@
         "race",
         "audiobook",
         "social-justice",
-        "anti-racist"
+        "asian-literature"
       ],
-      "rating": 4.21,
-      "ratings": 39633,
-      "reviews": 4784
-    },
-    {
-      "title": "The Color of Law: A Forgotten History of How Our Government Segregated America",
-      "url": "https://www.goodreads.com/book/show/32191706-the-color-of-law",
-      "id": "52832599",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1493422076i/32191706.jpg",
-      "authors": [
-        "Richard Rothstein"
-      ],
-      "genres": [
-        "non-fiction",
-        "history",
-        "race",
-        "politics",
-        "social-justice",
-        "anti-racist",
-        "law"
-      ],
-      "rating": 4.45,
-      "ratings": 38849,
-      "reviews": 5183
-    },
-    {
-      "title": "The 57 Bus: A True Story of Two Teenagers and the Crime That Changed Their Lives",
-      "url": "https://www.goodreads.com/book/show/33155325-the-57-bus",
-      "id": "44640207",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1503141060i/33155325.jpg",
-      "authors": [
-        "Dashka Slater"
-      ],
-      "genres": [
-        "non-fiction",
-        "lgbt",
-        "true-crime",
-        "audiobook",
-        "crime",
-        "social-justice",
-        "queer"
-      ],
-      "rating": 4.12,
-      "ratings": 37700,
-      "reviews": 5461
-    },
-    {
-      "title": "Stamped from the Beginning: The Definitive History of Racist Ideas in America",
-      "url": "https://www.goodreads.com/book/show/25898216-stamped-from-the-beginning",
-      "id": "45781103",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1440457523i/25898216.jpg",
-      "authors": [
-        "Ibram X. Kendi"
-      ],
-      "genres": [
-        "non-fiction",
-        "history",
-        "race",
-        "social-justice",
-        "politics",
-        "anti-racist",
-        "audiobook"
-      ],
-      "rating": 4.54,
-      "ratings": 36063,
-      "reviews": 5026
+      "rating": 4.19,
+      "ratings": 43160,
+      "reviews": 5305
     },
     {
       "title": "Sister Outsider: Essays and Speeches",
@@ -496,13 +475,34 @@
         "feminism",
         "essays",
         "race",
-        "lgbt",
         "queer",
+        "lgbt",
         "social-justice"
       ],
       "rating": 4.53,
-      "ratings": 35766,
-      "reviews": 2990
+      "ratings": 39868,
+      "reviews": 3557
+    },
+    {
+      "title": "How the Word Is Passed: A Reckoning with the History of Slavery Across America",
+      "url": "https://www.goodreads.com/book/show/55643287-how-the-word-is-passed",
+      "id": "86766325",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1603917194i/55643287.jpg",
+      "authors": [
+        "Clint   Smith"
+      ],
+      "genres": [
+        "non-fiction",
+        "history",
+        "race",
+        "audiobook",
+        "social-justice",
+        "politics",
+        "american-history"
+      ],
+      "rating": 4.7,
+      "ratings": 38228,
+      "reviews": 5912
     }
   ]
 }

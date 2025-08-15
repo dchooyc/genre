@@ -1,46 +1,193 @@
 {
   "books": [
     {
-      "title": "The Information: A History, a Theory, a Flood",
-      "url": "https://www.goodreads.com/book/show/8701960-the-information",
-      "id": "13574748",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348046486i/8701960.jpg",
+      "title": "A Confession",
+      "url": "https://www.goodreads.com/book/show/26244.A_Confession",
+      "id": "2847065",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348237118i/26244.jpg",
       "authors": [
-        "James Gleick"
+        "Leo Tolstoy"
+      ],
+      "genres": [
+        "philosophy",
+        "non-fiction",
+        "classics",
+        "russian-literature",
+        "russia",
+        "biography",
+        "essays"
+      ],
+      "rating": 4.1,
+      "ratings": 18850,
+      "reviews": 2286
+    },
+    {
+      "title": "The Portable Atheist: Essential Readings for the Nonbeliever",
+      "url": "https://www.goodreads.com/book/show/1566053.The_Portable_Atheist",
+      "id": "1558637",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1435405001i/1566053.jpg",
+      "authors": [
+        "Christopher Hitchens"
+      ],
+      "genres": [
+        "non-fiction",
+        "philosophy",
+        "atheism",
+        "science",
+        "essays",
+        "history",
+        "sociology"
+      ],
+      "rating": 4.03,
+      "ratings": 18849,
+      "reviews": 590
+    },
+    {
+      "title": "The Man Who Planted Trees",
+      "url": "https://www.goodreads.com/book/show/757438.The_Man_Who_Planted_Trees",
+      "id": "1078797",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320556166i/757438.jpg",
+      "authors": [
+        "Jean Giono"
+      ],
+      "genres": [
+        "fiction",
+        "short-stories",
+        "classics",
+        "france",
+        "nature",
+        "french-literature",
+        "philosophy"
+      ],
+      "rating": 4.19,
+      "ratings": 18791,
+      "reviews": 2215
+    },
+    {
+      "title": "Living Buddha, Living Christ",
+      "url": "https://www.goodreads.com/book/show/73184.Living_Buddha_Living_Christ",
+      "id": "996684",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1309211729i/73184.jpg",
+      "authors": [
+        "Thich Nhat Hanh"
+      ],
+      "genres": [
+        "religion",
+        "spirituality",
+        "buddhism",
+        "non-fiction",
+        "philosophy",
+        "christianity",
+        "theology"
+      ],
+      "rating": 4.16,
+      "ratings": 18665,
+      "reviews": 1011
+    },
+    {
+      "title": "At the Existentialist Café",
+      "url": "https://www.goodreads.com/book/show/25658482-at-the-existentialist-caf",
+      "id": "45480464",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1707080543i/25658482.jpg",
+      "authors": [
+        "Sarah Bakewell"
+      ],
+      "genres": [
+        "philosophy",
+        "non-fiction",
+        "history",
+        "biography",
+        "france",
+        "politics",
+        "psychology"
+      ],
+      "rating": 4.24,
+      "ratings": 18611,
+      "reviews": 2375
+    },
+    {
+      "title": "Mindfulness in Plain English",
+      "url": "https://www.goodreads.com/book/show/64369.Mindfulness_in_Plain_English",
+      "id": "1037939",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1385189327i/64369.jpg",
+      "authors": [
+        "Henepola Gunaratana"
+      ],
+      "genres": [
+        "non-fiction",
+        "buddhism",
+        "meditation",
+        "spirituality",
+        "philosophy",
+        "self-help",
+        "psychology"
+      ],
+      "rating": 4.15,
+      "ratings": 18418,
+      "reviews": 1175
+    },
+    {
+      "title": "Conversations With God: An Uncommon Dialogue, Book 3",
+      "url": "https://www.goodreads.com/book/show/15018.Conversations_With_God",
+      "id": "13649393",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1440034217i/15018.jpg",
+      "authors": [
+        "Neale Donald Walsch"
+      ],
+      "genres": [
+        "spirituality",
+        "non-fiction",
+        "religion",
+        "philosophy",
+        "self-help",
+        "new-age",
+        "inspirational"
+      ],
+      "rating": 4.23,
+      "ratings": 18362,
+      "reviews": 314
+    },
+    {
+      "title": "Black Skin, White Masks",
+      "url": "https://www.goodreads.com/book/show/274392.Black_Skin_White_Masks",
+      "id": "949036",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1704228309i/274392.jpg",
+      "authors": [
+        "Frantz Fanon"
+      ],
+      "genres": [
+        "non-fiction",
+        "philosophy",
+        "race",
+        "politics",
+        "theory",
+        "history",
+        "psychology"
+      ],
+      "rating": 4.26,
+      "ratings": 18321,
+      "reviews": 1247
+    },
+    {
+      "title": "Black Holes and Baby Universes and Other Essays",
+      "url": "https://www.goodreads.com/book/show/53200.Black_Holes_and_Baby_Universes_and_Other_Essays",
+      "id": "64240",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386924312i/53200.jpg",
+      "authors": [
+        "Stephen Hawking"
       ],
       "genres": [
         "science",
         "non-fiction",
-        "history",
-        "technology",
-        "philosophy",
-        "computer-science",
-        "mathematics"
+        "physics",
+        "astronomy",
+        "essays",
+        "popular-science",
+        "philosophy"
       ],
-      "rating": 4.03,
-      "ratings": 16245,
-      "reviews": 1611
-    },
-    {
-      "title": "The Upanishads",
-      "url": "https://www.goodreads.com/book/show/290882.The_Upanishads",
-      "id": "162727",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327881361i/290882.jpg",
-      "authors": [
-        "Anonymous"
-      ],
-      "genres": [
-        "religion",
-        "philosophy",
-        "spirituality",
-        "classics",
-        "non-fiction",
-        "hinduism",
-        "india"
-      ],
-      "rating": 4.24,
-      "ratings": 16118,
-      "reviews": 618
+      "rating": 4.18,
+      "ratings": 18182,
+      "reviews": 533
     },
     {
       "title": "The Rebel",
@@ -60,29 +207,50 @@
         "french-literature"
       ],
       "rating": 4.14,
-      "ratings": 15986,
-      "reviews": 807
+      "ratings": 18158,
+      "reviews": 1030
     },
     {
-      "title": "A Confession",
-      "url": "https://www.goodreads.com/book/show/26244.A_Confession",
-      "id": "2847065",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348237118i/26244.jpg",
+      "title": "On Becoming a Person: A Therapist's View of Psychotherapy",
+      "url": "https://www.goodreads.com/book/show/174879.On_Becoming_a_Person",
+      "id": "168933",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348329148i/174879.jpg",
       "authors": [
-        "Leo Tolstoy"
+        "Carl R. Rogers"
       ],
       "genres": [
-        "philosophy",
+        "psychology",
         "non-fiction",
-        "classics",
-        "russian-literature",
-        "russia",
-        "biography",
-        "essays"
+        "self-help",
+        "counselling",
+        "philosophy",
+        "mental-health",
+        "science"
       ],
-      "rating": 4.1,
-      "ratings": 15960,
-      "reviews": 1891
+      "rating": 4.16,
+      "ratings": 18129,
+      "reviews": 663
+    },
+    {
+      "title": "Harry Potter and the Methods of Rationality",
+      "url": "https://www.goodreads.com/book/show/10016013-harry-potter-and-the-methods-of-rationality",
+      "id": "14911331",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1659761696i/10016013.jpg",
+      "authors": [
+        "Eliezer Yudkowsky"
+      ],
+      "genres": [
+        "fantasy",
+        "fiction",
+        "fan-fiction",
+        "philosophy",
+        "science-fiction",
+        "young-adult",
+        "humor"
+      ],
+      "rating": 4.39,
+      "ratings": 18120,
+      "reviews": 1834
     },
     {
       "title": "Discipline Equals Freedom: Field Manual",
@@ -98,75 +266,33 @@
         "personal-development",
         "leadership",
         "psychology",
-        "business",
-        "philosophy"
+        "philosophy",
+        "productivity"
       ],
       "rating": 4.09,
-      "ratings": 15912,
-      "reviews": 1165
+      "ratings": 18069,
+      "reviews": 1292
     },
     {
-      "title": "Mythologies",
-      "url": "https://www.goodreads.com/book/show/51715.Mythologies",
-      "id": "882883",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1650106097i/51715.jpg",
+      "title": "The Spinoza Problem",
+      "url": "https://www.goodreads.com/book/show/12715691-the-spinoza-problem",
+      "id": "17850268",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1344692296i/12715691.jpg",
       "authors": [
-        "Roland Barthes"
+        "Irvin D. Yalom"
       ],
       "genres": [
         "philosophy",
-        "non-fiction",
-        "essays",
-        "theory",
-        "france",
-        "mythology",
-        "sociology"
-      ],
-      "rating": 4.09,
-      "ratings": 15862,
-      "reviews": 778
-    },
-    {
-      "title": "The Discovery of Heaven",
-      "url": "https://www.goodreads.com/book/show/88389.The_Discovery_of_Heaven",
-      "id": "85295",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1338717776i/88389.jpg",
-      "authors": [
-        "Harry Mulisch"
-      ],
-      "genres": [
         "fiction",
-        "dutch-literature",
-        "classics",
+        "psychology",
+        "historical-fiction",
+        "novels",
         "literature",
-        "philosophy",
-        "roman",
-        "fantasy"
+        "religion"
       ],
-      "rating": 4.17,
-      "ratings": 15860,
-      "reviews": 880
-    },
-    {
-      "title": "The Surrender Experiment: My Journey into Life's Perfection",
-      "url": "https://www.goodreads.com/book/show/23164946-the-surrender-experiment",
-      "id": "42710975",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1423601289i/23164946.jpg",
-      "authors": [
-        "Michael A. Singer"
-      ],
-      "genres": [
-        "spirituality",
-        "non-fiction",
-        "self-help",
-        "philosophy",
-        "personal-development",
-        "memoir",
-        "psychology"
-      ],
-      "rating": 4.08,
-      "ratings": 15846,
-      "reviews": 1395
+      "rating": 4.26,
+      "ratings": 17956,
+      "reviews": 1489
     },
     {
       "title": "Memoirs of a Dutiful Daughter",
@@ -186,242 +312,116 @@
         "france"
       ],
       "rating": 4.12,
-      "ratings": 15779,
-      "reviews": 1204
+      "ratings": 17830,
+      "reviews": 1429
     },
     {
-      "title": "Black Skin, White Masks",
-      "url": "https://www.goodreads.com/book/show/274392.Black_Skin_White_Masks",
-      "id": "949036",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1704228309i/274392.jpg",
+      "title": "Metaphysics",
+      "url": "https://www.goodreads.com/book/show/208036.Metaphysics",
+      "id": "2479557",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1355049704i/208036.jpg",
       "authors": [
-        "Frantz Fanon"
+        "Aristotle"
       ],
       "genres": [
-        "non-fiction",
         "philosophy",
-        "race",
-        "politics",
-        "theory",
+        "classics",
+        "non-fiction",
+        "metaphysics",
+        "ancient",
         "history",
+        "science"
+      ],
+      "rating": 4.07,
+      "ratings": 17744,
+      "reviews": 409
+    },
+    {
+      "title": "The Story of Philosophy: The Lives and Opinions of the World's Greatest Philosophers",
+      "url": "https://www.goodreads.com/book/show/31795.The_Story_of_Philosophy",
+      "id": "32011",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1438471992i/31795.jpg",
+      "authors": [
+        "Will Durant"
+      ],
+      "genres": [
+        "philosophy",
+        "non-fiction",
+        "history",
+        "biography",
+        "classics",
+        "audiobook",
         "psychology"
       ],
-      "rating": 4.27,
-      "ratings": 15749,
-      "reviews": 933
+      "rating": 4.15,
+      "ratings": 17722,
+      "reviews": 1287
     },
     {
-      "title": "The Illuminatus! Trilogy",
-      "url": "https://www.goodreads.com/book/show/57913.The_Illuminatus_Trilogy",
-      "id": "813",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386923913i/57913.jpg",
+      "title": "Billions & Billions: Thoughts on Life and Death at the Brink of the Millennium",
+      "url": "https://www.goodreads.com/book/show/61665.Billions_Billions",
+      "id": "1321045",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1366573520i/61665.jpg",
       "authors": [
-        "Robert Shea"
+        "Carl Sagan"
       ],
       "genres": [
-        "fiction",
-        "science-fiction",
-        "fantasy",
-        "humor",
-        "philosophy",
-        "conspiracy-theories",
-        "novels"
-      ],
-      "rating": 4.01,
-      "ratings": 15685,
-      "reviews": 919
-    },
-    {
-      "title": "Common Sense, The Rights of Man and Other Essential Writings",
-      "url": "https://www.goodreads.com/book/show/99955.Common_Sense_The_Rights_of_Man_and_Other_Essential_Writings",
-      "id": "23681298",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1567418776i/99955.jpg",
-      "authors": [
-        "Thomas Paine"
-      ],
-      "genres": [
-        "philosophy",
-        "history",
+        "science",
         "non-fiction",
-        "politics",
-        "classics",
-        "american-history",
-        "essays"
+        "philosophy",
+        "physics",
+        "astronomy",
+        "essays",
+        "space"
       ],
-      "rating": 4.14,
-      "ratings": 15608,
-      "reviews": 198
+      "rating": 4.3,
+      "ratings": 17648,
+      "reviews": 735
     },
     {
-      "title": "The Spinoza Problem",
-      "url": "https://www.goodreads.com/book/show/12715691-the-spinoza-problem",
-      "id": "17850268",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1344692296i/12715691.jpg",
+      "title": "Civil Disobedience and Other Essays",
+      "url": "https://www.goodreads.com/book/show/16900.Civil_Disobedience_and_Other_Essays",
+      "id": "522004",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348316137i/16900.jpg",
       "authors": [
-        "Irvin D. Yalom"
+        "Henry David Thoreau"
       ],
       "genres": [
         "philosophy",
-        "fiction",
-        "psychology",
-        "historical-fiction",
-        "novels",
-        "literature",
-        "religion"
+        "non-fiction",
+        "classics",
+        "politics",
+        "essays",
+        "history",
+        "literature"
+      ],
+      "rating": 4.06,
+      "ratings": 17606,
+      "reviews": 461
+    },
+    {
+      "title": "The State and Revolution",
+      "url": "https://www.goodreads.com/book/show/179612.The_State_and_Revolution",
+      "id": "41787427",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1358889486i/179612.jpg",
+      "authors": [
+        "Vladimir Lenin"
+      ],
+      "genres": [
+        "politics",
+        "non-fiction",
+        "philosophy",
+        "theory",
+        "history",
+        "economics",
+        "classics"
       ],
       "rating": 4.25,
-      "ratings": 15566,
-      "reviews": 1304
+      "ratings": 17573,
+      "reviews": 1489
     },
     {
-      "title": "Hagakure: The Book of the Samurai",
-      "url": "https://www.goodreads.com/book/show/277950.Hagakure",
-      "id": "275268",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388186715i/277950.jpg",
-      "authors": [
-        "Yamamoto Tsunetomo"
-      ],
-      "genres": [
-        "philosophy",
-        "non-fiction",
-        "japan",
-        "history",
-        "martial-arts",
-        "classics",
-        "japanese-literature"
-      ],
-      "rating": 4.02,
-      "ratings": 15545,
-      "reviews": 848
-    },
-    {
-      "title": "The Selected Poetry of Rainer Maria Rilke",
-      "url": "https://www.goodreads.com/book/show/46201.The_Selected_Poetry_of_Rainer_Maria_Rilke",
-      "id": "45343",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1657553262i/46201.jpg",
-      "authors": [
-        "Rainer Maria Rilke"
-      ],
-      "genres": [
-        "poetry",
-        "classics",
-        "german-literature",
-        "literature",
-        "fiction",
-        "philosophy",
-        "20th-century"
-      ],
-      "rating": 4.39,
-      "ratings": 15507,
-      "reviews": 545
-    },
-    {
-      "title": "Signs: The Secret Language of the Universe",
-      "url": "https://www.goodreads.com/book/show/42583943-signs",
-      "id": "66273353",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1544412884i/42583943.jpg",
-      "authors": [
-        "Laura Lynne Jackson"
-      ],
-      "genres": [
-        "non-fiction",
-        "spirituality",
-        "self-help",
-        "audiobook",
-        "philosophy",
-        "paranormal",
-        "psychology"
-      ],
-      "rating": 4.17,
-      "ratings": 15484,
-      "reviews": 1190
-    },
-    {
-      "title": "On the Genealogy of Morals / Ecce Homo",
-      "url": "https://www.goodreads.com/book/show/132626.On_the_Genealogy_of_Morals_Ecce_Homo",
-      "id": "127755",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1650680770i/132626.jpg",
-      "authors": [
-        "Friedrich Nietzsche"
-      ],
-      "genres": [
-        "philosophy",
-        "non-fiction",
-        "classics",
-        "german-literature",
-        "psychology",
-        "theory",
-        "history"
-      ],
-      "rating": 4.17,
-      "ratings": 15383,
-      "reviews": 278
-    },
-    {
-      "title": "The Man Who Planted Trees",
-      "url": "https://www.goodreads.com/book/show/757438.The_Man_Who_Planted_Trees",
-      "id": "1078797",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320556166i/757438.jpg",
-      "authors": [
-        "Jean Giono"
-      ],
-      "genres": [
-        "fiction",
-        "short-stories",
-        "classics",
-        "france",
-        "nature",
-        "french-literature",
-        "philosophy"
-      ],
-      "rating": 4.2,
-      "ratings": 15306,
-      "reviews": 1782
-    },
-    {
-      "title": "Big Panda & Tiny Dragon",
-      "url": "https://www.goodreads.com/book/show/55926835-big-panda-tiny-dragon",
-      "id": "87138947",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1605784179i/55926835.jpg",
-      "authors": [
-        "James Norbury"
-      ],
-      "genres": [
-        "fiction",
-        "philosophy",
-        "graphic-novels",
-        "self-help",
-        "poetry",
-        "picture-books",
-        "art"
-      ],
-      "rating": 4.4,
-      "ratings": 15275,
-      "reviews": 2026
-    },
-    {
-      "title": "The Madness of Crowds: Gender, Race and Identity",
-      "url": "https://www.goodreads.com/book/show/44667183-the-madness-of-crowds",
-      "id": "69320126",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1563764418i/44667183.jpg",
-      "authors": [
-        "Douglas Murray"
-      ],
-      "genres": [
-        "non-fiction",
-        "politics",
-        "psychology",
-        "sociology",
-        "philosophy",
-        "cultural",
-        "history"
-      ],
-      "rating": 4.21,
-      "ratings": 15097,
-      "reviews": 1783
-    },
-    {
-      "title": "The fifth agreement",
+      "title": "The Fifth Agreement",
       "url": "https://www.goodreads.com/book/show/6979404-the-fifth-agreement",
       "id": "7220976",
       "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328698808i/6979404.jpg",
@@ -435,74 +435,74 @@
         "philosophy",
         "personal-development",
         "psychology",
-        "inspirational"
+        "audiobook"
       ],
       "rating": 4.11,
-      "ratings": 15044,
-      "reviews": 848
+      "ratings": 17473,
+      "reviews": 1005
     },
     {
-      "title": "The Consolation of Philosophy",
-      "url": "https://www.goodreads.com/book/show/31837.The_Consolation_of_Philosophy",
-      "id": "835371",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1477580108i/31837.jpg",
+      "title": "Inward",
+      "url": "https://www.goodreads.com/book/show/36607463-inward",
+      "id": "58362109",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1510863553i/36607463.jpg",
       "authors": [
-        "Boethius"
+        "Yung Pueblo"
       ],
       "genres": [
+        "poetry",
+        "self-help",
+        "non-fiction",
+        "spirituality",
         "philosophy",
+        "psychology",
+        "personal-development"
+      ],
+      "rating": 4.2,
+      "ratings": 17411,
+      "reviews": 1318
+    },
+    {
+      "title": "The Upanishads",
+      "url": "https://www.goodreads.com/book/show/290882.The_Upanishads",
+      "id": "162727",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327881361i/290882.jpg",
+      "authors": [
+        "Anonymous"
+      ],
+      "genres": [
+        "religion",
+        "philosophy",
+        "spirituality",
         "classics",
         "non-fiction",
-        "religion",
-        "medieval",
-        "poetry",
-        "theology"
+        "hinduism",
+        "india"
       ],
-      "rating": 4.02,
-      "ratings": 15041,
-      "reviews": 1211
+      "rating": 4.25,
+      "ratings": 17366,
+      "reviews": 717
     },
     {
-      "title": "Awakening the Buddha Within: Tibetan Wisdom for the Western World",
-      "url": "https://www.goodreads.com/book/show/7579.Awakening_the_Buddha_Within",
-      "id": "720899",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442401545i/7579.jpg",
+      "title": "The Discovery of Heaven",
+      "url": "https://www.goodreads.com/book/show/88389.The_Discovery_of_Heaven",
+      "id": "85295",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1338717776i/88389.jpg",
       "authors": [
-        "Surya Das"
+        "Harry Mulisch"
       ],
       "genres": [
-        "buddhism",
-        "spirituality",
-        "non-fiction",
-        "religion",
+        "fiction",
+        "classics",
+        "literature",
+        "dutch-literature",
         "philosophy",
-        "self-help",
-        "psychology"
+        "roman",
+        "novels"
       ],
-      "rating": 4.19,
-      "ratings": 14820,
-      "reviews": 379
-    },
-    {
-      "title": "The Future of the Mind: The Scientific Quest to Understand, Enhance, and Empower the Mind",
-      "url": "https://www.goodreads.com/book/show/17978489-the-future-of-the-mind",
-      "id": "25207078",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1371428466i/17978489.jpg",
-      "authors": [
-        "Michio Kaku"
-      ],
-      "genres": [
-        "science",
-        "non-fiction",
-        "psychology",
-        "neuroscience",
-        "physics",
-        "philosophy",
-        "brain"
-      ],
-      "rating": 4.09,
-      "ratings": 14781,
-      "reviews": 1172
+      "rating": 4.17,
+      "ratings": 17331,
+      "reviews": 1012
     }
   ]
 }

@@ -1,130 +1,359 @@
 {
   "books": [
     {
-      "title": "Conan of Cimmeria",
-      "url": "https://www.goodreads.com/book/show/443765.Conan_of_Cimmeria",
-      "id": "996232",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1312649858i/443765.jpg",
+      "title": "Marie Stuart",
+      "url": "https://www.goodreads.com/book/show/1393717.Marie_Stuart",
+      "id": "1993931",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1360566632i/1393717.jpg",
+      "authors": [
+        "Stefan Zweig"
+      ],
+      "genres": [
+        "history",
+        "biography",
+        "non-fiction",
+        "classics",
+        "german-literature",
+        "scotland",
+        "historical"
+      ],
+      "rating": 4.21,
+      "ratings": 5537,
+      "reviews": 462
+    },
+    {
+      "title": "Mojave Crossing",
+      "url": "https://www.goodreads.com/book/show/699643.Mojave_Crossing",
+      "id": "116631",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320543987i/699643.jpg",
+      "authors": [
+        "Louis L'Amour"
+      ],
+      "genres": [
+        "westerns",
+        "fiction",
+        "historical-fiction",
+        "adventure",
+        "audiobook",
+        "classics",
+        "action"
+      ],
+      "rating": 4.07,
+      "ratings": 5535,
+      "reviews": 231
+    },
+    {
+      "title": "Small World",
+      "url": "https://www.goodreads.com/book/show/738448.Small_World",
+      "id": "724623",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1571567021i/738448.jpg",
+      "authors": [
+        "Martin Suter"
+      ],
+      "genres": [
+        "fiction",
+        "german-literature",
+        "roman",
+        "novels",
+        "contemporary",
+        "classics",
+        "crime"
+      ],
+      "rating": 4.09,
+      "ratings": 5531,
+      "reviews": 207
+    },
+    {
+      "title": "Dancing Shoes",
+      "url": "https://www.goodreads.com/book/show/3783.Dancing_Shoes",
+      "id": "762703",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1419183245i/3783.jpg",
+      "authors": [
+        "Noel Streatfeild"
+      ],
+      "genres": [
+        "childrens",
+        "fiction",
+        "classics",
+        "middle-grade",
+        "young-adult",
+        "historical-fiction",
+        "realistic-fiction"
+      ],
+      "rating": 4.08,
+      "ratings": 5530,
+      "reviews": 272
+    },
+    {
+      "title": "Seven Plays",
+      "url": "https://www.goodreads.com/book/show/12142.Seven_Plays",
+      "id": "14484",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1432910842i/12142.jpg",
+      "authors": [
+        "Sam Shepard"
+      ],
+      "genres": [
+        "plays",
+        "drama",
+        "theatre",
+        "fiction",
+        "american",
+        "literature",
+        "classics"
+      ],
+      "rating": 4.16,
+      "ratings": 5528,
+      "reviews": 158
+    },
+    {
+      "title": "Rain Man",
+      "url": "https://www.goodreads.com/book/show/237364.Rain_Man",
+      "id": "229914",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1172992329i/237364.jpg",
+      "authors": [
+        "Leonore Fleischer"
+      ],
+      "genres": [
+        "fiction",
+        "media-tie-in",
+        "classics",
+        "contemporary",
+        "novels",
+        "american",
+        "medical"
+      ],
+      "rating": 4.29,
+      "ratings": 5523,
+      "reviews": 120
+    },
+    {
+      "title": "Many Moons",
+      "url": "https://www.goodreads.com/book/show/761365.Many_Moons",
+      "id": "1645517",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1363787876i/761365.jpg",
+      "authors": [
+        "James Thurber"
+      ],
+      "genres": [
+        "picture-books",
+        "childrens",
+        "fiction",
+        "fantasy",
+        "classics",
+        "fairy-tales",
+        "juvenile"
+      ],
+      "rating": 4.12,
+      "ratings": 5518,
+      "reviews": 484
+    },
+    {
+      "title": "Shadows in Paradise",
+      "url": "https://www.goodreads.com/book/show/499437.Shadows_in_Paradise",
+      "id": "7019277",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320492172i/499437.jpg",
+      "authors": [
+        "Erich Maria Remarque"
+      ],
+      "genres": [
+        "fiction",
+        "classics",
+        "german-literature",
+        "historical-fiction",
+        "war",
+        "20th-century",
+        "historical"
+      ],
+      "rating": 4.16,
+      "ratings": 5512,
+      "reviews": 209
+    },
+    {
+      "title": "George and Martha",
+      "url": "https://www.goodreads.com/book/show/833535.George_and_Martha",
+      "id": "46151575",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1349062127i/833535.jpg",
+      "authors": [
+        "James  Marshall"
+      ],
+      "genres": [
+        "picture-books",
+        "childrens",
+        "fiction",
+        "animals",
+        "friendship",
+        "humor",
+        "classics"
+      ],
+      "rating": 4.18,
+      "ratings": 5510,
+      "reviews": 205
+    },
+    {
+      "title": "Gabriel Garcia Marquez's Love in the Time of Cholera: A Reader's Guide",
+      "url": "https://www.goodreads.com/book/show/9714.Gabriel_Garcia_Marquez_s_Love_in_the_Time_of_Cholera",
+      "id": "12514",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348243057i/9714.jpg",
+      "authors": [
+        "Thomas Fahy"
+      ],
+      "genres": [
+        "fiction",
+        "classics",
+        "literature",
+        "novels",
+        "magical-realism"
+      ],
+      "rating": 4.33,
+      "ratings": 5507,
+      "reviews": 102
+    },
+    {
+      "title": "The Prisoner in the Oak",
+      "url": "https://www.goodreads.com/book/show/18887.The_Prisoner_in_the_Oak",
+      "id": "6517583",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1313592586i/18887.jpg",
+      "authors": [
+        "Marion Zimmer Bradley"
+      ],
+      "genres": [
+        "fantasy",
+        "historical-fiction",
+        "fiction",
+        "romance",
+        "audiobook",
+        "arthurian",
+        "classics"
+      ],
+      "rating": 4.16,
+      "ratings": 5498,
+      "reviews": 193
+    },
+    {
+      "title": "Just William",
+      "url": "https://www.goodreads.com/book/show/742811.Just_William",
+      "id": "728964",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1177924430i/742811.jpg",
+      "authors": [
+        "Richmal Crompton"
+      ],
+      "genres": [
+        "childrens",
+        "fiction",
+        "classics",
+        "humor",
+        "short-stories",
+        "comedy",
+        "audiobook"
+      ],
+      "rating": 4.08,
+      "ratings": 5494,
+      "reviews": 288
+    },
+    {
+      "title": "The Complete Chronicles of Conan",
+      "url": "https://www.goodreads.com/book/show/828878.The_Complete_Chronicles_of_Conan",
+      "id": "146900",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1431298282i/828878.jpg",
       "authors": [
         "Robert E. Howard"
       ],
       "genres": [
         "fantasy",
         "fiction",
-        "sword-and-sorcery",
-        "pulp",
-        "adventure",
+        "classics",
         "short-stories",
-        "classics"
+        "adventure",
+        "sword-and-sorcery",
+        "pulp"
       ],
-      "rating": 4.11,
-      "ratings": 4972,
-      "reviews": 114
+      "rating": 4.3,
+      "ratings": 5491,
+      "reviews": 270
     },
     {
-      "title": "Verdi",
-      "url": "https://www.goodreads.com/book/show/970061.Verdi",
-      "id": "2415351",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347311292i/970061.jpg",
+      "title": "Tales of Belkin and Other Prose Writings",
+      "url": "https://www.goodreads.com/book/show/97385.Tales_of_Belkin_and_Other_Prose_Writings",
+      "id": "93874",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1657538939i/97385.jpg",
       "authors": [
-        "Janell Cannon"
+        "Alexander Pushkin"
       ],
       "genres": [
-        "picture-books",
-        "childrens",
-        "animals",
-        "fiction",
-        "nature",
-        "2nd-grade",
-        "classics"
-      ],
-      "rating": 4.23,
-      "ratings": 4971,
-      "reviews": 290
-    },
-    {
-      "title": "Curious George Goes to the Beach",
-      "url": "https://www.goodreads.com/book/show/141930.Curious_George_Goes_to_the_Beach",
-      "id": "26535688",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348828148i/141930.jpg",
-      "authors": [
-        "Margret Rey"
-      ],
-      "genres": [
-        "picture-books",
-        "childrens",
-        "fiction",
-        "animals",
-        "juvenile",
-        "humor",
-        "classics"
-      ],
-      "rating": 4.31,
-      "ratings": 4969,
-      "reviews": 59
-    },
-    {
-      "title": "Los recuerdos del porvenir",
-      "url": "https://www.goodreads.com/book/show/2514766.Los_recuerdos_del_porvenir",
-      "id": "2522148",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1404792418i/2514766.jpg",
-      "authors": [
-        "Elena Garro"
-      ],
-      "genres": [
-        "fiction",
-        "spanish-literature",
         "classics",
-        "magical-realism",
+        "russia",
+        "russian-literature",
+        "short-stories",
+        "fiction",
+        "literature",
+        "19th-century"
+      ],
+      "rating": 4.25,
+      "ratings": 5489,
+      "reviews": 64
+    },
+    {
+      "title": "On the Other Side of the Hill",
+      "url": "https://www.goodreads.com/book/show/129786.On_the_Other_Side_of_the_Hill",
+      "id": "125000",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388720962i/129786.jpg",
+      "authors": [
+        "Roger Lea MacBride"
+      ],
+      "genres": [
         "historical-fiction",
-        "novels",
-        "20th-century"
-      ],
-      "rating": 4.33,
-      "ratings": 4968,
-      "reviews": 831
-    },
-    {
-      "title": "Good Work, Amelia Bedelia",
-      "url": "https://www.goodreads.com/book/show/413166.Good_Work_Amelia_Bedelia",
-      "id": "138795",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347486529i/413166.jpg",
-      "authors": [
-        "Peggy Parish"
-      ],
-      "genres": [
         "childrens",
-        "picture-books",
         "fiction",
-        "humor",
+        "historical",
+        "middle-grade",
         "classics",
-        "chapter-books",
         "young-adult"
       ],
-      "rating": 4.26,
-      "ratings": 4968,
-      "reviews": 91
+      "rating": 4.06,
+      "ratings": 5489,
+      "reviews": 69
     },
     {
-      "title": "Sunset Song",
-      "url": "https://www.goodreads.com/book/show/1203812.Sunset_Song",
-      "id": "2555083",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1359617860i/1203812.jpg",
+      "title": "Betsy Was a Junior",
+      "url": "https://www.goodreads.com/book/show/7901.Betsy_Was_a_Junior",
+      "id": "10923",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1389471879i/7901.jpg",
       "authors": [
-        "Lewis Grassic Gibbon"
+        "Maud Hart Lovelace"
       ],
       "genres": [
         "classics",
         "fiction",
-        "scotland",
         "historical-fiction",
-        "war",
+        "young-adult",
+        "childrens",
         "historical",
-        "20th-century"
+        "middle-grade"
       ],
-      "rating": 4.01,
-      "ratings": 4965,
-      "reviews": 516
+      "rating": 4.21,
+      "ratings": 5484,
+      "reviews": 208
+    },
+    {
+      "title": "The Shawshank Redemption: Different Seasons",
+      "url": "https://www.goodreads.com/book/show/155403.The_Shawshank_Redemption",
+      "id": "91072988",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1172260108i/155403.jpg",
+      "authors": [
+        "Stephen        King"
+      ],
+      "genres": [
+        "fiction",
+        "audiobook",
+        "horror",
+        "thriller",
+        "short-stories",
+        "classics",
+        "historical-fiction"
+      ],
+      "rating": 4.49,
+      "ratings": 5482,
+      "reviews": 273
     },
     {
       "title": "The Snow Goose",
@@ -144,365 +373,134 @@
         "childrens"
       ],
       "rating": 4.16,
-      "ratings": 4961,
-      "reviews": 666
+      "ratings": 5481,
+      "reviews": 750
     },
     {
-      "title": "Los árboles mueren de pie",
-      "url": "https://www.goodreads.com/book/show/462024.Los_rboles_mueren_de_pie",
-      "id": "2236540",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1174960108i/462024.jpg",
+      "title": "The Rare Jewel of Christian Contentment",
+      "url": "https://www.goodreads.com/book/show/770478.The_Rare_Jewel_of_Christian_Contentment",
+      "id": "756536",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1387718357i/770478.jpg",
       "authors": [
-        "Alejandro Casona"
+        "Jeremiah Burroughs"
       ],
       "genres": [
-        "plays",
-        "classics",
-        "school",
-        "fiction",
-        "spanish-literature",
-        "drama",
-        "theatre"
+        "christian",
+        "theology",
+        "christian-living",
+        "non-fiction",
+        "christianity",
+        "faith",
+        "classics"
       ],
-      "rating": 4.14,
-      "ratings": 4958,
-      "reviews": 385
+      "rating": 4.36,
+      "ratings": 5478,
+      "reviews": 627
     },
     {
-      "title": "View with a Grain of Sand: Selected Poems",
-      "url": "https://www.goodreads.com/book/show/10203.View_with_a_Grain_of_Sand",
-      "id": "12929",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1436946285i/10203.jpg",
+      "title": "Goblin Market and Other Poems",
+      "url": "https://www.goodreads.com/book/show/244887.Goblin_Market_and_Other_Poems",
+      "id": "419763",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388264168i/244887.jpg",
       "authors": [
-        "Wisława Szymborska"
+        "Christina Rossetti"
       ],
       "genres": [
         "poetry",
-        "poland",
-        "nobel-prize",
-        "polish-literature",
         "classics",
-        "literature",
-        "womens"
-      ],
-      "rating": 4.33,
-      "ratings": 4956,
-      "reviews": 409
-    },
-    {
-      "title": "The Night Train at Deoli and Other Stories",
-      "url": "https://www.goodreads.com/book/show/475173.The_Night_Train_at_Deoli_and_Other_Stories",
-      "id": "463415",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1356444140i/475173.jpg",
-      "authors": [
-        "Ruskin Bond"
-      ],
-      "genres": [
-        "short-stories",
+        "fantasy",
+        "19th-century",
         "fiction",
-        "india",
-        "indian-literature",
-        "classics",
-        "contemporary",
-        "romance"
-      ],
-      "rating": 4.21,
-      "ratings": 4951,
-      "reviews": 272
-    },
-    {
-      "title": "The Campaigns of Alexander",
-      "url": "https://www.goodreads.com/book/show/862639.The_Campaigns_of_Alexander",
-      "id": "848066",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1678478571i/862639.jpg",
-      "authors": [
-        "Arrian"
-      ],
-      "genres": [
-        "history",
-        "classics",
-        "non-fiction",
-        "biography",
-        "ancient-history",
-        "war",
-        "greece"
-      ],
-      "rating": 4.15,
-      "ratings": 4945,
-      "reviews": 198
-    },
-    {
-      "title": "The Best Short Stories of Edgar Allan Poe",
-      "url": "https://www.goodreads.com/book/show/180535.The_Best_Short_Stories_of_Edgar_Allan_Poe",
-      "id": "887403",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388304388i/180535.jpg",
-      "authors": [
-        "Edgar Allan Poe"
-      ],
-      "genres": [
-        "short-stories",
-        "classics",
-        "fiction",
-        "horror",
         "gothic",
-        "literature",
-        "american"
-      ],
-      "rating": 4.21,
-      "ratings": 4943,
-      "reviews": 155
-    },
-    {
-      "title": "The Compromise",
-      "url": "https://www.goodreads.com/book/show/153296.The_Compromise",
-      "id": "1265804",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348015596i/153296.jpg",
-      "authors": [
-        "Sergei Dovlatov"
-      ],
-      "genres": [
-        "russia",
-        "fiction",
-        "russian-literature",
-        "humor",
-        "20th-century",
-        "literature",
-        "classics"
-      ],
-      "rating": 4.38,
-      "ratings": 4936,
-      "reviews": 190
-    },
-    {
-      "title": "Alice in Wonderland: The Complete Collection",
-      "url": "https://www.goodreads.com/book/show/18859266-alice-in-wonderland",
-      "id": "84590366",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1384888441i/18859266.jpg",
-      "authors": [
-        "Lewis Carroll"
-      ],
-      "genres": [
-        "classics",
-        "fantasy",
-        "fiction",
-        "childrens",
-        "adventure",
-        "young-adult",
-        "literature"
-      ],
-      "rating": 4.23,
-      "ratings": 4934,
-      "reviews": 190
-    },
-    {
-      "title": "A Little House of Their Own",
-      "url": "https://www.goodreads.com/book/show/543358.A_Little_House_of_Their_Own",
-      "id": "2755985",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388465264i/543358.jpg",
-      "authors": [
-        "Celia Wilkins"
-      ],
-      "genres": [
-        "historical-fiction",
-        "childrens",
-        "fiction",
-        "historical",
-        "middle-grade",
-        "romance",
-        "classics"
-      ],
-      "rating": 4.17,
-      "ratings": 4932,
-      "reviews": 50
-    },
-    {
-      "title": "The Book of the Dun Cow",
-      "url": "https://www.goodreads.com/book/show/77721.The_Book_of_the_Dun_Cow",
-      "id": "75067",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388271082i/77721.jpg",
-      "authors": [
-        "Walter Wangerin Jr."
-      ],
-      "genres": [
-        "fantasy",
-        "fiction",
-        "animals",
-        "classics",
-        "christian",
-        "christian-fiction",
-        "novels"
+        "victorian"
       ],
       "rating": 4.04,
-      "ratings": 4922,
-      "reviews": 713
+      "ratings": 5473,
+      "reviews": 423
     },
     {
-      "title": "The Fight",
-      "url": "https://www.goodreads.com/book/show/773971.The_Fight",
-      "id": "811596",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347331396i/773971.jpg",
+      "title": "Because a Little Bug Went Ka-choo!",
+      "url": "https://www.goodreads.com/book/show/138798.Because_a_Little_Bug_Went_Ka_choo_",
+      "id": "133785",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1332553317i/138798.jpg",
       "authors": [
-        "Norman Mailer"
-      ],
-      "genres": [
-        "non-fiction",
-        "sports",
-        "history",
-        "biography",
-        "journalism",
-        "classics",
-        "africa"
-      ],
-      "rating": 4.05,
-      "ratings": 4912,
-      "reviews": 367
-    },
-    {
-      "title": "Das fliegende Klassenzimmer",
-      "url": "https://www.goodreads.com/book/show/1132597.Das_fliegende_Klassenzimmer",
-      "id": "1950759",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1181250009i/1132597.jpg",
-      "authors": [
-        "Erich Kästner"
-      ],
-      "genres": [
-        "childrens",
-        "classics",
-        "fiction",
-        "german-literature",
-        "christmas",
-        "germany",
-        "novels"
-      ],
-      "rating": 4.21,
-      "ratings": 4910,
-      "reviews": 241
-    },
-    {
-      "title": "Hardy Boys Complete Series Set Books 1-66",
-      "url": "https://www.goodreads.com/book/show/146656.Hardy_Boys_Complete_Series_Set_Books_1_66",
-      "id": "141538",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1387733857i/146656.jpg",
-      "authors": [
-        "Franklin W. Dixon"
-      ],
-      "genres": [
-        "mystery",
-        "fiction",
-        "childrens",
-        "young-adult",
-        "classics",
-        "adventure",
-        "middle-grade"
-      ],
-      "rating": 4.18,
-      "ratings": 4907,
-      "reviews": 194
-    },
-    {
-      "title": "The Three Questions",
-      "url": "https://www.goodreads.com/book/show/218152.The_Three_Questions",
-      "id": "211219",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386923922i/218152.jpg",
-      "authors": [
-        "Jon J. Muth"
+        "Rosetta  Stone"
       ],
       "genres": [
         "picture-books",
         "childrens",
         "fiction",
+        "humor",
+        "classics",
+        "kids",
+        "animals"
+      ],
+      "rating": 4.31,
+      "ratings": 5467,
+      "reviews": 176
+    },
+    {
+      "title": "Unto a Good Land",
+      "url": "https://www.goodreads.com/book/show/165029.Unto_a_Good_Land",
+      "id": "159341",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1389332136i/165029.jpg",
+      "authors": [
+        "Vilhelm Moberg"
+      ],
+      "genres": [
+        "historical-fiction",
+        "classics",
+        "fiction",
+        "swedish-literature",
+        "historical",
+        "sweden",
+        "audiobook"
+      ],
+      "rating": 4.34,
+      "ratings": 5458,
+      "reviews": 249
+    },
+    {
+      "title": "His Master's Voice",
+      "url": "https://www.goodreads.com/book/show/28763.His_Master_s_Voice",
+      "id": "2404106",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386748165i/28763.jpg",
+      "authors": [
+        "Stanisław Lem"
+      ],
+      "genres": [
+        "science-fiction",
+        "fiction",
+        "polish-literature",
         "philosophy",
-        "animals",
-        "spirituality",
-        "classics"
+        "novels",
+        "classics",
+        "literature"
       ],
-      "rating": 4.35,
-      "ratings": 4899,
-      "reviews": 580
+      "rating": 4.08,
+      "ratings": 5455,
+      "reviews": 512
     },
     {
-      "title": "Play the Piano Drunk Like a Percussion Instrument Until the Fingers Begin to Bleed a Bit",
-      "url": "https://www.goodreads.com/book/show/70885.Play_the_Piano_Drunk_Like_a_Percussion_Instrument_Until_the_Fingers_Begin_to_Bleed_a_Bit",
-      "id": "68682",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1407711507i/70885.jpg",
+      "title": "The Bet",
+      "url": "https://www.goodreads.com/book/show/2895911-the-bet",
+      "id": "57441386",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348595612i/2895911.jpg",
       "authors": [
-        "Charles Bukowski"
+        "Anton Chekhov"
       ],
       "genres": [
-        "poetry",
-        "fiction",
-        "american",
-        "classics",
-        "literature",
-        "20th-century",
-        "contemporary"
-      ],
-      "rating": 4.15,
-      "ratings": 4897,
-      "reviews": 218
-    },
-    {
-      "title": "The Practice and Science of Drawing",
-      "url": "https://www.goodreads.com/book/show/1514213.The_Practice_and_Science_of_Drawing",
-      "id": "1505893",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1639703249i/1514213.jpg",
-      "authors": [
-        "Harold Speed"
-      ],
-      "genres": [
-        "art",
-        "drawing",
-        "non-fiction",
-        "reference",
-        "art-design",
-        "classics",
-        "art-history"
-      ],
-      "rating": 4.09,
-      "ratings": 4893,
-      "reviews": 52
-    },
-    {
-      "title": "To Build a Fire and Other Stories",
-      "url": "https://www.goodreads.com/book/show/70791.To_Build_a_Fire_and_Other_Stories",
-      "id": "277760",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1312041227i/70791.jpg",
-      "authors": [
-        "Jack London"
-      ],
-      "genres": [
-        "fiction",
-        "classics",
         "short-stories",
-        "adventure",
-        "literature",
-        "american",
-        "nature"
-      ],
-      "rating": 4.07,
-      "ratings": 4890,
-      "reviews": 212
-    },
-    {
-      "title": "La Regenta",
-      "url": "https://www.goodreads.com/book/show/69413.La_Regenta",
-      "id": "67266",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1405436155i/69413.jpg",
-      "authors": [
-        "Leopoldo Alas"
-      ],
-      "genres": [
         "classics",
         "fiction",
-        "spanish-literature",
-        "spain",
-        "19th-century",
-        "literature",
-        "novels"
+        "russian-literature",
+        "russia",
+        "philosophy",
+        "audiobook"
       ],
-      "rating": 4,
-      "ratings": 4881,
-      "reviews": 339
+      "rating": 4.12,
+      "ratings": 5455,
+      "reviews": 815
     }
   ]
 }

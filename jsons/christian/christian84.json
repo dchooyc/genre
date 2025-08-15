@@ -1,235 +1,445 @@
 {
   "books": [
     {
-      "title": "A Bride of Convenience",
-      "url": "https://www.goodreads.com/book/show/53172642-a-bride-of-convenience",
-      "id": "73635155",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1571959465l/53172642.jpg",
+      "title": "Between Heaven and the Real World: My Story",
+      "url": "https://www.goodreads.com/book/show/30259136-between-heaven-and-the-real-world",
+      "id": "50731396",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1468229577i/30259136.jpg",
       "authors": [
-        "Jody Hedlund"
+        "Steven Curtis Chapman"
+      ],
+      "genres": [
+        "biography",
+        "non-fiction",
+        "christian",
+        "memoir",
+        "audiobook",
+        "faith",
+        "music"
+      ],
+      "rating": 4.58,
+      "ratings": 2599,
+      "reviews": 436
+    },
+    {
+      "title": "The Practice of Godliness",
+      "url": "https://www.goodreads.com/book/show/349283.The_Practice_of_Godliness",
+      "id": "339555",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388353111i/349283.jpg",
+      "authors": [
+        "Jerry Bridges"
+      ],
+      "genres": [
+        "christian-living",
+        "christian",
+        "theology",
+        "non-fiction",
+        "christianity",
+        "faith",
+        "spirituality"
+      ],
+      "rating": 4.4,
+      "ratings": 2599,
+      "reviews": 151
+    },
+    {
+      "title": "Take a Chance on Me",
+      "url": "https://www.goodreads.com/book/show/51827796-take-a-chance-on-me",
+      "id": "76323212",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1582810563i/51827796.jpg",
+      "authors": [
+        "Becky Wade"
+      ],
+      "genres": [
+        "romance",
+        "christian-fiction",
+        "contemporary",
+        "christian",
+        "novella",
+        "christian-romance",
+        "fiction"
+      ],
+      "rating": 4.12,
+      "ratings": 2596,
+      "reviews": 323
+    },
+    {
+      "title": "(Un)Qualified: How God Uses Broken People to Do Big Things",
+      "url": "https://www.goodreads.com/book/show/26109225-un-qualified",
+      "id": "46054632",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1456094033i/26109225.jpg",
+      "authors": [
+        "Steven Furtick"
+      ],
+      "genres": [
+        "christian",
+        "faith",
+        "non-fiction",
+        "audiobook",
+        "spirituality",
+        "self-help",
+        "christian-living"
+      ],
+      "rating": 4.3,
+      "ratings": 2596,
+      "reviews": 231
+    },
+    {
+      "title": "The Legacy Journey: A Radical View of Biblical Wealth and Generosity",
+      "url": "https://www.goodreads.com/book/show/21565654-the-legacy-journey",
+      "id": "25343315",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1417987316i/21565654.jpg",
+      "authors": [
+        "Dave Ramsey"
+      ],
+      "genres": [
+        "finance",
+        "non-fiction",
+        "christian",
+        "money",
+        "business",
+        "self-help",
+        "personal-finance"
+      ],
+      "rating": 4.34,
+      "ratings": 2595,
+      "reviews": 216
+    },
+    {
+      "title": "Take Back Your Family: From the Tyrants of Burnout, Busyness, Individualism, and the Nuclear Ideal",
+      "url": "https://www.goodreads.com/book/show/55918671-take-back-your-family",
+      "id": "87129900",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1619568435i/55918671.jpg",
+      "authors": [
+        "Jefferson Bethke"
+      ],
+      "genres": [
+        "parenting",
+        "family",
+        "non-fiction",
+        "christian",
+        "audiobook",
+        "faith",
+        "marriage"
+      ],
+      "rating": 4.33,
+      "ratings": 2594,
+      "reviews": 294
+    },
+    {
+      "title": "Time for God",
+      "url": "https://www.goodreads.com/book/show/3627351-time-for-god",
+      "id": "3670148",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1329187504i/3627351.jpg",
+      "authors": [
+        "Jacques Philippe"
+      ],
+      "genres": [
+        "catholic",
+        "faith",
+        "spirituality",
+        "religion",
+        "prayer",
+        "non-fiction",
+        "christian"
+      ],
+      "rating": 4.6,
+      "ratings": 2594,
+      "reviews": 211
+    },
+    {
+      "title": "Abigail",
+      "url": "https://www.goodreads.com/book/show/6633789-abigail",
+      "id": "6828181",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442576538i/6633789.jpg",
+      "authors": [
+        "Jill Eileen Smith"
+      ],
+      "genres": [
+        "biblical-fiction",
+        "christian-fiction",
+        "historical-fiction",
+        "christian",
+        "fiction",
+        "romance",
+        "historical"
+      ],
+      "rating": 4.22,
+      "ratings": 2594,
+      "reviews": 181
+    },
+    {
+      "title": "Exclusion and Embrace: A Theological Exploration of Identity, Otherness, and Reconciliation",
+      "url": "https://www.goodreads.com/book/show/9486.Exclusion_and_Embrace",
+      "id": "12327",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1421713085i/9486.jpg",
+      "authors": [
+        "Miroslav Volf"
+      ],
+      "genres": [
+        "theology",
+        "religion",
+        "non-fiction",
+        "christianity",
+        "christian",
+        "faith",
+        "philosophy"
+      ],
+      "rating": 4.31,
+      "ratings": 2593,
+      "reviews": 227
+    },
+    {
+      "title": "Lioness Arising: Wake Up and Change Your World",
+      "url": "https://www.goodreads.com/book/show/8179773-lioness-arising",
+      "id": "13026356",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320553599i/8179773.jpg",
+      "authors": [
+        "Lisa Bevere"
+      ],
+      "genres": [
+        "christian",
+        "non-fiction",
+        "faith",
+        "christianity",
+        "spirituality",
+        "christian-living",
+        "religion"
+      ],
+      "rating": 4.19,
+      "ratings": 2593,
+      "reviews": 229
+    },
+    {
+      "title": "Galatians for You",
+      "url": "https://www.goodreads.com/book/show/17087730-galatians-for-you",
+      "id": "23459029",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1356109091i/17087730.jpg",
+      "authors": [
+        "Timothy J. Keller"
+      ],
+      "genres": [
+        "christian",
+        "theology",
+        "non-fiction",
+        "christianity",
+        "faith",
+        "christian-living",
+        "religion"
+      ],
+      "rating": 4.45,
+      "ratings": 2592,
+      "reviews": 255
+    },
+    {
+      "title": "Dead Drift",
+      "url": "https://www.goodreads.com/book/show/36347470-dead-drift",
+      "id": "58028682",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1509337456i/36347470.jpg",
+      "authors": [
+        "Dani Pettrey"
+      ],
+      "genres": [
+        "christian-fiction",
+        "suspense",
+        "romance",
+        "mystery",
+        "fiction",
+        "christian",
+        "contemporary"
+      ],
+      "rating": 4.42,
+      "ratings": 2588,
+      "reviews": 349
+    },
+    {
+      "title": "Fairest of Heart",
+      "url": "https://www.goodreads.com/book/show/62611324-fairest-of-heart",
+      "id": "98367282",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1667069778i/62611324.jpg",
+      "authors": [
+        "Karen Witemeyer"
       ],
       "genres": [
         "historical-fiction",
         "christian-fiction",
         "romance",
-        "historical",
         "christian",
+        "historical",
+        "westerns",
+        "fiction"
+      ],
+      "rating": 4.26,
+      "ratings": 2587,
+      "reviews": 594
+    },
+    {
+      "title": "Positively, Penelope",
+      "url": "https://www.goodreads.com/book/show/63354447-positively-penelope",
+      "id": "99297299",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1684689089i/63354447.jpg",
+      "authors": [
+        "Pepper Basham"
+      ],
+      "genres": [
+        "romance",
+        "christian-fiction",
+        "contemporary",
         "fiction",
+        "audiobook",
+        "christian",
         "christian-romance"
       ],
-      "rating": 4.28,
-      "ratings": 2250,
-      "reviews": 362
+      "rating": 4.19,
+      "ratings": 2587,
+      "reviews": 727
     },
     {
-      "title": "Embraced: 100 Devotions to Know God Is Holding You Close",
-      "url": "https://www.goodreads.com/book/show/35821150-embraced",
-      "id": "57322896",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1521043889i/35821150.jpg",
+      "title": "The Purpose of Christmas",
+      "url": "https://www.goodreads.com/book/show/4287255-the-purpose-of-christmas",
+      "id": "4334817",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1439509414i/4287255.jpg",
       "authors": [
-        "Lysa TerKeurst"
+        "Rick Warren"
       ],
       "genres": [
-        "christian",
-        "non-fiction",
-        "faith",
-        "religion",
-        "christian-living",
-        "self-help",
-        "christian-non-fiction"
-      ],
-      "rating": 4.57,
-      "ratings": 2248,
-      "reviews": 179
-    },
-    {
-      "title": "The Difficult Doctrine of the Love of God",
-      "url": "https://www.goodreads.com/book/show/277500.The_Difficult_Doctrine_of_the_Love_of_God",
-      "id": "269126",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386924172i/277500.jpg",
-      "authors": [
-        "D.A. Carson"
-      ],
-      "genres": [
-        "theology",
-        "christian",
-        "christianity",
-        "non-fiction",
-        "faith",
-        "christian-living",
-        "religion"
-      ],
-      "rating": 4.29,
-      "ratings": 2247,
-      "reviews": 186
-    },
-    {
-      "title": "An Amish Christmas: A Choice to Forgive/A Miracle for Miriam/One Child",
-      "url": "https://www.goodreads.com/book/show/6339979-an-amish-christmas",
-      "id": "6525967",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1380855999i/6339979.jpg",
-      "authors": [
-        "Beth Wiseman"
-      ],
-      "genres": [
-        "amish",
         "christmas",
-        "christian-fiction",
-        "fiction",
-        "romance",
-        "amish-fiction",
-        "christian"
-      ],
-      "rating": 4.27,
-      "ratings": 2245,
-      "reviews": 210
-    },
-    {
-      "title": "Confessions of a Prayer Slacker",
-      "url": "https://www.goodreads.com/book/show/15979861-confessions-of-a-prayer-slacker",
-      "id": "13547470",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1350004061i/15979861.jpg",
-      "authors": [
-        "Diane Moody"
-      ],
-      "genres": [
         "christian",
         "non-fiction",
-        "prayer",
-        "religion",
-        "christian-non-fiction",
-        "faith",
-        "spirituality"
-      ],
-      "rating": 4.03,
-      "ratings": 2244,
-      "reviews": 290
-    },
-    {
-      "title": "God's Story, Your Story: When His Becomes Yours",
-      "url": "https://www.goodreads.com/book/show/11974709-god-s-story-your-story",
-      "id": "16937747",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1344667351i/11974709.jpg",
-      "authors": [
-        "Max Lucado"
-      ],
-      "genres": [
-        "christian",
-        "non-fiction",
-        "christian-living",
+        "christianity",
         "spirituality",
-        "religion",
         "faith",
         "inspirational"
       ],
-      "rating": 4.23,
-      "ratings": 2242,
+      "rating": 4.02,
+      "ratings": 2587,
+      "reviews": 305
+    },
+    {
+      "title": "The Long Road Home",
+      "url": "https://www.goodreads.com/book/show/239814.The_Long_Road_Home",
+      "id": "1331352",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348336685i/239814.jpg",
+      "authors": [
+        "Lori Wick"
+      ],
+      "genres": [
+        "christian-fiction",
+        "christian",
+        "romance",
+        "christian-romance",
+        "fiction",
+        "historical-fiction",
+        "historical"
+      ],
+      "rating": 4.14,
+      "ratings": 2586,
+      "reviews": 60
+    },
+    {
+      "title": "A Sister's Test",
+      "url": "https://www.goodreads.com/book/show/1869576.A_Sister_s_Test",
+      "id": "3360277",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1310475671i/1869576.jpg",
+      "authors": [
+        "Wanda E. Brunstetter"
+      ],
+      "genres": [
+        "amish",
+        "christian-fiction",
+        "amish-fiction",
+        "fiction",
+        "christian",
+        "romance",
+        "christian-romance"
+      ],
+      "rating": 4.24,
+      "ratings": 2585,
       "reviews": 164
     },
     {
-      "title": "Meet Fifty Shades Continued - Fifty Shades of Grey",
-      "url": "https://www.goodreads.com/book/show/18466793-meet-fifty-shades-continued---fifty-shades-of-grey",
-      "id": "26125623",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1378668377i/18466793.jpg",
+      "title": "The Conviction to Lead: 25 Principles for Leadership That Matters",
+      "url": "https://www.goodreads.com/book/show/13777878-the-conviction-to-lead",
+      "id": "19411653",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1351542472i/13777878.jpg",
       "authors": [
-        "G.E.  Griffin"
+        "R. Albert Mohler Jr."
       ],
       "genres": [
-        "romance",
-        "erotica",
-        "bdsm",
-        "fan-fiction",
-        "fiction",
+        "leadership",
         "christian",
-        "contemporary"
+        "christian-living",
+        "theology",
+        "non-fiction",
+        "business",
+        "christianity"
       ],
-      "rating": 4.21,
-      "ratings": 2241,
-      "reviews": 64
+      "rating": 4.25,
+      "ratings": 2584,
+      "reviews": 385
     },
     {
-      "title": "Sweetwater Gap",
-      "url": "https://www.goodreads.com/book/show/4437054-sweetwater-gap",
-      "id": "4485246",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1380857376i/4437054.jpg",
+      "title": "Sarai",
+      "url": "https://www.goodreads.com/book/show/11684722-sarai",
+      "id": "16631031",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348160443i/11684722.jpg",
       "authors": [
-        "Denise Hunter"
+        "Jill Eileen Smith"
       ],
       "genres": [
         "christian-fiction",
-        "romance",
-        "fiction",
+        "historical-fiction",
+        "biblical-fiction",
         "christian",
-        "contemporary",
-        "christian-romance",
-        "adult"
+        "fiction",
+        "historical",
+        "biblical"
       ],
-      "rating": 4.02,
-      "ratings": 2240,
-      "reviews": 185
+      "rating": 4.12,
+      "ratings": 2582,
+      "reviews": 268
     },
     {
-      "title": "The Words We Lost",
-      "url": "https://www.goodreads.com/book/show/61151420-the-words-we-lost",
-      "id": "96392468",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1671523079i/61151420.jpg",
+      "title": "Lament for a Son",
+      "url": "https://www.goodreads.com/book/show/148208.Lament_for_a_Son",
+      "id": "143026",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347809865i/148208.jpg",
       "authors": [
-        "Nicole Deese"
+        "Nicholas Wolterstorff"
       ],
       "genres": [
-        "christian-fiction",
-        "romance",
-        "contemporary",
-        "fiction",
-        "christian",
-        "contemporary-romance",
-        "christian-romance"
-      ],
-      "rating": 4.38,
-      "ratings": 2237,
-      "reviews": 606
-    },
-    {
-      "title": "Westminster Confession Of Faith w/ Catechisms (1646-7)",
-      "url": "https://www.goodreads.com/book/show/6463822-westminster-confession-of-faith-w-catechisms-1646-7",
-      "id": "6654289",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1367225081i/6463822.jpg",
-      "authors": [
-        "Westminster Assembly"
-      ],
-      "genres": [
+        "grief",
+        "non-fiction",
         "theology",
         "christian",
-        "non-fiction",
-        "reference",
-        "christianity",
-        "school",
-        "religion"
+        "memoir",
+        "philosophy",
+        "faith"
       ],
-      "rating": 4.51,
-      "ratings": 2235,
-      "reviews": 74
+      "rating": 4.52,
+      "ratings": 2580,
+      "reviews": 383
     },
     {
-      "title": "Faith after Doubt: Why Your Beliefs Stopped Working and What to Do about It",
-      "url": "https://www.goodreads.com/book/show/53138160-faith-after-doubt",
-      "id": "79888673",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1601941907i/53138160.jpg",
+      "title": "Hope",
+      "url": "https://www.goodreads.com/book/show/823854.Hope",
+      "id": "809643",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1406507780i/823854.jpg",
       "authors": [
-        "Brian D. McLaren"
+        "Lori Copeland"
       ],
       "genres": [
-        "religion",
-        "spirituality",
-        "non-fiction",
-        "faith",
+        "christian-fiction",
+        "historical-fiction",
+        "romance",
         "christian",
-        "christianity",
-        "theology"
+        "fiction",
+        "christian-romance",
+        "historical-romance"
       ],
-      "rating": 4.31,
-      "ratings": 2234,
-      "reviews": 390
+      "rating": 4.17,
+      "ratings": 2579,
+      "reviews": 119
     },
     {
       "title": "On a Summer Tide",
@@ -240,269 +450,59 @@
         "Suzanne Woods Fisher"
       ],
       "genres": [
+        "fiction",
         "christian-fiction",
         "contemporary",
-        "fiction",
         "romance",
         "christian",
-        "contemporary-romance",
-        "inspirational"
-      ],
-      "rating": 4.21,
-      "ratings": 2233,
-      "reviews": 413
-    },
-    {
-      "title": "The Dawning of Indestructible Joy: Daily Readings for Advent",
-      "url": "https://www.goodreads.com/book/show/19353111-the-dawning-of-indestructible-joy",
-      "id": "27414026",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1387557360i/19353111.jpg",
-      "authors": [
-        "John      Piper"
-      ],
-      "genres": [
-        "christmas",
-        "christian",
-        "non-fiction",
-        "theology",
-        "christianity",
-        "faith",
-        "christian-living"
-      ],
-      "rating": 4.24,
-      "ratings": 2231,
-      "reviews": 202
-    },
-    {
-      "title": "A Lady of Secret Devotion",
-      "url": "https://www.goodreads.com/book/show/2457275.A_Lady_of_Secret_Devotion",
-      "id": "2603855",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348332271i/2457275.jpg",
-      "authors": [
-        "Tracie Peterson"
-      ],
-      "genres": [
-        "christian-fiction",
-        "historical-fiction",
-        "romance",
-        "christian",
-        "historical",
-        "fiction",
-        "christian-romance"
-      ],
-      "rating": 4.12,
-      "ratings": 2230,
-      "reviews": 105
-    },
-    {
-      "title": "A Gilded Lady",
-      "url": "https://www.goodreads.com/book/show/53158106-a-gilded-lady",
-      "id": "73635349",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1571959336l/53158106.jpg",
-      "authors": [
-        "Elizabeth Camden"
-      ],
-      "genres": [
-        "historical-fiction",
-        "christian-fiction",
-        "romance",
-        "historical",
-        "christian",
-        "fiction",
-        "historical-romance"
-      ],
-      "rating": 4.28,
-      "ratings": 2229,
-      "reviews": 425
-    },
-    {
-      "title": "The Tinderbox",
-      "url": "https://www.goodreads.com/book/show/40392221-the-tinderbox",
-      "id": "62706778",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1530015674i/40392221.jpg",
-      "authors": [
-        "Beverly Lewis"
-      ],
-      "genres": [
-        "amish",
-        "christian-fiction",
-        "amish-fiction",
-        "fiction",
-        "christian",
-        "romance",
-        "family"
-      ],
-      "rating": 4.25,
-      "ratings": 2228,
-      "reviews": 281
-    },
-    {
-      "title": "Memory Lane",
-      "url": "https://www.goodreads.com/book/show/83815361-memory-lane",
-      "id": "100955784",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1674430156i/83815361.jpg",
-      "authors": [
-        "Becky Wade"
-      ],
-      "genres": [
-        "romance",
-        "christian-fiction",
-        "contemporary",
-        "christian",
-        "clean-romance",
-        "contemporary-romance",
-        "fiction"
-      ],
-      "rating": 4.13,
-      "ratings": 2226,
-      "reviews": 540
-    },
-    {
-      "title": "Worship Matters: Leading Others to Encounter the Greatness of God",
-      "url": "https://www.goodreads.com/book/show/1917994.Worship_Matters",
-      "id": "1920054",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1354831817i/1917994.jpg",
-      "authors": [
-        "Bob Kauflin"
-      ],
-      "genres": [
-        "christian",
-        "theology",
-        "non-fiction",
-        "church",
-        "music",
-        "faith",
-        "christianity"
-      ],
-      "rating": 4.4,
-      "ratings": 2224,
-      "reviews": 192
-    },
-    {
-      "title": "Welcome to Adulting: Navigating Faith, Friendship, Finances, and the Future",
-      "url": "https://www.goodreads.com/book/show/38502479-welcome-to-adulting",
-      "id": "60141222",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1528384638i/38502479.jpg",
-      "authors": [
-        "Jonathan Pokluda"
-      ],
-      "genres": [
-        "christian",
-        "self-help",
-        "non-fiction",
-        "faith",
-        "religion",
-        "relationships",
-        "christianity"
-      ],
-      "rating": 4.22,
-      "ratings": 2223,
-      "reviews": 226
-    },
-    {
-      "title": "Really Bad Girls of the Bible: More Lessons from Less-Than-Perfect-Women",
-      "url": "https://www.goodreads.com/book/show/108282.Really_Bad_Girls_of_the_Bible",
-      "id": "104342",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1171581118i/108282.jpg",
-      "authors": [
-        "Liz Curtis Higgs"
-      ],
-      "genres": [
-        "christian",
-        "non-fiction",
-        "religion",
-        "christian-non-fiction",
-        "christianity",
         "inspirational",
-        "faith"
+        "audiobook"
       ],
-      "rating": 4.21,
-      "ratings": 2222,
-      "reviews": 126
+      "rating": 4.19,
+      "ratings": 2579,
+      "reviews": 437
     },
     {
-      "title": "The Color of Your Skin Ain't the Color of Your Heart",
-      "url": "https://www.goodreads.com/book/show/817380.The_Color_of_Your_Skin_Ain_t_the_Color_of_Your_Heart",
-      "id": "803267",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348622934i/817380.jpg",
+      "title": "Labyrinth of Lies",
+      "url": "https://www.goodreads.com/book/show/57015924-labyrinth-of-lies",
+      "id": "89211568",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1614298633i/57015924.jpg",
       "authors": [
-        "Michael R. Phillips"
+        "Irene Hannon"
       ],
       "genres": [
-        "historical-fiction",
         "christian-fiction",
+        "suspense",
+        "mystery",
         "fiction",
-        "historical",
-        "christian",
-        "civil-war",
-        "adult-fiction"
+        "romance",
+        "romantic-suspense",
+        "christian"
       ],
-      "rating": 4.39,
-      "ratings": 2222,
-      "reviews": 105
+      "rating": 4.3,
+      "ratings": 2573,
+      "reviews": 337
     },
     {
-      "title": "I Declare War: Four Keys to Winning the Battle with Yourself",
-      "url": "https://www.goodreads.com/book/show/38915906-i-declare-war",
-      "id": "60481132",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1529215988i/38915906.jpg",
+      "title": "White Too Long: The Legacy of White Supremacy in American Christianity",
+      "url": "https://www.goodreads.com/book/show/52764767-white-too-long",
+      "id": "73727746",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1570969980i/52764767.jpg",
       "authors": [
-        "Levi Lusko"
+        "Robert P. Jones"
       ],
       "genres": [
-        "christian",
         "non-fiction",
-        "faith",
-        "self-help",
-        "christian-living",
-        "personal-development",
-        "inspirational"
+        "religion",
+        "history",
+        "race",
+        "politics",
+        "christianity",
+        "christian"
       ],
-      "rating": 4.38,
-      "ratings": 2221,
-      "reviews": 206
-    },
-    {
-      "title": "Leah's Choice",
-      "url": "https://www.goodreads.com/book/show/37585027-leah-s-choice",
-      "id": "6847525",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1566225124i/37585027.jpg",
-      "authors": [
-        "Marta Perry"
-      ],
-      "genres": [
-        "amish",
-        "christian-fiction",
-        "amish-fiction",
-        "christian",
-        "fiction",
-        "romance",
-        "christian-romance"
-      ],
-      "rating": 4.32,
-      "ratings": 2220,
-      "reviews": 101
-    },
-    {
-      "title": "In the Shadow of Denali",
-      "url": "https://www.goodreads.com/book/show/30259062-in-the-shadow-of-denali",
-      "id": "50731299",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1478701288i/30259062.jpg",
-      "authors": [
-        "Tracie Peterson"
-      ],
-      "genres": [
-        "christian-fiction",
-        "historical-fiction",
-        "romance",
-        "fiction",
-        "historical",
-        "christian",
-        "historical-romance"
-      ],
-      "rating": 4.18,
-      "ratings": 2218,
-      "reviews": 238
+      "rating": 4.42,
+      "ratings": 2568,
+      "reviews": 477
     }
   ]
 }

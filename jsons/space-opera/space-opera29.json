@@ -1,23 +1,315 @@
 {
   "books": [
     {
-      "title": "Ice World",
-      "url": "https://www.goodreads.com/book/show/58976304-ice-world",
-      "id": "92956083",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1631423963i/58976304.jpg",
+      "title": "Some Golden Harbor",
+      "url": "https://www.goodreads.com/book/show/432119.Some_Golden_Harbor",
+      "id": "421084",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1438906478i/432119.jpg",
+      "authors": [
+        "David Drake"
+      ],
+      "genres": [
+        "science-fiction",
+        "space-opera",
+        "military-fiction",
+        "fiction",
+        "military-science-fiction",
+        "science-fiction-fantasy",
+        "audiobook"
+      ],
+      "rating": 4.05,
+      "ratings": 2351,
+      "reviews": 53
+    },
+    {
+      "title": "Slip Runner",
+      "url": "https://www.goodreads.com/book/show/63017573-slip-runner",
+      "id": "98863474",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1665968506i/63017573.jpg",
+      "authors": [
+        "J.N. Chaney"
+      ],
+      "genres": [
+        "science-fiction",
+        "audiobook",
+        "fiction",
+        "fantasy",
+        "adventure",
+        "space-opera",
+        "space"
+      ],
+      "rating": 4.32,
+      "ratings": 2349,
+      "reviews": 102
+    },
+    {
+      "title": "The Quantum Garden",
+      "url": "https://www.goodreads.com/book/show/43822104-the-quantum-garden",
+      "id": "68194023",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1552227422i/43822104.jpg",
+      "authors": [
+        "Derek Künsken"
+      ],
+      "genres": [
+        "science-fiction",
+        "audiobook",
+        "space-opera",
+        "fiction",
+        "time-travel",
+        "science-fiction-fantasy",
+        "hard-science-fiction"
+      ],
+      "rating": 4.22,
+      "ratings": 2343,
+      "reviews": 183
+    },
+    {
+      "title": "The Emperor's Legion",
+      "url": "https://www.goodreads.com/book/show/32861039-the-emperor-s-legion",
+      "id": "53465436",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1581772052i/32861039.jpg",
+      "authors": [
+        "Chris Wraight"
+      ],
+      "genres": [
+        "40k",
+        "science-fiction",
+        "audiobook",
+        "fiction",
+        "fantasy",
+        "space-opera",
+        "action"
+      ],
+      "rating": 4.29,
+      "ratings": 2340,
+      "reviews": 130
+    },
+    {
+      "title": "Dark Matters",
+      "url": "https://www.goodreads.com/book/show/60827138-dark-matters",
+      "id": "73554425",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1650186305i/60827138.jpg",
+      "authors": [
+        "Michelle Diener"
+      ],
+      "genres": [
+        "science-fiction",
+        "romance",
+        "aliens",
+        "science-fiction-romance",
+        "space-opera",
+        "space",
+        "audiobook"
+      ],
+      "rating": 4.11,
+      "ratings": 2337,
+      "reviews": 198
+    },
+    {
+      "title": "Gone Nova",
+      "url": "https://www.goodreads.com/book/show/203062424-gone-nova",
+      "id": "208637312",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1701478369i/203062424.jpg",
+      "authors": [
+        "J.N. Chaney"
+      ],
+      "genres": [
+        "science-fiction",
+        "audiobook",
+        "space-opera",
+        "fiction"
+      ],
+      "rating": 4.7,
+      "ratings": 2320,
+      "reviews": 78
+    },
+    {
+      "title": "Conspirator",
+      "url": "https://www.goodreads.com/book/show/5301856-conspirator",
+      "id": "5369293",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442887285i/5301856.jpg",
+      "authors": [
+        "C.J. Cherryh"
+      ],
+      "genres": [
+        "science-fiction",
+        "fiction",
+        "space-opera",
+        "fantasy",
+        "audiobook",
+        "science-fiction-fantasy",
+        "aliens"
+      ],
+      "rating": 4.28,
+      "ratings": 2320,
+      "reviews": 113
+    },
+    {
+      "title": "Darkness Beyond",
+      "url": "https://www.goodreads.com/book/show/42347875-darkness-beyond",
+      "id": "65994763",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1539623868i/42347875.jpg",
+      "authors": [
+        "Glynn Stewart"
+      ],
+      "genres": [
+        "science-fiction",
+        "space-opera",
+        "audiobook",
+        "fiction",
+        "military-science-fiction",
+        "military-fiction",
+        "science-fiction-fantasy"
+      ],
+      "rating": 4.41,
+      "ratings": 2320,
+      "reviews": 96
+    },
+    {
+      "title": "Praetorian of Dorn",
+      "url": "https://www.goodreads.com/book/show/29430395-praetorian-of-dorn",
+      "id": "49694998",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1471661721i/29430395.jpg",
+      "authors": [
+        "John  French"
+      ],
+      "genres": [
+        "science-fiction",
+        "40k",
+        "fiction",
+        "audiobook",
+        "fantasy",
+        "novels",
+        "space-opera"
+      ],
+      "rating": 4.12,
+      "ratings": 2320,
+      "reviews": 152
+    },
+    {
+      "title": "Green World",
+      "url": "https://www.goodreads.com/book/show/58192896-green-world",
+      "id": "91216625",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1622287872i/58192896.jpg",
       "authors": [
         "B.V. Larson"
       ],
       "genres": [
         "science-fiction",
+        "audiobook",
+        "space-opera",
+        "fiction",
+        "military-fiction",
+        "military-science-fiction"
+      ],
+      "rating": 4.36,
+      "ratings": 2318,
+      "reviews": 88
+    },
+    {
+      "title": "Home Run",
+      "url": "https://www.goodreads.com/book/show/40962187-home-run",
+      "id": "63896419",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1532721755i/40962187.jpg",
+      "authors": [
+        "Nathan Lowell"
+      ],
+      "genres": [
+        "science-fiction",
+        "space-opera",
+        "fiction",
+        "space",
+        "audiobook",
+        "science-fiction-fantasy",
+        "adventure"
+      ],
+      "rating": 4.53,
+      "ratings": 2315,
+      "reviews": 128
+    },
+    {
+      "title": "Jack Four",
+      "url": "https://www.goodreads.com/book/show/57668041-jack-four",
+      "id": "87575713",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1617896695i/57668041.jpg",
+      "authors": [
+        "Neal Asher"
+      ],
+      "genres": [
+        "science-fiction",
+        "space-opera",
+        "audiobook",
+        "fiction",
+        "hard-science-fiction",
+        "action",
+        "science-fiction-fantasy"
+      ],
+      "rating": 4.17,
+      "ratings": 2314,
+      "reviews": 149
+    },
+    {
+      "title": "One Decisive Victory",
+      "url": "https://www.goodreads.com/book/show/60868691-one-decisive-victory",
+      "id": "95999161",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1650743128i/60868691.jpg",
+      "authors": [
+        "Jeffery H. Haskell"
+      ],
+      "genres": [
+        "science-fiction",
         "space-opera",
         "military-science-fiction",
+        "military-fiction",
         "fiction",
-        "military-fiction"
+        "audiobook",
+        "fantasy"
       ],
-      "rating": 4.47,
-      "ratings": 2001,
-      "reviews": 103
+      "rating": 4.43,
+      "ratings": 2314,
+      "reviews": 86
+    },
+    {
+      "title": "Rimward Stars",
+      "url": "https://www.goodreads.com/book/show/35112426-rimward-stars",
+      "id": "56423313",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1494474484i/35112426.jpg",
+      "authors": [
+        "Glynn Stewart"
+      ],
+      "genres": [
+        "science-fiction",
+        "space-opera",
+        "military-fiction",
+        "audiobook",
+        "military-science-fiction",
+        "fiction",
+        "action"
+      ],
+      "rating": 4.38,
+      "ratings": 2313,
+      "reviews": 69
+    },
+    {
+      "title": "The Human",
+      "url": "https://www.goodreads.com/book/show/49393281-the-human",
+      "id": "72149645",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1599065833i/49393281.jpg",
+      "authors": [
+        "Neal Asher"
+      ],
+      "genres": [
+        "science-fiction",
+        "space-opera",
+        "fiction",
+        "audiobook",
+        "aliens",
+        "military-science-fiction",
+        "hard-science-fiction"
+      ],
+      "rating": 4.26,
+      "ratings": 2312,
+      "reviews": 125
     },
     {
       "title": "Direct Fire",
@@ -31,14 +323,152 @@
         "science-fiction",
         "military-fiction",
         "fiction",
+        "action",
         "space-opera",
         "space",
-        "war",
-        "action"
+        "war"
       ],
       "rating": 4.4,
-      "ratings": 1997,
-      "reviews": 82
+      "ratings": 2312,
+      "reviews": 90
+    },
+    {
+      "title": "Interstellar Mage",
+      "url": "https://www.goodreads.com/book/show/36416689-interstellar-mage",
+      "id": "58113295",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1508073351i/36416689.jpg",
+      "authors": [
+        "Glynn Stewart"
+      ],
+      "genres": [
+        "science-fiction",
+        "fantasy",
+        "space-opera",
+        "military-fiction",
+        "magic",
+        "audiobook",
+        "fiction"
+      ],
+      "rating": 4.35,
+      "ratings": 2306,
+      "reviews": 116
+    },
+    {
+      "title": "The Pandora Paradox",
+      "url": "https://www.goodreads.com/book/show/55163894-the-pandora-paradox",
+      "id": "85999464",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1598733732i/55163894.jpg",
+      "authors": [
+        "Joshua Dalzelle"
+      ],
+      "genres": [
+        "science-fiction",
+        "space-opera",
+        "action",
+        "fiction",
+        "mystery"
+      ],
+      "rating": 4.56,
+      "ratings": 2300,
+      "reviews": 59
+    },
+    {
+      "title": "Hospital Station",
+      "url": "https://www.goodreads.com/book/show/1695570.Hospital_Station",
+      "id": "1692514",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1352460814i/1695570.jpg",
+      "authors": [
+        "James                 White"
+      ],
+      "genres": [
+        "science-fiction",
+        "fiction",
+        "space-opera",
+        "science-fiction-fantasy",
+        "aliens",
+        "space",
+        "medical"
+      ],
+      "rating": 4,
+      "ratings": 2286,
+      "reviews": 188
+    },
+    {
+      "title": "Hand of Fate",
+      "url": "https://www.goodreads.com/book/show/210592007-hand-of-fate",
+      "id": "216809647",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1711930880i/210592007.jpg",
+      "authors": [
+        "J.N. Chaney"
+      ],
+      "genres": [
+        "science-fiction",
+        "space-opera"
+      ],
+      "rating": 4.72,
+      "ratings": 2285,
+      "reviews": 67
+    },
+    {
+      "title": "Gateway",
+      "url": "https://www.goodreads.com/book/show/229390825-gateway",
+      "id": "233445776",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1742349022i/229390825.jpg",
+      "authors": [
+        "Craig Alanson"
+      ],
+      "genres": [
+        "science-fiction",
+        "audiobook",
+        "space-opera",
+        "fiction",
+        "aliens",
+        "fantasy",
+        "humor"
+      ],
+      "rating": 4.43,
+      "ratings": 2280,
+      "reviews": 120
+    },
+    {
+      "title": "Ice World",
+      "url": "https://www.goodreads.com/book/show/58976304-ice-world",
+      "id": "92956083",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1631423963i/58976304.jpg",
+      "authors": [
+        "B.V. Larson"
+      ],
+      "genres": [
+        "science-fiction",
+        "audiobook",
+        "space-opera",
+        "military-science-fiction",
+        "military-fiction"
+      ],
+      "rating": 4.44,
+      "ratings": 2278,
+      "reviews": 109
+    },
+    {
+      "title": "Saltation",
+      "url": "https://www.goodreads.com/book/show/6669085-saltation",
+      "id": "6131174",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348000395i/6669085.jpg",
+      "authors": [
+        "Sharon Lee"
+      ],
+      "genres": [
+        "science-fiction",
+        "space-opera",
+        "fiction",
+        "fantasy",
+        "space",
+        "young-adult",
+        "adventure"
+      ],
+      "rating": 4.29,
+      "ratings": 2275,
+      "reviews": 141
     },
     {
       "title": "To Hell and Back",
@@ -53,430 +483,9 @@
         "space-opera",
         "mystery"
       ],
-      "rating": 4.62,
-      "ratings": 1996,
-      "reviews": 85
-    },
-    {
-      "title": "Rebellion",
-      "url": "https://www.goodreads.com/book/show/34333528-rebellion",
-      "id": "55401172",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1487428703i/34333528.jpg",
-      "authors": [
-        "Ryk Brown"
-      ],
-      "genres": [
-        "science-fiction",
-        "space-opera",
-        "fiction",
-        "military-fiction",
-        "fantasy",
-        "amazon"
-      ],
-      "rating": 4.51,
-      "ratings": 1994,
-      "reviews": 61
-    },
-    {
-      "title": "Emergence",
-      "url": "https://www.goodreads.com/book/show/42733409-emergence",
-      "id": "66450443",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1541723921i/42733409.jpg",
-      "authors": [
-        "Ken Lozito"
-      ],
-      "genres": [
-        "science-fiction",
-        "space-opera",
-        "science-fiction-fantasy",
-        "fiction",
-        "aliens",
-        "military-fiction",
-        "audiobook"
-      ],
-      "rating": 4.35,
-      "ratings": 1991,
-      "reviews": 81
-    },
-    {
-      "title": "Path of Vengeance",
-      "url": "https://www.goodreads.com/book/show/61176500-path-of-vengeance",
-      "id": "96437193",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1665326764i/61176500.jpg",
-      "authors": [
-        "Cavan Scott"
-      ],
-      "genres": [
-        "star-wars",
-        "science-fiction",
-        "young-adult",
-        "fiction",
-        "fantasy",
-        "audiobook",
-        "space-opera"
-      ],
-      "rating": 4.2,
-      "ratings": 1988,
-      "reviews": 220
-    },
-    {
-      "title": "Delphi Federation",
-      "url": "https://www.goodreads.com/book/show/53355461-delphi-federation",
-      "id": "80029026",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1597517855i/53355461.jpg",
-      "authors": [
-        "Bob Blanton"
-      ],
-      "genres": [
-        "science-fiction",
-        "space",
-        "space-opera",
-        "aliens",
-        "artificial-intelligence"
-      ],
-      "rating": 4.36,
-      "ratings": 1986,
-      "reviews": 62
-    },
-    {
-      "title": "Constant Sorrow",
-      "url": "https://www.goodreads.com/book/show/164398892-constant-sorrow",
-      "id": "175036735",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1685893356i/164398892.jpg",
-      "authors": [
-        "J.N. Chaney"
-      ],
-      "genres": [
-        "science-fiction",
-        "space-opera"
-      ],
-      "rating": 4.69,
-      "ratings": 1984,
-      "reviews": 60
-    },
-    {
-      "title": "Heirs of Empire",
-      "url": "https://www.goodreads.com/book/show/25375699-heirs-of-empire",
-      "id": "44997223",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1438426674i/25375699.jpg",
-      "authors": [
-        "Evan Currie"
-      ],
-      "genres": [
-        "science-fiction",
-        "fantasy",
-        "fiction",
-        "space-opera",
-        "steampunk",
-        "adventure",
-        "military-fiction"
-      ],
-      "rating": 4.03,
-      "ratings": 1981,
-      "reviews": 151
-    },
-    {
-      "title": "The Man Who Never Missed",
-      "url": "https://www.goodreads.com/book/show/20878.The_Man_Who_Never_Missed",
-      "id": "537240",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1389852306i/20878.jpg",
-      "authors": [
-        "Steve Perry"
-      ],
-      "genres": [
-        "science-fiction",
-        "fiction",
-        "space-opera",
-        "science-fiction-fantasy",
-        "fantasy",
-        "military-science-fiction",
-        "military-fiction"
-      ],
-      "rating": 4.26,
-      "ratings": 1974,
-      "reviews": 100
-    },
-    {
-      "title": "Junkyard Spaceship",
-      "url": "https://www.goodreads.com/book/show/56123632-junkyard-spaceship",
-      "id": "87413908",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1606787412i/56123632.jpg",
-      "authors": [
-        "Jamie McFarlane"
-      ],
-      "genres": [
-        "science-fiction",
-        "space-opera",
-        "fiction",
-        "aliens",
-        "action"
-      ],
-      "rating": 4.47,
-      "ratings": 1974,
-      "reviews": 107
-    },
-    {
-      "title": "Heart of Vengeance",
-      "url": "https://www.goodreads.com/book/show/36103742-heart-of-vengeance",
-      "id": "57689481",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1503406409i/36103742.jpg",
-      "authors": [
-        "Glynn Stewart"
-      ],
-      "genres": [
-        "science-fiction",
-        "space-opera",
-        "military-fiction",
-        "adventure",
-        "action"
-      ],
-      "rating": 4.23,
-      "ratings": 1972,
-      "reviews": 106
-    },
-    {
-      "title": "Countdown",
-      "url": "https://www.goodreads.com/book/show/38918471-countdown",
-      "id": "60485570",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1520109865i/38918471.jpg",
-      "authors": [
-        "Michael Atamanov"
-      ],
-      "genres": [
-        "science-fiction",
-        "fantasy",
-        "fiction",
-        "audiobook",
-        "role-playing-games",
-        "space-opera",
-        "magic"
-      ],
-      "rating": 4.38,
-      "ratings": 1971,
-      "reviews": 121
-    },
-    {
-      "title": "Renegade Lost",
-      "url": "https://www.goodreads.com/book/show/38208480-renegade-lost",
-      "id": "59880008",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1516964629i/38208480.jpg",
-      "authors": [
-        "J.N. Chaney"
-      ],
-      "genres": [
-        "science-fiction",
-        "space-opera",
-        "science-fiction-fantasy",
-        "space",
-        "audiobook",
-        "fiction"
-      ],
-      "rating": 4.3,
-      "ratings": 1970,
-      "reviews": 87
-    },
-    {
-      "title": "The Eye of Darkness",
-      "url": "https://www.goodreads.com/book/show/124019528-the-eye-of-darkness",
-      "id": "145419304",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1688639368i/124019528.jpg",
-      "authors": [
-        "George Mann"
-      ],
-      "genres": [
-        "star-wars",
-        "science-fiction",
-        "fiction",
-        "fantasy",
-        "space-opera",
-        "adult",
-        "audiobook"
-      ],
-      "rating": 4.29,
-      "ratings": 1969,
-      "reviews": 248
-    },
-    {
-      "title": "Delphi Challenge",
-      "url": "https://www.goodreads.com/book/show/56478038-delphi-challenge",
-      "id": "88119320",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1609320630i/56478038.jpg",
-      "authors": [
-        "Bob Blanton"
-      ],
-      "genres": [
-        "science-fiction",
-        "space-opera",
-        "aliens",
-        "space",
-        "artificial-intelligence"
-      ],
-      "rating": 4.42,
-      "ratings": 1967,
-      "reviews": 65
-    },
-    {
-      "title": "Daybreak",
-      "url": "https://www.goodreads.com/book/show/26228136-daybreak",
-      "id": "46213655",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1441407457i/26228136.jpg",
-      "authors": [
-        "Cheree Alsop"
-      ],
-      "genres": [
-        "science-fiction",
-        "fantasy",
-        "space-opera",
-        "aliens",
-        "romance",
-        "young-adult",
-        "fiction"
-      ],
-      "rating": 4.02,
-      "ratings": 1967,
-      "reviews": 171
-    },
-    {
-      "title": "Mutineer",
-      "url": "https://www.goodreads.com/book/show/23566975-mutineer",
-      "id": "43165943",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1416103119i/23566975.jpg",
-      "authors": [
-        "J.A. Sutherland"
-      ],
-      "genres": [
-        "science-fiction",
-        "space-opera",
-        "military-fiction",
-        "military-science-fiction",
-        "fiction",
-        "young-adult",
-        "space"
-      ],
-      "rating": 4.35,
-      "ratings": 1964,
-      "reviews": 141
-    },
-    {
-      "title": "Beyond the Aquila Rift: The Best of Alastair Reynolds",
-      "url": "https://www.goodreads.com/book/show/28931839-beyond-the-aquila-rift",
-      "id": "48593626",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1460137614i/28931839.jpg",
-      "authors": [
-        "Alastair Reynolds"
-      ],
-      "genres": [
-        "science-fiction",
-        "short-stories",
-        "fiction",
-        "space-opera",
-        "horror",
-        "anthologies",
-        "collections"
-      ],
-      "rating": 4.39,
-      "ratings": 1961,
-      "reviews": 199
-    },
-    {
-      "title": "Hardship",
-      "url": "https://www.goodreads.com/book/show/21418011-hardship",
-      "id": "40721169",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1394501349i/21418011.jpg",
-      "authors": [
-        "Jean    Johnson"
-      ],
-      "genres": [
-        "science-fiction",
-        "military-fiction",
-        "space-opera",
-        "military-science-fiction",
-        "fiction",
-        "aliens",
-        "space"
-      ],
-      "rating": 4.17,
-      "ratings": 1944,
-      "reviews": 72
-    },
-    {
-      "title": "The Killing of Worlds",
-      "url": "https://www.goodreads.com/book/show/24772.The_Killing_of_Worlds",
-      "id": "25578",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1312028488i/24772.jpg",
-      "authors": [
-        "Scott Westerfeld"
-      ],
-      "genres": [
-        "science-fiction",
-        "space-opera",
-        "fiction",
-        "science-fiction-fantasy",
-        "space",
-        "young-adult",
-        "adult"
-      ],
-      "rating": 4.07,
-      "ratings": 1939,
-      "reviews": 161
-    },
-    {
-      "title": "Prisoners of Darkness",
-      "url": "https://www.goodreads.com/book/show/37640241-prisoners-of-darkness",
-      "id": "59227654",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1513779453i/37640241.jpg",
-      "authors": [
-        "Jason Anspach"
-      ],
-      "genres": [
-        "science-fiction",
-        "space-opera",
-        "military-fiction",
-        "fiction",
-        "science-fiction-fantasy",
-        "adventure",
-        "audiobook"
-      ],
-      "rating": 4.47,
-      "ratings": 1939,
-      "reviews": 69
-    },
-    {
-      "title": "School Days",
-      "url": "https://www.goodreads.com/book/show/168955268-school-days",
-      "id": "178432294",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1685555628i/168955268.jpg",
-      "authors": [
-        "Nathan Lowell"
-      ],
-      "genres": [
-        "science-fiction",
-        "space-opera",
-        "fiction",
-        "space",
-        "slice-of-life"
-      ],
-      "rating": 4.33,
-      "ratings": 1937,
-      "reviews": 158
-    },
-    {
-      "title": "Rise of Mankind: The Complete Series",
-      "url": "https://www.goodreads.com/book/show/52223472-rise-of-mankind",
-      "id": "71763070",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1562102238l/52223472.jpg",
-      "authors": [
-        "John Walker"
-      ],
-      "genres": [
-        "science-fiction",
-        "military-fiction",
-        "military-science-fiction",
-        "space-opera"
-      ],
-      "rating": 4.38,
-      "ratings": 1937,
-      "reviews": 130
+      "rating": 4.61,
+      "ratings": 2262,
+      "reviews": 90
     }
   ]
 }

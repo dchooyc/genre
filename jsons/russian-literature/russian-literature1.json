@@ -1,6 +1,27 @@
 {
   "books": [
     {
+      "title": "The Twelve Chairs",
+      "url": "https://www.goodreads.com/book/show/158516.The_Twelve_Chairs",
+      "id": "152994",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348256729i/158516.jpg",
+      "authors": [
+        "Ilya Ilf"
+      ],
+      "genres": [
+        "fiction",
+        "russia",
+        "classics",
+        "russian-literature",
+        "humor",
+        "literature",
+        "adventure"
+      ],
+      "rating": 4.39,
+      "ratings": 24173,
+      "reviews": 757
+    },
+    {
       "title": "A Country Doctor's Notebook",
       "url": "https://www.goodreads.com/book/show/897363.A_Country_Doctor_s_Notebook",
       "id": "2709608",
@@ -18,8 +39,8 @@
         "literature"
       ],
       "rating": 4.29,
-      "ratings": 20906,
-      "reviews": 1577
+      "ratings": 23589,
+      "reviews": 1826
     },
     {
       "title": "The Insulted and Humiliated",
@@ -27,7 +48,7 @@
       "id": "3168331",
       "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347466262i/329803.jpg",
       "authors": [
-        "Fyodor Dostoyevsky"
+        "Fyodor Dostoevsky"
       ],
       "genres": [
         "classics",
@@ -39,8 +60,29 @@
         "19th-century"
       ],
       "rating": 4.24,
-      "ratings": 20462,
-      "reviews": 1676
+      "ratings": 23276,
+      "reviews": 1990
+    },
+    {
+      "title": "The Diary of a Madman, the Government Inspector, and Selected Stories",
+      "url": "https://www.goodreads.com/book/show/19107.The_Diary_of_a_Madman_the_Government_Inspector_and_Selected_Stories",
+      "id": "1308773",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388239783i/19107.jpg",
+      "authors": [
+        "Nikolai Gogol"
+      ],
+      "genres": [
+        "classics",
+        "fiction",
+        "short-stories",
+        "russia",
+        "russian-literature",
+        "literature",
+        "19th-century"
+      ],
+      "rating": 4.07,
+      "ratings": 21610,
+      "reviews": 1349
     },
     {
       "title": "Laughter in the Dark",
@@ -59,72 +101,30 @@
         "literature",
         "20th-century"
       ],
-      "rating": 4,
-      "ratings": 18361,
-      "reviews": 1473
+      "rating": 4.01,
+      "ratings": 20788,
+      "reviews": 1806
     },
     {
-      "title": "Secondhand Time: The Last of the Soviets",
-      "url": "https://www.goodreads.com/book/show/30200112-secondhand-time",
-      "id": "27225929",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1463438551i/30200112.jpg",
+      "title": "Crimen y castigo 1",
+      "url": "https://www.goodreads.com/book/show/18634774-crimen-y-castigo-1",
+      "id": "44735239",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1381202721i/18634774.jpg",
       "authors": [
-        "Svetlana Alexievich"
+        "Fyodor Dostoevsky"
       ],
       "genres": [
-        "history",
-        "non-fiction",
-        "russia",
-        "politics",
-        "historical",
-        "nobel-prize",
-        "russian-literature"
-      ],
-      "rating": 4.46,
-      "ratings": 17979,
-      "reviews": 2529
-    },
-    {
-      "title": "Cancer Ward",
-      "url": "https://www.goodreads.com/book/show/254316.Cancer_Ward",
-      "id": "3202343",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328028751i/254316.jpg",
-      "authors": [
-        "Aleksandr Solzhenitsyn"
-      ],
-      "genres": [
-        "fiction",
         "classics",
-        "russia",
+        "novels",
+        "fiction",
         "russian-literature",
         "literature",
-        "historical-fiction",
-        "novels"
-      ],
-      "rating": 4.25,
-      "ratings": 16639,
-      "reviews": 956
-    },
-    {
-      "title": "Speak, Memory",
-      "url": "https://www.goodreads.com/book/show/30594.Speak_Memory",
-      "id": "2540547",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1346107008i/30594.jpg",
-      "authors": [
-        "Vladimir Nabokov"
-      ],
-      "genres": [
-        "non-fiction",
-        "memoir",
-        "biography",
-        "classics",
         "russia",
-        "autobiography",
-        "russian-literature"
+        "psychology"
       ],
-      "rating": 4.08,
-      "ratings": 16449,
-      "reviews": 1165
+      "rating": 4.37,
+      "ratings": 19910,
+      "reviews": 1850
     },
     {
       "title": "A Confession",
@@ -144,8 +144,8 @@
         "essays"
       ],
       "rating": 4.1,
-      "ratings": 15960,
-      "reviews": 1891
+      "ratings": 18850,
+      "reviews": 2286
     },
     {
       "title": "Hard to Be a God",
@@ -160,13 +160,13 @@
         "fiction",
         "russia",
         "fantasy",
-        "russian-literature",
         "classics",
+        "russian-literature",
         "dystopia"
       ],
-      "rating": 4.14,
-      "ratings": 15687,
-      "reviews": 960
+      "rating": 4.12,
+      "ratings": 17802,
+      "reviews": 1179
     },
     {
       "title": "Zuleiha deschide ochii",
@@ -181,13 +181,55 @@
         "historical-fiction",
         "russia",
         "russian-literature",
-        "historical",
         "contemporary",
+        "historical",
         "audiobook"
       ],
-      "rating": 4.4,
-      "ratings": 15632,
-      "reviews": 1303
+      "rating": 4.39,
+      "ratings": 17661,
+      "reviews": 1450
+    },
+    {
+      "title": "Speak, Memory",
+      "url": "https://www.goodreads.com/book/show/30594.Speak_Memory",
+      "id": "2540547",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1346107008i/30594.jpg",
+      "authors": [
+        "Vladimir Nabokov"
+      ],
+      "genres": [
+        "non-fiction",
+        "memoir",
+        "biography",
+        "classics",
+        "russia",
+        "autobiography",
+        "russian-literature"
+      ],
+      "rating": 4.08,
+      "ratings": 17440,
+      "reviews": 1283
+    },
+    {
+      "title": "Cancer Ward",
+      "url": "https://www.goodreads.com/book/show/254316.Cancer_Ward",
+      "id": "3202343",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328028751i/254316.jpg",
+      "authors": [
+        "Aleksandr Solzhenitsyn"
+      ],
+      "genres": [
+        "fiction",
+        "classics",
+        "russia",
+        "russian-literature",
+        "literature",
+        "historical-fiction",
+        "novels"
+      ],
+      "rating": 4.26,
+      "ratings": 17267,
+      "reviews": 1030
     },
     {
       "title": "The Death of Ivan Ilych and Other Stories",
@@ -207,8 +249,50 @@
         "19th-century"
       ],
       "rating": 4.12,
-      "ratings": 14988,
-      "reviews": 1078
+      "ratings": 16647,
+      "reviews": 1329
+    },
+    {
+      "title": "How Much Land Does a Man Need?",
+      "url": "https://www.goodreads.com/book/show/21206786-how-much-land-does-a-man-need",
+      "id": "52729721",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1394246788i/21206786.jpg",
+      "authors": [
+        "Leo Tolstoy"
+      ],
+      "genres": [
+        "classics",
+        "short-stories",
+        "fiction",
+        "russian-literature",
+        "russia",
+        "philosophy",
+        "literature"
+      ],
+      "rating": 4.1,
+      "ratings": 16483,
+      "reviews": 1933
+    },
+    {
+      "title": "The White Guard",
+      "url": "https://www.goodreads.com/book/show/229733.The_White_Guard",
+      "id": "2682802",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1330427738i/229733.jpg",
+      "authors": [
+        "Mikhail Bulgakov"
+      ],
+      "genres": [
+        "fiction",
+        "russia",
+        "classics",
+        "russian-literature",
+        "historical-fiction",
+        "literature",
+        "war"
+      ],
+      "rating": 4,
+      "ratings": 15784,
+      "reviews": 675
     },
     {
       "title": "The Collected Tales of Nikolai Gogol",
@@ -228,50 +312,8 @@
         "19th-century"
       ],
       "rating": 4.35,
-      "ratings": 14751,
-      "reviews": 417
-    },
-    {
-      "title": "The White Guard",
-      "url": "https://www.goodreads.com/book/show/229733.The_White_Guard",
-      "id": "2682802",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1330427738i/229733.jpg",
-      "authors": [
-        "Mikhail Bulgakov"
-      ],
-      "genres": [
-        "fiction",
-        "russia",
-        "classics",
-        "russian-literature",
-        "historical-fiction",
-        "literature",
-        "war"
-      ],
-      "rating": 4.01,
-      "ratings": 14632,
-      "reviews": 574
-    },
-    {
-      "title": "Three Apples Fell from the Sky",
-      "url": "https://www.goodreads.com/book/show/51551602-three-apples-fell-from-the-sky",
-      "id": "45291158",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1580657341l/51551602.jpg",
-      "authors": [
-        "Narine Abgaryan"
-      ],
-      "genres": [
-        "fiction",
-        "historical-fiction",
-        "magical-realism",
-        "russia",
-        "contemporary",
-        "historical",
-        "russian-literature"
-      ],
-      "rating": 4.26,
-      "ratings": 13735,
-      "reviews": 1655
+      "ratings": 15191,
+      "reviews": 466
     },
     {
       "title": "Life and Fate",
@@ -291,29 +333,50 @@
         "literature"
       ],
       "rating": 4.45,
-      "ratings": 13037,
-      "reviews": 1491
+      "ratings": 14828,
+      "reviews": 1737
     },
     {
-      "title": "How Much Land Does a Man Need?",
-      "url": "https://www.goodreads.com/book/show/24874324-how-much-land-does-a-man-need",
-      "id": "52729721",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1423767599i/24874324.jpg",
+      "title": "Beyaz Zambaklar Ülkesinde",
+      "url": "https://www.goodreads.com/book/show/7146457-beyaz-zambaklar-lkesinde",
+      "id": "7411124",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1353345345i/7146457.jpg",
       "authors": [
-        "Leo Tolstoy"
+        "Grigory Petrov"
       ],
       "genres": [
+        "history",
         "classics",
-        "short-stories",
-        "fiction",
+        "non-fiction",
+        "roman",
         "russian-literature",
-        "russia",
-        "philosophy",
-        "literature"
+        "politics",
+        "education"
       ],
-      "rating": 4.11,
-      "ratings": 12695,
-      "reviews": 1419
+      "rating": 4.2,
+      "ratings": 13215,
+      "reviews": 813
+    },
+    {
+      "title": "The Gulag Archipelago",
+      "url": "https://www.goodreads.com/book/show/246422.The_Gulag_Archipelago",
+      "id": "42472998",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1610935574i/246422.jpg",
+      "authors": [
+        "Aleksandr Solzhenitsyn"
+      ],
+      "genres": [
+        "history",
+        "non-fiction",
+        "russia",
+        "politics",
+        "classics",
+        "biography",
+        "russian-literature"
+      ],
+      "rating": 4.35,
+      "ratings": 13139,
+      "reviews": 1059
     },
     {
       "title": "And Quiet Flows the Don",
@@ -330,32 +393,53 @@
         "russian-literature",
         "historical-fiction",
         "literature",
-        "war"
+        "nobel-prize"
       ],
-      "rating": 4.1,
-      "ratings": 12352,
-      "reviews": 536
+      "rating": 4.11,
+      "ratings": 13001,
+      "reviews": 633
     },
     {
-      "title": "Diary of a Madman and Other Stories",
-      "url": "https://www.goodreads.com/book/show/28382.Diary_of_a_Madman_and_Other_Stories",
-      "id": "1308773",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328863929i/28382.jpg",
+      "title": "Moscow to the End of the Line",
+      "url": "https://www.goodreads.com/book/show/117896.Moscow_to_the_End_of_the_Line",
+      "id": "113496",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1626318382i/117896.jpg",
       "authors": [
-        "Nikolai Gogol"
+        "Venedikt Erofeev"
       ],
       "genres": [
-        "classics",
-        "fiction",
-        "short-stories",
         "russia",
+        "fiction",
         "russian-literature",
+        "classics",
         "literature",
-        "19th-century"
+        "humor",
+        "novels"
       ],
-      "rating": 4.09,
-      "ratings": 12264,
-      "reviews": 680
+      "rating": 4.03,
+      "ratings": 12726,
+      "reviews": 797
+    },
+    {
+      "title": "Ada, or Ardor: A Family Chronicle",
+      "url": "https://www.goodreads.com/book/show/12187.Ada_or_Ardor",
+      "id": "2138313",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1657567796i/12187.jpg",
+      "authors": [
+        "Vladimir Nabokov"
+      ],
+      "genres": [
+        "fiction",
+        "classics",
+        "russia",
+        "literature",
+        "russian-literature",
+        "novels",
+        "romance"
+      ],
+      "rating": 4.12,
+      "ratings": 12684,
+      "reviews": 1229
     },
     {
       "title": "The Overcoat and Other Short Stories",
@@ -375,50 +459,8 @@
         "19th-century"
       ],
       "rating": 4.2,
-      "ratings": 11891,
-      "reviews": 455
-    },
-    {
-      "title": "Ada, or Ardor: A Family Chronicle",
-      "url": "https://www.goodreads.com/book/show/12187.Ada_or_Ardor",
-      "id": "2138313",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1657567796i/12187.jpg",
-      "authors": [
-        "Vladimir Nabokov"
-      ],
-      "genres": [
-        "fiction",
-        "classics",
-        "russia",
-        "literature",
-        "novels",
-        "russian-literature",
-        "romance"
-      ],
-      "rating": 4.13,
-      "ratings": 11771,
-      "reviews": 1063
-    },
-    {
-      "title": "Moscow to the End of the Line",
-      "url": "https://www.goodreads.com/book/show/117896.Moscow_to_the_End_of_the_Line",
-      "id": "113496",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1626318382i/117896.jpg",
-      "authors": [
-        "Venedikt Erofeev"
-      ],
-      "genres": [
-        "russia",
-        "fiction",
-        "russian-literature",
-        "classics",
-        "literature",
-        "humor",
-        "novels"
-      ],
-      "rating": 4.04,
-      "ratings": 11699,
-      "reviews": 669
+      "ratings": 12356,
+      "reviews": 519
     },
     {
       "title": "The Complete Short Novels",
@@ -438,71 +480,29 @@
         "novels"
       ],
       "rating": 4.47,
-      "ratings": 11672,
-      "reviews": 205
+      "ratings": 11829,
+      "reviews": 220
     },
     {
-      "title": "Beyaz Zambaklar Ülkesinde",
-      "url": "https://www.goodreads.com/book/show/7146457-beyaz-zambaklar-lkesinde",
-      "id": "7411124",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1353345345i/7146457.jpg",
+      "title": "Laurus",
+      "url": "https://www.goodreads.com/book/show/24694092-laurus",
+      "id": "24667251",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1429675607i/24694092.jpg",
       "authors": [
-        "Grigory Petrov"
+        "Eugene Vodolazkin"
       ],
       "genres": [
-        "history",
-        "classics",
-        "non-fiction",
-        "roman",
-        "politics",
-        "russian-literature",
-        "literature"
-      ],
-      "rating": 4.2,
-      "ratings": 11088,
-      "reviews": 694
-    },
-    {
-      "title": "Ward No. 6 and Other Stories",
-      "url": "https://www.goodreads.com/book/show/23791.Ward_No_6_and_Other_Stories",
-      "id": "2086250",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328851149i/23791.jpg",
-      "authors": [
-        "Anton Chekhov"
-      ],
-      "genres": [
-        "short-stories",
         "fiction",
+        "historical-fiction",
         "russia",
+        "fantasy",
         "russian-literature",
         "literature",
-        "classics",
-        "19th-century"
+        "novels"
       ],
-      "rating": 4.31,
-      "ratings": 10594,
-      "reviews": 476
-    },
-    {
-      "title": "The Lady With the Little Dog and Other Stories, 1896-1904",
-      "url": "https://www.goodreads.com/book/show/114599.The_Lady_With_the_Little_Dog_and_Other_Stories_1896_1904",
-      "id": "1037311",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1311645445i/114599.jpg",
-      "authors": [
-        "Anton Chekhov"
-      ],
-      "genres": [
-        "short-stories",
-        "classics",
-        "fiction",
-        "russian-literature",
-        "russia",
-        "literature",
-        "19th-century"
-      ],
-      "rating": 4.1,
-      "ratings": 10401,
-      "reviews": 675
+      "rating": 4.22,
+      "ratings": 11572,
+      "reviews": 1539
     }
   ]
 }

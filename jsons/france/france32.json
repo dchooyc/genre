@@ -1,106 +1,418 @@
 {
   "books": [
     {
-      "title": "L'Effet Boule de Neige",
-      "url": "https://www.goodreads.com/book/show/171699595-l-effet-boule-de-neige",
-      "id": "180341268",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1697740946i/171699595.jpg",
+      "title": "What Is Philosophy?",
+      "url": "https://www.goodreads.com/book/show/118319.What_Is_Philosophy_",
+      "id": "847765",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1349086124i/118319.jpg",
       "authors": [
-        "Clara Héraut"
+        "Gilles Deleuze"
       ],
       "genres": [
-        "romance",
-        "christmas",
+        "philosophy",
+        "non-fiction",
+        "theory",
+        "france",
+        "science",
+        "art",
+        "unfinished"
+      ],
+      "rating": 4.15,
+      "ratings": 2280,
+      "reviews": 167
+    },
+    {
+      "title": "Cinema 1: The Movement-Image",
+      "url": "https://www.goodreads.com/book/show/150558.Cinema_1",
+      "id": "2121286",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1601177963i/150558.jpg",
+      "authors": [
+        "Gilles Deleuze"
+      ],
+      "genres": [
+        "film",
+        "philosophy",
+        "non-fiction",
+        "theory",
+        "art",
+        "france",
+        "academic"
+      ],
+      "rating": 4.11,
+      "ratings": 2279,
+      "reviews": 86
+    },
+    {
+      "title": "A Little in Love",
+      "url": "https://www.goodreads.com/book/show/20738167-a-little-in-love",
+      "id": "40068381",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1407341673i/20738167.jpg",
+      "authors": [
+        "Susan  Fletcher"
+      ],
+      "genres": [
+        "historical-fiction",
         "young-adult",
-        "france",
-        "roman",
-        "contemporary"
-      ],
-      "rating": 4.54,
-      "ratings": 1806,
-      "reviews": 381
-    },
-    {
-      "title": "An American in Paris",
-      "url": "https://www.goodreads.com/book/show/55932453-an-american-in-paris",
-      "id": "87062823",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1605740675i/55932453.jpg",
-      "authors": [
-        "Siobhan Curham"
-      ],
-      "genres": [
-        "historical-fiction",
-        "world-war-ii",
-        "fiction",
-        "france",
-        "historical"
-      ],
-      "rating": 4.47,
-      "ratings": 1800,
-      "reviews": 115
-    },
-    {
-      "title": "Angelique and the King",
-      "url": "https://www.goodreads.com/book/show/1456450.Angelique_and_the_King",
-      "id": "1447233",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1284682883i/1456450.jpg",
-      "authors": [
-        "Anne Golon"
-      ],
-      "genres": [
+        "retellings",
         "romance",
-        "historical-fiction",
         "historical",
         "fiction",
-        "historical-romance",
-        "france",
-        "adventure"
+        "france"
       ],
-      "rating": 4.2,
-      "ratings": 1792,
-      "reviews": 43
+      "rating": 4.09,
+      "ratings": 2271,
+      "reviews": 457
     },
     {
-      "title": "Le Livre d'Hector",
-      "url": "https://www.goodreads.com/book/show/18721061-le-livre-d-hector",
-      "id": "26588510",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1382904612i/18721061.jpg",
+      "title": "La fille d'elle-même",
+      "url": "https://www.goodreads.com/book/show/56803814-la-fille-d-elle-m-me",
+      "id": "88800932",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1611506931i/56803814.jpg",
       "authors": [
-        "Joris Chamblain"
+        "Gabrielle Boulianne-Tremblay"
+      ],
+      "genres": [
+        "fiction",
+        "queer",
+        "lgbt",
+        "roman",
+        "transgender",
+        "contemporary",
+        "france"
+      ],
+      "rating": 4.35,
+      "ratings": 2268,
+      "reviews": 287
+    },
+    {
+      "title": "Les demoiselles",
+      "url": "https://www.goodreads.com/book/show/53430444-les-demoiselles",
+      "id": "83013662",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1715602127i/53430444.jpg",
+      "authors": [
+        "Anne-Gaëlle Huon"
+      ],
+      "genres": [
+        "france",
+        "roman",
+        "historical-fiction",
+        "fiction",
+        "french-literature"
+      ],
+      "rating": 4.22,
+      "ratings": 2267,
+      "reviews": 198
+    },
+    {
+      "title": "Maléfices",
+      "url": "https://www.goodreads.com/book/show/1518713.Mal_fices",
+      "id": "1510488",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1184617805i/1518713.jpg",
+      "authors": [
+        "Maxime Chattam"
+      ],
+      "genres": [
+        "thriller",
+        "crime",
+        "france",
+        "mystery",
+        "fiction",
+        "roman",
+        "horror"
+      ],
+      "rating": 4.21,
+      "ratings": 2263,
+      "reviews": 96
+    },
+    {
+      "title": "Le Poison de la vengeance",
+      "url": "https://www.goodreads.com/book/show/515801.Le_Poison_de_la_vengeance",
+      "id": "21886730",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1313704166i/515801.jpg",
+      "authors": [
+        "Robin Hobb"
+      ],
+      "genres": [
+        "fantasy",
+        "roman",
+        "heroic-fantasy",
+        "france",
+        "fiction",
+        "novels",
+        "audiobook"
+      ],
+      "rating": 4.26,
+      "ratings": 2260,
+      "reviews": 122
+    },
+    {
+      "title": "Le jeune acteur 1 : Aventures de Vincent Lacoste au cinéma",
+      "url": "https://www.goodreads.com/book/show/59538323-le-jeune-acteur-1",
+      "id": "93771233",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1636044462i/59538323.jpg",
+      "authors": [
+        "Riad Sattouf"
       ],
       "genres": [
         "bande-dessin%C3%A9e",
-        "comics",
         "graphic-novels",
-        "middle-grade",
-        "comics-bd",
-        "childrens",
-        "france"
+        "comics",
+        "non-fiction",
+        "france",
+        "humor",
+        "contemporary"
       ],
-      "rating": 4.4,
-      "ratings": 1788,
-      "reviews": 171
+      "rating": 4.33,
+      "ratings": 2257,
+      "reviews": 131
     },
     {
-      "title": "Letters to Camondo",
-      "url": "https://www.goodreads.com/book/show/55467222-letters-to-camondo",
-      "id": "85486639",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1604993311i/55467222.jpg",
+      "title": "The Revolt of the Angels",
+      "url": "https://www.goodreads.com/book/show/2251777.The_Revolt_of_the_Angels",
+      "id": "736287",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1358267322i/2251777.jpg",
       "authors": [
-        "Edmund de Waal"
+        "Anatole France"
       ],
       "genres": [
-        "history",
-        "non-fiction",
-        "art",
-        "biography",
+        "fiction",
+        "classics",
+        "fantasy",
         "france",
+        "french-literature",
+        "religion",
+        "philosophy"
+      ],
+      "rating": 4.01,
+      "ratings": 2252,
+      "reviews": 226
+    },
+    {
+      "title": "Tu peux toujours rester",
+      "url": "https://www.goodreads.com/book/show/45484523-tu-peux-toujours-rester",
+      "id": "70261797",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1557157683i/45484523.jpg",
+      "authors": [
+        "Valérie Chevalier"
+      ],
+      "genres": [
+        "romance",
+        "chick-lit",
+        "fiction",
+        "france",
+        "roman",
+        "adult"
+      ],
+      "rating": 4.16,
+      "ratings": 2236,
+      "reviews": 101
+    },
+    {
+      "title": "Dans mon sang",
+      "url": "https://www.goodreads.com/book/show/219129035-dans-mon-sang",
+      "id": "226048074",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1726235137i/219129035.jpg",
+      "authors": [
+        "Rebecca Makonnen"
+      ],
+      "genres": [
+        "non-fiction",
+        "audiobook",
         "memoir",
-        "jewish"
+        "france"
+      ],
+      "rating": 4,
+      "ratings": 2229,
+      "reviews": 266
+    },
+    {
+      "title": "Requiem: The Fall of the Templars",
+      "url": "https://www.goodreads.com/book/show/5328535-requiem",
+      "id": "2795095",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1441987125i/5328535.jpg",
+      "authors": [
+        "Robyn Young"
+      ],
+      "genres": [
+        "historical-fiction",
+        "fiction",
+        "historical",
+        "medieval",
+        "france",
+        "scotland",
+        "adventure"
+      ],
+      "rating": 4.03,
+      "ratings": 2225,
+      "reviews": 103
+    },
+    {
+      "title": "The Artist",
+      "url": "https://www.goodreads.com/book/show/221897664-the-artist",
+      "id": "236572202",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1741206552i/221897664.jpg",
+      "authors": [
+        "Lucy   Steeds"
+      ],
+      "genres": [
+        "historical-fiction",
+        "fiction",
+        "historical",
+        "art",
+        "literary-fiction",
+        "romance",
+        "france"
+      ],
+      "rating": 4.28,
+      "ratings": 2217,
+      "reviews": 428
+    },
+    {
+      "title": "Paul Moves Out",
+      "url": "https://www.goodreads.com/book/show/806094.Paul_Moves_Out",
+      "id": "792039",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1316637713i/806094.jpg",
+      "authors": [
+        "Michel Rabagliati"
+      ],
+      "genres": [
+        "graphic-novels",
+        "comics",
+        "bande-dessin%C3%A9e",
+        "fiction",
+        "graphic-novels-comics",
+        "canada",
+        "france"
+      ],
+      "rating": 4.05,
+      "ratings": 2213,
+      "reviews": 137
+    },
+    {
+      "title": "Spinoza: Practical Philosophy",
+      "url": "https://www.goodreads.com/book/show/154329.Spinoza",
+      "id": "225849",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328774790i/154329.jpg",
+      "authors": [
+        "Gilles Deleuze"
+      ],
+      "genres": [
+        "philosophy",
+        "non-fiction",
+        "theory",
+        "france",
+        "politics",
+        "history",
+        "religion"
+      ],
+      "rating": 4.24,
+      "ratings": 2203,
+      "reviews": 195
+    },
+    {
+      "title": "Appetite for Life: The Biography of Julia Child",
+      "url": "https://www.goodreads.com/book/show/46154.Appetite_for_Life",
+      "id": "45305",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320412200i/46154.jpg",
+      "authors": [
+        "Noël Riley Fitch"
+      ],
+      "genres": [
+        "biography",
+        "non-fiction",
+        "food",
+        "cooking",
+        "france",
+        "biography-memoir",
+        "book-club"
+      ],
+      "rating": 4.07,
+      "ratings": 2194,
+      "reviews": 228
+    },
+    {
+      "title": "Journal d'un Vampire en Pyjama",
+      "url": "https://www.goodreads.com/book/show/27882407-journal-d-un-vampire-en-pyjama",
+      "id": "47876647",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1448284349i/27882407.jpg",
+      "authors": [
+        "Mathias Malzieu"
+      ],
+      "genres": [
+        "non-fiction",
+        "france",
+        "french-literature",
+        "biography",
+        "memoir",
+        "autobiography",
+        "poetry"
+      ],
+      "rating": 4.1,
+      "ratings": 2191,
+      "reviews": 329
+    },
+    {
+      "title": "Poems",
+      "url": "https://www.goodreads.com/book/show/203221.Poems",
+      "id": "196631",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320500804i/203221.jpg",
+      "authors": [
+        "Charles Baudelaire"
+      ],
+      "genres": [
+        "poetry",
+        "non-fiction",
+        "classics",
+        "humanities",
+        "france",
+        "19th-century",
+        "philosophy"
+      ],
+      "rating": 4.25,
+      "ratings": 2185,
+      "reviews": 104
+    },
+    {
+      "title": "The Secret of the Château",
+      "url": "https://www.goodreads.com/book/show/50518729-the-secret-of-the-ch-teau",
+      "id": "75495046",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1579214772i/50518729.jpg",
+      "authors": [
+        "Kathleen McGurl"
+      ],
+      "genres": [
+        "historical-fiction",
+        "fiction",
+        "mystery",
+        "historical",
+        "dual-timeline",
+        "france",
+        "book-club"
       ],
       "rating": 4.15,
-      "ratings": 1781,
-      "reviews": 278
+      "ratings": 2183,
+      "reviews": 156
+    },
+    {
+      "title": "Monet, Claude",
+      "url": "https://www.goodreads.com/book/show/326386.Monet_Claude",
+      "id": "1207835",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388500555i/326386.jpg",
+      "authors": [
+        "Christoph Heinrich"
+      ],
+      "genres": [
+        "art",
+        "non-fiction",
+        "biography",
+        "art-history",
+        "history",
+        "france",
+        "reference"
+      ],
+      "rating": 4.37,
+      "ratings": 2179,
+      "reviews": 67
     },
     {
       "title": "Deux petits pas sur le sable mouillé",
@@ -115,386 +427,75 @@
         "france",
         "memoir",
         "medical",
-        "inspirational",
         "adult",
+        "french-literature",
         "roman"
       ],
-      "rating": 4.43,
-      "ratings": 1775,
-      "reviews": 174
+      "rating": 4.44,
+      "ratings": 2170,
+      "reviews": 220
     },
     {
-      "title": "Segu",
-      "url": "https://www.goodreads.com/book/show/550571.Segu",
-      "id": "537815",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1657546925i/550571.jpg",
+      "title": "Murder on the Île Sordou",
+      "url": "https://www.goodreads.com/book/show/20821020-murder-on-the-le-sordou",
+      "id": "40166930",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1480112232i/20821020.jpg",
       "authors": [
-        "Maryse Condé"
+        "M.L. Longworth"
       ],
       "genres": [
-        "historical-fiction",
-        "africa",
+        "mystery",
         "fiction",
         "france",
-        "historical",
-        "mali",
-        "african-literature"
+        "crime",
+        "cozy-mystery",
+        "audiobook",
+        "international"
       ],
-      "rating": 4.1,
-      "ratings": 1772,
-      "reviews": 226
+      "rating": 4.02,
+      "ratings": 2168,
+      "reviews": 203
     },
     {
-      "title": "The Chateau of Happily-Ever-Afters",
-      "url": "https://www.goodreads.com/book/show/34887937-the-chateau-of-happily-ever-afters",
-      "id": "56141776",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1492605473i/34887937.jpg",
+      "title": "L'Enragé",
+      "url": "https://www.goodreads.com/book/show/134115466-l-enrag",
+      "id": "151621152",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1689345685i/134115466.jpg",
       "authors": [
-        "Jaimie Admans"
+        "Sorj Chalandon"
+      ],
+      "genres": [
+        "fiction",
+        "roman",
+        "historical",
+        "historical-fiction",
+        "france",
+        "french-literature",
+        "novels"
+      ],
+      "rating": 4.37,
+      "ratings": 2167,
+      "reviews": 265
+    },
+    {
+      "title": "Le Goût de nos rêves",
+      "url": "https://www.goodreads.com/book/show/132847705-le-go-t-de-nos-r-ves",
+      "id": "151012142",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1681580528i/132847705.jpg",
+      "authors": [
+        "Emma Green"
       ],
       "genres": [
         "romance",
-        "chick-lit",
-        "contemporary",
-        "fiction",
-        "france",
         "contemporary-romance",
+        "forced-proximity",
+        "france",
+        "enemies-to-lovers",
         "adult"
       ],
-      "rating": 4.36,
-      "ratings": 1764,
-      "reviews": 113
-    },
-    {
-      "title": "The Civil War in France",
-      "url": "https://www.goodreads.com/book/show/189641.The_Civil_War_in_France",
-      "id": "183338",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1172549797i/189641.jpg",
-      "authors": [
-        "Karl Marx"
-      ],
-      "genres": [
-        "history",
-        "politics",
-        "non-fiction",
-        "philosophy",
-        "france",
-        "theory",
-        "classics"
-      ],
-      "rating": 4.21,
-      "ratings": 1762,
-      "reviews": 110
-    },
-    {
-      "title": "Le vent en parle encore",
-      "url": "https://www.goodreads.com/book/show/18527453-le-vent-en-parle-encore",
-      "id": "26232885",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1379884062i/18527453.jpg",
-      "authors": [
-        "Michel Jean"
-      ],
-      "genres": [
-        "france",
-        "roman",
-        "historical-fiction",
-        "historical"
-      ],
-      "rating": 4.63,
-      "ratings": 1757,
-      "reviews": 267
-    },
-    {
-      "title": "Tête-à-Tête: The Tumultuous Lives and Loves of Simone de Beauvoir and Jean-Paul Sartre",
-      "url": "https://www.goodreads.com/book/show/152058.T_te_T_te",
-      "id": "1813432",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1410142057i/152058.jpg",
-      "authors": [
-        "Hazel Rowley"
-      ],
-      "genres": [
-        "biography",
-        "non-fiction",
-        "philosophy",
-        "history",
-        "feminism",
-        "france",
-        "biography-memoir"
-      ],
-      "rating": 4.14,
-      "ratings": 1755,
-      "reviews": 249
-    },
-    {
-      "title": "Flowers of Evil: A Selection",
-      "url": "https://www.goodreads.com/book/show/128480.Flowers_of_Evil",
-      "id": "23630412",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347234373i/128480.jpg",
-      "authors": [
-        "Charles Baudelaire"
-      ],
-      "genres": [
-        "poetry",
-        "classics",
-        "fiction",
-        "france",
-        "literature",
-        "french-literature",
-        "19th-century"
-      ],
-      "rating": 4.1,
-      "ratings": 1754,
-      "reviews": 130
-    },
-    {
-      "title": "Mastering the Art of French Cooking: Vol. 1",
-      "url": "https://www.goodreads.com/book/show/1232967.Mastering_the_Art_of_French_Cooking",
-      "id": "26643034",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388190529i/1232967.jpg",
-      "authors": [
-        "Julia Child"
-      ],
-      "genres": [
-        "cookbooks",
-        "cooking",
-        "food",
-        "reference",
-        "non-fiction",
-        "classics",
-        "france"
-      ],
-      "rating": 4.39,
-      "ratings": 1746,
-      "reviews": 43
-    },
-    {
-      "title": "Mad Enchantment: Claude Monet and the Painting of the Water Lilies",
-      "url": "https://www.goodreads.com/book/show/28260588-mad-enchantment",
-      "id": "48300495",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1460910417i/28260588.jpg",
-      "authors": [
-        "Ross King"
-      ],
-      "genres": [
-        "art",
-        "non-fiction",
-        "biography",
-        "history",
-        "art-history",
-        "france",
-        "biography-memoir"
-      ],
-      "rating": 4.03,
-      "ratings": 1744,
-      "reviews": 292
-    },
-    {
-      "title": "Selected Poems",
-      "url": "https://www.goodreads.com/book/show/1063669.Selected_Poems",
-      "id": "1050309",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1223632045i/1063669.jpg",
-      "authors": [
-        "Paul Verlaine"
-      ],
-      "genres": [
-        "poetry",
-        "france",
-        "classics",
-        "french-literature",
-        "19th-century",
-        "fiction",
-        "literature"
-      ],
-      "rating": 4.11,
-      "ratings": 1743,
-      "reviews": 55
-    },
-    {
-      "title": "La voie magique",
-      "url": "https://www.goodreads.com/book/show/219253.La_voie_magique",
-      "id": "4766288",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1470931495i/219253.jpg",
-      "authors": [
-        "Robin Hobb"
-      ],
-      "genres": [
-        "fantasy",
-        "roman",
-        "heroic-fantasy",
-        "france",
-        "fiction",
-        "science-fiction",
-        "novels"
-      ],
-      "rating": 4.36,
-      "ratings": 1743,
-      "reviews": 79
-    },
-    {
-      "title": "La Bête intégrale",
-      "url": "https://www.goodreads.com/book/show/42853773-la-b-te-int-grale",
-      "id": "66624513",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1542494410i/42853773.jpg",
-      "authors": [
-        "David Goudreault"
-      ],
-      "genres": [
-        "fiction",
-        "france",
-        "dark",
-        "audiobook",
-        "roman"
-      ],
-      "rating": 4.5,
-      "ratings": 1730,
-      "reviews": 135
-    },
-    {
-      "title": "Caligula suivi de Le Malentendu",
-      "url": "https://www.goodreads.com/book/show/315991.Caligula_suivi_de_Le_Malentendu",
-      "id": "26415356",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1364337172i/315991.jpg",
-      "authors": [
-        "Albert Camus"
-      ],
-      "genres": [
-        "france",
-        "plays",
-        "theatre",
-        "drama",
-        "classics",
-        "french-literature",
-        "fiction"
-      ],
-      "rating": 4.05,
-      "ratings": 1730,
-      "reviews": 105
-    },
-    {
-      "title": "La Ville sans Vent",
-      "url": "https://www.goodreads.com/book/show/51651768-la-ville-sans-vent",
-      "id": "76219168",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1582550176i/51651768.jpg",
-      "authors": [
-        "Eléonore Devillepoix"
-      ],
-      "genres": [
-        "fantasy",
-        "france",
-        "young-adult",
-        "roman",
-        "young-adult-fantasy",
-        "fiction",
-        "magic"
-      ],
-      "rating": 4.05,
-      "ratings": 1727,
-      "reviews": 311
-    },
-    {
-      "title": "Angor",
-      "url": "https://www.goodreads.com/book/show/23343220-angor",
-      "id": "42902437",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1412776699i/23343220.jpg",
-      "authors": [
-        "Franck Thilliez"
-      ],
-      "genres": [
-        "thriller",
-        "france",
-        "mystery",
-        "crime",
-        "detective",
-        "suspense",
-        "roman"
-      ],
-      "rating": 4.21,
-      "ratings": 1724,
-      "reviews": 160
-    },
-    {
-      "title": "Solea",
-      "url": "https://www.goodreads.com/book/show/511854.Solea",
-      "id": "499835",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347706931i/511854.jpg",
-      "authors": [
-        "Jean-Claude Izzo"
-      ],
-      "genres": [
-        "noir",
-        "crime",
-        "mystery",
-        "fiction",
-        "france",
-        "thriller",
-        "novels"
-      ],
       "rating": 4.12,
-      "ratings": 1721,
-      "reviews": 134
-    },
-    {
-      "title": "A Bite-Sized History of France: Gastronomic Tales of Revolution, War, and Enlightenment",
-      "url": "https://www.goodreads.com/book/show/36542524-a-bite-sized-history-of-france",
-      "id": "58272481",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1530049690i/36542524.jpg",
-      "authors": [
-        "Stephane Henaut"
-      ],
-      "genres": [
-        "history",
-        "non-fiction",
-        "food",
-        "france",
-        "travel",
-        "food-and-drink",
-        "cooking"
-      ],
-      "rating": 4.18,
-      "ratings": 1720,
-      "reviews": 287
-    },
-    {
-      "title": "Secret Letters from 0 to 10",
-      "url": "https://www.goodreads.com/book/show/1186383.Secret_Letters_from_0_to_10",
-      "id": "1174362",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348806529i/1186383.jpg",
-      "authors": [
-        "Susie Morgenstern"
-      ],
-      "genres": [
-        "fiction",
-        "childrens",
-        "middle-grade",
-        "young-adult",
-        "romance",
-        "france",
-        "juvenile"
-      ],
-      "rating": 4.06,
-      "ratings": 1715,
-      "reviews": 266
-    },
-    {
-      "title": "Le génie lesbien",
-      "url": "https://www.goodreads.com/book/show/54958978-le-g-nie-lesbien",
-      "id": "85725707",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1597514535i/54958978.jpg",
-      "authors": [
-        "Alice Coffin"
-      ],
-      "genres": [
-        "feminism",
-        "non-fiction",
-        "lgbt",
-        "queer",
-        "france",
-        "essays",
-        "lesbian"
-      ],
-      "rating": 4.39,
-      "ratings": 1715,
-      "reviews": 179
+      "ratings": 2167,
+      "reviews": 239
     }
   ]
 }

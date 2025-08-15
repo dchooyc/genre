@@ -1,67 +1,298 @@
 {
   "books": [
     {
-      "title": "Operating Systems: Three Easy Pieces",
-      "url": "https://www.goodreads.com/book/show/17374825-operating-systems",
-      "id": "24163446",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1360887934i/17374825.jpg",
+      "title": "Learning Agile: Understanding Scrum, XP, Lean, and Kanban",
+      "url": "https://www.goodreads.com/book/show/19485544-learning-agile",
+      "id": "27570083",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1416178933i/19485544.jpg",
       "authors": [
-        "Remzi H. Arpaci-Dusseau"
+        "Andrew Stellman"
       ],
       "genres": [
-        "computer-science",
+        "business",
         "programming",
-        "technology",
-        "technical",
-        "computers",
         "non-fiction",
-        "software"
+        "management",
+        "computer-science",
+        "reference",
+        "technology"
       ],
-      "rating": 4.69,
-      "ratings": 595,
-      "reviews": 65
+      "rating": 4.09,
+      "ratings": 700,
+      "reviews": 58
     },
     {
-      "title": "High Performance JavaScript",
-      "url": "https://www.goodreads.com/book/show/7008656-high-performance-javascript",
-      "id": "7253533",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328834985i/7008656.jpg",
+      "title": "Security Engineering: A Guide to Building Dependable Distributed Systems",
+      "url": "https://www.goodreads.com/book/show/3268675-security-engineering",
+      "id": "3304012",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348874720i/3268675.jpg",
       "authors": [
-        "Nicholas C. Zakas"
+        "Ross J. Anderson"
+      ],
+      "genres": [
+        "computer-science",
+        "technology",
+        "non-fiction",
+        "programming",
+        "technical",
+        "software",
+        "engineering"
+      ],
+      "rating": 4.21,
+      "ratings": 697,
+      "reviews": 34
+    },
+    {
+      "title": "Microservice Patterns",
+      "url": "https://www.goodreads.com/book/show/34372564-microservice-patterns",
+      "id": "55456565",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1487751473i/34372564.jpg",
+      "authors": [
+        "Chris Richardson"
       ],
       "genres": [
         "programming",
         "technology",
+        "computer-science",
+        "software",
+        "architecture",
         "technical",
+        "non-fiction"
+      ],
+      "rating": 4.25,
+      "ratings": 686,
+      "reviews": 70
+    },
+    {
+      "title": "You Don't Know JS: Async & Performance",
+      "url": "https://www.goodreads.com/book/show/22221110-you-don-t-know-js",
+      "id": "41559954",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1401074365i/22221110.jpg",
+      "authors": [
+        "Kyle Simpson"
+      ],
+      "genres": [
+        "programming",
+        "technology",
         "computer-science",
         "non-fiction",
+        "technical",
         "software",
         "coding"
       ],
-      "rating": 4.11,
-      "ratings": 593,
-      "reviews": 36
+      "rating": 4.31,
+      "ratings": 681,
+      "reviews": 42
     },
     {
-      "title": "The Principles of Object-Oriented JavaScript",
-      "url": "https://www.goodreads.com/book/show/20799234-the-principles-of-object-oriented-javascript",
-      "id": "40143152",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1392225080i/20799234.jpg",
+      "title": "Kubernetes in Action",
+      "url": "https://www.goodreads.com/book/show/34013922-kubernetes-in-action",
+      "id": "55010684",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1514938018i/34013922.jpg",
       "authors": [
-        "Nicholas C. Zakas"
+        "Marko Luksa"
+      ],
+      "genres": [
+        "technology",
+        "programming",
+        "technical",
+        "software",
+        "computer-science",
+        "non-fiction",
+        "reference"
+      ],
+      "rating": 4.59,
+      "ratings": 669,
+      "reviews": 93
+    },
+    {
+      "title": "Introduction to Automata Theory, Languages, and Computation",
+      "url": "https://www.goodreads.com/book/show/1384026.Introduction_to_Automata_Theory_Languages_and_Computation",
+      "id": "1374051",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1387668734i/1384026.jpg",
+      "authors": [
+        "John E. Hopcroft"
+      ],
+      "genres": [
+        "computer-science",
+        "programming",
+        "reference",
+        "mathematics",
+        "computers",
+        "science",
+        "technical"
+      ],
+      "rating": 4.06,
+      "ratings": 668,
+      "reviews": 31
+    },
+    {
+      "title": "Linux Pocket Guide",
+      "url": "https://www.goodreads.com/book/show/201924721-linux-pocket-guide",
+      "id": "123439",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1718721139i/201924721.jpg",
+      "authors": [
+        "Daniel J. Barrett"
+      ],
+      "genres": [
+        "reference",
+        "programming",
+        "computer-science",
+        "non-fiction",
+        "technology",
+        "technical",
+        "computers"
+      ],
+      "rating": 4.09,
+      "ratings": 665,
+      "reviews": 31
+    },
+    {
+      "title": "99 Bottles of OOP",
+      "url": "https://www.goodreads.com/book/show/31183020-99-bottles-of-oop",
+      "id": "51824272",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1477514056i/31183020.jpg",
+      "authors": [
+        "Sandi Metz"
       ],
       "genres": [
         "programming",
         "technology",
-        "computer-science",
-        "technical",
-        "reference",
         "software",
+        "computer-science",
+        "non-fiction",
+        "technical",
+        "engineering"
+      ],
+      "rating": 4.55,
+      "ratings": 661,
+      "reviews": 75
+    },
+    {
+      "title": "Learning Domain-Driven Design: Aligning Software Architecture and Business Strategy",
+      "url": "https://www.goodreads.com/book/show/57573212-learning-domain-driven-design",
+      "id": "90162534",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1635258056i/57573212.jpg",
+      "authors": [
+        "Vladik Khononov"
+      ],
+      "genres": [
+        "programming",
+        "technology",
+        "software",
+        "computer-science",
+        "architecture",
+        "technical",
         "non-fiction"
       ],
-      "rating": 4.37,
-      "ratings": 593,
-      "reviews": 61
+      "rating": 4.44,
+      "ratings": 660,
+      "reviews": 78
+    },
+    {
+      "title": "Domain Modeling Made Functional: Tackle Software Complexity with Domain-Driven Design and F#",
+      "url": "https://www.goodreads.com/book/show/39021550-domain-modeling-made-functional",
+      "id": "56184944",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1520093533i/38918381.jpg",
+      "authors": [
+        "Scott Wlaschin"
+      ],
+      "genres": [
+        "programming",
+        "technology",
+        "software",
+        "computer-science",
+        "technical",
+        "non-fiction",
+        "architecture"
+      ],
+      "rating": 4.49,
+      "ratings": 660,
+      "reviews": 83
+    },
+    {
+      "title": "Python Data Science Handbook: Essential Tools for Working with Data",
+      "url": "https://www.goodreads.com/book/show/26457146-python-data-science-handbook",
+      "id": "46459730",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1481029785i/26457146.jpg",
+      "authors": [
+        "Jake VanderPlas"
+      ],
+      "genres": [
+        "programming",
+        "computer-science",
+        "non-fiction",
+        "reference",
+        "technical",
+        "technology",
+        "coding"
+      ],
+      "rating": 4.29,
+      "ratings": 656,
+      "reviews": 63
+    },
+    {
+      "title": "Androids: The Team that Built the Android Operating System",
+      "url": "https://www.goodreads.com/book/show/60203703-androids",
+      "id": "92491274",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1647267561i/60203703.jpg",
+      "authors": [
+        "Chet Haase"
+      ],
+      "genres": [
+        "technology",
+        "non-fiction",
+        "history",
+        "business",
+        "programming",
+        "science",
+        "computers"
+      ],
+      "rating": 4.27,
+      "ratings": 648,
+      "reviews": 89
+    },
+    {
+      "title": "Algorithm Design",
+      "url": "https://www.goodreads.com/book/show/145055.Algorithm_Design",
+      "id": "139960",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348335904i/145055.jpg",
+      "authors": [
+        "Jon Kleinberg"
+      ],
+      "genres": [
+        "computer-science",
+        "algorithms",
+        "programming",
+        "technology",
+        "technical",
+        "textbooks",
+        "non-fiction"
+      ],
+      "rating": 4.17,
+      "ratings": 647,
+      "reviews": 26
+    },
+    {
+      "title": "Scala for the Impatient",
+      "url": "https://www.goodreads.com/book/show/11335855-scala-for-the-impatient",
+      "id": "16264400",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348110005i/11335855.jpg",
+      "authors": [
+        "Cay S. Horstmann"
+      ],
+      "genres": [
+        "programming",
+        "technology",
+        "technical",
+        "computer-science",
+        "software",
+        "non-fiction",
+        "computers"
+      ],
+      "rating": 4.09,
+      "ratings": 638,
+      "reviews": 55
     },
     {
       "title": "Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics and Speech Recognition",
@@ -80,176 +311,134 @@
         "programming",
         "reference"
       ],
-      "rating": 4.27,
-      "ratings": 593,
-      "reviews": 42
+      "rating": 4.29,
+      "ratings": 634,
+      "reviews": 48
     },
     {
-      "title": "Kill It with Fire: Manage Aging Computer Systems",
-      "url": "https://www.goodreads.com/book/show/54716655-kill-it-with-fire",
-      "id": "85366541",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1612209971i/54716655.jpg",
+      "title": "The Software Engineer's Guidebook: Navigating senior, tech lead, and staff engineer positions at tech companies and startups",
+      "url": "https://www.goodreads.com/book/show/201545491-the-software-engineer-s-guidebook",
+      "id": "206444812",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1699076844i/201545491.jpg",
       "authors": [
-        "Marianne Bellotti"
+        "Gergely  Orosz"
       ],
       "genres": [
         "technology",
+        "programming",
+        "software",
+        "technical",
+        "computer-science",
+        "leadership",
+        "non-fiction"
+      ],
+      "rating": 4.08,
+      "ratings": 624,
+      "reviews": 80
+    },
+    {
+      "title": "Game Engine Black Book, Wolfenstein 3D",
+      "url": "https://www.goodreads.com/book/show/36165638-game-engine-black-book-wolfenstein-3d",
+      "id": "57776395",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1505800605i/36165638.jpg",
+      "authors": [
+        "Fabien Sanglard"
+      ],
+      "genres": [
+        "programming",
         "non-fiction",
+        "computer-science",
+        "technology",
+        "games",
+        "technical",
+        "history"
+      ],
+      "rating": 4.48,
+      "ratings": 624,
+      "reviews": 68
+    },
+    {
+      "title": "The Software Architect Elevator: Redefining the Architect's Role in the Digital Enterprise",
+      "url": "https://www.goodreads.com/book/show/49828197-the-software-architect-elevator",
+      "id": "74934396",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1585196491i/49828197.jpg",
+      "authors": [
+        "Gregor Hohpe"
+      ],
+      "genres": [
+        "technology",
+        "architecture",
+        "software",
+        "programming",
+        "non-fiction",
+        "technical",
+        "business"
+      ],
+      "rating": 4.38,
+      "ratings": 621,
+      "reviews": 70
+    },
+    {
+      "title": "Effective STL: 50 Specific Ways to Improve Your Use of the Standard Template Library",
+      "url": "https://www.goodreads.com/book/show/105124.Effective_STL",
+      "id": "101341",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1349046800i/105124.jpg",
+      "authors": [
+        "Scott Meyers"
+      ],
+      "genres": [
+        "programming",
+        "computer-science",
+        "technical",
+        "non-fiction",
+        "computers",
+        "software",
+        "technology"
+      ],
+      "rating": 4.22,
+      "ratings": 620,
+      "reviews": 28
+    },
+    {
+      "title": "Professional JavaScript for Web Developers",
+      "url": "https://www.goodreads.com/book/show/135437.Professional_JavaScript_for_Web_Developers",
+      "id": "130520",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1172064302i/135437.jpg",
+      "authors": [
+        "Nicholas C. Zakas"
+      ],
+      "genres": [
+        "programming",
+        "technology",
+        "computer-science",
+        "technical",
+        "non-fiction",
+        "reference",
+        "software"
+      ],
+      "rating": 4.2,
+      "ratings": 614,
+      "reviews": 34
+    },
+    {
+      "title": "Trustworthy Online Controlled Experiments: A Practical Guide to A/B Testing",
+      "url": "https://www.goodreads.com/book/show/51635906-trustworthy-online-controlled-experiments",
+      "id": "72898346",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1580806782l/51635906.jpg",
+      "authors": [
+        "Ron Kohavi"
+      ],
+      "genres": [
         "business",
-        "programming",
-        "software",
-        "engineering",
-        "computer-science"
-      ],
-      "rating": 4.16,
-      "ratings": 590,
-      "reviews": 84
-    },
-    {
-      "title": "Java Puzzlers: Traps, Pitfalls, and Corner Cases",
-      "url": "https://www.goodreads.com/book/show/127931.Java_Puzzlers",
-      "id": "123206",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348585328i/127931.jpg",
-      "authors": [
-        "Joshua Bloch"
-      ],
-      "genres": [
-        "programming",
-        "computer-science",
-        "technology",
-        "software",
-        "non-fiction",
-        "technical",
-        "reference"
-      ],
-      "rating": 4.25,
-      "ratings": 589,
-      "reviews": 24
-    },
-    {
-      "title": "Domain Modeling Made Functional: Tackle Software Complexity with Domain-Driven Design and F#",
-      "url": "https://www.goodreads.com/book/show/39021550-domain-modeling-made-functional",
-      "id": "56184944",
-      "cover_url": "https://dryofg8nmyqjw.cloudfront.net/images/no-cover.png",
-      "authors": [
-        "Scott Wlaschin"
-      ],
-      "genres": [
-        "programming",
-        "technology",
-        "software",
-        "computer-science",
-        "technical",
-        "non-fiction",
-        "architecture"
-      ],
-      "rating": 4.52,
-      "ratings": 587,
-      "reviews": 77
-    },
-    {
-      "title": "Architects of Intelligence: The truth about AI from the people building it",
-      "url": "https://www.goodreads.com/book/show/41998128-architects-of-intelligence",
-      "id": "65536796",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1537760364i/41998128.jpg",
-      "authors": [
-        "Martin Ford"
-      ],
-      "genres": [
-        "artificial-intelligence",
         "non-fiction",
         "technology",
         "science",
-        "business",
         "computer-science",
-        "programming"
-      ],
-      "rating": 4.09,
-      "ratings": 576,
-      "reviews": 78
-    },
-    {
-      "title": "Fifty Quick Ideas to Improve Your User Stories",
-      "url": "https://www.goodreads.com/book/show/21411450-fifty-quick-ideas-to-improve-your-user-stories",
-      "id": "40712281",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1413246521i/21411450.jpg",
-      "authors": [
-        "Gojko Adzic"
-      ],
-      "genres": [
-        "business",
         "programming",
-        "non-fiction",
-        "software",
-        "technology",
-        "management",
-        "computer-science"
+        "design"
       ],
-      "rating": 4.17,
-      "ratings": 576,
-      "reviews": 56
-    },
-    {
-      "title": "Computer Organization and Architecture",
-      "url": "https://www.goodreads.com/book/show/299635.Computer_Organization_and_Architecture",
-      "id": "290709",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1173511225i/299635.jpg",
-      "authors": [
-        "William Stallings"
-      ],
-      "genres": [
-        "computer-science",
-        "non-fiction",
-        "reference",
-        "programming",
-        "computers",
-        "textbooks",
-        "science"
-      ],
-      "rating": 4.06,
-      "ratings": 573,
-      "reviews": 26
-    },
-    {
-      "title": "Kotlin in Action",
-      "url": "https://www.goodreads.com/book/show/29242249-kotlin-in-action",
-      "id": "49486079",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1508987882i/29242249.jpg",
-      "authors": [
-        "Dmitry Jemerov"
-      ],
-      "genres": [
-        "programming",
-        "technology",
-        "computer-science",
-        "technical",
-        "software",
-        "non-fiction",
-        "reference"
-      ],
-      "rating": 4.41,
-      "ratings": 568,
-      "reviews": 62
-    },
-    {
-      "title": "Ruby on Rails Tutorial: Learn Web Development with Rails",
-      "url": "https://www.goodreads.com/book/show/13705557-ruby-on-rails-tutorial",
-      "id": "19338066",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1355074500i/13705557.jpg",
-      "authors": [
-        "Michael Hartl"
-      ],
-      "genres": [
-        "programming",
-        "technology",
-        "coding",
-        "computers",
-        "non-fiction",
-        "reference",
-        "engineering"
-      ],
-      "rating": 4.31,
-      "ratings": 566,
+      "rating": 4.4,
+      "ratings": 607,
       "reviews": 64
     },
     {
@@ -261,17 +450,38 @@
         "Michael Sikorski"
       ],
       "genres": [
+        "technology",
         "hackers",
         "computer-science",
-        "technology",
         "non-fiction",
         "programming",
-        "technical",
-        "computers"
+        "computers",
+        "technical"
       ],
       "rating": 4.48,
-      "ratings": 564,
-      "reviews": 29
+      "ratings": 604,
+      "reviews": 30
+    },
+    {
+      "title": "The Principles of Object-Oriented JavaScript",
+      "url": "https://www.goodreads.com/book/show/20799234-the-principles-of-object-oriented-javascript",
+      "id": "40143152",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1392225080i/20799234.jpg",
+      "authors": [
+        "Nicholas C. Zakas"
+      ],
+      "genres": [
+        "programming",
+        "technology",
+        "computer-science",
+        "technical",
+        "reference",
+        "non-fiction",
+        "coding"
+      ],
+      "rating": 4.36,
+      "ratings": 604,
+      "reviews": 62
     },
     {
       "title": "Introduction to Graph Theory",
@@ -287,222 +497,12 @@
         "non-fiction",
         "textbooks",
         "technology",
-        "technical",
+        "computer-science",
         "programming"
       ],
       "rating": 4.09,
-      "ratings": 563,
-      "reviews": 48
-    },
-    {
-      "title": "Design Systems: A practical guide to creating design languages for digital products",
-      "url": "https://www.goodreads.com/book/show/35857970-design-systems",
-      "id": "57377068",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1508598756i/35857970.jpg",
-      "authors": [
-        "Alla Kholmatova"
-      ],
-      "genres": [
-        "design",
-        "non-fiction",
-        "business",
-        "technology",
-        "website-design",
-        "programming",
-        "software"
-      ],
-      "rating": 4.14,
-      "ratings": 560,
-      "reviews": 44
-    },
-    {
-      "title": "Game Engine Architecture",
-      "url": "https://www.goodreads.com/book/show/6709076-game-engine-architecture",
-      "id": "6904910",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348115696i/6709076.jpg",
-      "authors": [
-        "Jason Gregory"
-      ],
-      "genres": [
-        "programming",
-        "computer-science",
-        "games",
-        "non-fiction",
-        "technology",
-        "game-design",
-        "technical"
-      ],
-      "rating": 4.4,
-      "ratings": 554,
-      "reviews": 27
-    },
-    {
-      "title": "The Scrum Fieldbook: A Master Class on Accelerating Performance, Getting Results, and Defining the Future",
-      "url": "https://www.goodreads.com/book/show/43582738-the-scrum-fieldbook",
-      "id": "67806678",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1562009768i/43582738.jpg",
-      "authors": [
-        "J.J.  Sutherland"
-      ],
-      "genres": [
-        "business",
-        "non-fiction",
-        "leadership",
-        "management",
-        "productivity",
-        "software",
-        "programming"
-      ],
-      "rating": 4.02,
-      "ratings": 552,
-      "reviews": 52
-    },
-    {
-      "title": "Black Hat Python: Python Programming for Hackers and Pentesters",
-      "url": "https://www.goodreads.com/book/show/22299369-black-hat-python",
-      "id": "41687198",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1418765234i/22299369.jpg",
-      "authors": [
-        "Justin Seitz"
-      ],
-      "genres": [
-        "hackers",
-        "programming",
-        "technology",
-        "computer-science",
-        "non-fiction",
-        "technical",
-        "reference"
-      ],
-      "rating": 4.08,
-      "ratings": 546,
-      "reviews": 26
-    },
-    {
-      "title": "More Joel on Software: Further Thoughts on Diverse and Occasionally Related Matters That Will Prove of Interest to Software Developers, Designers, and ... or Ill Luck, Work with Them in Some Capacity",
-      "url": "https://www.goodreads.com/book/show/2718384-more-joel-on-software",
-      "id": "2743981",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1349082373i/2718384.jpg",
-      "authors": [
-        "Avram Joel Spolsky"
-      ],
-      "genres": [
-        "programming",
-        "computer-science",
-        "business",
-        "technology",
-        "software",
-        "technical",
-        "computers"
-      ],
-      "rating": 4.05,
-      "ratings": 545,
-      "reviews": 34
-    },
-    {
-      "title": "Clojure for the Brave and True",
-      "url": "https://www.goodreads.com/book/show/20873338-clojure-for-the-brave-and-true",
-      "id": "40212034",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1432497082i/20873338.jpg",
-      "authors": [
-        "Daniel Higginbotham"
-      ],
-      "genres": [
-        "programming",
-        "computer-science",
-        "technology",
-        "non-fiction",
-        "software",
-        "technical",
-        "computers"
-      ],
-      "rating": 4.28,
-      "ratings": 545,
-      "reviews": 67
-    },
-    {
-      "title": "Machine Learning With Random Forests And Decision Trees: A Visual Guide For Beginners",
-      "url": "https://www.goodreads.com/book/show/31431909-machine-learning-with-random-forests-and-decision-trees",
-      "id": "52127509",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1471001993i/31431909.jpg",
-      "authors": [
-        "Scott Hartshorn"
-      ],
-      "genres": [
-        "technology",
-        "non-fiction",
-        "mathematics",
-        "artificial-intelligence",
-        "science",
-        "technical",
-        "programming"
-      ],
-      "rating": 4.02,
-      "ratings": 543,
-      "reviews": 47
-    },
-    {
-      "title": "Reversing: Secrets of Reverse Engineering",
-      "url": "https://www.goodreads.com/book/show/1067264.Reversing",
-      "id": "1053920",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348252738i/1067264.jpg",
-      "authors": [
-        "Eldad Eilam"
-      ],
-      "genres": [
-        "computer-science",
-        "programming",
-        "hackers",
-        "technical",
-        "technology",
-        "reference",
-        "computers"
-      ],
-      "rating": 4.11,
-      "ratings": 542,
-      "reviews": 20
-    },
-    {
-      "title": "Violent Python: A Cookbook for Hackers, Forensic Analysts, Penetration Testers and Security Engineers",
-      "url": "https://www.goodreads.com/book/show/16192263-violent-python",
-      "id": "22112215",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1355072634i/16192263.jpg",
-      "authors": [
-        "T.J. O'Connor"
-      ],
-      "genres": [
-        "programming",
-        "technology",
-        "hackers",
-        "computer-science",
-        "non-fiction",
-        "technical",
-        "computers"
-      ],
-      "rating": 4.03,
-      "ratings": 540,
-      "reviews": 32
-    },
-    {
-      "title": "The Tangled Web: A Guide to Securing Modern Web Applications",
-      "url": "https://www.goodreads.com/book/show/11553604-the-tangled-web",
-      "id": "16493650",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1344675366i/11553604.jpg",
-      "authors": [
-        "Michal Zalewski"
-      ],
-      "genres": [
-        "technology",
-        "programming",
-        "non-fiction",
-        "technical",
-        "computer-science",
-        "hackers",
-        "reference"
-      ],
-      "rating": 4.05,
-      "ratings": 538,
-      "reviews": 41
+      "ratings": 603,
+      "reviews": 50
     }
   ]
 }

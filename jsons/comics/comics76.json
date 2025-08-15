@@ -1,67 +1,403 @@
 {
   "books": [
     {
-      "title": "Scalped, Vol. 2: Casino Boogie",
-      "url": "https://www.goodreads.com/book/show/2270848.Scalped_Vol_2",
-      "id": "2276868",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1303152541i/2270848.jpg",
+      "title": "Do Androids Dream of Electric Sheep? 1",
+      "url": "https://www.goodreads.com/book/show/6545414-do-androids-dream-of-electric-sheep-1",
+      "id": "23588207",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1307477425i/6545414.jpg",
       "authors": [
-        "Jason Aaron"
+        "Philip K. Dick"
+      ],
+      "genres": [
+        "science-fiction",
+        "graphic-novels",
+        "comics",
+        "fiction",
+        "dystopia",
+        "cyberpunk",
+        "classics"
+      ],
+      "rating": 4.04,
+      "ratings": 4338,
+      "reviews": 320
+    },
+    {
+      "title": "Case Closed, Vol. 3",
+      "url": "https://www.goodreads.com/book/show/412286.Case_Closed_Vol_3",
+      "id": "2672465",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1630901883i/412286.jpg",
+      "authors": [
+        "Gosho Aoyama"
+      ],
+      "genres": [
+        "manga",
+        "mystery",
+        "comics",
+        "graphic-novels",
+        "fiction",
+        "crime",
+        "detective"
+      ],
+      "rating": 4.39,
+      "ratings": 4335,
+      "reviews": 152
+    },
+    {
+      "title": "Monstress, Volume 6: The Vow",
+      "url": "https://www.goodreads.com/book/show/57285038-monstress-volume-6",
+      "id": "89644815",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1729765358i/57285038.jpg",
+      "authors": [
+        "Marjorie M. Liu"
+      ],
+      "genres": [
+        "fantasy",
+        "graphic-novels",
+        "comics",
+        "horror",
+        "fiction",
+        "graphic-novels-comics",
+        "adult"
+      ],
+      "rating": 4.41,
+      "ratings": 4332,
+      "reviews": 527
+    },
+    {
+      "title": "Did You Hear What Eddie Gein Done?",
+      "url": "https://www.goodreads.com/book/show/57378791-did-you-hear-what-eddie-gein-done",
+      "id": "89807122",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1615486161i/57378791.jpg",
+      "authors": [
+        "Harold Schechter"
+      ],
+      "genres": [
+        "graphic-novels",
+        "true-crime",
+        "non-fiction",
+        "comics",
+        "horror",
+        "crime",
+        "history"
+      ],
+      "rating": 4.23,
+      "ratings": 4331,
+      "reviews": 601
+    },
+    {
+      "title": "Tokyo Revengers, Vol. 10",
+      "url": "https://www.goodreads.com/book/show/50044172-tokyo-revengers-vol-10",
+      "id": "72873580",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1565703176l/50044172.jpg",
+      "authors": [
+        "Ken Wakui"
+      ],
+      "genres": [
+        "manga",
+        "shonen",
+        "comics",
+        "time-travel",
+        "action",
+        "comics-manga",
+        "graphic-novels"
+      ],
+      "rating": 4.47,
+      "ratings": 4326,
+      "reviews": 268
+    },
+    {
+      "title": "Buffy the Vampire Slayer, Vol. 1: High School Is Hell",
+      "url": "https://www.goodreads.com/book/show/42201547-buffy-the-vampire-slayer-vol-1",
+      "id": "71807540",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1581000767i/42201547.jpg",
+      "authors": [
+        "Jordie Bellaire"
+      ],
+      "genres": [
+        "graphic-novels",
+        "comics",
+        "fantasy",
+        "horror",
+        "vampires",
+        "young-adult",
+        "fiction"
+      ],
+      "rating": 4.01,
+      "ratings": 4321,
+      "reviews": 693
+    },
+    {
+      "title": "Cardcaptor Sakura, Vol. 5",
+      "url": "https://www.goodreads.com/book/show/229154.Cardcaptor_Sakura_Vol_5",
+      "id": "221931",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388255063i/229154.jpg",
+      "authors": [
+        "Clamp"
+      ],
+      "genres": [
+        "manga",
+        "fantasy",
+        "graphic-novels",
+        "comics",
+        "shojo",
+        "romance",
+        "magic"
+      ],
+      "rating": 4.36,
+      "ratings": 4320,
+      "reviews": 102
+    },
+    {
+      "title": "I Left The House Today!",
+      "url": "https://www.goodreads.com/book/show/49229966-i-left-the-house-today",
+      "id": "71812477",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1577028060i/49229966.jpg",
+      "authors": [
+        "Cassandra Calin"
+      ],
+      "genres": [
+        "graphic-novels",
+        "comics",
+        "humor",
+        "non-fiction",
+        "graphic-novels-comics",
+        "contemporary",
+        "adult"
+      ],
+      "rating": 4.04,
+      "ratings": 4319,
+      "reviews": 813
+    },
+    {
+      "title": "100 Bullets, Vol. 8: The Hard Way",
+      "url": "https://www.goodreads.com/book/show/734820.100_Bullets_Vol_8",
+      "id": "721004",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348266033i/734820.jpg",
+      "authors": [
+        "Brian Azzarello"
       ],
       "genres": [
         "comics",
         "graphic-novels",
         "crime",
         "comic-book",
-        "noir",
+        "fiction",
         "graphic-novels-comics",
-        "fiction"
+        "mystery"
       ],
-      "rating": 4.22,
-      "ratings": 4066,
-      "reviews": 188
+      "rating": 4.2,
+      "ratings": 4318,
+      "reviews": 82
     },
     {
-      "title": "The Invisibles, Vol. 6: Kissing Mister Quimper",
-      "url": "https://www.goodreads.com/book/show/22406.The_Invisibles_Vol_6",
-      "id": "1197222",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1309400581i/22406.jpg",
+      "title": "Super Narwhal and Jelly Jolt",
+      "url": "https://www.goodreads.com/book/show/31852015-super-narwhal-and-jelly-jolt",
+      "id": "52522629",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1474547366i/31852015.jpg",
       "authors": [
-        "Grant Morrison"
+        "Ben Clanton"
+      ],
+      "genres": [
+        "graphic-novels",
+        "childrens",
+        "picture-books",
+        "humor",
+        "animals",
+        "comics",
+        "fiction"
+      ],
+      "rating": 4.33,
+      "ratings": 4315,
+      "reviews": 534
+    },
+    {
+      "title": "Avatar: The Last Airbender: North and South, Part 3",
+      "url": "https://www.goodreads.com/book/show/31617927-avatar",
+      "id": "49306333",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1474709723i/31617927.jpg",
+      "authors": [
+        "Gene Luen Yang"
       ],
       "genres": [
         "comics",
         "graphic-novels",
-        "fiction",
-        "science-fiction",
-        "graphic-novels-comics",
         "fantasy",
-        "comix"
+        "fiction",
+        "young-adult",
+        "graphic-novels-comics",
+        "manga"
       ],
-      "rating": 4.25,
-      "ratings": 4065,
-      "reviews": 79
+      "rating": 4.33,
+      "ratings": 4315,
+      "reviews": 243
     },
     {
-      "title": "Tower of God Volume One: A WEBTOON Unscrolled Graphic Novel",
-      "url": "https://www.goodreads.com/book/show/60653006-tower-of-god-volume-one",
-      "id": "25642066",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1653283653i/60653006.jpg",
+      "title": "The Contract With God Trilogy: Life on Dropsie Avenue",
+      "url": "https://www.goodreads.com/book/show/33472.The_Contract_With_God_Trilogy",
+      "id": "48199417",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1324242014i/33472.jpg",
       "authors": [
-        "S.I.U"
+        "Will Eisner"
+      ],
+      "genres": [
+        "graphic-novels",
+        "fiction",
+        "comics",
+        "graphic-novels-comics",
+        "historical-fiction",
+        "classics",
+        "comic-book"
+      ],
+      "rating": 4.24,
+      "ratings": 4315,
+      "reviews": 384
+    },
+    {
+      "title": "Garfield Vol. 1",
+      "url": "https://www.goodreads.com/book/show/25983487-garfield-vol-1",
+      "id": "20140924",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1437920414i/25983487.jpg",
+      "authors": [
+        "Jim Davis"
+      ],
+      "genres": [
+        "comics",
+        "graphic-novels",
+        "comedy",
+        "animals",
+        "fiction",
+        "humor",
+        "childrens"
+      ],
+      "rating": 4.43,
+      "ratings": 4311,
+      "reviews": 72
+    },
+    {
+      "title": "Soul Eater, Vol. 5",
+      "url": "https://www.goodreads.com/book/show/7620611-soul-eater-vol-05",
+      "id": "10094716",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1389146424i/7620611.jpg",
+      "authors": [
+        "Atsushi Ohkubo"
       ],
       "genres": [
         "manga",
-        "manhwa",
         "fantasy",
+        "shonen",
+        "graphic-novels",
+        "comics",
+        "comics-manga",
+        "action"
+      ],
+      "rating": 4.41,
+      "ratings": 4310,
+      "reviews": 93
+    },
+    {
+      "title": "Hellboy, Vol. 1: Seed of Destruction and Wake the Devil",
+      "url": "https://www.goodreads.com/book/show/2338283.Hellboy",
+      "id": "2344967",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1403200131i/2338283.jpg",
+      "authors": [
+        "Mike Mignola"
+      ],
+      "genres": [
+        "comics",
+        "graphic-novels",
+        "horror",
+        "fantasy",
+        "graphic-novels-comics",
+        "fiction",
+        "comic-book"
+      ],
+      "rating": 4.43,
+      "ratings": 4308,
+      "reviews": 242
+    },
+    {
+      "title": "Fruits Basket Collector's Edition, Vol. 4",
+      "url": "https://www.goodreads.com/book/show/28219405-fruits-basket-collector-s-edition-vol-4",
+      "id": "48247431",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1468258262i/28219405.jpg",
+      "authors": [
+        "Natsuki Takaya"
+      ],
+      "genres": [
+        "manga",
+        "fantasy",
+        "romance",
+        "graphic-novels",
+        "young-adult",
+        "comics",
+        "shojo"
+      ],
+      "rating": 4.53,
+      "ratings": 4304,
+      "reviews": 273
+    },
+    {
+      "title": "No Touching At All",
+      "url": "https://www.goodreads.com/book/show/8105139-no-touching-at-all",
+      "id": "12897140",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1383433454i/8105139.jpg",
+      "authors": [
+        "Kou Yoneda"
+      ],
+      "genres": [
+        "manga",
+        "yaoi",
+        "romance",
+        "m-m-romance",
+        "lgbt",
+        "comics",
+        "graphic-novels"
+      ],
+      "rating": 4.13,
+      "ratings": 4301,
+      "reviews": 254
+    },
+    {
+      "title": "El cuerpo de Cristo",
+      "url": "https://www.goodreads.com/book/show/199510212-el-cuerpo-de-cristo",
+      "id": "145073274",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1699716280i/199510212.jpg",
+      "authors": [
+        "Bea Lema"
+      ],
+      "genres": [
+        "bande-dessin%C3%A9e",
+        "graphic-novels",
+        "comics",
+        "fiction",
+        "spanish-literature",
+        "mental-health",
+        "spain"
+      ],
+      "rating": 4.58,
+      "ratings": 4300,
+      "reviews": 775
+    },
+    {
+      "title": "Claymore, Vol. 3: Teresa of the Faint Smile",
+      "url": "https://www.goodreads.com/book/show/808828.Claymore_Vol_3",
+      "id": "794769",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388352245i/808828.jpg",
+      "authors": [
+        "Norihiro Yagi"
+      ],
+      "genres": [
+        "manga",
+        "fantasy",
+        "horror",
         "comics",
         "graphic-novels",
         "action",
-        "webcomic"
+        "comics-manga"
       ],
-      "rating": 4.38,
-      "ratings": 4064,
-      "reviews": 334
+      "rating": 4.32,
+      "ratings": 4299,
+      "reviews": 227
     },
     {
       "title": "The Wicked + The Divine, Vol. 9: Okay",
@@ -75,434 +411,98 @@
         "comics",
         "graphic-novels",
         "fantasy",
-        "graphic-novels-comics",
-        "mythology",
         "fiction",
+        "mythology",
+        "graphic-novels-comics",
         "lgbt"
       ],
       "rating": 4.21,
-      "ratings": 4062,
-      "reviews": 546
+      "ratings": 4292,
+      "reviews": 562
     },
     {
-      "title": "The Legend of Korra: Turf Wars",
-      "url": "https://www.goodreads.com/book/show/41129909-the-legend-of-korra",
-      "id": "64264142",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1540991358i/41129909.jpg",
-      "authors": [
-        "Michael Dante DiMartino"
-      ],
-      "genres": [
-        "graphic-novels",
-        "comics",
-        "fantasy",
-        "lgbt",
-        "queer",
-        "fiction",
-        "lesbian"
-      ],
-      "rating": 4.34,
-      "ratings": 4061,
-      "reviews": 411
-    },
-    {
-      "title": "Hawkeye: Kate Bishop, Vol. 1: Anchor Points",
-      "url": "https://www.goodreads.com/book/show/32052244-hawkeye",
-      "id": "52692636",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1493249455i/32052244.jpg",
-      "authors": [
-        "Kelly Thompson"
-      ],
-      "genres": [
-        "comics",
-        "graphic-novels",
-        "marvel",
-        "superheroes",
-        "graphic-novels-comics",
-        "fiction",
-        "comic-book"
-      ],
-      "rating": 4.13,
-      "ratings": 4061,
-      "reviews": 499
-    },
-    {
-      "title": "Adventure Time, Vol. 2",
-      "url": "https://www.goodreads.com/book/show/16117503-adventure-time-vol-2",
-      "id": "24650597",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1359463882i/16117503.jpg",
-      "authors": [
-        "Ryan North"
-      ],
-      "genres": [
-        "graphic-novels",
-        "fantasy",
-        "comics",
-        "graphic-novels-comics",
-        "fiction",
-        "humor",
-        "young-adult"
-      ],
-      "rating": 4.35,
-      "ratings": 4056,
-      "reviews": 217
-    },
-    {
-      "title": "Ultimate Spider-Man, Volume 19: Death of a Goblin",
-      "url": "https://www.goodreads.com/book/show/2124092.Ultimate_Spider_Man_Volume_19",
-      "id": "2129532",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1422763221i/2124092.jpg",
-      "authors": [
-        "Brian Michael Bendis"
-      ],
-      "genres": [
-        "comics",
-        "graphic-novels",
-        "marvel",
-        "spider-man",
-        "comic-book",
-        "superheroes",
-        "graphic-novels-comics"
-      ],
-      "rating": 4.24,
-      "ratings": 4055,
-      "reviews": 84
-    },
-    {
-      "title": "Tokyo Revengers, Vol. 6",
-      "url": "https://www.goodreads.com/book/show/45133223-tokyo-revengers-vol-6",
-      "id": "69809646",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1555324374i/45133223.jpg",
-      "authors": [
-        "Ken Wakui"
-      ],
-      "genres": [
-        "manga",
-        "comics",
-        "shonen",
-        "time-travel",
-        "action",
-        "comics-manga",
-        "science-fiction"
-      ],
-      "rating": 4.5,
-      "ratings": 4050,
-      "reviews": 212
-    },
-    {
-      "title": "One Piece, Volume 68: Pirate Alliance",
-      "url": "https://www.goodreads.com/book/show/17571800-one-piece-volume-68",
-      "id": "22027833",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1367831587i/17571800.jpg",
-      "authors": [
-        "Eiichiro Oda"
-      ],
-      "genres": [
-        "manga",
-        "fantasy",
-        "comics",
-        "adventure",
-        "shonen",
-        "action",
-        "graphic-novels"
-      ],
-      "rating": 4.45,
-      "ratings": 4050,
-      "reviews": 138
-    },
-    {
-      "title": "Homeland: The Graphic Novel",
-      "url": "https://www.goodreads.com/book/show/68406.Homeland",
-      "id": "13902825",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1331474460i/68406.jpg",
-      "authors": [
-        "R.A. Salvatore"
-      ],
-      "genres": [
-        "fantasy",
-        "comics",
-        "graphic-novels",
-        "magic",
-        "dungeons-and-dragons",
-        "forgotten-realms",
-        "elves"
-      ],
-      "rating": 4.29,
-      "ratings": 4049,
-      "reviews": 130
-    },
-    {
-      "title": "Kingdom Come",
-      "url": "https://www.goodreads.com/book/show/93338.Kingdom_Come",
-      "id": "43059188",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328005937i/93338.jpg",
-      "authors": [
-        "Elliot S. Maggin"
-      ],
-      "genres": [
-        "comics",
-        "graphic-novels",
-        "fantasy",
-        "fiction",
-        "dc-comics",
-        "superheroes",
-        "science-fiction"
-      ],
-      "rating": 4.48,
-      "ratings": 4048,
-      "reviews": 73
-    },
-    {
-      "title": "Nana, Vol. 12",
-      "url": "https://www.goodreads.com/book/show/2387969.Nana_Vol_12",
-      "id": "2394981",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388308951i/2387969.jpg",
-      "authors": [
-        "Ai Yazawa"
-      ],
-      "genres": [
-        "manga",
-        "comics",
-        "romance",
-        "graphic-novels",
-        "fiction",
-        "josei",
-        "drama"
-      ],
-      "rating": 4.49,
-      "ratings": 4047,
-      "reviews": 143
-    },
-    {
-      "title": "Invincible: Ultimate Collection, Vol. 2",
-      "url": "https://www.goodreads.com/book/show/236558.Invincible",
-      "id": "1006158",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1288404564i/236558.jpg",
-      "authors": [
-        "Robert Kirkman"
-      ],
-      "genres": [
-        "comics",
-        "graphic-novels",
-        "superheroes",
-        "comic-book",
-        "graphic-novels-comics",
-        "fiction",
-        "science-fiction"
-      ],
-      "rating": 4.32,
-      "ratings": 4045,
-      "reviews": 164
-    },
-    {
-      "title": "Quartier lointain",
-      "url": "https://www.goodreads.com/book/show/2189436.Quartier_lointain",
-      "id": "2195155",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327401987i/2189436.jpg",
-      "authors": [
-        "Jirō Taniguchi"
-      ],
-      "genres": [
-        "manga",
-        "graphic-novels",
-        "bande-dessin%C3%A9e",
-        "comics",
-        "japan",
-        "fiction",
-        "japanese-literature"
-      ],
-      "rating": 4.39,
-      "ratings": 4043,
-      "reviews": 318
-    },
-    {
-      "title": "L'Arabe du futur 5 : Une jeunesse au Moyen-Orient, 1992-1994",
-      "url": "https://www.goodreads.com/book/show/55442057-l-arabe-du-futur-5",
-      "id": "86458231",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1600948031i/55442057.jpg",
-      "authors": [
-        "Riad Sattouf"
-      ],
-      "genres": [
-        "bande-dessin%C3%A9e",
-        "graphic-novels",
-        "comics",
-        "france",
-        "non-fiction",
-        "biography",
-        "memoir"
-      ],
-      "rating": 4.45,
-      "ratings": 4040,
-      "reviews": 206
-    },
-    {
-      "title": "Lucifer, Vol. 9: Crux",
-      "url": "https://www.goodreads.com/book/show/160471.Lucifer_Vol_9",
-      "id": "1266529",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1309579197i/160471.jpg",
-      "authors": [
-        "Mike Carey"
-      ],
-      "genres": [
-        "comics",
-        "graphic-novels",
-        "fantasy",
-        "fiction",
-        "horror",
-        "graphic-novels-comics",
-        "comic-book"
-      ],
-      "rating": 4.34,
-      "ratings": 4039,
-      "reviews": 81
-    },
-    {
-      "title": "Mars, Vol. 4",
-      "url": "https://www.goodreads.com/book/show/543977.Mars_Vol_4",
-      "id": "2054489",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1175660372i/543977.jpg",
-      "authors": [
-        "Fuyumi Soryo"
-      ],
-      "genres": [
-        "manga",
-        "romance",
-        "graphic-novels",
-        "shojo",
-        "young-adult",
-        "comics",
-        "fiction"
-      ],
-      "rating": 4.32,
-      "ratings": 4039,
-      "reviews": 113
-    },
-    {
-      "title": "MIND MGMT, Volume One: The Manager",
-      "url": "https://www.goodreads.com/book/show/16255052-mind-mgmt-volume-one",
-      "id": "22298040",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1406391108i/16255052.jpg",
-      "authors": [
-        "Matt Kindt"
-      ],
-      "genres": [
-        "comics",
-        "graphic-novels",
-        "science-fiction",
-        "fiction",
-        "mystery",
-        "graphic-novels-comics",
-        "comic-book"
-      ],
-      "rating": 4.01,
-      "ratings": 4032,
-      "reviews": 372
-    },
-    {
-      "title": "The Walking Dead: Compendium Four",
-      "url": "https://www.goodreads.com/book/show/44324133-the-walking-dead",
-      "id": "68874943",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1562775831i/44324133.jpg",
-      "authors": [
-        "Robert Kirkman"
-      ],
-      "genres": [
-        "comics",
-        "graphic-novels",
-        "horror",
-        "zombies",
-        "fiction",
-        "dystopia",
-        "graphic-novels-comics"
-      ],
-      "rating": 4.59,
-      "ratings": 4030,
-      "reviews": 353
-    },
-    {
-      "title": "20th Century Boys: The Perfect Edition, Vol. 1",
-      "url": "https://www.goodreads.com/book/show/38926446-20th-century-boys",
-      "id": "54284922",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1527540269i/38926446.jpg",
-      "authors": [
-        "Naoki Urasawa"
-      ],
-      "genres": [
-        "manga",
-        "comics",
-        "graphic-novels",
-        "seinen",
-        "science-fiction",
-        "mystery",
-        "thriller"
-      ],
-      "rating": 4.55,
-      "ratings": 4029,
-      "reviews": 387
-    },
-    {
-      "title": "Cardcaptor Sakura, Vol. 2",
-      "url": "https://www.goodreads.com/book/show/229148.Cardcaptor_Sakura_Vol_2",
-      "id": "1158785",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386923920i/229148.jpg",
-      "authors": [
-        "CLAMP"
-      ],
-      "genres": [
-        "manga",
-        "fantasy",
-        "comics",
-        "graphic-novels",
-        "shojo",
-        "romance",
-        "magic"
-      ],
-      "rating": 4.28,
-      "ratings": 4028,
-      "reviews": 173
-    },
-    {
-      "title": "Naoki Urasawa's Monster, Volume 3",
-      "url": "https://www.goodreads.com/book/show/7478330-naoki-urasawa-s-monster-volume-3",
-      "id": "19222070",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1262473115i/7478330.jpg",
-      "authors": [
-        "Naoki Urasawa"
-      ],
-      "genres": [
-        "manga",
-        "thriller",
-        "mystery",
-        "comics",
-        "monsters",
-        "graphic-novels",
-        "horror"
-      ],
-      "rating": 4.52,
-      "ratings": 4026,
-      "reviews": 217
-    },
-    {
-      "title": "Hades: Lord of the Dead",
-      "url": "https://www.goodreads.com/book/show/11504610-hades",
-      "id": "16440309",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1483379850i/11504610.jpg",
+      "title": "Athena: Grey-Eyed Goddess",
+      "url": "https://www.goodreads.com/book/show/7059447-athena",
+      "id": "7311269",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1465513446i/7059447.jpg",
       "authors": [
         "George  O'Connor"
       ],
       "genres": [
         "graphic-novels",
         "mythology",
-        "fantasy",
         "comics",
-        "greek-mythology",
+        "fantasy",
         "young-adult",
+        "greek-mythology",
         "middle-grade"
       ],
-      "rating": 4.18,
-      "ratings": 4021,
-      "reviews": 382
+      "rating": 4.15,
+      "ratings": 4280,
+      "reviews": 373
+    },
+    {
+      "title": "Batman: No Man's Land, Vol. 3",
+      "url": "https://www.goodreads.com/book/show/724310.Batman",
+      "id": "1421935",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348520262i/724310.jpg",
+      "authors": [
+        "Devin Grayson"
+      ],
+      "genres": [
+        "graphic-novels",
+        "batman",
+        "dc-comics",
+        "comic-book",
+        "superheroes",
+        "fiction",
+        "comics"
+      ],
+      "rating": 4.05,
+      "ratings": 4273,
+      "reviews": 59
+    },
+    {
+      "title": "The Boys, Volume 7: The Innocents",
+      "url": "https://www.goodreads.com/book/show/7947726-the-boys-volume-7",
+      "id": "11541319",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388203828i/7947726.jpg",
+      "authors": [
+        "Garth Ennis"
+      ],
+      "genres": [
+        "comics",
+        "graphic-novels",
+        "superheroes",
+        "fiction",
+        "comic-book",
+        "graphic-novels-comics",
+        "fantasy"
+      ],
+      "rating": 4.07,
+      "ratings": 4273,
+      "reviews": 193
+    },
+    {
+      "title": "Invincible, Vol. 6: A Different World",
+      "url": "https://www.goodreads.com/book/show/402225.Invincible_Vol_6",
+      "id": "391615",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1352262881i/402225.jpg",
+      "authors": [
+        "Robert Kirkman"
+      ],
+      "genres": [
+        "comics",
+        "graphic-novels",
+        "superheroes",
+        "comic-book",
+        "fiction",
+        "graphic-novels-comics",
+        "science-fiction"
+      ],
+      "rating": 4.32,
+      "ratings": 4266,
+      "reviews": 205
     }
   ]
 }

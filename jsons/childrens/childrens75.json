@@ -1,109 +1,487 @@
 {
   "books": [
     {
-      "title": "Rhyming Dust Bunnies",
-      "url": "https://www.goodreads.com/book/show/5665292-rhyming-dust-bunnies",
-      "id": "5836824",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1349066973i/5665292.jpg",
+      "title": "The BFG: A Set of Plays",
+      "url": "https://www.goodreads.com/book/show/41573.The_BFG",
+      "id": "2213051",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1411851650i/41573.jpg",
       "authors": [
-        "Jan  Thomas"
+        "Roald Dahl"
+      ],
+      "genres": [
+        "classics",
+        "fiction",
+        "plays",
+        "childrens",
+        "fantasy",
+        "young-adult",
+        "adventure"
+      ],
+      "rating": 4.45,
+      "ratings": 6873,
+      "reviews": 106
+    },
+    {
+      "title": "Dreamers",
+      "url": "https://www.goodreads.com/book/show/39651067-dreamers",
+      "id": "61220853",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1523445744i/39651067.jpg",
+      "authors": [
+        "Yuyi Morales"
       ],
       "genres": [
         "picture-books",
         "childrens",
-        "storytime",
-        "humor",
-        "fiction",
-        "poetry",
-        "juvenile"
+        "family",
+        "latinx",
+        "biography",
+        "cultural",
+        "non-fiction"
       ],
-      "rating": 4.22,
-      "ratings": 6582,
-      "reviews": 489
+      "rating": 4.43,
+      "ratings": 6872,
+      "reviews": 1440
     },
     {
-      "title": "Nate",
-      "url": "https://www.goodreads.com/book/show/53441976-nate",
-      "id": "83130595",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1599151897i/53441976.jpg",
+      "title": "Antiracist Baby",
+      "url": "https://www.goodreads.com/book/show/52535437-antiracist-baby",
+      "id": "224020162",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575323604l/52535437.jpg",
       "authors": [
-        "Tijan"
+        "Ibram X. Kendi"
       ],
       "genres": [
-        "romance",
-        "contemporary",
-        "contemporary-romance",
-        "new-adult",
-        "adult",
-        "audiobook",
-        "childrens"
+        "picture-books",
+        "childrens",
+        "race",
+        "social-justice",
+        "non-fiction",
+        "anti-racist",
+        "parenting"
       ],
-      "rating": 4.13,
-      "ratings": 6577,
-      "reviews": 563
+      "rating": 4.06,
+      "ratings": 6870,
+      "reviews": 1132
     },
     {
-      "title": "The Right Word: Roget and His Thesaurus",
-      "url": "https://www.goodreads.com/book/show/20696727-the-right-word",
-      "id": "40016232",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1611772304i/20696727.jpg",
+      "title": "Grumpy Monkey",
+      "url": "https://www.goodreads.com/book/show/36500380-grumpy-monkey",
+      "id": "58217120",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1509373230i/36500380.jpg",
       "authors": [
-        "Jen Bryant"
+        "Suzanne Lang"
+      ],
+      "genres": [
+        "picture-books",
+        "childrens",
+        "animals",
+        "emotion",
+        "fiction",
+        "storytime",
+        "humor"
+      ],
+      "rating": 4.4,
+      "ratings": 6865,
+      "reviews": 1010
+    },
+    {
+      "title": "Pax, Journey Home",
+      "url": "https://www.goodreads.com/book/show/56645913-pax-journey-home",
+      "id": "88515513",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1610662089i/56645913.jpg",
+      "authors": [
+        "Sara Pennypacker"
+      ],
+      "genres": [
+        "middle-grade",
+        "fiction",
+        "animals",
+        "childrens",
+        "young-adult",
+        "audiobook",
+        "adventure"
+      ],
+      "rating": 4.41,
+      "ratings": 6853,
+      "reviews": 999
+    },
+    {
+      "title": "Walt Disney's Peter Pan",
+      "url": "https://www.goodreads.com/book/show/38674.Walt_Disney_s_Peter_Pan",
+      "id": "41296819",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320484370i/38674.jpg",
+      "authors": [
+        "Walt Disney Company"
+      ],
+      "genres": [
+        "childrens",
+        "fantasy",
+        "picture-books",
+        "fiction",
+        "classics",
+        "adventure",
+        "fairy-tales"
+      ],
+      "rating": 4.41,
+      "ratings": 6853,
+      "reviews": 109
+    },
+    {
+      "title": "The 39-Storey Treehouse",
+      "url": "https://www.goodreads.com/book/show/18402247-the-39-storey-treehouse",
+      "id": "26034909",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1377999150i/18402247.jpg",
+      "authors": [
+        "Andy Griffiths"
+      ],
+      "genres": [
+        "childrens",
+        "fiction",
+        "humor",
+        "fantasy",
+        "middle-grade",
+        "graphic-novels",
+        "adventure"
+      ],
+      "rating": 4.29,
+      "ratings": 6851,
+      "reviews": 369
+    },
+    {
+      "title": "The Year of Miss Agnes",
+      "url": "https://www.goodreads.com/book/show/707616.The_Year_of_Miss_Agnes",
+      "id": "1124494",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347503097i/707616.jpg",
+      "authors": [
+        "Kirkpatrick Hill"
+      ],
+      "genres": [
+        "historical-fiction",
+        "middle-grade",
+        "fiction",
+        "childrens",
+        "school",
+        "young-adult",
+        "chapter-books"
+      ],
+      "rating": 4.19,
+      "ratings": 6850,
+      "reviews": 670
+    },
+    {
+      "title": "Junie B., First Grader: Toothless Wonder",
+      "url": "https://www.goodreads.com/book/show/261000.Junie_B_First_Grader",
+      "id": "252969",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1429629150i/261000.jpg",
+      "authors": [
+        "Barbara Park"
+      ],
+      "genres": [
+        "childrens",
+        "fiction",
+        "chapter-books",
+        "humor",
+        "realistic-fiction",
+        "middle-grade",
+        "juvenile"
+      ],
+      "rating": 4.05,
+      "ratings": 6849,
+      "reviews": 363
+    },
+    {
+      "title": "Rosa",
+      "url": "https://www.goodreads.com/book/show/39106.Rosa",
+      "id": "38816",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1317791168i/39106.jpg",
+      "authors": [
+        "Nikki Giovanni"
       ],
       "genres": [
         "picture-books",
         "biography",
-        "non-fiction",
-        "childrens",
         "history",
-        "biography-memoir",
-        "language"
+        "childrens",
+        "non-fiction",
+        "african-american",
+        "cultural"
       ],
-      "rating": 4.07,
-      "ratings": 6574,
-      "reviews": 1017
+      "rating": 4.36,
+      "ratings": 6843,
+      "reviews": 772
     },
     {
-      "title": "Samantha's Boxed Set",
-      "url": "https://www.goodreads.com/book/show/200891.Samantha_s_Boxed_Set",
-      "id": "194369",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348400532i/200891.jpg",
+      "title": "The Sand Warrior",
+      "url": "https://www.goodreads.com/book/show/32573182-the-sand-warrior",
+      "id": "51890944",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1478732890i/32573182.jpg",
       "authors": [
-        "Susan S. Adler"
+        "Mark  Siegel"
       ],
       "genres": [
-        "historical-fiction",
-        "childrens",
-        "fiction",
-        "historical",
+        "graphic-novels",
+        "fantasy",
         "middle-grade",
-        "young-adult",
-        "classics"
+        "comics",
+        "science-fiction",
+        "adventure",
+        "childrens"
       ],
-      "rating": 4.03,
-      "ratings": 6565,
-      "reviews": 195
+      "rating": 4.12,
+      "ratings": 6843,
+      "reviews": 752
     },
     {
-      "title": "Varjak Paw",
-      "url": "https://www.goodreads.com/book/show/52862.Varjak_Paw",
-      "id": "553408",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388249542i/52862.jpg",
+      "title": "Prince Caspian",
+      "url": "https://www.goodreads.com/book/show/19156539-prince-caspian",
+      "id": "47457747",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1422216123i/19156539.jpg",
       "authors": [
-        "S.F. Said"
+        "Paul McCusker"
       ],
       "genres": [
         "fantasy",
         "fiction",
-        "animals",
-        "cats",
+        "classics",
+        "audiobook",
+        "christian-fiction",
         "childrens",
-        "adventure",
+        "science-fiction-fantasy"
+      ],
+      "rating": 4.52,
+      "ratings": 6839,
+      "reviews": 22
+    },
+    {
+      "title": "Garfield at Large: His First Book",
+      "url": "https://www.goodreads.com/book/show/103658.Garfield_at_Large",
+      "id": "99946",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1392435055i/103658.jpg",
+      "authors": [
+        "Jim Davis"
+      ],
+      "genres": [
+        "comics",
+        "humor",
+        "graphic-novels",
+        "fiction",
+        "animals",
+        "comic-book",
+        "childrens"
+      ],
+      "rating": 4.17,
+      "ratings": 6826,
+      "reviews": 291
+    },
+    {
+      "title": "The Hunting of the Snark",
+      "url": "https://www.goodreads.com/book/show/296866.The_Hunting_of_the_Snark",
+      "id": "813571",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1173486610i/296866.jpg",
+      "authors": [
+        "Lewis Carroll"
+      ],
+      "genres": [
+        "poetry",
+        "classics",
+        "fantasy",
+        "fiction",
+        "childrens",
+        "humor",
+        "19th-century"
+      ],
+      "rating": 4.02,
+      "ratings": 6819,
+      "reviews": 569
+    },
+    {
+      "title": "More All-of-a-Kind Family",
+      "url": "https://www.goodreads.com/book/show/7928.More_All_of_a_Kind_Family",
+      "id": "2969220",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1165651783i/7928.jpg",
+      "authors": [
+        "Sydney Taylor"
+      ],
+      "genres": [
+        "historical-fiction",
+        "fiction",
+        "childrens",
+        "classics",
+        "middle-grade",
+        "jewish",
+        "historical"
+      ],
+      "rating": 4.24,
+      "ratings": 6815,
+      "reviews": 221
+    },
+    {
+      "title": "Women in Science: 50 Fearless Pioneers Who Changed the World",
+      "url": "https://www.goodreads.com/book/show/27405561-women-in-science",
+      "id": "47452639",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1454294109i/27405561.jpg",
+      "authors": [
+        "Rachel Ignotofsky"
+      ],
+      "genres": [
+        "non-fiction",
+        "science",
+        "feminism",
+        "history",
+        "biography",
+        "childrens",
         "middle-grade"
       ],
-      "rating": 4.15,
-      "ratings": 6563,
-      "reviews": 584
+      "rating": 4.44,
+      "ratings": 6813,
+      "reviews": 1019
+    },
+    {
+      "title": "Paddle-to-the-Sea",
+      "url": "https://www.goodreads.com/book/show/397157.Paddle_to_the_Sea",
+      "id": "715828",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327638451i/397157.jpg",
+      "authors": [
+        "Holling Clancy Holling"
+      ],
+      "genres": [
+        "picture-books",
+        "geography",
+        "childrens",
+        "fiction",
+        "historical-fiction",
+        "nature",
+        "classics"
+      ],
+      "rating": 4.29,
+      "ratings": 6812,
+      "reviews": 481
+    },
+    {
+      "title": "Gladys Aylward: The Adventure of a Lifetime",
+      "url": "https://www.goodreads.com/book/show/1235403.Gladys_Aylward",
+      "id": "1224033",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347266572i/1235403.jpg",
+      "authors": [
+        "Janet Benge"
+      ],
+      "genres": [
+        "biography",
+        "christian",
+        "non-fiction",
+        "history",
+        "biography-memoir",
+        "christianity",
+        "childrens"
+      ],
+      "rating": 4.4,
+      "ratings": 6809,
+      "reviews": 357
+    },
+    {
+      "title": "Disney's The Little Mermaid",
+      "url": "https://www.goodreads.com/book/show/371423.Disney_s_The_Little_Mermaid",
+      "id": "247506989",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320405043i/371423.jpg",
+      "authors": [
+        "Stephanie Calmenson"
+      ],
+      "genres": [
+        "childrens",
+        "fairy-tales",
+        "picture-books",
+        "fiction",
+        "classics",
+        "fantasy",
+        "media-tie-in"
+      ],
+      "rating": 4.44,
+      "ratings": 6808,
+      "reviews": 56
+    },
+    {
+      "title": "She Persisted: 13 American Women Who Changed the World",
+      "url": "https://www.goodreads.com/book/show/34504361-she-persisted",
+      "id": "55758109",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1489947578i/34504361.jpg",
+      "authors": [
+        "Chelsea Clinton"
+      ],
+      "genres": [
+        "picture-books",
+        "non-fiction",
+        "childrens",
+        "biography",
+        "history",
+        "feminism",
+        "womens"
+      ],
+      "rating": 4.38,
+      "ratings": 6796,
+      "reviews": 1182
+    },
+    {
+      "title": "The Night Gardener",
+      "url": "https://www.goodreads.com/book/show/25785698-the-night-gardener",
+      "id": "45636399",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1455468946i/25785698.jpg",
+      "authors": [
+        "Terry Fan"
+      ],
+      "genres": [
+        "picture-books",
+        "childrens",
+        "fiction",
+        "art",
+        "nature",
+        "gardening",
+        "fantasy"
+      ],
+      "rating": 4.17,
+      "ratings": 6788,
+      "reviews": 1033
+    },
+    {
+      "title": "The Last Present",
+      "url": "https://www.goodreads.com/book/show/17244558-the-last-present",
+      "id": "23801235",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388527093i/17244558.jpg",
+      "authors": [
+        "Wendy Mass"
+      ],
+      "genres": [
+        "fantasy",
+        "middle-grade",
+        "childrens",
+        "fiction",
+        "realistic-fiction",
+        "adventure",
+        "young-adult"
+      ],
+      "rating": 4.32,
+      "ratings": 6785,
+      "reviews": 379
+    },
+    {
+      "title": "The Magic School Bus Plants Seeds: A Book About How Living Things Grow",
+      "url": "https://www.goodreads.com/book/show/110960.The_Magic_School_Bus_Plants_Seeds",
+      "id": "2015596",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1360057641i/110960.jpg",
+      "authors": [
+        "Bruce Degen"
+      ],
+      "genres": [
+        "science",
+        "childrens",
+        "picture-books",
+        "plants",
+        "non-fiction",
+        "school",
+        "education"
+      ],
+      "rating": 4.37,
+      "ratings": 6764,
+      "reviews": 56
     },
     {
       "title": "The Talented Clementine",
@@ -123,386 +501,8 @@
         "juvenile"
       ],
       "rating": 4.15,
-      "ratings": 6561,
-      "reviews": 480
-    },
-    {
-      "title": "She Persisted: 13 American Women Who Changed the World",
-      "url": "https://www.goodreads.com/book/show/34504361-she-persisted",
-      "id": "55758109",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1489947578i/34504361.jpg",
-      "authors": [
-        "Chelsea Clinton"
-      ],
-      "genres": [
-        "picture-books",
-        "non-fiction",
-        "childrens",
-        "biography",
-        "history",
-        "feminism",
-        "womens"
-      ],
-      "rating": 4.4,
-      "ratings": 6549,
-      "reviews": 1173
-    },
-    {
-      "title": "The Invisible Boy",
-      "url": "https://www.goodreads.com/book/show/17140549-the-invisible-boy",
-      "id": "23543205",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1358750840i/17140549.jpg",
-      "authors": [
-        "Trudy Ludwig"
-      ],
-      "genres": [
-        "picture-books",
-        "childrens",
-        "realistic-fiction",
-        "fiction",
-        "school",
-        "storytime",
-        "emotion"
-      ],
-      "rating": 4.45,
-      "ratings": 6543,
-      "reviews": 1174
-    },
-    {
-      "title": "Horseradish: Bitter Truths You Can't Avoid",
-      "url": "https://www.goodreads.com/book/show/80678.Horseradish",
-      "id": "77898",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442946623i/80678.jpg",
-      "authors": [
-        "Lemony Snicket"
-      ],
-      "genres": [
-        "humor",
-        "non-fiction",
-        "childrens",
-        "poetry",
-        "middle-grade",
-        "short-stories",
-        "philosophy"
-      ],
-      "rating": 4.02,
-      "ratings": 6538,
-      "reviews": 693
-    },
-    {
-      "title": "Emily Windsnap and the Siren's Secret",
-      "url": "https://www.goodreads.com/book/show/6334523-emily-windsnap-and-the-siren-s-secret",
-      "id": "6520340",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348597665i/6334523.jpg",
-      "authors": [
-        "Liz Kessler"
-      ],
-      "genres": [
-        "fantasy",
-        "mermaids",
-        "middle-grade",
-        "childrens",
-        "fiction",
-        "adventure",
-        "young-adult"
-      ],
-      "rating": 4.15,
-      "ratings": 6533,
-      "reviews": 238
-    },
-    {
-      "title": "Junie B., First Grader: Toothless Wonder",
-      "url": "https://www.goodreads.com/book/show/261000.Junie_B_First_Grader",
-      "id": "252969",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1429629150i/261000.jpg",
-      "authors": [
-        "Barbara Park"
-      ],
-      "genres": [
-        "childrens",
-        "fiction",
-        "chapter-books",
-        "humor",
-        "realistic-fiction",
-        "juvenile",
-        "middle-grade"
-      ],
-      "rating": 4.04,
-      "ratings": 6529,
-      "reviews": 335
-    },
-    {
-      "title": "Blood on the River: James Town, 1607",
-      "url": "https://www.goodreads.com/book/show/94056.Blood_on_the_River",
-      "id": "90668",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1309197245i/94056.jpg",
-      "authors": [
-        "Elisa Carbone"
-      ],
-      "genres": [
-        "historical-fiction",
-        "fiction",
-        "young-adult",
-        "historical",
-        "middle-grade",
-        "school",
-        "childrens"
-      ],
-      "rating": 4,
-      "ratings": 6528,
-      "reviews": 892
-    },
-    {
-      "title": "Garfield at Large: His First Book",
-      "url": "https://www.goodreads.com/book/show/103658.Garfield_at_Large",
-      "id": "99946",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1392435055i/103658.jpg",
-      "authors": [
-        "Jim Davis"
-      ],
-      "genres": [
-        "comics",
-        "humor",
-        "graphic-novels",
-        "fiction",
-        "animals",
-        "childrens",
-        "comic-strips"
-      ],
-      "rating": 4.15,
-      "ratings": 6521,
-      "reviews": 268
-    },
-    {
-      "title": "Henry and Mudge - The First Book",
-      "url": "https://www.goodreads.com/book/show/820863.Henry_and_Mudge_The_First_Book",
-      "id": "1589622",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388497151i/820863.jpg",
-      "authors": [
-        "Cynthia Rylant"
-      ],
-      "genres": [
-        "childrens",
-        "picture-books",
-        "fiction",
-        "dogs",
-        "animals",
-        "chapter-books",
-        "2nd-grade"
-      ],
-      "rating": 4.12,
-      "ratings": 6520,
-      "reviews": 260
-    },
-    {
-      "title": "Ten Little Ladybugs",
-      "url": "https://www.goodreads.com/book/show/183526.Ten_Little_Ladybugs",
-      "id": "933983",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442208294i/183526.jpg",
-      "authors": [
-        "Melanie Gerth"
-      ],
-      "genres": [
-        "picture-books",
-        "childrens",
-        "counting",
-        "mathematics",
-        "animals",
-        "fiction",
-        "number"
-      ],
-      "rating": 4.09,
-      "ratings": 6517,
-      "reviews": 233
-    },
-    {
-      "title": "Antiracist Baby",
-      "url": "https://www.goodreads.com/book/show/52535437-antiracist-baby",
-      "id": "73663092",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575323604l/52535437.jpg",
-      "authors": [
-        "Ibram X. Kendi"
-      ],
-      "genres": [
-        "picture-books",
-        "childrens",
-        "race",
-        "social-justice",
-        "non-fiction",
-        "anti-racist",
-        "parenting"
-      ],
-      "rating": 4.09,
-      "ratings": 6512,
-      "reviews": 1099
-    },
-    {
-      "title": "Pokémon Adventures, Vol. 1",
-      "url": "https://www.goodreads.com/book/show/6432051-pok-mon-adventures-vol-1",
-      "id": "2127476",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1679400741i/6432051.jpg",
-      "authors": [
-        "Hidenori Kusaka"
-      ],
-      "genres": [
-        "manga",
-        "graphic-novels",
-        "comics",
-        "fantasy",
-        "fiction",
-        "adventure",
-        "childrens"
-      ],
-      "rating": 4.29,
-      "ratings": 6504,
-      "reviews": 487
-    },
-    {
-      "title": "The Last Present",
-      "url": "https://www.goodreads.com/book/show/17244558-the-last-present",
-      "id": "23801235",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388527093i/17244558.jpg",
-      "authors": [
-        "Wendy Mass"
-      ],
-      "genres": [
-        "middle-grade",
-        "fantasy",
-        "childrens",
-        "fiction",
-        "realistic-fiction",
-        "young-adult",
-        "magic"
-      ],
-      "rating": 4.33,
-      "ratings": 6490,
-      "reviews": 371
-    },
-    {
-      "title": "The Ogress and the Orphans",
-      "url": "https://www.goodreads.com/book/show/58328436-the-ogress-and-the-orphans",
-      "id": "91457082",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1644818724i/58328436.jpg",
-      "authors": [
-        "Kelly Barnhill"
-      ],
-      "genres": [
-        "fantasy",
-        "middle-grade",
-        "fiction",
-        "childrens",
-        "young-adult",
-        "dragons",
-        "fairy-tales"
-      ],
-      "rating": 4.28,
-      "ratings": 6482,
-      "reviews": 1469
-    },
-    {
-      "title": "Claudia and the New Girl: A Graphic Novel",
-      "url": "https://www.goodreads.com/book/show/52664730-claudia-and-the-new-girl",
-      "id": "78476366",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1605838513i/52664730.jpg",
-      "authors": [
-        "Ann M. Martin"
-      ],
-      "genres": [
-        "graphic-novels",
-        "middle-grade",
-        "fiction",
-        "comics",
-        "realistic-fiction",
-        "childrens",
-        "young-adult"
-      ],
-      "rating": 4.19,
-      "ratings": 6473,
-      "reviews": 353
-    },
-    {
-      "title": "The Tailor of Gloucester",
-      "url": "https://www.goodreads.com/book/show/345188.The_Tailor_of_Gloucester",
-      "id": "870737",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1447722022i/345188.jpg",
-      "authors": [
-        "Beatrix Potter"
-      ],
-      "genres": [
-        "childrens",
-        "classics",
-        "picture-books",
-        "fiction",
-        "christmas",
-        "animals",
-        "fantasy"
-      ],
-      "rating": 4.09,
-      "ratings": 6469,
-      "reviews": 402
-    },
-    {
-      "title": "Pies & Prejudice",
-      "url": "https://www.goodreads.com/book/show/7597710-pies-prejudice",
-      "id": "10007074",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1282665708i/7597710.jpg",
-      "authors": [
-        "Heather Vogel Frederick"
-      ],
-      "genres": [
-        "middle-grade",
-        "young-adult",
-        "contemporary",
-        "fiction",
-        "realistic-fiction",
-        "romance",
-        "childrens"
-      ],
-      "rating": 4.36,
-      "ratings": 6457,
-      "reviews": 495
-    },
-    {
-      "title": "Cinderella",
-      "url": "https://www.goodreads.com/book/show/670717.Cinderella",
-      "id": "656750",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1330364542i/670717.jpg",
-      "authors": [
-        "Kinuko Y. Craft"
-      ],
-      "genres": [
-        "picture-books",
-        "fairy-tales",
-        "childrens",
-        "fantasy",
-        "cinderella",
-        "fiction",
-        "classics"
-      ],
-      "rating": 4.29,
-      "ratings": 6452,
-      "reviews": 228
-    },
-    {
-      "title": "The Hunting of the Snark",
-      "url": "https://www.goodreads.com/book/show/296866.The_Hunting_of_the_Snark",
-      "id": "813571",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1173486610i/296866.jpg",
-      "authors": [
-        "Lewis Carroll"
-      ],
-      "genres": [
-        "poetry",
-        "classics",
-        "fantasy",
-        "fiction",
-        "childrens",
-        "humor",
-        "19th-century"
-      ],
-      "rating": 4.03,
-      "ratings": 6450,
-      "reviews": 531
+      "ratings": 6756,
+      "reviews": 499
     }
   ]
 }

@@ -1,12 +1,138 @@
 {
   "books": [
     {
+      "title": "Toujours Provence",
+      "url": "https://www.goodreads.com/book/show/44255.Toujours_Provence",
+      "id": "3123857",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1411874268i/44255.jpg",
+      "authors": [
+        "Peter Mayle"
+      ],
+      "genres": [
+        "travel",
+        "non-fiction",
+        "france",
+        "memoir",
+        "humor",
+        "biography",
+        "food"
+      ],
+      "rating": 4.03,
+      "ratings": 29787,
+      "reviews": 709
+    },
+    {
+      "title": "The Pigeon Finds a Hot Dog!",
+      "url": "https://www.goodreads.com/book/show/197512.The_Pigeon_Finds_a_Hot_Dog_",
+      "id": "184783",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1585597485i/197512.jpg",
+      "authors": [
+        "Mo Willems"
+      ],
+      "genres": [
+        "picture-books",
+        "childrens",
+        "humor",
+        "animals",
+        "fiction",
+        "storytime",
+        "food"
+      ],
+      "rating": 4.35,
+      "ratings": 29757,
+      "reviews": 1051
+    },
+    {
+      "title": "Unreasonable Hospitality: The Remarkable Power of Giving People More Than They Expect",
+      "url": "https://www.goodreads.com/book/show/60018618-unreasonable-hospitality",
+      "id": "94612837",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1664754462i/60018618.jpg",
+      "authors": [
+        "Will Guidara"
+      ],
+      "genres": [
+        "business",
+        "non-fiction",
+        "leadership",
+        "audiobook",
+        "self-help",
+        "food",
+        "personal-development"
+      ],
+      "rating": 4.43,
+      "ratings": 28122,
+      "reviews": 2965
+    },
+    {
+      "title": "Barefoot Contessa Family Style: Easy Ideas and Recipes That Make Everyone Feel Like Family",
+      "url": "https://www.goodreads.com/book/show/120231.Barefoot_Contessa_Family_Style",
+      "id": "115767",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320438055i/120231.jpg",
+      "authors": [
+        "Ina Garten"
+      ],
+      "genres": [
+        "cookbooks",
+        "cooking",
+        "food",
+        "non-fiction",
+        "reference",
+        "foodie",
+        "food-and-drink"
+      ],
+      "rating": 4.08,
+      "ratings": 27514,
+      "reviews": 156
+    },
+    {
+      "title": "Cooked: A Natural History of Transformation",
+      "url": "https://www.goodreads.com/book/show/15811496-cooked",
+      "id": "21536760",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1601146168i/15811496.jpg",
+      "authors": [
+        "Michael Pollan"
+      ],
+      "genres": [
+        "food",
+        "non-fiction",
+        "cooking",
+        "science",
+        "health",
+        "history",
+        "audiobook"
+      ],
+      "rating": 4.08,
+      "ratings": 25667,
+      "reviews": 2395
+    },
+    {
+      "title": "Plenty",
+      "url": "https://www.goodreads.com/book/show/8086216-plenty",
+      "id": "12820406",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327921381i/8086216.jpg",
+      "authors": [
+        "Yotam Ottolenghi"
+      ],
+      "genres": [
+        "cookbooks",
+        "cooking",
+        "food",
+        "non-fiction",
+        "reference",
+        "food-and-drink",
+        "culinary"
+      ],
+      "rating": 4.13,
+      "ratings": 25596,
+      "reviews": 446
+    },
+    {
       "title": "Essentials of Classic Italian Cooking",
       "url": "https://www.goodreads.com/book/show/19552.Essentials_of_Classic_Italian_Cooking",
       "id": "20777",
       "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1694126208i/19552.jpg",
       "authors": [
-        "Marcella Hazen"
+        "Marcella Hazan"
       ],
       "genres": [
         "cookbooks",
@@ -17,9 +143,30 @@
         "italy",
         "italian-literature"
       ],
-      "rating": 4.06,
-      "ratings": 23802,
-      "reviews": 243
+      "rating": 4.07,
+      "ratings": 25289,
+      "reviews": 264
+    },
+    {
+      "title": "The Food Lab: Better Home Cooking Through Science",
+      "url": "https://www.goodreads.com/book/show/24861842-the-food-lab",
+      "id": "44509454",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1430990153i/24861842.jpg",
+      "authors": [
+        "J. Kenji López-Alt"
+      ],
+      "genres": [
+        "cookbooks",
+        "cooking",
+        "food",
+        "non-fiction",
+        "science",
+        "reference",
+        "culinary"
+      ],
+      "rating": 4.31,
+      "ratings": 24591,
+      "reviews": 625
     },
     {
       "title": "The New Best Recipe",
@@ -39,8 +186,8 @@
         "food-and-drink"
       ],
       "rating": 4.18,
-      "ratings": 23470,
-      "reviews": 260
+      "ratings": 24067,
+      "reviews": 264
     },
     {
       "title": "I'm Just Here for the Food: Food + Heat = Cooking",
@@ -57,11 +204,53 @@
         "non-fiction",
         "reference",
         "foodie",
-        "food-and-drink"
+        "science"
       ],
       "rating": 4.12,
-      "ratings": 23456,
-      "reviews": 276
+      "ratings": 23899,
+      "reviews": 274
+    },
+    {
+      "title": "Dragons Love Tacos",
+      "url": "https://www.goodreads.com/book/show/13337050-dragons-love-tacos",
+      "id": "18545277",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1326100121i/13337050.jpg",
+      "authors": [
+        "Adam Rubin"
+      ],
+      "genres": [
+        "picture-books",
+        "childrens",
+        "dragons",
+        "fantasy",
+        "humor",
+        "food",
+        "fiction"
+      ],
+      "rating": 4.2,
+      "ratings": 23485,
+      "reviews": 2438
+    },
+    {
+      "title": "The Flavor Bible: The Essential Guide to Culinary Creativity, Based on the Wisdom of America's Most Imaginative Chefs",
+      "url": "https://www.goodreads.com/book/show/4443485-the-flavor-bible",
+      "id": "4491696",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1390269927i/4443485.jpg",
+      "authors": [
+        "Andrew Dornenburg"
+      ],
+      "genres": [
+        "cookbooks",
+        "cooking",
+        "food",
+        "non-fiction",
+        "reference",
+        "culinary",
+        "food-and-drink"
+      ],
+      "rating": 4.07,
+      "ratings": 23245,
+      "reviews": 340
     },
     {
       "title": "It Starts with Food: Discover the Whole30 and Change Your Life in Unexpected Ways",
@@ -81,8 +270,8 @@
         "self-help"
       ],
       "rating": 4.09,
-      "ratings": 22973,
-      "reviews": 1445
+      "ratings": 23119,
+      "reviews": 1443
     },
     {
       "title": "The Silver Palate Cookbook",
@@ -102,8 +291,8 @@
         "food-and-drink"
       ],
       "rating": 4,
-      "ratings": 22573,
-      "reviews": 158
+      "ratings": 22998,
+      "reviews": 152
     },
     {
       "title": "Why We Get Fat: And What to Do About It",
@@ -116,78 +305,15 @@
       "genres": [
         "health",
         "non-fiction",
-        "food",
         "nutrition",
+        "food",
         "science",
         "self-help",
-        "diets"
+        "audiobook"
       ],
       "rating": 4.03,
-      "ratings": 21741,
-      "reviews": 2338
-    },
-    {
-      "title": "The Flavor Bible: The Essential Guide to Culinary Creativity, Based on the Wisdom of America's Most Imaginative Chefs",
-      "url": "https://www.goodreads.com/book/show/4443485-the-flavor-bible",
-      "id": "4491696",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1390269927i/4443485.jpg",
-      "authors": [
-        "Andrew Dornenburg"
-      ],
-      "genres": [
-        "cookbooks",
-        "cooking",
-        "food",
-        "non-fiction",
-        "reference",
-        "culinary",
-        "food-and-drink"
-      ],
-      "rating": 4.05,
-      "ratings": 21654,
-      "reviews": 314
-    },
-    {
-      "title": "The Food Lab: Better Home Cooking Through Science",
-      "url": "https://www.goodreads.com/book/show/24861842-the-food-lab",
-      "id": "44509454",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1430990153i/24861842.jpg",
-      "authors": [
-        "J. Kenji López-Alt"
-      ],
-      "genres": [
-        "cookbooks",
-        "cooking",
-        "food",
-        "non-fiction",
-        "reference",
-        "science",
-        "culinary"
-      ],
-      "rating": 4.29,
-      "ratings": 21510,
-      "reviews": 572
-    },
-    {
-      "title": "Dragons Love Tacos",
-      "url": "https://www.goodreads.com/book/show/13337050-dragons-love-tacos",
-      "id": "18545277",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1326100121i/13337050.jpg",
-      "authors": [
-        "Adam Rubin"
-      ],
-      "genres": [
-        "picture-books",
-        "childrens",
-        "dragons",
-        "fantasy",
-        "humor",
-        "food",
-        "fiction"
-      ],
-      "rating": 4.19,
-      "ratings": 21393,
-      "reviews": 2264
+      "ratings": 22386,
+      "reviews": 2383
     },
     {
       "title": "Comfort Me with Apples: More Adventures at the Table",
@@ -207,8 +333,8 @@
         "biography"
       ],
       "rating": 4.05,
-      "ratings": 21341,
-      "reviews": 1208
+      "ratings": 22188,
+      "reviews": 1264
     },
     {
       "title": "Pinkalicious",
@@ -223,13 +349,13 @@
         "childrens",
         "fiction",
         "fantasy",
-        "food",
         "humor",
+        "food",
         "kids"
       ],
       "rating": 4.08,
-      "ratings": 20958,
-      "reviews": 1005
+      "ratings": 21670,
+      "reviews": 1050
     },
     {
       "title": "The Taste of Home Cookbook",
@@ -237,7 +363,7 @@
       "id": "7609",
       "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1309198140i/3885.jpg",
       "authors": [
-        "Janet Briggs"
+        "Taste of Home"
       ],
       "genres": [
         "cookbooks",
@@ -247,30 +373,51 @@
         "reference",
         "culinary"
       ],
-      "rating": 4.26,
-      "ratings": 20397,
-      "reviews": 48
+      "rating": 4.27,
+      "ratings": 21013,
+      "reviews": 50
     },
     {
-      "title": "The Monk of Mokha",
-      "url": "https://www.goodreads.com/book/show/35215524-the-monk-of-mokha",
-      "id": "56556268",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1515774725i/35215524.jpg",
+      "title": "My Year of Meats",
+      "url": "https://www.goodreads.com/book/show/12349.My_Year_of_Meats",
+      "id": "265218",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388513889i/12349.jpg",
       "authors": [
-        "Dave Eggers"
+        "Ruth Ozeki"
       ],
       "genres": [
-        "non-fiction",
-        "biography",
-        "history",
-        "memoir",
+        "fiction",
+        "japan",
         "food",
-        "travel",
-        "audiobook"
+        "contemporary",
+        "book-club",
+        "novels",
+        "literary-fiction"
       ],
-      "rating": 4.07,
-      "ratings": 19912,
-      "reviews": 2283
+      "rating": 4.03,
+      "ratings": 20848,
+      "reviews": 2427
+    },
+    {
+      "title": "Good Energy: The Surprising Connection Between Metabolism and Limitless Health",
+      "url": "https://www.goodreads.com/book/show/196848596-good-energy",
+      "id": "199190141",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1715151232i/196848596.jpg",
+      "authors": [
+        "Casey Means"
+      ],
+      "genres": [
+        "health",
+        "non-fiction",
+        "self-help",
+        "audiobook",
+        "science",
+        "nutrition",
+        "food"
+      ],
+      "rating": 4.1,
+      "ratings": 20792,
+      "reviews": 2519
     },
     {
       "title": "Jamberry",
@@ -286,117 +433,12 @@
         "animals",
         "food",
         "fiction",
-        "poetry",
-        "storytime"
+        "storytime",
+        "poetry"
       ],
       "rating": 4.2,
-      "ratings": 19398,
-      "reviews": 640
-    },
-    {
-      "title": "My Year of Meats",
-      "url": "https://www.goodreads.com/book/show/12349.My_Year_of_Meats",
-      "id": "265218",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388513889i/12349.jpg",
-      "authors": [
-        "Ruth Ozeki"
-      ],
-      "genres": [
-        "fiction",
-        "japan",
-        "food",
-        "contemporary",
-        "novels",
-        "literary-fiction",
-        "adult"
-      ],
-      "rating": 4.02,
-      "ratings": 19273,
-      "reviews": 2165
-    },
-    {
-      "title": "Martha Stewart's Cookies: The Very Best Treats to Bake and to Share",
-      "url": "https://www.goodreads.com/book/show/2176873.Martha_Stewart_s_Cookies",
-      "id": "2182550",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320457250i/2176873.jpg",
-      "authors": [
-        "Martha Stewart"
-      ],
-      "genres": [
-        "cookbooks",
-        "cooking",
-        "food",
-        "non-fiction",
-        "reference",
-        "foodie",
-        "culinary"
-      ],
-      "rating": 4.09,
-      "ratings": 18976,
-      "reviews": 208
-    },
-    {
-      "title": "The America's Test Kitchen Family Cookbook",
-      "url": "https://www.goodreads.com/book/show/3888.The_America_s_Test_Kitchen_Family_Cookbook",
-      "id": "7612",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348281876i/3888.jpg",
-      "authors": [
-        "America's Test Kitchen"
-      ],
-      "genres": [
-        "cookbooks",
-        "cooking",
-        "food",
-        "non-fiction",
-        "reference",
-        "foodie",
-        "culinary"
-      ],
-      "rating": 4.17,
-      "ratings": 18875,
-      "reviews": 238
-    },
-    {
-      "title": "The Whole30: The 30-Day Guide to Total Health and Food Freedom",
-      "url": "https://www.goodreads.com/book/show/23453036-the-whole30",
-      "id": "43014854",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1416873417i/23453036.jpg",
-      "authors": [
-        "Melissa Urban"
-      ],
-      "genres": [
-        "cookbooks",
-        "non-fiction",
-        "health",
-        "food",
-        "cooking",
-        "self-help",
-        "nutrition"
-      ],
-      "rating": 4.05,
-      "ratings": 18707,
-      "reviews": 788
-    },
-    {
-      "title": "In the Night Kitchen",
-      "url": "https://www.goodreads.com/book/show/95144.In_the_Night_Kitchen",
-      "id": "2223682",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327934189i/95144.jpg",
-      "authors": [
-        "Maurice Sendak"
-      ],
-      "genres": [
-        "picture-books",
-        "childrens",
-        "fiction",
-        "fantasy",
-        "banned-books",
-        "classics",
-        "food"
-      ],
-      "rating": 4,
-      "ratings": 18294,
-      "reviews": 994
+      "ratings": 19920,
+      "reviews": 673
     },
     {
       "title": "Intuitive Eating: A Revolutionary Program That Works",
@@ -416,37 +458,16 @@
         "audiobook"
       ],
       "rating": 4.24,
-      "ratings": 18201,
-      "reviews": 1826
+      "ratings": 19874,
+      "reviews": 1970
     },
     {
-      "title": "The Dirty Life: On Farming, Food, and Love",
-      "url": "https://www.goodreads.com/book/show/7841677-the-dirty-life",
-      "id": "10935145",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1277929135i/7841677.jpg",
+      "title": "Martha Stewart's Cookies: The Very Best Treats to Bake and to Share",
+      "url": "https://www.goodreads.com/book/show/2176873.Martha_Stewart_s_Cookies",
+      "id": "2182550",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320457250i/2176873.jpg",
       "authors": [
-        "Kristin Kimball"
-      ],
-      "genres": [
-        "non-fiction",
-        "memoir",
-        "food",
-        "gardening",
-        "biography",
-        "biography-memoir",
-        "nature"
-      ],
-      "rating": 4.07,
-      "ratings": 17505,
-      "reviews": 2264
-    },
-    {
-      "title": "Baking: From My Home to Yours",
-      "url": "https://www.goodreads.com/book/show/184644.Baking",
-      "id": "178465",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1439765067i/184644.jpg",
-      "authors": [
-        "Dorie Greenspan"
+        "Martha Stewart"
       ],
       "genres": [
         "cookbooks",
@@ -457,38 +478,17 @@
         "foodie",
         "culinary"
       ],
-      "rating": 4.22,
-      "ratings": 17308,
-      "reviews": 166
+      "rating": 4.1,
+      "ratings": 19552,
+      "reviews": 209
     },
     {
-      "title": "The Unofficial Harry Potter Cookbook: From Cauldron Cakes to Knickerbocker Glory--More Than 150 Magical Recipes for Wizards and Non-Wizards Alike",
-      "url": "https://www.goodreads.com/book/show/8281069-the-unofficial-harry-potter-cookbook",
-      "id": "13129392",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442811088i/8281069.jpg",
+      "title": "The America's Test Kitchen Family Cookbook",
+      "url": "https://www.goodreads.com/book/show/3888.The_America_s_Test_Kitchen_Family_Cookbook",
+      "id": "7612",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348281876i/3888.jpg",
       "authors": [
-        "Dinah Bucholz"
-      ],
-      "genres": [
-        "cookbooks",
-        "non-fiction",
-        "cooking",
-        "food",
-        "reference",
-        "food-and-drink",
-        "magic"
-      ],
-      "rating": 4.09,
-      "ratings": 17278,
-      "reviews": 539
-    },
-    {
-      "title": "The Fannie Farmer Cookbook",
-      "url": "https://www.goodreads.com/book/show/158944.The_Fannie_Farmer_Cookbook",
-      "id": "3245947",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347424134i/158944.jpg",
-      "authors": [
-        "Marion Cunningham"
+        "America's Test Kitchen"
       ],
       "genres": [
         "cookbooks",
@@ -496,12 +496,12 @@
         "food",
         "non-fiction",
         "reference",
-        "classics",
-        "history"
+        "foodie",
+        "culinary"
       ],
-      "rating": 4.11,
-      "ratings": 16837,
-      "reviews": 134
+      "rating": 4.17,
+      "ratings": 19430,
+      "reviews": 246
     }
   ]
 }

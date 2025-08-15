@@ -1,88 +1,444 @@
 {
   "books": [
     {
-      "title": "Landfall",
-      "url": "https://www.goodreads.com/book/show/25816896-landfall",
-      "id": "45582586",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1435965047i/25816896.jpg",
+      "title": "I Love You Because You're You",
+      "url": "https://www.goodreads.com/book/show/868262.I_Love_You_Because_You_re_You",
+      "id": "853652",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1387665090i/868262.jpg",
       "authors": [
-        "Jennifer Lynn Alvarez"
+        "Liza Baker"
+      ],
+      "genres": [
+        "picture-books",
+        "childrens",
+        "love",
+        "family",
+        "poetry",
+        "animals",
+        "fiction"
+      ],
+      "rating": 4.32,
+      "ratings": 1079,
+      "reviews": 137
+    },
+    {
+      "title": "The Secret Life of Squirrels",
+      "url": "https://www.goodreads.com/book/show/20706309-the-secret-life-of-squirrels",
+      "id": "40026200",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1398029514i/20706309.jpg",
+      "authors": [
+        "Nancy     Rose"
+      ],
+      "genres": [
+        "picture-books",
+        "animals",
+        "childrens",
+        "photography",
+        "storytime",
+        "humor",
+        "fiction"
+      ],
+      "rating": 4.03,
+      "ratings": 1077,
+      "reviews": 201
+    },
+    {
+      "title": "Too Many Treats",
+      "url": "https://www.goodreads.com/book/show/40115243-too-many-treats",
+      "id": "62202750",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1556725992i/40115243.jpg",
+      "authors": [
+        "Bruce Hale"
+      ],
+      "genres": [
+        "childrens",
+        "picture-books",
+        "school",
+        "food",
+        "fantasy",
+        "animals"
+      ],
+      "rating": 4.36,
+      "ratings": 1077,
+      "reviews": 43
+    },
+    {
+      "title": "Shifting Shadows",
+      "url": "https://www.goodreads.com/book/show/40221948-shifting-shadows",
+      "id": "62461591",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1553544479i/40221948.jpg",
+      "authors": [
+        "Erin Hunter"
       ],
       "genres": [
         "fantasy",
-        "middle-grade",
-        "horses",
         "animals",
-        "adventure",
-        "young-adult",
-        "fiction"
+        "middle-grade",
+        "fiction",
+        "childrens",
+        "animal-fiction",
+        "chapter-books"
       ],
-      "rating": 4.5,
-      "ratings": 906,
-      "reviews": 54
+      "rating": 4.37,
+      "ratings": 1077,
+      "reviews": 75
     },
     {
-      "title": "SumoKitty",
-      "url": "https://www.goodreads.com/book/show/42996662-sumokitty",
-      "id": "66829167",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1551734943i/42996662.jpg",
+      "title": "Iris Grace",
+      "url": "https://www.goodreads.com/book/show/25810474-iris-grace",
+      "id": "45666488",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1456930715i/25810474.jpg",
       "authors": [
-        "David Biedrzycki"
+        "Arabella Carter-Johnson"
+      ],
+      "genres": [
+        "non-fiction",
+        "memoir",
+        "animals",
+        "autistic-spectrum-disorder",
+        "biography",
+        "cats",
+        "audiobook"
+      ],
+      "rating": 4.43,
+      "ratings": 1077,
+      "reviews": 183
+    },
+    {
+      "title": "Tuck Me In!",
+      "url": "https://www.goodreads.com/book/show/8036461-tuck-me-in",
+      "id": "12651841",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320560871i/8036461.jpg",
+      "authors": [
+        "Dean Hacohen"
+      ],
+      "genres": [
+        "picture-books",
+        "animals",
+        "storytime",
+        "childrens",
+        "fiction",
+        "juvenile",
+        "birds"
+      ],
+      "rating": 4.17,
+      "ratings": 1077,
+      "reviews": 132
+    },
+    {
+      "title": "Measuring Penny",
+      "url": "https://www.goodreads.com/book/show/1300731.Measuring_Penny",
+      "id": "1289904",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1316738437i/1300731.jpg",
+      "authors": [
+        "Loreen Leedy"
+      ],
+      "genres": [
+        "mathematics",
+        "picture-books",
+        "animals",
+        "childrens",
+        "non-fiction",
+        "dogs",
+        "science"
+      ],
+      "rating": 4.09,
+      "ratings": 1076,
+      "reviews": 212
+    },
+    {
+      "title": "The Chimps of Fauna Sanctuary: A True Story of Resilience and Recovery",
+      "url": "https://www.goodreads.com/book/show/9981818-the-chimps-of-fauna-sanctuary",
+      "id": "14876358",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348747447i/9981818.jpg",
+      "authors": [
+        "Andrew Westoll"
+      ],
+      "genres": [
+        "non-fiction",
+        "animals",
+        "nature",
+        "science",
+        "canada",
+        "history",
+        "biography"
+      ],
+      "rating": 4.38,
+      "ratings": 1076,
+      "reviews": 174
+    },
+    {
+      "title": "Peach Clobber",
+      "url": "https://www.goodreads.com/book/show/60278003-peach-clobber",
+      "id": "95030107",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1643657571i/60278003.jpg",
+      "authors": [
+        "Karen MacInerney"
+      ],
+      "genres": [
+        "mystery",
+        "cozy-mystery",
+        "fiction",
+        "cozy",
+        "mystery-thriller",
+        "contemporary",
+        "animals"
+      ],
+      "rating": 4.38,
+      "ratings": 1075,
+      "reviews": 70
+    },
+    {
+      "title": "The Great Pet Heist",
+      "url": "https://www.goodreads.com/book/show/52763496-the-great-pet-heist",
+      "id": "73727699",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1582467282i/52763496.jpg",
+      "authors": [
+        "Emily Ecton"
+      ],
+      "genres": [
+        "middle-grade",
+        "animals",
+        "humor",
+        "fiction",
+        "mystery",
+        "fantasy",
+        "childrens"
+      ],
+      "rating": 4.02,
+      "ratings": 1073,
+      "reviews": 198
+    },
+    {
+      "title": "Cat Spitting Mad",
+      "url": "https://www.goodreads.com/book/show/576220.Cat_Spitting_Mad",
+      "id": "563193",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1415580873i/576220.jpg",
+      "authors": [
+        "Shirley Rousseau Murphy"
+      ],
+      "genres": [
+        "mystery",
+        "fantasy",
+        "cats",
+        "fiction",
+        "animals",
+        "cozy-mystery",
+        "audiobook"
+      ],
+      "rating": 4.26,
+      "ratings": 1073,
+      "reviews": 60
+    },
+    {
+      "title": "Pete the Cat and the Supercool Science Fair",
+      "url": "https://www.goodreads.com/book/show/46194055-pete-the-cat-and-the-supercool-science-fair",
+      "id": "67871454",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1559863119i/46194055.jpg",
+      "authors": [
+        "James  Dean"
+      ],
+      "genres": [
+        "picture-books",
+        "childrens",
+        "science",
+        "animals",
+        "school",
+        "juvenile",
+        "friendship"
+      ],
+      "rating": 4.4,
+      "ratings": 1073,
+      "reviews": 65
+    },
+    {
+      "title": "At the Gates of the Animal Kingdom",
+      "url": "https://www.goodreads.com/book/show/33303.At_the_Gates_of_the_Animal_Kingdom",
+      "id": "3203",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1703145990i/33303.jpg",
+      "authors": [
+        "Amy Hempel"
+      ],
+      "genres": [
+        "short-stories",
+        "fiction",
+        "animals",
+        "literature",
+        "collections",
+        "contemporary",
+        "short-story-collection"
+      ],
+      "rating": 4.16,
+      "ratings": 1070,
+      "reviews": 79
+    },
+    {
+      "title": "Chow Down",
+      "url": "https://www.goodreads.com/book/show/48050.Chow_Down",
+      "id": "1602975",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386922186i/48050.jpg",
+      "authors": [
+        "Laurien Berenson"
+      ],
+      "genres": [
+        "mystery",
+        "cozy-mystery",
+        "fiction",
+        "cozy",
+        "animals",
+        "dogs",
+        "audiobook"
+      ],
+      "rating": 4.01,
+      "ratings": 1070,
+      "reviews": 65
+    },
+    {
+      "title": "Betty Bunny Loves Chocolate Cake",
+      "url": "https://www.goodreads.com/book/show/9762795-betty-bunny-loves-chocolate-cake",
+      "id": "14652159",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348105873i/9762795.jpg",
+      "authors": [
+        "Michael B. Kaplan"
+      ],
+      "genres": [
+        "picture-books",
+        "childrens",
+        "food",
+        "animals",
+        "family",
+        "humor",
+        "fiction"
+      ],
+      "rating": 4,
+      "ratings": 1070,
+      "reviews": 247
+    },
+    {
+      "title": "Calico Confusion",
+      "url": "https://www.goodreads.com/book/show/49937111-calico-confusion",
+      "id": "72233941",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1563775145l/49937111.jpg",
+      "authors": [
+        "Katherine Hayton"
+      ],
+      "genres": [
+        "mystery",
+        "cozy-mystery",
+        "fiction",
+        "cozy",
+        "animals",
+        "cats",
+        "audiobook"
+      ],
+      "rating": 4.13,
+      "ratings": 1069,
+      "reviews": 171
+    },
+    {
+      "title": "Cozy",
+      "url": "https://www.goodreads.com/book/show/49757370-cozy",
+      "id": "74904082",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1585632691i/49757370.jpg",
+      "authors": [
+        "Jan Brett"
+      ],
+      "genres": [
+        "picture-books",
+        "animals",
+        "childrens",
+        "fiction",
+        "friendship",
+        "nature",
+        "storytime"
+      ],
+      "rating": 4.18,
+      "ratings": 1069,
+      "reviews": 165
+    },
+    {
+      "title": "The Dog Who Saved the World",
+      "url": "https://www.goodreads.com/book/show/40696030-the-dog-who-saved-the-world",
+      "id": "63291884",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1555722064i/40696030.jpg",
+      "authors": [
+        "Ross Welford"
+      ],
+      "genres": [
+        "middle-grade",
+        "science-fiction",
+        "childrens",
+        "fiction",
+        "contemporary",
+        "fantasy",
+        "animals"
+      ],
+      "rating": 4.17,
+      "ratings": 1069,
+      "reviews": 108
+    },
+    {
+      "title": "Kitty Cat, Kitty Cat, Are You Waking Up?",
+      "url": "https://www.goodreads.com/book/show/18888491-kitty-cat-kitty-cat-are-you-waking-up",
+      "id": "3160110",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1393735690i/18888491.jpg",
+      "authors": [
+        "Bill Martin Jr."
       ],
       "genres": [
         "picture-books",
         "cats",
-        "animals",
         "childrens",
-        "sports",
-        "humor",
-        "japan"
+        "animals",
+        "storytime",
+        "fiction",
+        "poetry"
       ],
-      "rating": 4.17,
-      "ratings": 905,
-      "reviews": 184
+      "rating": 4.1,
+      "ratings": 1068,
+      "reviews": 137
     },
     {
-      "title": "Stay: A Girl, a Dog, a Bucket List",
-      "url": "https://www.goodreads.com/book/show/31145060-stay",
-      "id": "51774735",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1497291895i/31145060.jpg",
+      "title": "The Best Bear in All the World",
+      "url": "https://www.goodreads.com/book/show/29429942-the-best-bear-in-all-the-world",
+      "id": "49694423",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1491995330i/29429942.jpg",
       "authors": [
-        "Kate Klise"
+        "Paul Bright"
+      ],
+      "genres": [
+        "fiction",
+        "classics",
+        "childrens",
+        "fantasy",
+        "animals",
+        "short-stories",
+        "middle-grade"
+      ],
+      "rating": 4.21,
+      "ratings": 1068,
+      "reviews": 152
+    },
+    {
+      "title": "If Sharks Disappeared",
+      "url": "https://www.goodreads.com/book/show/31145111-if-sharks-disappeared",
+      "id": "51774769",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1495329683i/31145111.jpg",
+      "authors": [
+        "Lily Williams"
       ],
       "genres": [
         "picture-books",
+        "non-fiction",
+        "science",
         "animals",
-        "dogs",
         "childrens",
-        "death",
-        "fiction",
-        "realistic-fiction"
+        "nature",
+        "environment"
       ],
-      "rating": 4.47,
-      "ratings": 903,
-      "reviews": 277
-    },
-    {
-      "title": "Maybe Tomorrow?",
-      "url": "https://www.goodreads.com/book/show/37828981-maybe-tomorrow",
-      "id": "59509038",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1534197597i/37828981.jpg",
-      "authors": [
-        "Charlotte Agell"
-      ],
-      "genres": [
-        "picture-books",
-        "death",
-        "emotion",
-        "childrens",
-        "animals",
-        "fiction",
-        "mental-health"
-      ],
-      "rating": 4.45,
-      "ratings": 902,
-      "reviews": 197
+      "rating": 4.26,
+      "ratings": 1067,
+      "reviews": 256
     },
     {
       "title": "The Way Home For Wolf",
@@ -96,410 +452,56 @@
         "picture-books",
         "childrens",
         "animals",
-        "fiction",
+        "friendship",
         "wolves",
-        "poetry",
-        "storytime"
-      ],
-      "rating": 4.34,
-      "ratings": 901,
-      "reviews": 141
-    },
-    {
-      "title": "Look, Look!",
-      "url": "https://www.goodreads.com/book/show/122980.Look_Look_",
-      "id": "118403",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347311056i/122980.jpg",
-      "authors": [
-        "Peter Linenthal"
-      ],
-      "genres": [
-        "picture-books",
-        "childrens",
-        "storytime",
-        "art",
-        "kids",
-        "fiction",
-        "animals"
-      ],
-      "rating": 4.12,
-      "ratings": 901,
-      "reviews": 86
-    },
-    {
-      "title": "Froggy Goes to the Doctor",
-      "url": "https://www.goodreads.com/book/show/159443.Froggy_Goes_to_the_Doctor",
-      "id": "153894",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347643097i/159443.jpg",
-      "authors": [
-        "Jonathan London"
-      ],
-      "genres": [
-        "picture-books",
-        "childrens",
-        "animals",
-        "fiction",
-        "health",
-        "humor",
-        "doctors"
-      ],
-      "rating": 4.03,
-      "ratings": 900,
-      "reviews": 87
-    },
-    {
-      "title": "Dozens of Doughnuts",
-      "url": "https://www.goodreads.com/book/show/51287344-dozens-of-doughnuts",
-      "id": "72763230",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1572538153l/51287344.jpg",
-      "authors": [
-        "Carrie Finison"
-      ],
-      "genres": [
-        "picture-books",
-        "food",
-        "animals",
-        "childrens",
-        "mathematics",
-        "storytime",
-        "fiction"
-      ],
-      "rating": 4.37,
-      "ratings": 899,
-      "reviews": 240
-    },
-    {
-      "title": "Nerdy Birdy Tweets",
-      "url": "https://www.goodreads.com/book/show/31145032-nerdy-birdy-tweets",
-      "id": "51774714",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1499740307i/31145032.jpg",
-      "authors": [
-        "Aaron Reynolds"
-      ],
-      "genres": [
-        "picture-books",
-        "childrens",
-        "animals",
-        "birds",
-        "technology",
-        "social-media",
-        "humor"
-      ],
-      "rating": 4.12,
-      "ratings": 899,
-      "reviews": 194
-    },
-    {
-      "title": "Don't Feed the Coos!",
-      "url": "https://www.goodreads.com/book/show/44281015-don-t-feed-the-coos",
-      "id": "68794529",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1558114325i/44281015.jpg",
-      "authors": [
-        "Jonathan Stutzman"
-      ],
-      "genres": [
-        "picture-books",
-        "storytime",
-        "birds",
-        "humor",
-        "childrens",
-        "animals",
-        "fiction"
-      ],
-      "rating": 4.1,
-      "ratings": 898,
-      "reviews": 145
-    },
-    {
-      "title": "Flash",
-      "url": "https://www.goodreads.com/book/show/25256363-flash",
-      "id": "44978460",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1434166561i/25256363.jpg",
-      "authors": [
-        "Donna Ball"
-      ],
-      "genres": [
-        "mystery",
-        "dogs",
-        "fiction",
-        "animals",
-        "suspense",
-        "mystery-thriller",
-        "romance"
-      ],
-      "rating": 4.38,
-      "ratings": 898,
-      "reviews": 78
-    },
-    {
-      "title": "Betty and Friends: My Life at the Zoo",
-      "url": "https://www.goodreads.com/book/show/11890803-betty-and-friends",
-      "id": "16849805",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1322745377i/11890803.jpg",
-      "authors": [
-        "Betty White"
-      ],
-      "genres": [
-        "non-fiction",
-        "animals",
-        "biography",
-        "memoir",
-        "autobiography",
-        "nature",
-        "humor"
-      ],
-      "rating": 4.15,
-      "ratings": 897,
-      "reviews": 190
-    },
-    {
-      "title": "Old MacDonald Had a Truck:",
-      "url": "https://www.goodreads.com/book/show/26031159-old-macdonald-had-a-truck",
-      "id": "45957455",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1445550176i/26031159.jpg",
-      "authors": [
-        "Steve Goetz"
-      ],
-      "genres": [
-        "picture-books",
-        "storytime",
-        "childrens",
-        "transport",
-        "construction",
-        "trucks",
-        "animals"
-      ],
-      "rating": 4.03,
-      "ratings": 895,
-      "reviews": 183
-    },
-    {
-      "title": "Memoirs of a Hamster",
-      "url": "https://www.goodreads.com/book/show/16276967-memoirs-of-a-hamster",
-      "id": "22375313",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1401076397i/16276967.jpg",
-      "authors": [
-        "Devin Scillian"
-      ],
-      "genres": [
-        "picture-books",
-        "animals",
-        "childrens",
-        "humor",
-        "fiction",
-        "fantasy",
-        "adventure"
-      ],
-      "rating": 4.16,
-      "ratings": 894,
-      "reviews": 147
-    },
-    {
-      "title": "Mr. Putter & Tabby Walk the Dog",
-      "url": "https://www.goodreads.com/book/show/1046326.Mr_Putter_Tabby_Walk_the_Dog",
-      "id": "2995980",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1403360631i/1046326.jpg",
-      "authors": [
-        "Cynthia Rylant"
-      ],
-      "genres": [
-        "picture-books",
-        "childrens",
-        "animals",
-        "cats",
-        "dogs",
-        "realistic-fiction",
-        "fiction"
-      ],
-      "rating": 4.25,
-      "ratings": 893,
-      "reviews": 75
-    },
-    {
-      "title": "Sibley's Birding Basics: How to Identify Birds, Using the Clues in Feathers, Habitats, Behaviors, and Sounds",
-      "url": "https://www.goodreads.com/book/show/368863.Sibley_s_Birding_Basics",
-      "id": "358848",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1436984632i/368863.jpg",
-      "authors": [
-        "David Allen Sibley"
-      ],
-      "genres": [
-        "birds",
-        "nature",
-        "non-fiction",
-        "reference",
-        "science",
-        "animals",
-        "natural-history"
-      ],
-      "rating": 4.22,
-      "ratings": 893,
-      "reviews": 85
-    },
-    {
-      "title": "I Knead My Mommy: and Other Poems by Kittens",
-      "url": "https://www.goodreads.com/book/show/20405520-i-knead-my-mommy",
-      "id": "28954667",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1397429169i/20405520.jpg",
-      "authors": [
-        "Francesco Marciuliano"
-      ],
-      "genres": [
-        "poetry",
-        "humor",
-        "animals",
-        "cats",
-        "non-fiction",
-        "adult",
-        "comedy"
-      ],
-      "rating": 4.02,
-      "ratings": 893,
-      "reviews": 141
-    },
-    {
-      "title": "Winter Dance: A Winter and Holiday Book for Kids",
-      "url": "https://www.goodreads.com/book/show/33413879-winter-dance",
-      "id": "54172995",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1486845936i/33413879.jpg",
-      "authors": [
-        "Marion Dane Bauer"
-      ],
-      "genres": [
-        "picture-books",
-        "animals",
-        "childrens",
-        "nature",
-        "storytime",
         "fiction",
         "poetry"
       ],
-      "rating": 4.14,
-      "ratings": 893,
-      "reviews": 168
-    },
-    {
-      "title": "The Aristocats",
-      "url": "https://www.goodreads.com/book/show/2681467-the-aristocats",
-      "id": "6574354",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1267019915i/2681467.jpg",
-      "authors": [
-        "Walt Disney Company"
-      ],
-      "genres": [
-        "childrens",
-        "picture-books",
-        "fiction",
-        "animals",
-        "juvenile",
-        "classics",
-        "cats"
-      ],
-      "rating": 4.11,
-      "ratings": 893,
-      "reviews": 44
-    },
-    {
-      "title": "Home at Night",
-      "url": "https://www.goodreads.com/book/show/65213820-home-at-night",
-      "id": "100097080",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1687140392i/65213820.jpg",
-      "authors": [
-        "Paula Munier"
-      ],
-      "genres": [
-        "mystery",
-        "cozy-mystery",
-        "fiction",
-        "suspense",
-        "animals",
-        "romance",
-        "crime"
-      ],
-      "rating": 4.2,
-      "ratings": 892,
-      "reviews": 184
-    },
-    {
-      "title": "A los perros buenos no les pasan cosas malas",
-      "url": "https://www.goodreads.com/book/show/48889423-a-los-perros-buenos-no-les-pasan-cosas-malas",
-      "id": "73157858",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1574116583i/48889423.jpg",
-      "authors": [
-        "Elvira Sastre"
-      ],
-      "genres": [
-        "poetry",
-        "graphic-novels",
-        "childrens",
-        "animals"
-      ],
-      "rating": 4.29,
-      "ratings": 891,
-      "reviews": 225
-    },
-    {
-      "title": "Dear Mr. Blueberry",
-      "url": "https://www.goodreads.com/book/show/302199.Dear_Mr_Blueberry",
-      "id": "293263",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348724313i/302199.jpg",
-      "authors": [
-        "Simon  James"
-      ],
-      "genres": [
-        "picture-books",
-        "childrens",
-        "animals",
-        "fiction",
-        "fantasy",
-        "school",
-        "writing"
-      ],
-      "rating": 4.11,
-      "ratings": 891,
-      "reviews": 141
-    },
-    {
-      "title": "What If, Pig?",
-      "url": "https://www.goodreads.com/book/show/55276625-what-if-pig",
-      "id": "86197268",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1602884449i/55276625.jpg",
-      "authors": [
-        "Linzie Hunter"
-      ],
-      "genres": [
-        "picture-books",
-        "animals",
-        "childrens",
-        "storytime",
-        "mental-health",
-        "emotion",
-        "juvenile"
-      ],
       "rating": 4.33,
-      "ratings": 891,
-      "reviews": 148
+      "ratings": 1066,
+      "reviews": 155
     },
     {
-      "title": "The First Adventure",
-      "url": "https://www.goodreads.com/book/show/3551831-the-first-adventure",
-      "id": "9433953",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348067875i/3551831.jpg",
+      "title": "Walt Disney's Uncle Remus Stories",
+      "url": "https://www.goodreads.com/book/show/1358089.Walt_Disney_s_Uncle_Remus_Stories",
+      "id": "1347820",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1396957050i/1358089.jpg",
       "authors": [
-        "Emily Bearn"
+        "Marion Palmer"
       ],
       "genres": [
         "childrens",
+        "classics",
         "fiction",
-        "chapter-books",
-        "christmas",
-        "animals",
         "fantasy",
-        "middle-grade"
+        "picture-books",
+        "animals",
+        "art"
       ],
-      "rating": 4.16,
-      "ratings": 891,
-      "reviews": 116
+      "rating": 4.19,
+      "ratings": 1065,
+      "reviews": 54
+    },
+    {
+      "title": "Too Tall Houses",
+      "url": "https://www.goodreads.com/book/show/13589118-too-tall-houses",
+      "id": "19176610",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1346019608i/13589118.jpg",
+      "authors": [
+        "Gianna Marino"
+      ],
+      "genres": [
+        "picture-books",
+        "friendship",
+        "childrens",
+        "animals",
+        "storytime",
+        "fiction",
+        "rabbits"
+      ],
+      "rating": 4.06,
+      "ratings": 1065,
+      "reviews": 156
     }
   ]
 }

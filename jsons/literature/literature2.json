@@ -1,6 +1,27 @@
 {
   "books": [
     {
+      "title": "The Good Earth",
+      "url": "https://www.goodreads.com/book/show/1078.The_Good_Earth",
+      "id": "2346070",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1312497600i/1078.jpg",
+      "authors": [
+        "Pearl S. Buck"
+      ],
+      "genres": [
+        "classics",
+        "fiction",
+        "historical-fiction",
+        "china",
+        "book-club",
+        "literature",
+        "historical"
+      ],
+      "rating": 4.01,
+      "ratings": 258130,
+      "reviews": 12409
+    },
+    {
       "title": "David Copperfield",
       "url": "https://www.goodreads.com/book/show/58696.David_Copperfield",
       "id": "4711940",
@@ -9,17 +30,17 @@
         "Charles Dickens"
       ],
       "genres": [
-        "fiction",
         "classics",
+        "fiction",
         "literature",
         "historical-fiction",
+        "audiobook",
         "19th-century",
-        "novels",
-        "victorian"
+        "novels"
       ],
-      "rating": 4.03,
-      "ratings": 238610,
-      "reviews": 9991
+      "rating": 4.04,
+      "ratings": 253589,
+      "reviews": 11394
     },
     {
       "title": "The World According to Garp",
@@ -38,9 +59,51 @@
         "literary-fiction",
         "humor"
       ],
-      "rating": 4.1,
-      "ratings": 228589,
-      "reviews": 6788
+      "rating": 4.11,
+      "ratings": 236305,
+      "reviews": 7371
+    },
+    {
+      "title": "No Country for Old Men",
+      "url": "https://www.goodreads.com/book/show/23515727-no-country-for-old-men",
+      "id": "2996445",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1740778210i/23515727.jpg",
+      "authors": [
+        "Cormac McCarthy"
+      ],
+      "genres": [
+        "fiction",
+        "thriller",
+        "westerns",
+        "crime",
+        "classics",
+        "mystery",
+        "literature"
+      ],
+      "rating": 4.17,
+      "ratings": 234935,
+      "reviews": 15439
+    },
+    {
+      "title": "Stoner",
+      "url": "https://www.goodreads.com/book/show/166997.Stoner",
+      "id": "1559207",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1742326950i/166997.jpg",
+      "authors": [
+        "John  Williams"
+      ],
+      "genres": [
+        "fiction",
+        "classics",
+        "historical-fiction",
+        "literature",
+        "novels",
+        "literary-fiction",
+        "book-club"
+      ],
+      "rating": 4.35,
+      "ratings": 224001,
+      "reviews": 28504
     },
     {
       "title": "The Prince of Tides",
@@ -59,30 +122,9 @@
         "literary-fiction",
         "literature"
       ],
-      "rating": 4.25,
-      "ratings": 208539,
-      "reviews": 5189
-    },
-    {
-      "title": "The Amazing Adventures of Kavalier & Clay",
-      "url": "https://www.goodreads.com/book/show/3985.The_Amazing_Adventures_of_Kavalier_Clay",
-      "id": "2693329",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1503806495i/3985.jpg",
-      "authors": [
-        "Michael Chabon"
-      ],
-      "genres": [
-        "fiction",
-        "historical-fiction",
-        "novels",
-        "literature",
-        "historical",
-        "literary-fiction",
-        "contemporary"
-      ],
-      "rating": 4.18,
-      "ratings": 202691,
-      "reviews": 12201
+      "rating": 4.26,
+      "ratings": 214259,
+      "reviews": 5776
     },
     {
       "title": "The Hunchback of Notre-Dame",
@@ -98,33 +140,12 @@
         "historical-fiction",
         "france",
         "literature",
-        "french-literature",
-        "gothic"
+        "gothic",
+        "french-literature"
       ],
       "rating": 4.02,
-      "ratings": 201144,
-      "reviews": 7430
-    },
-    {
-      "title": "No Country for Old Men",
-      "url": "https://www.goodreads.com/book/show/23515727-no-country-for-old-men",
-      "id": "2996445",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1426559863i/23515727.jpg",
-      "authors": [
-        "Cormac McCarthy"
-      ],
-      "genres": [
-        "fiction",
-        "thriller",
-        "crime",
-        "westerns",
-        "mystery",
-        "literature",
-        "novels"
-      ],
-      "rating": 4.16,
-      "ratings": 200206,
-      "reviews": 12015
+      "ratings": 213936,
+      "reviews": 8719
     },
     {
       "title": "Animal Farm / 1984",
@@ -144,113 +165,50 @@
         "fantasy"
       ],
       "rating": 4.3,
-      "ratings": 198397,
-      "reviews": 2992
+      "ratings": 211761,
+      "reviews": 3551
     },
     {
-      "title": "Interpreter of Maladies",
-      "url": "https://www.goodreads.com/book/show/5439.Interpreter_of_Maladies",
-      "id": "3301398",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442586143i/5439.jpg",
+      "title": "Notes from Underground",
+      "url": "https://www.goodreads.com/book/show/49455.Notes_from_Underground",
+      "id": "50717723",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1657562670i/49455.jpg",
       "authors": [
-        "Jhumpa Lahiri"
+        "Fyodor Dostoevsky"
       ],
       "genres": [
-        "short-stories",
-        "fiction",
-        "india",
-        "contemporary",
-        "literary-fiction",
-        "literature",
-        "indian-literature"
-      ],
-      "rating": 4.17,
-      "ratings": 193363,
-      "reviews": 13938
-    },
-    {
-      "title": "White Fang",
-      "url": "https://www.goodreads.com/book/show/43035.White_Fang",
-      "id": "2949952",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1475878443i/43035.jpg",
-      "authors": [
-        "Jack London"
-      ],
-      "genres": [
-        "fiction",
         "classics",
-        "adventure",
-        "animals",
-        "young-adult",
-        "historical-fiction",
-        "literature"
-      ],
-      "rating": 4.02,
-      "ratings": 189939,
-      "reviews": 6366
-    },
-    {
-      "title": "Steppenwolf",
-      "url": "https://www.goodreads.com/book/show/16631.Steppenwolf",
-      "id": "57612",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1389332672i/16631.jpg",
-      "authors": [
-        "Hermann Hesse"
-      ],
-      "genres": [
         "fiction",
-        "classics",
         "philosophy",
-        "german-literature",
+        "russia",
+        "russian-literature",
         "literature",
-        "novels",
-        "germany"
-      ],
-      "rating": 4.13,
-      "ratings": 185502,
-      "reviews": 8158
-    },
-    {
-      "title": "The Cider House Rules",
-      "url": "https://www.goodreads.com/book/show/4687.The_Cider_House_Rules",
-      "id": "3875895",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327962519i/4687.jpg",
-      "authors": [
-        "John Irving"
-      ],
-      "genres": [
-        "fiction",
-        "classics",
-        "historical-fiction",
-        "literature",
-        "literary-fiction",
-        "contemporary",
         "novels"
       ],
-      "rating": 4.16,
-      "ratings": 185190,
-      "reviews": 5108
+      "rating": 4.17,
+      "ratings": 211325,
+      "reviews": 19166
     },
     {
-      "title": "Hamlet: Screenplay, Introduction And Film Diary",
-      "url": "https://www.goodreads.com/book/show/117251.Hamlet",
-      "id": "112914",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348289640i/117251.jpg",
+      "title": "The Amazing Adventures of Kavalier & Clay",
+      "url": "https://www.goodreads.com/book/show/3985.The_Amazing_Adventures_of_Kavalier_Clay",
+      "id": "2693329",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1503806495i/3985.jpg",
       "authors": [
-        "Kenneth Branagh"
+        "Michael Chabon"
       ],
       "genres": [
-        "classics",
-        "plays",
         "fiction",
-        "drama",
+        "historical-fiction",
+        "book-club",
+        "novels",
+        "literary-fiction",
         "literature",
-        "school",
-        "theatre"
+        "historical"
       ],
-      "rating": 4.14,
-      "ratings": 182685,
-      "reviews": 251
+      "rating": 4.18,
+      "ratings": 210177,
+      "reviews": 12884
     },
     {
       "title": "The Idiot",
@@ -270,113 +228,29 @@
         "novels"
       ],
       "rating": 4.21,
-      "ratings": 182681,
-      "reviews": 8857
+      "ratings": 208663,
+      "reviews": 11226
     },
     {
-      "title": "Inferno",
-      "url": "https://www.goodreads.com/book/show/15645.Inferno",
-      "id": "2377563",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1520255019i/15645.jpg",
+      "title": "Steppenwolf",
+      "url": "https://www.goodreads.com/book/show/16631.Steppenwolf",
+      "id": "57612",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1389332672i/16631.jpg",
       "authors": [
-        "Dante Alighieri"
-      ],
-      "genres": [
-        "classics",
-        "poetry",
-        "fiction",
-        "literature",
-        "religion",
-        "fantasy",
-        "school"
-      ],
-      "rating": 4.02,
-      "ratings": 182088,
-      "reviews": 7810
-    },
-    {
-      "title": "Trainspotting",
-      "url": "https://www.goodreads.com/book/show/135836.Trainspotting",
-      "id": "1087421",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1353033083i/135836.jpg",
-      "authors": [
-        "Irvine Welsh"
-      ],
-      "genres": [
-        "fiction",
-        "contemporary",
-        "classics",
-        "scotland",
-        "novels",
-        "crime",
-        "literature"
-      ],
-      "rating": 4.1,
-      "ratings": 167164,
-      "reviews": 4027
-    },
-    {
-      "title": "Stoner",
-      "url": "https://www.goodreads.com/book/show/166997.Stoner",
-      "id": "1559207",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320600716i/166997.jpg",
-      "authors": [
-        "John  Williams"
+        "Hermann Hesse"
       ],
       "genres": [
         "fiction",
         "classics",
-        "historical-fiction",
+        "philosophy",
+        "german-literature",
         "literature",
         "novels",
-        "american",
-        "literary-fiction"
+        "germany"
       ],
-      "rating": 4.33,
-      "ratings": 166224,
-      "reviews": 19594
-    },
-    {
-      "title": "Brave New World / Brave New World Revisited",
-      "url": "https://www.goodreads.com/book/show/5479.Brave_New_World_Brave_New_World_Revisited",
-      "id": "39947767",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1331315450i/5479.jpg",
-      "authors": [
-        "Aldous Huxley"
-      ],
-      "genres": [
-        "fiction",
-        "science-fiction",
-        "dystopia",
-        "classics",
-        "literature",
-        "novels",
-        "fantasy"
-      ],
-      "rating": 4.16,
-      "ratings": 165135,
-      "reviews": 2015
-    },
-    {
-      "title": "Blood Meridian, or, the Evening Redness in the West",
-      "url": "https://www.goodreads.com/book/show/394535.Blood_Meridian_or_the_Evening_Redness_in_the_West",
-      "id": "1065465",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1701688704i/394535.jpg",
-      "authors": [
-        "Cormac McCarthy"
-      ],
-      "genres": [
-        "fiction",
-        "historical-fiction",
-        "westerns",
-        "classics",
-        "literature",
-        "horror",
-        "novels"
-      ],
-      "rating": 4.16,
-      "ratings": 164509,
-      "reviews": 16358
+      "rating": 4.13,
+      "ratings": 207742,
+      "reviews": 10168
     },
     {
       "title": "The Death of Ivan Ilych",
@@ -395,9 +269,135 @@
         "philosophy",
         "short-stories"
       ],
-      "rating": 4.13,
-      "ratings": 163962,
-      "reviews": 12372
+      "rating": 4.14,
+      "ratings": 206919,
+      "reviews": 17538
+    },
+    {
+      "title": "Blood Meridian, or, the Evening Redness in the West",
+      "url": "https://www.goodreads.com/book/show/394535.Blood_Meridian_or_the_Evening_Redness_in_the_West",
+      "id": "1065465",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1701688704i/394535.jpg",
+      "authors": [
+        "Cormac McCarthy"
+      ],
+      "genres": [
+        "fiction",
+        "historical-fiction",
+        "westerns",
+        "classics",
+        "horror",
+        "literature",
+        "novels"
+      ],
+      "rating": 4.16,
+      "ratings": 206243,
+      "reviews": 22251
+    },
+    {
+      "title": "Interpreter of Maladies",
+      "url": "https://www.goodreads.com/book/show/5439.Interpreter_of_Maladies",
+      "id": "3301398",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442586143i/5439.jpg",
+      "authors": [
+        "Jhumpa Lahiri"
+      ],
+      "genres": [
+        "short-stories",
+        "fiction",
+        "book-club",
+        "contemporary",
+        "literary-fiction",
+        "literature",
+        "indian-literature"
+      ],
+      "rating": 4.18,
+      "ratings": 203407,
+      "reviews": 15273
+    },
+    {
+      "title": "White Fang",
+      "url": "https://www.goodreads.com/book/show/43035.White_Fang",
+      "id": "2949952",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1475878443i/43035.jpg",
+      "authors": [
+        "Jack London"
+      ],
+      "genres": [
+        "classics",
+        "fiction",
+        "adventure",
+        "animals",
+        "young-adult",
+        "historical-fiction",
+        "literature"
+      ],
+      "rating": 4.03,
+      "ratings": 202147,
+      "reviews": 7067
+    },
+    {
+      "title": "Inferno",
+      "url": "https://www.goodreads.com/book/show/15645.Inferno",
+      "id": "2377563",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1520255019i/15645.jpg",
+      "authors": [
+        "Dante Alighieri"
+      ],
+      "genres": [
+        "classics",
+        "poetry",
+        "fiction",
+        "literature",
+        "religion",
+        "fantasy",
+        "school"
+      ],
+      "rating": 4.03,
+      "ratings": 201139,
+      "reviews": 9421
+    },
+    {
+      "title": "The Cider House Rules",
+      "url": "https://www.goodreads.com/book/show/4687.The_Cider_House_Rules",
+      "id": "3875895",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327962519i/4687.jpg",
+      "authors": [
+        "John Irving"
+      ],
+      "genres": [
+        "fiction",
+        "classics",
+        "historical-fiction",
+        "literature",
+        "literary-fiction",
+        "contemporary",
+        "novels"
+      ],
+      "rating": 4.17,
+      "ratings": 192991,
+      "reviews": 5649
+    },
+    {
+      "title": "Hamlet: Screenplay, Introduction And Film Diary",
+      "url": "https://www.goodreads.com/book/show/117251.Hamlet",
+      "id": "112914",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348289640i/117251.jpg",
+      "authors": [
+        "Kenneth Branagh"
+      ],
+      "genres": [
+        "classics",
+        "plays",
+        "fiction",
+        "shakespeare",
+        "drama",
+        "literature",
+        "school"
+      ],
+      "rating": 4.14,
+      "ratings": 182129,
+      "reviews": 275
     },
     {
       "title": "Middlemarch",
@@ -416,54 +416,54 @@
         "victorian",
         "novels"
       ],
-      "rating": 4.02,
-      "ratings": 162899,
-      "reviews": 11116
+      "rating": 4.03,
+      "ratings": 175439,
+      "reviews": 12856
     },
     {
-      "title": "Notes from Underground",
-      "url": "https://www.goodreads.com/book/show/49455.Notes_from_Underground",
-      "id": "50717723",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1657562670i/49455.jpg",
+      "title": "Trainspotting",
+      "url": "https://www.goodreads.com/book/show/23955.Trainspotting",
+      "id": "1087421",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1375258001i/23955.jpg",
       "authors": [
-        "Fyodor Dostoevsky"
+        "Irvine Welsh"
       ],
       "genres": [
         "fiction",
-        "philosophy",
-        "russia",
-        "russian-literature",
-        "literature",
+        "contemporary",
         "classics",
-        "novels"
-      ],
-      "rating": 4.18,
-      "ratings": 160790,
-      "reviews": 13104
-    },
-    {
-      "title": "No Longer Human",
-      "url": "https://www.goodreads.com/book/show/194746.No_Longer_Human",
-      "id": "188338",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1422638843i/194746.jpg",
-      "authors": [
-        "Osamu Dazai"
-      ],
-      "genres": [
-        "fiction",
-        "japanese-literature",
-        "japan",
-        "classics",
-        "literature",
+        "scotland",
         "novels",
-        "asian-literature"
+        "crime",
+        "literature"
       ],
-      "rating": 4,
-      "ratings": 158505,
-      "reviews": 19047
+      "rating": 4.11,
+      "ratings": 175293,
+      "reviews": 4707
     },
     {
-      "title": "The Divine Comedy",
+      "title": "Thus Spoke Zarathustra",
+      "url": "https://www.goodreads.com/book/show/51893.Thus_Spoke_Zarathustra",
+      "id": "196327",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1650680683i/51893.jpg",
+      "authors": [
+        "Friedrich Nietzsche"
+      ],
+      "genres": [
+        "philosophy",
+        "classics",
+        "non-fiction",
+        "german-literature",
+        "literature",
+        "psychology",
+        "religion"
+      ],
+      "rating": 4.07,
+      "ratings": 170299,
+      "reviews": 6594
+    },
+    {
+      "title": "The Divine Comedy: Inferno - Purgatorio - Paradiso",
       "url": "https://www.goodreads.com/book/show/6656.The_Divine_Comedy",
       "id": "809248",
       "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1657540227i/6656.jpg",
@@ -480,29 +480,29 @@
         "fantasy"
       ],
       "rating": 4.08,
-      "ratings": 152620,
-      "reviews": 6160
+      "ratings": 167680,
+      "reviews": 7402
     },
     {
-      "title": "Thus Spoke Zarathustra",
-      "url": "https://www.goodreads.com/book/show/51893.Thus_Spoke_Zarathustra",
-      "id": "196327",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1650680683i/51893.jpg",
+      "title": "A Moveable Feast",
+      "url": "https://www.goodreads.com/book/show/4631.A_Moveable_Feast",
+      "id": "2459084",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1427463201i/4631.jpg",
       "authors": [
-        "Friedrich Nietzsche"
+        "Ernest Hemingway"
       ],
       "genres": [
-        "philosophy",
         "classics",
         "non-fiction",
-        "german-literature",
-        "literature",
-        "religion",
-        "psychology"
+        "memoir",
+        "biography",
+        "france",
+        "travel",
+        "literature"
       ],
-      "rating": 4.07,
-      "ratings": 151394,
-      "reviews": 5506
+      "rating": 4.02,
+      "ratings": 163364,
+      "reviews": 12514
     }
   ]
 }

@@ -1,25 +1,151 @@
 {
   "books": [
     {
-      "title": "CLR via C#",
-      "url": "https://www.goodreads.com/book/show/7121415-clr-via-c",
-      "id": "7382619",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388551187i/7121415.jpg",
+      "title": "Hacker's Delight",
+      "url": "https://www.goodreads.com/book/show/276079.Hacker_s_Delight",
+      "id": "267727",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1385216522i/276079.jpg",
       "authors": [
-        "Jeffrey Richter"
+        "Henry S. Warren Jr."
       ],
       "genres": [
         "programming",
+        "computer-science",
+        "technology",
+        "non-fiction",
+        "computers",
+        "technical",
+        "software"
+      ],
+      "rating": 4.2,
+      "ratings": 1135,
+      "reviews": 24
+    },
+    {
+      "title": "Kubernetes: Up & Running",
+      "url": "https://www.goodreads.com/book/show/26759355-kubernetes",
+      "id": "46784618",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1515495557i/26759355.jpg",
+      "authors": [
+        "Kelsey Hightower"
+      ],
+      "genres": [
         "technology",
         "computer-science",
         "technical",
+        "programming",
         "software",
+        "non-fiction",
+        "reference"
+      ],
+      "rating": 4.06,
+      "ratings": 1129,
+      "reviews": 121
+    },
+    {
+      "title": "Computer Architecture: A Quantitative Approach",
+      "url": "https://www.goodreads.com/book/show/70135.Computer_Architecture",
+      "id": "67952",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388277732i/70135.jpg",
+      "authors": [
+        "John L. Hennessy"
+      ],
+      "genres": [
+        "computer-science",
+        "programming",
+        "textbooks",
         "computers",
+        "reference",
+        "non-fiction",
+        "engineering"
+      ],
+      "rating": 4.12,
+      "ratings": 1120,
+      "reviews": 39
+    },
+    {
+      "title": "Level Up!: The Guide to Great Video Game Design",
+      "url": "https://www.goodreads.com/book/show/8449713-level-up",
+      "id": "13313639",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348903370i/8449713.jpg",
+      "authors": [
+        "Scott Rogers"
+      ],
+      "genres": [
+        "game-design",
+        "non-fiction",
+        "games",
+        "gaming",
+        "video-games",
+        "design",
+        "programming"
+      ],
+      "rating": 4.09,
+      "ratings": 1118,
+      "reviews": 84
+    },
+    {
+      "title": "UNIX: A History and a Memoir",
+      "url": "https://www.goodreads.com/book/show/53011383-unix",
+      "id": "73834380",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1571699686l/53011383.jpg",
+      "authors": [
+        "Brian W. Kernighan"
+      ],
+      "genres": [
+        "history",
+        "computer-science",
+        "non-fiction",
+        "technology",
+        "programming",
+        "computers",
+        "biography"
+      ],
+      "rating": 4.41,
+      "ratings": 1115,
+      "reviews": 156
+    },
+    {
+      "title": "Computer Systems: A Programmer's Perspective",
+      "url": "https://www.goodreads.com/book/show/829182.Computer_Systems",
+      "id": "814871",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1387708094i/829182.jpg",
+      "authors": [
+        "Randal E. Bryant"
+      ],
+      "genres": [
+        "computer-science",
+        "programming",
+        "technology",
+        "computers",
+        "textbooks",
+        "technical",
         "non-fiction"
       ],
-      "rating": 4.56,
-      "ratings": 1067,
-      "reviews": 65
+      "rating": 4.46,
+      "ratings": 1111,
+      "reviews": 64
+    },
+    {
+      "title": "Smart and Gets Things Done: Joel Spolsky's Concise Guide to Finding the Best Technical Talent 1st (first) by Spolsky, Joel (2007) Hardcover",
+      "url": "https://www.goodreads.com/book/show/1400993.Smart_and_Gets_Things_Done",
+      "id": "1391186",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328756362i/1400993.jpg",
+      "authors": [
+        "Spolsky"
+      ],
+      "genres": [
+        "business",
+        "management",
+        "non-fiction",
+        "programming",
+        "software",
+        "technology",
+        "leadership"
+      ],
+      "rating": 4,
+      "ratings": 1107,
+      "reviews": 103
     },
     {
       "title": "Python Tricks: A Buffet of Awesome Python Features",
@@ -38,9 +164,72 @@
         "technical",
         "reference"
       ],
-      "rating": 4.44,
-      "ratings": 1064,
-      "reviews": 96
+      "rating": 4.43,
+      "ratings": 1092,
+      "reviews": 100
+    },
+    {
+      "title": "Modern Software Engineering: Doing What Works to Build Better Software Faster",
+      "url": "https://www.goodreads.com/book/show/57345270-modern-software-engineering",
+      "id": "89753499",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1633733111i/57345270.jpg",
+      "authors": [
+        "David  Farley"
+      ],
+      "genres": [
+        "programming",
+        "technology",
+        "software",
+        "computer-science",
+        "technical",
+        "engineering",
+        "non-fiction"
+      ],
+      "rating": 4.16,
+      "ratings": 1089,
+      "reviews": 135
+    },
+    {
+      "title": "CSS: The Missing Manual",
+      "url": "https://www.goodreads.com/book/show/6649292-css",
+      "id": "6843862",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1391311956i/6649292.jpg",
+      "authors": [
+        "David Sawyer McFarland"
+      ],
+      "genres": [
+        "programming",
+        "reference",
+        "non-fiction",
+        "website-design",
+        "computer-science",
+        "technology",
+        "computers"
+      ],
+      "rating": 4.12,
+      "ratings": 1079,
+      "reviews": 77
+    },
+    {
+      "title": "Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith",
+      "url": "https://www.goodreads.com/book/show/44144499-monolith-to-microservices",
+      "id": "68652897",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1566123566i/44144499.jpg",
+      "authors": [
+        "Sam Newman"
+      ],
+      "genres": [
+        "technology",
+        "programming",
+        "computer-science",
+        "software",
+        "technical",
+        "architecture",
+        "non-fiction"
+      ],
+      "rating": 4.28,
+      "ratings": 1069,
+      "reviews": 99
     },
     {
       "title": "More Effective C++: 35 New Ways to Improve Your Programs and Designs",
@@ -53,36 +242,57 @@
       "genres": [
         "programming",
         "technical",
-        "non-fiction",
         "computer-science",
+        "non-fiction",
         "software",
         "computers",
         "technology"
       ],
-      "rating": 4.34,
-      "ratings": 1060,
-      "reviews": 37
+      "rating": 4.33,
+      "ratings": 1069,
+      "reviews": 38
     },
     {
-      "title": "Kubernetes: Up & Running",
-      "url": "https://www.goodreads.com/book/show/26759355-kubernetes",
-      "id": "46784618",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1515495557i/26759355.jpg",
+      "title": "A Tour of C++",
+      "url": "https://www.goodreads.com/book/show/18197265-a-tour-of-c",
+      "id": "25607519",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1377629336i/18197265.jpg",
       "authors": [
-        "Kelsey Hightower"
+        "Bjarne Stroustrup"
       ],
       "genres": [
-        "technology",
+        "programming",
         "computer-science",
+        "technology",
+        "non-fiction",
         "technical",
         "software",
-        "programming",
-        "non-fiction",
-        "reference"
+        "textbooks"
       ],
-      "rating": 4.06,
-      "ratings": 1057,
+      "rating": 4.3,
+      "ratings": 1067,
       "reviews": 117
+    },
+    {
+      "title": "Engineering Management for the Rest of Us",
+      "url": "https://www.goodreads.com/book/show/58502800-engineering-management-for-the-rest-of-us",
+      "id": "91881821",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1667289282i/58502800.jpg",
+      "authors": [
+        "Sarah Drasner"
+      ],
+      "genres": [
+        "management",
+        "leadership",
+        "technology",
+        "non-fiction",
+        "engineering",
+        "programming",
+        "software"
+      ],
+      "rating": 4.17,
+      "ratings": 1066,
+      "reviews": 94
     },
     {
       "title": "Lean Software Development: An Agile Toolkit",
@@ -101,30 +311,9 @@
         "technology",
         "leadership"
       ],
-      "rating": 4.17,
-      "ratings": 1053,
-      "reviews": 66
-    },
-    {
-      "title": "The Staff Engineer's Path: A Guide for Individual Contributors Navigating Growth and Change",
-      "url": "https://www.goodreads.com/book/show/61058107-the-staff-engineer-s-path",
-      "id": "93999485",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1661205628i/61058107.jpg",
-      "authors": [
-        "Tanya Reilly"
-      ],
-      "genres": [
-        "technology",
-        "leadership",
-        "software",
-        "management",
-        "programming",
-        "non-fiction",
-        "engineering"
-      ],
-      "rating": 4.41,
-      "ratings": 1052,
-      "reviews": 113
+      "rating": 4.18,
+      "ratings": 1064,
+      "reviews": 64
     },
     {
       "title": "The Ruby Programming Language: Everything You Need to Know",
@@ -144,50 +333,8 @@
         "computers"
       ],
       "rating": 4.02,
-      "ratings": 1042,
-      "reviews": 34
-    },
-    {
-      "title": "Computer Systems: A Programmer's Perspective",
-      "url": "https://www.goodreads.com/book/show/829182.Computer_Systems",
-      "id": "814871",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1387708094i/829182.jpg",
-      "authors": [
-        "Randal E. Bryant"
-      ],
-      "genres": [
-        "computer-science",
-        "programming",
-        "technology",
-        "computers",
-        "textbooks",
-        "technical",
-        "non-fiction"
-      ],
-      "rating": 4.45,
-      "ratings": 1037,
-      "reviews": 58
-    },
-    {
-      "title": "Level Up!: The Guide to Great Video Game Design",
-      "url": "https://www.goodreads.com/book/show/8449713-level-up",
-      "id": "13313639",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348903370i/8449713.jpg",
-      "authors": [
-        "Scott Rogers"
-      ],
-      "genres": [
-        "game-design",
-        "non-fiction",
-        "games",
-        "gaming",
-        "video-games",
-        "design",
-        "programming"
-      ],
-      "rating": 4.11,
-      "ratings": 1032,
-      "reviews": 69
+      "ratings": 1043,
+      "reviews": 35
     },
     {
       "title": "The Humane Interface: New Directions for Designing Interactive Systems",
@@ -202,17 +349,38 @@
         "non-fiction",
         "programming",
         "technology",
+        "software",
         "computers",
-        "usability",
-        "software"
+        "usability"
       ],
       "rating": 4.03,
-      "ratings": 1026,
-      "reviews": 43
+      "ratings": 1043,
+      "reviews": 44
     },
     {
-      "title": "Python Cookbook: Recipes for Mastering Python 3",
-      "url": "https://www.goodreads.com/book/show/17152735-python-cookbook",
+      "title": "Atomic Design",
+      "url": "https://www.goodreads.com/book/show/35496817-atomic-design",
+      "id": "49892016",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1498137521i/35496817.jpg",
+      "authors": [
+        "Brad Frost"
+      ],
+      "genres": [
+        "design",
+        "non-fiction",
+        "technology",
+        "programming",
+        "business",
+        "website-design",
+        "coding"
+      ],
+      "rating": 4.01,
+      "ratings": 1037,
+      "reviews": 87
+    },
+    {
+      "title": "Python Cookbook, Third Edition",
+      "url": "https://www.goodreads.com/book/show/17152735-python-cookbook-third-edition",
       "id": "23572421",
       "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1368812217i/17152735.jpg",
       "authors": [
@@ -225,11 +393,11 @@
         "technology",
         "technical",
         "software",
-        "computers"
+        "non-fiction"
       ],
       "rating": 4.17,
-      "ratings": 996,
-      "reviews": 51
+      "ratings": 1021,
+      "reviews": 53
     },
     {
       "title": "Becoming a Technical Leader: An Organic Problem-Solving Approach",
@@ -249,197 +417,29 @@
         "programming"
       ],
       "rating": 4.08,
-      "ratings": 994,
+      "ratings": 1014,
       "reviews": 62
     },
     {
-      "title": "A Tour of C++",
-      "url": "https://www.goodreads.com/book/show/18197265-a-tour-of-c",
-      "id": "25607519",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1377629336i/18197265.jpg",
+      "title": "Microinteractions: Designing with Details",
+      "url": "https://www.goodreads.com/book/show/17239285-microinteractions",
+      "id": "23766133",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1365526301i/17239285.jpg",
       "authors": [
-        "Bjarne Stroustrup"
-      ],
-      "genres": [
-        "programming",
-        "computer-science",
-        "technology",
-        "technical",
-        "non-fiction",
-        "software",
-        "textbooks"
-      ],
-      "rating": 4.3,
-      "ratings": 984,
-      "reviews": 104
-    },
-    {
-      "title": "Atomic Design",
-      "url": "https://www.goodreads.com/book/show/35496817-atomic-design",
-      "id": "49892016",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1498137521i/35496817.jpg",
-      "authors": [
-        "Brad Frost"
+        "Dan Saffer"
       ],
       "genres": [
         "design",
         "non-fiction",
-        "programming",
-        "technology",
         "business",
-        "website-design",
-        "coding"
+        "technology",
+        "psychology",
+        "programming",
+        "usability"
       ],
       "rating": 4.01,
-      "ratings": 975,
-      "reviews": 84
-    },
-    {
-      "title": "UNIX: A History and a Memoir",
-      "url": "https://www.goodreads.com/book/show/53011383-unix",
-      "id": "73834380",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1571699686l/53011383.jpg",
-      "authors": [
-        "Brian W. Kernighan"
-      ],
-      "genres": [
-        "history",
-        "non-fiction",
-        "technology",
-        "computer-science",
-        "programming",
-        "computers",
-        "biography"
-      ],
-      "rating": 4.41,
-      "ratings": 971,
-      "reviews": 145
-    },
-    {
-      "title": "Software Estimation: Demystifying the Black Art",
-      "url": "https://www.goodreads.com/book/show/93891.Software_Estimation",
-      "id": "90512",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1396830924i/93891.jpg",
-      "authors": [
-        "Steve McConnell"
-      ],
-      "genres": [
-        "programming",
-        "software",
-        "management",
-        "technology",
-        "non-fiction",
-        "computer-science",
-        "technical"
-      ],
-      "rating": 4.05,
-      "ratings": 967,
-      "reviews": 64
-    },
-    {
-      "title": "C++ Primer",
-      "url": "https://www.goodreads.com/book/show/768080.C_Primer",
-      "id": "754144",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347564002i/768080.jpg",
-      "authors": [
-        "Stanley B. Lippman"
-      ],
-      "genres": [
-        "programming",
-        "computer-science",
-        "reference",
-        "technology",
-        "non-fiction",
-        "computers",
-        "software"
-      ],
-      "rating": 4.22,
-      "ratings": 964,
-      "reviews": 47
-    },
-    {
-      "title": "The Joy of Clojure",
-      "url": "https://www.goodreads.com/book/show/8129142-the-joy-of-clojure",
-      "id": "12924863",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1272940175i/8129142.jpg",
-      "authors": [
-        "Michael Fogus"
-      ],
-      "genres": [
-        "programming",
-        "computer-science",
-        "technology",
-        "computers",
-        "technical",
-        "software",
-        "non-fiction"
-      ],
-      "rating": 4.18,
-      "ratings": 954,
-      "reviews": 50
-    },
-    {
-      "title": "UNIX and Linux System Administration Handbook",
-      "url": "https://www.goodreads.com/book/show/8772005-unix-and-linux-system-administration-handbook",
-      "id": "13645501",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1415581344i/8772005.jpg",
-      "authors": [
-        "Evi Nemeth"
-      ],
-      "genres": [
-        "technology",
-        "programming",
-        "computer-science",
-        "reference",
-        "technical",
-        "non-fiction",
-        "computers"
-      ],
-      "rating": 4.44,
-      "ratings": 945,
-      "reviews": 50
-    },
-    {
-      "title": "Software Craftsman, The: Professionalism, Pragmatism, Pride",
-      "url": "https://www.goodreads.com/book/show/23215733-software-craftsman-the",
-      "id": "42757860",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1416778735i/23215733.jpg",
-      "authors": [
-        "Sandro Mancuso"
-      ],
-      "genres": [
-        "programming",
-        "software",
-        "technology",
-        "computer-science",
-        "technical",
-        "non-fiction",
-        "computers"
-      ],
-      "rating": 4.31,
-      "ratings": 933,
-      "reviews": 116
-    },
-    {
-      "title": "Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman",
-      "url": "https://www.goodreads.com/book/show/5608045-apprenticeship-patterns",
-      "id": "5779422",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328834807i/5608045.jpg",
-      "authors": [
-        "Dave Hoover"
-      ],
-      "genres": [
-        "programming",
-        "technology",
-        "software",
-        "computer-science",
-        "non-fiction",
-        "technical",
-        "coding"
-      ],
-      "rating": 4.12,
-      "ratings": 933,
-      "reviews": 131
+      "ratings": 1013,
+      "reviews": 65
     },
     {
       "title": "The Data Warehouse Toolkit: The Complete Guide to Dimensional Modeling",
@@ -450,59 +450,59 @@
         "Ralph Kimball"
       ],
       "genres": [
-        "technology",
         "computer-science",
+        "technology",
         "technical",
-        "non-fiction",
         "programming",
-        "reference",
-        "business"
+        "non-fiction",
+        "business",
+        "reference"
       ],
       "rating": 4.17,
-      "ratings": 921,
-      "reviews": 54
+      "ratings": 1006,
+      "reviews": 60
     },
     {
-      "title": "Scrum Guide",
-      "url": "https://www.goodreads.com/book/show/12731973-scrum-guide",
-      "id": "17869395",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1317087105i/12731973.jpg",
+      "title": "Lean from the Trenches: Managing Large-Scale Projects with Kanban",
+      "url": "https://www.goodreads.com/book/show/12693642-lean-from-the-trenches",
+      "id": "17320508",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1344696804i/12693642.jpg",
       "authors": [
-        "Ken Schwaber"
+        "Henrik Kniberg"
       ],
       "genres": [
         "management",
-        "non-fiction",
         "business",
+        "non-fiction",
         "technology",
+        "software",
         "programming",
-        "computer-science",
-        "reference"
+        "computer-science"
       ],
-      "rating": 4.19,
-      "ratings": 915,
-      "reviews": 91
+      "rating": 4.2,
+      "ratings": 1005,
+      "reviews": 83
     },
     {
-      "title": "Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith",
-      "url": "https://www.goodreads.com/book/show/44144499-monolith-to-microservices",
-      "id": "68652897",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1566123566i/44144499.jpg",
+      "title": "Red Team Field Manual",
+      "url": "https://www.goodreads.com/book/show/21419959-red-team-field-manual",
+      "id": "40723153",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1436338407i/21419959.jpg",
       "authors": [
-        "Sam Newman"
+        "Ben Clark"
       ],
       "genres": [
+        "hackers",
         "technology",
         "computer-science",
-        "programming",
-        "software",
         "technical",
-        "architecture",
-        "non-fiction"
+        "reference",
+        "non-fiction",
+        "programming"
       ],
-      "rating": 4.29,
-      "ratings": 910,
-      "reviews": 87
+      "rating": 4.23,
+      "ratings": 987,
+      "reviews": 33
     }
   ]
 }

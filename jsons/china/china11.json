@@ -1,88 +1,463 @@
 {
   "books": [
     {
-      "title": "River East, River West",
-      "url": "https://www.goodreads.com/book/show/127823210-river-east-river-west",
-      "id": "148676913",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1692130506i/127823210.jpg",
+      "title": "Invitation to a Banquet: The Story of Chinese Food",
+      "url": "https://www.goodreads.com/book/show/123979561-invitation-to-a-banquet",
+      "id": "99876197",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1680049799i/123979561.jpg",
       "authors": [
-        "Aube Rey Lescure"
+        "Fuchsia Dunlop"
+      ],
+      "genres": [
+        "food",
+        "non-fiction",
+        "china",
+        "history",
+        "cooking",
+        "audiobook",
+        "cookbooks"
+      ],
+      "rating": 4.27,
+      "ratings": 1236,
+      "reviews": 195
+    },
+    {
+      "title": "Himalayan Blunder: The Angry Truth About India's Most Crushing Military Disaster",
+      "url": "https://www.goodreads.com/book/show/6092335-himalayan-blunder",
+      "id": "6269314",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1349052428i/6092335.jpg",
+      "authors": [
+        "J.P. Dalvi"
+      ],
+      "genres": [
+        "history",
+        "non-fiction",
+        "india",
+        "war",
+        "politics",
+        "military-fiction",
+        "china"
+      ],
+      "rating": 4.3,
+      "ratings": 1232,
+      "reviews": 130
+    },
+    {
+      "title": "Lord of the Mysteries Volume 3",
+      "url": "https://www.goodreads.com/book/show/51995396-lord-of-the-mysteries-volume-3",
+      "id": "82695317",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1583135168i/51995396.jpg",
+      "authors": [
+        "Ai Qianshui de Wuzei"
+      ],
+      "genres": [
+        "fantasy",
+        "mystery",
+        "light-novel",
+        "fiction",
+        "adventure",
+        "horror",
+        "china"
+      ],
+      "rating": 4.66,
+      "ratings": 1230,
+      "reviews": 75
+    },
+    {
+      "title": "Daughters of the Bamboo Grove: From China to America, a True Story of Abduction, Adoption, and Separated Twins",
+      "url": "https://www.goodreads.com/book/show/217927688-daughters-of-the-bamboo-grove",
+      "id": "222822394",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1743721777i/217927688.jpg",
+      "authors": [
+        "Barbara Demick"
+      ],
+      "genres": [
+        "non-fiction",
+        "china",
+        "history",
+        "adoption",
+        "biography",
+        "asia",
+        "audiobook"
+      ],
+      "rating": 4.34,
+      "ratings": 1216,
+      "reviews": 162
+    },
+    {
+      "title": "On Practice and Contradiction",
+      "url": "https://www.goodreads.com/book/show/18920.On_Practice_and_Contradiction",
+      "id": "20265",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1373995708i/18920.jpg",
+      "authors": [
+        "Mao Zedong"
+      ],
+      "genres": [
+        "philosophy",
+        "politics",
+        "non-fiction",
+        "theory",
+        "china",
+        "history",
+        "essays"
+      ],
+      "rating": 4.04,
+      "ratings": 1215,
+      "reviews": 132
+    },
+    {
+      "title": "Remembering Shanghai: A Memoir of Socialites, Scholars and Scoundrels",
+      "url": "https://www.goodreads.com/book/show/39838302-remembering-shanghai",
+      "id": "61600780",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1523646293i/39838302.jpg",
+      "authors": [
+        "Isabel Sun Chao"
+      ],
+      "genres": [
+        "china",
+        "memoir",
+        "non-fiction",
+        "history",
+        "asia",
+        "biography-memoir",
+        "audiobook"
+      ],
+      "rating": 4.31,
+      "ratings": 1214,
+      "reviews": 143
+    },
+    {
+      "title": "Strangers from a Different Shore: A History of Asian Americans",
+      "url": "https://www.goodreads.com/book/show/41304.Strangers_from_a_Different_Shore",
+      "id": "1831840",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1441219774i/41304.jpg",
+      "authors": [
+        "Ronald Takaki"
+      ],
+      "genres": [
+        "history",
+        "non-fiction",
+        "race",
+        "american-history",
+        "sociology",
+        "asian-literature",
+        "china"
+      ],
+      "rating": 4.16,
+      "ratings": 1210,
+      "reviews": 74
+    },
+    {
+      "title": "Sandalwood Death",
+      "url": "https://www.goodreads.com/book/show/16087986-sandalwood-death",
+      "id": "6611008",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1351663440i/16087986.jpg",
+      "authors": [
+        "Mo Yan"
+      ],
+      "genres": [
+        "china",
+        "fiction",
+        "historical-fiction",
+        "nobel-prize",
+        "chinese-literature",
+        "asia",
+        "literature"
+      ],
+      "rating": 4.26,
+      "ratings": 1202,
+      "reviews": 166
+    },
+    {
+      "title": "The Willow Pattern",
+      "url": "https://www.goodreads.com/book/show/809295.The_Willow_Pattern",
+      "id": "795236",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328872975i/809295.jpg",
+      "authors": [
+        "Robert van Gulik"
+      ],
+      "genres": [
+        "mystery",
+        "crime",
+        "historical-fiction",
+        "china",
+        "fiction",
+        "historical-mystery",
+        "historical"
+      ],
+      "rating": 4.07,
+      "ratings": 1191,
+      "reviews": 67
+    },
+    {
+      "title": "China's Great Wall of Debt: Shadow Banks, Ghost Cities, Massive Loans, and the End of the Chinese Miracle",
+      "url": "https://www.goodreads.com/book/show/36912593-china-s-great-wall-of-debt",
+      "id": "58671832",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1519904454i/36912593.jpg",
+      "authors": [
+        "Dinny McMahon"
+      ],
+      "genres": [
+        "china",
+        "economics",
+        "non-fiction",
+        "politics",
+        "business",
+        "finance",
+        "history"
+      ],
+      "rating": 4.13,
+      "ratings": 1165,
+      "reviews": 128
+    },
+    {
+      "title": "Romance of the Three Kingdoms, Vol. 2 of 2",
+      "url": "https://www.goodreads.com/book/show/561291.Romance_of_the_Three_Kingdoms_Vol_2_of_2",
+      "id": "70688785",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1364137727i/561291.jpg",
+      "authors": [
+        "Luo Guanzhong"
       ],
       "genres": [
         "fiction",
+        "classics",
         "historical-fiction",
         "china",
-        "literary-fiction",
-        "historical",
+        "chinese-literature",
         "asia",
-        "adult"
+        "literature"
       ],
-      "rating": 4.03,
-      "ratings": 888,
-      "reviews": 234
+      "rating": 4.38,
+      "ratings": 1165,
+      "reviews": 47
     },
     {
-      "title": "Immortal Ancient Builds a Bridge Leaving the Ninth Mountain",
-      "url": "https://www.goodreads.com/book/show/33861627-immortal-ancient-builds-a-bridge-leaving-the-ninth-mountain",
-      "id": "54812581",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1484478561i/33861627.jpg",
+      "title": "Nirvanic Rebirth. Blood Everywhere!",
+      "url": "https://www.goodreads.com/book/show/30977125-nirvanic-rebirth-blood-everywhere",
+      "id": "51597227",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1469338651i/30977125.jpg",
       "authors": [
         "Er Gen"
       ],
       "genres": [
         "fantasy",
         "light-novel",
-        "fiction",
         "china",
         "novels",
-        "magic",
+        "fiction",
         "asian-literature"
       ],
-      "rating": 4.41,
-      "ratings": 887,
-      "reviews": 17
+      "rating": 4.43,
+      "ratings": 1163,
+      "reviews": 22
     },
     {
-      "title": "Ten Green Bottles: The True Story of One Family's Journey from War-torn Austria to the Ghettos of Shanghai",
-      "url": "https://www.goodreads.com/book/show/540936.Ten_Green_Bottles",
-      "id": "528304",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1316130331i/540936.jpg",
+      "title": "A Chance of Sunshine",
+      "url": "https://www.goodreads.com/book/show/777405.A_Chance_of_Sunshine",
+      "id": "763434",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1178259864i/777405.jpg",
       "authors": [
-        "Vivian Jeanette Kaplan"
+        "Jimmy Liao"
       ],
       "genres": [
-        "non-fiction",
-        "history",
-        "holocaust",
+        "picture-books",
+        "romance",
+        "graphic-novels",
+        "fiction",
+        "comics",
         "china",
-        "memoir",
-        "world-war-ii",
+        "contemporary"
+      ],
+      "rating": 4.4,
+      "ratings": 1156,
+      "reviews": 168
+    },
+    {
+      "title": "Blood Money: Why the Powerful Turn a Blind Eye While China Kills Americans",
+      "url": "https://www.goodreads.com/book/show/134245114-blood-money",
+      "id": "151703665",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1709136906i/134245114.jpg",
+      "authors": [
+        "Peter Schweizer"
+      ],
+      "genres": [
+        "politics",
+        "non-fiction",
+        "china",
+        "history",
+        "audiobook",
+        "true-crime",
         "war"
       ],
-      "rating": 4.16,
-      "ratings": 878,
-      "reviews": 96
+      "rating": 4.37,
+      "ratings": 1154,
+      "reviews": 124
     },
     {
-      "title": "Red Carpet: Hollywood, China, and the Global Battle for Cultural Supremacy",
-      "url": "https://www.goodreads.com/book/show/59516186-red-carpet",
-      "id": "93739360",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1635814651i/59516186.jpg",
+      "title": "China's Economy: What Everyone Needs to Know",
+      "url": "https://www.goodreads.com/book/show/28192242-china-s-economy",
+      "id": "48217709",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1453682127i/28192242.jpg",
       "authors": [
-        "Erich Schwartzel"
+        "Arthur R. Kroeber"
+      ],
+      "genres": [
+        "china",
+        "economics",
+        "politics",
+        "business",
+        "non-fiction",
+        "history",
+        "asia"
+      ],
+      "rating": 4.26,
+      "ratings": 1142,
+      "reviews": 112
+    },
+    {
+      "title": "Lord of the Mysteries Volume 5",
+      "url": "https://www.goodreads.com/book/show/51995418-lord-of-the-mysteries-volume-5",
+      "id": "82696607",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1583135271i/51995418.jpg",
+      "authors": [
+        "Ai Qianshui de Wuzei"
+      ],
+      "genres": [
+        "fantasy",
+        "light-novel",
+        "mystery",
+        "horror",
+        "china",
+        "fiction",
+        "thriller"
+      ],
+      "rating": 4.73,
+      "ratings": 1135,
+      "reviews": 68
+    },
+    {
+      "title": "Nineteen Ways of Looking at Wang Wei: How a Chinese Poem is Translated",
+      "url": "https://www.goodreads.com/book/show/235926.Nineteen_Ways_of_Looking_at_Wang_Wei",
+      "id": "228508",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1668523855i/235926.jpg",
+      "authors": [
+        "Eliot Weinberger"
+      ],
+      "genres": [
+        "poetry",
+        "china",
+        "non-fiction",
+        "language",
+        "essays",
+        "school",
+        "criticism"
+      ],
+      "rating": 4.27,
+      "ratings": 1128,
+      "reviews": 222
+    },
+    {
+      "title": "Wish Lanterns: Young Lives in New China",
+      "url": "https://www.goodreads.com/book/show/29435404-wish-lanterns",
+      "id": "49702814",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1457326167i/29435404.jpg",
+      "authors": [
+        "Alec Ash"
       ],
       "genres": [
         "china",
         "non-fiction",
+        "asia",
         "politics",
-        "film",
         "history",
-        "business",
+        "audiobook",
         "cultural"
       ],
-      "rating": 4.22,
-      "ratings": 869,
-      "reviews": 122
+      "rating": 4.2,
+      "ratings": 1125,
+      "reviews": 147
+    },
+    {
+      "title": "Judge Dee at Work: Eight Chinese Detective Stories",
+      "url": "https://www.goodreads.com/book/show/499653.Judge_Dee_at_Work",
+      "id": "487768",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1345486299i/499653.jpg",
+      "authors": [
+        "Robert van Gulik"
+      ],
+      "genres": [
+        "mystery",
+        "historical-fiction",
+        "china",
+        "crime",
+        "fiction",
+        "short-stories",
+        "historical-mystery"
+      ],
+      "rating": 4.05,
+      "ratings": 1120,
+      "reviews": 68
+    },
+    {
+      "title": "Lord of the Mysteries Volume 4",
+      "url": "https://www.goodreads.com/book/show/51995408-lord-of-the-mysteries-volume-4",
+      "id": "83549550",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1583135226i/51995408.jpg",
+      "authors": [
+        "Ai Qianshui de Wuzei"
+      ],
+      "genres": [
+        "fantasy",
+        "mystery",
+        "light-novel",
+        "horror",
+        "china",
+        "fiction",
+        "adventure"
+      ],
+      "rating": 4.71,
+      "ratings": 1106,
+      "reviews": 56
+    },
+    {
+      "title": "The Long Game: China's Grand Strategy to Displace American Order",
+      "url": "https://www.goodreads.com/book/show/52617647-the-long-game",
+      "id": "78347198",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1603740666i/52617647.jpg",
+      "authors": [
+        "Rush Doshi"
+      ],
+      "genres": [
+        "china",
+        "politics",
+        "history",
+        "non-fiction",
+        "international-relations",
+        "economics",
+        "asia"
+      ],
+      "rating": 4.03,
+      "ratings": 1101,
+      "reviews": 145
+    },
+    {
+      "title": "Dragonblood",
+      "url": "https://www.goodreads.com/book/show/40882831-dragonblood",
+      "id": "63709768",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1532099151i/40882831.jpg",
+      "authors": [
+        "Wo Chi Xi Hong Shi"
+      ],
+      "genres": [
+        "fantasy",
+        "light-novel",
+        "magic",
+        "fiction",
+        "china"
+      ],
+      "rating": 4.44,
+      "ratings": 1094,
+      "reviews": 25
     },
     {
       "title": "Danger Zone: The Coming Conflict with China",
@@ -102,396 +477,29 @@
         "military-fiction"
       ],
       "rating": 4.09,
-      "ratings": 869,
-      "reviews": 89
+      "ratings": 1093,
+      "reviews": 104
     },
     {
-      "title": "Chuang Tsu: Inner Chapters",
-      "url": "https://www.goodreads.com/book/show/20948843-chuang-tsu",
-      "id": "345504",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1405982456i/20948843.jpg",
+      "title": "The Sound of Colors: A Journey of the Imagination",
+      "url": "https://www.goodreads.com/book/show/750456.The_Sound_of_Colors",
+      "id": "736593",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1344265410i/750456.jpg",
       "authors": [
-        "Zhuangzi"
-      ],
-      "genres": [
-        "philosophy",
-        "religion",
-        "taoism",
-        "china",
-        "spirituality",
-        "non-fiction",
-        "classics"
-      ],
-      "rating": 4.32,
-      "ratings": 851,
-      "reviews": 60
-    },
-    {
-      "title": "Hao: Stories",
-      "url": "https://www.goodreads.com/book/show/56993993-hao",
-      "id": "89160219",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1612892512i/56993993.jpg",
-      "authors": [
-        "Ye Chun"
-      ],
-      "genres": [
-        "short-stories",
-        "fiction",
-        "china",
-        "contemporary",
-        "historical-fiction",
-        "asian-literature",
-        "asia"
-      ],
-      "rating": 4.11,
-      "ratings": 848,
-      "reviews": 166
-    },
-    {
-      "title": "The Collected Songs of Cold Mountain",
-      "url": "https://www.goodreads.com/book/show/10921.The_Collected_Songs_of_Cold_Mountain",
-      "id": "13512",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328757968i/10921.jpg",
-      "authors": [
-        "Hanshan"
-      ],
-      "genres": [
-        "poetry",
-        "buddhism",
-        "china",
-        "classics",
-        "philosophy",
-        "literature",
-        "religion"
-      ],
-      "rating": 4.4,
-      "ratings": 840,
-      "reviews": 53
-    },
-    {
-      "title": "Out of the Gobi: My Story of China and America",
-      "url": "https://www.goodreads.com/book/show/39873868-out-of-the-gobi",
-      "id": "61679318",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1545972060i/39873868.jpg",
-      "authors": [
-        "Weijian Shan"
-      ],
-      "genres": [
-        "china",
-        "non-fiction",
-        "history",
-        "biography",
-        "memoir",
-        "biography-memoir",
-        "asia"
-      ],
-      "rating": 4.41,
-      "ratings": 838,
-      "reviews": 92
-    },
-    {
-      "title": "Mooncakes and Milk Bread: Sweet and Savory Recipes Inspired by Chinese Bakeries",
-      "url": "https://www.goodreads.com/book/show/55918609-mooncakes-and-milk-bread",
-      "id": "87129821",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1619544049i/55918609.jpg",
-      "authors": [
-        "Kristina Cho"
-      ],
-      "genres": [
-        "cookbooks",
-        "cooking",
-        "food",
-        "non-fiction",
-        "china",
-        "asia",
-        "asian-literature"
-      ],
-      "rating": 4.52,
-      "ratings": 834,
-      "reviews": 194
-    },
-    {
-      "title": "Gods of Yulan",
-      "url": "https://www.goodreads.com/book/show/40899591-gods-of-yulan",
-      "id": "63759813",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1532269593i/40899591.jpg",
-      "authors": [
-        "Wo Chi Xi Hong Shi"
-      ],
-      "genres": [
-        "fantasy",
-        "light-novel",
-        "china",
-        "novels"
-      ],
-      "rating": 4.45,
-      "ratings": 821,
-      "reviews": 18
-    },
-    {
-      "title": "Queen of Physics: How Wu Chien Shiung Helped Unlock the Secrets of the Atom (Volume 6)",
-      "url": "https://www.goodreads.com/book/show/43909181-queen-of-physics",
-      "id": "68327419",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1555766408i/43909181.jpg",
-      "authors": [
-        "Teresa Robeson"
+        "Jimmy Liao"
       ],
       "genres": [
         "picture-books",
-        "biography",
-        "science",
-        "non-fiction",
-        "history",
         "childrens",
+        "art",
+        "fiction",
+        "fantasy",
+        "graphic-novels",
         "china"
       ],
-      "rating": 4.34,
-      "ratings": 819,
-      "reviews": 201
-    },
-    {
-      "title": "The Perfect Police State: An Undercover Odyssey into China's Terrifying Surveillance Dystopia of the Future",
-      "url": "https://www.goodreads.com/book/show/55277916-the-perfect-police-state",
-      "id": "86199610",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1604379655i/55277916.jpg",
-      "authors": [
-        "Geoffrey Cain"
-      ],
-      "genres": [
-        "non-fiction",
-        "politics",
-        "china",
-        "history",
-        "technology",
-        "asia",
-        "science"
-      ],
-      "rating": 4.21,
-      "ratings": 811,
-      "reviews": 101
-    },
-    {
-      "title": "The Four Divine Beasts",
-      "url": "https://www.goodreads.com/book/show/40899385-the-four-divine-beasts",
-      "id": "63759196",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1532267360i/40899385.jpg",
-      "authors": [
-        "Wo Chi Xi Hong Shi"
-      ],
-      "genres": [
-        "fantasy",
-        "light-novel",
-        "magic",
-        "china",
-        "novels"
-      ],
-      "rating": 4.47,
-      "ratings": 800,
-      "reviews": 13
-    },
-    {
-      "title": "The Long Game: China's Grand Strategy to Displace American Order",
-      "url": "https://www.goodreads.com/book/show/52617647-the-long-game",
-      "id": "78347198",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1603740666i/52617647.jpg",
-      "authors": [
-        "Rush Doshi"
-      ],
-      "genres": [
-        "china",
-        "politics",
-        "non-fiction",
-        "history",
-        "international-relations",
-        "economics",
-        "political-science"
-      ],
-      "rating": 4.05,
-      "ratings": 797,
-      "reviews": 112
-    },
-    {
-      "title": "The Infernal Plane",
-      "url": "https://www.goodreads.com/book/show/40899390-the-infernal-plane",
-      "id": "63759212",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1532267424i/40899390.jpg",
-      "authors": [
-        "Wo Chi Xi Hong Shi"
-      ],
-      "genres": [
-        "fantasy",
-        "light-novel",
-        "china",
-        "novels"
-      ],
-      "rating": 4.45,
-      "ratings": 786,
-      "reviews": 14
-    },
-    {
-      "title": "Oculus: Poems",
-      "url": "https://www.goodreads.com/book/show/40121999-oculus",
-      "id": "62223081",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1528489686i/40121999.jpg",
-      "authors": [
-        "Sally Wen Mao"
-      ],
-      "genres": [
-        "poetry",
-        "non-fiction",
-        "feminism",
-        "china",
-        "race",
-        "21st-century",
-        "technology"
-      ],
-      "rating": 4.19,
-      "ratings": 786,
-      "reviews": 124
-    },
-    {
-      "title": "A Heart Divided",
-      "url": "https://www.goodreads.com/book/show/52407396-a-heart-divided",
-      "id": "44914635",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1620886793i/52407396.jpg",
-      "authors": [
-        "Jin Yong"
-      ],
-      "genres": [
-        "fantasy",
-        "fiction",
-        "historical-fiction",
-        "china",
-        "classics",
-        "historical",
-        "adventure"
-      ],
-      "rating": 4.46,
-      "ratings": 783,
-      "reviews": 90
-    },
-    {
-      "title": "Journey Across the Four Seas: A Chinese Woman's Search for Home",
-      "url": "https://www.goodreads.com/book/show/24563881-journey-across-the-four-seas",
-      "id": "235972",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1421605204i/24563881.jpg",
-      "authors": [
-        "Veronica Li"
-      ],
-      "genres": [
-        "non-fiction",
-        "china",
-        "memoir",
-        "history",
-        "biography",
-        "biography-memoir",
-        "asia"
-      ],
-      "rating": 4.24,
-      "ratings": 773,
-      "reviews": 79
-    },
-    {
-      "title": "The Planar Wars",
-      "url": "https://www.goodreads.com/book/show/40899590-the-planar-wars",
-      "id": "63759812",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1532269592i/40899590.jpg",
-      "authors": [
-        "Wo Chi Xi Hong Shi"
-      ],
-      "genres": [
-        "fantasy",
-        "light-novel",
-        "magic",
-        "china",
-        "novels"
-      ],
-      "rating": 4.49,
-      "ratings": 769,
-      "reviews": 11
-    },
-    {
-      "title": "Crystal Boys",
-      "url": "https://www.goodreads.com/book/show/857141.Crystal_Boys",
-      "id": "842595",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1178937381i/857141.jpg",
-      "authors": [
-        "Pai Hsien-yung"
-      ],
-      "genres": [
-        "fiction",
-        "lgbt",
-        "queer",
-        "asia",
-        "china",
-        "gay",
-        "literature"
-      ],
-      "rating": 4.32,
-      "ratings": 767,
-      "reviews": 110
-    },
-    {
-      "title": "1962: The War That Wasn't",
-      "url": "https://www.goodreads.com/book/show/28496753-1962",
-      "id": "48648079",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1452374766i/28496753.jpg",
-      "authors": [
-        "Shiv Kunal Verma"
-      ],
-      "genres": [
-        "history",
-        "non-fiction",
-        "india",
-        "war",
-        "military-fiction",
-        "military-history",
-        "china"
-      ],
-      "rating": 4.18,
-      "ratings": 767,
-      "reviews": 91
-    },
-    {
-      "title": "The Platform Sutra of the Sixth Patriarch",
-      "url": "https://www.goodreads.com/book/show/261463.The_Platform_Sutra_of_the_Sixth_Patriarch",
-      "id": "253428",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1387706395i/261463.jpg",
-      "authors": [
-        "Hui-Neng"
-      ],
-      "genres": [
-        "buddhism",
-        "philosophy",
-        "zen",
-        "religion",
-        "non-fiction",
-        "china",
-        "spirituality"
-      ],
-      "rating": 4.33,
-      "ratings": 766,
-      "reviews": 51
-    },
-    {
-      "title": "My Mountain and Sea Realm",
-      "url": "https://www.goodreads.com/book/show/35166228-my-mountain-and-sea-realm",
-      "id": "56496971",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1495114109i/35166228.jpg",
-      "authors": [
-        "Er Gen"
-      ],
-      "genres": [
-        "fantasy",
-        "light-novel",
-        "china",
-        "fiction",
-        "novels",
-        "tragedy"
-      ],
-      "rating": 4.34,
-      "ratings": 764,
-      "reviews": 16
+      "rating": 4.35,
+      "ratings": 1092,
+      "reviews": 180
     }
   ]
 }

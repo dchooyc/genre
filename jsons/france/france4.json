@@ -1,6 +1,90 @@
 {
   "books": [
     {
+      "title": "Qui a tué mon père",
+      "url": "https://www.goodreads.com/book/show/39735861-qui-a-tu-mon-p-re",
+      "id": "61430300",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1523036022i/39735861.jpg",
+      "authors": [
+        "Édouard Louis"
+      ],
+      "genres": [
+        "non-fiction",
+        "france",
+        "memoir",
+        "queer",
+        "biography",
+        "lgbt",
+        "politics"
+      ],
+      "rating": 4.17,
+      "ratings": 19986,
+      "reviews": 2138
+    },
+    {
+      "title": "Supermad",
+      "url": "https://www.goodreads.com/book/show/53939298-supermad",
+      "id": "84301476",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1591812286i/53939298.jpg",
+      "authors": [
+        "C.S. Quill"
+      ],
+      "genres": [
+        "romance",
+        "new-adult",
+        "forced-proximity",
+        "friends-to-lovers",
+        "college",
+        "france",
+        "young-adult"
+      ],
+      "rating": 4.28,
+      "ratings": 19474,
+      "reviews": 1765
+    },
+    {
+      "title": "Alex",
+      "url": "https://www.goodreads.com/book/show/10696997-alex",
+      "id": "15607063",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327267044i/10696997.jpg",
+      "authors": [
+        "Pierre Lemaitre"
+      ],
+      "genres": [
+        "thriller",
+        "crime",
+        "mystery",
+        "fiction",
+        "france",
+        "mystery-thriller",
+        "suspense"
+      ],
+      "rating": 4.09,
+      "ratings": 19209,
+      "reviews": 2559
+    },
+    {
+      "title": "A Woman's Story",
+      "url": "https://www.goodreads.com/book/show/59452779-a-woman-s-story",
+      "id": "388699",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1635228419i/59452779.jpg",
+      "authors": [
+        "Annie Ernaux"
+      ],
+      "genres": [
+        "non-fiction",
+        "memoir",
+        "france",
+        "biography",
+        "french-literature",
+        "nobel-prize",
+        "feminism"
+      ],
+      "rating": 4.25,
+      "ratings": 18815,
+      "reviews": 2556
+    },
+    {
       "title": "L'Assommoir",
       "url": "https://www.goodreads.com/book/show/92967.L_Assommoir",
       "id": "741363",
@@ -9,80 +93,38 @@
         "Émile Zola"
       ],
       "genres": [
-        "classics",
         "fiction",
         "france",
         "french-literature",
+        "classics",
         "19th-century",
         "literature",
         "historical-fiction"
       ],
       "rating": 4.08,
-      "ratings": 16834,
-      "reviews": 929
+      "ratings": 18810,
+      "reviews": 1083
     },
     {
-      "title": "The Direction of the Wind",
-      "url": "https://www.goodreads.com/book/show/61120646-the-direction-of-the-wind",
-      "id": "95416879",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1671475393i/61120646.jpg",
+      "title": "The Man Who Planted Trees",
+      "url": "https://www.goodreads.com/book/show/757438.The_Man_Who_Planted_Trees",
+      "id": "1078797",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320556166i/757438.jpg",
       "authors": [
-        "Mansi Shah"
+        "Jean Giono"
       ],
       "genres": [
         "fiction",
-        "historical-fiction",
-        "contemporary",
-        "india",
-        "france",
-        "cultural",
-        "historical"
-      ],
-      "rating": 4.09,
-      "ratings": 16774,
-      "reviews": 810
-    },
-    {
-      "title": "The Many Lives & Secret Sorrows of Josephine B.",
-      "url": "https://www.goodreads.com/book/show/70287.The_Many_Lives_Secret_Sorrows_of_Josephine_B_",
-      "id": "2901163",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1355931779i/70287.jpg",
-      "authors": [
-        "Sandra Gulland"
-      ],
-      "genres": [
-        "historical-fiction",
-        "fiction",
-        "france",
-        "historical",
-        "romance",
-        "french-revolution",
-        "18th-century"
-      ],
-      "rating": 4.11,
-      "ratings": 16765,
-      "reviews": 957
-    },
-    {
-      "title": "Inseparable",
-      "url": "https://www.goodreads.com/book/show/56197486-inseparable",
-      "id": "87099419",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1618278598i/56197486.jpg",
-      "authors": [
-        "Simone de Beauvoir"
-      ],
-      "genres": [
-        "fiction",
-        "feminism",
+        "short-stories",
         "classics",
         "france",
-        "historical-fiction",
-        "literary-fiction",
-        "queer"
+        "nature",
+        "french-literature",
+        "philosophy"
       ],
-      "rating": 4.09,
-      "ratings": 16652,
-      "reviews": 1981
+      "rating": 4.19,
+      "ratings": 18791,
+      "reviews": 2215
     },
     {
       "title": "At the Existentialist Café",
@@ -98,54 +140,96 @@
         "history",
         "biography",
         "france",
-        "psychology",
-        "politics"
+        "politics",
+        "psychology"
       ],
       "rating": 4.24,
-      "ratings": 16498,
-      "reviews": 2136
+      "ratings": 18611,
+      "reviews": 2375
     },
     {
-      "title": "The Designer",
-      "url": "https://www.goodreads.com/book/show/35210220-the-designer",
-      "id": "55829711",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1503334668i/35210220.jpg",
+      "title": "A Desperate Fortune",
+      "url": "https://www.goodreads.com/book/show/22221136-a-desperate-fortune",
+      "id": "26743157",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1434396165i/22221136.jpg",
       "authors": [
-        "Marius Gabriel"
+        "Susanna Kearsley"
+      ],
+      "genres": [
+        "historical-fiction",
+        "romance",
+        "fiction",
+        "historical",
+        "france",
+        "historical-romance",
+        "mystery"
+      ],
+      "rating": 4.03,
+      "ratings": 18458,
+      "reviews": 1945
+    },
+    {
+      "title": "Madeline and the Bad Hat",
+      "url": "https://www.goodreads.com/book/show/1027760.Madeline_and_the_Bad_Hat",
+      "id": "1092326",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1355497395i/1027760.jpg",
+      "authors": [
+        "Ludwig Bemelmans"
+      ],
+      "genres": [
+        "picture-books",
+        "childrens",
+        "fiction",
+        "classics",
+        "france",
+        "poetry",
+        "kids"
+      ],
+      "rating": 4.27,
+      "ratings": 18421,
+      "reviews": 200
+    },
+    {
+      "title": "The Direction of the Wind",
+      "url": "https://www.goodreads.com/book/show/61120646-the-direction-of-the-wind",
+      "id": "95416879",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1671475393i/61120646.jpg",
+      "authors": [
+        "Mansi Shah"
+      ],
+      "genres": [
+        "fiction",
+        "historical-fiction",
+        "contemporary",
+        "india",
+        "france",
+        "book-club",
+        "historical"
+      ],
+      "rating": 4.08,
+      "ratings": 18356,
+      "reviews": 898
+    },
+    {
+      "title": "The Paris Agent",
+      "url": "https://www.goodreads.com/book/show/62197599-the-paris-agent",
+      "id": "97875445",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1675355524i/62197599.jpg",
+      "authors": [
+        "Kelly Rimmer"
       ],
       "genres": [
         "historical-fiction",
         "fiction",
+        "world-war-ii",
         "historical",
-        "romance",
-        "fashion",
-        "france",
-        "world-war-ii"
-      ],
-      "rating": 4.05,
-      "ratings": 16392,
-      "reviews": 822
-    },
-    {
-      "title": "In Defense of Witches: The Legacy of the Witch Hunts and Why Women Are Still on Trial",
-      "url": "https://www.goodreads.com/book/show/57693411-in-defense-of-witches",
-      "id": "64101336",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1639950880i/57693411.jpg",
-      "authors": [
-        "Mona Chollet"
-      ],
-      "genres": [
-        "non-fiction",
-        "feminism",
-        "history",
-        "witches",
         "audiobook",
-        "france",
-        "womens"
+        "mystery",
+        "france"
       ],
       "rating": 4.12,
-      "ratings": 16188,
-      "reviews": 1718
+      "ratings": 18269,
+      "reviews": 1540
     },
     {
       "title": "The Rebel",
@@ -165,50 +249,8 @@
         "french-literature"
       ],
       "rating": 4.14,
-      "ratings": 15986,
-      "reviews": 807
-    },
-    {
-      "title": "Mythologies",
-      "url": "https://www.goodreads.com/book/show/51715.Mythologies",
-      "id": "882883",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1650106097i/51715.jpg",
-      "authors": [
-        "Roland Barthes"
-      ],
-      "genres": [
-        "philosophy",
-        "non-fiction",
-        "essays",
-        "theory",
-        "france",
-        "mythology",
-        "sociology"
-      ],
-      "rating": 4.09,
-      "ratings": 15862,
-      "reviews": 778
-    },
-    {
-      "title": "Barefoot in Paris",
-      "url": "https://www.goodreads.com/book/show/56913.Barefoot_in_Paris",
-      "id": "55442",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388185491i/56913.jpg",
-      "authors": [
-        "Ina Garten"
-      ],
-      "genres": [
-        "cookbooks",
-        "cooking",
-        "food",
-        "non-fiction",
-        "france",
-        "foodie",
-        "reference"
-      ],
-      "rating": 4.14,
-      "ratings": 15850,
-      "reviews": 166
+      "ratings": 18158,
+      "reviews": 1030
     },
     {
       "title": "Memoirs of a Dutiful Daughter",
@@ -228,50 +270,8 @@
         "france"
       ],
       "rating": 4.12,
-      "ratings": 15779,
-      "reviews": 1204
-    },
-    {
-      "title": "Babar the King",
-      "url": "https://www.goodreads.com/book/show/42407.Babar_the_King",
-      "id": "2094984",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386922352i/42407.jpg",
-      "authors": [
-        "Jean de Brunhoff"
-      ],
-      "genres": [
-        "childrens",
-        "picture-books",
-        "fiction",
-        "classics",
-        "animals",
-        "fantasy",
-        "france"
-      ],
-      "rating": 4.18,
-      "ratings": 15762,
-      "reviews": 67
-    },
-    {
-      "title": "Rien ne s'oppose à la nuit",
-      "url": "https://www.goodreads.com/book/show/12351695-rien-ne-s-oppose-la-nuit",
-      "id": "17331236",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327247619i/12351695.jpg",
-      "authors": [
-        "Delphine de Vigan"
-      ],
-      "genres": [
-        "france",
-        "non-fiction",
-        "roman",
-        "memoir",
-        "biography",
-        "french-literature",
-        "contemporary"
-      ],
-      "rating": 4.31,
-      "ratings": 15742,
-      "reviews": 1700
+      "ratings": 17830,
+      "reviews": 1429
     },
     {
       "title": "Demain",
@@ -282,38 +282,80 @@
         "Guillaume Musso"
       ],
       "genres": [
-        "romance",
         "fiction",
-        "france",
+        "romance",
         "thriller",
+        "france",
         "mystery",
         "novels",
         "roman"
       ],
-      "rating": 4.16,
-      "ratings": 15626,
-      "reviews": 1497
+      "rating": 4.15,
+      "ratings": 17630,
+      "reviews": 1626
     },
     {
-      "title": "The Man Who Planted Trees",
-      "url": "https://www.goodreads.com/book/show/757438.The_Man_Who_Planted_Trees",
-      "id": "1078797",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320556166i/757438.jpg",
+      "title": "La petite fille de Monsieur Linh",
+      "url": "https://www.goodreads.com/book/show/1071035.La_petite_fille_de_Monsieur_Linh",
+      "id": "1899771",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1180736768i/1071035.jpg",
       "authors": [
-        "Jean Giono"
+        "Philippe Claudel"
+      ],
+      "genres": [
+        "france",
+        "fiction",
+        "school",
+        "roman",
+        "french-literature",
+        "read-for-school",
+        "contemporary"
+      ],
+      "rating": 4.07,
+      "ratings": 17538,
+      "reviews": 2058
+    },
+    {
+      "title": "En attendant Bojangles",
+      "url": "https://www.goodreads.com/book/show/28477973-en-attendant-bojangles",
+      "id": "48619341",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1452171605i/28477973.jpg",
+      "authors": [
+        "Olivier Bourdeaut"
       ],
       "genres": [
         "fiction",
-        "short-stories",
-        "classics",
         "france",
-        "nature",
+        "romance",
+        "roman",
+        "contemporary",
         "french-literature",
-        "philosophy"
+        "novels"
       ],
-      "rating": 4.2,
-      "ratings": 15306,
-      "reviews": 1782
+      "rating": 4.22,
+      "ratings": 17459,
+      "reviews": 2276
+    },
+    {
+      "title": "The Many Lives & Secret Sorrows of Josephine B.",
+      "url": "https://www.goodreads.com/book/show/70287.The_Many_Lives_Secret_Sorrows_of_Josephine_B_",
+      "id": "2901163",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1355931779i/70287.jpg",
+      "authors": [
+        "Sandra Gulland"
+      ],
+      "genres": [
+        "historical-fiction",
+        "fiction",
+        "france",
+        "historical",
+        "book-club",
+        "romance",
+        "french-revolution"
+      ],
+      "rating": 4.11,
+      "ratings": 17198,
+      "reviews": 974
     },
     {
       "title": "In the Shadow of Young Girls in Flower",
@@ -333,71 +375,8 @@
         "20th-century"
       ],
       "rating": 4.39,
-      "ratings": 15038,
-      "reviews": 1385
-    },
-    {
-      "title": "Supermad",
-      "url": "https://www.goodreads.com/book/show/53939298-supermad",
-      "id": "84301476",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1591812286i/53939298.jpg",
-      "authors": [
-        "C.S. Quill"
-      ],
-      "genres": [
-        "romance",
-        "new-adult",
-        "college",
-        "france",
-        "young-adult",
-        "contemporary",
-        "campus"
-      ],
-      "rating": 4.34,
-      "ratings": 14782,
-      "reviews": 1346
-    },
-    {
-      "title": "Fables",
-      "url": "https://www.goodreads.com/book/show/1151331.Fables",
-      "id": "921500",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327265085i/1151331.jpg",
-      "authors": [
-        "Jean de la Fontaine"
-      ],
-      "genres": [
-        "classics",
-        "france",
-        "poetry",
-        "fiction",
-        "french-literature",
-        "short-stories",
-        "childrens"
-      ],
-      "rating": 4.03,
-      "ratings": 14709,
-      "reviews": 247
-    },
-    {
-      "title": "Leo Africanus",
-      "url": "https://www.goodreads.com/book/show/153496.Leo_Africanus",
-      "id": "2944320",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347281464i/153496.jpg",
-      "authors": [
-        "Amin Maalouf"
-      ],
-      "genres": [
-        "historical-fiction",
-        "fiction",
-        "novels",
-        "france",
-        "literature",
-        "historical",
-        "roman"
-      ],
-      "rating": 4.21,
-      "ratings": 14612,
-      "reviews": 1318
+      "ratings": 17187,
+      "reviews": 1669
     },
     {
       "title": "Au revoir là-haut",
@@ -411,56 +390,98 @@
         "fiction",
         "historical-fiction",
         "france",
-        "historical",
-        "war",
         "roman",
+        "war",
+        "historical",
         "french-literature"
       ],
-      "rating": 4.19,
-      "ratings": 14487,
-      "reviews": 1390
+      "rating": 4.21,
+      "ratings": 17162,
+      "reviews": 1579
     },
     {
-      "title": "Simulacra and Simulation",
-      "url": "https://www.goodreads.com/book/show/22613.Simulacra_and_Simulation",
-      "id": "850798",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1493479268i/22613.jpg",
+      "title": "The Designer",
+      "url": "https://www.goodreads.com/book/show/35210220-the-designer",
+      "id": "55829711",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1503334668i/35210220.jpg",
       "authors": [
-        "Jean Baudrillard"
+        "Marius Gabriel"
+      ],
+      "genres": [
+        "historical-fiction",
+        "fiction",
+        "historical",
+        "romance",
+        "fashion",
+        "france",
+        "world-war-ii"
+      ],
+      "rating": 4.05,
+      "ratings": 17065,
+      "reviews": 841
+    },
+    {
+      "title": "Un hiver pour te résister",
+      "url": "https://www.goodreads.com/book/show/148570244-un-hiver-pour-te-r-sister",
+      "id": "150356482",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1697967503i/148570244.jpg",
+      "authors": [
+        "Morgane Moncomble"
+      ],
+      "genres": [
+        "romance",
+        "new-adult",
+        "sports-romance",
+        "forced-proximity",
+        "france",
+        "contemporary",
+        "roman"
+      ],
+      "rating": 4.23,
+      "ratings": 17041,
+      "reviews": 2119
+    },
+    {
+      "title": "Mythologies",
+      "url": "https://www.goodreads.com/book/show/51715.Mythologies",
+      "id": "882883",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1714705703i/51715.jpg",
+      "authors": [
+        "Roland Barthes"
       ],
       "genres": [
         "philosophy",
         "non-fiction",
+        "essays",
         "theory",
-        "sociology",
         "france",
-        "academic",
-        "politics"
+        "mythology",
+        "sociology"
       ],
-      "rating": 4,
-      "ratings": 14473,
-      "reviews": 785
+      "rating": 4.08,
+      "ratings": 16833,
+      "reviews": 897
     },
     {
-      "title": "Perrault's Fairy Tales",
-      "url": "https://www.goodreads.com/book/show/630879.Perrault_s_Fairy_Tales",
-      "id": "1112492",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347874263i/630879.jpg",
+      "title": "O Conde de Monte Cristo I",
+      "url": "https://www.goodreads.com/book/show/36646061-o-conde-de-monte-cristo-i",
+      "id": "41399325",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1511421093i/36646061.jpg",
       "authors": [
-        "Charles Perrault"
+        "Alexandre Dumas"
       ],
       "genres": [
         "classics",
-        "fairy-tales",
-        "fantasy",
         "fiction",
-        "short-stories",
         "france",
-        "childrens"
+        "audiobook",
+        "historical-fiction",
+        "french-literature",
+        "adventure"
       ],
-      "rating": 4.11,
-      "ratings": 14455,
-      "reviews": 624
+      "rating": 4.53,
+      "ratings": 16832,
+      "reviews": 1292
     },
     {
       "title": "All the Flowers in Paris",
@@ -479,30 +500,9 @@
         "france",
         "audiobook"
       ],
-      "rating": 4.22,
-      "ratings": 14293,
-      "reviews": 1713
-    },
-    {
-      "title": "Las gratitudes",
-      "url": "https://www.goodreads.com/book/show/56591408-las-gratitudes",
-      "id": "68289321",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1610093616i/56591408.jpg",
-      "authors": [
-        "Delphine de Vigan"
-      ],
-      "genres": [
-        "fiction",
-        "france",
-        "contemporary",
-        "roman",
-        "novels",
-        "french-literature",
-        "drama"
-      ],
-      "rating": 4.29,
-      "ratings": 14240,
-      "reviews": 2318
+      "rating": 4.23,
+      "ratings": 16555,
+      "reviews": 1890
     }
   ]
 }

@@ -1,99 +1,483 @@
 {
   "books": [
     {
-      "title": "Terror on the Two-Lane",
-      "url": "https://www.goodreads.com/book/show/42206215-terror-on-the-two-lane",
-      "id": "65821447",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1538946015i/42206215.jpg",
+      "title": "Three Falls",
+      "url": "https://www.goodreads.com/book/show/218162002-three-falls",
+      "id": "205565642",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1724829791i/218162002.jpg",
       "authors": [
-        "David A. Simpson"
+        "Lou Vane"
+      ],
+      "genres": [
+        "dystopia",
+        "young-adult",
+        "fantasy",
+        "apocalyptic",
+        "romance"
+      ],
+      "rating": 4.47,
+      "ratings": 757,
+      "reviews": 87
+    },
+    {
+      "title": "Knot Your Problem",
+      "url": "https://www.goodreads.com/book/show/169758877-knot-your-problem",
+      "id": "179048388",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1685603414i/169758877.jpg",
+      "authors": [
+        "L.A. Clyne"
+      ],
+      "genres": [
+        "omegaverse",
+        "reverse-harem",
+        "romance",
+        "dystopia",
+        "fantasy",
+        "post-apocalyptic",
+        "why-choose"
+      ],
+      "rating": 4.28,
+      "ratings": 757,
+      "reviews": 51
+    },
+    {
+      "title": "Risen",
+      "url": "https://www.goodreads.com/book/show/62104861-risen",
+      "id": "97900432",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1661656792i/62104861.jpg",
+      "authors": [
+        "Shade Owens"
+      ],
+      "genres": [
+        "dystopia",
+        "fantasy",
+        "young-adult"
+      ],
+      "rating": 4.25,
+      "ratings": 757,
+      "reviews": 33
+    },
+    {
+      "title": "Angel of the Abyss",
+      "url": "https://www.goodreads.com/book/show/36171202-angel-of-the-abyss",
+      "id": "57784588",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1504395461i/36171202.jpg",
+      "authors": [
+        "Mark Goodwin"
+      ],
+      "genres": [
+        "fiction",
+        "christian",
+        "christian-fiction",
+        "faith",
+        "post-apocalyptic",
+        "thriller",
+        "dystopia"
+      ],
+      "rating": 4.64,
+      "ratings": 756,
+      "reviews": 42
+    },
+    {
+      "title": "Immersive",
+      "url": "https://www.goodreads.com/book/show/49079891-immersive",
+      "id": "74510648",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575331624i/49079891.jpg",
+      "authors": [
+        "Becky Moynihan"
+      ],
+      "genres": [
+        "dystopia",
+        "fantasy",
+        "audiobook",
+        "young-adult",
+        "science-fiction",
+        "romance"
+      ],
+      "rating": 4.31,
+      "ratings": 755,
+      "reviews": 71
+    },
+    {
+      "title": "The Complete Unwind Dystology: Unwind / UnWholly / UnSouled / UnDivided",
+      "url": "https://www.goodreads.com/book/show/20759445-the-complete-unwind-dystology",
+      "id": "40091986",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1397776291i/20759445.jpg",
+      "authors": [
+        "Neal Shusterman"
+      ],
+      "genres": [
+        "fiction",
+        "young-adult",
+        "science-fiction",
+        "dystopia",
+        "fantasy"
+      ],
+      "rating": 4.69,
+      "ratings": 753,
+      "reviews": 55
+    },
+    {
+      "title": "Outbreak",
+      "url": "https://www.goodreads.com/book/show/34820624-outbreak",
+      "id": "56041403",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1491614420i/34820624.jpg",
+      "authors": [
+        "Joshua C. Chadd"
+      ],
+      "genres": [
+        "zombies",
+        "post-apocalyptic",
+        "dystopia",
+        "christian",
+        "science-fiction",
+        "fiction",
+        "christian-fiction"
+      ],
+      "rating": 4.04,
+      "ratings": 753,
+      "reviews": 134
+    },
+    {
+      "title": "House of Verity: Die Ewigkeit stirbt nie",
+      "url": "https://www.goodreads.com/book/show/220949442-house-of-verity",
+      "id": "227901692",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1730136018i/220949442.jpg",
+      "authors": [
+        "Marah Woolf"
+      ],
+      "genres": [
+        "fantasy",
+        "romance",
+        "romantasy",
+        "audiobook",
+        "fiction",
+        "german-literature",
+        "dystopia"
+      ],
+      "rating": 4.28,
+      "ratings": 753,
+      "reviews": 64
+    },
+    {
+      "title": "The Art of the Last of Us Part II",
+      "url": "https://www.goodreads.com/book/show/53141949-the-art-of-the-last-of-us-part-ii",
+      "id": "73648375",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1580815728l/53141949.jpg",
+      "authors": [
+        "Naughty Dog"
+      ],
+      "genres": [
+        "art",
+        "non-fiction",
+        "video-games",
+        "post-apocalyptic",
+        "horror",
+        "dystopia",
+        "games"
+      ],
+      "rating": 4.64,
+      "ratings": 750,
+      "reviews": 89
+    },
+    {
+      "title": "Preserve: A dark dystopian thriller",
+      "url": "https://www.goodreads.com/book/show/199817991-preserve",
+      "id": "204398058",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1697390433i/199817991.jpg",
+      "authors": [
+        "Emma   Ellis"
+      ],
+      "genres": [
+        "dystopia",
+        "science-fiction",
+        "fiction"
+      ],
+      "rating": 4.18,
+      "ratings": 750,
+      "reviews": 48
+    },
+    {
+      "title": "Queen",
+      "url": "https://www.goodreads.com/book/show/211662343-queen",
+      "id": "217900240",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1718963226i/211662343.jpg",
+      "authors": [
+        "K.A. Riley"
+      ],
+      "genres": [
+        "dystopia",
+        "fantasy"
+      ],
+      "rating": 4.2,
+      "ratings": 750,
+      "reviews": 41
+    },
+    {
+      "title": "Deadland Rising",
+      "url": "https://www.goodreads.com/book/show/18857162-deadland-rising",
+      "id": "26818857",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1407160604i/18857162.jpg",
+      "authors": [
+        "Rachel Aukes"
+      ],
+      "genres": [
+        "zombies",
+        "horror",
+        "post-apocalyptic",
+        "apocalyptic",
+        "science-fiction",
+        "fiction",
+        "dystopia"
+      ],
+      "rating": 4.27,
+      "ratings": 749,
+      "reviews": 85
+    },
+    {
+      "title": "Apocalypse Redux, Book Five",
+      "url": "https://www.goodreads.com/book/show/199004875-apocalypse-redux-book-five",
+      "id": "202535535",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1694985977i/199004875.jpg",
+      "authors": [
+        "Jakob H. Greif"
+      ],
+      "genres": [
+        "fantasy",
+        "urban-fantasy",
+        "magic",
+        "time-travel",
+        "dystopia"
+      ],
+      "rating": 4.44,
+      "ratings": 748,
+      "reviews": 27
+    },
+    {
+      "title": "Ship of the Dead",
+      "url": "https://www.goodreads.com/book/show/21945950-ship-of-the-dead",
+      "id": "41250438",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1397785709i/21945950.jpg",
+      "authors": [
+        "John L.  Campbell"
+      ],
+      "genres": [
+        "zombies",
+        "horror",
+        "post-apocalyptic",
+        "fiction",
+        "apocalyptic",
+        "dystopia",
+        "survival"
+      ],
+      "rating": 4.08,
+      "ratings": 747,
+      "reviews": 76
+    },
+    {
+      "title": "Where The World Turns Wild",
+      "url": "https://www.goodreads.com/book/show/48807670-where-the-world-turns-wild",
+      "id": "74193230",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1573769762i/48807670.jpg",
+      "authors": [
+        "Nicola Penfold"
+      ],
+      "genres": [
+        "middle-grade",
+        "dystopia",
+        "fiction",
+        "science-fiction",
+        "adventure",
+        "childrens",
+        "nature"
+      ],
+      "rating": 4.21,
+      "ratings": 746,
+      "reviews": 113
+    },
+    {
+      "title": "1984: The Graphic Novel",
+      "url": "https://www.goodreads.com/book/show/57753973-1984",
+      "id": "231269705",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1618569644i/57753973.jpg",
+      "authors": [
+        "Matyáš Namai"
+      ],
+      "genres": [
+        "graphic-novels",
+        "classics",
+        "comics",
+        "fiction",
+        "dystopia",
+        "adult",
+        "science-fiction"
+      ],
+      "rating": 4.19,
+      "ratings": 743,
+      "reviews": 140
+    },
+    {
+      "title": "Ronan",
+      "url": "https://www.goodreads.com/book/show/228122864-ronan",
+      "id": "237180551",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1739873860i/228122864.jpg",
+      "authors": [
+        "G. Eilsel"
+      ],
+      "genres": [
+        "m-m-romance",
+        "paranormal",
+        "romance",
+        "fantasy",
+        "monsters",
+        "dystopia",
+        "post-apocalyptic"
+      ],
+      "rating": 4.24,
+      "ratings": 743,
+      "reviews": 154
+    },
+    {
+      "title": "Flying Season for the Mis-Recorded",
+      "url": "https://www.goodreads.com/book/show/20656700-flying-season-for-the-mis-recorded",
+      "id": "39953293",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1391096802i/20656700.jpg",
+      "authors": [
+        "Ann Christy"
+      ],
+      "genres": [
+        "science-fiction",
+        "fiction",
+        "dystopia",
+        "post-apocalyptic"
+      ],
+      "rating": 4.23,
+      "ratings": 741,
+      "reviews": 42
+    },
+    {
+      "title": "Blood Numbers",
+      "url": "https://www.goodreads.com/book/show/62339235-blood-numbers",
+      "id": "98155581",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1662694366i/62339235.jpg",
+      "authors": [
+        "C.F. Kreitzer"
+      ],
+      "genres": [
+        "dystopia",
+        "young-adult",
+        "romance",
+        "fantasy",
+        "science-fiction",
+        "fiction"
+      ],
+      "rating": 4.21,
+      "ratings": 740,
+      "reviews": 107
+    },
+    {
+      "title": "Coda, Vol. 3",
+      "url": "https://www.goodreads.com/book/show/43909514-coda-vol-3",
+      "id": "68327876",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1549839936i/43909514.jpg",
+      "authors": [
+        "Simon Spurrier"
+      ],
+      "genres": [
+        "comics",
+        "fantasy",
+        "graphic-novels",
+        "fiction",
+        "comic-book",
+        "dystopia",
+        "graphic-novels-comics"
+      ],
+      "rating": 4.28,
+      "ratings": 740,
+      "reviews": 94
+    },
+    {
+      "title": "Battle Angel Alita Deluxe Edition, Vol. 4",
+      "url": "https://www.goodreads.com/book/show/36500143-battle-angel-alita-deluxe-edition-vol-4",
+      "id": "58216777",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1515022259i/36500143.jpg",
+      "authors": [
+        "Yukito Kishiro"
+      ],
+      "genres": [
+        "manga",
+        "science-fiction",
+        "comics",
+        "graphic-novels",
+        "cyberpunk",
+        "dystopia",
+        "fantasy"
+      ],
+      "rating": 4.21,
+      "ratings": 740,
+      "reviews": 55
+    },
+    {
+      "title": "Outlasting After",
+      "url": "https://www.goodreads.com/book/show/50535650-outlasting-after",
+      "id": "69292568",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1579377651i/50535650.jpg",
+      "authors": [
+        "L.K. Magill"
+      ],
+      "genres": [
+        "romance",
+        "dystopia",
+        "post-apocalyptic",
+        "reverse-harem",
+        "science-fiction",
+        "m-m-romance",
+        "suspense"
+      ],
+      "rating": 4.04,
+      "ratings": 740,
+      "reviews": 86
+    },
+    {
+      "title": "Ruination",
+      "url": "https://www.goodreads.com/book/show/61068109-ruination",
+      "id": "96246048",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1652186458i/61068109.jpg",
+      "authors": [
+        "Courtney Konstantin"
       ],
       "genres": [
         "zombies",
         "horror",
         "dystopia",
         "post-apocalyptic",
-        "apocalyptic"
-      ],
-      "rating": 4.65,
-      "ratings": 503,
-      "reviews": 58
-    },
-    {
-      "title": "Quell",
-      "url": "https://www.goodreads.com/book/show/50215307-quell",
-      "id": "75125799",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1577805337i/50215307.jpg",
-      "authors": [
-        "Clare Littlemore"
-      ],
-      "genres": [
-        "dystopia",
-        "young-adult",
-        "post-apocalyptic",
+        "apocalyptic",
         "science-fiction"
       ],
-      "rating": 4.44,
-      "ratings": 503,
-      "reviews": 62
+      "rating": 4.66,
+      "ratings": 737,
+      "reviews": 49
     },
     {
-      "title": "Drift",
-      "url": "https://www.goodreads.com/book/show/44159484-drift",
-      "id": "68598814",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1551363457i/44159484.jpg",
+      "title": "The Syndicate",
+      "url": "https://www.goodreads.com/book/show/35385760-the-syndicate",
+      "id": "44807287",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1496873419i/35385760.jpg",
       "authors": [
-        "Clare Littlemore"
+        "Sophie  Davis"
       ],
       "genres": [
-        "dystopia",
+        "time-travel",
         "young-adult",
-        "science-fiction",
-        "post-apocalyptic"
-      ],
-      "rating": 4.28,
-      "ratings": 503,
-      "reviews": 54
-    },
-    {
-      "title": "Us Dark Few",
-      "url": "https://www.goodreads.com/book/show/174057601-us-dark-few",
-      "id": "181529488",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1686003678i/174057601.jpg",
-      "authors": [
-        "Alexis Patton"
-      ],
-      "genres": [
         "fantasy",
-        "dystopia",
         "science-fiction",
-        "post-apocalyptic",
         "romance",
-        "fantasy-romance",
-        "dark"
-      ],
-      "rating": 4.18,
-      "ratings": 501,
-      "reviews": 105
-    },
-    {
-      "title": "The Navigator",
-      "url": "https://www.goodreads.com/book/show/48505699-the-navigator",
-      "id": "50406156",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1571486563i/48505699.jpg",
-      "authors": [
-        "P.M.  Johnson"
-      ],
-      "genres": [
-        "science-fiction",
-        "amazon",
-        "thriller",
-        "fiction",
+        "mystery",
         "dystopia"
       ],
-      "rating": 4.26,
-      "ratings": 500,
-      "reviews": 46
+      "rating": 4.39,
+      "ratings": 737,
+      "reviews": 224
     }
   ]
 }

@@ -1,55 +1,484 @@
 {
   "books": [
     {
-      "title": "The Scorpion's Strike",
-      "url": "https://www.goodreads.com/book/show/38190343-the-scorpion-s-strike",
-      "id": "59855296",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1550988608i/38190343.jpg",
+      "title": "Citroeninkt",
+      "url": "https://www.goodreads.com/book/show/123225171-citroeninkt",
+      "id": "144564617",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1678567614i/123225171.jpg",
       "authors": [
-        "Anthony Riches"
+        "Maral Noshad Sharifi"
+      ],
+      "genres": [
+        "fiction",
+        "roman",
+        "contemporary",
+        "literature",
+        "middle-east"
+      ],
+      "rating": 4.16,
+      "ratings": 966,
+      "reviews": 116
+    },
+    {
+      "title": "Le Complot des corbeaux",
+      "url": "https://www.goodreads.com/book/show/34625991-le-complot-des-corbeaux",
+      "id": "55785131",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1489953714i/34625991.jpg",
+      "authors": [
+        "Ariel Holzl"
+      ],
+      "genres": [
+        "fantasy",
+        "young-adult",
+        "france",
+        "audiobook",
+        "urban-fantasy",
+        "roman",
+        "fiction"
+      ],
+      "rating": 4,
+      "ratings": 963,
+      "reviews": 153
+    },
+    {
+      "title": "The Great Revolt",
+      "url": "https://www.goodreads.com/book/show/23368713-the-great-revolt",
+      "id": "42927850",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1421924717i/23368713.jpg",
+      "authors": [
+        "S.J.A. Turney"
+      ],
+      "genres": [
+        "historical-fiction",
+        "fiction",
+        "historical",
+        "roman"
+      ],
+      "rating": 4.57,
+      "ratings": 961,
+      "reviews": 24
+    },
+    {
+      "title": "The Centurions",
+      "url": "https://www.goodreads.com/book/show/40631782-the-centurions",
+      "id": "34617",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1529902017i/40631782.jpg",
+      "authors": [
+        "Damion Hunter"
+      ],
+      "genres": [
+        "historical-fiction",
+        "fiction",
+        "roman",
+        "war",
+        "ancient",
+        "historical"
+      ],
+      "rating": 4.27,
+      "ratings": 958,
+      "reviews": 41
+    },
+    {
+      "title": "Julian",
+      "url": "https://www.goodreads.com/book/show/49502677-julian",
+      "id": "72839048",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1567514119l/49502677.jpg",
+      "authors": [
+        "Fleur Pierets"
+      ],
+      "genres": [
+        "non-fiction",
+        "lgbt",
+        "queer",
+        "biography",
+        "gay",
+        "roman",
+        "lesbian"
+      ],
+      "rating": 4.25,
+      "ratings": 956,
+      "reviews": 156
+    },
+    {
+      "title": "L'ami arménien",
+      "url": "https://www.goodreads.com/book/show/56581597-l-ami-arm-nien",
+      "id": "88372338",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1610009511i/56581597.jpg",
+      "authors": [
+        "Andreï Makine"
+      ],
+      "genres": [
+        "fiction",
+        "russia",
+        "roman",
+        "france",
+        "french-literature",
+        "historical-fiction"
+      ],
+      "rating": 4.06,
+      "ratings": 953,
+      "reviews": 119
+    },
+    {
+      "title": "Bergland",
+      "url": "https://www.goodreads.com/book/show/58144674-bergland",
+      "id": "91139894",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1621889779i/58144674.jpg",
+      "authors": [
+        "Jarka Kubsova"
+      ],
+      "genres": [
+        "german-literature",
+        "historical-fiction",
+        "fiction",
+        "contemporary",
+        "historical",
+        "roman",
+        "modern"
+      ],
+      "rating": 4.33,
+      "ratings": 950,
+      "reviews": 103
+    },
+    {
+      "title": "Die Kunst des Verschwindens",
+      "url": "https://www.goodreads.com/book/show/61759868-die-kunst-des-verschwindens",
+      "id": "97379046",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1658987380i/61759868.jpg",
+      "authors": [
+        "Melanie Raabe"
+      ],
+      "genres": [
+        "contemporary",
+        "german-literature",
+        "roman",
+        "fiction",
+        "thriller"
+      ],
+      "rating": 4.02,
+      "ratings": 950,
+      "reviews": 101
+    },
+    {
+      "title": "Epigrams",
+      "url": "https://www.goodreads.com/book/show/144091.Epigrams",
+      "id": "139013",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320414668i/144091.jpg",
+      "authors": [
+        "Marcus Valerius Martialis"
+      ],
+      "genres": [
+        "poetry",
+        "classics",
+        "history",
+        "roman",
+        "non-fiction",
+        "literature",
+        "ancient"
+      ],
+      "rating": 4.01,
+      "ratings": 950,
+      "reviews": 76
+    },
+    {
+      "title": "Me Before You and After You Boxed Set",
+      "url": "https://www.goodreads.com/book/show/30687550-me-before-you-and-after-you-boxed-set",
+      "id": "51230977",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1471281667i/30687550.jpg",
+      "authors": [
+        "Jojo Moyes"
+      ],
+      "genres": [
+        "romance",
+        "roman",
+        "fiction"
+      ],
+      "rating": 4.39,
+      "ratings": 944,
+      "reviews": 39
+    },
+    {
+      "title": "Bult",
+      "url": "https://www.goodreads.com/book/show/52089733-bult",
+      "id": "76893091",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1583349591i/52089733.jpg",
+      "authors": [
+        "Marieke De Maré"
+      ],
+      "genres": [
+        "roman",
+        "dutch-literature"
+      ],
+      "rating": 4.19,
+      "ratings": 941,
+      "reviews": 155
+    },
+    {
+      "title": "Morgen mach ich bessere Fehler",
+      "url": "https://www.goodreads.com/book/show/49168015-morgen-mach-ich-bessere-fehler",
+      "id": "74616080",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575883823i/49168015.jpg",
+      "authors": [
+        "Petra Hülsmann"
+      ],
+      "genres": [
+        "audiobook",
+        "romance",
+        "german-literature",
+        "contemporary",
+        "roman",
+        "summer",
+        "adult"
+      ],
+      "rating": 4.06,
+      "ratings": 933,
+      "reviews": 99
+    },
+    {
+      "title": "Eux",
+      "url": "https://www.goodreads.com/book/show/20887338-eux",
+      "id": "40229186",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1393107054i/20887338.jpg",
+      "authors": [
+        "Patrick Isabelle"
+      ],
+      "genres": [
+        "france",
+        "school",
+        "young-adult",
+        "fiction",
+        "roman",
+        "contemporary"
+      ],
+      "rating": 4.04,
+      "ratings": 931,
+      "reviews": 115
+    },
+    {
+      "title": "Hades' Gate",
+      "url": "https://www.goodreads.com/book/show/18040198-hades-gate",
+      "id": "25269354",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1471314505i/18040198.jpg",
+      "authors": [
+        "S.J.A. Turney"
+      ],
+      "genres": [
+        "historical-fiction",
+        "fiction",
+        "historical",
+        "roman",
+        "war"
+      ],
+      "rating": 4.46,
+      "ratings": 930,
+      "reviews": 25
+    },
+    {
+      "title": "A Suitable Boy, Vol. 1",
+      "url": "https://www.goodreads.com/book/show/1166135.A_Suitable_Boy",
+      "id": "44095251",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1408939736i/1166135.jpg",
+      "authors": [
+        "Vikram Seth"
+      ],
+      "genres": [
+        "fiction",
+        "india",
+        "historical-fiction",
+        "classics",
+        "audiobook",
+        "romance",
+        "roman"
+      ],
+      "rating": 4.17,
+      "ratings": 930,
+      "reviews": 75
+    },
+    {
+      "title": "Roman Warfare",
+      "url": "https://www.goodreads.com/book/show/1322523.Roman_Warfare",
+      "id": "2038771",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328035300i/1322523.jpg",
+      "authors": [
+        "Adrian Goldsworthy"
+      ],
+      "genres": [
+        "history",
+        "ancient-history",
+        "non-fiction",
+        "military-history",
+        "military-fiction",
+        "war",
+        "roman"
+      ],
+      "rating": 4.06,
+      "ratings": 927,
+      "reviews": 56
+    },
+    {
+      "title": "Eagles of Dacia",
+      "url": "https://www.goodreads.com/book/show/36574518-eagles-of-dacia",
+      "id": "58316692",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1511176627i/36574518.jpg",
+      "authors": [
+        "S.J.A. Turney"
       ],
       "genres": [
         "historical-fiction",
         "historical",
         "fiction",
+        "audiobook",
+        "ancient",
+        "war",
         "roman"
       ],
-      "rating": 4.4,
-      "ratings": 509,
-      "reviews": 19
+      "rating": 4.42,
+      "ratings": 927,
+      "reviews": 31
     },
     {
-      "title": "La banalité d'un tir",
-      "url": "https://www.goodreads.com/book/show/60847378-la-banalit-d-un-tir",
-      "id": "95958853",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1650401109i/60847378.jpg",
+      "title": "Die Gespenster von Demmin",
+      "url": "https://www.goodreads.com/book/show/54952176-die-gespenster-von-demmin",
+      "id": "85719982",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1597724979i/54952176.jpg",
       "authors": [
-        "Mali Navia"
-      ],
-      "genres": [
-        "roman",
-        "fiction"
-      ],
-      "rating": 4.49,
-      "ratings": 502,
-      "reviews": 79
-    },
-    {
-      "title": "Nachts erzähle ich dir alles",
-      "url": "https://www.goodreads.com/book/show/198810678-nachts-erz-hle-ich-dir-alles",
-      "id": "148998696",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1694202864i/198810678.jpg",
-      "authors": [
-        "Anika Landsteiner"
+        "Verena Keßler"
       ],
       "genres": [
         "fiction",
+        "contemporary",
+        "germany",
+        "coming-of-age",
         "german-literature",
+        "roman",
+        "young-adult"
+      ],
+      "rating": 4.03,
+      "ratings": 926,
+      "reviews": 111
+    },
+    {
+      "title": "Island of Ghosts",
+      "url": "https://www.goodreads.com/book/show/146691.Island_of_Ghosts",
+      "id": "1881700",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1312019920i/146691.jpg",
+      "authors": [
+        "Gillian Bradshaw"
+      ],
+      "genres": [
+        "historical-fiction",
+        "fiction",
+        "historical",
+        "roman",
+        "roman-britain",
+        "fantasy",
+        "british-literature"
+      ],
+      "rating": 4.18,
+      "ratings": 926,
+      "reviews": 102
+    },
+    {
+      "title": "Wovon du träumst",
+      "url": "https://www.goodreads.com/book/show/35967441-wovon-du-tr-umst",
+      "id": "57529011",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1502255539i/35967441.jpg",
+      "authors": [
+        "Kira Gembri"
+      ],
+      "genres": [
+        "romance",
+        "contemporary",
+        "young-adult",
+        "love",
+        "fiction",
+        "roman",
+        "german-literature"
+      ],
+      "rating": 4.2,
+      "ratings": 925,
+      "reviews": 43
+    },
+    {
+      "title": "Le Démon de la colline aux loups",
+      "url": "https://www.goodreads.com/book/show/56583233-le-d-mon-de-la-colline-aux-loups",
+      "id": "88374400",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1610026415i/56583233.jpg",
+      "authors": [
+        "Dimitri Rouchon-Borie"
+      ],
+      "genres": [
+        "france",
+        "fiction",
+        "thriller",
+        "contemporary",
         "roman"
       ],
-      "rating": 4.04,
-      "ratings": 501,
-      "reviews": 81
+      "rating": 4.39,
+      "ratings": 922,
+      "reviews": 148
+    },
+    {
+      "title": "Unser Deutschlandmärchen",
+      "url": "https://www.goodreads.com/book/show/121133494-unser-deutschlandm-rchen",
+      "id": "99930916",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1681583426i/121133494.jpg",
+      "authors": [
+        "Dinçer Güçyeter"
+      ],
+      "genres": [
+        "german-literature",
+        "fiction",
+        "roman",
+        "germany",
+        "novels",
+        "audiobook",
+        "literary-fiction"
+      ],
+      "rating": 4.18,
+      "ratings": 921,
+      "reviews": 87
+    },
+    {
+      "title": "Sword of Rome",
+      "url": "https://www.goodreads.com/book/show/17288675-sword-of-rome",
+      "id": "23909861",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1385271386i/17288675.jpg",
+      "authors": [
+        "Douglas     Jackson"
+      ],
+      "genres": [
+        "historical-fiction",
+        "roman",
+        "historical",
+        "fiction",
+        "ancient",
+        "action"
+      ],
+      "rating": 4.36,
+      "ratings": 920,
+      "reviews": 44
+    },
+    {
+      "title": "Liam et la carte d'éternité",
+      "url": "https://www.goodreads.com/book/show/18113367-liam-et-la-carte-d-ternit",
+      "id": "25440330",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1372065084i/18113367.jpg",
+      "authors": [
+        "Evelyne Brisou-Pellen"
+      ],
+      "genres": [
+        "fantasy",
+        "france",
+        "young-adult",
+        "roman",
+        "fiction",
+        "childrens",
+        "middle-grade"
+      ],
+      "rating": 4.08,
+      "ratings": 920,
+      "reviews": 61
     }
   ]
 }

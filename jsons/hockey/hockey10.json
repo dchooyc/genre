@@ -1,109 +1,445 @@
 {
   "books": [
     {
-      "title": "Hendrix",
-      "url": "https://www.goodreads.com/book/show/55705829-hendrix",
-      "id": "86875336",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1602987044i/55705829.jpg",
+      "title": "Erik",
+      "url": "https://www.goodreads.com/book/show/38650935-erik",
+      "id": "60262032",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1522195969i/38650935.jpg",
+      "authors": [
+        "Sawyer Bennett"
+      ],
+      "genres": [
+        "romance",
+        "sports",
+        "sports-romance",
+        "hockey",
+        "contemporary-romance",
+        "hockey-romance",
+        "audiobook"
+      ],
+      "rating": 4.04,
+      "ratings": 5178,
+      "reviews": 540
+    },
+    {
+      "title": "Taking His Shot",
+      "url": "https://www.goodreads.com/book/show/50052452-taking-his-shot",
+      "id": "73364478",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1584549751i/50052452.jpg",
+      "authors": [
+        "Kendall Ryan"
+      ],
+      "genres": [
+        "romance",
+        "sports-romance",
+        "sports",
+        "hockey",
+        "hockey-romance",
+        "contemporary",
+        "audiobook"
+      ],
+      "rating": 4.07,
+      "ratings": 5175,
+      "reviews": 393
+    },
+    {
+      "title": "Made for Us",
+      "url": "https://www.goodreads.com/book/show/61947479-made-for-us",
+      "id": "97585888",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1680541006i/61947479.jpg",
+      "authors": [
+        "Natasha Madison"
+      ],
+      "genres": [
+        "sports",
+        "sports-romance",
+        "hockey",
+        "romance",
+        "friends-to-lovers",
+        "hockey-romance",
+        "contemporary"
+      ],
+      "rating": 4.22,
+      "ratings": 5138,
+      "reviews": 451
+    },
+    {
+      "title": "Brogan",
+      "url": "https://www.goodreads.com/book/show/59810434-brogan",
+      "id": "94203203",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1639347998i/59810434.jpg",
       "authors": [
         "Samantha Whiskey"
       ],
       "genres": [
         "sports-romance",
         "sports",
+        "hockey",
+        "hockey-romance",
         "romance",
-        "football",
+        "contemporary",
+        "contemporary-romance"
+      ],
+      "rating": 4.2,
+      "ratings": 5093,
+      "reviews": 244
+    },
+    {
+      "title": "The Forbidden Freshman",
+      "url": "https://www.goodreads.com/book/show/199914912-the-forbidden-freshman",
+      "id": "186479055",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1697675430i/199914912.jpg",
+      "authors": [
+        "Katy Archer"
+      ],
+      "genres": [
+        "hockey",
+        "sports",
+        "romance",
+        "sports-romance",
+        "college",
+        "hockey-romance",
+        "contemporary"
+      ],
+      "rating": 4.16,
+      "ratings": 5083,
+      "reviews": 329
+    },
+    {
+      "title": "The Playing Game",
+      "url": "https://www.goodreads.com/book/show/59490765-the-playing-game",
+      "id": "93706698",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1667947253i/59490765.jpg",
+      "authors": [
+        "Ainsley Booth"
+      ],
+      "genres": [
+        "romance",
+        "sports",
+        "sports-romance",
+        "hockey",
+        "hockey-romance",
+        "contemporary-romance",
+        "contemporary"
+      ],
+      "rating": 4,
+      "ratings": 5067,
+      "reviews": 534
+    },
+    {
+      "title": "Made for Me",
+      "url": "https://www.goodreads.com/book/show/60444942-made-for-me",
+      "id": "95252520",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1649427907i/60444942.jpg",
+      "authors": [
+        "Natasha Madison"
+      ],
+      "genres": [
+        "friends-to-lovers",
+        "sports-romance",
+        "sports",
+        "romance",
+        "hockey",
+        "hockey-romance",
+        "contemporary"
+      ],
+      "rating": 4.27,
+      "ratings": 5047,
+      "reviews": 440
+    },
+    {
+      "title": "Don't Puck With My Heart",
+      "url": "https://www.goodreads.com/book/show/123026072-don-t-puck-with-my-heart",
+      "id": "144321622",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1687746208i/123026072.jpg",
+      "authors": [
+        "Sarah   Blue"
+      ],
+      "genres": [
+        "omegaverse",
+        "hockey",
+        "sports",
+        "sports-romance",
+        "reverse-harem",
+        "why-choose",
+        "romance"
+      ],
+      "rating": 4.09,
+      "ratings": 5034,
+      "reviews": 488
+    },
+    {
+      "title": "Dominik",
+      "url": "https://www.goodreads.com/book/show/44787099-dominik",
+      "id": "69435820",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1554414441i/44787099.jpg",
+      "authors": [
+        "Sawyer Bennett"
+      ],
+      "genres": [
+        "romance",
+        "sports",
+        "sports-romance",
+        "hockey",
         "contemporary-romance",
         "contemporary",
-        "hockey"
+        "audiobook"
+      ],
+      "rating": 4.11,
+      "ratings": 5014,
+      "reviews": 587
+    },
+    {
+      "title": "Runaway Bride and Prejudice",
+      "url": "https://www.goodreads.com/book/show/217517030-runaway-bride-and-prejudice",
+      "id": "224029570",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1724067278i/217517030.jpg",
+      "authors": [
+        "Emma St. Clair"
+      ],
+      "genres": [
+        "romance",
+        "sports-romance",
+        "sports",
+        "hockey",
+        "contemporary",
+        "hockey-romance",
+        "fiction"
       ],
       "rating": 4.3,
-      "ratings": 2861,
-      "reviews": 165
+      "ratings": 4996,
+      "reviews": 647
     },
     {
-      "title": "Hat Trick",
-      "url": "https://www.goodreads.com/book/show/38451368-hat-trick",
-      "id": "59593817",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1518016649i/38451368.jpg",
+      "title": "Bombshells",
+      "url": "https://www.goodreads.com/book/show/57210610-bombshells",
+      "id": "88962405",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1614308702i/57210610.jpg",
       "authors": [
-        "Maria Luis"
+        "Sarina Bowen"
       ],
       "genres": [
+        "romance",
         "sports-romance",
         "sports",
         "hockey",
-        "romance",
-        "contemporary-romance",
-        "contemporary",
-        "new-adult"
-      ],
-      "rating": 4.07,
-      "ratings": 2814,
-      "reviews": 220
-    },
-    {
-      "title": "Playboy Playmaker",
-      "url": "https://www.goodreads.com/book/show/75660061-playboy-playmaker",
-      "id": "92951562",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1673907522i/75660061.jpg",
-      "authors": [
-        "Maren Moore"
-      ],
-      "genres": [
-        "sports-romance",
-        "hockey",
-        "sports",
-        "romance",
-        "college",
-        "contemporary",
-        "contemporary-romance"
-      ],
-      "rating": 4.03,
-      "ratings": 2796,
-      "reviews": 427
-    },
-    {
-      "title": "Broody Devil",
-      "url": "https://www.goodreads.com/book/show/58747548-broody-devil",
-      "id": "92477188",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1646600824i/58747548.jpg",
-      "authors": [
-        "Melissa Ivers"
-      ],
-      "genres": [
-        "hockey",
-        "sports",
-        "sports-romance",
-        "romance",
         "contemporary",
         "contemporary-romance",
-        "marriage"
+        "friends-to-lovers"
+      ],
+      "rating": 4.17,
+      "ratings": 4930,
+      "reviews": 528
+    },
+    {
+      "title": "Legend",
+      "url": "https://www.goodreads.com/book/show/40211080-legend",
+      "id": "62429415",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1528295980i/40211080.jpg",
+      "authors": [
+        "Sawyer Bennett"
+      ],
+      "genres": [
+        "romance",
+        "sports",
+        "sports-romance",
+        "hockey",
+        "contemporary-romance",
+        "enemies-to-lovers",
+        "audiobook"
       ],
       "rating": 4.14,
-      "ratings": 2779,
-      "reviews": 294
+      "ratings": 4924,
+      "reviews": 541
     },
     {
-      "title": "The Rookie",
-      "url": "https://www.goodreads.com/book/show/58875081-the-rookie",
-      "id": "89076928",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1630158105i/58875081.jpg",
+      "title": "Laces and Lace",
+      "url": "https://www.goodreads.com/book/show/21623991-laces-and-lace",
+      "id": "40932607",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1413476950i/21623991.jpg",
       "authors": [
-        "Kendall Ryan"
+        "Toni Aleo"
       ],
       "genres": [
         "romance",
         "sports",
         "sports-romance",
         "hockey",
-        "contemporary",
-        "audiobook",
-        "contemporary-romance"
+        "contemporary-romance",
+        "hockey-romance",
+        "contemporary"
       ],
-      "rating": 4.01,
-      "ratings": 2768,
-      "reviews": 323
+      "rating": 4.15,
+      "ratings": 4921,
+      "reviews": 385
+    },
+    {
+      "title": "Only One Forever",
+      "url": "https://www.goodreads.com/book/show/56793549-only-one-forever",
+      "id": "88779940",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1635975021i/56793549.jpg",
+      "authors": [
+        "Natasha Madison"
+      ],
+      "genres": [
+        "friends-to-lovers",
+        "sports-romance",
+        "sports",
+        "hockey",
+        "romance",
+        "hockey-romance",
+        "audiobook"
+      ],
+      "rating": 4.4,
+      "ratings": 4883,
+      "reviews": 454
+    },
+    {
+      "title": "Sterling",
+      "url": "https://www.goodreads.com/book/show/56420662-sterling",
+      "id": "87972560",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1608980171i/56420662.jpg",
+      "authors": [
+        "Samantha Whiskey"
+      ],
+      "genres": [
+        "sports-romance",
+        "sports",
+        "hockey",
+        "hockey-romance",
+        "romance",
+        "contemporary-romance",
+        "contemporary"
+      ],
+      "rating": 4.12,
+      "ratings": 4873,
+      "reviews": 249
+    },
+    {
+      "title": "Empty Net",
+      "url": "https://www.goodreads.com/book/show/30368400-empty-net",
+      "id": "50880651",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1466517432i/30368400.jpg",
+      "authors": [
+        "Avon Gale"
+      ],
+      "genres": [
+        "m-m-romance",
+        "sports",
+        "romance",
+        "hockey",
+        "contemporary",
+        "sports-romance",
+        "enemies-to-lovers"
+      ],
+      "rating": 4.13,
+      "ratings": 4863,
+      "reviews": 676
+    },
+    {
+      "title": "Our Pucking Way",
+      "url": "https://www.goodreads.com/book/show/202671054-our-pucking-way",
+      "id": "208180004",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1711404186i/202671054.jpg",
+      "authors": [
+        "C.R. Jane"
+      ],
+      "genres": [
+        "hockey",
+        "sports",
+        "reverse-harem",
+        "dark-romance",
+        "sports-romance",
+        "why-choose",
+        "romance"
+      ],
+      "rating": 4,
+      "ratings": 4854,
+      "reviews": 486
+    },
+    {
+      "title": "Cement Heart",
+      "url": "https://www.goodreads.com/book/show/22676848-cement-heart",
+      "id": "42186612",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1469813737i/22676848.jpg",
+      "authors": [
+        "Beth Ehemann"
+      ],
+      "genres": [
+        "romance",
+        "sports",
+        "contemporary-romance",
+        "sports-romance",
+        "hockey",
+        "contemporary",
+        "friends-to-lovers"
+      ],
+      "rating": 4.15,
+      "ratings": 4826,
+      "reviews": 534
+    },
+    {
+      "title": "Never Say Never",
+      "url": "https://www.goodreads.com/book/show/204730528-never-say-never",
+      "id": "210644480",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1712886351i/204730528.jpg",
+      "authors": [
+        "Jennifer Sucevic"
+      ],
+      "genres": [
+        "hockey",
+        "romance",
+        "sports-romance",
+        "sports",
+        "hockey-romance",
+        "college",
+        "college-romance"
+      ],
+      "rating": 4.07,
+      "ratings": 4813,
+      "reviews": 315
+    },
+    {
+      "title": "The Boys of Winter: The Untold Story of a Coach, a Dream, and the 1980 U.S. Olympic Hockey Team",
+      "url": "https://www.goodreads.com/book/show/434877.The_Boys_of_Winter",
+      "id": "423810",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1353948812i/434877.jpg",
+      "authors": [
+        "Wayne Coffey"
+      ],
+      "genres": [
+        "sports",
+        "non-fiction",
+        "hockey",
+        "history",
+        "biography",
+        "audiobook",
+        "historical"
+      ],
+      "rating": 4.2,
+      "ratings": 4773,
+      "reviews": 458
+    },
+    {
+      "title": "Dirty Hookup",
+      "url": "https://www.goodreads.com/book/show/52875814-dirty-hookup",
+      "id": "73767087",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1573495061l/52875814.jpg",
+      "authors": [
+        "Mira Lyn Kelly"
+      ],
+      "genres": [
+        "romance",
+        "sports-romance",
+        "sports",
+        "hockey",
+        "audiobook",
+        "hockey-romance",
+        "enemies-to-lovers"
+      ],
+      "rating": 4,
+      "ratings": 4719,
+      "reviews": 450
     },
     {
       "title": "Lost Boy",
@@ -116,393 +452,57 @@
       "genres": [
         "hockey",
         "sports-romance",
+        "hockey-romance",
         "sports",
         "romance",
         "college",
-        "new-adult",
-        "tragedy"
+        "forced-proximity"
+      ],
+      "rating": 4.21,
+      "ratings": 4705,
+      "reviews": 461
+    },
+    {
+      "title": "Only One Love",
+      "url": "https://www.goodreads.com/book/show/56793542-only-one-love",
+      "id": "88779930",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1632403919i/56793542.jpg",
+      "authors": [
+        "Natasha Madison"
+      ],
+      "genres": [
+        "sports-romance",
+        "sports",
+        "hockey",
+        "romance",
+        "hockey-romance",
+        "audiobook",
+        "contemporary"
       ],
       "rating": 4.31,
-      "ratings": 2741,
-      "reviews": 358
+      "ratings": 4641,
+      "reviews": 399
     },
     {
-      "title": "Don't Puck With My Heart",
-      "url": "https://www.goodreads.com/book/show/123026072-don-t-puck-with-my-heart",
-      "id": "144321622",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1687746208i/123026072.jpg",
+      "title": "Lucky Score",
+      "url": "https://www.goodreads.com/book/show/214011888-lucky-score",
+      "id": "211726348",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1717039390i/214011888.jpg",
       "authors": [
-        "Sarah   Blue"
-      ],
-      "genres": [
-        "omegaverse",
-        "sports",
-        "hockey",
-        "sports-romance",
-        "reverse-harem",
-        "romance",
-        "m-m-f"
-      ],
-      "rating": 4.16,
-      "ratings": 2740,
-      "reviews": 307
-    },
-    {
-      "title": "Holding the Reins",
-      "url": "https://www.goodreads.com/book/show/203538344-holding-the-reins",
-      "id": "209277448",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1702126718i/203538344.jpg",
-      "authors": [
-        "Paisley  Hope"
-      ],
-      "genres": [
-        "romance",
-        "westerns",
-        "hockey",
-        "sports-romance",
-        "sports",
-        "contemporary",
-        "contemporary-romance"
-      ],
-      "rating": 4.16,
-      "ratings": 2737,
-      "reviews": 583
-    },
-    {
-      "title": "Puck Aholic",
-      "url": "https://www.goodreads.com/book/show/34815640-puck-aholic",
-      "id": "56034988",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1492057608i/34815640.jpg",
-      "authors": [
-        "Lili Valente"
-      ],
-      "genres": [
-        "romance",
-        "sports",
-        "sports-romance",
-        "hockey",
-        "contemporary",
-        "contemporary-romance",
-        "audiobook"
-      ],
-      "rating": 4.02,
-      "ratings": 2729,
-      "reviews": 219
-    },
-    {
-      "title": "Dirty Rebound",
-      "url": "https://www.goodreads.com/book/show/54624993-dirty-rebound",
-      "id": "79776171",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1595349661i/54624993.jpg",
-      "authors": [
-        "Mira Lyn Kelly"
-      ],
-      "genres": [
-        "sports-romance",
-        "sports",
-        "romance",
-        "hockey",
-        "contemporary-romance",
-        "contemporary",
-        "audiobook"
-      ],
-      "rating": 4.13,
-      "ratings": 2695,
-      "reviews": 327
-    },
-    {
-      "title": "Steele",
-      "url": "https://www.goodreads.com/book/show/51206086-steele",
-      "id": "75962738",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1581534887i/51206086.jpg",
-      "authors": [
-        "Sawyer Bennett"
-      ],
-      "genres": [
-        "romance",
-        "sports",
-        "sports-romance",
-        "hockey",
-        "contemporary-romance",
-        "contemporary",
-        "audiobook"
-      ],
-      "rating": 4.08,
-      "ratings": 2690,
-      "reviews": 360
-    },
-    {
-      "title": "On the Line",
-      "url": "https://www.goodreads.com/book/show/203043570-on-the-line",
-      "id": "145235719",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1701435601i/203043570.jpg",
-      "authors": [
-        "Julia  Connors"
+        "Kenna King"
       ],
       "genres": [
         "hockey",
-        "sports",
         "sports-romance",
+        "hockey-romance",
         "romance",
-        "contemporary-romance",
+        "sports",
         "contemporary",
         "fiction"
       ],
-      "rating": 4.11,
-      "ratings": 2662,
-      "reviews": 172
-    },
-    {
-      "title": "Cutie Pie",
-      "url": "https://www.goodreads.com/book/show/58747356-cutie-pie",
-      "id": "88773312",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1628656533i/58747356.jpg",
-      "authors": [
-        "Nichole Rose"
-      ],
-      "genres": [
-        "sports-romance",
-        "sports",
-        "romance",
-        "hockey",
-        "novella",
-        "contemporary",
-        "contemporary-romance"
-      ],
-      "rating": 4,
-      "ratings": 2653,
-      "reviews": 236
-    },
-    {
-      "title": "The Playing Game",
-      "url": "https://www.goodreads.com/book/show/59490765-the-playing-game",
-      "id": "93706698",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1667947253i/59490765.jpg",
-      "authors": [
-        "Ainsley Booth"
-      ],
-      "genres": [
-        "sports",
-        "romance",
-        "hockey",
-        "sports-romance",
-        "contemporary",
-        "contemporary-romance",
-        "adult"
-      ],
-      "rating": 4.13,
-      "ratings": 2626,
-      "reviews": 350
-    },
-    {
-      "title": "Drake",
-      "url": "https://www.goodreads.com/book/show/60542433-drake",
-      "id": "93648725",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1646320521i/60542433.jpg",
-      "authors": [
-        "Sawyer Bennett"
-      ],
-      "genres": [
-        "romance",
-        "sports",
-        "sports-romance",
-        "hockey",
-        "contemporary-romance",
-        "contemporary",
-        "audiobook"
-      ],
-      "rating": 4.23,
-      "ratings": 2618,
-      "reviews": 378
-    },
-    {
-      "title": "Gage",
-      "url": "https://www.goodreads.com/book/show/59525370-gage",
-      "id": "93648702",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1635906675i/59525370.jpg",
-      "authors": [
-        "Sawyer Bennett"
-      ],
-      "genres": [
-        "romance",
-        "sports",
-        "sports-romance",
-        "hockey",
-        "contemporary-romance",
-        "contemporary",
-        "audiobook"
-      ],
-      "rating": 4.17,
-      "ratings": 2618,
-      "reviews": 338
-    },
-    {
-      "title": "Must Love Hockey",
-      "url": "https://www.goodreads.com/book/show/59062566-must-love-hockey",
-      "id": "93129452",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1645597004i/59062566.jpg",
-      "authors": [
-        "Sarina Bowen"
-      ],
-      "genres": [
-        "romance",
-        "sports",
-        "sports-romance",
-        "novella",
-        "hockey",
-        "contemporary",
-        "contemporary-romance"
-      ],
-      "rating": 4.02,
-      "ratings": 2576,
-      "reviews": 247
-    },
-    {
-      "title": "Like You've Nothing Left to Prove",
-      "url": "https://www.goodreads.com/book/show/122760468-like-you-ve-nothing-left-to-prove",
-      "id": "144028977",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1676752588i/122760468.jpg",
-      "authors": [
-        "E.L. Massey"
-      ],
-      "genres": [
-        "romance",
-        "sports",
-        "lgbt",
-        "queer",
-        "hockey",
-        "contemporary",
-        "m-m-romance"
-      ],
-      "rating": 4.41,
-      "ratings": 2575,
-      "reviews": 392
-    },
-    {
-      "title": "Man Down",
-      "url": "https://www.goodreads.com/book/show/198970537-man-down",
-      "id": "73779052",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1694505572i/198970537.jpg",
-      "authors": [
-        "Kate Meader"
-      ],
-      "genres": [
-        "romance",
-        "sports",
-        "sports-romance",
-        "contemporary-romance",
-        "contemporary",
-        "hockey",
-        "adult"
-      ],
-      "rating": 4.12,
-      "ratings": 2535,
-      "reviews": 379
-    },
-    {
-      "title": "Misadventures of a Rookie",
-      "url": "https://www.goodreads.com/book/show/35565556-misadventures-of-a-rookie",
-      "id": "56994891",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1498949480i/35565556.jpg",
-      "authors": [
-        "Toni Aleo"
-      ],
-      "genres": [
-        "romance",
-        "sports",
-        "sports-romance",
-        "hockey",
-        "new-adult",
-        "contemporary-romance",
-        "audiobook"
-      ],
-      "rating": 4.11,
-      "ratings": 2535,
-      "reviews": 554
-    },
-    {
-      "title": "Call Me Indian: From the Trauma of Residential School to Becoming the NHL's First Treaty Indigenous Player",
-      "url": "https://www.goodreads.com/book/show/55655496-call-me-indian",
-      "id": "86787820",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1605572498i/55655496.jpg",
-      "authors": [
-        "Fred Sasakamoose"
-      ],
-      "genres": [
-        "non-fiction",
-        "sports",
-        "canada",
-        "memoir",
-        "biography",
-        "hockey",
-        "history"
-      ],
-      "rating": 4.48,
-      "ratings": 2508,
-      "reviews": 198
-    },
-    {
-      "title": "Home & Away",
-      "url": "https://www.goodreads.com/book/show/25690047-home-away",
-      "id": "45518458",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1433796465i/25690047.jpg",
-      "authors": [
-        "Samantha Wayland"
-      ],
-      "genres": [
-        "m-m-romance",
-        "sports",
-        "romance",
-        "hockey",
-        "contemporary",
-        "sports-romance",
-        "m-m-sports-romance"
-      ],
-      "rating": 4.22,
-      "ratings": 2492,
-      "reviews": 392
-    },
-    {
-      "title": "All You Need",
-      "url": "https://www.goodreads.com/book/show/30201192-all-you-need",
-      "id": "50652538",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1469408068i/30201192.jpg",
-      "authors": [
-        "Lorelei James"
-      ],
-      "genres": [
-        "romance",
-        "sports",
-        "contemporary-romance",
-        "contemporary",
-        "sports-romance",
-        "audiobook",
-        "hockey"
-      ],
-      "rating": 4.16,
-      "ratings": 2477,
-      "reviews": 311
-    },
-    {
-      "title": "Unfair Game",
-      "url": "https://www.goodreads.com/book/show/123212085-unfair-game",
-      "id": "144539188",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1680965009i/123212085.jpg",
-      "authors": [
-        "Susan   Renee"
-      ],
-      "genres": [
-        "hockey",
-        "sports-romance",
-        "sports",
-        "romance",
-        "contemporary",
-        "abuse",
-        "new-adult"
-      ],
-      "rating": 4.16,
-      "ratings": 2464,
-      "reviews": 116
+      "rating": 4.09,
+      "ratings": 4618,
+      "reviews": 158
     }
   ]
 }

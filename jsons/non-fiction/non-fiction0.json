@@ -1,25 +1,25 @@
 {
   "books": [
     {
-      "title": "The Diary of a Young Girl",
-      "url": "https://www.goodreads.com/book/show/48855.The_Diary_of_a_Young_Girl",
+      "title": "The Diary of Anne Frank: The Revised Critical Edition",
+      "url": "https://www.goodreads.com/book/show/5511.The_Diary_of_Anne_Frank",
       "id": "3532896",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1560816565i/48855.jpg",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1389666860i/5511.jpg",
       "authors": [
         "Anne Frank"
       ],
       "genres": [
         "classics",
         "non-fiction",
+        "history",
         "biography",
         "memoir",
         "historical",
-        "holocaust",
-        "autobiography"
+        "holocaust"
       ],
-      "rating": 4.19,
-      "ratings": 3731281,
-      "reviews": 41659
+      "rating": 4.2,
+      "ratings": 4085586,
+      "reviews": 46985
     },
     {
       "title": "Educated",
@@ -32,15 +32,57 @@
       "genres": [
         "non-fiction",
         "memoir",
+        "book-club",
         "biography",
         "audiobook",
         "biography-memoir",
-        "autobiography",
-        "book-club"
+        "autobiography"
       ],
       "rating": 4.47,
-      "ratings": 1525723,
-      "reviews": 108818
+      "ratings": 1781998,
+      "reviews": 126835
+    },
+    {
+      "title": "I'm Glad My Mom Died",
+      "url": "https://www.goodreads.com/book/show/59364173-i-m-glad-my-mom-died",
+      "id": "93537110",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1649286799i/59364173.jpg",
+      "authors": [
+        "Jennette McCurdy"
+      ],
+      "genres": [
+        "non-fiction",
+        "memoir",
+        "audiobook",
+        "biography",
+        "autobiography",
+        "mental-health",
+        "book-club"
+      ],
+      "rating": 4.44,
+      "ratings": 1362993,
+      "reviews": 135982
+    },
+    {
+      "title": "Night",
+      "url": "https://www.goodreads.com/book/show/1617.Night",
+      "id": "265616",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1709507006i/1617.jpg",
+      "authors": [
+        "Elie Wiesel"
+      ],
+      "genres": [
+        "non-fiction",
+        "classics",
+        "history",
+        "memoir",
+        "school",
+        "holocaust",
+        "biography"
+      ],
+      "rating": 4.38,
+      "ratings": 1337200,
+      "reviews": 41466
     },
     {
       "title": "Steve Jobs",
@@ -55,34 +97,13 @@
         "non-fiction",
         "business",
         "technology",
+        "audiobook",
         "history",
-        "biography-memoir",
-        "audiobook"
+        "biography-memoir"
       ],
-      "rating": 4.16,
-      "ratings": 1246284,
-      "reviews": 21632
-    },
-    {
-      "title": "Night",
-      "url": "https://www.goodreads.com/book/show/1617.Night",
-      "id": "265616",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1709507006i/1617.jpg",
-      "authors": [
-        "Elie Wiesel"
-      ],
-      "genres": [
-        "non-fiction",
-        "classics",
-        "memoir",
-        "holocaust",
-        "biography",
-        "school",
-        "historical"
-      ],
-      "rating": 4.37,
-      "ratings": 1244779,
-      "reviews": 37885
+      "rating": 4.15,
+      "ratings": 1334088,
+      "reviews": 23163
     },
     {
       "title": "The Glass Castle",
@@ -95,15 +116,57 @@
       "genres": [
         "non-fiction",
         "memoir",
+        "book-club",
         "biography",
         "biography-memoir",
         "autobiography",
-        "book-club",
         "audiobook"
       ],
-      "rating": 4.31,
-      "ratings": 1212382,
-      "reviews": 63083
+      "rating": 4.32,
+      "ratings": 1329529,
+      "reviews": 70036
+    },
+    {
+      "title": "Sapiens: A Brief History of Humankind",
+      "url": "https://www.goodreads.com/book/show/23692271-sapiens",
+      "id": "18962767",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1703329310i/23692271.jpg",
+      "authors": [
+        "Yuval Noah Harari"
+      ],
+      "genres": [
+        "non-fiction",
+        "history",
+        "science",
+        "audiobook",
+        "philosophy",
+        "anthropology",
+        "psychology"
+      ],
+      "rating": 4.34,
+      "ratings": 1208017,
+      "reviews": 60109
+    },
+    {
+      "title": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
+      "url": "https://www.goodreads.com/book/show/40121378-atomic-habits",
+      "id": "62221762",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1655988385i/40121378.jpg",
+      "authors": [
+        "James Clear"
+      ],
+      "genres": [
+        "non-fiction",
+        "self-help",
+        "psychology",
+        "audiobook",
+        "personal-development",
+        "productivity",
+        "business"
+      ],
+      "rating": 4.33,
+      "ratings": 1201310,
+      "reviews": 72668
     },
     {
       "title": "Into the Wild",
@@ -117,14 +180,14 @@
         "non-fiction",
         "biography",
         "adventure",
+        "travel",
         "classics",
         "memoir",
-        "nature",
-        "school"
+        "nature"
       ],
-      "rating": 4.01,
-      "ratings": 1090237,
-      "reviews": 28627
+      "rating": 4.02,
+      "ratings": 1168614,
+      "reviews": 32140
     },
     {
       "title": "Becoming",
@@ -139,37 +202,16 @@
         "memoir",
         "biography",
         "audiobook",
+        "book-club",
         "autobiography",
-        "politics",
-        "biography-memoir"
+        "politics"
       ],
-      "rating": 4.46,
-      "ratings": 1047757,
-      "reviews": 67414
+      "rating": 4.44,
+      "ratings": 1164251,
+      "reviews": 71009
     },
     {
-      "title": "Sapiens: A Brief History of Humankind",
-      "url": "https://www.goodreads.com/book/show/23692271-sapiens",
-      "id": "18962767",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1703329310i/23692271.jpg",
-      "authors": [
-        "Yuval Noah Harari"
-      ],
-      "genres": [
-        "non-fiction",
-        "history",
-        "science",
-        "philosophy",
-        "anthropology",
-        "audiobook",
-        "psychology"
-      ],
-      "rating": 4.36,
-      "ratings": 1027813,
-      "reviews": 53521
-    },
-    {
-      "title": "Tuesdays with Morrie",
+      "title": "Tuesdays with Morrie: An Old Man, a Young Man, and Life's Greatest Lesson",
       "url": "https://www.goodreads.com/book/show/6900.Tuesdays_with_Morrie",
       "id": "1995335",
       "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1423763749i/6900.jpg",
@@ -181,16 +223,16 @@
         "memoir",
         "biography",
         "classics",
-        "inspirational",
+        "self-help",
         "philosophy",
-        "self-help"
+        "inspirational"
       ],
-      "rating": 4.17,
-      "ratings": 1027261,
-      "reviews": 39752
+      "rating": 4.2,
+      "ratings": 1159365,
+      "reviews": 51574
     },
     {
-      "title": "How to Win Friends and Influence People",
+      "title": "How to Win Friends & Influence People",
       "url": "https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People",
       "id": "2370171",
       "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442726934i/4865.jpg",
@@ -207,35 +249,14 @@
         "communication"
       ],
       "rating": 4.22,
-      "ratings": 979791,
-      "reviews": 24899
+      "ratings": 1114563,
+      "reviews": 28832
     },
     {
-      "title": "I'm Glad My Mom Died",
-      "url": "https://www.goodreads.com/book/show/59364173-i-m-glad-my-mom-died",
-      "id": "93537110",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1649286799i/59364173.jpg",
-      "authors": [
-        "Jennette McCurdy"
-      ],
-      "genres": [
-        "non-fiction",
-        "memoir",
-        "audiobook",
-        "biography",
-        "mental-health",
-        "autobiography",
-        "adult"
-      ],
-      "rating": 4.47,
-      "ratings": 965720,
-      "reviews": 102277
-    },
-    {
-      "title": "Unbroken: A World War II Story of Survival, Resilience and Redemption",
-      "url": "https://www.goodreads.com/book/show/8664353-unbroken",
+      "title": "Unbroken: An Olympian's Journey from Airman to Castaway to Captive",
+      "url": "https://www.goodreads.com/book/show/21965110-unbroken",
       "id": "12946965",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327861115i/8664353.jpg",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1414348977i/21965110.jpg",
       "authors": [
         "Laura Hillenbrand"
       ],
@@ -243,35 +264,14 @@
         "non-fiction",
         "history",
         "biography",
+        "book-club",
         "world-war-ii",
         "war",
-        "historical",
-        "audiobook"
+        "historical"
       ],
-      "rating": 4.38,
-      "ratings": 934771,
-      "reviews": 50361
-    },
-    {
-      "title": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
-      "url": "https://www.goodreads.com/book/show/40121378-atomic-habits",
-      "id": "62221762",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1655988385i/40121378.jpg",
-      "authors": [
-        "James Clear"
-      ],
-      "genres": [
-        "non-fiction",
-        "self-help",
-        "psychology",
-        "personal-development",
-        "productivity",
-        "audiobook",
-        "business"
-      ],
-      "rating": 4.36,
-      "ratings": 870075,
-      "reviews": 55185
+      "rating": 4.39,
+      "ratings": 990860,
+      "reviews": 52743
     },
     {
       "title": "Freakonomics: A Rogue Economist Explores the Hidden Side of Everything",
@@ -291,8 +291,50 @@
         "finance"
       ],
       "rating": 4.01,
-      "ratings": 851201,
-      "reviews": 19229
+      "ratings": 887065,
+      "reviews": 20240
+    },
+    {
+      "title": "Wild: From Lost to Found on the Pacific Crest Trail",
+      "url": "https://www.goodreads.com/book/show/12262741-wild",
+      "id": "17237712",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1453189881i/12262741.jpg",
+      "authors": [
+        "Cheryl Strayed"
+      ],
+      "genres": [
+        "non-fiction",
+        "memoir",
+        "book-club",
+        "travel",
+        "biography",
+        "adventure",
+        "audiobook"
+      ],
+      "rating": 4.07,
+      "ratings": 852427,
+      "reviews": 49545
+    },
+    {
+      "title": "Outliers: The Story of Success",
+      "url": "https://www.goodreads.com/book/show/3228917-outliers",
+      "id": "3364437",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1344266315i/3228917.jpg",
+      "authors": [
+        "Malcolm Gladwell"
+      ],
+      "genres": [
+        "non-fiction",
+        "psychology",
+        "business",
+        "self-help",
+        "sociology",
+        "audiobook",
+        "science"
+      ],
+      "rating": 4.19,
+      "ratings": 848038,
+      "reviews": 34695
     },
     {
       "title": "The Tipping Point: How Little Things Can Make a Big Difference",
@@ -309,53 +351,32 @@
         "self-help",
         "sociology",
         "science",
-        "economics"
+        "audiobook"
       ],
-      "rating": 4,
-      "ratings": 814330,
-      "reviews": 16131
+      "rating": 4.01,
+      "ratings": 845345,
+      "reviews": 17187
     },
     {
-      "title": "Wild: From Lost to Found on the Pacific Crest Trail",
-      "url": "https://www.goodreads.com/book/show/12262741-wild",
-      "id": "17237712",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1453189881i/12262741.jpg",
+      "title": "Man's Search for Meaning",
+      "url": "https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning",
+      "id": "3389674",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1535419394i/4069.jpg",
       "authors": [
-        "Cheryl Strayed"
-      ],
-      "genres": [
-        "non-fiction",
-        "memoir",
-        "travel",
-        "biography",
-        "adventure",
-        "audiobook",
-        "biography-memoir"
-      ],
-      "rating": 4.06,
-      "ratings": 796797,
-      "reviews": 46852
-    },
-    {
-      "title": "Outliers: The Story of Success",
-      "url": "https://www.goodreads.com/book/show/3228917-outliers",
-      "id": "3364437",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1344266315i/3228917.jpg",
-      "authors": [
-        "Malcolm Gladwell"
+        "Viktor E. Frankl"
       ],
       "genres": [
         "non-fiction",
         "psychology",
-        "business",
+        "philosophy",
+        "history",
         "self-help",
-        "sociology",
-        "science",
-        "audiobook"
+        "memoir",
+        "biography"
       ],
-      "rating": 4.19,
-      "ratings": 786130,
-      "reviews": 32568
+      "rating": 4.37,
+      "ratings": 836823,
+      "reviews": 46620
     },
     {
       "title": "The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change",
@@ -375,8 +396,8 @@
         "productivity"
       ],
       "rating": 4.16,
-      "ratings": 740332,
-      "reviews": 14739
+      "ratings": 803857,
+      "reviews": 16215
     },
     {
       "title": "The Immortal Life of Henrietta Lacks",
@@ -389,15 +410,78 @@
       "genres": [
         "non-fiction",
         "science",
+        "book-club",
         "history",
         "biography",
+        "audiobook",
+        "medicine"
+      ],
+      "rating": 4.13,
+      "ratings": 789059,
+      "reviews": 43709
+    },
+    {
+      "title": "Born a Crime: Stories From a South African Childhood",
+      "url": "https://www.goodreads.com/book/show/29780253-born-a-crime",
+      "id": "50150838",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1473867911i/29780253.jpg",
+      "authors": [
+        "Trevor Noah"
+      ],
+      "genres": [
+        "non-fiction",
+        "memoir",
+        "biography",
+        "audiobook",
+        "book-club",
+        "humor",
+        "autobiography"
+      ],
+      "rating": 4.49,
+      "ratings": 781737,
+      "reviews": 61814
+    },
+    {
+      "title": "When Breath Becomes Air",
+      "url": "https://www.goodreads.com/book/show/25899336-when-breath-becomes-air",
+      "id": "45424659",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1492677644i/25899336.jpg",
+      "authors": [
+        "Paul Kalanithi"
+      ],
+      "genres": [
+        "non-fiction",
+        "memoir",
+        "biography",
         "medicine",
+        "book-club",
         "audiobook",
         "medical"
       ],
-      "rating": 4.12,
-      "ratings": 735170,
-      "reviews": 40954
+      "rating": 4.41,
+      "ratings": 771088,
+      "reviews": 60414
+    },
+    {
+      "title": "The Devil in the White City: Murder, Magic, and Madness at the Fair That Changed America",
+      "url": "https://www.goodreads.com/book/show/397483.The_Devil_in_the_White_City",
+      "id": "3486041",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1583433024i/397483.jpg",
+      "authors": [
+        "Erik Larson"
+      ],
+      "genres": [
+        "non-fiction",
+        "history",
+        "true-crime",
+        "book-club",
+        "crime",
+        "historical",
+        "mystery"
+      ],
+      "rating": 4,
+      "ratings": 741907,
+      "reviews": 43759
     },
     {
       "title": "Me Talk Pretty One Day",
@@ -414,95 +498,11 @@
         "short-stories",
         "comedy",
         "humor",
-        "biography"
-      ],
-      "rating": 4.01,
-      "ratings": 698894,
-      "reviews": 20004
-    },
-    {
-      "title": "Born a Crime: Stories From a South African Childhood",
-      "url": "https://www.goodreads.com/book/show/29780253-born-a-crime",
-      "id": "50150838",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1473867911i/29780253.jpg",
-      "authors": [
-        "Trevor Noah"
-      ],
-      "genres": [
-        "non-fiction",
-        "memoir",
-        "biography",
-        "audiobook",
-        "humor",
-        "autobiography",
-        "africa"
-      ],
-      "rating": 4.49,
-      "ratings": 693566,
-      "reviews": 56204
-    },
-    {
-      "title": "The Devil in the White City: Murder, Magic, and Madness at the Fair That Changed America",
-      "url": "https://www.goodreads.com/book/show/397483.The_Devil_in_the_White_City",
-      "id": "3486041",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1583433024i/397483.jpg",
-      "authors": [
-        "Erik Larson"
-      ],
-      "genres": [
-        "non-fiction",
-        "history",
-        "true-crime",
-        "crime",
-        "historical",
-        "mystery",
         "audiobook"
       ],
-      "rating": 4,
-      "ratings": 682609,
-      "reviews": 40332
-    },
-    {
-      "title": "When Breath Becomes Air",
-      "url": "https://www.goodreads.com/book/show/25899336-when-breath-becomes-air",
-      "id": "45424659",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1492677644i/25899336.jpg",
-      "authors": [
-        "Paul Kalanithi"
-      ],
-      "genres": [
-        "non-fiction",
-        "memoir",
-        "biography",
-        "medicine",
-        "medical",
-        "audiobook",
-        "autobiography"
-      ],
-      "rating": 4.4,
-      "ratings": 668447,
-      "reviews": 51008
-    },
-    {
-      "title": "In Cold Blood",
-      "url": "https://www.goodreads.com/book/show/168642.In_Cold_Blood",
-      "id": "1940709",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1424931136i/168642.jpg",
-      "authors": [
-        "Truman Capote"
-      ],
-      "genres": [
-        "non-fiction",
-        "classics",
-        "true-crime",
-        "crime",
-        "mystery",
-        "history",
-        "thriller"
-      ],
-      "rating": 4.09,
-      "ratings": 659349,
-      "reviews": 23791
+      "rating": 4.01,
+      "ratings": 714699,
+      "reviews": 21008
     }
   ]
 }

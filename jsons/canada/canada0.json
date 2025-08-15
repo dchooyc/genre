@@ -1,48 +1,6 @@
 {
   "books": [
     {
-      "title": "Oryx and Crake",
-      "url": "https://www.goodreads.com/book/show/46756.Oryx_and_Crake",
-      "id": "3143431",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1668379066i/46756.jpg",
-      "authors": [
-        "Margaret Atwood"
-      ],
-      "genres": [
-        "fiction",
-        "science-fiction",
-        "dystopia",
-        "post-apocalyptic",
-        "fantasy",
-        "canada",
-        "speculative-fiction"
-      ],
-      "rating": 4.01,
-      "ratings": 266514,
-      "reviews": 16636
-    },
-    {
-      "title": "A Fine Balance",
-      "url": "https://www.goodreads.com/book/show/5211.A_Fine_Balance",
-      "id": "865827",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1551173390i/5211.jpg",
-      "authors": [
-        "Rohinton Mistry"
-      ],
-      "genres": [
-        "fiction",
-        "historical-fiction",
-        "india",
-        "indian-literature",
-        "literary-fiction",
-        "historical",
-        "canada"
-      ],
-      "rating": 4.37,
-      "ratings": 149471,
-      "reviews": 11200
-    },
-    {
       "title": "Alias Grace",
       "url": "https://www.goodreads.com/book/show/72579.Alias_Grace",
       "id": "2069530",
@@ -56,12 +14,12 @@
         "mystery",
         "historical",
         "classics",
-        "canada",
-        "literary-fiction"
+        "book-club",
+        "canada"
       ],
       "rating": 4.04,
-      "ratings": 143544,
-      "reviews": 8784
+      "ratings": 153689,
+      "reviews": 9641
     },
     {
       "title": "A Fatal Grace",
@@ -80,9 +38,9 @@
         "mystery-thriller",
         "adult"
       ],
-      "rating": 4.1,
-      "ratings": 125536,
-      "reviews": 9449
+      "rating": 4.09,
+      "ratings": 139499,
+      "reviews": 10264
     },
     {
       "title": "The Year of the Flood",
@@ -101,9 +59,9 @@
         "canada",
         "speculative-fiction"
       ],
-      "rating": 4.06,
-      "ratings": 124783,
-      "reviews": 8654
+      "rating": 4.07,
+      "ratings": 131197,
+      "reviews": 9042
     },
     {
       "title": "The Cruelest Month",
@@ -118,13 +76,13 @@
         "fiction",
         "audiobook",
         "crime",
-        "mystery-thriller",
         "canada",
-        "adult"
+        "mystery-thriller",
+        "detective"
       ],
       "rating": 4.16,
-      "ratings": 102616,
-      "reviews": 7050
+      "ratings": 114247,
+      "reviews": 7704
     },
     {
       "title": "A Rule Against Murder",
@@ -144,50 +102,8 @@
         "adult"
       ],
       "rating": 4.21,
-      "ratings": 94953,
-      "reviews": 6471
-    },
-    {
-      "title": "The Book of Negroes",
-      "url": "https://www.goodreads.com/book/show/23316548-the-book-of-negroes",
-      "id": "860779",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1417983381i/23316548.jpg",
-      "authors": [
-        "Lawrence Hill"
-      ],
-      "genres": [
-        "historical-fiction",
-        "fiction",
-        "canada",
-        "historical",
-        "africa",
-        "african-american",
-        "book-club"
-      ],
-      "rating": 4.46,
-      "ratings": 86786,
-      "reviews": 7008
-    },
-    {
-      "title": "Bury Your Dead",
-      "url": "https://www.goodreads.com/book/show/7945049-bury-your-dead",
-      "id": "11453665",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1439067695i/7945049.jpg",
-      "authors": [
-        "Louise Penny"
-      ],
-      "genres": [
-        "mystery",
-        "fiction",
-        "audiobook",
-        "canada",
-        "crime",
-        "mystery-thriller",
-        "detective"
-      ],
-      "rating": 4.36,
-      "ratings": 85696,
-      "reviews": 7450
+      "ratings": 105827,
+      "reviews": 7059
     },
     {
       "title": "How the Light Gets In",
@@ -201,14 +117,35 @@
         "mystery",
         "fiction",
         "audiobook",
-        "canada",
         "crime",
         "mystery-thriller",
+        "canada",
         "thriller"
       ],
-      "rating": 4.47,
-      "ratings": 85068,
-      "reviews": 7954
+      "rating": 4.48,
+      "ratings": 95130,
+      "reviews": 8694
+    },
+    {
+      "title": "Bury Your Dead",
+      "url": "https://www.goodreads.com/book/show/7945049-bury-your-dead",
+      "id": "11453665",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1439067695i/7945049.jpg",
+      "authors": [
+        "Louise Penny"
+      ],
+      "genres": [
+        "mystery",
+        "fiction",
+        "audiobook",
+        "crime",
+        "canada",
+        "mystery-thriller",
+        "detective"
+      ],
+      "rating": 4.36,
+      "ratings": 94837,
+      "reviews": 8144
     },
     {
       "title": "The Brutal Telling",
@@ -228,8 +165,29 @@
         "adult"
       ],
       "rating": 4.23,
-      "ratings": 83553,
-      "reviews": 6478
+      "ratings": 93599,
+      "reviews": 7056
+    },
+    {
+      "title": "The Book of Negroes",
+      "url": "https://www.goodreads.com/book/show/23316548-the-book-of-negroes",
+      "id": "860779",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1417983381i/23316548.jpg",
+      "authors": [
+        "Lawrence Hill"
+      ],
+      "genres": [
+        "historical-fiction",
+        "fiction",
+        "book-club",
+        "canada",
+        "historical",
+        "africa",
+        "african-american"
+      ],
+      "rating": 4.47,
+      "ratings": 90384,
+      "reviews": 7271
     },
     {
       "title": "The Beautiful Mystery",
@@ -244,13 +202,13 @@
         "fiction",
         "audiobook",
         "crime",
-        "canada",
         "mystery-thriller",
-        "adult"
+        "canada",
+        "detective"
       ],
       "rating": 4.2,
-      "ratings": 79097,
-      "reviews": 7408
+      "ratings": 88219,
+      "reviews": 8030
     },
     {
       "title": "A Trick of the Light",
@@ -269,51 +227,9 @@
         "mystery-thriller",
         "detective"
       ],
-      "rating": 4.31,
-      "ratings": 77386,
-      "reviews": 5578
-    },
-    {
-      "title": "MaddAddam",
-      "url": "https://www.goodreads.com/book/show/17262203-maddaddam",
-      "id": "17613051",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1366394020i/17262203.jpg",
-      "authors": [
-        "Margaret Atwood"
-      ],
-      "genres": [
-        "fiction",
-        "science-fiction",
-        "dystopia",
-        "post-apocalyptic",
-        "speculative-fiction",
-        "fantasy",
-        "canada"
-      ],
-      "rating": 4.02,
-      "ratings": 76553,
-      "reviews": 6028
-    },
-    {
-      "title": "Secret Daughter",
-      "url": "https://www.goodreads.com/book/show/6905012-secret-daughter",
-      "id": "7129188",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347708559i/6905012.jpg",
-      "authors": [
-        "Shilpi Somaya Gowda"
-      ],
-      "genres": [
-        "fiction",
-        "india",
-        "contemporary",
-        "adoption",
-        "book-club",
-        "canada",
-        "adult-fiction"
-      ],
-      "rating": 4,
-      "ratings": 75041,
-      "reviews": 5821
+      "rating": 4.32,
+      "ratings": 87164,
+      "reviews": 6121
     },
     {
       "title": "A Great Reckoning",
@@ -327,14 +243,14 @@
         "mystery",
         "fiction",
         "audiobook",
-        "mystery-thriller",
         "crime",
+        "mystery-thriller",
         "canada",
-        "adult"
+        "thriller"
       ],
       "rating": 4.43,
-      "ratings": 71878,
-      "reviews": 6680
+      "ratings": 81083,
+      "reviews": 7211
     },
     {
       "title": "All the Devils Are Here",
@@ -354,8 +270,8 @@
         "canada"
       ],
       "rating": 4.43,
-      "ratings": 69692,
-      "reviews": 7613
+      "ratings": 79201,
+      "reviews": 8221
     },
     {
       "title": "Glass Houses",
@@ -374,9 +290,9 @@
         "canada",
         "thriller"
       ],
-      "rating": 4.32,
-      "ratings": 69323,
-      "reviews": 6671
+      "rating": 4.33,
+      "ratings": 78136,
+      "reviews": 7192
     },
     {
       "title": "The Long Way Home",
@@ -393,11 +309,53 @@
         "canada",
         "crime",
         "mystery-thriller",
-        "adult"
+        "detective"
       ],
       "rating": 4.07,
-      "ratings": 68402,
-      "reviews": 6241
+      "ratings": 77708,
+      "reviews": 6891
+    },
+    {
+      "title": "Secret Daughter",
+      "url": "https://www.goodreads.com/book/show/6905012-secret-daughter",
+      "id": "7129188",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347708559i/6905012.jpg",
+      "authors": [
+        "Shilpi Somaya Gowda"
+      ],
+      "genres": [
+        "fiction",
+        "book-club",
+        "india",
+        "contemporary",
+        "adoption",
+        "canada",
+        "family"
+      ],
+      "rating": 4,
+      "ratings": 77098,
+      "reviews": 5920
+    },
+    {
+      "title": "A World of Curiosities",
+      "url": "https://www.goodreads.com/book/show/60899502-a-world-of-curiosities",
+      "id": "96053091",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1660936424i/60899502.jpg",
+      "authors": [
+        "Louise Penny"
+      ],
+      "genres": [
+        "mystery",
+        "fiction",
+        "audiobook",
+        "crime",
+        "canada",
+        "mystery-thriller",
+        "thriller"
+      ],
+      "rating": 4.44,
+      "ratings": 76421,
+      "reviews": 7071
     },
     {
       "title": "The Madness of Crowds",
@@ -411,14 +369,35 @@
         "mystery",
         "fiction",
         "audiobook",
+        "crime",
+        "canada",
+        "mystery-thriller",
+        "thriller"
+      ],
+      "rating": 4.18,
+      "ratings": 76391,
+      "reviews": 6957
+    },
+    {
+      "title": "The Nature of the Beast",
+      "url": "https://www.goodreads.com/book/show/24586590-the-nature-of-the-beast",
+      "id": "44194211",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1429532809i/24586590.jpg",
+      "authors": [
+        "Louise Penny"
+      ],
+      "genres": [
+        "mystery",
+        "fiction",
+        "audiobook",
         "canada",
         "crime",
         "mystery-thriller",
-        "detective"
+        "thriller"
       ],
-      "rating": 4.19,
-      "ratings": 66875,
-      "reviews": 6336
+      "rating": 4.25,
+      "ratings": 72680,
+      "reviews": 6016
     },
     {
       "title": "Anne of Ingleside",
@@ -438,50 +417,8 @@
         "canada"
       ],
       "rating": 4.03,
-      "ratings": 64919,
-      "reviews": 2730
-    },
-    {
-      "title": "The Nature of the Beast",
-      "url": "https://www.goodreads.com/book/show/24586590-the-nature-of-the-beast",
-      "id": "44194211",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1429532809i/24586590.jpg",
-      "authors": [
-        "Louise Penny"
-      ],
-      "genres": [
-        "mystery",
-        "fiction",
-        "audiobook",
-        "canada",
-        "mystery-thriller",
-        "crime",
-        "thriller"
-      ],
-      "rating": 4.24,
-      "ratings": 63884,
-      "reviews": 5486
-    },
-    {
-      "title": "A World of Curiosities",
-      "url": "https://www.goodreads.com/book/show/60899502-a-world-of-curiosities",
-      "id": "96053091",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1660936424i/60899502.jpg",
-      "authors": [
-        "Louise Penny"
-      ],
-      "genres": [
-        "mystery",
-        "fiction",
-        "audiobook",
-        "canada",
-        "crime",
-        "mystery-thriller",
-        "thriller"
-      ],
-      "rating": 4.47,
-      "ratings": 62929,
-      "reviews": 6062
+      "ratings": 71391,
+      "reviews": 3298
     },
     {
       "title": "A Better Man",
@@ -495,14 +432,77 @@
         "mystery",
         "fiction",
         "audiobook",
-        "canada",
         "crime",
+        "canada",
         "mystery-thriller",
-        "adult"
+        "thriller"
       ],
       "rating": 4.3,
-      "ratings": 62705,
-      "reviews": 5744
+      "ratings": 71347,
+      "reviews": 6227
+    },
+    {
+      "title": "Kingdom of the Blind",
+      "url": "https://www.goodreads.com/book/show/38232379-kingdom-of-the-blind",
+      "id": "59914885",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1525865772i/38232379.jpg",
+      "authors": [
+        "Louise Penny"
+      ],
+      "genres": [
+        "mystery",
+        "fiction",
+        "audiobook",
+        "crime",
+        "canada",
+        "mystery-thriller",
+        "detective"
+      ],
+      "rating": 4.32,
+      "ratings": 70397,
+      "reviews": 6213
+    },
+    {
+      "title": "Looking for Jane",
+      "url": "https://www.goodreads.com/book/show/61273371-looking-for-jane",
+      "id": "92482820",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1673499607i/61273371.jpg",
+      "authors": [
+        "Heather     Marshall"
+      ],
+      "genres": [
+        "historical-fiction",
+        "fiction",
+        "book-club",
+        "historical",
+        "audiobook",
+        "feminism",
+        "canada"
+      ],
+      "rating": 4.36,
+      "ratings": 65613,
+      "reviews": 7260
+    },
+    {
+      "title": "The Day the World Came to Town: 9/11 in Gander, Newfoundland",
+      "url": "https://www.goodreads.com/book/show/148775.The_Day_the_World_Came_to_Town",
+      "id": "1754578",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1349061052i/148775.jpg",
+      "authors": [
+        "Jim DeFede"
+      ],
+      "genres": [
+        "non-fiction",
+        "history",
+        "book-club",
+        "audiobook",
+        "canada",
+        "historical",
+        "adult"
+      ],
+      "rating": 4.25,
+      "ratings": 62517,
+      "reviews": 8974
     }
   ]
 }

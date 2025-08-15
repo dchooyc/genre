@@ -1,12 +1,50 @@
 {
   "books": [
     {
+      "title": "Theory of Machines",
+      "url": "https://www.goodreads.com/book/show/9691678-theory-of-machines",
+      "id": "4479592",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1372556186i/9691678.jpg",
+      "authors": [
+        "J K Gupta & R. S. Khurmi"
+      ],
+      "genres": [
+        "engineering",
+        "science",
+        "textbooks"
+      ],
+      "rating": 4.15,
+      "ratings": 656,
+      "reviews": 22
+    },
+    {
+      "title": "Basics of Biblical Greek Workbook",
+      "url": "https://www.goodreads.com/book/show/77405.Basics_of_Biblical_Greek_Workbook",
+      "id": "74792",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1391244925i/77405.jpg",
+      "authors": [
+        "William D. Mounce"
+      ],
+      "genres": [
+        "reference",
+        "language",
+        "theology",
+        "textbooks",
+        "non-fiction",
+        "christian",
+        "linguistics"
+      ],
+      "rating": 4.28,
+      "ratings": 651,
+      "reviews": 23
+    },
+    {
       "title": "Robbins Basic Pathology",
       "url": "https://www.goodreads.com/book/show/1681718.Robbins_Basic_Pathology",
       "id": "63188026",
       "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1186809959i/1681718.jpg",
       "authors": [
-        "Vinay Kumar"
+        "Vinay   Kumar"
       ],
       "genres": [
         "medicine",
@@ -18,29 +56,28 @@
         "reference"
       ],
       "rating": 4.18,
-      "ratings": 620,
-      "reviews": 41
+      "ratings": 648,
+      "reviews": 46
     },
     {
-      "title": "Algorithm Design",
-      "url": "https://www.goodreads.com/book/show/145055.Algorithm_Design",
-      "id": "139960",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348335904i/145055.jpg",
+      "title": "The ECG Made Easy",
+      "url": "https://www.goodreads.com/book/show/1219715.The_ECG_Made_Easy",
+      "id": "1208192",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1181987628i/1219715.jpg",
       "authors": [
-        "Jon Kleinberg"
+        "John R. Hampton"
       ],
       "genres": [
-        "computer-science",
-        "algorithms",
-        "programming",
-        "technical",
-        "technology",
-        "reference",
-        "textbooks"
+        "medicine",
+        "medical",
+        "non-fiction",
+        "textbooks",
+        "science",
+        "reference"
       ],
-      "rating": 4.16,
-      "ratings": 616,
-      "reviews": 23
+      "rating": 4.2,
+      "ratings": 647,
+      "reviews": 60
     },
     {
       "title": "Introduction to Elementary Particles",
@@ -57,11 +94,136 @@
         "non-fiction",
         "reference",
         "technical",
-        "academic"
+        "mathematics"
       ],
-      "rating": 4.25,
-      "ratings": 609,
-      "reviews": 30
+      "rating": 4.26,
+      "ratings": 647,
+      "reviews": 39
+    },
+    {
+      "title": "Problems in general physics",
+      "url": "https://www.goodreads.com/book/show/231633.Problems_in_general_physics",
+      "id": "224354",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1284287887i/231633.jpg",
+      "authors": [
+        "I.E. Irodov"
+      ],
+      "genres": [
+        "physics",
+        "science",
+        "textbooks",
+        "non-fiction",
+        "academic",
+        "mathematics",
+        "stem"
+      ],
+      "rating": 4.43,
+      "ratings": 647,
+      "reviews": 20
+    },
+    {
+      "title": "Algorithm Design",
+      "url": "https://www.goodreads.com/book/show/145055.Algorithm_Design",
+      "id": "139960",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348335904i/145055.jpg",
+      "authors": [
+        "Jon Kleinberg"
+      ],
+      "genres": [
+        "computer-science",
+        "algorithms",
+        "programming",
+        "technology",
+        "technical",
+        "textbooks",
+        "non-fiction"
+      ],
+      "rating": 4.17,
+      "ratings": 647,
+      "reviews": 26
+    },
+    {
+      "title": "Engineering Mechanics: Dynamics",
+      "url": "https://www.goodreads.com/book/show/151762.Engineering_Mechanics",
+      "id": "146482",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1387707850i/151762.jpg",
+      "authors": [
+        "J.L. Meriam"
+      ],
+      "genres": [
+        "engineering",
+        "science",
+        "textbooks",
+        "physics",
+        "non-fiction",
+        "academic",
+        "reference"
+      ],
+      "rating": 4.04,
+      "ratings": 640,
+      "reviews": 20
+    },
+    {
+      "title": "Theory of Harmony",
+      "url": "https://www.goodreads.com/book/show/884077.Theory_of_Harmony",
+      "id": "869348",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1349021304i/884077.jpg",
+      "authors": [
+        "Arnold Schoenberg"
+      ],
+      "genres": [
+        "music",
+        "non-fiction",
+        "philosophy",
+        "art",
+        "theory",
+        "science",
+        "textbooks"
+      ],
+      "rating": 4.3,
+      "ratings": 639,
+      "reviews": 16
+    },
+    {
+      "title": "Talk To Me In Korean - Level 1",
+      "url": "https://www.goodreads.com/book/show/16095917-talk-to-me-in-korean---level-1",
+      "id": "21903589",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1364340428i/16095917.jpg",
+      "authors": [
+        "TalkToMeInKorean"
+      ],
+      "genres": [
+        "non-fiction",
+        "language",
+        "textbooks",
+        "reference",
+        "education",
+        "audiobook"
+      ],
+      "rating": 4.55,
+      "ratings": 638,
+      "reviews": 65
+    },
+    {
+      "title": "The LSAT Trainer: A Remarkable Self-Study Guide For The Self-Driven Student",
+      "url": "https://www.goodreads.com/book/show/34854973-the-lsat-trainer",
+      "id": "56094857",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1492147007i/34854973.jpg",
+      "authors": [
+        "Mike  Kim"
+      ],
+      "genres": [
+        "law",
+        "non-fiction",
+        "school",
+        "self-help",
+        "education",
+        "college",
+        "textbooks"
+      ],
+      "rating": 4.31,
+      "ratings": 637,
+      "reviews": 85
     },
     {
       "title": "Ross and Wilson Anatomy and Physiology in Health and Illness",
@@ -74,36 +236,119 @@
       "genres": [
         "medical",
         "medicine",
+        "nursing",
         "textbooks",
         "reference",
-        "nursing",
-        "health",
-        "biology"
+        "non-fiction",
+        "health"
       ],
-      "rating": 4.27,
-      "ratings": 608,
-      "reviews": 21
+      "rating": 4.28,
+      "ratings": 633,
+      "reviews": 23
     },
     {
-      "title": "Python Data Science Handbook: Essential Tools for Working with Data",
-      "url": "https://www.goodreads.com/book/show/26457146-python-data-science-handbook",
-      "id": "46459730",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1481029785i/26457146.jpg",
+      "title": "Essentials of Strength Training and Conditioning",
+      "url": "https://www.goodreads.com/book/show/3427609-essentials-of-strength-training-and-conditioning",
+      "id": "3468473",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1403171750i/3427609.jpg",
       "authors": [
-        "Jake Vanderplas"
+        "National Strength and Conditioning Association (NSCA)"
       ],
       "genres": [
-        "programming",
-        "computer-science",
+        "fitness",
+        "health",
+        "sports",
         "non-fiction",
-        "technical",
         "reference",
-        "coding",
+        "textbooks",
+        "nutrition"
+      ],
+      "rating": 4.16,
+      "ratings": 632,
+      "reviews": 32
+    },
+    {
+      "title": "Psychology, Theology, and Spirituality in Christian Counseling",
+      "url": "https://www.goodreads.com/book/show/152672.Psychology_Theology_and_Spirituality_in_Christian_Counseling",
+      "id": "147362",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1406506325i/152672.jpg",
+      "authors": [
+        "Mark R. McMinn"
+      ],
+      "genres": [
+        "counselling",
+        "psychology",
+        "christian",
+        "theology",
+        "non-fiction",
+        "school",
         "textbooks"
       ],
-      "rating": 4.31,
-      "ratings": 597,
-      "reviews": 56
+      "rating": 4.12,
+      "ratings": 630,
+      "reviews": 42
+    },
+    {
+      "title": "The Classroom Management Book",
+      "url": "https://www.goodreads.com/book/show/21882239-the-classroom-management-book",
+      "id": "41174879",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1433894696i/21882239.jpg",
+      "authors": [
+        "Harry K. Wong"
+      ],
+      "genres": [
+        "education",
+        "teaching",
+        "non-fiction",
+        "school",
+        "reference",
+        "textbooks",
+        "college"
+      ],
+      "rating": 4.3,
+      "ratings": 627,
+      "reviews": 58
+    },
+    {
+      "title": "Davidson's Principles and Practice of Medicine [with Student Consult Online Access]",
+      "url": "https://www.goodreads.com/book/show/983873.Davidson_s_Principles_and_Practice_of_Medicine_with_Student_Consult_Online_Access_",
+      "id": "969368",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1387739110i/983873.jpg",
+      "authors": [
+        "Nicholas A. Boon"
+      ],
+      "genres": [
+        "medicine",
+        "medical",
+        "reference",
+        "textbooks",
+        "health",
+        "non-fiction"
+      ],
+      "rating": 4.25,
+      "ratings": 621,
+      "reviews": 34
+    },
+    {
+      "title": "Special Relativity and Classical Field Theory: The Theoretical Minimum",
+      "url": "https://www.goodreads.com/book/show/33784507-special-relativity-and-classical-field-theory",
+      "id": "54670282",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1500140490i/33784507.jpg",
+      "authors": [
+        "Leonard Susskind"
+      ],
+      "genres": [
+        "physics",
+        "science",
+        "non-fiction",
+        "mathematics",
+        "stem",
+        "textbooks",
+        "education"
+      ],
+      "rating": 4.49,
+      "ratings": 618,
+      "reviews": 64
     },
     {
       "title": "Gardner's Art Through the Ages, Vol 1, Chapters 1-18",
@@ -122,29 +367,30 @@
         "reference",
         "school"
       ],
-      "rating": 4.12,
-      "ratings": 596,
-      "reviews": 15
+      "rating": 4.11,
+      "ratings": 613,
+      "reviews": 14
     },
     {
-      "title": "The ECG Made Easy",
-      "url": "https://www.goodreads.com/book/show/1219715.The_ECG_Made_Easy",
-      "id": "1208192",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1181987628i/1219715.jpg",
+      "title": "Naive Set Theory",
+      "url": "https://www.goodreads.com/book/show/558194.Naive_Set_Theory",
+      "id": "730128",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1354904422i/558194.jpg",
       "authors": [
-        "John R. Hampton"
+        "Paul R. Halmos"
       ],
       "genres": [
-        "medicine",
-        "medical",
-        "non-fiction",
+        "mathematics",
         "textbooks",
         "science",
-        "reference"
+        "logic",
+        "non-fiction",
+        "philosophy",
+        "stem"
       ],
-      "rating": 4.16,
-      "ratings": 595,
-      "reviews": 54
+      "rating": 4.23,
+      "ratings": 612,
+      "reviews": 51
     },
     {
       "title": "Physics for Scientists and Engineers",
@@ -163,9 +409,51 @@
         "reference",
         "academic"
       ],
-      "rating": 4.03,
-      "ratings": 591,
-      "reviews": 39
+      "rating": 4.04,
+      "ratings": 611,
+      "reviews": 40
+    },
+    {
+      "title": "Stretching Anatomy",
+      "url": "https://www.goodreads.com/book/show/17741147-stretching-anatomy",
+      "id": "24824357",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1403169388i/17741147.jpg",
+      "authors": [
+        "Arnold G. Nelson"
+      ],
+      "genres": [
+        "health",
+        "fitness",
+        "non-fiction",
+        "reference",
+        "sports",
+        "textbooks",
+        "science"
+      ],
+      "rating": 4.02,
+      "ratings": 608,
+      "reviews": 45
+    },
+    {
+      "title": "Neuroscience",
+      "url": "https://www.goodreads.com/book/show/1353566.Neuroscience",
+      "id": "1343265",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348614837i/1353566.jpg",
+      "authors": [
+        "Dale Purves"
+      ],
+      "genres": [
+        "neuroscience",
+        "science",
+        "textbooks",
+        "psychology",
+        "non-fiction",
+        "reference",
+        "medicine"
+      ],
+      "rating": 4.14,
+      "ratings": 605,
+      "reviews": 22
     },
     {
       "title": "Thermodynamics",
@@ -180,155 +468,12 @@
         "science",
         "textbooks",
         "non-fiction",
+        "chemistry",
         "engineering",
-        "reference",
-        "chemistry"
+        "reference"
       ],
       "rating": 4.27,
-      "ratings": 586,
-      "reviews": 22
-    },
-    {
-      "title": "Pocket Medicine: The Massachusetts General Hospital Handbook of Internal Medicine",
-      "url": "https://www.goodreads.com/book/show/479127.Pocket_Medicine",
-      "id": "467545",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328809818i/479127.jpg",
-      "authors": [
-        "Marc S. Sabatine"
-      ],
-      "genres": [
-        "medicine",
-        "medical",
-        "reference",
-        "non-fiction",
-        "textbooks",
-        "science"
-      ],
-      "rating": 4.42,
-      "ratings": 585,
-      "reviews": 10
-    },
-    {
-      "title": "Psychology, Theology, and Spirituality in Christian Counseling",
-      "url": "https://www.goodreads.com/book/show/152672.Psychology_Theology_and_Spirituality_in_Christian_Counseling",
-      "id": "147362",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1406506325i/152672.jpg",
-      "authors": [
-        "Mark R. McMinn"
-      ],
-      "genres": [
-        "psychology",
-        "counselling",
-        "christian",
-        "theology",
-        "non-fiction",
-        "textbooks",
-        "school"
-      ],
-      "rating": 4.1,
-      "ratings": 578,
-      "reviews": 39
-    },
-    {
-      "title": "Concepts of Modern Mathematics",
-      "url": "https://www.goodreads.com/book/show/183761.Concepts_of_Modern_Mathematics",
-      "id": "158877",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388183114i/183761.jpg",
-      "authors": [
-        "Ian Stewart"
-      ],
-      "genres": [
-        "mathematics",
-        "non-fiction",
-        "science",
-        "philosophy",
-        "reference",
-        "textbooks",
-        "physics"
-      ],
-      "rating": 4.11,
-      "ratings": 577,
-      "reviews": 37
-    },
-    {
-      "title": "Computer Organization and Architecture",
-      "url": "https://www.goodreads.com/book/show/299635.Computer_Organization_and_Architecture",
-      "id": "290709",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1173511225i/299635.jpg",
-      "authors": [
-        "William Stallings"
-      ],
-      "genres": [
-        "computer-science",
-        "non-fiction",
-        "reference",
-        "programming",
-        "computers",
-        "textbooks",
-        "science"
-      ],
-      "rating": 4.06,
-      "ratings": 573,
-      "reviews": 26
-    },
-    {
-      "title": "Naive Set Theory",
-      "url": "https://www.goodreads.com/book/show/558194.Naive_Set_Theory",
-      "id": "730128",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1354904422i/558194.jpg",
-      "authors": [
-        "Paul R. Halmos"
-      ],
-      "genres": [
-        "mathematics",
-        "science",
-        "textbooks",
-        "non-fiction",
-        "logic",
-        "philosophy",
-        "theory"
-      ],
-      "rating": 4.23,
-      "ratings": 573,
-      "reviews": 50
-    },
-    {
-      "title": "Talk To Me In Korean - Level 1",
-      "url": "https://www.goodreads.com/book/show/16095917-talk-to-me-in-korean---level-1",
-      "id": "21903589",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1364340428i/16095917.jpg",
-      "authors": [
-        "TalkToMeInKorean"
-      ],
-      "genres": [
-        "non-fiction",
-        "language",
-        "education",
-        "textbooks"
-      ],
-      "rating": 4.56,
-      "ratings": 572,
-      "reviews": 65
-    },
-    {
-      "title": "The Norton Anthology of English Literature, Vol. F: The Twentieth Century & After",
-      "url": "https://www.goodreads.com/book/show/310883.The_Norton_Anthology_of_English_Literature_Vol_F",
-      "id": "301812",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388285003i/310883.jpg",
-      "authors": [
-        "M.H. Abrams"
-      ],
-      "genres": [
-        "anthologies",
-        "classics",
-        "reference",
-        "poetry",
-        "fiction",
-        "literature",
-        "textbooks"
-      ],
-      "rating": 4.03,
-      "ratings": 570,
+      "ratings": 603,
       "reviews": 24
     },
     {
@@ -345,159 +490,12 @@
         "non-fiction",
         "textbooks",
         "technology",
-        "technical",
+        "computer-science",
         "programming"
       ],
       "rating": 4.09,
-      "ratings": 563,
-      "reviews": 48
-    },
-    {
-      "title": "Audio-Vision: Sound on Screen",
-      "url": "https://www.goodreads.com/book/show/160246.Audio_Vision",
-      "id": "154669",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348954124i/160246.jpg",
-      "authors": [
-        "Michel Chion"
-      ],
-      "genres": [
-        "film",
-        "music",
-        "non-fiction",
-        "art",
-        "media-tie-in",
-        "academic",
-        "textbooks"
-      ],
-      "rating": 4.17,
-      "ratings": 563,
-      "reviews": 28
-    },
-    {
-      "title": "A Student's Guide to Maxwell's Equations",
-      "url": "https://www.goodreads.com/book/show/3094871-a-student-s-guide-to-maxwell-s-equations",
-      "id": "3126014",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347561661i/3094871.jpg",
-      "authors": [
-        "Daniel Fleisch"
-      ],
-      "genres": [
-        "physics",
-        "science",
-        "mathematics",
-        "non-fiction",
-        "textbooks",
-        "reference",
-        "engineering"
-      ],
-      "rating": 4.4,
-      "ratings": 558,
-      "reviews": 34
-    },
-    {
-      "title": "Chemistry",
-      "url": "https://www.goodreads.com/book/show/387499.Chemistry",
-      "id": "377132",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388521812i/387499.jpg",
-      "authors": [
-        "Raymond Chang"
-      ],
-      "genres": [
-        "chemistry",
-        "science",
-        "textbooks",
-        "non-fiction",
-        "reference",
-        "school",
-        "academic"
-      ],
-      "rating": 4.01,
-      "ratings": 546,
-      "reviews": 32
-    },
-    {
-      "title": "Rang & Dale's Pharmacology",
-      "url": "https://www.goodreads.com/book/show/380577.Rang_Dale_s_Pharmacology",
-      "id": "370373",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348972403i/380577.jpg",
-      "authors": [
-        "Humphrey P. Rang"
-      ],
-      "genres": [
-        "science",
-        "medicine",
-        "medical",
-        "textbooks",
-        "non-fiction",
-        "reference",
-        "neuroscience"
-      ],
-      "rating": 4.16,
-      "ratings": 545,
-      "reviews": 18
-    },
-    {
-      "title": "THE Classroom Management Book",
-      "url": "https://www.goodreads.com/book/show/21882239-the-classroom-management-book",
-      "id": "41174879",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1433894696i/21882239.jpg",
-      "authors": [
-        "Harry K. Wong"
-      ],
-      "genres": [
-        "education",
-        "teaching",
-        "non-fiction",
-        "school",
-        "reference",
-        "textbooks",
-        "college"
-      ],
-      "rating": 4.31,
-      "ratings": 545,
-      "reviews": 54
-    },
-    {
-      "title": "The Joy of Reading",
-      "url": "https://www.goodreads.com/book/show/60656906-the-joy-of-reading",
-      "id": "95620682",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1649029662i/60656906.jpg",
-      "authors": [
-        "Teri Lesesne"
-      ],
-      "genres": [
-        "non-fiction",
-        "adult",
-        "education",
-        "teaching",
-        "textbooks",
-        "librarianship",
-        "school"
-      ],
-      "rating": 4.44,
-      "ratings": 532,
-      "reviews": 108
-    },
-    {
-      "title": "The Business of Venture Capital: Insights from Leading Practitioners on the Art of Raising a Fund, Deal Structuring, Value Creation, and Exit Strategies",
-      "url": "https://www.goodreads.com/book/show/11366506-the-business-of-venture-capital",
-      "id": "16297319",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348196478i/11366506.jpg",
-      "authors": [
-        "Mahendra Ramsinghani"
-      ],
-      "genres": [
-        "business",
-        "finance",
-        "entrepreneurship",
-        "non-fiction",
-        "textbooks",
-        "economics",
-        "management"
-      ],
-      "rating": 4.34,
-      "ratings": 528,
-      "reviews": 37
+      "ratings": 603,
+      "reviews": 50
     }
   ]
 }

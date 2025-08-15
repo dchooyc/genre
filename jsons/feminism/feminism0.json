@@ -1,6 +1,27 @@
 {
   "books": [
     {
+      "title": "The Handmaid's Tale",
+      "url": "https://www.goodreads.com/book/show/34454589-the-handmaid-s-tale",
+      "id": "1119185",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1488552336i/34454589.jpg",
+      "authors": [
+        "Margaret Atwood"
+      ],
+      "genres": [
+        "fiction",
+        "classics",
+        "dystopia",
+        "science-fiction",
+        "feminism",
+        "book-club",
+        "fantasy"
+      ],
+      "rating": 4.15,
+      "ratings": 2334325,
+      "reviews": 115560
+    },
+    {
       "title": "Lessons in Chemistry",
       "url": "https://www.goodreads.com/book/show/58065033-lessons-in-chemistry",
       "id": "90356333",
@@ -11,15 +32,15 @@
       "genres": [
         "fiction",
         "historical-fiction",
+        "book-club",
         "audiobook",
         "romance",
         "feminism",
-        "historical",
-        "adult"
+        "historical"
       ],
-      "rating": 4.3,
-      "ratings": 1230532,
-      "reviews": 110787
+      "rating": 4.28,
+      "ratings": 1688940,
+      "reviews": 149596
     },
     {
       "title": "The Bell Jar",
@@ -30,17 +51,17 @@
         "Sylvia Plath"
       ],
       "genres": [
+        "classics",
         "fiction",
         "feminism",
-        "classics",
         "mental-health",
         "psychology",
-        "literature",
-        "literary-fiction"
+        "literary-fiction",
+        "literature"
       ],
       "rating": 4.05,
-      "ratings": 960105,
-      "reviews": 56274
+      "ratings": 1161840,
+      "reviews": 79105
     },
     {
       "title": "The Color Purple",
@@ -51,17 +72,17 @@
         "Alice Walker"
       ],
       "genres": [
+        "classics",
         "fiction",
         "historical-fiction",
         "feminism",
-        "classics",
         "lgbt",
         "historical",
         "queer"
       ],
       "rating": 4.27,
-      "ratings": 685366,
-      "reviews": 25856
+      "ratings": 738919,
+      "reviews": 30399
     },
     {
       "title": "The Red Tent",
@@ -74,36 +95,15 @@
       "genres": [
         "historical-fiction",
         "fiction",
-        "historical",
         "book-club",
+        "historical",
+        "religion",
         "feminism",
-        "adult",
-        "womens"
+        "adult"
       ],
       "rating": 4.2,
-      "ratings": 598748,
-      "reviews": 22085
-    },
-    {
-      "title": "I Am Malala: The Story of the Girl Who Stood Up for Education and Was Shot by the Taliban",
-      "url": "https://www.goodreads.com/book/show/17851885-i-am-malala",
-      "id": "24987300",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1375414895i/17851885.jpg",
-      "authors": [
-        "Malala Yousafzai"
-      ],
-      "genres": [
-        "non-fiction",
-        "biography",
-        "memoir",
-        "feminism",
-        "autobiography",
-        "audiobook",
-        "history"
-      ],
-      "rating": 4.15,
-      "ratings": 576023,
-      "reviews": 25667
+      "ratings": 624836,
+      "reviews": 23397
     },
     {
       "title": "I Know Why the Caged Bird Sings",
@@ -122,30 +122,9 @@
         "poetry",
         "feminism"
       ],
-      "rating": 4.29,
-      "ratings": 530980,
-      "reviews": 16326
-    },
-    {
-      "title": "Americanah",
-      "url": "https://www.goodreads.com/book/show/15796700-americanah",
-      "id": "21519538",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1356654499i/15796700.jpg",
-      "authors": [
-        "Chimamanda Ngozi Adichie"
-      ],
-      "genres": [
-        "fiction",
-        "africa",
-        "contemporary",
-        "feminism",
-        "literary-fiction",
-        "race",
-        "nigeria"
-      ],
-      "rating": 4.32,
-      "ratings": 371121,
-      "reviews": 30012
+      "rating": 4.3,
+      "ratings": 570337,
+      "reviews": 18674
     },
     {
       "title": "The Testaments",
@@ -162,14 +141,35 @@
         "feminism",
         "audiobook",
         "classics",
-        "adult"
+        "book-club"
       ],
-      "rating": 4.19,
-      "ratings": 352090,
-      "reviews": 31310
+      "rating": 4.2,
+      "ratings": 404003,
+      "reviews": 35425
     },
     {
-      "title": "the sun and her flowers",
+      "title": "Americanah",
+      "url": "https://www.goodreads.com/book/show/15796700-americanah",
+      "id": "21519538",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1356654499i/15796700.jpg",
+      "authors": [
+        "Chimamanda Ngozi Adichie"
+      ],
+      "genres": [
+        "fiction",
+        "book-club",
+        "africa",
+        "contemporary",
+        "literary-fiction",
+        "feminism",
+        "race"
+      ],
+      "rating": 4.31,
+      "ratings": 402845,
+      "reviews": 32602
+    },
+    {
+      "title": "The Sun and Her Flowers",
       "url": "https://www.goodreads.com/book/show/35606560-the-sun-and-her-flowers",
       "id": "57044162",
       "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1499791446i/35606560.jpg",
@@ -177,17 +177,59 @@
         "Rupi Kaur"
       ],
       "genres": [
+        "poetry",
         "feminism",
         "non-fiction",
-        "poetry",
-        "adult",
         "contemporary",
+        "adult",
         "romance",
         "mental-health"
       ],
-      "rating": 4.09,
-      "ratings": 341408,
-      "reviews": 19114
+      "rating": 4.08,
+      "ratings": 365505,
+      "reviews": 20588
+    },
+    {
+      "title": "The Yellow Wallpaper and Other Stories",
+      "url": "https://www.goodreads.com/book/show/99300.The_Yellow_Wallpaper_and_Other_Stories",
+      "id": "17352354",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327909237i/99300.jpg",
+      "authors": [
+        "Charlotte Perkins Gilman"
+      ],
+      "genres": [
+        "classics",
+        "short-stories",
+        "fiction",
+        "horror",
+        "feminism",
+        "gothic",
+        "mental-health"
+      ],
+      "rating": 4.07,
+      "ratings": 340246,
+      "reviews": 22664
+    },
+    {
+      "title": "I Who Have Never Known Men",
+      "url": "https://www.goodreads.com/book/show/11996.I_Who_Have_Never_Known_Men",
+      "id": "14356",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1636235968i/11996.jpg",
+      "authors": [
+        "Jacqueline Harpman"
+      ],
+      "genres": [
+        "fiction",
+        "dystopia",
+        "science-fiction",
+        "book-club",
+        "classics",
+        "feminism",
+        "audiobook"
+      ],
+      "rating": 4.14,
+      "ratings": 323150,
+      "reviews": 59600
     },
     {
       "title": "We Should All Be Feminists",
@@ -207,8 +249,8 @@
         "africa"
       ],
       "rating": 4.4,
-      "ratings": 292651,
-      "reviews": 28400
+      "ratings": 321680,
+      "reviews": 31273
     },
     {
       "title": "Girl, Woman, Other",
@@ -222,35 +264,14 @@
         "fiction",
         "feminism",
         "contemporary",
+        "book-club",
         "lgbt",
         "literary-fiction",
-        "short-stories",
         "queer"
       ],
-      "rating": 4.29,
-      "ratings": 231185,
-      "reviews": 21832
-    },
-    {
-      "title": "The Yellow Wall-Paper",
-      "url": "https://www.goodreads.com/book/show/286957.The_Yellow_Wall_Paper",
-      "id": "17352354",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1351778524i/286957.jpg",
-      "authors": [
-        "Charlotte Perkins Gilman"
-      ],
-      "genres": [
-        "short-stories",
-        "fiction",
-        "horror",
-        "feminism",
-        "gothic",
-        "classics",
-        "mental-health"
-      ],
-      "rating": 4.1,
-      "ratings": 201633,
-      "reviews": 14278
+      "rating": 4.27,
+      "ratings": 257413,
+      "reviews": 24200
     },
     {
       "title": "Know My Name",
@@ -266,33 +287,12 @@
         "audiobook",
         "feminism",
         "biography",
-        "true-crime",
-        "biography-memoir"
+        "book-club",
+        "true-crime"
       ],
-      "rating": 4.71,
-      "ratings": 199561,
-      "reviews": 27609
-    },
-    {
-      "title": "The Left Hand of Darkness",
-      "url": "https://www.goodreads.com/book/show/18423.The_Left_Hand_of_Darkness",
-      "id": "817527",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1488213612i/18423.jpg",
-      "authors": [
-        "Ursula K. Le Guin"
-      ],
-      "genres": [
-        "science-fiction",
-        "fiction",
-        "fantasy",
-        "classics",
-        "science-fiction-fantasy",
-        "speculative-fiction",
-        "feminism"
-      ],
-      "rating": 4.1,
-      "ratings": 181967,
-      "reviews": 15636
+      "rating": 4.69,
+      "ratings": 245001,
+      "reviews": 34200
     },
     {
       "title": "The Complete Persepolis",
@@ -311,30 +311,9 @@
         "history",
         "feminism"
       ],
-      "rating": 4.39,
-      "ratings": 181347,
-      "reviews": 12109
-    },
-    {
-      "title": "A Woman Is No Man",
-      "url": "https://www.goodreads.com/book/show/34313931-a-woman-is-no-man",
-      "id": "55370568",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1533072101i/34313931.jpg",
-      "authors": [
-        "Etaf Rum"
-      ],
-      "genres": [
-        "fiction",
-        "historical-fiction",
-        "contemporary",
-        "audiobook",
-        "feminism",
-        "literary-fiction",
-        "adult"
-      ],
-      "rating": 4.26,
-      "ratings": 149548,
-      "reviews": 16462
+      "rating": 4.4,
+      "ratings": 200248,
+      "reviews": 13961
     },
     {
       "title": "The Dictionary of Lost Words",
@@ -347,78 +326,57 @@
       "genres": [
         "historical-fiction",
         "fiction",
+        "book-club",
         "historical",
+        "audiobook",
         "books-about-books",
-        "audiobook",
-        "feminism",
-        "book-club"
-      ],
-      "rating": 4.03,
-      "ratings": 141144,
-      "reviews": 16435
-    },
-    {
-      "title": "Home Body",
-      "url": "https://www.goodreads.com/book/show/49656780-home-body",
-      "id": "73542458",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1600123950i/49656780.jpg",
-      "authors": [
-        "Rupi Kaur"
-      ],
-      "genres": [
-        "poetry",
-        "non-fiction",
-        "feminism",
-        "mental-health",
-        "adult",
-        "contemporary",
-        "self-help"
-      ],
-      "rating": 4.07,
-      "ratings": 126506,
-      "reviews": 9924
-    },
-    {
-      "title": "In the Dream House",
-      "url": "https://www.goodreads.com/book/show/43317482-in-the-dream-house",
-      "id": "65787792",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1547869259i/43317482.jpg",
-      "authors": [
-        "Carmen Maria Machado"
-      ],
-      "genres": [
-        "non-fiction",
-        "memoir",
-        "lgbt",
-        "queer",
-        "horror",
-        "feminism",
-        "biography"
-      ],
-      "rating": 4.43,
-      "ratings": 124514,
-      "reviews": 18725
-    },
-    {
-      "title": "The Book of Longings",
-      "url": "https://www.goodreads.com/book/show/52698452-the-book-of-longings",
-      "id": "73711176",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1570801291l/52698452.jpg",
-      "authors": [
-        "Sue Monk Kidd"
-      ],
-      "genres": [
-        "historical-fiction",
-        "fiction",
-        "historical",
-        "audiobook",
-        "religion",
-        "adult",
         "feminism"
       ],
-      "rating": 4.24,
-      "ratings": 123669,
-      "reviews": 15300
+      "rating": 4.02,
+      "ratings": 179796,
+      "reviews": 20371
+    },
+    {
+      "title": "A Woman Is No Man",
+      "url": "https://www.goodreads.com/book/show/34313931-a-woman-is-no-man",
+      "id": "55370568",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1533072101i/34313931.jpg",
+      "authors": [
+        "Etaf Rum"
+      ],
+      "genres": [
+        "fiction",
+        "book-club",
+        "historical-fiction",
+        "contemporary",
+        "audiobook",
+        "feminism",
+        "literary-fiction"
+      ],
+      "rating": 4.26,
+      "ratings": 169240,
+      "reviews": 18864
+    },
+    {
+      "title": "The Girl with the Louding Voice",
+      "url": "https://www.goodreads.com/book/show/50214741-the-girl-with-the-louding-voice",
+      "id": "71647150",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1581128232i/50214741.jpg",
+      "authors": [
+        "Abi Daré"
+      ],
+      "genres": [
+        "fiction",
+        "book-club",
+        "contemporary",
+        "africa",
+        "audiobook",
+        "feminism",
+        "literary-fiction"
+      ],
+      "rating": 4.42,
+      "ratings": 167991,
+      "reviews": 17990
     },
     {
       "title": "Invisible Women: Data Bias in a World Designed for Men",
@@ -437,9 +395,72 @@
         "womens",
         "sociology"
       ],
-      "rating": 4.35,
-      "ratings": 117331,
-      "reviews": 15013
+      "rating": 4.34,
+      "ratings": 158030,
+      "reviews": 20350
+    },
+    {
+      "title": "In the Dream House",
+      "url": "https://www.goodreads.com/book/show/43317482-in-the-dream-house",
+      "id": "65787792",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1547869259i/43317482.jpg",
+      "authors": [
+        "Carmen Maria Machado"
+      ],
+      "genres": [
+        "non-fiction",
+        "memoir",
+        "lgbt",
+        "queer",
+        "audiobook",
+        "horror",
+        "feminism"
+      ],
+      "rating": 4.4,
+      "ratings": 153930,
+      "reviews": 23559
+    },
+    {
+      "title": "Home Body",
+      "url": "https://www.goodreads.com/book/show/49656780-home-body",
+      "id": "73542458",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1600123950i/49656780.jpg",
+      "authors": [
+        "Rupi Kaur"
+      ],
+      "genres": [
+        "poetry",
+        "non-fiction",
+        "feminism",
+        "mental-health",
+        "contemporary",
+        "adult",
+        "self-help"
+      ],
+      "rating": 4.06,
+      "ratings": 152988,
+      "reviews": 11075
+    },
+    {
+      "title": "All About Love: New Visions",
+      "url": "https://www.goodreads.com/book/show/17607.All_About_Love",
+      "id": "270045",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1387754966i/17607.jpg",
+      "authors": [
+        "bell hooks"
+      ],
+      "genres": [
+        "non-fiction",
+        "feminism",
+        "philosophy",
+        "self-help",
+        "essays",
+        "love",
+        "psychology"
+      ],
+      "rating": 4.02,
+      "ratings": 124961,
+      "reviews": 16941
     },
     {
       "title": "Hunger: A Memoir of (My) Body",
@@ -458,9 +479,9 @@
         "biography-memoir",
         "mental-health"
       ],
-      "rating": 4.18,
-      "ratings": 111884,
-      "reviews": 12654
+      "rating": 4.17,
+      "ratings": 119145,
+      "reviews": 13397
     },
     {
       "title": "Catch and Kill: Lies, Spies, and a Conspiracy to Protect Predators",
@@ -479,30 +500,9 @@
         "feminism",
         "journalism"
       ],
-      "rating": 4.41,
-      "ratings": 96899,
-      "reviews": 10428
-    },
-    {
-      "title": "Why I'm No Longer Talking to White People About Race",
-      "url": "https://www.goodreads.com/book/show/33606119-why-i-m-no-longer-talking-to-white-people-about-race",
-      "id": "54425062",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1497293578i/33606119.jpg",
-      "authors": [
-        "Reni Eddo-Lodge"
-      ],
-      "genres": [
-        "non-fiction",
-        "race",
-        "feminism",
-        "politics",
-        "anti-racist",
-        "social-justice",
-        "history"
-      ],
-      "rating": 4.38,
-      "ratings": 95428,
-      "reviews": 7957
+      "rating": 4.4,
+      "ratings": 101240,
+      "reviews": 10772
     }
   ]
 }

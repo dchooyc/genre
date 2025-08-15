@@ -1,69 +1,6 @@
 {
   "books": [
     {
-      "title": "The Girl with the Dragon Tattoo",
-      "url": "https://www.goodreads.com/book/show/2429135.The_Girl_with_the_Dragon_Tattoo",
-      "id": "1708725",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1684638853i/2429135.jpg",
-      "authors": [
-        "Stieg Larsson"
-      ],
-      "genres": [
-        "fiction",
-        "mystery",
-        "thriller",
-        "crime",
-        "mystery-thriller",
-        "suspense",
-        "contemporary"
-      ],
-      "rating": 4.17,
-      "ratings": 3182804,
-      "reviews": 77663
-    },
-    {
-      "title": "Gone Girl",
-      "url": "https://www.goodreads.com/book/show/19288043-gone-girl",
-      "id": "13306276",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1554086139i/19288043.jpg",
-      "authors": [
-        "Gillian Flynn"
-      ],
-      "genres": [
-        "mystery",
-        "mystery-thriller",
-        "crime",
-        "suspense",
-        "contemporary",
-        "adult",
-        "thriller"
-      ],
-      "rating": 4.13,
-      "ratings": 3091053,
-      "reviews": 154702
-    },
-    {
-      "title": "Where the Crawdads Sing",
-      "url": "https://www.goodreads.com/book/show/36809135-where-the-crawdads-sing",
-      "id": "58589364",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1582135294i/36809135.jpg",
-      "authors": [
-        "Delia Owens"
-      ],
-      "genres": [
-        "fiction",
-        "historical-fiction",
-        "mystery",
-        "romance",
-        "audiobook",
-        "contemporary",
-        "adult"
-      ],
-      "rating": 4.39,
-      "ratings": 2989492,
-      "reviews": 203236
-    },
-    {
       "title": "Verity",
       "url": "https://www.goodreads.com/book/show/59344312-verity",
       "id": "64581304",
@@ -77,12 +14,75 @@
         "mystery",
         "fiction",
         "mystery-thriller",
-        "suspense",
+        "book-club",
+        "suspense"
+      ],
+      "rating": 4.3,
+      "ratings": 3570732,
+      "reviews": 288842
+    },
+    {
+      "title": "Where the Crawdads Sing",
+      "url": "https://www.goodreads.com/book/show/36809135-where-the-crawdads-sing",
+      "id": "58589364",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1582135294i/36809135.jpg",
+      "authors": [
+        "Delia Owens"
+      ],
+      "genres": [
+        "fiction",
+        "book-club",
+        "historical-fiction",
+        "mystery",
+        "romance",
+        "audiobook",
         "contemporary"
       ],
-      "rating": 4.32,
-      "ratings": 2674955,
-      "reviews": 233733
+      "rating": 4.37,
+      "ratings": 3495643,
+      "reviews": 221754
+    },
+    {
+      "title": "The Girl With the Dragon Tattoo",
+      "url": "https://www.goodreads.com/book/show/2429135.The_Girl_with_the_Dragon_Tattoo",
+      "id": "1708725",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1684638853i/2429135.jpg",
+      "authors": [
+        "Stieg Larsson"
+      ],
+      "genres": [
+        "fiction",
+        "mystery",
+        "thriller",
+        "crime",
+        "mystery-thriller",
+        "book-club",
+        "suspense"
+      ],
+      "rating": 4.17,
+      "ratings": 3385727,
+      "reviews": 82219
+    },
+    {
+      "title": "Gone Girl",
+      "url": "https://www.goodreads.com/book/show/19288043-gone-girl",
+      "id": "13306276",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1554086139i/19288043.jpg",
+      "authors": [
+        "Gillian Flynn"
+      ],
+      "genres": [
+        "fiction",
+        "mystery",
+        "thriller",
+        "book-club",
+        "mystery-thriller",
+        "crime",
+        "suspense"
+      ],
+      "rating": 4.14,
+      "ratings": 3367709,
+      "reviews": 166116
     },
     {
       "title": "The Silent Patient",
@@ -96,14 +96,35 @@
         "thriller",
         "mystery",
         "fiction",
+        "book-club",
         "mystery-thriller",
-        "suspense",
-        "crime",
-        "psychological-thriller"
+        "audiobook",
+        "suspense"
       ],
-      "rating": 4.18,
-      "ratings": 2167343,
-      "reviews": 190043
+      "rating": 4.17,
+      "ratings": 3026484,
+      "reviews": 261789
+    },
+    {
+      "title": "The Housemaid",
+      "url": "https://www.goodreads.com/book/show/60556912-the-housemaid",
+      "id": "95443525",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1646534743i/60556912.jpg",
+      "authors": [
+        "Freida McFadden"
+      ],
+      "genres": [
+        "thriller",
+        "mystery",
+        "fiction",
+        "book-club",
+        "mystery-thriller",
+        "audiobook",
+        "suspense"
+      ],
+      "rating": 4.29,
+      "ratings": 2593173,
+      "reviews": 218337
     },
     {
       "title": "The Shining",
@@ -111,7 +132,7 @@
       "id": "849585",
       "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1353277730i/11588.jpg",
       "authors": [
-        "Stephen King"
+        "Stephen        King"
       ],
       "genres": [
         "horror",
@@ -122,9 +143,30 @@
         "paranormal",
         "mystery"
       ],
-      "rating": 4.27,
-      "ratings": 1488816,
-      "reviews": 38824
+      "rating": 4.28,
+      "ratings": 1655211,
+      "reviews": 46797
+    },
+    {
+      "title": "A Good Girl's Guide to Murder",
+      "url": "https://www.goodreads.com/book/show/40916679-a-good-girl-s-guide-to-murder",
+      "id": "63791847",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1545494980i/40916679.jpg",
+      "authors": [
+        "Holly  Jackson"
+      ],
+      "genres": [
+        "mystery",
+        "thriller",
+        "young-adult",
+        "mystery-thriller",
+        "fiction",
+        "crime",
+        "audiobook"
+      ],
+      "rating": 4.29,
+      "ratings": 1647842,
+      "reviews": 165110
     },
     {
       "title": "And Then There Were None",
@@ -140,39 +182,18 @@
         "thriller",
         "crime",
         "mystery-thriller",
-        "classics",
-        "audiobook"
+        "book-club",
+        "classics"
       ],
       "rating": 4.28,
-      "ratings": 1355895,
-      "reviews": 64451
+      "ratings": 1551309,
+      "reviews": 77780
     },
     {
-      "title": "It",
-      "url": "https://www.goodreads.com/book/show/830502.It",
-      "id": "150259",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1334416842i/830502.jpg",
-      "authors": [
-        "Stephen King"
-      ],
-      "genres": [
-        "horror",
-        "fiction",
-        "thriller",
-        "fantasy",
-        "classics",
-        "audiobook",
-        "mystery"
-      ],
-      "rating": 4.24,
-      "ratings": 1110732,
-      "reviews": 35917
-    },
-    {
-      "title": "The Housemaid",
-      "url": "https://www.goodreads.com/book/show/60556912-the-housemaid",
-      "id": "95443525",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1646534743i/60556912.jpg",
+      "title": "The Housemaid's Secret",
+      "url": "https://www.goodreads.com/book/show/62848145-the-housemaid-s-secret",
+      "id": "98635115",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1664729357i/62848145.jpg",
       "authors": [
         "Freida McFadden"
       ],
@@ -183,32 +204,53 @@
         "mystery-thriller",
         "suspense",
         "audiobook",
-        "psychological-thriller"
+        "crime"
       ],
-      "rating": 4.33,
-      "ratings": 1065227,
-      "reviews": 90513
+      "rating": 4.19,
+      "ratings": 1336615,
+      "reviews": 89817
     },
     {
-      "title": "A Good Girl's Guide to Murder",
-      "url": "https://www.goodreads.com/book/show/40916679-a-good-girl-s-guide-to-murder",
-      "id": "63791847",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1545494980i/40916679.jpg",
+      "title": "Never Lie",
+      "url": "https://www.goodreads.com/book/show/62080187-never-lie",
+      "id": "97861319",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1661428846i/62080187.jpg",
       "authors": [
-        "Holly  Jackson"
+        "Freida McFadden"
       ],
       "genres": [
-        "mystery",
-        "young-adult",
         "thriller",
+        "mystery",
+        "audiobook",
         "mystery-thriller",
         "fiction",
-        "crime",
-        "contemporary"
+        "book-club",
+        "suspense"
       ],
-      "rating": 4.33,
-      "ratings": 1044115,
-      "reviews": 114866
+      "rating": 4.08,
+      "ratings": 1263047,
+      "reviews": 105489
+    },
+    {
+      "title": "It",
+      "url": "https://www.goodreads.com/book/show/830502.It",
+      "id": "150259",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1334416842i/830502.jpg",
+      "authors": [
+        "Stephen        King"
+      ],
+      "genres": [
+        "horror",
+        "fiction",
+        "thriller",
+        "fantasy",
+        "audiobook",
+        "classics",
+        "mystery"
+      ],
+      "rating": 4.24,
+      "ratings": 1231112,
+      "reviews": 41001
     },
     {
       "title": "Sharp Objects",
@@ -219,17 +261,17 @@
         "Gillian Flynn"
       ],
       "genres": [
+        "thriller",
         "mystery",
         "fiction",
-        "thriller",
         "mystery-thriller",
         "crime",
         "audiobook",
         "suspense"
       ],
-      "rating": 4.02,
-      "ratings": 1041014,
-      "reviews": 65553
+      "rating": 4.01,
+      "ratings": 1184110,
+      "reviews": 77092
     },
     {
       "title": "Big Little Lies",
@@ -242,15 +284,78 @@
       "genres": [
         "fiction",
         "mystery",
+        "book-club",
         "contemporary",
-        "chick-lit",
         "thriller",
-        "audiobook",
-        "mystery-thriller"
+        "mystery-thriller",
+        "audiobook"
       ],
       "rating": 4.31,
-      "ratings": 1006065,
-      "reviews": 54716
+      "ratings": 1092647,
+      "reviews": 58658
+    },
+    {
+      "title": "Remarkably Bright Creatures",
+      "url": "https://www.goodreads.com/book/show/58733693-remarkably-bright-creatures",
+      "id": "90375164",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1651600548i/58733693.jpg",
+      "authors": [
+        "Shelby Van Pelt"
+      ],
+      "genres": [
+        "fiction",
+        "book-club",
+        "audiobook",
+        "contemporary",
+        "mystery",
+        "magical-realism",
+        "literary-fiction"
+      ],
+      "rating": 4.37,
+      "ratings": 1072696,
+      "reviews": 127380
+    },
+    {
+      "title": "The Inheritance Games",
+      "url": "https://www.goodreads.com/book/show/52439531-the-inheritance-games",
+      "id": "71767646",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1587396413i/52439531.jpg",
+      "authors": [
+        "Jennifer Lynn Barnes"
+      ],
+      "genres": [
+        "mystery",
+        "young-adult",
+        "romance",
+        "fiction",
+        "fantasy",
+        "mystery-thriller",
+        "thriller"
+      ],
+      "rating": 4.13,
+      "ratings": 1010534,
+      "reviews": 106134
+    },
+    {
+      "title": "None of This Is True",
+      "url": "https://www.goodreads.com/book/show/62334530-none-of-this-is-true",
+      "id": "98147299",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1686092508i/62334530.jpg",
+      "authors": [
+        "Lisa Jewell"
+      ],
+      "genres": [
+        "thriller",
+        "mystery",
+        "audiobook",
+        "fiction",
+        "mystery-thriller",
+        "book-club",
+        "suspense"
+      ],
+      "rating": 4.08,
+      "ratings": 997490,
+      "reviews": 101449
     },
     {
       "title": "The Girl Who Played with Fire",
@@ -269,9 +374,72 @@
         "suspense",
         "contemporary"
       ],
-      "rating": 4.25,
-      "ratings": 923155,
-      "reviews": 37266
+      "rating": 4.26,
+      "ratings": 971297,
+      "reviews": 38684
+    },
+    {
+      "title": "The Secret History",
+      "url": "https://www.goodreads.com/book/show/29044.The_Secret_History",
+      "id": "221359",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1751820530i/29044.jpg",
+      "authors": [
+        "Donna Tartt"
+      ],
+      "genres": [
+        "fiction",
+        "dark-academia",
+        "mystery",
+        "classics",
+        "contemporary",
+        "thriller",
+        "literary-fiction"
+      ],
+      "rating": 4.16,
+      "ratings": 958040,
+      "reviews": 112883
+    },
+    {
+      "title": "Then She Was Gone",
+      "url": "https://www.goodreads.com/book/show/35297426-then-she-was-gone",
+      "id": "56020593",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1741291185i/35297426.jpg",
+      "authors": [
+        "Lisa Jewell"
+      ],
+      "genres": [
+        "thriller",
+        "mystery",
+        "fiction",
+        "mystery-thriller",
+        "audiobook",
+        "book-club",
+        "suspense"
+      ],
+      "rating": 4.04,
+      "ratings": 921854,
+      "reviews": 69788
+    },
+    {
+      "title": "The Inmate",
+      "url": "https://www.goodreads.com/book/show/61149872-the-inmate",
+      "id": "96389151",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1653271523i/61149872.jpg",
+      "authors": [
+        "Freida McFadden"
+      ],
+      "genres": [
+        "thriller",
+        "audiobook",
+        "mystery",
+        "mystery-thriller",
+        "fiction",
+        "suspense",
+        "book-club"
+      ],
+      "rating": 4.01,
+      "ratings": 911657,
+      "reviews": 77726
     },
     {
       "title": "A Time to Kill",
@@ -290,59 +458,17 @@
         "legal-thriller",
         "mystery-thriller"
       ],
-      "rating": 4.11,
-      "ratings": 801200,
-      "reviews": 7030
-    },
-    {
-      "title": "The Secret History",
-      "url": "https://www.goodreads.com/book/show/29044.The_Secret_History",
-      "id": "221359",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1451554846i/29044.jpg",
-      "authors": [
-        "Donna Tartt"
-      ],
-      "genres": [
-        "fiction",
-        "mystery",
-        "classics",
-        "contemporary",
-        "thriller",
-        "literary-fiction",
-        "mystery-thriller"
-      ],
-      "rating": 4.17,
-      "ratings": 741987,
-      "reviews": 81216
-    },
-    {
-      "title": "The Inheritance Games",
-      "url": "https://www.goodreads.com/book/show/52439531-the-inheritance-games",
-      "id": "71767646",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1587396413i/52439531.jpg",
-      "authors": [
-        "Jennifer Lynn Barnes"
-      ],
-      "genres": [
-        "mystery",
-        "young-adult",
-        "romance",
-        "fiction",
-        "fantasy",
-        "contemporary",
-        "mystery-thriller"
-      ],
-      "rating": 4.17,
-      "ratings": 706287,
-      "reviews": 80761
+      "rating": 4.12,
+      "ratings": 820889,
+      "reviews": 7696
     },
     {
       "title": "Misery",
-      "url": "https://www.goodreads.com/book/show/10614.Misery",
+      "url": "https://www.goodreads.com/book/show/383137.Misery",
       "id": "3230869",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1554220401i/10614.jpg",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1174341325i/383137.jpg",
       "authors": [
-        "Stephen King"
+        "Robin Waterfield"
       ],
       "genres": [
         "horror",
@@ -350,159 +476,33 @@
         "thriller",
         "mystery",
         "suspense",
-        "mystery-thriller",
-        "adult"
+        "audiobook",
+        "mystery-thriller"
       ],
-      "rating": 4.21,
-      "ratings": 698245,
-      "reviews": 26230
+      "rating": 4.23,
+      "ratings": 818536,
+      "reviews": 33877
     },
     {
-      "title": "The Devil in the White City: Murder, Magic, and Madness at the Fair That Changed America",
-      "url": "https://www.goodreads.com/book/show/397483.The_Devil_in_the_White_City",
-      "id": "3486041",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1583433024i/397483.jpg",
+      "title": "The Boyfriend",
+      "url": "https://www.goodreads.com/book/show/208503280-the-boyfriend",
+      "id": "214628030",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1711205083i/208503280.jpg",
       "authors": [
-        "Erik Larson"
-      ],
-      "genres": [
-        "non-fiction",
-        "history",
-        "true-crime",
-        "crime",
-        "historical",
-        "mystery",
-        "audiobook"
-      ],
-      "rating": 4,
-      "ratings": 682609,
-      "reviews": 40332
-    },
-    {
-      "title": "Then She Was Gone",
-      "url": "https://www.goodreads.com/book/show/35297426-then-she-was-gone",
-      "id": "56020593",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1523891273i/35297426.jpg",
-      "authors": [
-        "Lisa Jewell"
+        "Freida McFadden"
       ],
       "genres": [
         "thriller",
-        "mystery",
-        "fiction",
-        "mystery-thriller",
-        "audiobook",
-        "suspense",
-        "crime"
-      ],
-      "rating": 4.06,
-      "ratings": 677028,
-      "reviews": 51283
-    },
-    {
-      "title": "In Cold Blood",
-      "url": "https://www.goodreads.com/book/show/168642.In_Cold_Blood",
-      "id": "1940709",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1424931136i/168642.jpg",
-      "authors": [
-        "Truman Capote"
-      ],
-      "genres": [
-        "non-fiction",
-        "classics",
-        "true-crime",
-        "crime",
-        "mystery",
-        "history",
-        "thriller"
-      ],
-      "rating": 4.09,
-      "ratings": 659349,
-      "reviews": 23791
-    },
-    {
-      "title": "The Shadow of the Wind",
-      "url": "https://www.goodreads.com/book/show/1232.The_Shadow_of_the_Wind",
-      "id": "3209783",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1628791882i/1232.jpg",
-      "authors": [
-        "Carlos Ruiz Zafón"
-      ],
-      "genres": [
-        "fiction",
-        "historical-fiction",
-        "mystery",
-        "fantasy",
-        "books-about-books",
-        "historical",
-        "spain"
-      ],
-      "rating": 4.3,
-      "ratings": 635455,
-      "reviews": 51267
-    },
-    {
-      "title": "Anxious People",
-      "url": "https://www.goodreads.com/book/show/53799686-anxious-people",
-      "id": "67840009",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1594234890i/53799686.jpg",
-      "authors": [
-        "Fredrik Backman"
-      ],
-      "genres": [
-        "fiction",
-        "contemporary",
         "audiobook",
         "mystery",
-        "humor",
-        "adult",
-        "literary-fiction"
-      ],
-      "rating": 4.18,
-      "ratings": 633774,
-      "reviews": 77599
-    },
-    {
-      "title": "Rebecca",
-      "url": "https://www.goodreads.com/book/show/17899948-rebecca",
-      "id": "46663",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386605169i/17899948.jpg",
-      "authors": [
-        "Daphne du Maurier"
-      ],
-      "genres": [
-        "fiction",
-        "mystery",
-        "gothic",
-        "romance",
-        "classics",
-        "historical-fiction",
-        "thriller"
-      ],
-      "rating": 4.24,
-      "ratings": 628909,
-      "reviews": 40200
-    },
-    {
-      "title": "The Firm",
-      "url": "https://www.goodreads.com/book/show/5358.The_Firm",
-      "id": "38270",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1418465200i/5358.jpg",
-      "authors": [
-        "John Grisham"
-      ],
-      "genres": [
-        "fiction",
-        "thriller",
-        "mystery",
-        "crime",
-        "suspense",
         "mystery-thriller",
-        "legal-thriller"
+        "fiction",
+        "suspense",
+        "book-club"
       ],
-      "rating": 4.06,
-      "ratings": 624441,
-      "reviews": 3824
+      "rating": 4.03,
+      "ratings": 767082,
+      "reviews": 68715
     }
   ]
 }

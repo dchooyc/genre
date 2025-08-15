@@ -1,172 +1,424 @@
 {
   "books": [
     {
-      "title": "Star Trek II: The Wrath Of Khan",
-      "url": "https://www.goodreads.com/book/show/77349.Star_Trek_II",
-      "id": "74749",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1333340163i/77349.jpg",
+      "title": "Victory",
+      "url": "https://www.goodreads.com/book/show/29475233-victory",
+      "id": "49753857",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1457594619i/29475233.jpg",
       "authors": [
-        "Vonda N. McIntyre"
+        "Nick Webb"
       ],
       "genres": [
-        "star-trek",
         "science-fiction",
+        "space-opera",
+        "audiobook",
         "fiction",
-        "media-tie-in",
+        "military-science-fiction",
         "science-fiction-fantasy",
-        "star-trek-original-series",
-        "novels"
+        "military-fiction"
       ],
-      "rating": 4.09,
-      "ratings": 3539,
-      "reviews": 158
+      "rating": 4.2,
+      "ratings": 4106,
+      "reviews": 131
     },
     {
-      "title": "PLUTO: Urasawa x Tezuka, Vol.5",
-      "url": "https://www.goodreads.com/book/show/2335549.PLUTO",
-      "id": "2342148",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1344751031i/2335549.jpg",
+      "title": "Nova Terra: Kingbreaker",
+      "url": "https://www.goodreads.com/book/show/49519266-nova-terra",
+      "id": "73527498",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1569497327l/49519266.jpg",
       "authors": [
-        "Naoki Urasawa"
+        "Seth Ring"
+      ],
+      "genres": [
+        "fantasy",
+        "audiobook",
+        "science-fiction",
+        "fiction",
+        "adventure",
+        "magic",
+        "elves"
+      ],
+      "rating": 4.46,
+      "ratings": 4103,
+      "reviews": 102
+    },
+    {
+      "title": "The Terran Privateer",
+      "url": "https://www.goodreads.com/book/show/30966931-the-terran-privateer",
+      "id": "51582099",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1467909967i/30966931.jpg",
+      "authors": [
+        "Glynn Stewart"
+      ],
+      "genres": [
+        "science-fiction",
+        "space-opera",
+        "military-fiction",
+        "audiobook",
+        "fiction",
+        "aliens",
+        "military-science-fiction"
+      ],
+      "rating": 4.3,
+      "ratings": 4101,
+      "reviews": 239
+    },
+    {
+      "title": "From Hell with Love",
+      "url": "https://www.goodreads.com/book/show/7091973-from-hell-with-love",
+      "id": "7348330",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442466224i/7091973.jpg",
+      "authors": [
+        "Simon R. Green"
+      ],
+      "genres": [
+        "urban-fantasy",
+        "fantasy",
+        "fiction",
+        "paranormal",
+        "mystery",
+        "science-fiction",
+        "audiobook"
+      ],
+      "rating": 4.03,
+      "ratings": 4099,
+      "reviews": 110
+    },
+    {
+      "title": "The Private Eye",
+      "url": "https://www.goodreads.com/book/show/26247784-the-private-eye",
+      "id": "46242164",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1488819224i/26247784.jpg",
+      "authors": [
+        "Brian K. Vaughan"
+      ],
+      "genres": [
+        "graphic-novels",
+        "comics",
+        "science-fiction",
+        "mystery",
+        "fiction",
+        "crime",
+        "comic-book"
+      ],
+      "rating": 4.15,
+      "ratings": 4098,
+      "reviews": 580
+    },
+    {
+      "title": "Black Moon",
+      "url": "https://www.goodreads.com/book/show/28529955-black-moon",
+      "id": "48688508",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1458830832i/28529955.jpg",
+      "authors": [
+        "Romina Russell"
+      ],
+      "genres": [
+        "fantasy",
+        "young-adult",
+        "science-fiction",
+        "romance",
+        "fiction",
+        "dystopia",
+        "young-adult-fantasy"
+      ],
+      "rating": 4.22,
+      "ratings": 4097,
+      "reviews": 451
+    },
+    {
+      "title": "Legend Trilogy Boxed Set",
+      "url": "https://www.goodreads.com/book/show/17929102-legend-trilogy-boxed-set",
+      "id": "25130295",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1368726621i/17929102.jpg",
+      "authors": [
+        "Marie Lu"
+      ],
+      "genres": [
+        "dystopia",
+        "young-adult",
+        "romance",
+        "fantasy",
+        "fiction",
+        "science-fiction",
+        "adventure"
+      ],
+      "rating": 4.54,
+      "ratings": 4094,
+      "reviews": 164
+    },
+    {
+      "title": "The Refrigerator Monologues",
+      "url": "https://www.goodreads.com/book/show/32714267-the-refrigerator-monologues",
+      "id": "53293963",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1477836652i/32714267.jpg",
+      "authors": [
+        "Catherynne M. Valente"
+      ],
+      "genres": [
+        "fantasy",
+        "short-stories",
+        "fiction",
+        "superheroes",
+        "feminism",
+        "science-fiction",
+        "comics"
+      ],
+      "rating": 4.04,
+      "ratings": 4093,
+      "reviews": 889
+    },
+    {
+      "title": "Neon Genesis Evangelion, Vol. 2",
+      "url": "https://www.goodreads.com/book/show/283506.Neon_Genesis_Evangelion_Vol_2",
+      "id": "275095",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1408376849i/283506.jpg",
+      "authors": [
+        "Yoshiyuki Sadamoto"
       ],
       "genres": [
         "manga",
         "comics",
         "science-fiction",
-        "mystery",
         "graphic-novels",
-        "seinen",
-        "fiction"
-      ],
-      "rating": 4.45,
-      "ratings": 3536,
-      "reviews": 112
-    },
-    {
-      "title": "The Invisibles, Vol. 7: The Invisible Kingdom",
-      "url": "https://www.goodreads.com/book/show/22394.The_Invisibles_Vol_7",
-      "id": "23420",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1309400639i/22394.jpg",
-      "authors": [
-        "Grant Morrison"
-      ],
-      "genres": [
-        "comics",
-        "graphic-novels",
-        "science-fiction",
-        "graphic-novels-comics",
+        "comics-manga",
         "fiction",
-        "fantasy",
-        "comix"
+        "action"
       ],
-      "rating": 4.2,
-      "ratings": 3536,
-      "reviews": 104
+      "rating": 4.24,
+      "ratings": 4093,
+      "reviews": 143
     },
     {
-      "title": "The End of Infinity",
-      "url": "https://www.goodreads.com/book/show/13012638-the-end-of-infinity",
-      "id": "18174455",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1389806611i/13012638.jpg",
+      "title": "Liberation",
+      "url": "https://www.goodreads.com/book/show/20508635-liberation",
+      "id": "35254987",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1389410150i/20508635.jpg",
       "authors": [
-        "Matt Myklusch"
-      ],
-      "genres": [
-        "fantasy",
-        "science-fiction",
-        "fiction",
-        "middle-grade",
-        "young-adult",
-        "superheroes",
-        "adventure"
-      ],
-      "rating": 4.43,
-      "ratings": 3535,
-      "reviews": 121
-    },
-    {
-      "title": "Under the Dome: Part Two",
-      "url": "https://www.goodreads.com/book/show/18528453-under-the-dome",
-      "id": "42424366",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1395628970i/18528453.jpg",
-      "authors": [
-        "Stephen King"
-      ],
-      "genres": [
-        "horror",
-        "science-fiction",
-        "fiction",
-        "fantasy",
-        "thriller",
-        "dystopia",
-        "collections"
-      ],
-      "rating": 4.08,
-      "ratings": 3534,
-      "reviews": 229
-    },
-    {
-      "title": "Artifact Space",
-      "url": "https://www.goodreads.com/book/show/56097208-artifact-space",
-      "id": "87376352",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1606724107i/56097208.jpg",
-      "authors": [
-        "Miles  Cameron"
+        "Ryk Brown"
       ],
       "genres": [
         "science-fiction",
         "space-opera",
         "fiction",
         "military-fiction",
+        "audiobook",
+        "military-science-fiction",
+        "space"
+      ],
+      "rating": 4.39,
+      "ratings": 4093,
+      "reviews": 95
+    },
+    {
+      "title": "The Invisibles, Vol. 6: Kissing Mister Quimper",
+      "url": "https://www.goodreads.com/book/show/22406.The_Invisibles_Vol_6",
+      "id": "1197222",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1309400581i/22406.jpg",
+      "authors": [
+        "Grant Morrison"
+      ],
+      "genres": [
+        "comics",
+        "graphic-novels",
+        "fiction",
+        "science-fiction",
+        "graphic-novels-comics",
+        "fantasy",
+        "comix"
+      ],
+      "rating": 4.25,
+      "ratings": 4093,
+      "reviews": 81
+    },
+    {
+      "title": "Das Mädchen, das die Zeit durchbrach",
+      "url": "https://www.goodreads.com/book/show/53320915-das-m-dchen-das-die-zeit-durchbrach",
+      "id": "81700409",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1596133889i/53320915.jpg",
+      "authors": [
+        "Anna Benning"
+      ],
+      "genres": [
+        "fantasy",
+        "young-adult",
+        "dystopia",
+        "science-fiction",
+        "romance",
+        "romantasy",
+        "german-literature"
+      ],
+      "rating": 4.44,
+      "ratings": 4092,
+      "reviews": 572
+    },
+    {
+      "title": "Ogres",
+      "url": "https://www.goodreads.com/book/show/58438207-ogres",
+      "id": "91708858",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1624807279i/58438207.jpg",
+      "authors": [
+        "Adrian Tchaikovsky"
+      ],
+      "genres": [
+        "fantasy",
+        "science-fiction",
+        "novella",
+        "fiction",
+        "dystopia",
+        "audiobook",
+        "speculative-fiction"
+      ],
+      "rating": 4.23,
+      "ratings": 4091,
+      "reviews": 676
+    },
+    {
+      "title": "The Seventh Realm, Part 1",
+      "url": "https://www.goodreads.com/book/show/58431646-the-seventh-realm-part-1",
+      "id": "91693256",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1624731026i/58431646.jpg",
+      "authors": [
+        "Michael  Chatfield"
+      ],
+      "genres": [
+        "fantasy",
+        "magic",
+        "audiobook",
+        "military-fiction",
+        "adventure",
+        "science-fiction",
+        "action"
+      ],
+      "rating": 4.49,
+      "ratings": 4089,
+      "reviews": 261
+    },
+    {
+      "title": "The Last Aerie",
+      "url": "https://www.goodreads.com/book/show/636741.The_Last_Aerie",
+      "id": "1862951",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1312059595i/636741.jpg",
+      "authors": [
+        "Brian Lumley"
+      ],
+      "genres": [
+        "horror",
+        "vampires",
+        "fantasy",
+        "fiction",
+        "paranormal",
+        "science-fiction",
+        "urban-fantasy"
+      ],
+      "rating": 4.24,
+      "ratings": 4085,
+      "reviews": 45
+    },
+    {
+      "title": "Savage Homecoming",
+      "url": "https://www.goodreads.com/book/show/18596923-savage-homecoming",
+      "id": "26344009",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1380501605i/18596923.jpg",
+      "authors": [
+        "Joshua Dalzelle"
+      ],
+      "genres": [
+        "science-fiction",
+        "space-opera",
+        "military-fiction",
+        "audiobook",
         "aliens",
         "space",
-        "science-fiction-fantasy"
+        "military-science-fiction"
       ],
-      "rating": 4.33,
-      "ratings": 3529,
-      "reviews": 422
+      "rating": 4.32,
+      "ratings": 4084,
+      "reviews": 98
     },
     {
-      "title": "Sword Art Online, Vol. 4: Fairy Dance",
-      "url": "https://www.goodreads.com/book/show/22875088-sword-art-online-vol-4",
-      "id": "18228426",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1431298039i/22875088.jpg",
+      "title": "The Hive",
+      "url": "https://www.goodreads.com/book/show/41555943-the-hive",
+      "id": "45991948",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1559690673i/41555943.jpg",
       "authors": [
-        "Reki Kawahara"
-      ],
-      "genres": [
-        "light-novel",
-        "fantasy",
-        "manga",
-        "science-fiction",
-        "fiction",
-        "young-adult",
-        "romance"
-      ],
-      "rating": 4.16,
-      "ratings": 3529,
-      "reviews": 125
-    },
-    {
-      "title": "Soul Hunter",
-      "url": "https://www.goodreads.com/book/show/7000922-soul-hunter",
-      "id": "7244722",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1333913209i/7000922.jpg",
-      "authors": [
-        "Aaron Dembski-Bowden"
+        "Orson Scott Card"
       ],
       "genres": [
         "science-fiction",
-        "40k",
         "fiction",
-        "fantasy",
         "audiobook",
-        "horror",
-        "war"
+        "science-fiction-fantasy",
+        "fantasy",
+        "space-opera",
+        "aliens"
       ],
-      "rating": 4.35,
-      "ratings": 3527,
-      "reviews": 177
+      "rating": 4.11,
+      "ratings": 4080,
+      "reviews": 281
+    },
+    {
+      "title": "The Cheat Code",
+      "url": "https://www.goodreads.com/book/show/60743324-the-cheat-code",
+      "id": "88347367",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1691643058i/60743324.jpg",
+      "authors": [
+        "Misba"
+      ],
+      "genres": [
+        "fantasy",
+        "science-fiction",
+        "science-fiction-fantasy",
+        "post-apocalyptic",
+        "adventure",
+        "dark",
+        "adult"
+      ],
+      "rating": 4.73,
+      "ratings": 4076,
+      "reviews": 1537
+    },
+    {
+      "title": "The Hyperion Omnibus",
+      "url": "https://www.goodreads.com/book/show/3943.The_Hyperion_Omnibus",
+      "id": "7666",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348495228i/3943.jpg",
+      "authors": [
+        "Dan Simmons"
+      ],
+      "genres": [
+        "science-fiction",
+        "fiction",
+        "fantasy",
+        "space-opera",
+        "horror",
+        "space",
+        "speculative-fiction"
+      ],
+      "rating": 4.44,
+      "ratings": 4076,
+      "reviews": 244
+    },
+    {
+      "title": "Blood Brothers",
+      "url": "https://www.goodreads.com/book/show/60837.Blood_Brothers",
+      "id": "1892118",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1312040059i/60837.jpg",
+      "authors": [
+        "Brian Lumley"
+      ],
+      "genres": [
+        "horror",
+        "vampires",
+        "fantasy",
+        "fiction",
+        "paranormal",
+        "supernatural",
+        "science-fiction"
+      ],
+      "rating": 4.17,
+      "ratings": 4074,
+      "reviews": 69
     },
     {
       "title": "Ravenor Returned",
@@ -177,332 +429,80 @@
         "Dan Abnett"
       ],
       "genres": [
-        "science-fiction",
         "40k",
+        "science-fiction",
         "fiction",
         "fantasy",
         "audiobook",
-        "mystery",
-        "military-fiction"
+        "novels",
+        "mystery"
       ],
       "rating": 4.26,
-      "ratings": 3526,
-      "reviews": 99
+      "ratings": 4069,
+      "reviews": 124
     },
     {
-      "title": "Wind Rider's Oath",
-      "url": "https://www.goodreads.com/book/show/17320.Wind_Rider_s_Oath",
-      "id": "2585826",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388466531i/17320.jpg",
+      "title": "Red Dwarf Omnibus: Infinity Welcomes Careful Drivers & Better Than Life",
+      "url": "https://www.goodreads.com/book/show/70956.Red_Dwarf_Omnibus",
+      "id": "68744",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348229137i/70956.jpg",
       "authors": [
-        "David Weber"
-      ],
-      "genres": [
-        "fantasy",
-        "fiction",
-        "epic-fantasy",
-        "science-fiction-fantasy",
-        "science-fiction",
-        "military-fiction",
-        "high-fantasy"
-      ],
-      "rating": 4.05,
-      "ratings": 3525,
-      "reviews": 65
-    },
-    {
-      "title": "The Wild Robot Protects",
-      "url": "https://www.goodreads.com/book/show/75593520-the-wild-robot-protects",
-      "id": "90731925",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1688418528i/75593520.jpg",
-      "authors": [
-        "Peter  Brown"
-      ],
-      "genres": [
-        "middle-grade",
-        "science-fiction",
-        "fiction",
-        "childrens",
-        "adventure",
-        "fantasy",
-        "audiobook"
-      ],
-      "rating": 4.21,
-      "ratings": 3523,
-      "reviews": 439
-    },
-    {
-      "title": "Eine Billion Dollar",
-      "url": "https://www.goodreads.com/book/show/71381.Eine_Billion_Dollar",
-      "id": "69125",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1170759022i/71381.jpg",
-      "authors": [
-        "Andreas Eschbach"
-      ],
-      "genres": [
-        "thriller",
-        "fiction",
-        "german-literature",
-        "science-fiction",
-        "roman",
-        "audiobook",
-        "novels"
-      ],
-      "rating": 4.09,
-      "ratings": 3522,
-      "reviews": 145
-    },
-    {
-      "title": "Across the Sand",
-      "url": "https://www.goodreads.com/book/show/60012508-across-the-sand",
-      "id": "94603204",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1649649783i/60012508.jpg",
-      "authors": [
-        "Hugh Howey"
+        "Grant Naylor"
       ],
       "genres": [
         "science-fiction",
         "fiction",
-        "dystopia",
-        "post-apocalyptic",
+        "humor",
+        "comedy",
         "fantasy",
         "audiobook",
-        "suspense"
-      ],
-      "rating": 4.05,
-      "ratings": 3522,
-      "reviews": 284
-    },
-    {
-      "title": "Shield's Lady",
-      "url": "https://www.goodreads.com/book/show/186793.Shield_s_Lady",
-      "id": "2217363",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1172536508i/186793.jpg",
-      "authors": [
-        "Amanda Glass"
-      ],
-      "genres": [
-        "romance",
-        "fantasy",
-        "paranormal",
-        "science-fiction",
-        "paranormal-romance",
-        "futuristic",
-        "fiction"
-      ],
-      "rating": 4.11,
-      "ratings": 3521,
-      "reviews": 127
-    },
-    {
-      "title": "Unbound",
-      "url": "https://www.goodreads.com/book/show/18139127-unbound",
-      "id": "25482920",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1403774033i/18139127.jpg",
-      "authors": [
-        "Jim C. Hines"
-      ],
-      "genres": [
-        "fantasy",
-        "urban-fantasy",
-        "fiction",
-        "magic",
-        "paranormal",
-        "science-fiction",
-        "vampires"
-      ],
-      "rating": 4.13,
-      "ratings": 3520,
-      "reviews": 344
-    },
-    {
-      "title": "Never Surrender",
-      "url": "https://www.goodreads.com/book/show/34737097-never-surrender",
-      "id": "55923245",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1490895309i/34737097.jpg",
-      "authors": [
-        "Michael Anderle"
-      ],
-      "genres": [
-        "science-fiction",
-        "fantasy",
-        "vampires",
-        "paranormal",
-        "aliens",
-        "urban-fantasy",
-        "military-fiction"
-      ],
-      "rating": 4.55,
-      "ratings": 3519,
-      "reviews": 130
-    },
-    {
-      "title": "1984",
-      "url": "https://www.goodreads.com/book/show/18971659-1984",
-      "id": "98325784",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1438259405i/18971659.jpg",
-      "authors": [
-        "Duncan Macmillan"
-      ],
-      "genres": [
-        "plays",
-        "classics",
-        "fiction",
-        "theatre",
-        "science-fiction",
-        "literature",
-        "drama"
-      ],
-      "rating": 4.45,
-      "ratings": 3519,
-      "reviews": 55
-    },
-    {
-      "title": "Taming Chaos",
-      "url": "https://www.goodreads.com/book/show/39907637-taming-chaos",
-      "id": "61759243",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1524321949i/39907637.jpg",
-      "authors": [
-        "Anna Carven"
-      ],
-      "genres": [
-        "science-fiction",
-        "romance",
-        "aliens",
-        "science-fiction-romance",
-        "fantasy",
-        "space",
-        "audiobook"
-      ],
-      "rating": 4.05,
-      "ratings": 3517,
-      "reviews": 250
-    },
-    {
-      "title": "Path of Deceit",
-      "url": "https://www.goodreads.com/book/show/60420362-path-of-deceit",
-      "id": "95211662",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1649876989i/60420362.jpg",
-      "authors": [
-        "Tessa  Gratton"
-      ],
-      "genres": [
-        "star-wars",
-        "science-fiction",
-        "young-adult",
-        "fiction",
-        "fantasy",
-        "audiobook",
-        "space-opera"
-      ],
-      "rating": 4.11,
-      "ratings": 3515,
-      "reviews": 454
-    },
-    {
-      "title": "About Time",
-      "url": "https://www.goodreads.com/book/show/60126786-about-time",
-      "id": "94816564",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1656881103i/60126786.jpg",
-      "authors": [
-        "Jodi Taylor"
-      ],
-      "genres": [
-        "time-travel",
-        "science-fiction",
-        "fantasy",
-        "fiction",
-        "audiobook",
-        "historical-fiction",
-        "adventure"
-      ],
-      "rating": 4.58,
-      "ratings": 3514,
-      "reviews": 277
-    },
-    {
-      "title": "Agatha H and the Airship City",
-      "url": "https://www.goodreads.com/book/show/9874196-agatha-h-and-the-airship-city",
-      "id": "14765901",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1291998058i/9874196.jpg",
-      "authors": [
-        "Phil Foglio"
-      ],
-      "genres": [
-        "steampunk",
-        "fantasy",
-        "science-fiction",
-        "fiction",
-        "young-adult",
-        "adventure",
-        "alternate-history"
-      ],
-      "rating": 4.02,
-      "ratings": 3513,
-      "reviews": 487
-    },
-    {
-      "title": "Necronomicon",
-      "url": "https://www.goodreads.com/book/show/58976.Necronomicon",
-      "id": "57423",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1407898373i/58976.jpg",
-      "authors": [
-        "H.R. Giger"
-      ],
-      "genres": [
-        "art",
-        "horror",
-        "fiction",
-        "science-fiction",
-        "fantasy",
-        "graphic-novels",
-        "lovecraftian"
-      ],
-      "rating": 4.16,
-      "ratings": 3509,
-      "reviews": 47
-    },
-    {
-      "title": "The Sparrow",
-      "url": "https://www.goodreads.com/book/show/35056946-the-sparrow",
-      "id": "56347261",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1493821794i/35056946.jpg",
-      "authors": [
-        "Edward Brody"
-      ],
-      "genres": [
-        "fantasy",
-        "fiction",
-        "magic",
-        "role-playing-games",
-        "science-fiction",
-        "virtual-reality",
         "science-fiction-fantasy"
       ],
-      "rating": 4.27,
-      "ratings": 3508,
-      "reviews": 123
+      "rating": 4.35,
+      "ratings": 4065,
+      "reviews": 131
     },
     {
-      "title": "Tokyo Revengers, Vol. 12",
-      "url": "https://www.goodreads.com/book/show/49294674-tokyo-revengers-vol-12",
-      "id": "73630832",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1570189120l/49294674.jpg",
+      "title": "The Voyage of the Sable Keech",
+      "url": "https://www.goodreads.com/book/show/511229.The_Voyage_of_the_Sable_Keech",
+      "id": "2175642",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388252432i/511229.jpg",
       "authors": [
-        "Ken Wakui"
+        "Neal Asher"
       ],
       "genres": [
-        "manga",
-        "shonen",
-        "comics",
-        "time-travel",
         "science-fiction",
-        "comics-manga",
-        "action"
+        "space-opera",
+        "fiction",
+        "audiobook",
+        "fantasy",
+        "science-fiction-fantasy",
+        "adventure"
       ],
-      "rating": 4.59,
-      "ratings": 3507,
-      "reviews": 235
+      "rating": 4.1,
+      "ratings": 4065,
+      "reviews": 128
+    },
+    {
+      "title": "The Lies of the Ajungo",
+      "url": "https://www.goodreads.com/book/show/60784306-the-lies-of-the-ajungo",
+      "id": "93503551",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1652753842i/60784306.jpg",
+      "authors": [
+        "Moses Ose Utomi"
+      ],
+      "genres": [
+        "fantasy",
+        "novella",
+        "fiction",
+        "science-fiction",
+        "adult",
+        "short-stories",
+        "high-fantasy"
+      ],
+      "rating": 4.21,
+      "ratings": 4059,
+      "reviews": 988
     }
   ]
 }

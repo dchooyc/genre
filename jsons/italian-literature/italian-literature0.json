@@ -1,27 +1,6 @@
 {
   "books": [
     {
-      "title": "The Name of the Rose",
-      "url": "https://www.goodreads.com/book/show/119073.The_Name_of_the_Rose",
-      "id": "3138328",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1415375471i/119073.jpg",
-      "authors": [
-        "Umberto Eco"
-      ],
-      "genres": [
-        "fiction",
-        "historical-fiction",
-        "mystery",
-        "historical",
-        "literature",
-        "italy",
-        "italian-literature"
-      ],
-      "rating": 4.14,
-      "ratings": 364644,
-      "reviews": 12925
-    },
-    {
       "title": "My Brilliant Friend",
       "url": "https://www.goodreads.com/book/show/35036409-my-brilliant-friend",
       "id": "19174054",
@@ -32,15 +11,15 @@
       "genres": [
         "fiction",
         "historical-fiction",
+        "book-club",
         "italy",
         "literary-fiction",
-        "italian-literature",
-        "contemporary",
-        "novels"
+        "audiobook",
+        "italian-literature"
       ],
-      "rating": 4.04,
-      "ratings": 332950,
-      "reviews": 30154
+      "rating": 4.05,
+      "ratings": 440171,
+      "reviews": 43005
     },
     {
       "title": "Those Who Leave and Those Who Stay",
@@ -52,16 +31,16 @@
       ],
       "genres": [
         "fiction",
-        "italy",
         "historical-fiction",
+        "italy",
         "italian-literature",
         "literary-fiction",
-        "novels",
+        "audiobook",
         "contemporary"
       ],
-      "rating": 4.35,
-      "ratings": 148729,
-      "reviews": 9186
+      "rating": 4.36,
+      "ratings": 185408,
+      "reviews": 12494
     },
     {
       "title": "The Story of the Lost Child",
@@ -73,16 +52,16 @@
       ],
       "genres": [
         "fiction",
-        "italy",
         "historical-fiction",
+        "italy",
         "italian-literature",
         "literary-fiction",
-        "contemporary",
-        "novels"
+        "audiobook",
+        "contemporary"
       ],
-      "rating": 4.44,
-      "ratings": 137121,
-      "reviews": 10650
+      "rating": 4.46,
+      "ratings": 170422,
+      "reviews": 14493
     },
     {
       "title": "Invisible Cities",
@@ -94,37 +73,16 @@
       ],
       "genres": [
         "fiction",
+        "classics",
         "fantasy",
         "short-stories",
         "magical-realism",
         "italian-literature",
-        "literature",
-        "italy"
+        "literature"
       ],
-      "rating": 4.12,
-      "ratings": 83838,
-      "reviews": 6895
-    },
-    {
-      "title": "The Baron in the Trees",
-      "url": "https://www.goodreads.com/book/show/9804.The_Baron_in_the_Trees",
-      "id": "865256",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1344432724i/9804.jpg",
-      "authors": [
-        "Italo Calvino"
-      ],
-      "genres": [
-        "fiction",
-        "italian-literature",
-        "italy",
-        "fantasy",
-        "literature",
-        "magical-realism",
-        "novels"
-      ],
-      "rating": 4.03,
-      "ratings": 45035,
-      "reviews": 2621
+      "rating": 4.1,
+      "ratings": 93974,
+      "reviews": 8186
     },
     {
       "title": "Le otto montagne",
@@ -140,12 +98,33 @@
         "italian-literature",
         "contemporary",
         "roman",
-        "novels",
-        "nature"
+        "audiobook",
+        "novels"
       ],
-      "rating": 4.1,
-      "ratings": 43465,
-      "reviews": 4055
+      "rating": 4.11,
+      "ratings": 53433,
+      "reviews": 4855
+    },
+    {
+      "title": "The Baron in the Trees",
+      "url": "https://www.goodreads.com/book/show/9804.The_Baron_in_the_Trees",
+      "id": "865256",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1344432724i/9804.jpg",
+      "authors": [
+        "Italo Calvino"
+      ],
+      "genres": [
+        "fiction",
+        "classics",
+        "italian-literature",
+        "italy",
+        "fantasy",
+        "magical-realism",
+        "literature"
+      ],
+      "rating": 4.02,
+      "ratings": 51339,
+      "reviews": 3176
     },
     {
       "title": "Novecento. Un monologo",
@@ -159,14 +138,14 @@
         "fiction",
         "italian-literature",
         "classics",
-        "plays",
         "italy",
+        "plays",
         "novels",
         "audiobook"
       ],
       "rating": 4.18,
-      "ratings": 39734,
-      "reviews": 2797
+      "ratings": 45887,
+      "reviews": 3345
     },
     {
       "title": "The Leopard",
@@ -178,16 +157,16 @@
       ],
       "genres": [
         "fiction",
+        "classics",
         "historical-fiction",
         "italy",
         "italian-literature",
         "literature",
-        "novels",
-        "classics"
+        "novels"
       ],
       "rating": 4.01,
-      "ratings": 37219,
-      "reviews": 3006
+      "ratings": 44608,
+      "reviews": 3817
     },
     {
       "title": "The Tartar Steppe",
@@ -206,9 +185,9 @@
         "novels",
         "magical-realism"
       ],
-      "rating": 4.2,
-      "ratings": 31013,
-      "reviews": 2804
+      "rating": 4.21,
+      "ratings": 38811,
+      "reviews": 3806
     },
     {
       "title": "Il fu Mattia Pascal",
@@ -227,9 +206,9 @@
         "novels",
         "nobel-prize"
       ],
-      "rating": 4.01,
-      "ratings": 29495,
-      "reviews": 962
+      "rating": 4,
+      "ratings": 34483,
+      "reviews": 1228
     },
     {
       "title": "Sostiene Pereira",
@@ -244,13 +223,34 @@
         "italian-literature",
         "portugal",
         "historical-fiction",
-        "classics",
         "italy",
+        "classics",
         "novels"
       ],
+      "rating": 4.19,
+      "ratings": 34336,
+      "reviews": 2820
+    },
+    {
+      "title": "The Whisperer",
+      "url": "https://www.goodreads.com/book/show/11038479-the-whisperer",
+      "id": "13336211",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1344264752i/11038479.jpg",
+      "authors": [
+        "Donato Carrisi"
+      ],
+      "genres": [
+        "thriller",
+        "mystery",
+        "crime",
+        "fiction",
+        "mystery-thriller",
+        "detective",
+        "italian-literature"
+      ],
       "rating": 4.18,
-      "ratings": 29425,
-      "reviews": 2323
+      "ratings": 30284,
+      "reviews": 3050
     },
     {
       "title": "The Divine Comedy of Dante Alighieri, Volume 2: Purgatorio",
@@ -270,74 +270,11 @@
         "fantasy"
       ],
       "rating": 4.05,
-      "ratings": 26848,
-      "reviews": 1266
+      "ratings": 29249,
+      "reviews": 1514
     },
     {
-      "title": "Ocean Sea",
-      "url": "https://www.goodreads.com/book/show/208631.Ocean_Sea",
-      "id": "3103117",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1342711676i/208631.jpg",
-      "authors": [
-        "Alessandro Baricco"
-      ],
-      "genres": [
-        "fiction",
-        "italian-literature",
-        "contemporary",
-        "italy",
-        "magical-realism",
-        "novels",
-        "literature"
-      ],
-      "rating": 4.09,
-      "ratings": 24960,
-      "reviews": 1639
-    },
-    {
-      "title": "The Whisperer",
-      "url": "https://www.goodreads.com/book/show/11038479-the-whisperer",
-      "id": "13336211",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1344264752i/11038479.jpg",
-      "authors": [
-        "Donato Carrisi"
-      ],
-      "genres": [
-        "thriller",
-        "mystery",
-        "crime",
-        "fiction",
-        "mystery-thriller",
-        "italian-literature",
-        "detective"
-      ],
-      "rating": 4.18,
-      "ratings": 24953,
-      "reviews": 2567
-    },
-    {
-      "title": "Essentials of Classic Italian Cooking",
-      "url": "https://www.goodreads.com/book/show/19552.Essentials_of_Classic_Italian_Cooking",
-      "id": "20777",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1694126208i/19552.jpg",
-      "authors": [
-        "Marcella Hazen"
-      ],
-      "genres": [
-        "cookbooks",
-        "cooking",
-        "food",
-        "non-fiction",
-        "reference",
-        "italy",
-        "italian-literature"
-      ],
-      "rating": 4.06,
-      "ratings": 23802,
-      "reviews": 243
-    },
-    {
-      "title": "One, No One and One Hundred Thousand",
+      "title": "One, No One, and One Hundred Thousand",
       "url": "https://www.goodreads.com/book/show/12117.One_No_One_and_One_Hundred_Thousand",
       "id": "1041217",
       "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388199785i/12117.jpg",
@@ -353,9 +290,30 @@
         "literature",
         "novels"
       ],
-      "rating": 4.04,
-      "ratings": 23607,
-      "reviews": 1417
+      "rating": 4.03,
+      "ratings": 28801,
+      "reviews": 1864
+    },
+    {
+      "title": "Ocean Sea",
+      "url": "https://www.goodreads.com/book/show/208631.Ocean_Sea",
+      "id": "3103117",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1342711676i/208631.jpg",
+      "authors": [
+        "Alessandro Baricco"
+      ],
+      "genres": [
+        "fiction",
+        "italian-literature",
+        "italy",
+        "contemporary",
+        "magical-realism",
+        "novels",
+        "literary-fiction"
+      ],
+      "rating": 4.09,
+      "ratings": 28715,
+      "reviews": 2070
     },
     {
       "title": "L'Arminuta",
@@ -371,12 +329,75 @@
         "italian-literature",
         "contemporary",
         "literary-fiction",
-        "family",
-        "novels"
+        "audiobook",
+        "family"
       ],
-      "rating": 4.08,
-      "ratings": 21067,
-      "reviews": 2091
+      "rating": 4.09,
+      "ratings": 26385,
+      "reviews": 2574
+    },
+    {
+      "title": "Essentials of Classic Italian Cooking",
+      "url": "https://www.goodreads.com/book/show/19552.Essentials_of_Classic_Italian_Cooking",
+      "id": "20777",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1694126208i/19552.jpg",
+      "authors": [
+        "Marcella Hazan"
+      ],
+      "genres": [
+        "cookbooks",
+        "cooking",
+        "food",
+        "non-fiction",
+        "reference",
+        "italy",
+        "italian-literature"
+      ],
+      "rating": 4.07,
+      "ratings": 25289,
+      "reviews": 264
+    },
+    {
+      "title": "Due cuori in affitto",
+      "url": "https://www.goodreads.com/book/show/45172665-due-cuori-in-affitto",
+      "id": "69880931",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1555661815i/45172665.jpg",
+      "authors": [
+        "Felicia Kingsley"
+      ],
+      "genres": [
+        "romance",
+        "enemies-to-lovers",
+        "contemporary",
+        "contemporary-romance",
+        "italian-literature",
+        "audiobook",
+        "love"
+      ],
+      "rating": 4.16,
+      "ratings": 25009,
+      "reviews": 2753
+    },
+    {
+      "title": "Letter to a Child Never Born",
+      "url": "https://www.goodreads.com/book/show/79429.Letter_to_a_Child_Never_Born",
+      "id": "3412003",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1588952011i/79429.jpg",
+      "authors": [
+        "Oriana Fallaci"
+      ],
+      "genres": [
+        "fiction",
+        "novels",
+        "feminism",
+        "italian-literature",
+        "italy",
+        "philosophy",
+        "literature"
+      ],
+      "rating": 4.02,
+      "ratings": 23253,
+      "reviews": 1760
     },
     {
       "title": "Cosmicomics",
@@ -395,30 +416,9 @@
         "classics",
         "literature"
       ],
-      "rating": 4.16,
-      "ratings": 18928,
-      "reviews": 1345
-    },
-    {
-      "title": "The Periodic Table",
-      "url": "https://www.goodreads.com/book/show/427282.The_Periodic_Table",
-      "id": "1533977",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1403193930i/427282.jpg",
-      "authors": [
-        "Primo Levi"
-      ],
-      "genres": [
-        "non-fiction",
-        "science",
-        "history",
-        "memoir",
-        "biography",
-        "short-stories",
-        "italian-literature"
-      ],
       "rating": 4.15,
-      "ratings": 16956,
-      "reviews": 1327
+      "ratings": 20489,
+      "reviews": 1551
     },
     {
       "title": "Accabadora",
@@ -433,13 +433,34 @@
         "italian-literature",
         "italy",
         "audiobook",
-        "historical-fiction",
         "contemporary",
-        "novels"
+        "historical-fiction",
+        "womens"
       ],
-      "rating": 4.06,
-      "ratings": 14322,
-      "reviews": 1232
+      "rating": 4.08,
+      "ratings": 19637,
+      "reviews": 1657
+    },
+    {
+      "title": "The Periodic Table",
+      "url": "https://www.goodreads.com/book/show/427282.The_Periodic_Table",
+      "id": "1533977",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1732909851i/427282.jpg",
+      "authors": [
+        "Primo Levi"
+      ],
+      "genres": [
+        "non-fiction",
+        "science",
+        "history",
+        "memoir",
+        "biography",
+        "short-stories",
+        "italian-literature"
+      ],
+      "rating": 4.14,
+      "ratings": 18821,
+      "reviews": 1496
     },
     {
       "title": "La casa delle voci",
@@ -452,57 +473,36 @@
       "genres": [
         "thriller",
         "mystery",
-        "crime",
         "audiobook",
         "fiction",
+        "crime",
         "italian-literature",
         "mystery-thriller"
       ],
-      "rating": 4.14,
-      "ratings": 13564,
-      "reviews": 1244
+      "rating": 4.15,
+      "ratings": 17727,
+      "reviews": 1630
     },
     {
-      "title": "La profezia dell'armadillo",
-      "url": "https://www.goodreads.com/book/show/34855216-la-profezia-dell-armadillo-artist-edition",
-      "id": "18479885",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1492152279i/34855216.jpg",
+      "title": "The Children's Train",
+      "url": "https://www.goodreads.com/book/show/53175334-the-children-s-train",
+      "id": "73048305",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1603740883i/53175334.jpg",
       "authors": [
-        "Zerocalcare"
+        "Viola Ardone"
       ],
       "genres": [
-        "graphic-novels",
-        "comics",
-        "italian-literature",
-        "humor",
-        "italy",
-        "graphic-novels-comics",
-        "fiction"
-      ],
-      "rating": 4.35,
-      "ratings": 12418,
-      "reviews": 678
-    },
-    {
-      "title": "L'isola di Arturo",
-      "url": "https://www.goodreads.com/book/show/1158388.L_isola_di_Arturo",
-      "id": "537437",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1409438832i/1158388.jpg",
-      "authors": [
-        "Elsa Morante"
-      ],
-      "genres": [
+        "historical-fiction",
         "fiction",
-        "italian-literature",
-        "classics",
         "italy",
-        "novels",
-        "coming-of-age",
-        "20th-century"
+        "italian-literature",
+        "world-war-ii",
+        "historical",
+        "audiobook"
       ],
-      "rating": 4.01,
-      "ratings": 11679,
-      "reviews": 837
+      "rating": 4.13,
+      "ratings": 16459,
+      "reviews": 1844
     }
   ]
 }

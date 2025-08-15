@@ -1,46 +1,445 @@
 {
   "books": [
     {
-      "title": "Sniper on the Eastern Front: The Memoirs of Sepp Allerberger, Knights Cross",
-      "url": "https://www.goodreads.com/book/show/18956666-sniper-on-the-eastern-front",
-      "id": "367126",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1437654973i/18956666.jpg",
+      "title": "The Cyanide Canary: A True Story of Injustice",
+      "url": "https://www.goodreads.com/book/show/23632069-the-cyanide-canary",
+      "id": "43237221",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1441019410i/23632069.jpg",
       "authors": [
-        "Albrecht Wacker"
+        "Robert Dugoni"
+      ],
+      "genres": [
+        "non-fiction",
+        "true-crime",
+        "crime",
+        "audiobook",
+        "history",
+        "mystery",
+        "science"
+      ],
+      "rating": 4.11,
+      "ratings": 3810,
+      "reviews": 243
+    },
+    {
+      "title": "Requiem for the American Dream: The 10 Principles of Concentration of Wealth & Power",
+      "url": "https://www.goodreads.com/book/show/30629273-requiem-for-the-american-dream",
+      "id": "51162949",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1490738974i/30629273.jpg",
+      "authors": [
+        "Noam Chomsky"
+      ],
+      "genres": [
+        "politics",
+        "non-fiction",
+        "economics",
+        "history",
+        "philosophy",
+        "audiobook",
+        "sociology"
+      ],
+      "rating": 4.21,
+      "ratings": 3810,
+      "reviews": 433
+    },
+    {
+      "title": "Devil at My Heels: A Heroic Olympian's Astonishing Story of Survival as a Japanese POW in World War II",
+      "url": "https://www.goodreads.com/book/show/363498.Devil_at_My_Heels",
+      "id": "353573",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1393217782i/363498.jpg",
+      "authors": [
+        "Louis Zamperini"
+      ],
+      "genres": [
+        "non-fiction",
+        "history",
+        "biography",
+        "memoir",
+        "war",
+        "world-war-ii",
+        "autobiography"
+      ],
+      "rating": 4.36,
+      "ratings": 3810,
+      "reviews": 396
+    },
+    {
+      "title": "Jesus, the One and Only",
+      "url": "https://www.goodreads.com/book/show/214519.Jesus_the_One_and_Only",
+      "id": "430419",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328815196i/214519.jpg",
+      "authors": [
+        "Beth Moore"
+      ],
+      "genres": [
+        "christian",
+        "non-fiction",
+        "christianity",
+        "faith",
+        "christian-living",
+        "spirituality",
+        "christian-non-fiction"
+      ],
+      "rating": 4.3,
+      "ratings": 3809,
+      "reviews": 142
+    },
+    {
+      "title": "Unstoppable: Harnessing Science to Change the World",
+      "url": "https://www.goodreads.com/book/show/25571952-unstoppable",
+      "id": "45372148",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442840436i/25571952.jpg",
+      "authors": [
+        "Bill Nye"
+      ],
+      "genres": [
+        "science",
+        "non-fiction",
+        "audiobook",
+        "climate-change",
+        "environment",
+        "politics",
+        "science-nature"
+      ],
+      "rating": 4.14,
+      "ratings": 3809,
+      "reviews": 444
+    },
+    {
+      "title": "My Father's Eyes, My Mother's Rage",
+      "url": "https://www.goodreads.com/book/show/202053725-my-father-s-eyes-my-mother-s-rage",
+      "id": "207270764",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1699856207i/202053725.jpg",
+      "authors": [
+        "Rose Brik"
+      ],
+      "genres": [
+        "poetry",
+        "mental-health",
+        "non-fiction",
+        "self-help",
+        "family",
+        "psychology",
+        "philosophy"
+      ],
+      "rating": 4.19,
+      "ratings": 3809,
+      "reviews": 511
+    },
+    {
+      "title": "Between Two Worlds: Lessons From the Other Side",
+      "url": "https://www.goodreads.com/book/show/29767567-between-two-worlds",
+      "id": "50130541",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1475459202i/29767567.jpg",
+      "authors": [
+        "Tyler Henry"
+      ],
+      "genres": [
+        "spirituality",
+        "memoir",
+        "non-fiction",
+        "audiobook",
+        "biography",
+        "paranormal",
+        "biography-memoir"
+      ],
+      "rating": 4.18,
+      "ratings": 3808,
+      "reviews": 323
+    },
+    {
+      "title": "On Living",
+      "url": "https://www.goodreads.com/book/show/29655935-on-living",
+      "id": "52965102",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1611618803i/29655935.jpg",
+      "authors": [
+        "Kerry Egan"
+      ],
+      "genres": [
+        "non-fiction",
+        "memoir",
+        "spirituality",
+        "death",
+        "self-help",
+        "philosophy",
+        "psychology"
+      ],
+      "rating": 4.27,
+      "ratings": 3808,
+      "reviews": 581
+    },
+    {
+      "title": "A Day in the Life of Ancient Rome",
+      "url": "https://www.goodreads.com/book/show/6505103-a-day-in-the-life-of-ancient-rome",
+      "id": "6696688",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347774482i/6505103.jpg",
+      "authors": [
+        "Alberto Angela"
       ],
       "genres": [
         "history",
-        "world-war-ii",
         "non-fiction",
-        "war",
-        "military-fiction",
-        "biography",
-        "military-history"
+        "ancient-history",
+        "italy",
+        "historical",
+        "italian-literature",
+        "classics"
       ],
-      "rating": 4.21,
-      "ratings": 3283,
-      "reviews": 160
+      "rating": 4.06,
+      "ratings": 3808,
+      "reviews": 347
     },
     {
-      "title": "The Art of Charlie Chan Hock Chye",
-      "url": "https://www.goodreads.com/book/show/25733982-the-art-of-charlie-chan-hock-chye",
-      "id": "21998008",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1439837421i/25733982.jpg",
+      "title": "Drum Dream Girl: How One Girl's Courage Changed Music",
+      "url": "https://www.goodreads.com/book/show/22749711-drum-dream-girl",
+      "id": "42295111",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1704131960i/22749711.jpg",
       "authors": [
-        "Sonny Liew"
+        "Margarita Engle"
+      ],
+      "genres": [
+        "picture-books",
+        "music",
+        "biography",
+        "poetry",
+        "childrens",
+        "non-fiction",
+        "cultural"
+      ],
+      "rating": 4.26,
+      "ratings": 3808,
+      "reviews": 922
+    },
+    {
+      "title": "We Thought We Knew You: A Terrifying True Story of Secrets, Betrayal, Deception, and Murder",
+      "url": "https://www.goodreads.com/book/show/53239913-we-thought-we-knew-you",
+      "id": "80638280",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1602568106i/53239913.jpg",
+      "authors": [
+        "M. William Phelps"
+      ],
+      "genres": [
+        "true-crime",
+        "non-fiction",
+        "crime",
+        "audiobook",
+        "mystery",
+        "thriller",
+        "biography"
+      ],
+      "rating": 4.09,
+      "ratings": 3807,
+      "reviews": 410
+    },
+    {
+      "title": "Notes from No Man's Land",
+      "url": "https://www.goodreads.com/book/show/5523292-notes-from-no-man-s-land",
+      "id": "5694315",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1344313831i/5523292.jpg",
+      "authors": [
+        "Eula Biss"
+      ],
+      "genres": [
+        "essays",
+        "non-fiction",
+        "race",
+        "memoir",
+        "history",
+        "politics",
+        "short-stories"
+      ],
+      "rating": 4.18,
+      "ratings": 3806,
+      "reviews": 481
+    },
+    {
+      "title": "The Courage to Be",
+      "url": "https://www.goodreads.com/book/show/175141.The_Courage_to_Be",
+      "id": "1261052",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348237707i/175141.jpg",
+      "authors": [
+        "Paul Tillich"
+      ],
+      "genres": [
+        "philosophy",
+        "theology",
+        "religion",
+        "non-fiction",
+        "psychology",
+        "spirituality",
+        "christianity"
+      ],
+      "rating": 4.09,
+      "ratings": 3806,
+      "reviews": 318
+    },
+    {
+      "title": "The Outermost House: A Year of Life On The Great Beach of Cape Cod",
+      "url": "https://www.goodreads.com/book/show/317404.The_Outermost_House",
+      "id": "308220",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1316132112i/317404.jpg",
+      "authors": [
+        "Henry Beston"
+      ],
+      "genres": [
+        "nature",
+        "non-fiction",
+        "memoir",
+        "travel",
+        "classics",
+        "natural-history",
+        "biography-memoir"
+      ],
+      "rating": 4.07,
+      "ratings": 3805,
+      "reviews": 593
+    },
+    {
+      "title": "Artful",
+      "url": "https://www.goodreads.com/book/show/15811569-artful",
+      "id": "21415809",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1350363516i/15811569.jpg",
+      "authors": [
+        "Ali Smith"
+      ],
+      "genres": [
+        "non-fiction",
+        "essays",
+        "art",
+        "writing",
+        "contemporary",
+        "short-stories",
+        "books-about-books"
+      ],
+      "rating": 4.04,
+      "ratings": 3805,
+      "reviews": 527
+    },
+    {
+      "title": "I Am Alive and You Are Dead: A Journey into the Mind of Philip K. Dick",
+      "url": "https://www.goodreads.com/book/show/22593.I_Am_Alive_and_You_Are_Dead",
+      "id": "330633",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1312053865i/22593.jpg",
+      "authors": [
+        "Emmanuel Carrère"
+      ],
+      "genres": [
+        "biography",
+        "non-fiction",
+        "france",
+        "writing",
+        "biography-memoir",
+        "history",
+        "french-literature"
+      ],
+      "rating": 4.01,
+      "ratings": 3805,
+      "reviews": 378
+    },
+    {
+      "title": "Red Rosa: A Graphic Biography of Rosa Luxemburg",
+      "url": "https://www.goodreads.com/book/show/25387808-red-rosa",
+      "id": "45138225",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1720131977i/25387808.jpg",
+      "authors": [
+        "Kate   Evans"
       ],
       "genres": [
         "graphic-novels",
-        "comics",
-        "history",
         "non-fiction",
-        "art",
-        "asia",
-        "politics"
+        "history",
+        "biography",
+        "comics",
+        "politics",
+        "feminism"
       ],
-      "rating": 4.47,
-      "ratings": 3282,
-      "reviews": 524
+      "rating": 4.16,
+      "ratings": 3804,
+      "reviews": 514
+    },
+    {
+      "title": "Dear Sister: A Memoir of Secrets, Survival, and Unbreakable Bonds",
+      "url": "https://www.goodreads.com/book/show/145624887-dear-sister",
+      "id": "160944192",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1687145444i/145624887.jpg",
+      "authors": [
+        "Michelle   Horton"
+      ],
+      "genres": [
+        "memoir",
+        "non-fiction",
+        "true-crime",
+        "audiobook",
+        "crime",
+        "biography",
+        "book-club"
+      ],
+      "rating": 4.5,
+      "ratings": 3804,
+      "reviews": 560
+    },
+    {
+      "title": "Komisch, alles chemisch!",
+      "url": "https://www.goodreads.com/book/show/43782428-komisch-alles-chemisch",
+      "id": "68114090",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1548779463i/43782428.jpg",
+      "authors": [
+        "Mai Thi Nguyen-Kim"
+      ],
+      "genres": [
+        "non-fiction",
+        "science",
+        "audiobook",
+        "chemistry",
+        "german-literature",
+        "education",
+        "popular-science"
+      ],
+      "rating": 4.23,
+      "ratings": 3803,
+      "reviews": 314
+    },
+    {
+      "title": "River Cottage Veg Every Day!",
+      "url": "https://www.goodreads.com/book/show/12576078-river-cottage-veg-every-day",
+      "id": "17586770",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328887401i/12576078.jpg",
+      "authors": [
+        "Hugh Fearnley-Whittingstall"
+      ],
+      "genres": [
+        "cookbooks",
+        "cooking",
+        "food",
+        "non-fiction",
+        "reference",
+        "food-and-drink",
+        "vegetarian"
+      ],
+      "rating": 4.19,
+      "ratings": 3803,
+      "reviews": 144
+    },
+    {
+      "title": "If My Body Could Speak",
+      "url": "https://www.goodreads.com/book/show/41766537-if-my-body-could-speak",
+      "id": "65180935",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1544868775i/41766537.jpg",
+      "authors": [
+        "Blythe Baird"
+      ],
+      "genres": [
+        "poetry",
+        "feminism",
+        "mental-health",
+        "lgbt",
+        "non-fiction",
+        "queer",
+        "psychology"
+      ],
+      "rating": 4.34,
+      "ratings": 3802,
+      "reviews": 548
     },
     {
       "title": "Broken Faith: Inside the Word of Faith Fellowship, One of America's Most Dangerous Cults",
@@ -53,456 +452,57 @@
       "genres": [
         "non-fiction",
         "true-crime",
-        "religion",
         "cults",
+        "religion",
         "audiobook",
         "history",
         "crime"
       ],
-      "rating": 4.15,
-      "ratings": 3282,
-      "reviews": 375
+      "rating": 4.14,
+      "ratings": 3801,
+      "reviews": 432
     },
     {
-      "title": "Healing Is the New High: A Guide to Overcoming Emotional Turmoil and Finding Freedom",
-      "url": "https://www.goodreads.com/book/show/56623597-healing-is-the-new-high",
-      "id": "88480071",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1611556648i/56623597.jpg",
+      "title": "Si lo crees, lo creas",
+      "url": "https://www.goodreads.com/book/show/40936543-si-lo-crees-lo-creas",
+      "id": "56546416",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1532444234i/40936543.jpg",
       "authors": [
-        "Vex King"
+        "Brian Tracy"
       ],
       "genres": [
         "self-help",
         "non-fiction",
-        "psychology",
-        "mental-health",
         "personal-development",
-        "health",
-        "spirituality"
-      ],
-      "rating": 4.02,
-      "ratings": 3282,
-      "reviews": 247
-    },
-    {
-      "title": "Appetites: Why Women Want",
-      "url": "https://www.goodreads.com/book/show/312518.Appetites",
-      "id": "1885448",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1439383381i/312518.jpg",
-      "authors": [
-        "Caroline Knapp"
-      ],
-      "genres": [
-        "non-fiction",
-        "memoir",
-        "feminism",
         "psychology",
-        "mental-health",
-        "food",
-        "womens"
-      ],
-      "rating": 4.05,
-      "ratings": 3281,
-      "reviews": 263
-    },
-    {
-      "title": "Nancy Wake",
-      "url": "https://www.goodreads.com/book/show/1504838.Nancy_Wake",
-      "id": "1496321",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328001101i/1504838.jpg",
-      "authors": [
-        "Peter FitzSimons"
-      ],
-      "genres": [
-        "non-fiction",
-        "biography",
-        "history",
-        "world-war-ii",
-        "war",
-        "historical",
-        "biography-memoir"
-      ],
-      "rating": 4.25,
-      "ratings": 3281,
-      "reviews": 303
-    },
-    {
-      "title": "Shattered",
-      "url": "https://www.goodreads.com/book/show/7976870-shattered",
-      "id": "12301444",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1440718482i/7976870.jpg",
-      "authors": [
-        "Kathryn Casey"
-      ],
-      "genres": [
-        "true-crime",
-        "non-fiction",
-        "crime",
         "audiobook",
-        "mystery",
-        "biography",
-        "history"
+        "spanish-literature",
+        "leadership"
       ],
-      "rating": 4.05,
-      "ratings": 3280,
-      "reviews": 219
+      "rating": 4.21,
+      "ratings": 3799,
+      "reviews": 420
     },
     {
-      "title": "How Children Learn",
-      "url": "https://www.goodreads.com/book/show/573003.How_Children_Learn",
-      "id": "2998843",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1431446585i/573003.jpg",
+      "title": "Elevating Child Care: A Guide to Respectful Parenting",
+      "url": "https://www.goodreads.com/book/show/22052330-elevating-child-care",
+      "id": "41379420",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1400869521i/22052330.jpg",
       "authors": [
-        "John C. Holt"
+        "Janet Lansbury"
       ],
       "genres": [
-        "education",
         "parenting",
         "non-fiction",
-        "psychology",
         "childrens",
-        "teaching",
-        "philosophy"
-      ],
-      "rating": 4.19,
-      "ratings": 3279,
-      "reviews": 278
-    },
-    {
-      "title": "7 Strategies for Wealth & Happiness: Power Ideas from America's Foremost Business Philosopher",
-      "url": "https://www.goodreads.com/book/show/764702.7_Strategies_for_Wealth_Happiness",
-      "id": "750775",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348468189i/764702.jpg",
-      "authors": [
-        "Jim Rohn"
-      ],
-      "genres": [
-        "business",
-        "self-help",
-        "personal-development",
-        "non-fiction",
-        "philosophy",
-        "finance",
-        "money"
-      ],
-      "rating": 4.46,
-      "ratings": 3279,
-      "reviews": 249
-    },
-    {
-      "title": "The Five Invitations: Discovering What Death Can Teach Us About Living Fully",
-      "url": "https://www.goodreads.com/book/show/30139695-the-five-invitations",
-      "id": "50573574",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1482356532i/30139695.jpg",
-      "authors": [
-        "Frank Ostaseski"
-      ],
-      "genres": [
-        "non-fiction",
-        "philosophy",
-        "death",
-        "spirituality",
+        "family",
         "psychology",
-        "buddhism",
+        "audiobook",
         "self-help"
       ],
-      "rating": 4.47,
-      "ratings": 3279,
-      "reviews": 497
-    },
-    {
-      "title": "Love Poems from God: Twelve Sacred Voices from the East and West",
-      "url": "https://www.goodreads.com/book/show/128436.Love_Poems_from_God",
-      "id": "123696",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1364848386i/128436.jpg",
-      "authors": [
-        "Daniel Ladinsky"
-      ],
-      "genres": [
-        "poetry",
-        "spirituality",
-        "religion",
-        "philosophy",
-        "theology",
-        "non-fiction",
-        "christianity"
-      ],
-      "rating": 4.27,
-      "ratings": 3275,
-      "reviews": 175
-    },
-    {
-      "title": "Feynman's Lost Lecture: The Motion of Planets Around the Sun",
-      "url": "https://www.goodreads.com/book/show/56167.Feynman_s_Lost_Lecture",
-      "id": "54736",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388628407i/56167.jpg",
-      "authors": [
-        "David Goodstein"
-      ],
-      "genres": [
-        "science",
-        "physics",
-        "non-fiction",
-        "mathematics",
-        "astronomy",
-        "biography",
-        "history"
-      ],
-      "rating": 4.38,
-      "ratings": 3275,
-      "reviews": 50
-    },
-    {
-      "title": "Scarcity Brain: Fix Your Craving Mindset and Rewire Your Habits to Thrive with Enough",
-      "url": "https://www.goodreads.com/book/show/75494984-scarcity-brain",
-      "id": "100775499",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1684818276i/75494984.jpg",
-      "authors": [
-        "Michael Easter"
-      ],
-      "genres": [
-        "non-fiction",
-        "self-help",
-        "psychology",
-        "health",
-        "science",
-        "audiobook",
-        "personal-development"
-      ],
-      "rating": 4,
-      "ratings": 3275,
-      "reviews": 268
-    },
-    {
-      "title": "Just Ask!: Be Different, Be Brave, Be You",
-      "url": "https://www.goodreads.com/book/show/43671311-just-ask",
-      "id": "67944803",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1560810987i/43671311.jpg",
-      "authors": [
-        "Sonia Sotomayor"
-      ],
-      "genres": [
-        "picture-books",
-        "disability",
-        "childrens",
-        "non-fiction",
-        "realistic-fiction",
-        "cultural",
-        "inspirational"
-      ],
-      "rating": 4.49,
-      "ratings": 3272,
-      "reviews": 716
-    },
-    {
-      "title": "Delights and Shadows",
-      "url": "https://www.goodreads.com/book/show/239229.Delights_and_Shadows",
-      "id": "231739",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388646212i/239229.jpg",
-      "authors": [
-        "Ted Kooser"
-      ],
-      "genres": [
-        "poetry",
-        "non-fiction",
-        "contemporary",
-        "literature",
-        "adult",
-        "classics",
-        "american"
-      ],
-      "rating": 4.23,
-      "ratings": 3270,
-      "reviews": 338
-    },
-    {
-      "title": "Infantry Attacks",
-      "url": "https://www.goodreads.com/book/show/250838.Infantry_Attacks",
-      "id": "243059",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1391958099i/250838.jpg",
-      "authors": [
-        "Erwin Rommel"
-      ],
-      "genres": [
-        "history",
-        "military-fiction",
-        "military-history",
-        "war",
-        "non-fiction",
-        "biography",
-        "world-war-ii"
-      ],
-      "rating": 4.2,
-      "ratings": 3269,
-      "reviews": 139
-    },
-    {
-      "title": "Gracie: A Love Story",
-      "url": "https://www.goodreads.com/book/show/231721.Gracie",
-      "id": "967218",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1332235705i/231721.jpg",
-      "authors": [
-        "George Burns"
-      ],
-      "genres": [
-        "biography",
-        "non-fiction",
-        "memoir",
-        "humor",
-        "autobiography",
-        "history",
-        "biography-memoir"
-      ],
-      "rating": 4,
-      "ratings": 3268,
-      "reviews": 220
-    },
-    {
-      "title": "Interior Freedom",
-      "url": "https://www.goodreads.com/book/show/992078.Interior_Freedom",
-      "id": "977573",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1387720736i/992078.jpg",
-      "authors": [
-        "Jacques Philippe"
-      ],
-      "genres": [
-        "catholic",
-        "spirituality",
-        "religion",
-        "faith",
-        "christian",
-        "non-fiction",
-        "theology"
-      ],
-      "rating": 4.71,
-      "ratings": 3266,
-      "reviews": 271
-    },
-    {
-      "title": "Tiger Tracks - The Classic Panzer Memoir",
-      "url": "https://www.goodreads.com/book/show/25080405-tiger-tracks---the-classic-panzer-memoir",
-      "id": "44766658",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1437455615i/25080405.jpg",
-      "authors": [
-        "Wolfgang Faust"
-      ],
-      "genres": [
-        "history",
-        "military-fiction",
-        "non-fiction",
-        "war",
-        "world-war-ii",
-        "biography",
-        "memoir"
-      ],
-      "rating": 4.01,
-      "ratings": 3264,
-      "reviews": 182
-    },
-    {
-      "title": "Life: A Natural History of the First Four Billion Years of Life on Earth",
-      "url": "https://www.goodreads.com/book/show/373571.Life",
-      "id": "1120848",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1403190266i/373571.jpg",
-      "authors": [
-        "Richard Fortey"
-      ],
-      "genres": [
-        "science",
-        "non-fiction",
-        "history",
-        "biology",
-        "evolution",
-        "natural-history",
-        "nature"
-      ],
-      "rating": 4.08,
-      "ratings": 3263,
-      "reviews": 116
-    },
-    {
-      "title": "Passionate Marriage: Keeping Love and Intimacy Alive in Committed Relationships",
-      "url": "https://www.goodreads.com/book/show/6105434-passionate-marriage",
-      "id": "135481",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1358749681i/6105434.jpg",
-      "authors": [
-        "David Schnarch"
-      ],
-      "genres": [
-        "relationships",
-        "psychology",
-        "non-fiction",
-        "marriage",
-        "self-help",
-        "sexuality",
-        "love"
-      ],
-      "rating": 4.15,
-      "ratings": 3263,
-      "reviews": 306
-    },
-    {
-      "title": "To the End of June: The Intimate Life of American Foster Care",
-      "url": "https://www.goodreads.com/book/show/16691891-to-the-end-of-june",
-      "id": "22909858",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1412746786i/16691891.jpg",
-      "authors": [
-        "Cris Beam"
-      ],
-      "genres": [
-        "non-fiction",
-        "fostering",
-        "adoption",
-        "sociology",
-        "parenting",
-        "social-justice",
-        "adult"
-      ],
-      "rating": 4.01,
-      "ratings": 3261,
-      "reviews": 393
-    },
-    {
-      "title": "Tough Times Never Last, But Tough People Do!",
-      "url": "https://www.goodreads.com/book/show/1374307.Tough_Times_Never_Last_But_Tough_People_Do_",
-      "id": "1364194",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1441813884i/1374307.jpg",
-      "authors": [
-        "Robert H. Schuller"
-      ],
-      "genres": [
-        "self-help",
-        "non-fiction",
-        "inspirational",
-        "christian",
-        "psychology",
-        "business",
-        "philosophy"
-      ],
-      "rating": 4.2,
-      "ratings": 3261,
-      "reviews": 169
-    },
-    {
-      "title": "Practical Ethics",
-      "url": "https://www.goodreads.com/book/show/29378.Practical_Ethics",
-      "id": "1916333",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388357565i/29378.jpg",
-      "authors": [
-        "Peter Singer"
-      ],
-      "genres": [
-        "philosophy",
-        "non-fiction",
-        "politics",
-        "academic",
-        "science",
-        "animals",
-        "20th-century"
-      ],
-      "rating": 4.08,
-      "ratings": 3260,
-      "reviews": 185
+      "rating": 4.29,
+      "ratings": 3799,
+      "reviews": 275
     }
   ]
 }

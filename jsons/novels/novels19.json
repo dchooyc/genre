@@ -1,115 +1,493 @@
 {
   "books": [
     {
-      "title": "Ada, or Ardor: A Family Chronicle",
-      "url": "https://www.goodreads.com/book/show/12187.Ada_or_Ardor",
-      "id": "2138313",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1657567796i/12187.jpg",
+      "title": "Babycakes",
+      "url": "https://www.goodreads.com/book/show/16265.Babycakes",
+      "id": "18021",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1350459967i/16265.jpg",
       "authors": [
-        "Vladimir Nabokov"
+        "Armistead Maupin"
       ],
       "genres": [
         "fiction",
-        "classics",
-        "russia",
-        "literature",
-        "novels",
-        "russian-literature",
-        "romance"
+        "lgbt",
+        "queer",
+        "gay",
+        "contemporary",
+        "gay-fiction",
+        "novels"
       ],
-      "rating": 4.13,
-      "ratings": 11771,
-      "reviews": 1063
+      "rating": 4.08,
+      "ratings": 11593,
+      "reviews": 447
     },
     {
-      "title": "The River Why",
-      "url": "https://www.goodreads.com/book/show/23196.The_River_Why",
-      "id": "993607",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1385086992i/23196.jpg",
+      "title": "Die Saat des goldenen Löwen",
+      "url": "https://www.goodreads.com/book/show/10430122-die-saat-des-goldenen-l-wen",
+      "id": "21886036",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1370803411i/10430122.jpg",
       "authors": [
-        "David James Duncan"
+        "George R.R. Martin"
+      ],
+      "genres": [
+        "fantasy",
+        "fiction",
+        "high-fantasy",
+        "german-literature",
+        "epic-fantasy",
+        "novels",
+        "audiobook"
+      ],
+      "rating": 4.39,
+      "ratings": 11580,
+      "reviews": 498
+    },
+    {
+      "title": "Laurus",
+      "url": "https://www.goodreads.com/book/show/24694092-laurus",
+      "id": "24667251",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1429675607i/24694092.jpg",
+      "authors": [
+        "Eugene Vodolazkin"
+      ],
+      "genres": [
+        "fiction",
+        "historical-fiction",
+        "russia",
+        "fantasy",
+        "russian-literature",
+        "literature",
+        "novels"
+      ],
+      "rating": 4.22,
+      "ratings": 11572,
+      "reviews": 1539
+    },
+    {
+      "title": "City in Ruins",
+      "url": "https://www.goodreads.com/book/show/196968157-city-in-ruins",
+      "id": "96032893",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1692157269i/196968157.jpg",
+      "authors": [
+        "Don Winslow"
+      ],
+      "genres": [
+        "fiction",
+        "crime",
+        "thriller",
+        "audiobook",
+        "mystery",
+        "novels",
+        "suspense"
+      ],
+      "rating": 4.36,
+      "ratings": 11558,
+      "reviews": 1077
+    },
+    {
+      "title": "Crossroads and the Himalayan Crystals",
+      "url": "https://www.goodreads.com/book/show/16220184-crossroads-and-the-himalayan-crystals",
+      "id": "21935209",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1390176956i/16220184.jpg",
+      "authors": [
+        "C. Toni Graham"
+      ],
+      "genres": [
+        "fantasy",
+        "contemporary",
+        "drama",
+        "book-club",
+        "novels",
+        "fiction",
+        "young-adult"
+      ],
+      "rating": 4.33,
+      "ratings": 11556,
+      "reviews": 64
+    },
+    {
+      "title": "The Story of B",
+      "url": "https://www.goodreads.com/book/show/214579.The_Story_of_B",
+      "id": "91360",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1403169485i/214579.jpg",
+      "authors": [
+        "Daniel Quinn"
       ],
       "genres": [
         "fiction",
         "philosophy",
-        "nature",
+        "spirituality",
+        "environment",
         "novels",
+        "religion",
+        "literature"
+      ],
+      "rating": 4.14,
+      "ratings": 11552,
+      "reviews": 674
+    },
+    {
+      "title": "No. 23 Burlington Square",
+      "url": "https://www.goodreads.com/book/show/185040105-no-23-burlington-square",
+      "id": "188732109",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1694703809i/185040105.jpg",
+      "authors": [
+        "Jenni Keer"
+      ],
+      "genres": [
+        "historical-fiction",
+        "fiction",
+        "historical",
+        "book-club",
+        "drama",
+        "novels",
+        "romance"
+      ],
+      "rating": 4.19,
+      "ratings": 11516,
+      "reviews": 690
+    },
+    {
+      "title": "The Guermantes Way",
+      "url": "https://www.goodreads.com/book/show/18798.The_Guermantes_Way",
+      "id": "40790576",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1657565194i/18798.jpg",
+      "authors": [
+        "Marcel Proust"
+      ],
+      "genres": [
+        "classics",
+        "fiction",
+        "france",
+        "french-literature",
         "literature",
-        "humor",
-        "classics"
-      ],
-      "rating": 4.22,
-      "ratings": 11741,
-      "reviews": 1083
-    },
-    {
-      "title": "Winter in Tokyo",
-      "url": "https://www.goodreads.com/book/show/4566934-winter-in-tokyo",
-      "id": "4616266",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1444921235i/4566934.jpg",
-      "authors": [
-        "Ilana Tan"
-      ],
-      "genres": [
-        "romance",
-        "indonesian-literature",
         "novels",
-        "fiction",
-        "young-adult",
-        "contemporary",
-        "chick-lit"
+        "20th-century"
       ],
-      "rating": 4.1,
-      "ratings": 11710,
-      "reviews": 643
+      "rating": 4.27,
+      "ratings": 11488,
+      "reviews": 1134
     },
     {
-      "title": "Moscow to the End of the Line",
-      "url": "https://www.goodreads.com/book/show/117896.Moscow_to_the_End_of_the_Line",
-      "id": "113496",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1626318382i/117896.jpg",
+      "title": "Towers Falling",
+      "url": "https://www.goodreads.com/book/show/24846343-towers-falling",
+      "id": "44491108",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1457502030i/24846343.jpg",
       "authors": [
-        "Venedikt Erofeev"
+        "Jewell Parker Rhodes"
       ],
       "genres": [
-        "russia",
+        "middle-grade",
+        "historical-fiction",
+        "realistic-fiction",
+        "young-adult",
         "fiction",
-        "russian-literature",
+        "novels",
+        "friendship"
+      ],
+      "rating": 4.03,
+      "ratings": 11463,
+      "reviews": 1738
+    },
+    {
+      "title": "La Part de l'autre",
+      "url": "https://www.goodreads.com/book/show/1016600.La_Part_de_l_autre",
+      "id": "1153095",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1360846104i/1016600.jpg",
+      "authors": [
+        "Éric-Emmanuel Schmitt"
+      ],
+      "genres": [
+        "fiction",
+        "historical-fiction",
+        "france",
+        "roman",
+        "novels",
+        "historical",
+        "french-literature"
+      ],
+      "rating": 4.17,
+      "ratings": 11380,
+      "reviews": 715
+    },
+    {
+      "title": "The First Law Trilogy",
+      "url": "https://www.goodreads.com/book/show/11706669-the-first-law-trilogy",
+      "id": "19033302",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1341090828i/11706669.jpg",
+      "authors": [
+        "Joe Abercrombie"
+      ],
+      "genres": [
+        "fantasy",
+        "fiction",
+        "dark-fantasy",
+        "science-fiction-fantasy",
+        "high-fantasy",
+        "epic-fantasy",
+        "novels"
+      ],
+      "rating": 4.53,
+      "ratings": 11350,
+      "reviews": 387
+    },
+    {
+      "title": "Conversation in the Cathedral",
+      "url": "https://www.goodreads.com/book/show/53970.Conversation_in_the_Cathedral",
+      "id": "61165",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1410128964i/53970.jpg",
+      "authors": [
+        "Mario Vargas Llosa"
+      ],
+      "genres": [
+        "fiction",
         "classics",
         "literature",
-        "humor",
+        "latin-american",
+        "spanish-literature",
+        "nobel-prize",
         "novels"
       ],
-      "rating": 4.04,
-      "ratings": 11699,
-      "reviews": 669
+      "rating": 4.38,
+      "ratings": 11229,
+      "reviews": 994
     },
     {
-      "title": "Colony",
-      "url": "https://www.goodreads.com/book/show/95226.Colony",
-      "id": "1606731",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1349057975i/95226.jpg",
+      "title": "Véspera",
+      "url": "https://www.goodreads.com/book/show/59433788-v-spera",
+      "id": "93617052",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1634958064i/59433788.jpg",
       "authors": [
-        "Anne Rivers Siddons"
+        "Carla Madeira"
       ],
       "genres": [
         "fiction",
         "romance",
-        "historical-fiction",
-        "southern",
-        "chick-lit",
         "contemporary",
+        "drama",
+        "brazil",
+        "literary-fiction",
         "novels"
       ],
-      "rating": 4.08,
-      "ratings": 11696,
-      "reviews": 400
+      "rating": 4.29,
+      "ratings": 11168,
+      "reviews": 1494
     },
     {
-      "title": "Min kamp 4",
-      "url": "https://www.goodreads.com/book/show/7844543-min-kamp-4",
-      "id": "10947353",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1466624623i/7844543.jpg",
+      "title": "The Emigrants",
+      "url": "https://www.goodreads.com/book/show/76507.The_Emigrants",
+      "id": "17952047",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1308244843i/76507.jpg",
+      "authors": [
+        "W.G. Sebald"
+      ],
+      "genres": [
+        "fiction",
+        "german-literature",
+        "historical-fiction",
+        "germany",
+        "novels",
+        "literature",
+        "classics"
+      ],
+      "rating": 4.16,
+      "ratings": 11099,
+      "reviews": 1138
+    },
+    {
+      "title": "Of Mice and Men",
+      "url": "https://www.goodreads.com/book/show/429120.Of_Mice_and_Men",
+      "id": "39901350",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1174675077i/429120.jpg",
+      "authors": [
+        "Kevin Hinkle"
+      ],
+      "genres": [
+        "classics",
+        "fiction",
+        "historical-fiction",
+        "literature",
+        "drama",
+        "young-adult",
+        "novels"
+      ],
+      "rating": 4.22,
+      "ratings": 11045,
+      "reviews": 53
+    },
+    {
+      "title": "Les Lendemains",
+      "url": "https://www.goodreads.com/book/show/52050697-les-lendemains",
+      "id": "76796358",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1583251936i/52050697.jpg",
+      "authors": [
+        "Mélissa Da Costa"
+      ],
+      "genres": [
+        "roman",
+        "fiction",
+        "france",
+        "contemporary",
+        "romance",
+        "audiobook",
+        "novels"
+      ],
+      "rating": 4.2,
+      "ratings": 11019,
+      "reviews": 1195
+    },
+    {
+      "title": "The Last Samurai",
+      "url": "https://www.goodreads.com/book/show/190372.The_Last_Samurai",
+      "id": "376680",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348618641i/190372.jpg",
+      "authors": [
+        "Helen DeWitt"
+      ],
+      "genres": [
+        "fiction",
+        "contemporary",
+        "literary-fiction",
+        "novels",
+        "historical-fiction",
+        "literature",
+        "book-club"
+      ],
+      "rating": 4.11,
+      "ratings": 11016,
+      "reviews": 1602
+    },
+    {
+      "title": "Le Palais du désir",
+      "url": "https://www.goodreads.com/book/show/84074756-le-palais-du-d-sir",
+      "id": "66038227",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1674487620i/84074756.jpg",
+      "authors": [
+        "Naguib Mahfouz"
+      ],
+      "genres": [
+        "fiction",
+        "egypt",
+        "historical-fiction",
+        "novels",
+        "classics",
+        "literature",
+        "africa"
+      ],
+      "rating": 4.24,
+      "ratings": 11010,
+      "reviews": 1052
+    },
+    {
+      "title": "The Hearing Trumpet",
+      "url": "https://www.goodreads.com/book/show/46987.The_Hearing_Trumpet",
+      "id": "2246210",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1336273089i/46987.jpg",
+      "authors": [
+        "Leonora Carrington"
+      ],
+      "genres": [
+        "fiction",
+        "fantasy",
+        "magical-realism",
+        "classics",
+        "art",
+        "novels",
+        "surreal"
+      ],
+      "rating": 4,
+      "ratings": 10989,
+      "reviews": 1826
+    },
+    {
+      "title": "Protector",
+      "url": "https://www.goodreads.com/book/show/100344.Protector",
+      "id": "2576385",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1403179200i/100344.jpg",
+      "authors": [
+        "Larry Niven"
+      ],
+      "genres": [
+        "science-fiction",
+        "fiction",
+        "space-opera",
+        "science-fiction-fantasy",
+        "audiobook",
+        "space",
+        "novels"
+      ],
+      "rating": 4.06,
+      "ratings": 10985,
+      "reviews": 321
+    },
+    {
+      "title": "Die Wut, die bleibt",
+      "url": "https://www.goodreads.com/book/show/59650924-die-wut-die-bleibt",
+      "id": "93934913",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1649393630i/60771637.jpg",
+      "authors": [
+        "Mareike Fallwickl"
+      ],
+      "genres": [
+        "feminism",
+        "fiction",
+        "german-literature",
+        "audiobook",
+        "contemporary",
+        "roman",
+        "novels"
+      ],
+      "rating": 4.29,
+      "ratings": 10985,
+      "reviews": 1049
+    },
+    {
+      "title": "The Arbitrator",
+      "url": "https://www.goodreads.com/book/show/30760409-the-arbitrator",
+      "id": "51314937",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1467033320i/30760409.jpg",
+      "authors": [
+        "Max Nowaz"
+      ],
+      "genres": [
+        "science-fiction",
+        "fiction",
+        "space-opera",
+        "novels",
+        "adventure",
+        "science-fiction-fantasy",
+        "space"
+      ],
+      "rating": 4.24,
+      "ratings": 10966,
+      "reviews": 86
+    },
+    {
+      "title": "Morphine",
+      "url": "https://www.goodreads.com/book/show/4531917-morphine",
+      "id": "217162",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1250129996i/4531917.jpg",
+      "authors": [
+        "Mikhail Bulgakov"
+      ],
+      "genres": [
+        "fiction",
+        "classics",
+        "russia",
+        "russian-literature",
+        "short-stories",
+        "novels",
+        "literature"
+      ],
+      "rating": 4.07,
+      "ratings": 10958,
+      "reviews": 872
+    },
+    {
+      "title": "Min kamp 5",
+      "url": "https://www.goodreads.com/book/show/8479681-min-kamp-5",
+      "id": "13344683",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1498411526i/8479681.jpg",
       "authors": [
         "Karl Ove Knausgård"
       ],
@@ -117,390 +495,14 @@
         "fiction",
         "contemporary",
         "scandinavian-literature",
-        "novels",
         "literature",
-        "literary-fiction",
-        "biography-memoir"
-      ],
-      "rating": 4.22,
-      "ratings": 11684,
-      "reviews": 853
-    },
-    {
-      "title": "L'isola di Arturo",
-      "url": "https://www.goodreads.com/book/show/1158388.L_isola_di_Arturo",
-      "id": "537437",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1409438832i/1158388.jpg",
-      "authors": [
-        "Elsa Morante"
-      ],
-      "genres": [
-        "fiction",
-        "italian-literature",
-        "classics",
-        "italy",
         "novels",
-        "coming-of-age",
-        "20th-century"
-      ],
-      "rating": 4.01,
-      "ratings": 11679,
-      "reviews": 837
-    },
-    {
-      "title": "The Complete Short Novels",
-      "url": "https://www.goodreads.com/book/show/5697.The_Complete_Short_Novels",
-      "id": "6624705",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1657545320i/5697.jpg",
-      "authors": [
-        "Anton Chekhov"
-      ],
-      "genres": [
-        "fiction",
-        "classics",
-        "russia",
-        "short-stories",
-        "russian-literature",
-        "literature",
-        "novels"
-      ],
-      "rating": 4.47,
-      "ratings": 11672,
-      "reviews": 205
-    },
-    {
-      "title": "Beach Rental",
-      "url": "https://www.goodreads.com/book/show/25627445-beach-rental",
-      "id": "15646427",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1434739950i/25627445.jpg",
-      "authors": [
-        "Grace Greene"
-      ],
-      "genres": [
-        "romance",
-        "fiction",
-        "contemporary",
-        "contemporary-romance",
-        "chick-lit",
-        "novels",
-        "christian-romance"
-      ],
-      "rating": 4.18,
-      "ratings": 11626,
-      "reviews": 666
-    },
-    {
-      "title": "Tutunamayanlar",
-      "url": "https://www.goodreads.com/book/show/758901.Tutunamayanlar",
-      "id": "745010",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1310152220i/758901.jpg",
-      "authors": [
-        "Oğuz Atay"
-      ],
-      "genres": [
-        "turkish-literature",
-        "fiction",
-        "turkish",
-        "roman",
-        "literature",
-        "classics",
-        "novels"
-      ],
-      "rating": 4.56,
-      "ratings": 11605,
-      "reviews": 554
-    },
-    {
-      "title": "The Moor's Account",
-      "url": "https://www.goodreads.com/book/show/20262502-the-moor-s-account",
-      "id": "28096057",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1395943524i/20262502.jpg",
-      "authors": [
-        "Laila Lalami"
-      ],
-      "genres": [
-        "historical-fiction",
-        "fiction",
-        "historical",
-        "africa",
-        "morocco",
-        "literary-fiction",
-        "novels"
-      ],
-      "rating": 4.04,
-      "ratings": 11604,
-      "reviews": 1528
-    },
-    {
-      "title": "The Notebook / The Wedding",
-      "url": "https://www.goodreads.com/book/show/15934.The_Notebook_The_Wedding",
-      "id": "42029404",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348512035i/15934.jpg",
-      "authors": [
-        "Nicholas Sparks"
-      ],
-      "genres": [
-        "romance",
-        "fiction",
-        "contemporary",
-        "chick-lit",
-        "novels"
-      ],
-      "rating": 4.53,
-      "ratings": 11540,
-      "reviews": 91
-    },
-    {
-      "title": "La Bête humaine",
-      "url": "https://www.goodreads.com/book/show/28417.La_B_te_humaine",
-      "id": "101404",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327185344i/28417.jpg",
-      "authors": [
-        "Émile Zola"
-      ],
-      "genres": [
-        "classics",
-        "fiction",
-        "france",
-        "french-literature",
-        "19th-century",
-        "novels",
-        "literature"
-      ],
-      "rating": 4.04,
-      "ratings": 11520,
-      "reviews": 605
-    },
-    {
-      "title": "My Sister Jodie",
-      "url": "https://www.goodreads.com/book/show/2036659.My_Sister_Jodie",
-      "id": "2041454",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320466355i/2036659.jpg",
-      "authors": [
-        "Jacqueline Wilson"
-      ],
-      "genres": [
-        "childrens",
-        "contemporary",
-        "fiction",
-        "middle-grade",
-        "young-adult",
-        "teen",
-        "novels"
-      ],
-      "rating": 4.11,
-      "ratings": 11448,
-      "reviews": 605
-    },
-    {
-      "title": "Fantine",
-      "url": "https://www.goodreads.com/book/show/1572079.Fantine",
-      "id": "43824482",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1362853913i/1572079.jpg",
-      "authors": [
-        "Victor Hugo"
-      ],
-      "genres": [
-        "classics",
-        "fiction",
-        "france",
-        "historical-fiction",
-        "french-literature",
-        "novels",
-        "literature"
-      ],
-      "rating": 4.39,
-      "ratings": 11445,
-      "reviews": 879
-    },
-    {
-      "title": "The Rising Storm",
-      "url": "https://www.goodreads.com/book/show/55644027-the-rising-storm",
-      "id": "86770586",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1607094743i/55644027.jpg",
-      "authors": [
-        "Cavan Scott"
-      ],
-      "genres": [
-        "star-wars",
-        "science-fiction",
-        "fiction",
-        "fantasy",
         "audiobook",
-        "space-opera",
-        "novels"
+        "21st-century"
       ],
-      "rating": 4.15,
-      "ratings": 11441,
-      "reviews": 1176
-    },
-    {
-      "title": "A Land Remembered",
-      "url": "https://www.goodreads.com/book/show/362002.A_Land_Remembered",
-      "id": "352098",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388247432i/362002.jpg",
-      "authors": [
-        "Patrick D. Smith"
-      ],
-      "genres": [
-        "historical-fiction",
-        "fiction",
-        "classics",
-        "historical",
-        "southern",
-        "audiobook",
-        "novels"
-      ],
-      "rating": 4.45,
-      "ratings": 11422,
-      "reviews": 1422
-    },
-    {
-      "title": "Tandia",
-      "url": "https://www.goodreads.com/book/show/2336.Tandia",
-      "id": "1329245",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388357901i/2336.jpg",
-      "authors": [
-        "Bryce Courtenay"
-      ],
-      "genres": [
-        "fiction",
-        "historical-fiction",
-        "africa",
-        "south-africa",
-        "drama",
-        "audiobook",
-        "novels"
-      ],
-      "rating": 4.09,
-      "ratings": 11418,
-      "reviews": 532
-    },
-    {
-      "title": "El juego del alma",
-      "url": "https://www.goodreads.com/book/show/56658961-el-juego-del-alma",
-      "id": "88544738",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1610568052i/56658961.jpg",
-      "authors": [
-        "Javier Castillo"
-      ],
-      "genres": [
-        "thriller",
-        "spanish-literature",
-        "fiction",
-        "mystery",
-        "suspense",
-        "crime",
-        "novels"
-      ],
-      "rating": 4.19,
-      "ratings": 11405,
-      "reviews": 1277
-    },
-    {
-      "title": "Désirée",
-      "url": "https://www.goodreads.com/book/show/84049.D_sir_e",
-      "id": "845141",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1171048586i/84049.jpg",
-      "authors": [
-        "Annemarie Selinko"
-      ],
-      "genres": [
-        "historical-fiction",
-        "fiction",
-        "historical",
-        "romance",
-        "classics",
-        "novels",
-        "france"
-      ],
-      "rating": 4.14,
-      "ratings": 11334,
-      "reviews": 914
-    },
-    {
-      "title": "Mason & Dixon",
-      "url": "https://www.goodreads.com/book/show/413.Mason_Dixon",
-      "id": "1935",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1657594655i/413.jpg",
-      "authors": [
-        "Thomas Pynchon"
-      ],
-      "genres": [
-        "fiction",
-        "historical-fiction",
-        "literature",
-        "novels",
-        "american",
-        "classics",
-        "literary-fiction"
-      ],
-      "rating": 4.11,
-      "ratings": 11318,
-      "reviews": 1093
-    },
-    {
-      "title": "The Children's Train",
-      "url": "https://www.goodreads.com/book/show/53175334-the-children-s-train",
-      "id": "73048305",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1603740883i/53175334.jpg",
-      "authors": [
-        "Viola Ardone"
-      ],
-      "genres": [
-        "historical-fiction",
-        "fiction",
-        "italy",
-        "historical",
-        "world-war-ii",
-        "war",
-        "novels"
-      ],
-      "rating": 4.08,
-      "ratings": 11318,
-      "reviews": 1336
-    },
-    {
-      "title": "The Deceiver",
-      "url": "https://www.goodreads.com/book/show/327257.The_Deceiver",
-      "id": "4788623",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1282029322i/327257.jpg",
-      "authors": [
-        "Frederick Forsyth"
-      ],
-      "genres": [
-        "fiction",
-        "thriller",
-        "espionage",
-        "mystery",
-        "novels",
-        "action",
-        "adventure"
-      ],
-      "rating": 4.04,
-      "ratings": 11265,
-      "reviews": 234
-    },
-    {
-      "title": "Leave It to Psmith",
-      "url": "https://www.goodreads.com/book/show/13707720-leave-it-to-psmith",
-      "id": "1233006",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1342025763i/13707720.jpg",
-      "authors": [
-        "P.G. Wodehouse"
-      ],
-      "genres": [
-        "fiction",
-        "humor",
-        "classics",
-        "comedy",
-        "british-literature",
-        "novels",
-        "audiobook"
-      ],
-      "rating": 4.27,
-      "ratings": 11265,
-      "reviews": 1051
+      "rating": 4.42,
+      "ratings": 10905,
+      "reviews": 883
     }
   ]
 }

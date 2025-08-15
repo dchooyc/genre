@@ -1,6 +1,27 @@
 {
   "books": [
     {
+      "title": "Harry Potter and the Chamber of Secrets: Sheet Music for Flute with CD",
+      "url": "https://www.goodreads.com/book/show/2223324.Harry_Potter_and_the_Chamber_of_Secrets",
+      "id": "498223",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347429015i/2223324.jpg",
+      "authors": [
+        "John   Williams"
+      ],
+      "genres": [
+        "fantasy",
+        "fiction",
+        "young-adult",
+        "magic",
+        "music",
+        "childrens",
+        "media-tie-in"
+      ],
+      "rating": 4.61,
+      "ratings": 224331,
+      "reviews": 153
+    },
+    {
       "title": "The Hunger Games: Official Illustrated Movie Companion",
       "url": "https://www.goodreads.com/book/show/11742691-the-hunger-games",
       "id": "16692130",
@@ -18,8 +39,8 @@
         "media-tie-in"
       ],
       "rating": 4.52,
-      "ratings": 196829,
-      "reviews": 432
+      "ratings": 203852,
+      "reviews": 439
     },
     {
       "title": "The Art of The Fellowship of the Ring",
@@ -34,13 +55,13 @@
         "art",
         "fiction",
         "classics",
+        "high-fantasy",
         "film",
-        "media-tie-in",
-        "adventure"
+        "media-tie-in"
       ],
-      "rating": 4.6,
-      "ratings": 169190,
-      "reviews": 235
+      "rating": 4.61,
+      "ratings": 197957,
+      "reviews": 269
     },
     {
       "title": "New Moon: The Complete Illustrated Movie Companion",
@@ -52,16 +73,16 @@
       ],
       "genres": [
         "vampires",
-        "non-fiction",
+        "young-adult",
+        "fantasy",
         "romance",
         "paranormal",
-        "media-tie-in",
-        "werewolves",
-        "guides"
+        "fiction",
+        "media-tie-in"
       ],
-      "rating": 4.27,
-      "ratings": 165873,
-      "reviews": 257
+      "rating": 4.26,
+      "ratings": 174435,
+      "reviews": 268
     },
     {
       "title": "The Hunger Games Tribute Guide",
@@ -80,9 +101,9 @@
         "teen",
         "media-tie-in"
       ],
-      "rating": 4.42,
-      "ratings": 90477,
-      "reviews": 536
+      "rating": 4.41,
+      "ratings": 90580,
+      "reviews": 563
     },
     {
       "title": "The Lord of the Rings: Weapons and Warfare",
@@ -98,54 +119,12 @@
         "art",
         "reference",
         "media-tie-in",
-        "film",
-        "classics"
+        "classics",
+        "film"
       ],
       "rating": 4.58,
-      "ratings": 74545,
-      "reviews": 92
-    },
-    {
-      "title": "Eclipse: The Complete Illustrated Movie Companion",
-      "url": "https://www.goodreads.com/book/show/7351574-eclipse",
-      "id": "9115558",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442369092i/7351574.jpg",
-      "authors": [
-        "Mark Cotta Vaz"
-      ],
-      "genres": [
-        "non-fiction",
-        "vampires",
-        "romance",
-        "paranormal",
-        "supernatural",
-        "media-tie-in",
-        "guides"
-      ],
-      "rating": 4.44,
-      "ratings": 68753,
-      "reviews": 152
-    },
-    {
-      "title": "Forrest Gump",
-      "url": "https://www.goodreads.com/book/show/186190.Forrest_Gump",
-      "id": "1500218",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1385313197i/186190.jpg",
-      "authors": [
-        "Winston Groom"
-      ],
-      "genres": [
-        "fiction",
-        "humor",
-        "historical-fiction",
-        "classics",
-        "media-tie-in",
-        "drama",
-        "contemporary"
-      ],
-      "rating": 4.02,
-      "ratings": 68536,
-      "reviews": 3201
+      "ratings": 82801,
+      "reviews": 106
     },
     {
       "title": "Catching Fire: The Official Illustrated Movie Companion (2)",
@@ -159,14 +138,77 @@
         "non-fiction",
         "dystopia",
         "romance",
-        "film",
         "media-tie-in",
+        "film",
         "adventure",
         "childrens"
       ],
-      "rating": 4.52,
-      "ratings": 68224,
-      "reviews": 79
+      "rating": 4.53,
+      "ratings": 78787,
+      "reviews": 91
+    },
+    {
+      "title": "Forrest Gump",
+      "url": "https://www.goodreads.com/book/show/186190.Forrest_Gump",
+      "id": "1500218",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1385313197i/186190.jpg",
+      "authors": [
+        "Winston Groom"
+      ],
+      "genres": [
+        "fiction",
+        "historical-fiction",
+        "humor",
+        "classics",
+        "media-tie-in",
+        "drama",
+        "adventure"
+      ],
+      "rating": 4.01,
+      "ratings": 71557,
+      "reviews": 3552
+    },
+    {
+      "title": "Eclipse: The Complete Illustrated Movie Companion",
+      "url": "https://www.goodreads.com/book/show/7351574-eclipse",
+      "id": "9115558",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442369092i/7351574.jpg",
+      "authors": [
+        "Mark Cotta Vaz"
+      ],
+      "genres": [
+        "vampires",
+        "non-fiction",
+        "romance",
+        "paranormal",
+        "supernatural",
+        "media-tie-in",
+        "urban-fantasy"
+      ],
+      "rating": 4.44,
+      "ratings": 69654,
+      "reviews": 157
+    },
+    {
+      "title": "Dear John",
+      "url": "https://www.goodreads.com/book/show/12399371-dear-john",
+      "id": "17380694",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1313820075i/12399371.jpg",
+      "authors": [
+        "Jamie Linden"
+      ],
+      "genres": [
+        "romance",
+        "fiction",
+        "chick-lit",
+        "contemporary",
+        "contemporary-romance",
+        "media-tie-in",
+        "love"
+      ],
+      "rating": 4.3,
+      "ratings": 64472,
+      "reviews": 318
     },
     {
       "title": "Harry Potter: Film Wizardry",
@@ -186,29 +228,8 @@
         "media-tie-in"
       ],
       "rating": 4.51,
-      "ratings": 61294,
-      "reviews": 610
-    },
-    {
-      "title": "Dear John",
-      "url": "https://www.goodreads.com/book/show/12399371-dear-john",
-      "id": "17380694",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1313820075i/12399371.jpg",
-      "authors": [
-        "Jamie Linden"
-      ],
-      "genres": [
-        "romance",
-        "fiction",
-        "chick-lit",
-        "media-tie-in",
-        "contemporary",
-        "contemporary-romance",
-        "love"
-      ],
-      "rating": 4.31,
-      "ratings": 55088,
-      "reviews": 302
+      "ratings": 62358,
+      "reviews": 634
     },
     {
       "title": "Inside Divergent: The Initiate's World",
@@ -221,15 +242,36 @@
       "genres": [
         "dystopia",
         "young-adult",
-        "science-fiction",
         "fantasy",
+        "science-fiction",
         "fiction",
         "media-tie-in",
         "romance"
       ],
-      "rating": 4.35,
-      "ratings": 38831,
-      "reviews": 248
+      "rating": 4.36,
+      "ratings": 41893,
+      "reviews": 253
+    },
+    {
+      "title": "The Lord of the Rings: The Fellowship of the Ring: Visual Companion",
+      "url": "https://www.goodreads.com/book/show/15222.The_Lord_of_the_Rings",
+      "id": "808427",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1630657083i/15222.jpg",
+      "authors": [
+        "Jane Johnson"
+      ],
+      "genres": [
+        "fantasy",
+        "fiction",
+        "art",
+        "reference",
+        "film",
+        "media-tie-in",
+        "classics"
+      ],
+      "rating": 4.66,
+      "ratings": 40883,
+      "reviews": 56
     },
     {
       "title": "Harry Potter Page to Screen: The Complete Filmmaking Journey",
@@ -249,50 +291,8 @@
         "adult"
       ],
       "rating": 4.59,
-      "ratings": 38355,
-      "reviews": 472
-    },
-    {
-      "title": "The Lord of the Rings: The Fellowship of the Ring: Visual Companion",
-      "url": "https://www.goodreads.com/book/show/15222.The_Lord_of_the_Rings",
-      "id": "808427",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1630657083i/15222.jpg",
-      "authors": [
-        "Jude Fisher"
-      ],
-      "genres": [
-        "fantasy",
-        "fiction",
-        "art",
-        "film",
-        "reference",
-        "media-tie-in",
-        "classics"
-      ],
-      "rating": 4.65,
-      "ratings": 36600,
-      "reviews": 57
-    },
-    {
-      "title": "City of Bones: The Official Illustrated Movie Companion",
-      "url": "https://www.goodreads.com/book/show/16718143-city-of-bones",
-      "id": "22957490",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1366312382i/16718143.jpg",
-      "authors": [
-        "Mimi O'Connor"
-      ],
-      "genres": [
-        "fantasy",
-        "young-adult",
-        "vampires",
-        "angels",
-        "paranormal",
-        "fiction",
-        "media-tie-in"
-      ],
-      "rating": 4.43,
-      "ratings": 36264,
-      "reviews": 116
+      "ratings": 39480,
+      "reviews": 480
     },
     {
       "title": "The Last Song: Music from the Motion Picture Soundtrack Piano, Vocal and Guitar Chords",
@@ -306,14 +306,14 @@
         "romance",
         "fiction",
         "media-tie-in",
-        "chick-lit",
-        "young-adult-contemporary",
         "young-adult",
-        "adult-fiction"
+        "young-adult-contemporary",
+        "adult-fiction",
+        "love"
       ],
       "rating": 4.42,
-      "ratings": 34537,
-      "reviews": 85
+      "ratings": 39095,
+      "reviews": 95
     },
     {
       "title": "The Lord of the Rings: The Making of the Movie Trilogy",
@@ -332,9 +332,9 @@
         "science-fiction-fantasy",
         "classics"
       ],
-      "rating": 4.6,
-      "ratings": 29137,
-      "reviews": 60
+      "rating": 4.61,
+      "ratings": 32165,
+      "reviews": 71
     },
     {
       "title": "Disney The Lion King",
@@ -354,29 +354,8 @@
         "classics"
       ],
       "rating": 4.48,
-      "ratings": 27666,
-      "reviews": 147
-    },
-    {
-      "title": "Dances with Wolves",
-      "url": "https://www.goodreads.com/book/show/543339.Dances_with_Wolves",
-      "id": "2935487",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388608222i/543339.jpg",
-      "authors": [
-        "Michael Blake"
-      ],
-      "genres": [
-        "historical-fiction",
-        "fiction",
-        "westerns",
-        "classics",
-        "historical",
-        "adventure",
-        "media-tie-in"
-      ],
-      "rating": 4.23,
-      "ratings": 27368,
-      "reviews": 825
+      "ratings": 27905,
+      "reviews": 153
     },
     {
       "title": "Walt Disney's Dumbo",
@@ -391,13 +370,13 @@
         "picture-books",
         "fiction",
         "classics",
-        "fantasy",
         "animals",
+        "fantasy",
         "media-tie-in"
       ],
       "rating": 4.32,
-      "ratings": 27076,
-      "reviews": 120
+      "ratings": 27230,
+      "reviews": 125
     },
     {
       "title": "Disney Snow White and the Seven Dwarfs",
@@ -417,8 +396,50 @@
         "media-tie-in"
       ],
       "rating": 4.21,
-      "ratings": 26820,
-      "reviews": 445
+      "ratings": 27168,
+      "reviews": 484
+    },
+    {
+      "title": "The Hobbit: An Unexpected Journey - Visual Companion",
+      "url": "https://www.goodreads.com/book/show/14833682-the-hobbit",
+      "id": "20487307",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1346542140i/14833682.jpg",
+      "authors": [
+        "Jane Johnson"
+      ],
+      "genres": [
+        "fantasy",
+        "film",
+        "fiction",
+        "art",
+        "media-tie-in",
+        "adventure",
+        "science-fiction-fantasy"
+      ],
+      "rating": 4.62,
+      "ratings": 24842,
+      "reviews": 105
+    },
+    {
+      "title": "The Green Mile: The Screenplay",
+      "url": "https://www.goodreads.com/book/show/71826.The_Green_Mile",
+      "id": "69545",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1170793390i/71826.jpg",
+      "authors": [
+        "Frank Darabont"
+      ],
+      "genres": [
+        "fiction",
+        "horror",
+        "fantasy",
+        "film",
+        "media-tie-in",
+        "plays",
+        "thriller"
+      ],
+      "rating": 4.67,
+      "ratings": 24688,
+      "reviews": 52
     },
     {
       "title": "The Pursuit of Happyness",
@@ -437,30 +458,9 @@
         "biography-memoir",
         "inspirational"
       ],
-      "rating": 4.2,
-      "ratings": 24049,
-      "reviews": 999
-    },
-    {
-      "title": "Twilight and Philosophy: Vampires, Vegetarians, and the Pursuit of Immortality",
-      "url": "https://www.goodreads.com/book/show/6441654-twilight-and-philosophy",
-      "id": "6631596",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348132058i/6441654.jpg",
-      "authors": [
-        "Rebecca Housel"
-      ],
-      "genres": [
-        "philosophy",
-        "non-fiction",
-        "vampires",
-        "essays",
-        "psychology",
-        "adult",
-        "media-tie-in"
-      ],
-      "rating": 4.41,
-      "ratings": 23595,
-      "reviews": 61
+      "rating": 4.19,
+      "ratings": 24485,
+      "reviews": 1048
     },
     {
       "title": "The Lord of the Rings: The Return of the King: Visual Companion",
@@ -468,41 +468,40 @@
       "id": "17150",
       "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1422627038i/349254.jpg",
       "authors": [
-        "Jude Fisher"
+        "Jane Johnson"
       ],
       "genres": [
         "fantasy",
         "fiction",
+        "reference",
         "art",
         "classics",
-        "media-tie-in",
-        "reference",
-        "film"
+        "film",
+        "media-tie-in"
       ],
       "rating": 4.62,
-      "ratings": 22342,
-      "reviews": 41
+      "ratings": 22288,
+      "reviews": 44
     },
     {
-      "title": "The Green Mile: The Screenplay",
-      "url": "https://www.goodreads.com/book/show/71826.The_Green_Mile",
-      "id": "69545",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1170793390i/71826.jpg",
+      "title": "The Rough Guide to the Lord of the Rings",
+      "url": "https://www.goodreads.com/book/show/15267.The_Rough_Guide_to_the_Lord_of_the_Rings",
+      "id": "17166",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1427244048i/15267.jpg",
       "authors": [
-        "Frank Darabont"
+        "Paul Simpson"
       ],
       "genres": [
-        "fiction",
-        "horror",
         "fantasy",
-        "film",
+        "fiction",
+        "reference",
         "media-tie-in",
-        "thriller",
-        "plays"
+        "travel",
+        "classics"
       ],
-      "rating": 4.66,
-      "ratings": 21931,
-      "reviews": 47
+      "rating": 4.68,
+      "ratings": 20057,
+      "reviews": 15
     }
   ]
 }

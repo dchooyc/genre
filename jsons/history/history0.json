@@ -1,6 +1,48 @@
 {
   "books": [
     {
+      "title": "The Diary of Anne Frank: The Revised Critical Edition",
+      "url": "https://www.goodreads.com/book/show/5511.The_Diary_of_Anne_Frank",
+      "id": "3532896",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1389666860i/5511.jpg",
+      "authors": [
+        "Anne Frank"
+      ],
+      "genres": [
+        "classics",
+        "non-fiction",
+        "history",
+        "biography",
+        "memoir",
+        "historical",
+        "holocaust"
+      ],
+      "rating": 4.2,
+      "ratings": 4085586,
+      "reviews": 46985
+    },
+    {
+      "title": "Night",
+      "url": "https://www.goodreads.com/book/show/1617.Night",
+      "id": "265616",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1709507006i/1617.jpg",
+      "authors": [
+        "Elie Wiesel"
+      ],
+      "genres": [
+        "non-fiction",
+        "classics",
+        "history",
+        "memoir",
+        "school",
+        "holocaust",
+        "biography"
+      ],
+      "rating": 4.38,
+      "ratings": 1337200,
+      "reviews": 41466
+    },
+    {
       "title": "Steve Jobs",
       "url": "https://www.goodreads.com/book/show/11084145-steve-jobs",
       "id": "16005831",
@@ -13,13 +55,13 @@
         "non-fiction",
         "business",
         "technology",
+        "audiobook",
         "history",
-        "biography-memoir",
-        "audiobook"
+        "biography-memoir"
       ],
-      "rating": 4.16,
-      "ratings": 1246284,
-      "reviews": 21632
+      "rating": 4.15,
+      "ratings": 1334088,
+      "reviews": 23163
     },
     {
       "title": "Sapiens: A Brief History of Humankind",
@@ -33,20 +75,20 @@
         "non-fiction",
         "history",
         "science",
+        "audiobook",
         "philosophy",
         "anthropology",
-        "audiobook",
         "psychology"
       ],
-      "rating": 4.36,
-      "ratings": 1027813,
-      "reviews": 53521
+      "rating": 4.34,
+      "ratings": 1208017,
+      "reviews": 60109
     },
     {
-      "title": "Unbroken: A World War II Story of Survival, Resilience and Redemption",
-      "url": "https://www.goodreads.com/book/show/8664353-unbroken",
+      "title": "Unbroken: An Olympian's Journey from Airman to Castaway to Captive",
+      "url": "https://www.goodreads.com/book/show/21965110-unbroken",
       "id": "12946965",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327861115i/8664353.jpg",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1414348977i/21965110.jpg",
       "authors": [
         "Laura Hillenbrand"
       ],
@@ -54,14 +96,35 @@
         "non-fiction",
         "history",
         "biography",
+        "book-club",
         "world-war-ii",
         "war",
-        "historical",
-        "audiobook"
+        "historical"
       ],
-      "rating": 4.38,
-      "ratings": 934771,
-      "reviews": 50361
+      "rating": 4.39,
+      "ratings": 990860,
+      "reviews": 52743
+    },
+    {
+      "title": "Man's Search for Meaning",
+      "url": "https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning",
+      "id": "3389674",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1535419394i/4069.jpg",
+      "authors": [
+        "Viktor E. Frankl"
+      ],
+      "genres": [
+        "non-fiction",
+        "psychology",
+        "philosophy",
+        "history",
+        "self-help",
+        "memoir",
+        "biography"
+      ],
+      "rating": 4.37,
+      "ratings": 836823,
+      "reviews": 46620
     },
     {
       "title": "The Immortal Life of Henrietta Lacks",
@@ -74,15 +137,15 @@
       "genres": [
         "non-fiction",
         "science",
+        "book-club",
         "history",
         "biography",
-        "medicine",
         "audiobook",
-        "medical"
+        "medicine"
       ],
-      "rating": 4.12,
-      "ratings": 735170,
-      "reviews": 40954
+      "rating": 4.13,
+      "ratings": 789059,
+      "reviews": 43709
     },
     {
       "title": "The Devil in the White City: Murder, Magic, and Madness at the Fair That Changed America",
@@ -96,14 +159,14 @@
         "non-fiction",
         "history",
         "true-crime",
+        "book-club",
         "crime",
         "historical",
-        "mystery",
-        "audiobook"
+        "mystery"
       ],
       "rating": 4,
-      "ratings": 682609,
-      "reviews": 40332
+      "ratings": 741907,
+      "reviews": 43759
     },
     {
       "title": "In Cold Blood",
@@ -120,11 +183,11 @@
         "crime",
         "mystery",
         "history",
-        "thriller"
+        "book-club"
       ],
       "rating": 4.09,
-      "ratings": 659349,
-      "reviews": 23791
+      "ratings": 712288,
+      "reviews": 27645
     },
     {
       "title": "I Am Malala: The Story of the Girl Who Stood Up for Education and Was Shot by the Taliban",
@@ -135,20 +198,20 @@
         "Malala Yousafzai"
       ],
       "genres": [
-        "non-fiction",
-        "biography",
-        "memoir",
-        "feminism",
         "autobiography",
-        "audiobook",
-        "history"
+        "history",
+        "biography-memoir",
+        "politics",
+        "education",
+        "middle-east",
+        "social-justice"
       ],
-      "rating": 4.15,
-      "ratings": 576023,
-      "reviews": 25667
+      "rating": 4.16,
+      "ratings": 613374,
+      "reviews": 26923
     },
     {
-      "title": "Into Thin Air: A Personal Account of the Mount Everest Disaster",
+      "title": "Into Thin Air: A Personal Account of the Mt. Everest Disaster",
       "url": "https://www.goodreads.com/book/show/1898.Into_Thin_Air",
       "id": "1816662",
       "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1631501298i/1898.jpg",
@@ -164,9 +227,9 @@
         "history",
         "survival"
       ],
-      "rating": 4.24,
-      "ratings": 505814,
-      "reviews": 18779
+      "rating": 4.26,
+      "ratings": 552848,
+      "reviews": 22190
     },
     {
       "title": "A Brief History of Time",
@@ -181,13 +244,13 @@
         "non-fiction",
         "physics",
         "history",
+        "astronomy",
         "classics",
-        "philosophy",
-        "astronomy"
+        "philosophy"
       ],
       "rating": 4.21,
-      "ratings": 432050,
-      "reviews": 12550
+      "ratings": 468275,
+      "reviews": 13693
     },
     {
       "title": "Guns, Germs, and Steel: The Fates of Human Societies",
@@ -204,11 +267,32 @@
         "anthropology",
         "sociology",
         "politics",
-        "economics"
+        "audiobook"
       ],
       "rating": 4.04,
-      "ratings": 410534,
-      "reviews": 14220
+      "ratings": 446288,
+      "reviews": 15509
+    },
+    {
+      "title": "Killers of the Flower Moon: The Osage Murders and the Birth of the FBI",
+      "url": "https://www.goodreads.com/book/show/193388249-killers-of-the-flower-moon",
+      "id": "49782213",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1696884539i/193388249.jpg",
+      "authors": [
+        "David Grann"
+      ],
+      "genres": [
+        "non-fiction",
+        "history",
+        "true-crime",
+        "book-club",
+        "audiobook",
+        "crime",
+        "mystery"
+      ],
+      "rating": 4.14,
+      "ratings": 428237,
+      "reviews": 41635
     },
     {
       "title": "A Short History of Nearly Everything",
@@ -225,11 +309,11 @@
         "audiobook",
         "humor",
         "physics",
-        "historical"
+        "popular-science"
       ],
-      "rating": 4.21,
-      "ratings": 386069,
-      "reviews": 15799
+      "rating": 4.22,
+      "ratings": 413765,
+      "reviews": 17063
     },
     {
       "title": "John Adams",
@@ -248,30 +332,9 @@
         "politics",
         "historical"
       ],
-      "rating": 4.07,
-      "ratings": 361253,
-      "reviews": 7211
-    },
-    {
-      "title": "Killers of the Flower Moon: The Osage Murders and the Birth of the FBI",
-      "url": "https://www.goodreads.com/book/show/193388249-killers-of-the-flower-moon",
-      "id": "49782213",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1696884539i/193388249.jpg",
-      "authors": [
-        "David Grann"
-      ],
-      "genres": [
-        "non-fiction",
-        "history",
-        "true-crime",
-        "crime",
-        "audiobook",
-        "mystery",
-        "historical"
-      ],
-      "rating": 4.15,
-      "ratings": 340150,
-      "reviews": 34422
+      "rating": 4.08,
+      "ratings": 373707,
+      "reviews": 7637
     },
     {
       "title": "Maus I: A Survivor's Tale: My Father Bleeds History",
@@ -290,9 +353,9 @@
         "holocaust",
         "biography"
       ],
-      "rating": 4.38,
-      "ratings": 334116,
-      "reviews": 9905
+      "rating": 4.39,
+      "ratings": 366611,
+      "reviews": 11047
     },
     {
       "title": "Between the World and Me",
@@ -308,12 +371,33 @@
         "race",
         "audiobook",
         "history",
-        "social-justice",
-        "biography"
+        "book-club",
+        "social-justice"
       ],
       "rating": 4.4,
-      "ratings": 333008,
-      "reviews": 29704
+      "ratings": 358289,
+      "reviews": 31754
+    },
+    {
+      "title": "The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics",
+      "url": "https://www.goodreads.com/book/show/16158542-the-boys-in-the-boat",
+      "id": "21998925",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1354683116i/16158542.jpg",
+      "authors": [
+        "Daniel James Brown"
+      ],
+      "genres": [
+        "non-fiction",
+        "history",
+        "book-club",
+        "sports",
+        "biography",
+        "audiobook",
+        "historical"
+      ],
+      "rating": 4.39,
+      "ratings": 353774,
+      "reviews": 31675
     },
     {
       "title": "The Hiding Place: The Triumphant True Story of Corrie Ten Boom",
@@ -332,30 +416,30 @@
         "classics",
         "holocaust"
       ],
-      "rating": 4.46,
-      "ratings": 324527,
-      "reviews": 13707
+      "rating": 4.47,
+      "ratings": 349313,
+      "reviews": 15267
     },
     {
-      "title": "The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics",
-      "url": "https://www.goodreads.com/book/show/16158542-the-boys-in-the-boat",
-      "id": "21998925",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1354683116i/16158542.jpg",
+      "title": "Meditations: A New Translation",
+      "url": "https://www.goodreads.com/book/show/61354484-meditations",
+      "id": "31010",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1656258139i/61354484.jpg",
       "authors": [
-        "Daniel James Brown"
+        "Marcus Aurelius"
       ],
       "genres": [
+        "philosophy",
         "non-fiction",
+        "classics",
         "history",
-        "sports",
-        "biography",
-        "audiobook",
-        "historical",
-        "book-club"
+        "self-help",
+        "psychology",
+        "personal-development"
       ],
-      "rating": 4.39,
-      "ratings": 312311,
-      "reviews": 28084
+      "rating": 4.28,
+      "ratings": 323419,
+      "reviews": 18638
     },
     {
       "title": "The Holy Bible: King James Version",
@@ -375,8 +459,8 @@
         "history"
       ],
       "rating": 4.44,
-      "ratings": 292643,
-      "reviews": 8541
+      "ratings": 309724,
+      "reviews": 9455
     },
     {
       "title": "The Autobiography of Malcolm X",
@@ -392,12 +476,12 @@
         "history",
         "memoir",
         "autobiography",
-        "race",
-        "classics"
+        "politics",
+        "race"
       ],
-      "rating": 4.36,
-      "ratings": 267706,
-      "reviews": 9146
+      "rating": 4.37,
+      "ratings": 285840,
+      "reviews": 10196
     },
     {
       "title": "Homo Deus: A History of Tomorrow",
@@ -416,93 +500,9 @@
         "anthropology",
         "sociology"
       ],
-      "rating": 4.21,
-      "ratings": 250164,
-      "reviews": 16134
-    },
-    {
-      "title": "Meditations",
-      "url": "https://www.goodreads.com/book/show/30659.Meditations",
-      "id": "31010",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1421618636i/30659.jpg",
-      "authors": [
-        "Marcus Aurelius"
-      ],
-      "genres": [
-        "non-fiction",
-        "history",
-        "self-help",
-        "psychology",
-        "classics",
-        "personal-development",
-        "spirituality"
-      ],
-      "rating": 4.28,
-      "ratings": 247837,
-      "reviews": 14030
-    },
-    {
-      "title": "I'll Be Gone in the Dark: One Woman's Obsessive Search for the Golden State Killer",
-      "url": "https://www.goodreads.com/book/show/35068432-i-ll-be-gone-in-the-dark",
-      "id": "56363890",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1499131009i/35068432.jpg",
-      "authors": [
-        "Michelle McNamara"
-      ],
-      "genres": [
-        "non-fiction",
-        "true-crime",
-        "audiobook",
-        "crime",
-        "mystery",
-        "memoir",
-        "history"
-      ],
-      "rating": 4.12,
-      "ratings": 237859,
-      "reviews": 19781
-    },
-    {
-      "title": "Just Mercy",
-      "url": "https://www.goodreads.com/book/show/20342617-just-mercy",
-      "id": "28323940",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1635827409i/20342617.jpg",
-      "authors": [
-        "Bryan Stevenson"
-      ],
-      "genres": [
-        "non-fiction",
-        "memoir",
-        "social-justice",
-        "race",
-        "politics",
-        "history",
-        "audiobook"
-      ],
-      "rating": 4.63,
-      "ratings": 231568,
-      "reviews": 25671
-    },
-    {
-      "title": "1776",
-      "url": "https://www.goodreads.com/book/show/1067.1776",
-      "id": "3364186",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1306787560i/1067.jpg",
-      "authors": [
-        "David McCullough"
-      ],
-      "genres": [
-        "history",
-        "non-fiction",
-        "american-history",
-        "historical",
-        "american-revolution",
-        "war",
-        "audiobook"
-      ],
-      "rating": 4.09,
-      "ratings": 230037,
-      "reviews": 8478
+      "rating": 4.19,
+      "ratings": 279879,
+      "reviews": 17508
     }
   ]
 }

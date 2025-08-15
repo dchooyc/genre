@@ -1,25 +1,88 @@
 {
   "books": [
     {
-      "title": "A Little Princess",
-      "url": "https://www.goodreads.com/book/show/3008.A_Little_Princess",
-      "id": "1313599",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327868556i/3008.jpg",
+      "title": "The Thorn Birds",
+      "url": "https://www.goodreads.com/book/show/3412.The_Thorn_Birds",
+      "id": "816449",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1548530867i/3412.jpg",
       "authors": [
-        "Frances Hodgson Burnett"
+        "Colleen McCullough"
+      ],
+      "genres": [
+        "fiction",
+        "historical-fiction",
+        "romance",
+        "classics",
+        "historical",
+        "historical-romance",
+        "drama"
+      ],
+      "rating": 4.25,
+      "ratings": 361505,
+      "reviews": 8827
+    },
+    {
+      "title": "Redeeming Love",
+      "url": "https://www.goodreads.com/book/show/11422.Redeeming_Love",
+      "id": "820210",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1550053167i/11422.jpg",
+      "authors": [
+        "Francine  Rivers"
+      ],
+      "genres": [
+        "romance",
+        "christian",
+        "christian-fiction",
+        "fiction",
+        "historical-fiction",
+        "historical",
+        "historical-romance"
+      ],
+      "rating": 4.51,
+      "ratings": 360926,
+      "reviews": 21179
+    },
+    {
+      "title": "War and Peace",
+      "url": "https://www.goodreads.com/book/show/656.War_and_Peace",
+      "id": "4912783",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1413215930i/656.jpg",
+      "authors": [
+        "Leo Tolstoy"
       ],
       "genres": [
         "classics",
         "fiction",
-        "childrens",
-        "young-adult",
         "historical-fiction",
-        "middle-grade",
-        "historical"
+        "russia",
+        "russian-literature",
+        "literature",
+        "war"
       ],
-      "rating": 4.22,
-      "ratings": 306203,
-      "reviews": 9960
+      "rating": 4.17,
+      "ratings": 357865,
+      "reviews": 19797
+    },
+    {
+      "title": "Small Things Like These",
+      "url": "https://www.goodreads.com/book/show/58662236-small-things-like-these",
+      "id": "86476810",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1734631773i/58662236.jpg",
+      "authors": [
+        "Claire Keegan"
+      ],
+      "genres": [
+        "fiction",
+        "historical-fiction",
+        "ireland",
+        "audiobook",
+        "literary-fiction",
+        "christmas",
+        "book-club"
+      ],
+      "rating": 4.13,
+      "ratings": 356277,
+      "reviews": 42236
     },
     {
       "title": "The Remains of the Day",
@@ -36,11 +99,137 @@
         "literary-fiction",
         "historical",
         "literature",
-        "novels"
+        "book-club"
       ],
       "rating": 4.14,
-      "ratings": 303607,
-      "reviews": 24189
+      "ratings": 345802,
+      "reviews": 29183
+    },
+    {
+      "title": "The Rose Code",
+      "url": "https://www.goodreads.com/book/show/53914938-the-rose-code",
+      "id": "75123985",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1596553679i/53914938.jpg",
+      "authors": [
+        "Kate Quinn"
+      ],
+      "genres": [
+        "historical-fiction",
+        "fiction",
+        "book-club",
+        "audiobook",
+        "historical",
+        "world-war-ii",
+        "mystery"
+      ],
+      "rating": 4.45,
+      "ratings": 343859,
+      "reviews": 29030
+    },
+    {
+      "title": "Weyward",
+      "url": "https://www.goodreads.com/book/show/60654349-weyward",
+      "id": "90580145",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1677756582i/60654349.jpg",
+      "authors": [
+        "Emilia Hart"
+      ],
+      "genres": [
+        "historical-fiction",
+        "fantasy",
+        "fiction",
+        "magical-realism",
+        "book-club",
+        "audiobook",
+        "historical"
+      ],
+      "rating": 4.06,
+      "ratings": 343798,
+      "reviews": 38536
+    },
+    {
+      "title": "Fall of Giants",
+      "url": "https://www.goodreads.com/book/show/7315573-fall-of-giants",
+      "id": "8842841",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1470384630i/7315573.jpg",
+      "authors": [
+        "Ken Follett"
+      ],
+      "genres": [
+        "historical-fiction",
+        "fiction",
+        "historical",
+        "audiobook",
+        "war",
+        "novels",
+        "book-club"
+      ],
+      "rating": 4.32,
+      "ratings": 341410,
+      "reviews": 16959
+    },
+    {
+      "title": "The Three Musketeers",
+      "url": "https://www.goodreads.com/book/show/10916717-the-three-musketeers",
+      "id": "1263212",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1486418749i/10916717.jpg",
+      "authors": [
+        "Alexandre Dumas"
+      ],
+      "genres": [
+        "classics",
+        "fiction",
+        "historical-fiction",
+        "adventure",
+        "france",
+        "literature",
+        "historical"
+      ],
+      "rating": 4.1,
+      "ratings": 340838,
+      "reviews": 10635
+    },
+    {
+      "title": "Norse Mythology",
+      "url": "https://www.goodreads.com/book/show/37903770-norse-mythology",
+      "id": "51396954",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1516128292i/37903770.jpg",
+      "authors": [
+        "Neil Gaiman"
+      ],
+      "genres": [
+        "fantasy",
+        "mythology",
+        "fiction",
+        "audiobook",
+        "short-stories",
+        "classics",
+        "historical-fiction"
+      ],
+      "rating": 4.1,
+      "ratings": 338823,
+      "reviews": 29376
+    },
+    {
+      "title": "The Things They Carried",
+      "url": "https://www.goodreads.com/book/show/133518.The_Things_They_Carried",
+      "id": "1235619",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1424663847i/133518.jpg",
+      "authors": [
+        "Tim O'Brien"
+      ],
+      "genres": [
+        "fiction",
+        "historical-fiction",
+        "classics",
+        "war",
+        "short-stories",
+        "school",
+        "historical"
+      ],
+      "rating": 4.14,
+      "ratings": 338242,
+      "reviews": 20874
     },
     {
       "title": "Lilac Girls",
@@ -53,15 +242,141 @@
       "genres": [
         "historical-fiction",
         "fiction",
+        "book-club",
         "world-war-ii",
         "historical",
         "audiobook",
-        "war",
-        "holocaust"
+        "war"
       ],
       "rating": 4.29,
-      "ratings": 302799,
-      "reviews": 22891
+      "ratings": 333097,
+      "reviews": 24555
+    },
+    {
+      "title": "A Prayer for Owen Meany",
+      "url": "https://www.goodreads.com/book/show/4473.A_Prayer_for_Owen_Meany",
+      "id": "1734019",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1260470010i/4473.jpg",
+      "authors": [
+        "John Irving"
+      ],
+      "genres": [
+        "fiction",
+        "classics",
+        "book-club",
+        "contemporary",
+        "literature",
+        "literary-fiction",
+        "historical-fiction"
+      ],
+      "rating": 4.24,
+      "ratings": 332880,
+      "reviews": 17389
+    },
+    {
+      "title": "The Invention of Wings",
+      "url": "https://www.goodreads.com/book/show/18079776-the-invention-of-wings",
+      "id": "25387072",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386699861i/18079776.jpg",
+      "authors": [
+        "Sue Monk Kidd"
+      ],
+      "genres": [
+        "historical-fiction",
+        "book-club",
+        "fiction",
+        "historical",
+        "audiobook",
+        "adult",
+        "adult-fiction"
+      ],
+      "rating": 4.26,
+      "ratings": 328572,
+      "reviews": 26945
+    },
+    {
+      "title": "Voyager",
+      "url": "https://www.goodreads.com/book/show/10987.Voyager",
+      "id": "1131570",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1483278195i/10987.jpg",
+      "authors": [
+        "Diana Gabaldon"
+      ],
+      "genres": [
+        "historical-fiction",
+        "romance",
+        "fantasy",
+        "fiction",
+        "time-travel",
+        "historical",
+        "historical-romance"
+      ],
+      "rating": 4.39,
+      "ratings": 326040,
+      "reviews": 13573
+    },
+    {
+      "title": "Fried Green Tomatoes at the Whistle Stop Cafe",
+      "url": "https://www.goodreads.com/book/show/9375.Fried_Green_Tomatoes_at_the_Whistle_Stop_Cafe",
+      "id": "2129359",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1165961740i/9375.jpg",
+      "authors": [
+        "Fannie Flagg"
+      ],
+      "genres": [
+        "fiction",
+        "historical-fiction",
+        "classics",
+        "lgbt",
+        "queer",
+        "book-club",
+        "historical"
+      ],
+      "rating": 4.28,
+      "ratings": 322011,
+      "reviews": 11653
+    },
+    {
+      "title": "A Little Princess",
+      "url": "https://www.goodreads.com/book/show/3008.A_Little_Princess",
+      "id": "1313599",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327868556i/3008.jpg",
+      "authors": [
+        "Frances Hodgson Burnett"
+      ],
+      "genres": [
+        "classics",
+        "fiction",
+        "childrens",
+        "young-adult",
+        "historical-fiction",
+        "middle-grade",
+        "historical"
+      ],
+      "rating": 4.23,
+      "ratings": 320909,
+      "reviews": 11064
+    },
+    {
+      "title": "Hamnet",
+      "url": "https://www.goodreads.com/book/show/43890641-hamnet",
+      "id": "68289933",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1574943819i/43890641.jpg",
+      "authors": [
+        "Maggie O'Farrell"
+      ],
+      "genres": [
+        "historical-fiction",
+        "fiction",
+        "book-club",
+        "historical",
+        "literary-fiction",
+        "audiobook",
+        "adult"
+      ],
+      "rating": 4.19,
+      "ratings": 313354,
+      "reviews": 38389
     },
     {
       "title": "Hotel on the Corner of Bitter and Sweet",
@@ -74,36 +389,78 @@
       "genres": [
         "historical-fiction",
         "fiction",
-        "historical",
-        "romance",
-        "world-war-ii",
         "book-club",
-        "adult-fiction"
+        "romance",
+        "historical",
+        "world-war-ii",
+        "audiobook"
       ],
-      "rating": 4.04,
-      "ratings": 300081,
-      "reviews": 22850
+      "rating": 4.05,
+      "ratings": 312107,
+      "reviews": 23716
     },
     {
-      "title": "Hello Beautiful",
-      "url": "https://www.goodreads.com/book/show/61771675-hello-beautiful",
-      "id": "97397727",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1687803098i/61771675.jpg",
+      "title": "The House of the Spirits",
+      "url": "https://www.goodreads.com/book/show/9328.The_House_of_the_Spirits",
+      "id": "3374404",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1621672028i/9328.jpg",
       "authors": [
-        "Ann Napolitano"
+        "Isabel Allende"
+      ],
+      "genres": [
+        "fiction",
+        "magical-realism",
+        "historical-fiction",
+        "classics",
+        "fantasy",
+        "book-club",
+        "spanish-literature"
+      ],
+      "rating": 4.29,
+      "ratings": 306366,
+      "reviews": 18818
+    },
+    {
+      "title": "The Lincoln Highway",
+      "url": "https://www.goodreads.com/book/show/57109107-the-lincoln-highway",
+      "id": "89372632",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1633443634i/57109107.jpg",
+      "authors": [
+        "Amor Towles"
       ],
       "genres": [
         "fiction",
         "historical-fiction",
+        "book-club",
         "audiobook",
-        "contemporary",
-        "romance",
+        "historical",
         "literary-fiction",
-        "family"
+        "adventure"
       ],
-      "rating": 4.18,
-      "ratings": 297712,
-      "reviews": 28214
+      "rating": 4.22,
+      "ratings": 300761,
+      "reviews": 31251
+    },
+    {
+      "title": "The Lost Bookshop",
+      "url": "https://www.goodreads.com/book/show/65137920-the-lost-bookshop",
+      "id": "100072715",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1721406796i/65137920.jpg",
+      "authors": [
+        "Evie  Woods"
+      ],
+      "genres": [
+        "fantasy",
+        "fiction",
+        "historical-fiction",
+        "book-club",
+        "magical-realism",
+        "audiobook",
+        "romance"
+      ],
+      "rating": 4.01,
+      "ratings": 300513,
+      "reviews": 25672
     },
     {
       "title": "Little House on the Prairie",
@@ -123,29 +480,8 @@
         "middle-grade"
       ],
       "rating": 4.21,
-      "ratings": 290690,
-      "reviews": 5601
-    },
-    {
-      "title": "Winter Garden",
-      "url": "https://www.goodreads.com/book/show/6668467-winter-garden",
-      "id": "6863383",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1265932201i/6668467.jpg",
-      "authors": [
-        "Kristin Hannah"
-      ],
-      "genres": [
-        "historical-fiction",
-        "fiction",
-        "historical",
-        "chick-lit",
-        "romance",
-        "contemporary",
-        "russia"
-      ],
-      "rating": 4.26,
-      "ratings": 278801,
-      "reviews": 25686
+      "ratings": 299531,
+      "reviews": 6114
     },
     {
       "title": "The Kitchen House",
@@ -157,352 +493,16 @@
       ],
       "genres": [
         "historical-fiction",
+        "book-club",
         "fiction",
         "historical",
-        "book-club",
         "audiobook",
         "adult",
         "adult-fiction"
       ],
-      "rating": 4.22,
-      "ratings": 275062,
-      "reviews": 20807
-    },
-    {
-      "title": "The House of the Spirits",
-      "url": "https://www.goodreads.com/book/show/9328.The_House_of_the_Spirits",
-      "id": "3374404",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1621672028i/9328.jpg",
-      "authors": [
-        "Isabel Allende"
-      ],
-      "genres": [
-        "fiction",
-        "magical-realism",
-        "historical-fiction",
-        "fantasy",
-        "spanish-literature",
-        "historical",
-        "novels"
-      ],
-      "rating": 4.28,
-      "ratings": 269507,
-      "reviews": 14994
-    },
-    {
-      "title": "Little House in the Big Woods",
-      "url": "https://www.goodreads.com/book/show/8337.Little_House_in_the_Big_Woods",
-      "id": "1200805",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1621570121i/8337.jpg",
-      "authors": [
-        "Laura Ingalls Wilder"
-      ],
-      "genres": [
-        "classics",
-        "historical-fiction",
-        "childrens",
-        "fiction",
-        "young-adult",
-        "historical",
-        "middle-grade"
-      ],
-      "rating": 4.2,
-      "ratings": 269083,
-      "reviews": 7887
-    },
-    {
-      "title": "The Clan of the Cave Bear",
-      "url": "https://www.goodreads.com/book/show/40611463-the-clan-of-the-cave-bear",
-      "id": "1584694",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1529681430i/40611463.jpg",
-      "authors": [
-        "Jean M. Auel"
-      ],
-      "genres": [
-        "historical-fiction",
-        "fiction",
-        "fantasy",
-        "historical",
-        "classics",
-        "adventure",
-        "prehistoric"
-      ],
-      "rating": 4.09,
-      "ratings": 267077,
-      "reviews": 8056
-    },
-    {
-      "title": "The Poppy War",
-      "url": "https://www.goodreads.com/book/show/35068705-the-poppy-war",
-      "id": "56364137",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1515691735i/35068705.jpg",
-      "authors": [
-        "R.F. Kuang"
-      ],
-      "genres": [
-        "fantasy",
-        "fiction",
-        "historical-fiction",
-        "adult",
-        "historical",
-        "high-fantasy",
-        "audiobook"
-      ],
-      "rating": 4.17,
-      "ratings": 260110,
-      "reviews": 41802
-    },
-    {
-      "title": "The Lincoln Highway",
-      "url": "https://www.goodreads.com/book/show/57109107-the-lincoln-highway",
-      "id": "89372632",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1633443634i/57109107.jpg",
-      "authors": [
-        "Amor Towles"
-      ],
-      "genres": [
-        "fiction",
-        "historical-fiction",
-        "audiobook",
-        "historical",
-        "literary-fiction",
-        "adventure",
-        "book-club"
-      ],
       "rating": 4.23,
-      "ratings": 259078,
-      "reviews": 27330
-    },
-    {
-      "title": "Hamnet",
-      "url": "https://www.goodreads.com/book/show/49856101-hamnet",
-      "id": "68289933",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1577257306i/49856101.jpg",
-      "authors": [
-        "Maggie O'Farrell"
-      ],
-      "genres": [
-        "historical-fiction",
-        "fiction",
-        "historical",
-        "literary-fiction",
-        "audiobook",
-        "adult",
-        "book-club"
-      ],
-      "rating": 4.2,
-      "ratings": 255778,
-      "reviews": 31277
-    },
-    {
-      "title": "The Bluest Eye",
-      "url": "https://www.goodreads.com/book/show/11337.The_Bluest_Eye",
-      "id": "1987778",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388208495i/11337.jpg",
-      "authors": [
-        "Toni Morrison"
-      ],
-      "genres": [
-        "fiction",
-        "classics",
-        "historical-fiction",
-        "banned-books",
-        "race",
-        "african-american",
-        "literary-fiction"
-      ],
-      "rating": 4.11,
-      "ratings": 252666,
-      "reviews": 17194
-    },
-    {
-      "title": "The Rose Code",
-      "url": "https://www.goodreads.com/book/show/53914938-the-rose-code",
-      "id": "75123985",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1596553679i/53914938.jpg",
-      "authors": [
-        "Kate Quinn"
-      ],
-      "genres": [
-        "historical-fiction",
-        "fiction",
-        "audiobook",
-        "historical",
-        "world-war-ii",
-        "mystery",
-        "war"
-      ],
-      "rating": 4.45,
-      "ratings": 251511,
-      "reviews": 22408
-    },
-    {
-      "title": "Drums of Autumn",
-      "url": "https://www.goodreads.com/book/show/40909452-drums-of-autumn",
-      "id": "3123704",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1536699977i/40909452.jpg",
-      "authors": [
-        "Diana Gabaldon"
-      ],
-      "genres": [
-        "historical-fiction",
-        "romance",
-        "fantasy",
-        "fiction",
-        "time-travel",
-        "historical",
-        "historical-romance"
-      ],
-      "rating": 4.35,
-      "ratings": 250478,
-      "reviews": 9656
-    },
-    {
-      "title": "World Without End",
-      "url": "https://www.goodreads.com/book/show/5064.World_Without_End",
-      "id": "2845518",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1509545511i/5064.jpg",
-      "authors": [
-        "Ken Follett"
-      ],
-      "genres": [
-        "historical-fiction",
-        "fiction",
-        "historical",
-        "medieval",
-        "audiobook",
-        "british-literature",
-        "novels"
-      ],
-      "rating": 4.31,
-      "ratings": 250237,
-      "reviews": 13407
-    },
-    {
-      "title": "The Good Earth",
-      "url": "https://www.goodreads.com/book/show/1078.The_Good_Earth",
-      "id": "2346070",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1312497600i/1078.jpg",
-      "authors": [
-        "Pearl S. Buck"
-      ],
-      "genres": [
-        "classics",
-        "fiction",
-        "historical-fiction",
-        "china",
-        "literature",
-        "historical",
-        "asia"
-      ],
-      "rating": 4,
-      "ratings": 249688,
-      "reviews": 11666
-    },
-    {
-      "title": "Cloud Atlas",
-      "url": "https://www.goodreads.com/book/show/49628.Cloud_Atlas",
-      "id": "1871423",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1563042852i/49628.jpg",
-      "authors": [
-        "David Mitchell"
-      ],
-      "genres": [
-        "fiction",
-        "science-fiction",
-        "fantasy",
-        "historical-fiction",
-        "dystopia",
-        "contemporary",
-        "literary-fiction"
-      ],
-      "rating": 4.01,
-      "ratings": 248801,
-      "reviews": 21958
-    },
-    {
-      "title": "The Nickel Boys",
-      "url": "https://www.goodreads.com/book/show/42270835-the-nickel-boys",
-      "id": "65893762",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1593115396i/42270835.jpg",
-      "authors": [
-        "Colson Whitehead"
-      ],
-      "genres": [
-        "fiction",
-        "historical-fiction",
-        "audiobook",
-        "historical",
-        "race",
-        "literary-fiction",
-        "african-american"
-      ],
-      "rating": 4.26,
-      "ratings": 245123,
-      "reviews": 23720
-    },
-    {
-      "title": "Between Shades of Gray",
-      "url": "https://www.goodreads.com/book/show/7824322-between-shades-of-gray",
-      "id": "10870318",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327873479i/7824322.jpg",
-      "authors": [
-        "Ruta Sepetys"
-      ],
-      "genres": [
-        "historical-fiction",
-        "young-adult",
-        "fiction",
-        "historical",
-        "war",
-        "world-war-ii",
-        "romance"
-      ],
-      "rating": 4.37,
-      "ratings": 242729,
-      "reviews": 27140
-    },
-    {
-      "title": "Tom Lake",
-      "url": "https://www.goodreads.com/book/show/63241104-tom-lake",
-      "id": "99138080",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1691084837i/63241104.jpg",
-      "authors": [
-        "Ann Patchett"
-      ],
-      "genres": [
-        "fiction",
-        "audiobook",
-        "literary-fiction",
-        "romance",
-        "historical-fiction",
-        "contemporary",
-        "family"
-      ],
-      "rating": 4.04,
-      "ratings": 241760,
-      "reviews": 29914
-    },
-    {
-      "title": "Shadow of Night",
-      "url": "https://www.goodreads.com/book/show/11559200-shadow-of-night",
-      "id": "16499524",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320604137i/11559200.jpg",
-      "authors": [
-        "Deborah Harkness"
-      ],
-      "genres": [
-        "fantasy",
-        "fiction",
-        "romance",
-        "historical-fiction",
-        "paranormal",
-        "vampires",
-        "witches"
-      ],
-      "rating": 4.08,
-      "ratings": 241116,
-      "reviews": 19220
+      "ratings": 296207,
+      "reviews": 21978
     }
   ]
 }

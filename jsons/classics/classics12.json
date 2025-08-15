@@ -1,67 +1,298 @@
 {
   "books": [
     {
-      "title": "The Tell-Tale Heart",
-      "url": "https://www.goodreads.com/book/show/899492.The_Tell_Tale_Heart",
-      "id": "19034527",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1534247939i/899492.jpg",
+      "title": "The Call of Cthulhu and Other Weird Stories",
+      "url": "https://www.goodreads.com/book/show/160149.The_Call_of_Cthulhu_and_Other_Weird_Stories",
+      "id": "6750943",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320618937i/160149.jpg",
       "authors": [
-        "Edgar Allan Poe"
+        "H.P. Lovecraft"
       ],
       "genres": [
-        "classics",
-        "short-stories",
         "horror",
+        "classics",
         "fiction",
-        "gothic",
-        "school",
-        "mystery"
+        "short-stories",
+        "fantasy",
+        "science-fiction",
+        "lovecraftian"
       ],
-      "rating": 4.24,
-      "ratings": 99160,
-      "reviews": 4806
+      "rating": 4.02,
+      "ratings": 115808,
+      "reviews": 6765
     },
     {
-      "title": "Native Son",
-      "url": "https://www.goodreads.com/book/show/15622.Native_Son",
-      "id": "3159084",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1627788308i/15622.jpg",
+      "title": "The Little Engine That Could",
+      "url": "https://www.goodreads.com/book/show/824204.The_Little_Engine_That_Could",
+      "id": "258562",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1352736875i/824204.jpg",
       "authors": [
-        "Richard Wright"
+        "Watty Piper"
       ],
       "genres": [
+        "picture-books",
+        "childrens",
+        "classics",
+        "fiction",
+        "trains",
+        "fantasy",
+        "kids"
+      ],
+      "rating": 4.2,
+      "ratings": 115740,
+      "reviews": 1835
+    },
+    {
+      "title": "The Fire Next Time",
+      "url": "https://www.goodreads.com/book/show/464260.The_Fire_Next_Time",
+      "id": "1129041",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1657560861i/464260.jpg",
+      "authors": [
+        "James Baldwin"
+      ],
+      "genres": [
+        "non-fiction",
+        "classics",
+        "essays",
+        "race",
+        "history",
+        "politics",
+        "memoir"
+      ],
+      "rating": 4.55,
+      "ratings": 115737,
+      "reviews": 11066
+    },
+    {
+      "title": "Leaves of Grass",
+      "url": "https://www.goodreads.com/book/show/27494.Leaves_of_Grass",
+      "id": "28117",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1418012204i/27494.jpg",
+      "authors": [
+        "Walt Whitman"
+      ],
+      "genres": [
+        "poetry",
+        "classics",
+        "fiction",
+        "literature",
+        "american",
+        "19th-century",
+        "philosophy"
+      ],
+      "rating": 4.11,
+      "ratings": 114868,
+      "reviews": 4203
+    },
+    {
+      "title": "Letters to a Young Poet",
+      "url": "https://www.goodreads.com/book/show/46199.Letters_to_a_Young_Poet",
+      "id": "1208289",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1321994947i/46199.jpg",
+      "authors": [
+        "Rainer Maria Rilke"
+      ],
+      "genres": [
+        "poetry",
+        "classics",
+        "non-fiction",
+        "philosophy",
+        "writing",
+        "essays",
+        "literature"
+      ],
+      "rating": 4.28,
+      "ratings": 114785,
+      "reviews": 13685
+    },
+    {
+      "title": "Horton Hears a Who!",
+      "url": "https://www.goodreads.com/book/show/7779.Horton_Hears_a_Who_",
+      "id": "933973",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327924655i/7779.jpg",
+      "authors": [
+        "Dr. Seuss"
+      ],
+      "genres": [
+        "childrens",
+        "picture-books",
         "fiction",
         "classics",
-        "historical-fiction",
-        "african-american",
-        "race",
+        "poetry",
+        "fantasy",
+        "animals"
+      ],
+      "rating": 4.22,
+      "ratings": 112989,
+      "reviews": 1891
+    },
+    {
+      "title": "Bleak House",
+      "url": "https://www.goodreads.com/book/show/31242.Bleak_House",
+      "id": "2960365",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1280113147i/31242.jpg",
+      "authors": [
+        "Charles Dickens"
+      ],
+      "genres": [
+        "classics",
+        "fiction",
         "literature",
+        "19th-century",
+        "historical-fiction",
+        "victorian",
+        "british-literature"
+      ],
+      "rating": 4.02,
+      "ratings": 112603,
+      "reviews": 5977
+    },
+    {
+      "title": "A Swiftly Tilting Planet",
+      "url": "https://www.goodreads.com/book/show/77276.A_Swiftly_Tilting_Planet",
+      "id": "1196024",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327465278i/77276.jpg",
+      "authors": [
+        "Madeleine L'Engle"
+      ],
+      "genres": [
+        "fantasy",
+        "young-adult",
+        "fiction",
+        "science-fiction",
+        "childrens",
+        "classics",
+        "middle-grade"
+      ],
+      "rating": 4.07,
+      "ratings": 110923,
+      "reviews": 2966
+    },
+    {
+      "title": "Shakespeare's Sonnets",
+      "url": "https://www.goodreads.com/book/show/42038.Shakespeare_s_Sonnets",
+      "id": "1118349",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1660269733i/42038.jpg",
+      "authors": [
+        "William Shakespeare"
+      ],
+      "genres": [
+        "poetry",
+        "classics",
+        "shakespeare",
+        "fiction",
+        "literature",
+        "romance",
+        "plays"
+      ],
+      "rating": 4.25,
+      "ratings": 110765,
+      "reviews": 2159
+    },
+    {
+      "title": "Beyond Good and Evil",
+      "url": "https://www.goodreads.com/book/show/12321.Beyond_Good_and_Evil",
+      "id": "338580",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388607391i/12321.jpg",
+      "authors": [
+        "Friedrich Nietzsche"
+      ],
+      "genres": [
+        "philosophy",
+        "non-fiction",
+        "classics",
+        "psychology",
+        "german-literature",
+        "religion",
+        "history"
+      ],
+      "rating": 4.03,
+      "ratings": 109833,
+      "reviews": 4022
+    },
+    {
+      "title": "The Caves of Steel",
+      "url": "https://www.goodreads.com/book/show/41811.The_Caves_of_Steel",
+      "id": "140376",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1335782224i/41811.jpg",
+      "authors": [
+        "Isaac Asimov"
+      ],
+      "genres": [
+        "science-fiction",
+        "fiction",
+        "mystery",
+        "classics",
+        "robots",
+        "science-fiction-fantasy",
+        "audiobook"
+      ],
+      "rating": 4.19,
+      "ratings": 109683,
+      "reviews": 4506
+    },
+    {
+      "title": "Miss Nelson Is Missing!",
+      "url": "https://www.goodreads.com/book/show/147732.Miss_Nelson_Is_Missing_",
+      "id": "142568",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1546976385i/147732.jpg",
+      "authors": [
+        "Harry Allard"
+      ],
+      "genres": [
+        "picture-books",
+        "childrens",
+        "fiction",
+        "school",
+        "humor",
+        "classics",
+        "mystery"
+      ],
+      "rating": 4.31,
+      "ratings": 109417,
+      "reviews": 1678
+    },
+    {
+      "title": "A Scanner Darkly",
+      "url": "https://www.goodreads.com/book/show/14817.A_Scanner_Darkly",
+      "id": "1527439",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388737865i/14817.jpg",
+      "authors": [
+        "Philip K. Dick"
+      ],
+      "genres": [
+        "science-fiction",
+        "fiction",
+        "dystopia",
+        "classics",
+        "science-fiction-fantasy",
+        "cyberpunk",
         "novels"
       ],
       "rating": 4.03,
-      "ratings": 99106,
-      "reviews": 4990
+      "ratings": 108411,
+      "reviews": 4749
     },
     {
-      "title": "Sula",
-      "url": "https://www.goodreads.com/book/show/11346.Sula",
-      "id": "3207953",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1441578153i/11346.jpg",
+      "title": "The Complete Fairy Tales",
+      "url": "https://www.goodreads.com/book/show/46306.The_Complete_Fairy_Tales",
+      "id": "942531",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1385233181i/46306.jpg",
       "authors": [
-        "Toni Morrison"
+        "Hans Christian Andersen"
       ],
       "genres": [
-        "fiction",
         "classics",
-        "historical-fiction",
-        "african-american",
-        "literary-fiction",
-        "novels",
+        "fantasy",
+        "fiction",
+        "childrens",
+        "fairy-tales",
+        "short-stories",
         "literature"
       ],
-      "rating": 4.03,
-      "ratings": 98809,
-      "reviews": 7671
+      "rating": 4.29,
+      "ratings": 108253,
+      "reviews": 812
     },
     {
       "title": "The Letters of Vincent van Gogh",
@@ -81,8 +312,113 @@
         "art-history"
       ],
       "rating": 4.09,
-      "ratings": 98324,
-      "reviews": 669
+      "ratings": 107985,
+      "reviews": 799
+    },
+    {
+      "title": "Anne of Windy Poplars",
+      "url": "https://www.goodreads.com/book/show/65840.Anne_of_Windy_Poplars",
+      "id": "2946564",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348613064i/65840.jpg",
+      "authors": [
+        "L.M. Montgomery"
+      ],
+      "genres": [
+        "classics",
+        "fiction",
+        "young-adult",
+        "historical-fiction",
+        "childrens",
+        "romance",
+        "historical"
+      ],
+      "rating": 4.01,
+      "ratings": 107826,
+      "reviews": 5728
+    },
+    {
+      "title": "The DaVinci Code: A Quest for Answers",
+      "url": "https://www.goodreads.com/book/show/6372.The_DaVinci_Code",
+      "id": "1163919",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1403744290i/6372.jpg",
+      "authors": [
+        "Josh McDowell"
+      ],
+      "genres": [
+        "fiction",
+        "mystery",
+        "thriller",
+        "classics",
+        "religion",
+        "mystery-thriller",
+        "christianity"
+      ],
+      "rating": 4.46,
+      "ratings": 107362,
+      "reviews": 310
+    },
+    {
+      "title": "The Foundation Trilogy",
+      "url": "https://www.goodreads.com/book/show/46654.The_Foundation_Trilogy",
+      "id": "41350",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1316412178i/46654.jpg",
+      "authors": [
+        "Isaac Asimov"
+      ],
+      "genres": [
+        "science-fiction",
+        "fiction",
+        "classics",
+        "science-fiction-fantasy",
+        "fantasy",
+        "space-opera",
+        "literature"
+      ],
+      "rating": 4.42,
+      "ratings": 107228,
+      "reviews": 2503
+    },
+    {
+      "title": "The Complete Anne of Green Gables",
+      "url": "https://www.goodreads.com/book/show/3579.The_Complete_Anne_of_Green_Gables",
+      "id": "7365",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1267721500i/3579.jpg",
+      "authors": [
+        "L.M. Montgomery"
+      ],
+      "genres": [
+        "classics",
+        "fiction",
+        "young-adult",
+        "childrens",
+        "historical-fiction",
+        "romance",
+        "middle-grade"
+      ],
+      "rating": 4.45,
+      "ratings": 106251,
+      "reviews": 1832
+    },
+    {
+      "title": "On the Banks of Plum Creek",
+      "url": "https://www.goodreads.com/book/show/7882.On_the_Banks_of_Plum_Creek",
+      "id": "1402758",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1266449569i/7882.jpg",
+      "authors": [
+        "Laura Ingalls Wilder"
+      ],
+      "genres": [
+        "classics",
+        "historical-fiction",
+        "childrens",
+        "fiction",
+        "young-adult",
+        "historical",
+        "middle-grade"
+      ],
+      "rating": 4.22,
+      "ratings": 105922,
+      "reviews": 2634
     },
     {
       "title": "The Illustrated Man",
@@ -102,50 +438,8 @@
         "science-fiction-fantasy"
       ],
       "rating": 4.13,
-      "ratings": 98293,
-      "reviews": 5801
-    },
-    {
-      "title": "Old Yeller",
-      "url": "https://www.goodreads.com/book/show/130580.Old_Yeller",
-      "id": "2686896",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327940112i/130580.jpg",
-      "authors": [
-        "Fred Gipson"
-      ],
-      "genres": [
-        "classics",
-        "fiction",
-        "young-adult",
-        "childrens",
-        "animals",
-        "historical-fiction",
-        "dogs"
-      ],
-      "rating": 4.1,
-      "ratings": 98080,
-      "reviews": 2746
-    },
-    {
-      "title": "Anne of Windy Poplars",
-      "url": "https://www.goodreads.com/book/show/65840.Anne_of_Windy_Poplars",
-      "id": "2946564",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348613064i/65840.jpg",
-      "authors": [
-        "L.M. Montgomery"
-      ],
-      "genres": [
-        "classics",
-        "fiction",
-        "young-adult",
-        "historical-fiction",
-        "childrens",
-        "romance",
-        "historical"
-      ],
-      "rating": 4.02,
-      "ratings": 97950,
-      "reviews": 4720
+      "ratings": 105661,
+      "reviews": 6575
     },
     {
       "title": "The Complete Poems of Emily Dickinson",
@@ -164,345 +458,51 @@
         "american",
         "classic-literature"
       ],
-      "rating": 4.27,
-      "ratings": 97716,
-      "reviews": 1577
-    },
-    {
-      "title": "Ishmael",
-      "url": "https://www.goodreads.com/book/show/40611328-ishmael",
-      "id": "1041162",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1529680413i/40611328.jpg",
-      "authors": [
-        "Daniel Quinn"
-      ],
-      "genres": [
-        "fiction",
-        "philosophy",
-        "spirituality",
-        "classics",
-        "fantasy",
-        "environment",
-        "novels"
-      ],
-      "rating": 4.01,
-      "ratings": 97444,
-      "reviews": 6514
-    },
-    {
-      "title": "The Borrowers",
-      "url": "https://www.goodreads.com/book/show/348573.The_Borrowers",
-      "id": "802336",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1308945559i/348573.jpg",
-      "authors": [
-        "Mary Norton"
-      ],
-      "genres": [
-        "fantasy",
-        "childrens",
-        "classics",
-        "fiction",
-        "middle-grade",
-        "young-adult",
-        "adventure"
-      ],
-      "rating": 4.03,
-      "ratings": 97411,
-      "reviews": 2442
-    },
-    {
-      "title": "Doctor Zhivago",
-      "url": "https://www.goodreads.com/book/show/130440.Doctor_Zhivago",
-      "id": "3288400",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1385508725i/130440.jpg",
-      "authors": [
-        "Boris Pasternak"
-      ],
-      "genres": [
-        "fiction",
-        "historical-fiction",
-        "russia",
-        "russian-literature",
-        "classics",
-        "romance",
-        "literature"
-      ],
-      "rating": 4.01,
-      "ratings": 96756,
-      "reviews": 4398
-    },
-    {
-      "title": "Beyond Good and Evil",
-      "url": "https://www.goodreads.com/book/show/12321.Beyond_Good_and_Evil",
-      "id": "338580",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388607391i/12321.jpg",
-      "authors": [
-        "Friedrich Nietzsche"
-      ],
-      "genres": [
-        "philosophy",
-        "non-fiction",
-        "classics",
-        "psychology",
-        "german-literature",
-        "religion",
-        "19th-century"
-      ],
-      "rating": 4.03,
-      "ratings": 95721,
-      "reviews": 3257
-    },
-    {
-      "title": "The Gift of the Magi",
-      "url": "https://www.goodreads.com/book/show/143534.The_Gift_of_the_Magi",
-      "id": "171430",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348417439i/143534.jpg",
-      "authors": [
-        "O. Henry"
-      ],
-      "genres": [
-        "classics",
-        "short-stories",
-        "fiction",
-        "christmas",
-        "romance",
-        "holiday",
-        "literature"
-      ],
-      "rating": 4.11,
-      "ratings": 95396,
-      "reviews": 2693
-    },
-    {
-      "title": "Mother Night",
-      "url": "https://www.goodreads.com/book/show/9592.Mother_Night",
-      "id": "1222244",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1344621657i/9592.jpg",
-      "authors": [
-        "Kurt Vonnegut Jr."
-      ],
-      "genres": [
-        "fiction",
-        "classics",
-        "historical-fiction",
-        "war",
-        "literature",
-        "novels",
-        "humor"
-      ],
-      "rating": 4.23,
-      "ratings": 94819,
-      "reviews": 4544
-    },
-    {
-      "title": "Travels with Charley: In Search of America",
-      "url": "https://www.goodreads.com/book/show/5306.Travels_with_Charley",
-      "id": "1024827",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386924381i/5306.jpg",
-      "authors": [
-        "John Steinbeck"
-      ],
-      "genres": [
-        "non-fiction",
-        "travel",
-        "classics",
-        "memoir",
-        "biography",
-        "literature",
-        "biography-memoir"
-      ],
-      "rating": 4.08,
-      "ratings": 94550,
-      "reviews": 7262
-    },
-    {
-      "title": "Tinker, Tailor, Soldier, Spy",
-      "url": "https://www.goodreads.com/book/show/10073506-tinker-tailor-soldier-spy",
-      "id": "2491780",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1349070201i/10073506.jpg",
-      "authors": [
-        "John le Carré"
-      ],
-      "genres": [
-        "fiction",
-        "mystery",
-        "thriller",
-        "espionage",
-        "classics",
-        "crime",
-        "mystery-thriller"
-      ],
-      "rating": 4.06,
-      "ratings": 94545,
-      "reviews": 5448
-    },
-    {
-      "title": "The Chosen",
-      "url": "https://www.goodreads.com/book/show/187181.The_Chosen",
-      "id": "1336083",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1403191327i/187181.jpg",
-      "authors": [
-        "Chaim Potok"
-      ],
-      "genres": [
-        "fiction",
-        "classics",
-        "historical-fiction",
-        "young-adult",
-        "jewish",
-        "religion",
-        "school"
-      ],
-      "rating": 4.07,
-      "ratings": 93399,
-      "reviews": 5017
-    },
-    {
-      "title": "Frog and Toad Are Friends",
-      "url": "https://www.goodreads.com/book/show/537296.Frog_and_Toad_Are_Friends",
-      "id": "1231880",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1626145524i/537296.jpg",
-      "authors": [
-        "Arnold Lobel"
-      ],
-      "genres": [
-        "childrens",
-        "picture-books",
-        "fiction",
-        "classics",
-        "animals",
-        "fantasy",
-        "chapter-books"
-      ],
-      "rating": 4.24,
-      "ratings": 93174,
-      "reviews": 2093
-    },
-    {
-      "title": "Caps for Sale: A Tale of a Peddler, Some Monkeys and Their Monkey Business",
-      "url": "https://www.goodreads.com/book/show/775597.Caps_for_Sale",
-      "id": "954532",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348541342i/775597.jpg",
-      "authors": [
-        "Esphyr Slobodkina"
-      ],
-      "genres": [
-        "picture-books",
-        "childrens",
-        "fiction",
-        "classics",
-        "animals",
-        "storytime",
-        "humor"
-      ],
-      "rating": 4.16,
-      "ratings": 93081,
-      "reviews": 1719
-    },
-    {
-      "title": "Bury My Heart at Wounded Knee: An Indian History of the American West",
-      "url": "https://www.goodreads.com/book/show/76401.Bury_My_Heart_at_Wounded_Knee",
-      "id": "1240262",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1604058784i/76401.jpg",
-      "authors": [
-        "Dee Brown"
-      ],
-      "genres": [
-        "history",
-        "non-fiction",
-        "american-history",
-        "classics",
-        "historical",
-        "politics",
-        "race"
-      ],
-      "rating": 4.25,
-      "ratings": 92595,
-      "reviews": 5455
-    },
-    {
-      "title": "Letters to a Young Poet",
-      "url": "https://www.goodreads.com/book/show/46199.Letters_to_a_Young_Poet",
-      "id": "1208289",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1321994947i/46199.jpg",
-      "authors": [
-        "Rainer Maria Rilke"
-      ],
-      "genres": [
-        "poetry",
-        "classics",
-        "non-fiction",
-        "philosophy",
-        "writing",
-        "essays",
-        "german-literature"
-      ],
-      "rating": 4.3,
-      "ratings": 92286,
-      "reviews": 9912
-    },
-    {
-      "title": "The Story of Ferdinand",
-      "url": "https://www.goodreads.com/book/show/773951.The_Story_of_Ferdinand",
-      "id": "484402",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348133512i/773951.jpg",
-      "authors": [
-        "Munro Leaf"
-      ],
-      "genres": [
-        "picture-books",
-        "childrens",
-        "classics",
-        "fiction",
-        "animals",
-        "spain",
-        "kids"
-      ],
-      "rating": 4.37,
-      "ratings": 92128,
-      "reviews": 2103
-    },
-    {
-      "title": "The Mitten",
-      "url": "https://www.goodreads.com/book/show/967494.The_Mitten",
-      "id": "952391",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348985792i/967494.jpg",
-      "authors": [
-        "Jan Brett"
-      ],
-      "genres": [
-        "picture-books",
-        "childrens",
-        "animals",
-        "fiction",
-        "christmas",
-        "classics",
-        "folklore"
-      ],
       "rating": 4.28,
-      "ratings": 92056,
-      "reviews": 1752
+      "ratings": 105467,
+      "reviews": 1810
     },
     {
-      "title": "Infinite Jest",
-      "url": "https://www.goodreads.com/book/show/6759.Infinite_Jest",
-      "id": "3271542",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1446876799i/6759.jpg",
+      "title": "Cold Sassy Tree",
+      "url": "https://www.goodreads.com/book/show/40389231-cold-sassy-tree",
+      "id": "1187268",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1722549809i/40389231.jpg",
       "authors": [
-        "David Foster Wallace"
+        "Olive Ann Burns"
       ],
       "genres": [
         "fiction",
+        "historical-fiction",
+        "book-club",
         "classics",
-        "literature",
-        "novels",
-        "contemporary",
-        "humor",
-        "literary-fiction"
+        "southern",
+        "historical",
+        "audiobook"
       ],
-      "rating": 4.26,
-      "ratings": 91907,
-      "reviews": 11237
+      "rating": 4.02,
+      "ratings": 104942,
+      "reviews": 4699
+    },
+    {
+      "title": "The Lottery",
+      "url": "https://www.goodreads.com/book/show/6219656-the-lottery",
+      "id": "15161007",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348757577i/6219656.jpg",
+      "authors": [
+        "Shirley Jackson"
+      ],
+      "genres": [
+        "short-stories",
+        "classics",
+        "horror",
+        "fiction",
+        "dystopia",
+        "school",
+        "read-for-school"
+      ],
+      "rating": 4.04,
+      "ratings": 104652,
+      "reviews": 7213
     }
   ]
 }

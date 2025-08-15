@@ -1,121 +1,357 @@
 {
   "books": [
     {
-      "title": "El invierno en tu rostro",
-      "url": "https://www.goodreads.com/book/show/30246143-el-invierno-en-tu-rostro",
-      "id": "50711994",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1463845820i/30246143.jpg",
+      "title": "Huesos de lagartija",
+      "url": "https://www.goodreads.com/book/show/2931269-huesos-de-lagartija",
+      "id": "2958703",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1301582673i/2931269.jpg",
       "authors": [
-        "Carla Montero"
+        "Federico  Navarrete"
+      ],
+      "genres": [
+        "historical-fiction",
+        "fiction",
+        "spanish-literature"
+      ],
+      "rating": 4.15,
+      "ratings": 1149,
+      "reviews": 116
+    },
+    {
+      "title": "¡Vamos! Let's Go to the Market",
+      "url": "https://www.goodreads.com/book/show/40796114-vamos-let-s-go-to-the-market",
+      "id": "63521798",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1539833982i/40796114.jpg",
+      "authors": [
+        "Raúl the Third"
+      ],
+      "genres": [
+        "picture-books",
+        "fantasy",
+        "childrens",
+        "spanish-literature",
+        "latinx",
+        "fiction",
+        "cultural"
+      ],
+      "rating": 4.08,
+      "ratings": 1147,
+      "reviews": 251
+    },
+    {
+      "title": "Angosta",
+      "url": "https://www.goodreads.com/book/show/1755359.Angosta",
+      "id": "1753215",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1261830128i/1755359.jpg",
+      "authors": [
+        "Héctor Abad Faciolince"
+      ],
+      "genres": [
+        "fiction",
+        "spanish-literature",
+        "contemporary",
+        "dystopia",
+        "literature"
+      ],
+      "rating": 4.21,
+      "ratings": 1144,
+      "reviews": 116
+    },
+    {
+      "title": "Ética para Celia",
+      "url": "https://www.goodreads.com/book/show/58009602-tica-para-celia",
+      "id": "90903921",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1620678964i/58009602.jpg",
+      "authors": [
+        "Ana de Miguel"
+      ],
+      "genres": [
+        "feminism",
+        "non-fiction",
+        "philosophy",
+        "spanish-literature",
+        "female-authors"
+      ],
+      "rating": 4.36,
+      "ratings": 1132,
+      "reviews": 158
+    },
+    {
+      "title": "Encuentros",
+      "url": "https://www.goodreads.com/book/show/24717016-encuentros",
+      "id": "44340554",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1488816114i/24717016.jpg",
+      "authors": [
+        "Iria G. Parente"
+      ],
+      "genres": [
+        "fantasy",
+        "young-adult",
+        "romance",
+        "spanish-literature"
+      ],
+      "rating": 4.4,
+      "ratings": 1131,
+      "reviews": 178
+    },
+    {
+      "title": "Memorias Dun Neno Labrego",
+      "url": "https://www.goodreads.com/book/show/3356984-memorias-dun-neno-labrego",
+      "id": "3806401",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1361979279i/3356984.jpg",
+      "authors": [
+        "Xosé Neira Vilas"
+      ],
+      "genres": [
+        "fiction",
+        "classics",
+        "spain",
+        "spanish-literature",
+        "literature",
+        "historical-fiction",
+        "drama"
+      ],
+      "rating": 4.07,
+      "ratings": 1130,
+      "reviews": 80
+    },
+    {
+      "title": "Dormir sin lágrimas",
+      "url": "https://www.goodreads.com/book/show/19165965-dormir-sin-l-grimas",
+      "id": "17887457",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386114017i/19165965.jpg",
+      "authors": [
+        "Rosa Jové"
+      ],
+      "genres": [
+        "parenting",
+        "education",
+        "non-fiction",
+        "spanish-literature"
+      ],
+      "rating": 4.02,
+      "ratings": 1129,
+      "reviews": 88
+    },
+    {
+      "title": "Todos los secretos oscuros",
+      "url": "https://www.goodreads.com/book/show/204242381-todos-los-secretos-oscuros",
+      "id": "210114486",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1703232297i/204242381.jpg",
+      "authors": [
+        "Paula Gallego"
+      ],
+      "genres": [
+        "fantasy",
+        "romance",
+        "romantasy",
+        "drama",
+        "spanish-literature"
+      ],
+      "rating": 4,
+      "ratings": 1120,
+      "reviews": 177
+    },
+    {
+      "title": "Artificios",
+      "url": "https://www.goodreads.com/book/show/90585.Artificios",
+      "id": "87425",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1503520624i/90585.jpg",
+      "authors": [
+        "Jorge Luis Borges"
+      ],
+      "genres": [
+        "short-stories",
+        "fiction",
+        "fantasy",
+        "spanish-literature",
+        "magical-realism",
+        "latin-american-literature",
+        "classics"
+      ],
+      "rating": 4.22,
+      "ratings": 1118,
+      "reviews": 92
+    },
+    {
+      "title": "Poesías completas",
+      "url": "https://www.goodreads.com/book/show/1254774.Poes_as_completas",
+      "id": "1243552",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1671748910i/1254774.jpg",
+      "authors": [
+        "Antonio Machado"
+      ],
+      "genres": [
+        "poetry",
+        "spanish-literature",
+        "classics",
+        "spain",
+        "fiction",
+        "esp",
+        "20th-century"
+      ],
+      "rating": 4.18,
+      "ratings": 1117,
+      "reviews": 70
+    },
+    {
+      "title": "La flor de fuego",
+      "url": "https://www.goodreads.com/book/show/33281293-la-flor-de-fuego",
+      "id": "54005166",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1481059546i/33281293.jpg",
+      "authors": [
+        "Alba Quintas Garciandia"
+      ],
+      "genres": [
+        "young-adult",
+        "historical-fiction",
+        "drama",
+        "contemporary",
+        "spanish-literature",
+        "thriller"
+      ],
+      "rating": 4,
+      "ratings": 1115,
+      "reviews": 250
+    },
+    {
+      "title": "The Heights of Macchu Picchu",
+      "url": "https://www.goodreads.com/book/show/44055.The_Heights_of_Macchu_Picchu",
+      "id": "1306717",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1432554879i/44055.jpg",
+      "authors": [
+        "Pablo Neruda"
+      ],
+      "genres": [
+        "poetry",
+        "travel",
+        "spanish-literature",
+        "latin-american",
+        "classics",
+        "literature",
+        "latin-american-literature"
+      ],
+      "rating": 4.13,
+      "ratings": 1107,
+      "reviews": 108
+    },
+    {
+      "title": "Chilean electric",
+      "url": "https://www.goodreads.com/book/show/28148886-chilean-electric",
+      "id": "48161916",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1710304671i/28148886.jpg",
+      "authors": [
+        "Nona Fernández"
+      ],
+      "genres": [
+        "spanish-literature",
+        "non-fiction",
+        "latin-american",
+        "female-authors",
+        "latino",
+        "history"
+      ],
+      "rating": 4.16,
+      "ratings": 1105,
+      "reviews": 185
+    },
+    {
+      "title": "Hasta que su muerte nos separe",
+      "url": "https://www.goodreads.com/book/show/192888539-hasta-que-su-muerte-nos-separe",
+      "id": "182911748",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1690978727i/192888539.jpg",
+      "authors": [
+        "Myriam M. Lejardi"
       ],
       "genres": [
         "romance",
-        "historical",
-        "historical-fiction",
-        "fiction",
-        "war",
+        "thriller",
         "spanish-literature",
-        "spanish-civil-war"
+        "friends-to-lovers",
+        "erotic-romance",
+        "mystery-thriller",
+        "humor"
       ],
       "rating": 4.1,
-      "ratings": 795,
-      "reviews": 91
+      "ratings": 1099,
+      "reviews": 281
     },
     {
-      "title": "La palabra del mudo",
-      "url": "https://www.goodreads.com/book/show/26048242-la-palabra-del-mudo",
-      "id": "45978225",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1667833970i/26048242.jpg",
+      "title": "Antología poética",
+      "url": "https://www.goodreads.com/book/show/661510.Antolog_a_po_tica",
+      "id": "647581",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1176865632i/661510.jpg",
       "authors": [
-        "Julio Ramón Ribeyro"
+        "Alfonsina Storni"
+      ],
+      "genres": [
+        "poetry",
+        "classics",
+        "womens",
+        "spanish-literature",
+        "fiction",
+        "feminism"
+      ],
+      "rating": 4.16,
+      "ratings": 1093,
+      "reviews": 138
+    },
+    {
+      "title": "Canciones para el incendio",
+      "url": "https://www.goodreads.com/book/show/43075032-canciones-para-el-incendio",
+      "id": "66872462",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1543716024i/43075032.jpg",
+      "authors": [
+        "Juan Gabriel Vásquez"
       ],
       "genres": [
         "short-stories",
         "fiction",
         "spanish-literature",
+        "contemporary",
+        "latinx",
         "latin-american",
-        "latin-american-literature",
-        "short-story-collection",
         "literary-fiction"
       ],
-      "rating": 4.37,
-      "ratings": 785,
-      "reviews": 99
+      "rating": 4.02,
+      "ratings": 1092,
+      "reviews": 176
     },
     {
-      "title": "Lola Vendetta. Una habitación propia con wifi",
-      "url": "https://www.goodreads.com/book/show/57372580-lola-vendetta-una-habitaci-n-propia-con-wifi",
-      "id": "89796328",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1615422919i/57372580.jpg",
+      "title": "2666, Part 3: The Part About Fate",
+      "url": "https://www.goodreads.com/book/show/16481853-2666-part-3",
+      "id": "228788020",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1355352583i/16481853.jpg",
       "authors": [
-        "Raquel Riba Rossy"
-      ],
-      "genres": [
-        "graphic-novels",
-        "feminism",
-        "spanish-literature",
-        "comics",
-        "graphic-novels-comics",
-        "spain"
-      ],
-      "rating": 4.14,
-      "ratings": 785,
-      "reviews": 105
-    },
-    {
-      "title": "Prosas apátridas",
-      "url": "https://www.goodreads.com/book/show/61477.Prosas_ap_tridas",
-      "id": "59793",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1410866645i/61477.jpg",
-      "authors": [
-        "Julio Ramón Ribeyro"
-      ],
-      "genres": [
-        "non-fiction",
-        "latin-american-literature",
-        "spanish-literature"
-      ],
-      "rating": 4.25,
-      "ratings": 784,
-      "reviews": 109
-    },
-    {
-      "title": "The Book of Lamentations",
-      "url": "https://www.goodreads.com/book/show/536848.The_Book_of_Lamentations",
-      "id": "524290",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347227796i/536848.jpg",
-      "authors": [
-        "Rosario Castellanos"
+        "Roberto Bolaño"
       ],
       "genres": [
         "fiction",
-        "classics",
-        "historical-fiction",
-        "latin-american",
         "spanish-literature",
-        "latin-american-literature",
-        "novels"
+        "novels",
+        "horror",
+        "noir",
+        "latin-american",
+        "literature"
       ],
-      "rating": 4.18,
-      "ratings": 780,
-      "reviews": 111
+      "rating": 4.22,
+      "ratings": 1078,
+      "reviews": 70
     },
     {
-      "title": "El último lector",
-      "url": "https://www.goodreads.com/book/show/1643.El_ltimo_lector",
-      "id": "501013",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1391052454i/1643.jpg",
+      "title": "El barracón de las mujeres",
+      "url": "https://www.goodreads.com/book/show/201839740-el-barrac-n-de-las-mujeres",
+      "id": "206860805",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1707198574i/201839740.jpg",
       "authors": [
-        "Ricardo Piglia"
+        "Fermina Cañaveras"
       ],
       "genres": [
-        "non-fiction",
-        "literature",
         "spanish-literature"
       ],
-      "rating": 4.1,
-      "ratings": 780,
-      "reviews": 109
+      "rating": 4.25,
+      "ratings": 1076,
+      "reviews": 179
     },
     {
       "title": "Donde cantan las ballenas",
@@ -126,233 +362,88 @@
         "Sara Jaramillo Klinkert"
       ],
       "genres": [
-        "fiction",
-        "spanish-literature"
-      ],
-      "rating": 4.05,
-      "ratings": 778,
-      "reviews": 144
-    },
-    {
-      "title": "Como caracol...",
-      "url": "https://www.goodreads.com/book/show/43489913-como-caracol",
-      "id": "67636637",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1546830671i/43489913.jpg",
-      "authors": [
-        "Alaíde Ventura"
-      ],
-      "genres": [
         "spanish-literature",
-        "fiction",
-        "young-adult"
+        "fiction"
       ],
-      "rating": 4.5,
-      "ratings": 778,
-      "reviews": 230
+      "rating": 4.04,
+      "ratings": 1071,
+      "reviews": 186
     },
     {
-      "title": "El futuro es femenino",
-      "url": "https://www.goodreads.com/book/show/37804646-el-futuro-es-femenino",
-      "id": "59476446",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1514990490i/37804646.jpg",
+      "title": "La era de los reyes",
+      "url": "https://www.goodreads.com/book/show/205823130-la-era-de-los-reyes",
+      "id": "211871777",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1710252237i/205823130.jpg",
       "authors": [
-        "Agustina Guerrero"
+        "Nira Strauss"
       ],
       "genres": [
-        "feminism",
-        "non-fiction",
-        "short-stories",
-        "comics",
-        "spanish-literature"
-      ],
-      "rating": 4.21,
-      "ratings": 775,
-      "reviews": 156
-    },
-    {
-      "title": "Cuentos reunidos",
-      "url": "https://www.goodreads.com/book/show/7827151-cuentos-reunidos",
-      "id": "10880640",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1355149114i/7827151.jpg",
-      "authors": [
-        "Amparo Dávila"
-      ],
-      "genres": [
-        "short-stories",
-        "horror",
         "fantasy",
-        "spanish-literature",
-        "magical-realism",
-        "womens",
-        "anthologies"
-      ],
-      "rating": 4.27,
-      "ratings": 773,
-      "reviews": 149
-    },
-    {
-      "title": "Todo nos sale bien",
-      "url": "https://www.goodreads.com/book/show/45362331-todo-nos-sale-bien",
-      "id": "70114934",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1556569713i/45362331.jpg",
-      "authors": [
-        "Julia Coria"
-      ],
-      "genres": [
-        "spanish-literature",
-        "non-fiction",
-        "drama"
-      ],
-      "rating": 4.42,
-      "ratings": 772,
-      "reviews": 153
-    },
-    {
-      "title": "Río Muerto",
-      "url": "https://www.goodreads.com/book/show/53486677-r-o-muerto",
-      "id": "83698017",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1590450955i/53486677.jpg",
-      "authors": [
-        "Ricardo Silva Romero"
-      ],
-      "genres": [
+        "romantasy",
+        "romance",
         "spanish-literature"
       ],
       "rating": 4.33,
-      "ratings": 772,
-      "reviews": 141
+      "ratings": 1064,
+      "reviews": 218
     },
     {
-      "title": "El mozárabe",
-      "url": "https://www.goodreads.com/book/show/1412613.El_moz_rabe",
-      "id": "1402948",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1567337564i/1412613.jpg",
+      "title": "Transforma las heridas de tu infancia",
+      "url": "https://www.goodreads.com/book/show/32613978-transforma-las-heridas-de-tu-infancia",
+      "id": "53198972",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1476542645i/32613978.jpg",
       "authors": [
-        "Jesús Sánchez Adalid"
+        "Anamar Orihuela"
       ],
       "genres": [
-        "historical-fiction",
+        "self-help",
+        "psychology",
+        "non-fiction",
         "spanish-literature",
-        "historical",
-        "adventure",
-        "novels",
-        "spain"
+        "audiobook"
       ],
-      "rating": 4.16,
-      "ratings": 771,
-      "reviews": 76
+      "rating": 4.28,
+      "ratings": 1055,
+      "reviews": 131
     },
     {
-      "title": "Los últimos días de Clayton & Co.",
-      "url": "https://www.goodreads.com/book/show/49998953-los-ltimos-d-as-de-clayton-co",
-      "id": "72588585",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1565584612l/49998953.jpg",
+      "title": "El espejo enterrado",
+      "url": "https://www.goodreads.com/book/show/56904.El_espejo_enterrado",
+      "id": "980874",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348081787i/56904.jpg",
       "authors": [
-        "Francisca Solar"
+        "Carlos Fuentes"
       ],
       "genres": [
-        "horror",
+        "history",
         "spanish-literature",
-        "fantasy",
-        "female-authors",
+        "non-fiction",
+        "spain",
+        "latin-american",
+        "classics",
+        "school"
+      ],
+      "rating": 4.01,
+      "ratings": 1055,
+      "reviews": 83
+    },
+    {
+      "title": "Ojalá ésta fuera nuestra historia de amor",
+      "url": "https://www.goodreads.com/book/show/51057233-ojal-sta-fuera-nuestra-historia-de-amor",
+      "id": "71768605",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1562148909l/51057233.jpg",
+      "authors": [
+        "Andrea Longarela"
+      ],
+      "genres": [
+        "romance",
+        "spanish-literature",
+        "drama",
         "fiction"
       ],
-      "rating": 4.19,
-      "ratings": 771,
-      "reviews": 193
-    },
-    {
-      "title": "¡Universo!, Vol 1",
-      "url": "https://www.goodreads.com/book/show/39843678-universo-vol-1",
-      "id": "56560402",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1523651918i/39843678.jpg",
-      "authors": [
-        "Albert Monteys"
-      ],
-      "genres": [
-        "comics",
-        "science-fiction",
-        "graphic-novels",
-        "comic-book",
-        "fiction",
-        "spanish-literature",
-        "humor"
-      ],
-      "rating": 4.3,
-      "ratings": 771,
-      "reviews": 123
-    },
-    {
-      "title": "Pasaje a Tahití",
-      "url": "https://www.goodreads.com/book/show/22433553-pasaje-a-tahit",
-      "id": "41856225",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1402062788i/22433553.jpg",
-      "authors": [
-        "Eva García Sáenz"
-      ],
-      "genres": [
-        "drama",
-        "audiobook",
-        "spanish-literature",
-        "historical-fiction"
-      ],
-      "rating": 4.07,
-      "ratings": 769,
-      "reviews": 82
-    },
-    {
-      "title": "My Friends/Mis Amigos",
-      "url": "https://www.goodreads.com/book/show/164545.My_Friends_Mis_Amigos",
-      "id": "2666632",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347662244i/164545.jpg",
-      "authors": [
-        "Taro Gomi"
-      ],
-      "genres": [
-        "picture-books",
-        "childrens",
-        "animals",
-        "spanish-literature",
-        "fiction",
-        "storytime",
-        "cultural"
-      ],
-      "rating": 4.12,
-      "ratings": 768,
-      "reviews": 117
-    },
-    {
-      "title": "El tiempo que nos une",
-      "url": "https://www.goodreads.com/book/show/15976871-el-tiempo-que-nos-une",
-      "id": "21728529",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1352958959i/15976871.jpg",
-      "authors": [
-        "Alejandro Palomas"
-      ],
-      "genres": [
-        "fiction",
-        "spanish-literature"
-      ],
-      "rating": 4.31,
-      "ratings": 766,
-      "reviews": 117
-    },
-    {
-      "title": "Punki",
-      "url": "https://www.goodreads.com/book/show/122232469-punki",
-      "id": "143540583",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1676490735i/122232469.jpg",
-      "authors": [
-        "Juarma"
-      ],
-      "genres": [
-        "fiction",
-        "spanish-literature",
-        "novels"
-      ],
-      "rating": 4.36,
-      "ratings": 766,
-      "reviews": 112
+      "rating": 4.09,
+      "ratings": 1049,
+      "reviews": 218
     },
     {
       "title": "Prosa completa",
@@ -365,83 +456,13 @@
       "genres": [
         "poetry",
         "short-stories",
+        "spanish-literature",
         "fiction",
-        "spanish-literature"
+        "essays"
       ],
-      "rating": 4.14,
-      "ratings": 762,
-      "reviews": 82
-    },
-    {
-      "title": "La mesa herida",
-      "url": "https://www.goodreads.com/book/show/196790591-la-mesa-herida",
-      "id": "199079028",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1697550142i/196790591.jpg",
-      "authors": [
-        "Laura Martínez-Belli"
-      ],
-      "genres": [
-        "historical-fiction",
-        "fiction",
-        "spanish-literature"
-      ],
-      "rating": 4.25,
-      "ratings": 760,
-      "reviews": 133
-    },
-    {
-      "title": "My Very First Book of Shapes",
-      "url": "https://www.goodreads.com/book/show/394758.My_Very_First_Book_of_Shapes",
-      "id": "2799196",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347662324i/394758.jpg",
-      "authors": [
-        "Eric Carle"
-      ],
-      "genres": [
-        "picture-books",
-        "childrens",
-        "mathematics",
-        "fiction",
-        "spanish-literature"
-      ],
-      "rating": 4.05,
-      "ratings": 754,
-      "reviews": 56
-    },
-    {
-      "title": "2666, Part 4: The Part About The Crimes",
-      "url": "https://www.goodreads.com/book/show/16481855-2666-part-4",
-      "id": "86656702",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1355352743i/16481855.jpg",
-      "authors": [
-        "Roberto Bolaño"
-      ],
-      "genres": [
-        "fiction",
-        "novels",
-        "spanish-literature"
-      ],
-      "rating": 4.06,
-      "ratings": 754,
-      "reviews": 73
-    },
-    {
-      "title": "Blanca Olmedo",
-      "url": "https://www.goodreads.com/book/show/9338051-blanca-olmedo",
-      "id": "14221358",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1284841456i/9338051.jpg",
-      "authors": [
-        "Lucila Gamero de Medina"
-      ],
-      "genres": [
-        "romance",
-        "fiction",
-        "classics",
-        "spanish-literature"
-      ],
-      "rating": 4.19,
-      "ratings": 753,
-      "reviews": 67
+      "rating": 4.1,
+      "ratings": 1048,
+      "reviews": 143
     }
   ]
 }

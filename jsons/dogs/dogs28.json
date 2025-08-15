@@ -1,87 +1,223 @@
 {
   "books": [
     {
-      "title": "Lily's Story",
-      "url": "https://www.goodreads.com/book/show/43263231-lily-s-story",
-      "id": "67142080",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1552685094i/43263231.jpg",
+      "title": "Death Walks a Dog",
+      "url": "https://www.goodreads.com/book/show/56435646-death-walks-a-dog",
+      "id": "88016277",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1609450790i/56435646.jpg",
+      "authors": [
+        "Tess Baytree"
+      ],
+      "genres": [
+        "mystery",
+        "cozy-mystery",
+        "fiction",
+        "cozy",
+        "humor",
+        "novella",
+        "dogs"
+      ],
+      "rating": 4.29,
+      "ratings": 736,
+      "reviews": 57
+    },
+    {
+      "title": "Hairy Maclary's Caterwaul Caper",
+      "url": "https://www.goodreads.com/book/show/1153713.Hairy_Maclary_s_Caterwaul_Caper",
+      "id": "1761451",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348912605i/1153713.jpg",
+      "authors": [
+        "Lynley Dodd"
+      ],
+      "genres": [
+        "picture-books",
+        "childrens",
+        "animals",
+        "fiction",
+        "dogs",
+        "poetry",
+        "cats"
+      ],
+      "rating": 4.22,
+      "ratings": 736,
+      "reviews": 37
+    },
+    {
+      "title": "Paws & Pastries",
+      "url": "https://www.goodreads.com/book/show/56100281-paws-pastries",
+      "id": "87361491",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1606743175i/56100281.jpg",
+      "authors": [
+        "Barbara Hinske"
+      ],
+      "genres": [
+        "fiction",
+        "contemporary",
+        "christmas",
+        "cozy-mystery",
+        "mystery",
+        "dogs"
+      ],
+      "rating": 4.55,
+      "ratings": 733,
+      "reviews": 101
+    },
+    {
+      "title": "Tweet Revenge",
+      "url": "https://www.goodreads.com/book/show/57662384-tweet-revenge",
+      "id": "90318632",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1617838862i/57662384.jpg",
+      "authors": [
+        "Ellen Riggs"
+      ],
+      "genres": [
+        "cozy-mystery",
+        "dogs",
+        "cozy"
+      ],
+      "rating": 4.66,
+      "ratings": 733,
+      "reviews": 34
+    },
+    {
+      "title": "Killer Cupid",
+      "url": "https://www.goodreads.com/book/show/61074924-killer-cupid",
+      "id": "96259059",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1652287500i/61074924.jpg",
+      "authors": [
+        "Laurien Berenson"
+      ],
+      "genres": [
+        "mystery",
+        "cozy-mystery",
+        "cozy",
+        "fiction",
+        "animals",
+        "dogs",
+        "holiday"
+      ],
+      "rating": 4.15,
+      "ratings": 732,
+      "reviews": 106
+    },
+    {
+      "title": "Rescue You",
+      "url": "https://www.goodreads.com/book/show/49374468-rescue-you",
+      "id": "74657736",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1597698774i/49374468.jpg",
+      "authors": [
+        "Elysia Whisler"
+      ],
+      "genres": [
+        "romance",
+        "contemporary-romance",
+        "animals",
+        "contemporary",
+        "dogs",
+        "fiction",
+        "military-fiction"
+      ],
+      "rating": 4.14,
+      "ratings": 727,
+      "reviews": 125
+    },
+    {
+      "title": "Dogs I Have Met: And The People They Found",
+      "url": "https://www.goodreads.com/book/show/1062873.Dogs_I_Have_Met",
+      "id": "1049484",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1417988036i/1062873.jpg",
+      "authors": [
+        "Ken Foster"
+      ],
+      "genres": [
+        "non-fiction",
+        "animals",
+        "dogs",
+        "memoir"
+      ],
+      "rating": 4.1,
+      "ratings": 725,
+      "reviews": 47
+    },
+    {
+      "title": "Wag: The Science of Making Your Dog Happy",
+      "url": "https://www.goodreads.com/book/show/48840518-wag",
+      "id": "74221092",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1573946837i/48840518.jpg",
+      "authors": [
+        "Zazie Todd"
+      ],
+      "genres": [
+        "dogs",
+        "non-fiction",
+        "animals",
+        "science",
+        "psychology",
+        "audiobook",
+        "adult"
+      ],
+      "rating": 4.09,
+      "ratings": 723,
+      "reviews": 72
+    },
+    {
+      "title": "Bluey: Fruit Bat: A Glow-in-the-Dark Book",
+      "url": "https://www.goodreads.com/book/show/49637543-bluey",
+      "id": "72179968",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1563449036l/49637543.jpg",
+      "authors": [
+        "Bluey"
+      ],
+      "genres": [
+        "picture-books",
+        "childrens",
+        "animals",
+        "fiction",
+        "dogs"
+      ],
+      "rating": 4.35,
+      "ratings": 722,
+      "reviews": 72
+    },
+    {
+      "title": "High In Trial (Raine Stockton Dog Mysteries, #7)/All That Glitters",
+      "url": "https://www.goodreads.com/book/show/17665241-high-in-trial-raine-stockton-dog-mysteries-7-all-that-glitters",
+      "id": "24658324",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1371930401i/17665241.jpg",
+      "authors": [
+        "Donna Ball"
+      ],
+      "genres": [
+        "mystery",
+        "dogs",
+        "cozy-mystery",
+        "cozy",
+        "fiction"
+      ],
+      "rating": 4.32,
+      "ratings": 722,
+      "reviews": 36
+    },
+    {
+      "title": "The Midnight Dog of the Repo Man",
+      "url": "https://www.goodreads.com/book/show/23014320-the-midnight-dog-of-the-repo-man",
+      "id": "43065511",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1409517122i/23014320.jpg",
       "authors": [
         "W. Bruce Cameron"
       ],
       "genres": [
         "fiction",
-        "animals",
-        "middle-grade",
-        "childrens",
-        "dogs",
-        "contemporary"
-      ],
-      "rating": 4.27,
-      "ratings": 552,
-      "reviews": 68
-    },
-    {
-      "title": "Stick Dog Tries to Take the Donuts",
-      "url": "https://www.goodreads.com/book/show/57698600-stick-dog-tries-to-take-the-donuts",
-      "id": "45582610",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1623113930i/57698600.jpg",
-      "authors": [
-        "Tom     Watson"
-      ],
-      "genres": [
-        "childrens",
+        "mystery",
+        "audiobook",
         "humor",
-        "fiction",
-        "middle-grade",
-        "animals",
-        "chapter-books",
-        "dogs"
-      ],
-      "rating": 4.26,
-      "ratings": 550,
-      "reviews": 49
-    },
-    {
-      "title": "Jerusalem Gap: A Romance",
-      "url": "https://www.goodreads.com/book/show/11158607-jerusalem-gap",
-      "id": "15622683",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1374049819i/11158607.jpg",
-      "authors": [
-        "T.R. Pearson"
-      ],
-      "genres": [
-        "fiction",
-        "animals",
+        "short-stories",
         "dogs",
-        "contemporary",
-        "humor",
-        "relationships",
-        "family"
+        "animals"
       ],
-      "rating": 4.26,
-      "ratings": 547,
-      "reviews": 84
-    },
-    {
-      "title": "Journey's End",
-      "url": "https://www.goodreads.com/book/show/18656020-journey-s-end",
-      "id": "26470706",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1382945698i/18656020.jpg",
-      "authors": [
-        "Christopher Holt"
-      ],
-      "genres": [
-        "middle-grade",
-        "animals",
-        "fantasy",
-        "dogs",
-        "childrens",
-        "science-fiction",
-        "young-adult"
-      ],
-      "rating": 4.54,
-      "ratings": 545,
-      "reviews": 36
+      "rating": 4.07,
+      "ratings": 721,
+      "reviews": 71
     },
     {
       "title": "Pig the Rebel",
@@ -94,392 +230,261 @@
       "genres": [
         "picture-books",
         "childrens",
+        "dogs",
+        "animals",
         "humor",
-        "dogs",
-        "animals",
-        "storytime"
-      ],
-      "rating": 4.17,
-      "ratings": 544,
-      "reviews": 65
-    },
-    {
-      "title": "The Longest Letsgoboy",
-      "url": "https://www.goodreads.com/book/show/57007887-the-longest-letsgoboy",
-      "id": "89199374",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1634623008i/57007887.jpg",
-      "authors": [
-        "Derick Wilder"
-      ],
-      "genres": [
-        "picture-books",
-        "death",
-        "dogs",
-        "animals",
-        "childrens",
-        "fiction",
-        "family"
-      ],
-      "rating": 4.51,
-      "ratings": 538,
-      "reviews": 180
-    },
-    {
-      "title": "Hot Dog!",
-      "url": "https://www.goodreads.com/book/show/32875412-hot-dog",
-      "id": "53485241",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1482056093i/32875412.jpg",
-      "authors": [
-        "Anh Do"
-      ],
-      "genres": [
-        "humor",
-        "childrens",
-        "animals",
-        "graphic-novels",
-        "dogs",
-        "kids",
-        "middle-grade"
-      ],
-      "rating": 4.02,
-      "ratings": 536,
-      "reviews": 57
-    },
-    {
-      "title": "Together",
-      "url": "https://www.goodreads.com/book/show/2292406.Together",
-      "id": "2298712",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1380856427i/2292406.jpg",
-      "authors": [
-        "Tom Sullivan"
-      ],
-      "genres": [
-        "fiction",
-        "dogs",
-        "animals",
-        "contemporary"
-      ],
-      "rating": 4.04,
-      "ratings": 534,
-      "reviews": 99
-    },
-    {
-      "title": "Kika & Me: How One Extraordinary Guide Dog Changed My World",
-      "url": "https://www.goodreads.com/book/show/51110069-kika-me",
-      "id": "73464537",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1581285773i/51110069.jpg",
-      "authors": [
-        "Amit  Patel"
-      ],
-      "genres": [
-        "non-fiction",
-        "disability",
-        "biography",
-        "memoir",
-        "animals",
-        "dogs",
-        "biography-memoir"
-      ],
-      "rating": 4.57,
-      "ratings": 534,
-      "reviews": 67
-    },
-    {
-      "title": "Come Rain or Shine",
-      "url": "https://www.goodreads.com/book/show/199349290-come-rain-or-shine",
-      "id": "203776828",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1709115949i/199349290.jpg",
-      "authors": [
-        "Sarah   Bennett"
-      ],
-      "genres": [
-        "romance",
-        "womens-fiction",
-        "family",
-        "dogs"
-      ],
-      "rating": 4.44,
-      "ratings": 533,
-      "reviews": 62
-    },
-    {
-      "title": "Bring Jade Home: The True Story of a Dog Lost in Yellowstone and the People Who Searched for Her",
-      "url": "https://www.goodreads.com/book/show/36600623-bring-jade-home",
-      "id": "58353375",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1510764215i/36600623.jpg",
-      "authors": [
-        "Michelle Caffrey"
-      ],
-      "genres": [
-        "non-fiction",
-        "animals",
-        "dogs"
-      ],
-      "rating": 4.3,
-      "ratings": 532,
-      "reviews": 67
-    },
-    {
-      "title": "Wild Trek",
-      "url": "https://www.goodreads.com/book/show/1218313.Wild_Trek",
-      "id": "2993787",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1387667061i/1218313.jpg",
-      "authors": [
-        "Jim Kjelgaard"
-      ],
-      "genres": [
-        "fiction",
-        "young-adult",
-        "animals",
-        "dogs",
-        "animal-fiction",
-        "childrens",
-        "adventure"
-      ],
-      "rating": 4.11,
-      "ratings": 530,
-      "reviews": 36
-    },
-    {
-      "title": "How Fletcher Was Hatched",
-      "url": "https://www.goodreads.com/book/show/298498.How_Fletcher_Was_Hatched",
-      "id": "289594",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1387718354i/298498.jpg",
-      "authors": [
-        "Wende Devlin"
-      ],
-      "genres": [
-        "picture-books",
-        "childrens",
-        "fiction",
-        "humor",
-        "animals",
-        "dogs",
-        "juvenile"
-      ],
-      "rating": 4.29,
-      "ratings": 528,
-      "reviews": 56
-    },
-    {
-      "title": "Dog Days",
-      "url": "https://www.goodreads.com/book/show/25949280-dog-days",
-      "id": "45850365",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1437452670i/25949280.jpg",
-      "authors": [
-        "Donna Ball"
-      ],
-      "genres": [
-        "mystery",
-        "cozy-mystery",
-        "dogs",
+        "storytime",
         "fiction"
       ],
-      "rating": 4.47,
-      "ratings": 527,
+      "rating": 4.16,
+      "ratings": 720,
+      "reviews": 79
+    },
+    {
+      "title": "Unlovable",
+      "url": "https://www.goodreads.com/book/show/858115.Unlovable",
+      "id": "843562",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1316131523i/858115.jpg",
+      "authors": [
+        "Dan Yaccarino"
+      ],
+      "genres": [
+        "picture-books",
+        "childrens",
+        "dogs",
+        "friendship",
+        "animals",
+        "storytime",
+        "fiction"
+      ],
+      "rating": 4.17,
+      "ratings": 719,
+      "reviews": 130
+    },
+    {
+      "title": "The Storm",
+      "url": "https://www.goodreads.com/book/show/12584775-the-storm",
+      "id": "17599149",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388523894i/12584775.jpg",
+      "authors": [
+        "Dayna Lorentz"
+      ],
+      "genres": [
+        "animals",
+        "dogs",
+        "adventure",
+        "fiction",
+        "fantasy",
+        "childrens",
+        "middle-grade"
+      ],
+      "rating": 4.25,
+      "ratings": 719,
+      "reviews": 48
+    },
+    {
+      "title": "The Adventures of Taxi Dog",
+      "url": "https://www.goodreads.com/book/show/207212.The_Adventures_of_Taxi_Dog",
+      "id": "2392120",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388250880i/207212.jpg",
+      "authors": [
+        "Debra Barracca"
+      ],
+      "genres": [
+        "picture-books",
+        "childrens",
+        "animals",
+        "dogs",
+        "2nd-grade",
+        "humor",
+        "love"
+      ],
+      "rating": 4.12,
+      "ratings": 717,
+      "reviews": 104
+    },
+    {
+      "title": "Good Owners, Great Dogs",
+      "url": "https://www.goodreads.com/book/show/46679.Good_Owners_Great_Dogs",
+      "id": "803002",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442963346i/46679.jpg",
+      "authors": [
+        "Brian Kilcommons"
+      ],
+      "genres": [
+        "non-fiction",
+        "dogs",
+        "animals",
+        "reference",
+        "how-to",
+        "education"
+      ],
+      "rating": 4.08,
+      "ratings": 717,
+      "reviews": 71
+    },
+    {
+      "title": "Walt Disney Productions presents The Fox and the Hound",
+      "url": "https://www.goodreads.com/book/show/497397.Walt_Disney_Productions_presents_The_Fox_and_the_Hound",
+      "id": "41352438",
+      "cover_url": "https://dryofg8nmyqjw.cloudfront.net/images/no-cover.png",
+      "authors": [
+        "Walt Disney Company"
+      ],
+      "genres": [
+        "childrens",
+        "fiction",
+        "picture-books",
+        "animals",
+        "dogs",
+        "fantasy",
+        "friendship"
+      ],
+      "rating": 4.18,
+      "ratings": 706,
       "reviews": 28
     },
     {
-      "title": "A Bloodhound To Die For",
-      "url": "https://www.goodreads.com/book/show/772738.A_Bloodhound_To_Die_For",
-      "id": "758790",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1178221705i/772738.jpg",
+      "title": "The Final Battle",
+      "url": "https://www.goodreads.com/book/show/38251232-the-final-battle",
+      "id": "59931981",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1534276971i/38251232.jpg",
       "authors": [
-        "Virginia Lanier"
+        "Erin Hunter"
       ],
       "genres": [
-        "mystery",
+        "fantasy",
+        "animals",
         "fiction",
+        "middle-grade",
         "dogs",
-        "animals",
-        "mystery-thriller",
-        "cozy-mystery"
-      ],
-      "rating": 4.24,
-      "ratings": 526,
-      "reviews": 27
-    },
-    {
-      "title": "Sam the Stolen Puppy",
-      "url": "https://www.goodreads.com/book/show/1954001.Sam_the_Stolen_Puppy",
-      "id": "1956934",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347337748i/1954001.jpg",
-      "authors": [
-        "Holly Webb"
-      ],
-      "genres": [
-        "animals",
         "childrens",
-        "fiction",
-        "dogs",
-        "british-literature",
-        "chapter-books"
+        "animal-fiction"
       ],
-      "rating": 4.17,
-      "ratings": 521,
-      "reviews": 41
+      "rating": 4.54,
+      "ratings": 704,
+      "reviews": 58
     },
     {
-      "title": "How Dogs Learn",
-      "url": "https://www.goodreads.com/book/show/1527691.How_Dogs_Learn",
-      "id": "1519661",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1403166330i/1527691.jpg",
+      "title": "Is There a Dog in This Book?",
+      "url": "https://www.goodreads.com/book/show/20697451-is-there-a-dog-in-this-book",
+      "id": "40016940",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1403162260i/20697451.jpg",
       "authors": [
-        "Mary R. Burch"
+        "Viviane Schwarz"
       ],
       "genres": [
+        "picture-books",
         "dogs",
-        "non-fiction",
+        "cats",
         "animals",
-        "audiobook"
+        "humor",
+        "childrens",
+        "storytime"
       ],
-      "rating": 4.27,
-      "ratings": 518,
-      "reviews": 45
+      "rating": 4.18,
+      "ratings": 702,
+      "reviews": 139
     },
     {
-      "title": "Lost, Found, and Forever",
-      "url": "https://www.goodreads.com/book/show/53438194-lost-found-and-forever",
-      "id": "83083486",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1608038988i/53438194.jpg",
+      "title": "Odd Dog Out",
+      "url": "https://www.goodreads.com/book/show/30762074-odd-dog-out",
+      "id": "51316979",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1467052170i/30762074.jpg",
       "authors": [
-        "Victoria Schade"
+        "Rob Biddulph"
       ],
       "genres": [
-        "romance",
-        "fiction",
-        "animals",
-        "contemporary",
-        "contemporary-romance",
+        "picture-books",
         "dogs",
-        "adult"
+        "childrens",
+        "animals",
+        "storytime",
+        "fiction",
+        "poetry"
       ],
-      "rating": 4.08,
-      "ratings": 517,
-      "reviews": 127
+      "rating": 4.34,
+      "ratings": 702,
+      "reviews": 168
     },
     {
-      "title": "Togo",
-      "url": "https://www.goodreads.com/book/show/17883955-togo",
-      "id": "25047064",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1367929604i/17883955.jpg",
+      "title": "Double Dog Dare",
+      "url": "https://www.goodreads.com/book/show/60868835-double-dog-dare",
+      "id": "95999583",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1650744985i/60868835.jpg",
+      "authors": [
+        "Ellen Riggs"
+      ],
+      "genres": [
+        "cozy-mystery",
+        "mystery",
+        "dogs"
+      ],
+      "rating": 4.73,
+      "ratings": 700,
+      "reviews": 37
+    },
+    {
+      "title": "The Exile's Journey",
+      "url": "https://www.goodreads.com/book/show/35819981-the-exile-s-journey",
+      "id": "57321491",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1508533844i/35819981.jpg",
+      "authors": [
+        "Erin Hunter"
+      ],
+      "genres": [
+        "fantasy",
+        "animals",
+        "fiction",
+        "dogs",
+        "middle-grade",
+        "childrens",
+        "young-adult"
+      ],
+      "rating": 4.48,
+      "ratings": 696,
+      "reviews": 43
+    },
+    {
+      "title": "Buddy",
+      "url": "https://www.goodreads.com/book/show/13642534-buddy",
+      "id": "19257774",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1344370040i/13642534.jpg",
       "authors": [
         "Kate Klimo"
       ],
       "genres": [
         "dogs",
+        "animals",
         "historical-fiction",
         "childrens",
-        "animals",
         "fiction",
-        "juvenile",
-        "animal-fiction"
-      ],
-      "rating": 4.39,
-      "ratings": 516,
-      "reviews": 55
-    },
-    {
-      "title": "What Comes Next",
-      "url": "https://www.goodreads.com/book/show/55725615-what-comes-next",
-      "id": "86909894",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1614080477i/55725615.jpg",
-      "authors": [
-        "Rob Buyea"
-      ],
-      "genres": [
-        "middle-grade",
-        "realistic-fiction",
-        "dogs",
-        "death",
-        "animals",
         "young-adult",
-        "childrens"
+        "juvenile"
       ],
-      "rating": 4.16,
-      "ratings": 515,
-      "reviews": 79
+      "rating": 4.43,
+      "ratings": 696,
+      "reviews": 58
     },
     {
-      "title": "Biscuit Takes a Walk",
-      "url": "https://www.goodreads.com/book/show/6380565-biscuit-takes-a-walk",
-      "id": "6568464",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1352204347i/6380565.jpg",
+      "title": "Bear",
+      "url": "https://www.goodreads.com/book/show/6276130-bear",
+      "id": "6459613",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1392169787i/6276130.jpg",
       "authors": [
-        "Alyssa Satin Capucilli"
+        "Ellen Miles"
       ],
       "genres": [
-        "picture-books",
+        "animals",
+        "dogs",
+        "fiction",
         "childrens",
-        "dogs",
-        "animals",
-        "family",
-        "fiction",
-        "1st-grade"
+        "chapter-books",
+        "realistic-fiction"
       ],
-      "rating": 4.07,
-      "ratings": 510,
-      "reviews": 47
-    },
-    {
-      "title": "Born to Sin",
-      "url": "https://www.goodreads.com/book/show/186811886-born-to-sin",
-      "id": "204189183",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1698792052i/186811886.jpg",
-      "authors": [
-        "Rosalind  James"
-      ],
-      "genres": [
-        "romance",
-        "contemporary-romance",
-        "dogs",
-        "contemporary"
-      ],
-      "rating": 4.56,
-      "ratings": 510,
-      "reviews": 62
-    },
-    {
-      "title": "A Nose for Mischief",
-      "url": "https://www.goodreads.com/book/show/59767779-a-nose-for-mischief",
-      "id": "93620186",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1638854939i/59767779.jpg",
-      "authors": [
-        "K.T.   Lee"
-      ],
-      "genres": [
-        "mystery",
-        "animals",
-        "romance",
-        "contemporary",
-        "fiction",
-        "dogs",
-        "cozy-mystery"
-      ],
-      "rating": 4.4,
-      "ratings": 509,
-      "reviews": 100
-    },
-    {
-      "title": "Pugs and Kisses",
-      "url": "https://www.goodreads.com/book/show/35238082-pugs-and-kisses",
-      "id": "56587514",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1503754648i/35238082.jpg",
-      "authors": [
-        "J.J. Howard"
-      ],
-      "genres": [
-        "middle-grade",
-        "romance",
-        "fiction",
-        "contemporary",
-        "dogs",
-        "animals",
-        "young-adult"
-      ],
-      "rating": 4.18,
-      "ratings": 502,
-      "reviews": 50
+      "rating": 4.35,
+      "ratings": 696,
+      "reviews": 27
     }
   ]
 }

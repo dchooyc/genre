@@ -1,65 +1,255 @@
 {
   "books": [
     {
-      "title": "Storm",
-      "url": "https://www.goodreads.com/book/show/18079675-storm",
-      "id": "25386967",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1371850245i/18079675.jpg",
+      "title": "Instinct",
+      "url": "https://www.goodreads.com/book/show/6590932-instinct",
+      "id": "6784509",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1432405205i/6590932.jpg",
       "authors": [
-        "D.J. MacHale"
+        "Jeremy Robinson"
       ],
       "genres": [
-        "young-adult",
-        "science-fiction",
-        "dystopia",
-        "mystery",
+        "thriller",
+        "fiction",
         "adventure",
-        "teen",
-        "action"
+        "action",
+        "military-fiction",
+        "mystery",
+        "suspense"
       ],
-      "rating": 4.16,
-      "ratings": 2434,
-      "reviews": 206
+      "rating": 4.18,
+      "ratings": 2721,
+      "reviews": 137
     },
     {
-      "title": "Cold War",
-      "url": "https://www.goodreads.com/book/show/53514589-cold-war",
-      "id": "83851180",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1590615891i/53514589.jpg",
+      "title": "Red Cell",
+      "url": "https://www.goodreads.com/book/show/294993.Red_Cell",
+      "id": "286243",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1382902994i/294993.jpg",
       "authors": [
-        "Bradley  Wright"
+        "Richard Marcinko"
       ],
       "genres": [
+        "military-fiction",
+        "fiction",
         "action",
+        "war",
         "thriller",
+        "mystery-thriller",
+        "audiobook"
+      ],
+      "rating": 4.03,
+      "ratings": 2718,
+      "reviews": 72
+    },
+    {
+      "title": "The Nine",
+      "url": "https://www.goodreads.com/book/show/57506853-the-nine",
+      "id": "72555406",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1616520011i/57506853.jpg",
+      "authors": [
+        "Terry Cloutier"
+      ],
+      "genres": [
+        "historical-fiction",
+        "fantasy",
+        "fiction",
+        "historical-fantasy",
+        "historical",
+        "adventure",
+        "action"
+      ],
+      "rating": 4.25,
+      "ratings": 2716,
+      "reviews": 156
+    },
+    {
+      "title": "In the Wind",
+      "url": "https://www.goodreads.com/book/show/24639831-in-the-wind",
+      "id": "43149661",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1422777387i/24639831.jpg",
+      "authors": [
+        "Robert J. Crane"
+      ],
+      "genres": [
+        "fantasy",
+        "urban-fantasy",
+        "fiction",
+        "paranormal",
+        "action",
+        "young-adult",
+        "adventure"
+      ],
+      "rating": 4.22,
+      "ratings": 2715,
+      "reviews": 69
+    },
+    {
+      "title": "Monroe Doctrine: Volume III",
+      "url": "https://www.goodreads.com/book/show/57329085-monroe-doctrine",
+      "id": "89719275",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1615064975i/57329085.jpg",
+      "authors": [
+        "James Rosone"
+      ],
+      "genres": [
+        "fiction",
+        "military-fiction",
+        "historical-fiction",
+        "audiobook",
+        "action",
+        "alternate-history",
+        "thriller"
+      ],
+      "rating": 4.51,
+      "ratings": 2714,
+      "reviews": 105
+    },
+    {
+      "title": "The Bourne Sacrifice",
+      "url": "https://www.goodreads.com/book/show/59574023-the-bourne-sacrifice",
+      "id": "93823054",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1636420611i/59574023.jpg",
+      "authors": [
+        "Brian Freeman"
+      ],
+      "genres": [
+        "thriller",
+        "mystery",
+        "fiction",
+        "suspense",
+        "audiobook",
+        "espionage",
+        "action"
+      ],
+      "rating": 4.39,
+      "ratings": 2714,
+      "reviews": 161
+    },
+    {
+      "title": "Vultures",
+      "url": "https://www.goodreads.com/book/show/211175483-vultures",
+      "id": "217414466",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1738315257i/211175483.jpg",
+      "authors": [
+        "Mark  Dawson"
+      ],
+      "genres": [
+        "thriller",
+        "fiction",
+        "mystery",
+        "action"
+      ],
+      "rating": 4.47,
+      "ratings": 2714,
+      "reviews": 90
+    },
+    {
+      "title": "Deadman Wonderland Volume 6",
+      "url": "https://www.goodreads.com/book/show/10157514-deadman-wonderland-volume-6",
+      "id": "15055983",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1396127879i/10157514.jpg",
+      "authors": [
+        "Jinsei Kataoka"
+      ],
+      "genres": [
+        "manga",
+        "horror",
+        "science-fiction",
+        "action",
+        "comics",
+        "graphic-novels",
+        "fiction"
+      ],
+      "rating": 4.18,
+      "ratings": 2713,
+      "reviews": 119
+    },
+    {
+      "title": "The Wolf's Bite",
+      "url": "https://www.goodreads.com/book/show/35119068-the-wolf-s-bite",
+      "id": "56433847",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1494574079i/35119068.jpg",
+      "authors": [
+        "David Archer"
+      ],
+      "genres": [
+        "thriller",
+        "action",
+        "suspense",
+        "mystery"
+      ],
+      "rating": 4.38,
+      "ratings": 2712,
+      "reviews": 83
+    },
+    {
+      "title": "Layers of Force",
+      "url": "https://www.goodreads.com/book/show/53929186-layers-of-force",
+      "id": "84292400",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1591770359i/53929186.jpg",
+      "authors": [
+        "Lindsay Buroker"
+      ],
+      "genres": [
+        "science-fiction",
+        "space-opera",
+        "audiobook",
+        "romance",
+        "action",
+        "science-fiction-fantasy",
+        "fantasy"
+      ],
+      "rating": 4.72,
+      "ratings": 2699,
+      "reviews": 241
+    },
+    {
+      "title": "The Last Rainmaker",
+      "url": "https://www.goodreads.com/book/show/38615867-the-last-rainmaker",
+      "id": "60189878",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1600167228i/38615867.jpg",
+      "authors": [
+        "Scott Blade"
+      ],
+      "genres": [
+        "thriller",
+        "fiction",
+        "action",
+        "mystery",
+        "crime",
+        "adventure",
+        "suspense"
+      ],
+      "rating": 4.38,
+      "ratings": 2698,
+      "reviews": 84
+    },
+    {
+      "title": "Name Not Given",
+      "url": "https://www.goodreads.com/book/show/35169507-name-not-given",
+      "id": "56501246",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1500251052i/35169507.jpg",
+      "authors": [
+        "Scott Blade"
+      ],
+      "genres": [
+        "thriller",
+        "fiction",
+        "action",
+        "crime",
         "mystery",
         "adventure"
       ],
-      "rating": 4.46,
-      "ratings": 2434,
-      "reviews": 59
+      "rating": 4.51,
+      "ratings": 2697,
+      "reviews": 60
     },
     {
-      "title": "Beyond Betrayal",
-      "url": "https://www.goodreads.com/book/show/18866710-beyond-betrayal",
-      "id": "26859206",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1390666026i/18866710.jpg",
-      "authors": [
-        "L.T. Ryan"
-      ],
-      "genres": [
-        "thriller",
-        "action"
-      ],
-      "rating": 4.36,
-      "ratings": 2429,
-      "reviews": 78
-    },
-    {
-      "title": "May",
-      "url": "https://www.goodreads.com/book/show/7066730-may",
-      "id": "7319355",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1408307973i/7066730.jpg",
+      "title": "April",
+      "url": "https://www.goodreads.com/book/show/7066731-april",
+      "id": "7319356",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348540339i/7066731.jpg",
       "authors": [
         "Gabrielle Lord"
       ],
@@ -67,95 +257,14 @@
         "young-adult",
         "mystery",
         "adventure",
-        "action",
         "fiction",
+        "action",
         "thriller",
         "teen"
       ],
-      "rating": 4.2,
-      "ratings": 2426,
-      "reviews": 114
-    },
-    {
-      "title": "Old Dogs, Older Tricks",
-      "url": "https://www.goodreads.com/book/show/53362137-old-dogs-older-tricks",
-      "id": "82372779",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1589125530i/53362137.jpg",
-      "authors": [
-        "Jamie McFarlane"
-      ],
-      "genres": [
-        "science-fiction",
-        "space-opera",
-        "aliens",
-        "fiction",
-        "action"
-      ],
-      "rating": 4.45,
-      "ratings": 2424,
-      "reviews": 123
-    },
-    {
-      "title": "The Day Before Midnight",
-      "url": "https://www.goodreads.com/book/show/339239.The_Day_Before_Midnight",
-      "id": "3876",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1404765440i/339239.jpg",
-      "authors": [
-        "Stephen Hunter"
-      ],
-      "genres": [
-        "fiction",
-        "thriller",
-        "action",
-        "adventure",
-        "espionage",
-        "mystery",
-        "military-fiction"
-      ],
-      "rating": 4.02,
-      "ratings": 2424,
-      "reviews": 98
-    },
-    {
-      "title": "To the Center of the Earth",
-      "url": "https://www.goodreads.com/book/show/52314117-to-the-center-of-the-earth",
-      "id": "77486034",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1583999882i/52314117.jpg",
-      "authors": [
-        "Greig Beck"
-      ],
-      "genres": [
-        "horror",
-        "science-fiction",
-        "adventure",
-        "fiction",
-        "thriller",
-        "fantasy",
-        "action"
-      ],
-      "rating": 4.07,
-      "ratings": 2423,
-      "reviews": 259
-    },
-    {
-      "title": "The Midnight Caller",
-      "url": "https://www.goodreads.com/book/show/36044140-the-midnight-caller",
-      "id": "57618637",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1511203211i/36044140.jpg",
-      "authors": [
-        "Scott Blade"
-      ],
-      "genres": [
-        "thriller",
-        "action",
-        "fiction",
-        "mystery",
-        "crime",
-        "adventure"
-      ],
-      "rating": 4.39,
-      "ratings": 2423,
-      "reviews": 76
+      "rating": 4.18,
+      "ratings": 2691,
+      "reviews": 152
     },
     {
       "title": "Balance of Power",
@@ -167,226 +276,124 @@
       ],
       "genres": [
         "thriller",
+        "suspense",
+        "mystery",
         "action"
       ],
-      "rating": 4.34,
-      "ratings": 2421,
-      "reviews": 85
+      "rating": 4.35,
+      "ratings": 2689,
+      "reviews": 88
     },
     {
-      "title": "Scorpion Strike",
-      "url": "https://www.goodreads.com/book/show/36394379-scorpion-strike",
-      "id": "58086459",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1514624401i/36394379.jpg",
+      "title": "A Soldier's Life",
+      "url": "https://www.goodreads.com/book/show/207944665-a-soldier-s-life",
+      "id": "214035213",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1709633491i/207944665.jpg",
+      "authors": [
+        "Always RollsAOne"
+      ],
+      "genres": [
+        "fantasy",
+        "audiobook",
+        "magic",
+        "military-fiction",
+        "action",
+        "high-fantasy",
+        "adventure"
+      ],
+      "rating": 4.53,
+      "ratings": 2689,
+      "reviews": 144
+    },
+    {
+      "title": "The Gatekeeper",
+      "url": "https://www.goodreads.com/book/show/58724579-the-gatekeeper",
+      "id": "92420560",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1646029070i/58724579.jpg",
+      "authors": [
+        "James  Byrne"
+      ],
+      "genres": [
+        "thriller",
+        "fiction",
+        "mystery",
+        "mystery-thriller",
+        "suspense",
+        "crime",
+        "action"
+      ],
+      "rating": 4.09,
+      "ratings": 2684,
+      "reviews": 552
+    },
+    {
+      "title": "Fade",
+      "url": "https://www.goodreads.com/book/show/132993.Fade",
+      "id": "2099331",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1316637967i/132993.jpg",
+      "authors": [
+        "Kyle Mills"
+      ],
+      "genres": [
+        "thriller",
+        "fiction",
+        "mystery-thriller",
+        "spy-thriller",
+        "audiobook",
+        "action",
+        "suspense"
+      ],
+      "rating": 4.2,
+      "ratings": 2683,
+      "reviews": 163
+    },
+    {
+      "title": "Romeo's Rules",
+      "url": "https://www.goodreads.com/book/show/26810193-romeo-s-rules",
+      "id": "46836316",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1443124688i/26810193.jpg",
+      "authors": [
+        "James Scott Bell"
+      ],
+      "genres": [
+        "mystery",
+        "thriller",
+        "fiction",
+        "suspense",
+        "mystery-thriller",
+        "crime",
+        "action"
+      ],
+      "rating": 4.26,
+      "ratings": 2681,
+      "reviews": 273
+    },
+    {
+      "title": "Lethal Game",
+      "url": "https://www.goodreads.com/book/show/60231235-lethal-game",
+      "id": "93281620",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1643388658i/60231235.jpg",
       "authors": [
         "John Gilstrap"
       ],
       "genres": [
         "thriller",
         "fiction",
-        "suspense",
+        "mystery",
         "action",
         "mystery-thriller",
-        "mystery"
-      ],
-      "rating": 4.36,
-      "ratings": 2419,
-      "reviews": 147
-    },
-    {
-      "title": "Jade",
-      "url": "https://www.goodreads.com/book/show/36510448-jade",
-      "id": "58229960",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1509470578i/36510448.jpg",
-      "authors": [
-        "Kris Michaels"
-      ],
-      "genres": [
-        "military-fiction",
-        "romance",
-        "military-romance",
-        "contemporary",
-        "romantic-suspense",
-        "contemporary-romance",
-        "action"
-      ],
-      "rating": 4.68,
-      "ratings": 2406,
-      "reviews": 136
-    },
-    {
-      "title": "Trigun: Deep Space Planet Future Gun Action!! Vol. 2",
-      "url": "https://www.goodreads.com/book/show/555468.Trigun",
-      "id": "542673",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1677103038i/555468.jpg",
-      "authors": [
-        "Yasuhiro Nightow"
-      ],
-      "genres": [
-        "manga",
-        "science-fiction",
-        "graphic-novels",
-        "comics",
-        "westerns",
-        "fiction",
-        "action"
-      ],
-      "rating": 4.36,
-      "ratings": 2405,
-      "reviews": 51
-    },
-    {
-      "title": "Rome's Executioner",
-      "url": "https://www.goodreads.com/book/show/13565124-rome-s-executioner",
-      "id": "19142720",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1337160372i/13565124.jpg",
-      "authors": [
-        "Robert Fabbri"
-      ],
-      "genres": [
-        "historical-fiction",
-        "fiction",
-        "historical",
-        "roman",
-        "war",
-        "military-fiction",
-        "action"
-      ],
-      "rating": 4.18,
-      "ratings": 2400,
-      "reviews": 99
-    },
-    {
-      "title": "Strike Force",
-      "url": "https://www.goodreads.com/book/show/682086.Strike_Force",
-      "id": "668479",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1435688246i/682086.jpg",
-      "authors": [
-        "Dale Brown"
-      ],
-      "genres": [
-        "fiction",
-        "thriller",
-        "military-fiction",
-        "adventure",
         "suspense",
-        "action",
-        "audiobook"
+        "crime"
       ],
-      "rating": 4.03,
-      "ratings": 2399,
-      "reviews": 66
+      "rating": 4.35,
+      "ratings": 2680,
+      "reviews": 156
     },
     {
-      "title": "Fake Truth",
-      "url": "https://www.goodreads.com/book/show/43427288-fake-truth",
-      "id": "67505775",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1563957272i/43427288.jpg",
-      "authors": [
-        "Lee Goldberg"
-      ],
-      "genres": [
-        "thriller",
-        "fiction",
-        "mystery",
-        "adventure",
-        "humor",
-        "action",
-        "audiobook"
-      ],
-      "rating": 4.17,
-      "ratings": 2397,
-      "reviews": 198
-    },
-    {
-      "title": "Kingdom Hearts II, Vol. 1",
-      "url": "https://www.goodreads.com/book/show/231917.Kingdom_Hearts_II_Vol_1",
-      "id": "224633",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1286602079i/231917.jpg",
-      "authors": [
-        "Shiro Amano"
-      ],
-      "genres": [
-        "manga",
-        "fantasy",
-        "graphic-novels",
-        "video-games",
-        "young-adult",
-        "adventure",
-        "action"
-      ],
-      "rating": 4.31,
-      "ratings": 2394,
-      "reviews": 112
-    },
-    {
-      "title": "Fire Watch",
-      "url": "https://www.goodreads.com/book/show/36621942-fire-watch",
-      "id": "58382592",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1517209135i/36621942.jpg",
-      "authors": [
-        "Scott Blade"
-      ],
-      "genres": [
-        "thriller",
-        "crime",
-        "action",
-        "fiction",
-        "mystery",
-        "adventure",
-        "amazon"
-      ],
-      "rating": 4.38,
-      "ratings": 2392,
-      "reviews": 86
-    },
-    {
-      "title": "Psyren, Vol. 1: Urban Legend",
-      "url": "https://www.goodreads.com/book/show/9939629-psyren-vol-1",
-      "id": "14832926",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348583323i/9939629.jpg",
-      "authors": [
-        "Toshiaki Iwashiro"
-      ],
-      "genres": [
-        "manga",
-        "fantasy",
-        "graphic-novels",
-        "science-fiction",
-        "action",
-        "comics",
-        "shonen"
-      ],
-      "rating": 4.16,
-      "ratings": 2388,
-      "reviews": 85
-    },
-    {
-      "title": "So I'm a Spider, So What?, Vol. 3",
-      "url": "https://www.goodreads.com/book/show/38358677-so-i-m-a-spider-so-what-vol-3",
-      "id": "57032755",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1533450648i/38358677.jpg",
-      "authors": [
-        "Okina Baba"
-      ],
-      "genres": [
-        "light-novel",
-        "fantasy",
-        "fiction",
-        "comedy",
-        "adventure",
-        "action",
-        "manga"
-      ],
-      "rating": 4.42,
-      "ratings": 2387,
-      "reviews": 64
-    },
-    {
-      "title": "Hunter X Hunter, tome 10",
-      "url": "https://www.goodreads.com/book/show/451649.Hunter_X_Hunter_tome_10",
-      "id": "437754",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1174884007i/451649.jpg",
+      "title": "Hunter x Hunter, Vol. 12",
+      "url": "https://www.goodreads.com/book/show/449137.Hunter_x_Hunter_Vol_12",
+      "id": "437787",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1390786188i/449137.jpg",
       "authors": [
         "Yoshihiro Togashi"
       ],
@@ -394,95 +401,97 @@
         "manga",
         "fantasy",
         "graphic-novels",
-        "comics",
         "adventure",
+        "comics",
         "action",
-        "comics-manga"
+        "shonen"
       ],
-      "rating": 4.4,
-      "ratings": 2386,
-      "reviews": 85
+      "rating": 4.47,
+      "ratings": 2676,
+      "reviews": 117
     },
     {
-      "title": "The Initialization",
-      "url": "https://www.goodreads.com/book/show/61945877-the-initialization",
-      "id": "96367248",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1660319511i/61945877.jpg",
+      "title": "Planet Killer",
+      "url": "https://www.goodreads.com/book/show/48509566-planet-killer",
+      "id": "73823969",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1571533344i/48509566.jpg",
       "authors": [
-        "Shane Purdy"
+        "Lindsay Buroker"
       ],
       "genres": [
-        "fantasy",
-        "post-apocalyptic",
         "science-fiction",
+        "space-opera",
+        "audiobook",
+        "adventure",
+        "fantasy",
+        "fiction",
         "action"
       ],
-      "rating": 4.36,
-      "ratings": 2386,
-      "reviews": 118
+      "rating": 4.62,
+      "ratings": 2675,
+      "reviews": 184
     },
     {
-      "title": "War of Eagles",
-      "url": "https://www.goodreads.com/book/show/114085.War_of_Eagles",
-      "id": "109853",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1389220208i/114085.jpg",
+      "title": "The Fifth Kind: Arrival",
+      "url": "https://www.goodreads.com/book/show/178338739-the-fifth-kind",
+      "id": "183940339",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1686835197i/178338739.jpg",
       "authors": [
-        "Jeff Rovin"
+        "James D. Prescott"
+      ],
+      "genres": [
+        "science-fiction",
+        "fiction",
+        "aliens",
+        "fantasy",
+        "space",
+        "action"
+      ],
+      "rating": 4.1,
+      "ratings": 2674,
+      "reviews": 89
+    },
+    {
+      "title": "Indiana Jones and the Temple of Doom",
+      "url": "https://www.goodreads.com/book/show/407224.Indiana_Jones_and_the_Temple_of_Doom",
+      "id": "396548",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320511900i/407224.jpg",
+      "authors": [
+        "James Kahn"
+      ],
+      "genres": [
+        "adventure",
+        "fiction",
+        "fantasy",
+        "historical-fiction",
+        "action",
+        "media-tie-in",
+        "thriller"
+      ],
+      "rating": 4.06,
+      "ratings": 2669,
+      "reviews": 88
+    },
+    {
+      "title": "Kilo Class",
+      "url": "https://www.goodreads.com/book/show/43051.Kilo_Class",
+      "id": "2913707",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1389616912i/43051.jpg",
+      "authors": [
+        "Patrick Robinson"
       ],
       "genres": [
         "fiction",
         "thriller",
+        "military-fiction",
         "war",
-        "military-fiction",
-        "espionage",
         "action",
-        "suspense"
+        "adventure",
+        "audiobook"
       ],
-      "rating": 4.02,
-      "ratings": 2384,
-      "reviews": 35
-    },
-    {
-      "title": "Finding Carly",
-      "url": "https://www.goodreads.com/book/show/62328850-finding-carly",
-      "id": "81351359",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1662578229i/62328850.jpg",
-      "authors": [
-        "Susan Stoker"
-      ],
-      "genres": [
-        "military-fiction",
-        "romance",
-        "romantic-suspense",
-        "suspense",
-        "contemporary",
-        "military-romance",
-        "action"
-      ],
-      "rating": 4.48,
-      "ratings": 2383,
-      "reviews": 157
-    },
-    {
-      "title": "The Monster Hunter Files",
-      "url": "https://www.goodreads.com/book/show/25423972-the-monster-hunter-files",
-      "id": "45182802",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1492062923i/25423972.jpg",
-      "authors": [
-        "Larry Correia"
-      ],
-      "genres": [
-        "fantasy",
-        "urban-fantasy",
-        "horror",
-        "fiction",
-        "anthologies",
-        "short-stories",
-        "action"
-      ],
-      "rating": 4.14,
-      "ratings": 2383,
-      "reviews": 200
+      "rating": 4.11,
+      "ratings": 2659,
+      "reviews": 92
     }
   ]
 }

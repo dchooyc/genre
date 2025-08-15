@@ -1,119 +1,409 @@
 {
   "books": [
     {
-      "title": "Crosskill",
-      "url": "https://www.goodreads.com/book/show/27426178-crosskill",
-      "id": "2806428",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1446650879i/27426178.jpg",
+      "title": "Salt River Road",
+      "url": "https://www.goodreads.com/book/show/185107859-salt-river-road",
+      "id": "188786565",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1688709997i/185107859.jpg",
       "authors": [
-        "Garry Disher"
+        "Molly Schmidt"
+      ],
+      "genres": [
+        "fiction",
+        "audiobook",
+        "book-club",
+        "australia"
+      ],
+      "rating": 4.14,
+      "ratings": 695,
+      "reviews": 108
+    },
+    {
+      "title": "The Desert Midwife",
+      "url": "https://www.goodreads.com/book/show/45036685-the-desert-midwife",
+      "id": "68647469",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1555183693i/45036685.jpg",
+      "authors": [
+        "Fiona McArthur"
+      ],
+      "genres": [
+        "romance",
+        "contemporary",
+        "australia",
+        "audiobook",
+        "chick-lit",
+        "medical",
+        "fiction"
+      ],
+      "rating": 4.24,
+      "ratings": 690,
+      "reviews": 70
+    },
+    {
+      "title": "Fool's Gold",
+      "url": "https://www.goodreads.com/book/show/37702194-fool-s-gold",
+      "id": "59330495",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1514289272i/37702194.jpg",
+      "authors": [
+        "Fleur McDonald"
+      ],
+      "genres": [
+        "romantic-suspense",
+        "audiobook",
+        "crime",
+        "australia",
+        "mystery"
+      ],
+      "rating": 4.05,
+      "ratings": 686,
+      "reviews": 62
+    },
+    {
+      "title": "Black Silk and Sympathy",
+      "url": "https://www.goodreads.com/book/show/199558182-black-silk-and-sympathy",
+      "id": "204033762",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1710547494i/199558182.jpg",
+      "authors": [
+        "Deborah Challinor"
+      ],
+      "genres": [
+        "historical-fiction",
+        "fiction",
+        "historical",
+        "mystery",
+        "australia"
+      ],
+      "rating": 4.1,
+      "ratings": 685,
+      "reviews": 63
+    },
+    {
+      "title": "The Oasis",
+      "url": "https://www.goodreads.com/book/show/219732727-the-oasis",
+      "id": "226665771",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1728031584i/219732727.jpg",
+      "authors": [
+        "Anne Buist"
+      ],
+      "genres": [
+        "fiction",
+        "mental-health",
+        "contemporary",
+        "australia"
+      ],
+      "rating": 4.11,
+      "ratings": 685,
+      "reviews": 90
+    },
+    {
+      "title": "Hell Ship",
+      "url": "https://www.goodreads.com/book/show/40789569-hell-ship",
+      "id": "63506732",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1531381209i/40789569.jpg",
+      "authors": [
+        "Michael Veitch"
+      ],
+      "genres": [
+        "history",
+        "non-fiction",
+        "australia",
+        "audiobook",
+        "medicine",
+        "scotland",
+        "historical"
+      ],
+      "rating": 4.13,
+      "ratings": 684,
+      "reviews": 86
+    },
+    {
+      "title": "Fatal Storm: The Inside Story of the Tragic Sydney-Hobart Race",
+      "url": "https://www.goodreads.com/book/show/688134.Fatal_Storm",
+      "id": "674489",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1177222889i/688134.jpg",
+      "authors": [
+        "Rob Mundle"
+      ],
+      "genres": [
+        "non-fiction",
+        "adventure",
+        "sports",
+        "survival",
+        "history",
+        "australia",
+        "maritime"
+      ],
+      "rating": 4.17,
+      "ratings": 682,
+      "reviews": 66
+    },
+    {
+      "title": "Matilda Next Door",
+      "url": "https://www.goodreads.com/book/show/54017292-matilda-next-door",
+      "id": "82195199",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1592133998i/54017292.jpg",
+      "authors": [
+        "Kelly Hunter"
+      ],
+      "genres": [
+        "romance",
+        "contemporary",
+        "amazon",
+        "australia",
+        "contemporary-romance",
+        "small-town-romance",
+        "mystery"
+      ],
+      "rating": 4.26,
+      "ratings": 682,
+      "reviews": 61
+    },
+    {
+      "title": "Outback Midwife",
+      "url": "https://www.goodreads.com/book/show/25437190-outback-midwife",
+      "id": "45199336",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1430134909i/25437190.jpg",
+      "authors": [
+        "Beth McRae"
+      ],
+      "genres": [
+        "non-fiction",
+        "memoir",
+        "australia",
+        "biography",
+        "audiobook",
+        "medical",
+        "book-club"
+      ],
+      "rating": 4.06,
+      "ratings": 681,
+      "reviews": 71
+    },
+    {
+      "title": "Steve Smith's Men: Behind Australian Cricket's Fall",
+      "url": "https://www.goodreads.com/book/show/42410443-steve-smith-s-men",
+      "id": "66103994",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1540162835i/42410443.jpg",
+      "authors": [
+        "Geoff Lemon"
+      ],
+      "genres": [
+        "non-fiction",
+        "sports",
+        "history",
+        "australia"
+      ],
+      "rating": 4.35,
+      "ratings": 680,
+      "reviews": 57
+    },
+    {
+      "title": "The Enemy Within",
+      "url": "https://www.goodreads.com/book/show/57336871-the-enemy-within",
+      "id": "89732762",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1625673806i/57336871.jpg",
+      "authors": [
+        "Tim Ayliffe"
       ],
       "genres": [
         "crime",
         "thriller",
+        "adult",
         "mystery",
-        "australia"
+        "australia",
+        "fiction"
       ],
-      "rating": 4.06,
-      "ratings": 547,
-      "reviews": 18
+      "rating": 4.21,
+      "ratings": 679,
+      "reviews": 50
     },
     {
-      "title": "Hearts of Gold",
-      "url": "https://www.goodreads.com/book/show/58849959-hearts-of-gold",
-      "id": "91323291",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1638617970i/58849959.jpg",
+      "title": "The God of No Good",
+      "url": "https://www.goodreads.com/book/show/62929390-the-god-of-no-good",
+      "id": "98753955",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1665398614i/62929390.jpg",
       "authors": [
-        "Jackie French"
+        "Sita Walker"
       ],
       "genres": [
-        "historical-fiction",
-        "historical",
-        "fiction",
+        "book-club",
+        "memoir",
+        "non-fiction",
+        "biography",
+        "biography-memoir",
+        "spirituality",
         "australia"
       ],
-      "rating": 4.08,
-      "ratings": 546,
-      "reviews": 55
+      "rating": 4.15,
+      "ratings": 677,
+      "reviews": 87
     },
     {
-      "title": "Banking Bad: Whistleblowers, Corporate Cover-ups and One Journalist's Fight for the Truth",
-      "url": "https://www.goodreads.com/book/show/50078757-banking-bad",
-      "id": "72602134",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1564759152l/50078757.jpg",
+      "title": "Born Into This",
+      "url": "https://www.goodreads.com/book/show/56451054-born-into-this",
+      "id": "88063291",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1609188913i/56451054.jpg",
       "authors": [
-        "Adele Ferguson"
+        "Adam  Thompson"
+      ],
+      "genres": [
+        "short-stories",
+        "fiction",
+        "australia",
+        "indigenous",
+        "audiobook",
+        "politics",
+        "book-club"
+      ],
+      "rating": 4.18,
+      "ratings": 676,
+      "reviews": 141
+    },
+    {
+      "title": "True Colours: My Life",
+      "url": "https://www.goodreads.com/book/show/6041050-true-colours",
+      "id": "6216595",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1330758368i/6041050.jpg",
+      "authors": [
+        "Adam Gilchrist"
       ],
       "genres": [
         "non-fiction",
-        "business",
-        "finance",
-        "politics",
-        "economics",
-        "crime",
-        "australia"
+        "sports",
+        "biography",
+        "autobiography",
+        "australia",
+        "audiobook"
       ],
-      "rating": 4.31,
-      "ratings": 543,
-      "reviews": 74
+      "rating": 4.19,
+      "ratings": 675,
+      "reviews": 39
     },
     {
-      "title": "Daring to Fly: The TV star on facing fear and finding joy on a deadline",
-      "url": "https://www.goodreads.com/book/show/58860179-daring-to-fly",
-      "id": "92720069",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1629970956i/58860179.jpg",
+      "title": "Silver Brumby Kingdom",
+      "url": "https://www.goodreads.com/book/show/294419.Silver_Brumby_Kingdom",
+      "id": "285688",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1245742860i/294419.jpg",
       "authors": [
-        "Lisa Millar"
+        "Elyne Mitchell"
+      ],
+      "genres": [
+        "animals",
+        "childrens",
+        "horses",
+        "fiction",
+        "animal-fiction",
+        "australia",
+        "fantasy"
+      ],
+      "rating": 4.35,
+      "ratings": 669,
+      "reviews": 17
+    },
+    {
+      "title": "Outback Spirit",
+      "url": "https://www.goodreads.com/book/show/56952770-outback-spirit",
+      "id": "89076588",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1612483369i/56952770.jpg",
+      "authors": [
+        "Nicole R. Taylor"
+      ],
+      "genres": [
+        "fantasy",
+        "urban-fantasy",
+        "paranormal",
+        "mystery",
+        "australia",
+        "vampires",
+        "magic"
+      ],
+      "rating": 4.29,
+      "ratings": 666,
+      "reviews": 64
+    },
+    {
+      "title": "The Jaguar",
+      "url": "https://www.goodreads.com/book/show/60765706-the-jaguar",
+      "id": "95816450",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1649311038i/60765706.jpg",
+      "authors": [
+        "Sarah Holland-Batt"
+      ],
+      "genres": [
+        "poetry",
+        "australia",
+        "memoir",
+        "non-fiction",
+        "health",
+        "death",
+        "audiobook"
+      ],
+      "rating": 4.15,
+      "ratings": 664,
+      "reviews": 105
+    },
+    {
+      "title": "The Exiles",
+      "url": "https://www.goodreads.com/book/show/1766418.The_Exiles",
+      "id": "1764491",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1397360011i/1766418.jpg",
+      "authors": [
+        "William Stuart Long"
+      ],
+      "genres": [
+        "historical-fiction",
+        "australia",
+        "fiction",
+        "historical",
+        "drama",
+        "adventure",
+        "audiobook"
+      ],
+      "rating": 4.02,
+      "ratings": 661,
+      "reviews": 67
+    },
+    {
+      "title": "Sister Viv",
+      "url": "https://www.goodreads.com/book/show/201484695-sister-viv",
+      "id": "206372856",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1719514474i/201484695.jpg",
+      "authors": [
+        "Grantlee Kieza"
       ],
       "genres": [
         "non-fiction",
         "biography",
-        "memoir",
-        "biography-memoir",
-        "australia",
-        "autobiography"
-      ],
-      "rating": 4.14,
-      "ratings": 543,
-      "reviews": 55
-    },
-    {
-      "title": "The Secret World of Connie Starr",
-      "url": "https://www.goodreads.com/book/show/60261967-the-secret-world-of-connie-starr",
-      "id": "95017520",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1646811775i/60261967.jpg",
-      "authors": [
-        "Robbi Neal"
-      ],
-      "genres": [
-        "historical-fiction",
         "historical",
-        "family",
-        "fiction",
-        "australia"
+        "australia",
+        "history",
+        "war",
+        "nursing"
       ],
-      "rating": 4.01,
-      "ratings": 542,
-      "reviews": 116
+      "rating": 4.58,
+      "ratings": 659,
+      "reviews": 59
     },
     {
-      "title": "Top Blokes: The Larrikin Myth, Class and Power",
-      "url": "https://www.goodreads.com/book/show/59001642-top-blokes",
-      "id": "93019668",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1631705159i/59001642.jpg",
+      "title": "Where Song Began: Australia's Birds and How They Changed the World",
+      "url": "https://www.goodreads.com/book/show/22586113-where-song-began",
+      "id": "42060937",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1403684391i/22586113.jpg",
       "authors": [
-        "Lech Blaine"
+        "Tim Low"
       ],
       "genres": [
         "non-fiction",
-        "politics",
-        "essays",
+        "birds",
+        "science",
         "australia",
-        "history"
+        "nature",
+        "animals",
+        "natural-history"
       ],
-      "rating": 4.34,
-      "ratings": 541,
-      "reviews": 64
+      "rating": 4.22,
+      "ratings": 659,
+      "reviews": 105
     },
     {
       "title": "Dark as Last Night",
@@ -127,349 +417,73 @@
         "short-stories",
         "fiction",
         "australia",
-        "book-club",
-        "audiobook"
+        "indigenous",
+        "audiobook",
+        "book-club"
       ],
-      "rating": 4.16,
-      "ratings": 541,
-      "reviews": 81
+      "rating": 4.13,
+      "ratings": 655,
+      "reviews": 94
     },
     {
-      "title": "Two Old Fools Down Under",
-      "url": "https://www.goodreads.com/book/show/60915342-two-old-fools-down-under",
-      "id": "73192313",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1651440000i/60915342.jpg",
+      "title": "Home to the Outback",
+      "url": "https://www.goodreads.com/book/show/57043248-home-to-the-outback",
+      "id": "89261323",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1613174575i/57043248.jpg",
       "authors": [
-        "Victoria Twead"
+        "Nicole Flockton"
       ],
       "genres": [
-        "memoir",
-        "australia",
-        "non-fiction",
-        "travel",
-        "humor"
-      ],
-      "rating": 4.45,
-      "ratings": 539,
-      "reviews": 58
-    },
-    {
-      "title": "Deep Time Dreaming: Uncovering Ancient Australia",
-      "url": "https://www.goodreads.com/book/show/36986450-deep-time-dreaming",
-      "id": "58793216",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1684990373i/36986450.jpg",
-      "authors": [
-        "Billy Griffiths"
-      ],
-      "genres": [
-        "history",
-        "non-fiction",
-        "australia",
-        "science",
-        "archaeology",
-        "anthropology",
-        "ancient-history"
-      ],
-      "rating": 4.32,
-      "ratings": 533,
-      "reviews": 72
-    },
-    {
-      "title": "Fire Country: How Indigenous Fire Management Could Help Save Australia",
-      "url": "https://www.goodreads.com/book/show/51237826-fire-country",
-      "id": "75974845",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1581634359i/51237826.jpg",
-      "authors": [
-        "Victor Steffensen"
-      ],
-      "genres": [
-        "non-fiction",
-        "australia",
-        "environment",
-        "climate-change",
-        "sustainability",
-        "nature",
-        "science"
-      ],
-      "rating": 4.46,
-      "ratings": 532,
-      "reviews": 81
-    },
-    {
-      "title": "The Reckoning: How #MeToo is Changing Australia",
-      "url": "https://www.goodreads.com/book/show/59755186-the-reckoning",
-      "id": "94066589",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1638664128i/59755186.jpg",
-      "authors": [
-        "Jess  Hill"
-      ],
-      "genres": [
-        "non-fiction",
-        "essays",
-        "politics",
-        "australia",
-        "feminism",
-        "sociology",
-        "academic"
-      ],
-      "rating": 4.55,
-      "ratings": 527,
-      "reviews": 54
-    },
-    {
-      "title": "If Blood Should Stain the Wattle",
-      "url": "https://www.goodreads.com/book/show/29926468-if-blood-should-stain-the-wattle",
-      "id": "50310041",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1480062214i/29926468.jpg",
-      "authors": [
-        "Jackie French"
-      ],
-      "genres": [
-        "historical-fiction",
-        "young-adult",
         "romance",
-        "historical",
+        "contemporary",
+        "friends-to-lovers",
         "australia"
       ],
-      "rating": 4.24,
-      "ratings": 526,
-      "reviews": 48
+      "rating": 4.28,
+      "ratings": 655,
+      "reviews": 98
     },
     {
-      "title": "Dead Heat",
-      "url": "https://www.goodreads.com/book/show/13456061-dead-heat",
-      "id": "18984774",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328609001i/13456061.jpg",
+      "title": "As Darkness Falls",
+      "url": "https://www.goodreads.com/book/show/3750342-as-darkness-falls",
+      "id": "3794202",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1222832274i/3750342.jpg",
       "authors": [
         "Bronwyn Parry"
       ],
       "genres": [
         "romantic-suspense",
-        "mystery",
         "romance",
+        "mystery",
         "crime",
-        "australia",
         "suspense",
+        "australia",
         "fiction"
       ],
-      "rating": 4.12,
-      "ratings": 526,
-      "reviews": 66
+      "rating": 4.05,
+      "ratings": 652,
+      "reviews": 88
     },
     {
-      "title": "Wild Card",
-      "url": "https://www.goodreads.com/book/show/63050833-wild-card",
-      "id": "98918967",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1666315267i/63050833.jpg",
+      "title": "Throat",
+      "url": "https://www.goodreads.com/book/show/50015685-throat",
+      "id": "75026076",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1587964413i/50015685.jpg",
       "authors": [
-        "Simon  Rowell"
+        "Ellen Van Neerven"
       ],
       "genres": [
-        "crime",
-        "mystery",
-        "australia",
-        "thriller",
-        "audiobook",
-        "fiction"
-      ],
-      "rating": 4.09,
-      "ratings": 524,
-      "reviews": 69
-    },
-    {
-      "title": "Jacaranda",
-      "url": "https://www.goodreads.com/book/show/13513160-jacaranda",
-      "id": "19068448",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1331013749i/13513160.jpg",
-      "authors": [
-        "Mandy Magro"
-      ],
-      "genres": [
-        "romance",
-        "fiction",
-        "australia"
-      ],
-      "rating": 4.15,
-      "ratings": 524,
-      "reviews": 36
-    },
-    {
-      "title": "Top End Girl",
-      "url": "https://www.goodreads.com/book/show/51957705-top-end-girl",
-      "id": "76585901",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1583063524i/51957705.jpg",
-      "authors": [
-        "Miranda Tapsell"
-      ],
-      "genres": [
-        "non-fiction",
-        "australia",
-        "memoir",
-        "biography",
-        "autobiography",
-        "audiobook",
-        "race"
-      ],
-      "rating": 4.01,
-      "ratings": 522,
-      "reviews": 79
-    },
-    {
-      "title": "Dust Off the Bones",
-      "url": "https://www.goodreads.com/book/show/55276667-dust-off-the-bones",
-      "id": "85216271",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1605572409i/55276667.jpg",
-      "authors": [
-        "Paul Howarth"
-      ],
-      "genres": [
-        "historical-fiction",
-        "fiction",
-        "westerns",
-        "crime",
-        "historical",
-        "australia",
-        "thriller"
-      ],
-      "rating": 4.31,
-      "ratings": 522,
-      "reviews": 82
-    },
-    {
-      "title": "Rosalee Station",
-      "url": "https://www.goodreads.com/book/show/11354566-rosalee-station",
-      "id": "16284563",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1342082014i/11354566.jpg",
-      "authors": [
-        "Mandy Magro"
-      ],
-      "genres": [
-        "romance",
-        "audiobook",
-        "fiction",
-        "australia"
-      ],
-      "rating": 4.01,
-      "ratings": 520,
-      "reviews": 45
-    },
-    {
-      "title": "Magic Beach",
-      "url": "https://www.goodreads.com/book/show/160623.Magic_Beach",
-      "id": "155037",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328850609i/160623.jpg",
-      "authors": [
-        "Alison Lester"
-      ],
-      "genres": [
-        "picture-books",
-        "childrens",
-        "fiction",
         "poetry",
+        "queer",
+        "indigenous",
         "australia",
+        "non-fiction",
+        "lgbt",
         "school"
       ],
-      "rating": 4.23,
-      "ratings": 520,
-      "reviews": 49
-    },
-    {
-      "title": "On Reckoning",
-      "url": "https://www.goodreads.com/book/show/60037457-on-reckoning",
-      "id": "94655034",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1641386763i/60037457.jpg",
-      "authors": [
-        "Amy Remeikis"
-      ],
-      "genres": [
-        "non-fiction",
-        "politics",
-        "australia",
-        "essays",
-        "memoir",
-        "feminism",
-        "biography"
-      ],
-      "rating": 4.72,
-      "ratings": 519,
-      "reviews": 67
-    },
-    {
-      "title": "The War Nurses",
-      "url": "https://www.goodreads.com/book/show/63107931-the-war-nurses",
-      "id": "98994258",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1666819119i/63107931.jpg",
-      "authors": [
-        "Anthea Hodgson"
-      ],
-      "genres": [
-        "historical-fiction",
-        "world-war-ii",
-        "historical",
-        "australia",
-        "war",
-        "nursing"
-      ],
-      "rating": 4.53,
-      "ratings": 509,
-      "reviews": 85
-    },
-    {
-      "title": "The Other Half of You",
-      "url": "https://www.goodreads.com/book/show/58164741-the-other-half-of-you",
-      "id": "91170256",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1622027971i/58164741.jpg",
-      "authors": [
-        "Michael Mohammed Ahmad"
-      ],
-      "genres": [
-        "fiction",
-        "australia",
-        "novels",
-        "contemporary"
-      ],
-      "rating": 4.07,
-      "ratings": 506,
-      "reviews": 74
-    },
-    {
-      "title": "28",
-      "url": "https://www.goodreads.com/book/show/58443914-28",
-      "id": "91723720",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1627954105i/58443914.jpg",
-      "authors": [
-        "Brandon   Jack"
-      ],
-      "genres": [
-        "biography",
-        "non-fiction",
-        "sports",
-        "australia",
-        "memoir",
-        "football"
-      ],
-      "rating": 4.03,
-      "ratings": 505,
-      "reviews": 54
-    },
-    {
-      "title": "A Diamond in the Dust",
-      "url": "https://www.goodreads.com/book/show/41711782-a-diamond-in-the-dust",
-      "id": "65057541",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1542405796i/41711782.jpg",
-      "authors": [
-        "Frauke Bolten-Boshammer"
-      ],
-      "genres": [
-        "non-fiction",
-        "australia",
-        "memoir",
-        "biography",
-        "autobiography"
-      ],
-      "rating": 4.35,
-      "ratings": 503,
-      "reviews": 52
+      "rating": 4.17,
+      "ratings": 652,
+      "reviews": 100
     }
   ]
 }

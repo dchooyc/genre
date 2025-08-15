@@ -1,6 +1,90 @@
 {
   "books": [
     {
+      "title": "Antifragile: Things That Gain from Disorder",
+      "url": "https://www.goodreads.com/book/show/13530973-antifragile",
+      "id": "19092611",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1352422827i/13530973.jpg",
+      "authors": [
+        "Nassim Nicholas Taleb"
+      ],
+      "genres": [
+        "non-fiction",
+        "philosophy",
+        "business",
+        "economics",
+        "psychology",
+        "science",
+        "self-help"
+      ],
+      "rating": 4.1,
+      "ratings": 56180,
+      "reviews": 4722
+    },
+    {
+      "title": "American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer",
+      "url": "https://www.goodreads.com/book/show/80571.American_Prometheus",
+      "id": "1932215",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1686079247i/80571.jpg",
+      "authors": [
+        "Kai Bird"
+      ],
+      "genres": [
+        "biography",
+        "history",
+        "non-fiction",
+        "science",
+        "audiobook",
+        "politics",
+        "biography-memoir"
+      ],
+      "rating": 4.31,
+      "ratings": 55670,
+      "reviews": 5317
+    },
+    {
+      "title": "The Greatest Show on Earth: The Evidence for Evolution",
+      "url": "https://www.goodreads.com/book/show/6117055-the-greatest-show-on-earth",
+      "id": "6295163",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1302127919i/6117055.jpg",
+      "authors": [
+        "Richard Dawkins"
+      ],
+      "genres": [
+        "science",
+        "non-fiction",
+        "evolution",
+        "biology",
+        "religion",
+        "philosophy",
+        "history"
+      ],
+      "rating": 4.16,
+      "ratings": 55530,
+      "reviews": 2199
+    },
+    {
+      "title": "The Right Stuff",
+      "url": "https://www.goodreads.com/book/show/8146619-the-right-stuff",
+      "id": "907221",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328307624i/8146619.jpg",
+      "authors": [
+        "Tom Wolfe"
+      ],
+      "genres": [
+        "non-fiction",
+        "history",
+        "space",
+        "science",
+        "biography",
+        "american-history",
+        "aviation"
+      ],
+      "rating": 4.23,
+      "ratings": 54948,
+      "reviews": 2311
+    },
+    {
       "title": "The Gene: An Intimate History",
       "url": "https://www.goodreads.com/book/show/27276428-the-gene",
       "id": "46190748",
@@ -14,33 +98,12 @@
         "history",
         "biology",
         "medicine",
-        "genetics",
-        "health"
+        "audiobook",
+        "genetics"
       ],
-      "rating": 4.36,
-      "ratings": 49230,
-      "reviews": 4482
-    },
-    {
-      "title": "Complications: A Surgeon's Notes on an Imperfect Science",
-      "url": "https://www.goodreads.com/book/show/4477.Complications",
-      "id": "2710546",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1441151524i/4477.jpg",
-      "authors": [
-        "Atul Gawande"
-      ],
-      "genres": [
-        "non-fiction",
-        "medicine",
-        "medical",
-        "science",
-        "memoir",
-        "health",
-        "biography"
-      ],
-      "rating": 4.27,
-      "ratings": 48873,
-      "reviews": 3048
+      "rating": 4.35,
+      "ratings": 54199,
+      "reviews": 4858
     },
     {
       "title": "Gut: The Inside Story of Our Body's Most Underrated Organ",
@@ -52,16 +115,16 @@
       ],
       "genres": [
         "non-fiction",
-        "science",
         "health",
+        "science",
         "medicine",
+        "audiobook",
         "biology",
-        "medical",
-        "audiobook"
+        "medical"
       ],
-      "rating": 4.07,
-      "ratings": 48372,
-      "reviews": 4542
+      "rating": 4.08,
+      "ratings": 53915,
+      "reviews": 4954
     },
     {
       "title": "Silent Spring",
@@ -80,9 +143,93 @@
         "ecology",
         "history"
       ],
-      "rating": 4.03,
-      "ratings": 47980,
-      "reviews": 3467
+      "rating": 4.05,
+      "ratings": 53493,
+      "reviews": 4211
+    },
+    {
+      "title": "Leonardo's Notebooks",
+      "url": "https://www.goodreads.com/book/show/24096.Leonardo_s_Notebooks",
+      "id": "25010",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388230805i/24096.jpg",
+      "authors": [
+        "Leonardo da Vinci"
+      ],
+      "genres": [
+        "art",
+        "non-fiction",
+        "history",
+        "classics",
+        "science",
+        "biography",
+        "philosophy"
+      ],
+      "rating": 4,
+      "ratings": 52083,
+      "reviews": 291
+    },
+    {
+      "title": "Gödel, Escher, Bach: An Eternal Golden Braid",
+      "url": "https://www.goodreads.com/book/show/24113.G_del_Escher_Bach",
+      "id": "850076",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1547125681i/24113.jpg",
+      "authors": [
+        "Douglas R. Hofstadter"
+      ],
+      "genres": [
+        "science",
+        "non-fiction",
+        "philosophy",
+        "mathematics",
+        "psychology",
+        "music",
+        "computer-science"
+      ],
+      "rating": 4.29,
+      "ratings": 51755,
+      "reviews": 2478
+    },
+    {
+      "title": "Complications: A Surgeon's Notes on an Imperfect Science",
+      "url": "https://www.goodreads.com/book/show/4477.Complications",
+      "id": "2710546",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1441151524i/4477.jpg",
+      "authors": [
+        "Atul Gawande"
+      ],
+      "genres": [
+        "non-fiction",
+        "medicine",
+        "medical",
+        "science",
+        "memoir",
+        "health",
+        "biography"
+      ],
+      "rating": 4.28,
+      "ratings": 51726,
+      "reviews": 3271
+    },
+    {
+      "title": "Expecting Better: Why the Conventional Pregnancy Wisdom is Wrong - and What You Really Need to Know",
+      "url": "https://www.goodreads.com/book/show/16158576-expecting-better",
+      "id": "21998992",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1363559083i/16158576.jpg",
+      "authors": [
+        "Emily Oster"
+      ],
+      "genres": [
+        "parenting",
+        "non-fiction",
+        "science",
+        "health",
+        "self-help",
+        "audiobook",
+        "family"
+      ],
+      "rating": 4.3,
+      "ratings": 50776,
+      "reviews": 3669
     },
     {
       "title": "How to Avoid a Climate Disaster: The Solutions We Have and the Breakthroughs We Need",
@@ -101,9 +248,72 @@
         "audiobook",
         "sustainability"
       ],
-      "rating": 4.13,
-      "ratings": 46343,
-      "reviews": 4757
+      "rating": 4.12,
+      "ratings": 50231,
+      "reviews": 5019
+    },
+    {
+      "title": "The Gift of Fear: Survival Signals That Protect Us from Violence",
+      "url": "https://www.goodreads.com/book/show/56465.The_Gift_of_Fear",
+      "id": "1212277",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348829921i/56465.jpg",
+      "authors": [
+        "Gavin de Becker"
+      ],
+      "genres": [
+        "non-fiction",
+        "psychology",
+        "self-help",
+        "audiobook",
+        "true-crime",
+        "science",
+        "crime"
+      ],
+      "rating": 4.18,
+      "ratings": 49497,
+      "reviews": 5018
+    },
+    {
+      "title": "How Not to Die: Discover the Foods Scientifically Proven to Prevent and Reverse Disease",
+      "url": "https://www.goodreads.com/book/show/25663961-how-not-to-die",
+      "id": "45486853",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1436292289i/25663961.jpg",
+      "authors": [
+        "Michael Greger"
+      ],
+      "genres": [
+        "health",
+        "non-fiction",
+        "nutrition",
+        "science",
+        "food",
+        "self-help",
+        "audiobook"
+      ],
+      "rating": 4.42,
+      "ratings": 48855,
+      "reviews": 4774
+    },
+    {
+      "title": "Entangled Life: How Fungi Make Our Worlds, Change Our Minds & Shape Our Futures",
+      "url": "https://www.goodreads.com/book/show/52668915-entangled-life",
+      "id": "73100236",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575341220l/52668915.jpg",
+      "authors": [
+        "Merlin Sheldrake"
+      ],
+      "genres": [
+        "non-fiction",
+        "science",
+        "nature",
+        "biology",
+        "audiobook",
+        "environment",
+        "ecology"
+      ],
+      "rating": 4.33,
+      "ratings": 47594,
+      "reviews": 6328
     },
     {
       "title": "The Fifth Risk: Undoing Democracy",
@@ -122,114 +332,30 @@
         "business",
         "government"
       ],
-      "rating": 4.09,
-      "ratings": 44514,
-      "reviews": 4456
+      "rating": 4.1,
+      "ratings": 47319,
+      "reviews": 4687
     },
     {
-      "title": "Outlive: The Science and Art of Longevity",
-      "url": "https://www.goodreads.com/book/show/61153739-outlive",
-      "id": "96395290",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1700067079i/61153739.jpg",
+      "title": "Revenge of the Tipping Point: Overstories, Superspreaders, and the Rise of Social Engineering",
+      "url": "https://www.goodreads.com/book/show/216857785-revenge-of-the-tipping-point",
+      "id": "220150700",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1721984170i/216857785.jpg",
       "authors": [
-        "Peter Attia"
+        "Malcolm Gladwell"
       ],
       "genres": [
-        "health",
         "non-fiction",
-        "science",
-        "self-help",
         "audiobook",
-        "medicine",
-        "personal-development"
-      ],
-      "rating": 4.39,
-      "ratings": 44330,
-      "reviews": 4001
-    },
-    {
-      "title": "The Whole-Brain Child: Revolutionary Strategies to Nurture Your Child's Developing Mind",
-      "url": "https://www.goodreads.com/book/show/10353369-the-whole-brain-child",
-      "id": "15256278",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320559286i/10353369.jpg",
-      "authors": [
-        "Daniel J. Siegel"
-      ],
-      "genres": [
-        "parenting",
-        "non-fiction",
         "psychology",
-        "self-help",
-        "childrens",
-        "family",
-        "science"
-      ],
-      "rating": 4.27,
-      "ratings": 44233,
-      "reviews": 3584
-    },
-    {
-      "title": "The Gift of Fear: Survival Signals That Protect Us from Violence",
-      "url": "https://www.goodreads.com/book/show/56465.The_Gift_of_Fear",
-      "id": "1212277",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348829921i/56465.jpg",
-      "authors": [
-        "Gavin de Becker"
-      ],
-      "genres": [
-        "non-fiction",
-        "psychology",
-        "self-help",
-        "true-crime",
+        "sociology",
+        "history",
         "science",
-        "audiobook",
-        "crime"
+        "business"
       ],
-      "rating": 4.18,
-      "ratings": 43540,
-      "reviews": 4413
-    },
-    {
-      "title": "Bad Science",
-      "url": "https://www.goodreads.com/book/show/3272165-bad-science",
-      "id": "3308349",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1660127955i/3272165.jpg",
-      "authors": [
-        "Ben Goldacre"
-      ],
-      "genres": [
-        "science",
-        "non-fiction",
-        "medicine",
-        "popular-science",
-        "health",
-        "psychology",
-        "medical"
-      ],
-      "rating": 4.06,
-      "ratings": 43077,
-      "reviews": 2247
-    },
-    {
-      "title": "How Not to Die: Discover the Foods Scientifically Proven to Prevent and Reverse Disease",
-      "url": "https://www.goodreads.com/book/show/25663961-how-not-to-die",
-      "id": "45486853",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1436292289i/25663961.jpg",
-      "authors": [
-        "Michael Greger"
-      ],
-      "genres": [
-        "health",
-        "non-fiction",
-        "nutrition",
-        "science",
-        "food",
-        "self-help",
-        "vegan"
-      ],
-      "rating": 4.44,
-      "ratings": 42961,
-      "reviews": 4262
+      "rating": 4.03,
+      "ratings": 47212,
+      "reviews": 4017
     },
     {
       "title": "The Design of Everyday Things",
@@ -248,54 +374,12 @@
         "art",
         "engineering"
       ],
-      "rating": 4.16,
-      "ratings": 42669,
-      "reviews": 3130
+      "rating": 4.15,
+      "ratings": 46602,
+      "reviews": 3422
     },
     {
-      "title": "American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer",
-      "url": "https://www.goodreads.com/book/show/80571.American_Prometheus",
-      "id": "1932215",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1686079247i/80571.jpg",
-      "authors": [
-        "Kai Bird"
-      ],
-      "genres": [
-        "biography",
-        "history",
-        "non-fiction",
-        "science",
-        "politics",
-        "biography-memoir",
-        "audiobook"
-      ],
-      "rating": 4.31,
-      "ratings": 42638,
-      "reviews": 4097
-    },
-    {
-      "title": "The Universe in a Nutshell",
-      "url": "https://www.goodreads.com/book/show/2095.The_Universe_in_a_Nutshell",
-      "id": "1978857",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1526743965i/2095.jpg",
-      "authors": [
-        "Stephen Hawking"
-      ],
-      "genres": [
-        "science",
-        "non-fiction",
-        "physics",
-        "astronomy",
-        "popular-science",
-        "space",
-        "audiobook"
-      ],
-      "rating": 4.18,
-      "ratings": 42632,
-      "reviews": 1273
-    },
-    {
-      "title": "Will My Cat Eat My Eyeballs? And other Questions about Dead Bodies",
+      "title": "Will My Cat Eat My Eyeballs? And Other Questions About Dead Bodies",
       "url": "https://www.goodreads.com/book/show/52672113-will-my-cat-eat-my-eyeballs-and-other-questions-about-dead-bodies",
       "id": "68120089",
       "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1593186716i/52672113.jpg",
@@ -305,36 +389,36 @@
       "genres": [
         "non-fiction",
         "science",
+        "audiobook",
         "humor",
         "death",
-        "audiobook",
         "adult",
         "history"
       ],
       "rating": 4.13,
-      "ratings": 41003,
-      "reviews": 6142
+      "ratings": 46468,
+      "reviews": 6948
     },
     {
-      "title": "Letter to a Christian Nation",
-      "url": "https://www.goodreads.com/book/show/51299.Letter_to_a_Christian_Nation",
-      "id": "563115",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1385089375i/51299.jpg",
+      "title": "Unnatural Causes: The Life and Many Deaths of Britain's Top Forensic Pathologist",
+      "url": "https://www.goodreads.com/book/show/27833843-unnatural-causes",
+      "id": "47815784",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1534293786i/27833843.jpg",
       "authors": [
-        "Sam Harris"
+        "Richard Shepherd"
       ],
       "genres": [
         "non-fiction",
-        "religion",
-        "philosophy",
-        "atheism",
-        "politics",
+        "medicine",
         "science",
-        "christianity"
+        "medical",
+        "true-crime",
+        "memoir",
+        "audiobook"
       ],
-      "rating": 4,
-      "ratings": 40490,
-      "reviews": 2215
+      "rating": 4.32,
+      "ratings": 46312,
+      "reviews": 3576
     },
     {
       "title": "From Here to Eternity: Traveling the World to Find the Good Death",
@@ -349,124 +433,19 @@
         "death",
         "science",
         "history",
-        "travel",
         "audiobook",
-        "anthropology"
+        "travel",
+        "memoir"
       ],
       "rating": 4.3,
-      "ratings": 40218,
-      "reviews": 4814
+      "ratings": 45334,
+      "reviews": 5404
     },
     {
-      "title": "Dopesick: Dealers, Doctors, and the Drug Company that Addicted America",
-      "url": "https://www.goodreads.com/book/show/37486540-dopesick",
-      "id": "59097428",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1533010748i/37486540.jpg",
-      "authors": [
-        "Beth Macy"
-      ],
-      "genres": [
-        "non-fiction",
-        "history",
-        "audiobook",
-        "politics",
-        "science",
-        "health",
-        "medicine"
-      ],
-      "rating": 4.08,
-      "ratings": 40139,
-      "reviews": 4589
-    },
-    {
-      "title": "The Happiness Hypothesis: Finding Modern Truth in Ancient Wisdom",
-      "url": "https://www.goodreads.com/book/show/96884.The_Happiness_Hypothesis",
-      "id": "3587",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348779688i/96884.jpg",
-      "authors": [
-        "Jonathan Haidt"
-      ],
-      "genres": [
-        "psychology",
-        "non-fiction",
-        "philosophy",
-        "self-help",
-        "science",
-        "personal-development",
-        "audiobook"
-      ],
-      "rating": 4.1,
-      "ratings": 39602,
-      "reviews": 2509
-    },
-    {
-      "title": "Physics of the Impossible",
-      "url": "https://www.goodreads.com/book/show/1168341.Physics_of_the_Impossible",
-      "id": "1239736",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320469147i/1168341.jpg",
-      "authors": [
-        "Michio Kaku"
-      ],
-      "genres": [
-        "science",
-        "non-fiction",
-        "physics",
-        "popular-science",
-        "technology",
-        "astronomy",
-        "space"
-      ],
-      "rating": 4.1,
-      "ratings": 39551,
-      "reviews": 1543
-    },
-    {
-      "title": "The Blind Watchmaker: Why the Evidence of Evolution Reveals a Universe Without Design",
-      "url": "https://www.goodreads.com/book/show/117047.The_Blind_Watchmaker",
-      "id": "112713",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1553577503i/117047.jpg",
-      "authors": [
-        "Richard Dawkins"
-      ],
-      "genres": [
-        "science",
-        "non-fiction",
-        "biology",
-        "philosophy",
-        "religion",
-        "atheism",
-        "popular-science"
-      ],
-      "rating": 4.09,
-      "ratings": 39529,
-      "reviews": 1295
-    },
-    {
-      "title": "The Premonition: A Pandemic Story",
-      "url": "https://www.goodreads.com/book/show/56790170-the-premonition",
-      "id": "88775146",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1611844095i/56790170.jpg",
-      "authors": [
-        "Michael   Lewis"
-      ],
-      "genres": [
-        "non-fiction",
-        "science",
-        "history",
-        "politics",
-        "health",
-        "medicine",
-        "medical"
-      ],
-      "rating": 4.34,
-      "ratings": 39497,
-      "reviews": 4070
-    },
-    {
-      "title": "A Briefer History of Time",
-      "url": "https://www.goodreads.com/book/show/2094.A_Briefer_History_of_Time",
-      "id": "16552333",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386924782i/2094.jpg",
+      "title": "The Universe in a Nutshell",
+      "url": "https://www.goodreads.com/book/show/2095.The_Universe_in_a_Nutshell",
+      "id": "1978857",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1526743965i/2095.jpg",
       "authors": [
         "Stephen Hawking"
       ],
@@ -474,35 +453,56 @@
         "science",
         "non-fiction",
         "physics",
-        "history",
         "astronomy",
+        "audiobook",
         "popular-science",
-        "audiobook"
+        "space"
       ],
-      "rating": 4.26,
-      "ratings": 39477,
-      "reviews": 1631
+      "rating": 4.18,
+      "ratings": 44718,
+      "reviews": 1339
     },
     {
-      "title": "Unnatural Causes: The Life and Many Deaths of Britain's Top Forensic Pathologist",
-      "url": "https://www.goodreads.com/book/show/27833843-unnatural-causes",
-      "id": "47815784",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1534293786i/27833843.jpg",
+      "title": "Glucose Revolution: The Life-Changing Power of Balancing Your Blood Sugar",
+      "url": "https://www.goodreads.com/book/show/58438618-glucose-revolution",
+      "id": "91709210",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1647448032i/58438618.jpg",
       "authors": [
-        "Richard Shepherd"
+        "Jessie Inchauspé"
       ],
       "genres": [
+        "health",
         "non-fiction",
         "science",
-        "medicine",
-        "medical",
-        "true-crime",
-        "memoir",
-        "biography"
+        "self-help",
+        "nutrition",
+        "audiobook",
+        "food"
       ],
-      "rating": 4.33,
-      "ratings": 39124,
-      "reviews": 3057
+      "rating": 4.41,
+      "ratings": 44527,
+      "reviews": 4164
+    },
+    {
+      "title": "Bad Science",
+      "url": "https://www.goodreads.com/book/show/3272165-bad-science",
+      "id": "3308349",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1739798214i/3272165.jpg",
+      "authors": [
+        "Ben Goldacre"
+      ],
+      "genres": [
+        "science",
+        "non-fiction",
+        "medicine",
+        "popular-science",
+        "health",
+        "psychology",
+        "audiobook"
+      ],
+      "rating": 4.06,
+      "ratings": 44453,
+      "reviews": 2357
     }
   ]
 }

@@ -1,88 +1,361 @@
 {
   "books": [
     {
-      "title": "Drops of Gold",
-      "url": "https://www.goodreads.com/book/show/59655706-drops-of-gold",
-      "id": "6608624",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1637350359i/59655706.jpg",
+      "title": "Sharpe's Sword",
+      "url": "https://www.goodreads.com/book/show/492920.Sharpe_s_Sword",
+      "id": "1093467",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1387983795i/492920.jpg",
       "authors": [
-        "Sarah M. Eden"
+        "Bernard Cornwell"
       ],
       "genres": [
-        "romance",
-        "regency",
         "historical-fiction",
+        "fiction",
+        "historical",
+        "war",
+        "adventure",
+        "military-fiction",
+        "audiobook"
+      ],
+      "rating": 4.26,
+      "ratings": 11277,
+      "reviews": 287
+    },
+    {
+      "title": "The Outside Boy",
+      "url": "https://www.goodreads.com/book/show/7829869-the-outside-boy",
+      "id": "10889761",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442693761i/7829869.jpg",
+      "authors": [
+        "Jeanine Cummins"
+      ],
+      "genres": [
+        "fiction",
+        "historical-fiction",
+        "book-club",
+        "ireland",
+        "audiobook",
+        "coming-of-age",
+        "irish-literature"
+      ],
+      "rating": 4.22,
+      "ratings": 11274,
+      "reviews": 1068
+    },
+    {
+      "title": "Shield of Thunder",
+      "url": "https://www.goodreads.com/book/show/44011.Shield_of_Thunder",
+      "id": "1270028",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327931505i/44011.jpg",
+      "authors": [
+        "David Gemmell"
+      ],
+      "genres": [
+        "fantasy",
+        "historical-fiction",
+        "fiction",
+        "historical",
+        "mythology",
+        "war",
+        "historical-fantasy"
+      ],
+      "rating": 4.38,
+      "ratings": 11270,
+      "reviews": 374
+    },
+    {
+      "title": "The Girl Who Escaped from Auschwitz",
+      "url": "https://www.goodreads.com/book/show/56131831-the-girl-who-escaped-from-auschwitz",
+      "id": "87427891",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1606856377i/56131831.jpg",
+      "authors": [
+        "Ellie Midwood"
+      ],
+      "genres": [
+        "historical-fiction",
+        "holocaust",
+        "fiction",
+        "world-war-ii",
+        "historical",
+        "war",
+        "audiobook"
+      ],
+      "rating": 4.45,
+      "ratings": 11260,
+      "reviews": 763
+    },
+    {
+      "title": "Five Decembers",
+      "url": "https://www.goodreads.com/book/show/57522883-five-decembers",
+      "id": "90076820",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1703943861i/57522883.jpg",
+      "authors": [
+        "James Kestrel"
+      ],
+      "genres": [
+        "mystery",
+        "historical-fiction",
+        "fiction",
+        "crime",
+        "thriller",
+        "noir",
+        "mystery-thriller"
+      ],
+      "rating": 4.41,
+      "ratings": 11255,
+      "reviews": 1598
+    },
+    {
+      "title": "Oil and Marble",
+      "url": "https://www.goodreads.com/book/show/25898723-oil-and-marble",
+      "id": "45781552",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1439857647i/25898723.jpg",
+      "authors": [
+        "Stephanie Storey"
+      ],
+      "genres": [
+        "historical-fiction",
+        "fiction",
+        "art",
+        "book-club",
+        "italy",
+        "historical",
+        "art-history"
+      ],
+      "rating": 4.08,
+      "ratings": 11239,
+      "reviews": 1243
+    },
+    {
+      "title": "The Women of Arlington Hall",
+      "url": "https://www.goodreads.com/book/show/220292680-the-women-of-arlington-hall",
+      "id": "227229277",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1737123916i/220292680.jpg",
+      "authors": [
+        "Jane Healey"
+      ],
+      "genres": [
+        "historical-fiction",
+        "fiction",
+        "historical",
+        "romance",
+        "world-war-ii",
         "historical-romance",
-        "clean-romance",
-        "regency-romance",
+        "audiobook"
+      ],
+      "rating": 4.34,
+      "ratings": 11234,
+      "reviews": 575
+    },
+    {
+      "title": "Pearl in the Sand",
+      "url": "https://www.goodreads.com/book/show/8089607-pearl-in-the-sand",
+      "id": "12832808",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328823070i/8089607.jpg",
+      "authors": [
+        "Tessa Afshar"
+      ],
+      "genres": [
+        "christian-fiction",
+        "historical-fiction",
+        "biblical-fiction",
+        "christian",
+        "fiction",
+        "romance",
+        "historical"
+      ],
+      "rating": 4.32,
+      "ratings": 11225,
+      "reviews": 1258
+    },
+    {
+      "title": "The Letter",
+      "url": "https://www.goodreads.com/book/show/199796.The_Letter",
+      "id": "2918712",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442704361i/199796.jpg",
+      "authors": [
+        "Richard Paul Evans"
+      ],
+      "genres": [
+        "christmas",
+        "fiction",
+        "christian-fiction",
+        "holiday",
+        "adult-fiction",
+        "historical-fiction",
+        "romance"
+      ],
+      "rating": 4.17,
+      "ratings": 11216,
+      "reviews": 340
+    },
+    {
+      "title": "Four Funerals and Maybe a Wedding",
+      "url": "https://www.goodreads.com/book/show/36583047-four-funerals-and-maybe-a-wedding",
+      "id": "58328038",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1511193028i/36583047.jpg",
+      "authors": [
+        "Rhys Bowen"
+      ],
+      "genres": [
+        "mystery",
+        "historical-fiction",
+        "fiction",
+        "cozy-mystery",
+        "historical-mystery",
+        "historical",
+        "audiobook"
+      ],
+      "rating": 4.17,
+      "ratings": 11216,
+      "reviews": 1080
+    },
+    {
+      "title": "The Apothecary Diaries (Light Novel): Volume 1",
+      "url": "https://www.goodreads.com/book/show/58093348-the-apothecary-diaries-light-novel",
+      "id": "59557810",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1621400171i/58093348.jpg",
+      "authors": [
+        "Natsu Hyuuga"
+      ],
+      "genres": [
+        "light-novel",
+        "mystery",
+        "historical-fiction",
+        "manga",
+        "historical",
+        "romance",
         "fiction"
       ],
-      "rating": 4.21,
-      "ratings": 9350,
-      "reviews": 1028
+      "rating": 4.47,
+      "ratings": 11202,
+      "reviews": 864
     },
     {
-      "title": "The Sorrow of War",
-      "url": "https://www.goodreads.com/book/show/780889.The_Sorrow_of_War",
-      "id": "766911",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1546101718i/780889.jpg",
+      "title": "Oath Breaker",
+      "url": "https://www.goodreads.com/book/show/3081438-oath-breaker",
+      "id": "3112483",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327944121i/3081438.jpg",
       "authors": [
-        "Bảo Ninh"
+        "Michelle Paver"
       ],
       "genres": [
-        "fiction",
-        "war",
-        "historical-fiction",
-        "asia",
-        "literature",
-        "historical",
-        "novels"
-      ],
-      "rating": 4.07,
-      "ratings": 9347,
-      "reviews": 1107
-    },
-    {
-      "title": "The Secret Wisdom of the Earth",
-      "url": "https://www.goodreads.com/book/show/22217702-the-secret-wisdom-of-the-earth",
-      "id": "41558303",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1403541255i/22217702.jpg",
-      "authors": [
-        "Christopher Scotton"
-      ],
-      "genres": [
-        "fiction",
-        "historical-fiction",
-        "coming-of-age",
+        "fantasy",
         "young-adult",
-        "contemporary",
-        "mystery",
-        "adult-fiction"
+        "fiction",
+        "adventure",
+        "historical-fiction",
+        "childrens",
+        "historical"
       ],
-      "rating": 4.1,
-      "ratings": 9347,
-      "reviews": 1582
+      "rating": 4.34,
+      "ratings": 11198,
+      "reviews": 311
     },
     {
-      "title": "Las legiones malditas",
-      "url": "https://www.goodreads.com/book/show/6420319-las-legiones-malditas",
-      "id": "3525620",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1255197652i/6420319.jpg",
+      "title": "Babylonia",
+      "url": "https://www.goodreads.com/book/show/210204151-babylonia",
+      "id": "205205270",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1718809706i/210204151.jpg",
       "authors": [
-        "Santiago Posteguillo"
+        "Costanza Casati"
       ],
       "genres": [
         "historical-fiction",
-        "historical",
+        "mythology",
+        "fantasy",
         "fiction",
-        "spanish-literature",
-        "war",
-        "novels",
-        "ancient-history"
+        "historical",
+        "retellings",
+        "greek-mythology"
       ],
-      "rating": 4.69,
-      "ratings": 9346,
-      "reviews": 576
+      "rating": 4.11,
+      "ratings": 11193,
+      "reviews": 2182
+    },
+    {
+      "title": "Lies, Damned Lies, and History",
+      "url": "https://www.goodreads.com/book/show/26308512-lies-damned-lies-and-history",
+      "id": "46307811",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1441914928i/26308512.jpg",
+      "authors": [
+        "Jodi Taylor"
+      ],
+      "genres": [
+        "time-travel",
+        "fantasy",
+        "science-fiction",
+        "historical-fiction",
+        "fiction",
+        "audiobook",
+        "historical"
+      ],
+      "rating": 4.42,
+      "ratings": 11190,
+      "reviews": 696
+    },
+    {
+      "title": "Stiff Upper Lip, Jeeves",
+      "url": "https://www.goodreads.com/book/show/12550.Stiff_Upper_Lip_Jeeves",
+      "id": "1064024",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1700228957i/12550.jpg",
+      "authors": [
+        "P.G. Wodehouse"
+      ],
+      "genres": [
+        "fiction",
+        "humor",
+        "classics",
+        "comedy",
+        "british-literature",
+        "audiobook",
+        "historical-fiction"
+      ],
+      "rating": 4.22,
+      "ratings": 11178,
+      "reviews": 683
+    },
+    {
+      "title": "On Her Majesty's Frightfully Secret Service",
+      "url": "https://www.goodreads.com/book/show/32969127-on-her-majesty-s-frightfully-secret-service",
+      "id": "53605812",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1479205563i/32969127.jpg",
+      "authors": [
+        "Rhys Bowen"
+      ],
+      "genres": [
+        "mystery",
+        "historical-fiction",
+        "fiction",
+        "cozy-mystery",
+        "historical-mystery",
+        "historical",
+        "audiobook"
+      ],
+      "rating": 4.14,
+      "ratings": 11171,
+      "reviews": 908
+    },
+    {
+      "title": "Song of the Spirits",
+      "url": "https://www.goodreads.com/book/show/18800578-song-of-the-spirits",
+      "id": "4625095",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386936062i/18800578.jpg",
+      "authors": [
+        "Sarah Lark"
+      ],
+      "genres": [
+        "historical-fiction",
+        "romance",
+        "fiction",
+        "historical",
+        "audiobook",
+        "roman",
+        "historical-romance"
+      ],
+      "rating": 4.19,
+      "ratings": 11165,
+      "reviews": 457
     },
     {
       "title": "How We Disappeared",
@@ -99,410 +372,137 @@
         "asia",
         "war",
         "world-war-ii",
-        "literary-fiction"
-      ],
-      "rating": 4.21,
-      "ratings": 9340,
-      "reviews": 1154
-    },
-    {
-      "title": "Ghost Hunter",
-      "url": "https://www.goodreads.com/book/show/4326206-ghost-hunter",
-      "id": "4374011",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1415589501i/4326206.jpg",
-      "authors": [
-        "Michelle Paver"
-      ],
-      "genres": [
-        "fantasy",
-        "young-adult",
-        "fiction",
-        "historical-fiction",
-        "adventure",
-        "childrens",
-        "historical"
-      ],
-      "rating": 4.41,
-      "ratings": 9336,
-      "reviews": 322
-    },
-    {
-      "title": "The Girls of Pearl Harbor",
-      "url": "https://www.goodreads.com/book/show/44648494-the-girls-of-pearl-harbor",
-      "id": "69154157",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1560406153i/44648494.jpg",
-      "authors": [
-        "Soraya M. Lane"
-      ],
-      "genres": [
-        "historical-fiction",
-        "fiction",
-        "world-war-ii",
-        "historical",
-        "romance",
-        "adult",
-        "war"
-      ],
-      "rating": 4.3,
-      "ratings": 9330,
-      "reviews": 528
-    },
-    {
-      "title": "The Reckoning",
-      "url": "https://www.goodreads.com/book/show/119825.The_Reckoning",
-      "id": "115367",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1448657502i/119825.jpg",
-      "authors": [
-        "Sharon Kay Penman"
-      ],
-      "genres": [
-        "historical-fiction",
-        "fiction",
-        "historical",
-        "medieval",
-        "british-literature",
-        "romance",
-        "13th-century"
-      ],
-      "rating": 4.45,
-      "ratings": 9312,
-      "reviews": 368
-    },
-    {
-      "title": "The Secrets Between Us",
-      "url": "https://www.goodreads.com/book/show/35959168-the-secrets-between-us",
-      "id": "57516766",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1512685078i/35959168.jpg",
-      "authors": [
-        "Thrity Umrigar"
-      ],
-      "genres": [
-        "fiction",
-        "india",
-        "historical-fiction",
-        "literary-fiction",
-        "asia",
-        "contemporary",
-        "adult"
-      ],
-      "rating": 4.5,
-      "ratings": 9302,
-      "reviews": 1178
-    },
-    {
-      "title": "The Walking Drum",
-      "url": "https://www.goodreads.com/book/show/327548.The_Walking_Drum",
-      "id": "116584",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1393791562i/327548.jpg",
-      "authors": [
-        "Louis l'Amour"
-      ],
-      "genres": [
-        "historical-fiction",
-        "fiction",
-        "westerns",
-        "adventure",
-        "historical",
-        "classics",
-        "fantasy"
-      ],
-      "rating": 4.24,
-      "ratings": 9302,
-      "reviews": 848
-    },
-    {
-      "title": "The Greatest Knight",
-      "url": "https://www.goodreads.com/book/show/414641.The_Greatest_Knight",
-      "id": "403858",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1174532558i/414641.jpg",
-      "authors": [
-        "Elizabeth Chadwick"
-      ],
-      "genres": [
-        "historical-fiction",
-        "historical",
-        "fiction",
-        "medieval",
-        "romance",
-        "british-literature",
-        "historical-romance"
-      ],
-      "rating": 4.13,
-      "ratings": 9301,
-      "reviews": 757
-    },
-    {
-      "title": "The Betrayal",
-      "url": "https://www.goodreads.com/book/show/141679.The_Betrayal",
-      "id": "2885282",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1355064438i/141679.jpg",
-      "authors": [
-        "Beverly Lewis"
-      ],
-      "genres": [
-        "amish",
-        "christian-fiction",
-        "fiction",
-        "christian",
-        "amish-fiction",
-        "romance",
-        "historical-fiction"
-      ],
-      "rating": 4.23,
-      "ratings": 9290,
-      "reviews": 352
-    },
-    {
-      "title": "Widdershins",
-      "url": "https://www.goodreads.com/book/show/16128152-widdershins",
-      "id": "21952704",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1352121658i/16128152.jpg",
-      "authors": [
-        "Jordan L. Hawk"
-      ],
-      "genres": [
-        "romance",
-        "fantasy",
-        "historical",
-        "m-m-romance",
-        "paranormal",
-        "mystery",
-        "historical-fiction"
-      ],
-      "rating": 4.09,
-      "ratings": 9283,
-      "reviews": 1532
-    },
-    {
-      "title": "The Farming of Bones",
-      "url": "https://www.goodreads.com/book/show/31115.The_Farming_of_Bones",
-      "id": "2902",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388185521i/31115.jpg",
-      "authors": [
-        "Edwidge Danticat"
-      ],
-      "genres": [
-        "fiction",
-        "historical-fiction",
-        "historical",
-        "novels",
-        "school",
-        "literary-fiction",
-        "literature"
-      ],
-      "rating": 4.07,
-      "ratings": 9280,
-      "reviews": 891
-    },
-    {
-      "title": "At Swim, Two Boys",
-      "url": "https://www.goodreads.com/book/show/96200.At_Swim_Two_Boys",
-      "id": "956105",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1439613291i/96200.jpg",
-      "authors": [
-        "Jamie O'Neill"
-      ],
-      "genres": [
-        "fiction",
-        "lgbt",
-        "historical-fiction",
-        "queer",
-        "gay",
-        "historical",
-        "ireland"
-      ],
-      "rating": 4.1,
-      "ratings": 9279,
-      "reviews": 803
-    },
-    {
-      "title": "The Forgotten Village",
-      "url": "https://www.goodreads.com/book/show/43215375-the-forgotten-village",
-      "id": "63580393",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1547243872i/43215375.jpg",
-      "authors": [
-        "Lorna Cook"
-      ],
-      "genres": [
-        "historical-fiction",
-        "historical",
-        "fiction",
-        "mystery",
-        "romance",
-        "world-war-ii",
-        "20th-century"
-      ],
-      "rating": 4.18,
-      "ratings": 9276,
-      "reviews": 449
-    },
-    {
-      "title": "A Sparrow Falls",
-      "url": "https://www.goodreads.com/book/show/5969.A_Sparrow_Falls",
-      "id": "2051667",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388892414i/5969.jpg",
-      "authors": [
-        "Wilbur Smith"
-      ],
-      "genres": [
-        "fiction",
-        "historical-fiction",
-        "adventure",
-        "africa",
-        "historical",
-        "thriller",
-        "action"
-      ],
-      "rating": 4.26,
-      "ratings": 9269,
-      "reviews": 210
-    },
-    {
-      "title": "The Colony",
-      "url": "https://www.goodreads.com/book/show/57977494-the-colony",
-      "id": "90846914",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1634231936i/57977494.jpg",
-      "authors": [
-        "Audrey Magee"
-      ],
-      "genres": [
-        "fiction",
-        "historical-fiction",
-        "ireland",
-        "literary-fiction",
-        "irish-literature",
-        "historical",
-        "art"
-      ],
-      "rating": 4.12,
-      "ratings": 9258,
-      "reviews": 1302
-    },
-    {
-      "title": "Death Beside the Seaside",
-      "url": "https://www.goodreads.com/book/show/49224838-death-beside-the-seaside",
-      "id": "71567335",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1562458438l/49224838.jpg",
-      "authors": [
-        "T.E. Kinsey"
-      ],
-      "genres": [
-        "mystery",
-        "historical-fiction",
-        "fiction",
-        "cozy-mystery",
-        "audiobook",
-        "historical",
-        "historical-mystery"
-      ],
-      "rating": 4.24,
-      "ratings": 9254,
-      "reviews": 455
-    },
-    {
-      "title": "Venuto al mondo",
-      "url": "https://www.goodreads.com/book/show/6202353-venuto-al-mondo",
-      "id": "6382838",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1236025089i/6202353.jpg",
-      "authors": [
-        "Margaret Mazzantini"
-      ],
-      "genres": [
-        "fiction",
-        "historical-fiction",
-        "italian-literature",
-        "italy",
-        "contemporary",
-        "war",
-        "novels"
-      ],
-      "rating": 4.33,
-      "ratings": 9253,
-      "reviews": 732
-    },
-    {
-      "title": "Parvana's Journey",
-      "url": "https://www.goodreads.com/book/show/834019.Parvana_s_Journey",
-      "id": "1779042",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1389756976i/834019.jpg",
-      "authors": [
-        "Deborah Ellis"
-      ],
-      "genres": [
-        "historical-fiction",
-        "young-adult",
-        "fiction",
-        "war",
-        "middle-grade",
-        "realistic-fiction",
-        "school"
-      ],
-      "rating": 4.13,
-      "ratings": 9252,
-      "reviews": 712
-    },
-    {
-      "title": "The Toymakers",
-      "url": "https://www.goodreads.com/book/show/34846987-the-toymakers",
-      "id": "56081677",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1505465708i/34846987.jpg",
-      "authors": [
-        "Robert Dinsdale"
-      ],
-      "genres": [
-        "fantasy",
-        "historical-fiction",
-        "fiction",
-        "magical-realism",
-        "christmas",
-        "historical",
-        "adult"
-      ],
-      "rating": 4.01,
-      "ratings": 9250,
-      "reviews": 1552
-    },
-    {
-      "title": "The Truelove",
-      "url": "https://www.goodreads.com/book/show/24525.The_Truelove",
-      "id": "2773925",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388358972i/24525.jpg",
-      "authors": [
-        "Patrick O'Brian"
-      ],
-      "genres": [
-        "historical-fiction",
-        "fiction",
-        "historical",
-        "adventure",
-        "audiobook",
-        "war",
-        "military-fiction"
-      ],
-      "rating": 4.36,
-      "ratings": 9249,
-      "reviews": 320
-    },
-    {
-      "title": "The Tide Between Us: An Irish-Caribbean Story of Slavery & Emancipation",
-      "url": "https://www.goodreads.com/book/show/43527608-the-tide-between-us",
-      "id": "67702253",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1547105771i/43527608.jpg",
-      "authors": [
-        "Olive Collins"
-      ],
-      "genres": [
-        "historical-fiction",
-        "fiction",
-        "ireland",
-        "historical",
-        "irish-literature",
-        "family",
-        "book-club"
+        "asian-literature"
       ],
       "rating": 4.2,
-      "ratings": 9247,
-      "reviews": 581
+      "ratings": 11163,
+      "reviews": 1358
+    },
+    {
+      "title": "The Vanishing of Margaret Small",
+      "url": "https://www.goodreads.com/book/show/62616002-the-vanishing-of-margaret-small",
+      "id": "98374241",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1663855910i/62616002.jpg",
+      "authors": [
+        "Neil  Alexander"
+      ],
+      "genres": [
+        "fiction",
+        "mystery",
+        "historical-fiction",
+        "audiobook",
+        "book-club",
+        "mystery-thriller",
+        "thriller"
+      ],
+      "rating": 4.21,
+      "ratings": 11162,
+      "reviews": 842
+    },
+    {
+      "title": "The Other Side of the Bridge",
+      "url": "https://www.goodreads.com/book/show/129783.The_Other_Side_of_the_Bridge",
+      "id": "25378",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1171989412i/129783.jpg",
+      "authors": [
+        "Mary Lawson"
+      ],
+      "genres": [
+        "fiction",
+        "historical-fiction",
+        "book-club",
+        "canada",
+        "literary-fiction",
+        "historical",
+        "coming-of-age"
+      ],
+      "rating": 4.18,
+      "ratings": 11160,
+      "reviews": 1173
+    },
+    {
+      "title": "The Potato Factory",
+      "url": "https://www.goodreads.com/book/show/137808.The_Potato_Factory",
+      "id": "649700",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1172090911i/137808.jpg",
+      "authors": [
+        "Bryce Courtenay"
+      ],
+      "genres": [
+        "historical-fiction",
+        "fiction",
+        "australia",
+        "audiobook",
+        "historical",
+        "adventure",
+        "book-club"
+      ],
+      "rating": 4.15,
+      "ratings": 11123,
+      "reviews": 730
+    },
+    {
+      "title": "Warleggan",
+      "url": "https://www.goodreads.com/book/show/1396760.Warleggan",
+      "id": "1909682",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1391952762i/1396760.jpg",
+      "authors": [
+        "Winston Graham"
+      ],
+      "genres": [
+        "historical-fiction",
+        "fiction",
+        "historical",
+        "romance",
+        "audiobook",
+        "classics",
+        "british-literature"
+      ],
+      "rating": 4.29,
+      "ratings": 11121,
+      "reviews": 765
+    },
+    {
+      "title": "The Unknown Ajax",
+      "url": "https://www.goodreads.com/book/show/311095.The_Unknown_Ajax",
+      "id": "302202",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320389044i/311095.jpg",
+      "authors": [
+        "Georgette Heyer"
+      ],
+      "genres": [
+        "romance",
+        "historical-fiction",
+        "regency",
+        "historical-romance",
+        "historical",
+        "fiction",
+        "regency-romance"
+      ],
+      "rating": 4.13,
+      "ratings": 11116,
+      "reviews": 956
+    },
+    {
+      "title": "Rush Home Road",
+      "url": "https://www.goodreads.com/book/show/744224.Rush_Home_Road",
+      "id": "1783858",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1431576419i/744224.jpg",
+      "authors": [
+        "Lori Lansens"
+      ],
+      "genres": [
+        "fiction",
+        "historical-fiction",
+        "book-club",
+        "canada",
+        "adult-fiction",
+        "contemporary",
+        "historical"
+      ],
+      "rating": 4.16,
+      "ratings": 11105,
+      "reviews": 983
     }
   ]
 }

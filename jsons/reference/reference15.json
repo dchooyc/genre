@@ -1,6 +1,90 @@
 {
   "books": [
     {
+      "title": "The Naked Chef",
+      "url": "https://www.goodreads.com/book/show/348695.The_Naked_Chef",
+      "id": "199025",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442623188i/348695.jpg",
+      "authors": [
+        "Jamie Oliver"
+      ],
+      "genres": [
+        "cookbooks",
+        "cooking",
+        "food",
+        "non-fiction",
+        "reference",
+        "food-and-drink",
+        "culinary"
+      ],
+      "rating": 4.03,
+      "ratings": 4890,
+      "reviews": 89
+    },
+    {
+      "title": "Thinner Leaner Stronger: The Simple Science of Building the Ultimate Female Body",
+      "url": "https://www.goodreads.com/book/show/25231421-thinner-leaner-stronger",
+      "id": "22202128",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1427488301i/25231421.jpg",
+      "authors": [
+        "Michael  Matthews"
+      ],
+      "genres": [
+        "fitness",
+        "health",
+        "non-fiction",
+        "self-help",
+        "reference",
+        "audiobook",
+        "science"
+      ],
+      "rating": 4,
+      "ratings": 4886,
+      "reviews": 377
+    },
+    {
+      "title": "Jamie's Dinners: The Essential Family Cookbook",
+      "url": "https://www.goodreads.com/book/show/8931.Jamie_s_Dinners",
+      "id": "11826",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388375289i/8931.jpg",
+      "authors": [
+        "Jamie Oliver"
+      ],
+      "genres": [
+        "cookbooks",
+        "cooking",
+        "food",
+        "non-fiction",
+        "reference",
+        "food-and-drink",
+        "health"
+      ],
+      "rating": 4.06,
+      "ratings": 4877,
+      "reviews": 60
+    },
+    {
+      "title": "HTML and CSS: Design and Build Websites",
+      "url": "https://www.goodreads.com/book/show/10361330-html-and-css",
+      "id": "15264344",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348805097i/10361330.jpg",
+      "authors": [
+        "Jon Duckett"
+      ],
+      "genres": [
+        "programming",
+        "non-fiction",
+        "design",
+        "computer-science",
+        "website-design",
+        "reference",
+        "coding"
+      ],
+      "rating": 4.3,
+      "ratings": 4871,
+      "reviews": 461
+    },
+    {
       "title": "The Non-Designer's Design Book",
       "url": "https://www.goodreads.com/book/show/41597.The_Non_Designer_s_Design_Book",
       "id": "41141",
@@ -12,22 +96,274 @@
         "design",
         "non-fiction",
         "reference",
-        "business",
         "art",
+        "business",
         "website-design",
         "school"
       ],
       "rating": 4.1,
-      "ratings": 4669,
-      "reviews": 433
+      "ratings": 4858,
+      "reviews": 459
     },
     {
-      "title": "Forever Summer",
-      "url": "https://www.goodreads.com/book/show/39543.Forever_Summer",
-      "id": "1561308",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348466072i/39543.jpg",
+      "title": "The Photographer's Eye",
+      "url": "https://www.goodreads.com/book/show/431366.The_Photographer_s_Eye",
+      "id": "420338",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1748952292i/431366.jpg",
       "authors": [
-        "Nigella Lawson"
+        "John Szarkowski"
+      ],
+      "genres": [
+        "photography",
+        "art",
+        "non-fiction",
+        "art-and-photography",
+        "reference",
+        "design",
+        "essays"
+      ],
+      "rating": 4.09,
+      "ratings": 4822,
+      "reviews": 57
+    },
+    {
+      "title": "The Lord Of The Rings: A Reader's Companion",
+      "url": "https://www.goodreads.com/book/show/15232.The_Lord_Of_The_Rings",
+      "id": "17136",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1396781282i/15232.jpg",
+      "authors": [
+        "Wayne G. Hammond"
+      ],
+      "genres": [
+        "fantasy",
+        "fiction",
+        "reference",
+        "literature",
+        "literary-criticism",
+        "classics",
+        "books-about-books"
+      ],
+      "rating": 4.39,
+      "ratings": 4813,
+      "reviews": 54
+    },
+    {
+      "title": "Picture This: How Pictures Work",
+      "url": "https://www.goodreads.com/book/show/31126390-picture-this",
+      "id": "895464",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1468580165i/31126390.jpg",
+      "authors": [
+        "Molly Bang"
+      ],
+      "genres": [
+        "art",
+        "non-fiction",
+        "design",
+        "picture-books",
+        "photography",
+        "drawing",
+        "reference"
+      ],
+      "rating": 4.2,
+      "ratings": 4808,
+      "reviews": 490
+    },
+    {
+      "title": "The Peoples of Middle-Earth",
+      "url": "https://www.goodreads.com/book/show/67996.The_Peoples_of_Middle_Earth",
+      "id": "2369020",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1365256168i/67996.jpg",
+      "authors": [
+        "J.R.R. Tolkien"
+      ],
+      "genres": [
+        "fantasy",
+        "fiction",
+        "classics",
+        "reference",
+        "high-fantasy",
+        "epic-fantasy",
+        "science-fiction-fantasy"
+      ],
+      "rating": 4.19,
+      "ratings": 4801,
+      "reviews": 73
+    },
+    {
+      "title": "Outlining Your Novel: Map Your Way to Success",
+      "url": "https://www.goodreads.com/book/show/12786668-outlining-your-novel",
+      "id": "17845833",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1683406438i/12786668.jpg",
+      "authors": [
+        "K.M. Weiland"
+      ],
+      "genres": [
+        "writing",
+        "non-fiction",
+        "reference",
+        "crafts",
+        "self-help",
+        "audiobook",
+        "research"
+      ],
+      "rating": 4.11,
+      "ratings": 4799,
+      "reviews": 683
+    },
+    {
+      "title": "The Art of How to Train Your Dragon",
+      "url": "https://www.goodreads.com/book/show/7313049-the-art-of-how-to-train-your-dragon",
+      "id": "8811023",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328756572i/7313049.jpg",
+      "authors": [
+        "Tracey Miller-Zarneke"
+      ],
+      "genres": [
+        "art",
+        "non-fiction",
+        "dragons",
+        "film",
+        "reference",
+        "media-tie-in",
+        "comics"
+      ],
+      "rating": 4.48,
+      "ratings": 4758,
+      "reviews": 86
+    },
+    {
+      "title": "The Art of Fermentation: An in-Depth Exploration of Essential Concepts and Processes from Around the World",
+      "url": "https://www.goodreads.com/book/show/13598307-the-art-of-fermentation",
+      "id": "19188832",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1334185796i/13598307.jpg",
+      "authors": [
+        "Sandor Ellix Katz"
+      ],
+      "genres": [
+        "cookbooks",
+        "food",
+        "cooking",
+        "non-fiction",
+        "health",
+        "reference",
+        "science"
+      ],
+      "rating": 4.44,
+      "ratings": 4748,
+      "reviews": 348
+    },
+    {
+      "title": "Stein on Writing",
+      "url": "https://www.goodreads.com/book/show/186004.Stein_on_Writing",
+      "id": "179798",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388291952i/186004.jpg",
+      "authors": [
+        "Sol Stein"
+      ],
+      "genres": [
+        "writing",
+        "non-fiction",
+        "reference",
+        "audiobook",
+        "crafts",
+        "self-help",
+        "how-to"
+      ],
+      "rating": 4.28,
+      "ratings": 4738,
+      "reviews": 526
+    },
+    {
+      "title": "Minecraft: Combat Handbook",
+      "url": "https://www.goodreads.com/book/show/18938091-minecraft",
+      "id": "26946000",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1410230046i/18938091.jpg",
+      "authors": [
+        "Stephanie Milton"
+      ],
+      "genres": [
+        "childrens",
+        "gaming",
+        "non-fiction",
+        "video-games",
+        "reference",
+        "games",
+        "chapter-books"
+      ],
+      "rating": 4.47,
+      "ratings": 4736,
+      "reviews": 261
+    },
+    {
+      "title": "Read This If You Want to Take Great Photographs",
+      "url": "https://www.goodreads.com/book/show/18269594-read-this-if-you-want-to-take-great-photographs",
+      "id": "25731402",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1384188562i/18269594.jpg",
+      "authors": [
+        "Henry Carroll"
+      ],
+      "genres": [
+        "photography",
+        "non-fiction",
+        "art",
+        "reference",
+        "design",
+        "self-help",
+        "how-to"
+      ],
+      "rating": 4.21,
+      "ratings": 4731,
+      "reviews": 454
+    },
+    {
+      "title": "Characters & Viewpoint",
+      "url": "https://www.goodreads.com/book/show/7963.Characters_Viewpoint",
+      "id": "10967",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348995975i/7963.jpg",
+      "authors": [
+        "Orson Scott Card"
+      ],
+      "genres": [
+        "writing",
+        "non-fiction",
+        "reference",
+        "crafts",
+        "research",
+        "how-to",
+        "adult"
+      ],
+      "rating": 4.04,
+      "ratings": 4699,
+      "reviews": 421
+    },
+    {
+      "title": "The 36-Hour Day: A Family Guide to Caring for People with Alzheimer Disease, Other Dementias, and Memory Loss in Later Life",
+      "url": "https://www.goodreads.com/book/show/49008.The_36_Hour_Day",
+      "id": "47945",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348295931i/49008.jpg",
+      "authors": [
+        "Nancy L. Mace"
+      ],
+      "genres": [
+        "non-fiction",
+        "health",
+        "self-help",
+        "reference",
+        "psychology",
+        "medical",
+        "medicine"
+      ],
+      "rating": 4.29,
+      "ratings": 4694,
+      "reviews": 590
+    },
+    {
+      "title": "The Tassajara Bread Book",
+      "url": "https://www.goodreads.com/book/show/396759.The_Tassajara_Bread_Book",
+      "id": "2072146",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1266543030i/396759.jpg",
+      "authors": [
+        "Edward Espe Brown"
       ],
       "genres": [
         "cookbooks",
@@ -35,12 +371,75 @@
         "food",
         "non-fiction",
         "reference",
-        "foodie",
+        "culinary",
         "food-and-drink"
       ],
-      "rating": 4.01,
-      "ratings": 4660,
-      "reviews": 59
+      "rating": 4.06,
+      "ratings": 4689,
+      "reviews": 103
+    },
+    {
+      "title": "On Writing",
+      "url": "https://www.goodreads.com/book/show/42683.On_Writing",
+      "id": "42152",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1731080929i/42683.jpg",
+      "authors": [
+        "Ernest Hemingway"
+      ],
+      "genres": [
+        "writing",
+        "non-fiction",
+        "classics",
+        "literature",
+        "memoir",
+        "biography",
+        "reference"
+      ],
+      "rating": 4.02,
+      "ratings": 4688,
+      "reviews": 459
+    },
+    {
+      "title": "Momofuku Milk Bar: A Cookbook",
+      "url": "https://www.goodreads.com/book/show/10679360-momofuku-milk-bar",
+      "id": "15589107",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1391311959i/10679360.jpg",
+      "authors": [
+        "Christina Tosi"
+      ],
+      "genres": [
+        "cookbooks",
+        "cooking",
+        "food",
+        "non-fiction",
+        "reference",
+        "food-and-drink",
+        "culinary"
+      ],
+      "rating": 4.16,
+      "ratings": 4675,
+      "reviews": 254
+    },
+    {
+      "title": "The Lord of the Rings: The Two Towers: Visual Companion",
+      "url": "https://www.goodreads.com/book/show/15221.The_Lord_of_the_Rings",
+      "id": "90550",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1423420279i/15221.jpg",
+      "authors": [
+        "Jane Johnson"
+      ],
+      "genres": [
+        "fantasy",
+        "film",
+        "reference",
+        "fiction",
+        "art",
+        "media-tie-in",
+        "classics"
+      ],
+      "rating": 4.51,
+      "ratings": 4656,
+      "reviews": 30
     },
     {
       "title": "Isa Does It: Amazingly Easy, Wildly Delicious Vegan Recipes for Every Day of the Week",
@@ -60,449 +459,50 @@
         "health"
       ],
       "rating": 4.35,
+      "ratings": 4650,
+      "reviews": 256
+    },
+    {
+      "title": "Forever Summer",
+      "url": "https://www.goodreads.com/book/show/39543.Forever_Summer",
+      "id": "1561308",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348466072i/39543.jpg",
+      "authors": [
+        "Nigella Lawson"
+      ],
+      "genres": [
+        "cookbooks",
+        "cooking",
+        "food",
+        "non-fiction",
+        "reference",
+        "foodie",
+        "food-and-drink"
+      ],
+      "rating": 4.01,
+      "ratings": 4647,
+      "reviews": 62
+    },
+    {
+      "title": "On Talking Terms with Dogs: Calming Signals",
+      "url": "https://www.goodreads.com/book/show/396927.On_Talking_Terms_with_Dogs",
+      "id": "386401",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347717828i/396927.jpg",
+      "authors": [
+        "Turid Rugaas"
+      ],
+      "genres": [
+        "dogs",
+        "non-fiction",
+        "animals",
+        "science",
+        "reference",
+        "psychology",
+        "education"
+      ],
+      "rating": 4.33,
       "ratings": 4640,
-      "reviews": 253
-    },
-    {
-      "title": "The Lord of the Rings: The Two Towers: Visual Companion",
-      "url": "https://www.goodreads.com/book/show/15221.The_Lord_of_the_Rings",
-      "id": "90550",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1423420279i/15221.jpg",
-      "authors": [
-        "Jude Fisher"
-      ],
-      "genres": [
-        "fantasy",
-        "film",
-        "fiction",
-        "reference",
-        "art",
-        "media-tie-in",
-        "classics"
-      ],
-      "rating": 4.51,
-      "ratings": 4635,
-      "reviews": 29
-    },
-    {
-      "title": "Outlining Your Novel: Map Your Way to Success",
-      "url": "https://www.goodreads.com/book/show/12786668-outlining-your-novel",
-      "id": "17845833",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1683406438i/12786668.jpg",
-      "authors": [
-        "K.M. Weiland"
-      ],
-      "genres": [
-        "writing",
-        "non-fiction",
-        "reference",
-        "crafts",
-        "self-help",
-        "research",
-        "audiobook"
-      ],
-      "rating": 4.11,
-      "ratings": 4633,
-      "reviews": 659
-    },
-    {
-      "title": "Elements of Fiction Writing: Characters & Viewpoint",
-      "url": "https://www.goodreads.com/book/show/7963.Elements_of_Fiction_Writing_Characters_Viewpoint",
-      "id": "10967",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348995975i/7963.jpg",
-      "authors": [
-        "Orson Scott Card"
-      ],
-      "genres": [
-        "writing",
-        "non-fiction",
-        "reference",
-        "crafts",
-        "research",
-        "how-to",
-        "adult"
-      ],
-      "rating": 4.04,
-      "ratings": 4612,
-      "reviews": 403
-    },
-    {
-      "title": "The Lord Of The Rings: A Reader's Companion",
-      "url": "https://www.goodreads.com/book/show/15232.The_Lord_Of_The_Rings",
-      "id": "17136",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1396781282i/15232.jpg",
-      "authors": [
-        "Wayne G. Hammond"
-      ],
-      "genres": [
-        "fantasy",
-        "fiction",
-        "reference",
-        "literature",
-        "literary-criticism",
-        "books-about-books",
-        "classics"
-      ],
-      "rating": 4.37,
-      "ratings": 4595,
-      "reviews": 44
-    },
-    {
-      "title": "The Dialectical Behavior Therapy Skills Workbook: Practical DBT Exercises for Learning Mindfulness, Interpersonal Effectiveness, Emotion Regulation, and Distress Tolerance",
-      "url": "https://www.goodreads.com/book/show/369266.The_Dialectical_Behavior_Therapy_Skills_Workbook",
-      "id": "359246",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1391148298i/369266.jpg",
-      "authors": [
-        "Matthew McKay"
-      ],
-      "genres": [
-        "psychology",
-        "self-help",
-        "non-fiction",
-        "mental-health",
-        "reference",
-        "counselling",
-        "health"
-      ],
-      "rating": 4.26,
-      "ratings": 4586,
-      "reviews": 181
-    },
-    {
-      "title": "The Riverside Shakespeare",
-      "url": "https://www.goodreads.com/book/show/1414.The_Riverside_Shakespeare",
-      "id": "26333578",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388178402i/1414.jpg",
-      "authors": [
-        "William Shakespeare"
-      ],
-      "genres": [
-        "classics",
-        "plays",
-        "poetry",
-        "drama",
-        "fiction",
-        "literature",
-        "reference"
-      ],
-      "rating": 4.54,
-      "ratings": 4556,
-      "reviews": 219
-    },
-    {
-      "title": "Stein On Writing: A Master Editor of Some of the Most Successful Writers of Our Century Shares His Craft Techniques and Strategies",
-      "url": "https://www.goodreads.com/book/show/186004.Stein_On_Writing",
-      "id": "179798",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388291952i/186004.jpg",
-      "authors": [
-        "Sol Stein"
-      ],
-      "genres": [
-        "writing",
-        "non-fiction",
-        "reference",
-        "audiobook",
-        "self-help",
-        "crafts",
-        "how-to"
-      ],
-      "rating": 4.28,
-      "ratings": 4548,
-      "reviews": 509
-    },
-    {
-      "title": "Sherlock: The Casebook",
-      "url": "https://www.goodreads.com/book/show/13536554-sherlock",
-      "id": "19098270",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1344886253i/13536554.jpg",
-      "authors": [
-        "Guy Adams"
-      ],
-      "genres": [
-        "non-fiction",
-        "mystery",
-        "crime",
-        "media-tie-in",
-        "humor",
-        "tv",
-        "reference"
-      ],
-      "rating": 4.37,
-      "ratings": 4532,
-      "reviews": 217
-    },
-    {
-      "title": "Dynamic Figure Drawing",
-      "url": "https://www.goodreads.com/book/show/304961.Dynamic_Figure_Drawing",
-      "id": "295973",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320465706i/304961.jpg",
-      "authors": [
-        "Burne Hogarth"
-      ],
-      "genres": [
-        "art",
-        "drawing",
-        "non-fiction",
-        "reference",
-        "comics",
-        "art-design",
-        "design"
-      ],
-      "rating": 4.01,
-      "ratings": 4530,
-      "reviews": 40
-    },
-    {
-      "title": "2,000 to 10,000: How to Write Faster, Write Better, and Write More of What You Love",
-      "url": "https://www.goodreads.com/book/show/16080676-2-000-to-10-000",
-      "id": "21879311",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1349974760i/16080676.jpg",
-      "authors": [
-        "Rachel Aaron"
-      ],
-      "genres": [
-        "writing",
-        "non-fiction",
-        "reference",
-        "crafts",
-        "self-help",
-        "productivity",
-        "how-to"
-      ],
-      "rating": 4.18,
-      "ratings": 4525,
-      "reviews": 814
-    },
-    {
-      "title": "Daniels' Running Formula",
-      "url": "https://www.goodreads.com/book/show/112152.Daniels_Running_Formula",
-      "id": "107987",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1403165875i/112152.jpg",
-      "authors": [
-        "Jack Daniels"
-      ],
-      "genres": [
-        "non-fiction",
-        "sports",
-        "fitness",
-        "health",
-        "science",
-        "reference",
-        "self-help"
-      ],
-      "rating": 4.25,
-      "ratings": 4513,
-      "reviews": 269
-    },
-    {
-      "title": "The Quotable Sandman",
-      "url": "https://www.goodreads.com/book/show/104602.The_Quotable_Sandman",
-      "id": "100853",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1310178566i/104602.jpg",
-      "authors": [
-        "Neil Gaiman"
-      ],
-      "genres": [
-        "fantasy",
-        "comics",
-        "graphic-novels",
-        "fiction",
-        "comic-book",
-        "reference",
-        "graphic-novels-comics"
-      ],
-      "rating": 4.52,
-      "ratings": 4505,
-      "reviews": 26
-    },
-    {
-      "title": "Minecraft: Combat Handbook",
-      "url": "https://www.goodreads.com/book/show/18938091-minecraft",
-      "id": "26946000",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1410230046i/18938091.jpg",
-      "authors": [
-        "Stephanie Milton"
-      ],
-      "genres": [
-        "gaming",
-        "non-fiction",
-        "childrens",
-        "video-games",
-        "games",
-        "reference",
-        "chapter-books"
-      ],
-      "rating": 4.47,
-      "ratings": 4492,
-      "reviews": 253
-    },
-    {
-      "title": "The Psychology Book: Big Ideas Simply Explained",
-      "url": "https://www.goodreads.com/book/show/13766064-the-psychology-book",
-      "id": "19106234",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1337573169i/13766064.jpg",
-      "authors": [
-        "Nigel C. Benson"
-      ],
-      "genres": [
-        "psychology",
-        "non-fiction",
-        "science",
-        "reference",
-        "philosophy",
-        "history",
-        "self-help"
-      ],
-      "rating": 4.18,
-      "ratings": 4484,
-      "reviews": 288
-    },
-    {
-      "title": "Momofuku Milk Bar: A Cookbook",
-      "url": "https://www.goodreads.com/book/show/10679360-momofuku-milk-bar",
-      "id": "15589107",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1391311959i/10679360.jpg",
-      "authors": [
-        "Christina Tosi"
-      ],
-      "genres": [
-        "cookbooks",
-        "cooking",
-        "food",
-        "non-fiction",
-        "reference",
-        "food-and-drink",
-        "culinary"
-      ],
-      "rating": 4.17,
-      "ratings": 4476,
-      "reviews": 251
-    },
-    {
-      "title": "The Serial Killer Files: The Who, What, Where, How, and Why of the World's Most Terrifying Murderers",
-      "url": "https://www.goodreads.com/book/show/421357.The_Serial_Killer_Files",
-      "id": "410485",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320529964i/421357.jpg",
-      "authors": [
-        "Harold Schechter"
-      ],
-      "genres": [
-        "true-crime",
-        "non-fiction",
-        "crime",
-        "psychology",
-        "history",
-        "reference",
-        "horror"
-      ],
-      "rating": 4.09,
-      "ratings": 4460,
-      "reviews": 288
-    },
-    {
-      "title": "The Art of Fermentation: An in-Depth Exploration of Essential Concepts and Processes from Around the World",
-      "url": "https://www.goodreads.com/book/show/13598307-the-art-of-fermentation",
-      "id": "19188832",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1334185796i/13598307.jpg",
-      "authors": [
-        "Sandor Ellix Katz"
-      ],
-      "genres": [
-        "food",
-        "cookbooks",
-        "cooking",
-        "non-fiction",
-        "health",
-        "reference",
-        "science"
-      ],
-      "rating": 4.44,
-      "ratings": 4447,
-      "reviews": 328
-    },
-    {
-      "title": "Matthew Henry's Commentary on the Whole Bible",
-      "url": "https://www.goodreads.com/book/show/962955.Matthew_Henry_s_Commentary_on_the_Whole_Bible",
-      "id": "947856",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1387707293i/962955.jpg",
-      "authors": [
-        "Matthew Henry"
-      ],
-      "genres": [
-        "reference",
-        "christian",
-        "theology",
-        "religion",
-        "christianity",
-        "non-fiction",
-        "faith"
-      ],
-      "rating": 4.4,
-      "ratings": 4415,
-      "reviews": 83
-    },
-    {
-      "title": "The Science of Philip Pullman's His Dark Materials",
-      "url": "https://www.goodreads.com/book/show/1230752.The_Science_of_Philip_Pullman_s_His_Dark_Materials",
-      "id": "2327126",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348334749i/1230752.jpg",
-      "authors": [
-        "Mary Gribbin"
-      ],
-      "genres": [
-        "non-fiction",
-        "science",
-        "reference",
-        "physics",
-        "childrens",
-        "philosophy",
-        "pop-culture"
-      ],
-      "rating": 4.42,
-      "ratings": 4394,
-      "reviews": 65
-    },
-    {
-      "title": "Against All Grain: Delectable Paleo Recipes To Eat Well And Feel Great",
-      "url": "https://www.goodreads.com/book/show/17415999-against-all-grain",
-      "id": "24267950",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1408913007i/17415999.jpg",
-      "authors": [
-        "Danielle Walker"
-      ],
-      "genres": [
-        "cookbooks",
-        "cooking",
-        "food",
-        "health",
-        "non-fiction",
-        "reference",
-        "nutrition"
-      ],
-      "rating": 4.37,
-      "ratings": 4346,
-      "reviews": 174
-    },
-    {
-      "title": "Business Model You: A One-Page Method For Reinventing Your Career",
-      "url": "https://www.goodreads.com/book/show/12285518-business-model-you",
-      "id": "17261731",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1376878718i/12285518.jpg",
-      "authors": [
-        "Tim  Clark"
-      ],
-      "genres": [
-        "business",
-        "non-fiction",
-        "self-help",
-        "personal-development",
-        "entrepreneurship",
-        "management",
-        "reference"
-      ],
-      "rating": 4.01,
-      "ratings": 4344,
-      "reviews": 152
+      "reviews": 367
     }
   ]
 }

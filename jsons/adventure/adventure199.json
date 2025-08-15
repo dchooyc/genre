@@ -1,71 +1,427 @@
 {
   "books": [
     {
-      "title": "The Gathering Edge",
-      "url": "https://www.goodreads.com/book/show/30753671-the-gathering-edge",
-      "id": "51302126",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1468423896i/30753671.jpg",
+      "title": "Unworthy",
+      "url": "https://www.goodreads.com/book/show/6180992-unworthy",
+      "id": "6361050",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1391443954i/6180992.jpg",
       "authors": [
-        "Sharon Lee"
+        "Kirsten Beyer"
       ],
       "genres": [
+        "star-trek",
         "science-fiction",
-        "space-opera",
+        "star-trek-voyager",
         "fiction",
+        "media-tie-in",
+        "space",
+        "adventure"
+      ],
+      "rating": 4.13,
+      "ratings": 1573,
+      "reviews": 100
+    },
+    {
+      "title": "The Blood King Conspiracy",
+      "url": "https://www.goodreads.com/book/show/13559946-the-blood-king-conspiracy",
+      "id": "19133792",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1336772265i/13559946.jpg",
+      "authors": [
+        "David Leadbeater"
+      ],
+      "genres": [
+        "adventure",
+        "fiction",
+        "action",
+        "thriller",
+        "military-fiction"
+      ],
+      "rating": 4.07,
+      "ratings": 1573,
+      "reviews": 43
+    },
+    {
+      "title": "Hurricane Heroes in Texas",
+      "url": "https://www.goodreads.com/book/show/39033108-hurricane-heroes-in-texas",
+      "id": "60596263",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1520370712i/39033108.jpg",
+      "authors": [
+        "Mary Pope Osborne"
+      ],
+      "genres": [
+        "historical-fiction",
+        "fantasy",
+        "childrens",
+        "chapter-books",
+        "fiction",
+        "middle-grade",
+        "adventure"
+      ],
+      "rating": 4.26,
+      "ratings": 1572,
+      "reviews": 112
+    },
+    {
+      "title": "Avatar",
+      "url": "https://www.goodreads.com/book/show/209182432-avatar",
+      "id": "215339634",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1708980738i/209182432.jpg",
+      "authors": [
+        "Seth Ring"
+      ],
+      "genres": [
+        "fantasy",
+        "audiobook",
         "science-fiction-fantasy",
-        "fantasy",
         "adventure",
-        "audiobook"
-      ],
-      "rating": 4.39,
-      "ratings": 1315,
-      "reviews": 150
-    },
-    {
-      "title": "System Finale",
-      "url": "https://www.goodreads.com/book/show/58940793-system-finale",
-      "id": "92887299",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1630983423i/58940793.jpg",
-      "authors": [
-        "Tao Wong"
-      ],
-      "genres": [
-        "fantasy",
-        "science-fiction",
         "dragons",
-        "adventure",
-        "lgbt"
+        "magic"
       ],
-      "rating": 4.36,
-      "ratings": 1314,
-      "reviews": 78
+      "rating": 4.61,
+      "ratings": 1571,
+      "reviews": 24
     },
     {
-      "title": "The Falcon's Feather",
-      "url": "https://www.goodreads.com/book/show/40701489-the-falcon-s-feather",
-      "id": "63304083",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1536813892i/40701489.jpg",
+      "title": "Santa Calls",
+      "url": "https://www.goodreads.com/book/show/1027298.Santa_Calls",
+      "id": "2723569",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1355759888i/1027298.jpg",
       "authors": [
-        "Trudi Trueit"
+        "William Joyce"
       ],
       "genres": [
+        "christmas",
+        "picture-books",
+        "holiday",
+        "fantasy",
+        "childrens",
+        "adventure",
+        "family"
+      ],
+      "rating": 4.14,
+      "ratings": 1570,
+      "reviews": 158
+    },
+    {
+      "title": "Lock & Key",
+      "url": "https://www.goodreads.com/book/show/18176363-lock-key",
+      "id": "25548064",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1373402014i/18176363.jpg",
+      "authors": [
+        "Traci Hunter Abramson"
+      ],
+      "genres": [
+        "lds-fiction",
+        "romance",
+        "mystery",
+        "lds",
+        "suspense",
+        "fiction",
+        "adventure"
+      ],
+      "rating": 4.25,
+      "ratings": 1569,
+      "reviews": 138
+    },
+    {
+      "title": "The Zero Stone",
+      "url": "https://www.goodreads.com/book/show/1183868.The_Zero_Stone",
+      "id": "1171807",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1613338249i/1183868.jpg",
+      "authors": [
+        "Andre Norton"
+      ],
+      "genres": [
+        "science-fiction",
+        "fiction",
+        "fantasy",
+        "science-fiction-fantasy",
+        "space-opera",
+        "cats",
+        "adventure"
+      ],
+      "rating": 4,
+      "ratings": 1568,
+      "reviews": 110
+    },
+    {
+      "title": "Shadows of the Dark Crystal",
+      "url": "https://www.goodreads.com/book/show/27190371-shadows-of-the-dark-crystal",
+      "id": "47232361",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1457890180i/27190371.jpg",
+      "authors": [
+        "J.M.   Lee"
+      ],
+      "genres": [
+        "fantasy",
+        "young-adult",
+        "fiction",
+        "graphic-novels",
         "middle-grade",
         "adventure",
-        "fiction",
-        "mystery",
-        "fantasy",
-        "science-fiction",
-        "childrens"
+        "high-fantasy"
       ],
-      "rating": 4.41,
-      "ratings": 1314,
+      "rating": 4.12,
+      "ratings": 1568,
+      "reviews": 268
+    },
+    {
+      "title": "Los tres mosqueteros, 2",
+      "url": "https://www.goodreads.com/book/show/8437849-los-tres-mosqueteros-2",
+      "id": "25739473",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1276285265i/8437849.jpg",
+      "authors": [
+        "Alexandre Dumas"
+      ],
+      "genres": [
+        "classics",
+        "historical-fiction",
+        "adventure",
+        "france",
+        "fiction",
+        "novels",
+        "audiobook"
+      ],
+      "rating": 4.25,
+      "ratings": 1568,
+      "reviews": 114
+    },
+    {
+      "title": "Magic Tree House: #1-8 [Collection]",
+      "url": "https://www.goodreads.com/book/show/538348.Magic_Tree_House",
+      "id": "14125309",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388183322i/538348.jpg",
+      "authors": [
+        "Mary Pope Osborne"
+      ],
+      "genres": [
+        "fantasy",
+        "audiobook",
+        "childrens",
+        "fiction",
+        "adventure",
+        "historical-fiction",
+        "middle-grade"
+      ],
+      "rating": 4.08,
+      "ratings": 1568,
+      "reviews": 108
+    },
+    {
+      "title": "Life Lived Wild:  Adventures at the Edge of the Map",
+      "url": "https://www.goodreads.com/book/show/59351322-life-lived-wild",
+      "id": "93515395",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1634267730i/59351322.jpg",
+      "authors": [
+        "Rick Ridgeway"
+      ],
+      "genres": [
+        "adventure",
+        "non-fiction",
+        "travel",
+        "memoir",
+        "biography",
+        "audiobook",
+        "climbing"
+      ],
+      "rating": 4.53,
+      "ratings": 1567,
+      "reviews": 170
+    },
+    {
+      "title": "Night Market",
+      "url": "https://www.goodreads.com/book/show/62069124-night-market",
+      "id": "97844674",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1661325773i/62069124.jpg",
+      "authors": [
+        "B.R. Kingsolver"
+      ],
+      "genres": [
+        "fantasy",
+        "paranormal",
+        "urban-fantasy",
+        "magic",
+        "audiobook",
+        "adventure",
+        "adult"
+      ],
+      "rating": 4.35,
+      "ratings": 1566,
+      "reviews": 54
+    },
+    {
+      "title": "House of War",
+      "url": "https://www.goodreads.com/book/show/44789197-house-of-war",
+      "id": "69872172",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1559855891i/44789197.jpg",
+      "authors": [
+        "Scott Mariani"
+      ],
+      "genres": [
+        "thriller",
+        "adventure",
+        "fiction",
+        "action",
+        "military-fiction",
+        "mystery-thriller",
+        "historical-fiction"
+      ],
+      "rating": 4.27,
+      "ratings": 1566,
       "reviews": 104
     },
     {
+      "title": "The Shadow Casket",
+      "url": "https://www.goodreads.com/book/show/59781038-the-shadow-casket",
+      "id": "94159472",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1668865201i/59781038.jpg",
+      "authors": [
+        "Chris Wooding"
+      ],
+      "genres": [
+        "fantasy",
+        "epic-fantasy",
+        "fiction",
+        "high-fantasy",
+        "audiobook",
+        "adventure",
+        "magic"
+      ],
+      "rating": 4.21,
+      "ratings": 1565,
+      "reviews": 197
+    },
+    {
+      "title": "Bewildered",
+      "url": "https://www.goodreads.com/book/show/44658540-bewildered",
+      "id": "69302799",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1567932160i/44658540.jpg",
+      "authors": [
+        "Laura  Waters"
+      ],
+      "genres": [
+        "non-fiction",
+        "travel",
+        "adventure",
+        "memoir",
+        "biography",
+        "walking",
+        "nature"
+      ],
+      "rating": 4.29,
+      "ratings": 1565,
+      "reviews": 168
+    },
+    {
+      "title": "Super Rabbit Boy Powers Up!",
+      "url": "https://www.goodreads.com/book/show/34034991-super-rabbit-boy-powers-up",
+      "id": "55036150",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1485588260i/34034991.jpg",
+      "authors": [
+        "Thomas Flintham"
+      ],
+      "genres": [
+        "childrens",
+        "chapter-books",
+        "graphic-novels",
+        "fiction",
+        "fantasy",
+        "adventure",
+        "animals"
+      ],
+      "rating": 4.47,
+      "ratings": 1565,
+      "reviews": 70
+    },
+    {
+      "title": "Dragonslayer",
+      "url": "https://www.goodreads.com/book/show/157346360-dragonslayer",
+      "id": "170481650",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1684444809i/157346360.jpg",
+      "authors": [
+        "Craig Alanson"
+      ],
+      "genres": [
+        "fantasy",
+        "audiobook",
+        "urban-fantasy",
+        "magic",
+        "adventure",
+        "science-fiction",
+        "fiction"
+      ],
+      "rating": 4.27,
+      "ratings": 1564,
+      "reviews": 84
+    },
+    {
+      "title": "With All Despatch",
+      "url": "https://www.goodreads.com/book/show/1043314.With_All_Despatch",
+      "id": "325762",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1392664814i/1043314.jpg",
+      "authors": [
+        "Alexander Kent"
+      ],
+      "genres": [
+        "historical-fiction",
+        "fiction",
+        "historical",
+        "nautical",
+        "adventure",
+        "war",
+        "military-fiction"
+      ],
+      "rating": 4.15,
+      "ratings": 1564,
+      "reviews": 38
+    },
+    {
+      "title": "The Lost Pony of Riverdale",
+      "url": "https://www.goodreads.com/book/show/19370875-the-lost-pony-of-riverdale",
+      "id": "27437129",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386744370i/19370875.jpg",
+      "authors": [
+        "Amanda Wills"
+      ],
+      "genres": [
+        "horses",
+        "young-adult",
+        "middle-grade",
+        "animals",
+        "childrens",
+        "fiction",
+        "adventure"
+      ],
+      "rating": 4.29,
+      "ratings": 1563,
+      "reviews": 74
+    },
+    {
+      "title": "The Cassidy Project",
+      "url": "https://www.goodreads.com/book/show/32757601-the-cassidy-project",
+      "id": "53348268",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1477403717i/32757601.jpg",
+      "authors": [
+        "Christopher Cartwright"
+      ],
+      "genres": [
+        "adventure",
+        "fiction",
+        "action",
+        "mystery",
+        "thriller",
+        "audiobook",
+        "amazon"
+      ],
+      "rating": 4.34,
+      "ratings": 1563,
+      "reviews": 92
+    },
+    {
       "title": "Kowalski's in Love",
-      "url": "https://www.goodreads.com/book/show/36423877-kowalski-s-in-love",
+      "url": "https://www.goodreads.com/book/show/48578046-kowalski-s-in-love",
       "id": "58122108",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1508175760i/36423877.jpg",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1572021821i/48578046.jpg",
       "authors": [
         "James Rollins"
       ],
@@ -73,419 +429,77 @@
         "thriller",
         "fiction",
         "adventure",
-        "action",
         "short-stories",
-        "mystery-thriller",
-        "science-fiction"
-      ],
-      "rating": 4.02,
-      "ratings": 1312,
-      "reviews": 79
-    },
-    {
-      "title": "Graystripe's Vow",
-      "url": "https://www.goodreads.com/book/show/52213907-graystripe-s-vow",
-      "id": "73009929",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1585632044i/52213907.jpg",
-      "authors": [
-        "Erin Hunter"
-      ],
-      "genres": [
-        "fantasy",
-        "animals",
-        "fiction",
-        "middle-grade",
-        "young-adult",
-        "adventure",
-        "childrens"
-      ],
-      "rating": 4.38,
-      "ratings": 1311,
-      "reviews": 122
-    },
-    {
-      "title": "Thunderplump",
-      "url": "https://www.goodreads.com/book/show/197878940-thunderplump",
-      "id": "200599718",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1693696990i/197878940.jpg",
-      "authors": [
-        "Dakota Krout"
-      ],
-      "genres": [
-        "fantasy",
-        "magic",
-        "audiobook",
-        "adventure",
-        "fiction"
-      ],
-      "rating": 4.52,
-      "ratings": 1311,
-      "reviews": 38
-    },
-    {
-      "title": "Not Without Peril: 150 Years of Misadventure on the Presidential Range of New Hampshire",
-      "url": "https://www.goodreads.com/book/show/279163.Not_Without_Peril",
-      "id": "270771",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1389613967i/279163.jpg",
-      "authors": [
-        "Nicholas Howe"
-      ],
-      "genres": [
-        "non-fiction",
-        "history",
-        "outdoors",
-        "nature",
-        "adventure",
-        "travel",
-        "mountaineering"
-      ],
-      "rating": 4.11,
-      "ratings": 1311,
-      "reviews": 146
-    },
-    {
-      "title": "Realm of the Blue Mist",
-      "url": "https://www.goodreads.com/book/show/31394647-realm-of-the-blue-mist",
-      "id": "52087749",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1640090942i/31394647.jpg",
-      "authors": [
-        "Amy Kim Kibuishi"
-      ],
-      "genres": [
-        "graphic-novels",
-        "fantasy",
-        "middle-grade",
-        "comics",
-        "adventure",
-        "young-adult",
-        "fiction"
-      ],
-      "rating": 4.05,
-      "ratings": 1311,
-      "reviews": 207
-    },
-    {
-      "title": "The Dirdir",
-      "url": "https://www.goodreads.com/book/show/634471.The_Dirdir",
-      "id": "456506",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1176547168i/634471.jpg",
-      "authors": [
-        "Jack Vance"
-      ],
-      "genres": [
-        "science-fiction",
-        "fantasy",
-        "fiction",
-        "sword-and-planet",
-        "space-opera",
-        "adventure",
-        "speculative-fiction"
-      ],
-      "rating": 4.06,
-      "ratings": 1311,
-      "reviews": 85
-    },
-    {
-      "title": "Graceless",
-      "url": "https://www.goodreads.com/book/show/58851436-graceless",
-      "id": "92702094",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1629865908i/58851436.jpg",
-      "authors": [
-        "Wayne Stinnett"
-      ],
-      "genres": [
-        "mystery",
-        "adventure",
-        "suspense",
-        "action"
-      ],
-      "rating": 4.57,
-      "ratings": 1310,
-      "reviews": 84
-    },
-    {
-      "title": "The Next Everest",
-      "url": "https://www.goodreads.com/book/show/53137969-the-next-everest",
-      "id": "79888446",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1612200458i/53137969.jpg",
-      "authors": [
-        "Jim Davidson"
-      ],
-      "genres": [
-        "non-fiction",
-        "memoir",
-        "mountaineering",
-        "adventure",
-        "sports",
-        "history",
-        "audiobook"
-      ],
-      "rating": 4.1,
-      "ratings": 1309,
-      "reviews": 222
-    },
-    {
-      "title": "Fallout",
-      "url": "https://www.goodreads.com/book/show/40771143-fallout",
-      "id": "63458960",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1531186377i/40771143.jpg",
-      "authors": [
-        "Bruno Miller"
-      ],
-      "genres": [
-        "fiction",
-        "apocalyptic",
-        "science-fiction",
-        "survival",
-        "post-apocalyptic",
-        "dystopia",
-        "adventure"
-      ],
-      "rating": 4.38,
-      "ratings": 1308,
-      "reviews": 63
-    },
-    {
-      "title": "Kidnapping Phoenixes and Other Ways to Die - The Complete Series: An Urban Fantasy Action Adventure",
-      "url": "https://www.goodreads.com/book/show/59576289-kidnapping-phoenixes-and-other-ways-to-die---the-complete-series",
-      "id": "93827551",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1636448973i/59576289.jpg",
-      "authors": [
-        "Ramy Vance"
-      ],
-      "genres": [
-        "fantasy",
-        "adventure",
-        "urban-fantasy",
-        "action"
-      ],
-      "rating": 4.62,
-      "ratings": 1308,
-      "reviews": 126
-    },
-    {
-      "title": "The Iron Rose",
-      "url": "https://www.goodreads.com/book/show/891792.The_Iron_Rose",
-      "id": "877032",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388365865i/891792.jpg",
-      "authors": [
-        "Marsha Canham"
-      ],
-      "genres": [
-        "historical-romance",
-        "romance",
-        "pirates",
-        "historical",
-        "historical-fiction",
-        "adventure",
-        "m-f-romance"
-      ],
-      "rating": 4.17,
-      "ratings": 1307,
-      "reviews": 87
-    },
-    {
-      "title": "The Loch Ness Legacy",
-      "url": "https://www.goodreads.com/book/show/17928045-the-loch-ness-legacy",
-      "id": "25128226",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1368682783i/17928045.jpg",
-      "authors": [
-        "Boyd Morrison"
-      ],
-      "genres": [
-        "thriller",
-        "adventure",
-        "mystery",
-        "fiction",
         "action",
-        "suspense",
+        "mystery",
         "mystery-thriller"
       ],
-      "rating": 4.01,
-      "ratings": 1307,
-      "reviews": 100
+      "rating": 4.03,
+      "ratings": 1563,
+      "reviews": 93
     },
     {
-      "title": "The Ship of Secrets (Geronimo Stilton and the Kingdom of Fantasy #10)",
-      "url": "https://www.goodreads.com/book/show/33159371-the-ship-of-secrets",
-      "id": "53852101",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1501333663i/33159371.jpg",
+      "title": "The Wild Muir: Twenty-Two of John Muir's Greatest Adventures",
+      "url": "https://www.goodreads.com/book/show/238712.The_Wild_Muir",
+      "id": "231236",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328044622i/238712.jpg",
       "authors": [
-        "Geronimo Stilton"
-      ],
-      "genres": [
-        "fantasy",
-        "middle-grade",
-        "childrens",
-        "animals",
-        "adventure"
-      ],
-      "rating": 4.47,
-      "ratings": 1307,
-      "reviews": 43
-    },
-    {
-      "title": "This Plot is Bananas!",
-      "url": "https://www.goodreads.com/book/show/59811830-this-plot-is-bananas",
-      "id": "94206233",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1639364342i/59811830.jpg",
-      "authors": [
-        "J.P.  Valentine"
-      ],
-      "genres": [
-        "fantasy",
-        "humor",
-        "magic",
-        "adventure",
-        "comedy"
-      ],
-      "rating": 4.52,
-      "ratings": 1306,
-      "reviews": 59
-    },
-    {
-      "title": "Healer of the Water Monster",
-      "url": "https://www.goodreads.com/book/show/56638626-healer-of-the-water-monster",
-      "id": "81165872",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1610408505i/56638626.jpg",
-      "authors": [
-        "Brian Young"
-      ],
-      "genres": [
-        "middle-grade",
-        "fantasy",
-        "mythology",
-        "fiction",
-        "magical-realism",
-        "adventure",
-        "childrens"
-      ],
-      "rating": 4.25,
-      "ratings": 1305,
-      "reviews": 270
-    },
-    {
-      "title": "Alone Yet Not Alone: The Story of Barbara and Regina Leininger",
-      "url": "https://www.goodreads.com/book/show/912147.Alone_Yet_Not_Alone",
-      "id": "897249",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1316636403i/912147.jpg",
-      "authors": [
-        "Tracy Michele Leininger"
-      ],
-      "genres": [
-        "historical-fiction",
-        "christian-fiction",
-        "christian",
-        "fiction",
-        "historical",
-        "childrens",
-        "adventure"
-      ],
-      "rating": 4.12,
-      "ratings": 1305,
-      "reviews": 183
-    },
-    {
-      "title": "Starting Over",
-      "url": "https://www.goodreads.com/book/show/38191363-starting-over",
-      "id": "59856586",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1516784667i/38191363.jpg",
-      "authors": [
-        "Lucky Old Cat"
-      ],
-      "genres": [
-        "fantasy",
-        "light-novel",
-        "dragons",
-        "adventure",
-        "games",
-        "novels",
-        "action"
-      ],
-      "rating": 4.28,
-      "ratings": 1304,
-      "reviews": 65
-    },
-    {
-      "title": "2022 on Goodreads",
-      "url": "https://www.goodreads.com/book/show/58628750-2022-on-goodreads",
-      "id": "92210339",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1629538922i/58628750.jpg",
-      "authors": [
-        "Various"
+        "John Muir"
       ],
       "genres": [
         "non-fiction",
+        "nature",
+        "travel",
+        "biography",
         "adventure",
-        "books-about-books",
-        "literature"
-      ],
-      "rating": 4.08,
-      "ratings": 1304,
-      "reviews": 2164
-    },
-    {
-      "title": "Dawn of the Arcana, Vol. 12",
-      "url": "https://www.goodreads.com/book/show/18144175-dawn-of-the-arcana-vol-12",
-      "id": "25491511",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1523109399i/18144175.jpg",
-      "authors": [
-        "Rei Tōma"
-      ],
-      "genres": [
-        "manga",
-        "fantasy",
-        "romance",
-        "shojo",
-        "young-adult",
-        "graphic-novels",
-        "adventure"
-      ],
-      "rating": 4.2,
-      "ratings": 1302,
-      "reviews": 64
-    },
-    {
-      "title": "Hideout",
-      "url": "https://www.goodreads.com/book/show/29102929-hideout",
-      "id": "49340953",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1482931987i/29102929.jpg",
-      "authors": [
-        "Watt Key"
-      ],
-      "genres": [
-        "adventure",
-        "middle-grade",
-        "realistic-fiction",
-        "mystery",
-        "young-adult",
-        "survival",
-        "fiction"
+        "environment",
+        "memoir"
       ],
       "rating": 4.12,
-      "ratings": 1301,
-      "reviews": 214
+      "ratings": 1561,
+      "reviews": 170
     },
     {
-      "title": "Yce",
-      "url": "https://www.goodreads.com/book/show/50698087-yce",
-      "id": "75725102",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1580177135i/50698087.jpg",
+      "title": "Where the Falcon Flies: A 3,400 Kilometre Odyssey From My Doorstep to the Arctic",
+      "url": "https://www.goodreads.com/book/show/75666350-where-the-falcon-flies",
+      "id": "101034030",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1685352599i/75666350.jpg",
       "authors": [
-        "A.G. Wilde"
+        "Adam Shoalts"
       ],
       "genres": [
-        "aliens",
-        "romance",
-        "science-fiction",
-        "science-fiction-romance",
-        "fantasy",
+        "non-fiction",
+        "nature",
+        "audiobook",
         "adventure",
+        "travel",
+        "canada",
+        "memoir"
+      ],
+      "rating": 4.26,
+      "ratings": 1561,
+      "reviews": 203
+    },
+    {
+      "title": "Kitty Hawk",
+      "url": "https://www.goodreads.com/book/show/12364060-kitty-hawk",
+      "id": "17344182",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1350783663i/12364060.jpg",
+      "authors": [
+        "Roland Smith"
+      ],
+      "genres": [
+        "young-adult",
+        "adventure",
+        "mystery",
+        "middle-grade",
+        "espionage",
+        "fiction",
         "action"
       ],
-      "rating": 4.08,
-      "ratings": 1301,
-      "reviews": 120
+      "rating": 4.25,
+      "ratings": 1561,
+      "reviews": 112
     }
   ]
 }

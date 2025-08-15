@@ -1,24 +1,25 @@
 {
   "books": [
     {
-      "title": "Ya te dije adiós, ahora cómo te olvido: Una guía para sacarse al ex de la cabeza y el corazón (Biblioteca Walter Riso)",
-      "url": "https://www.goodreads.com/book/show/35277434-ya-te-dije-adi-s-ahora-c-mo-te-olvido",
-      "id": "56638038",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1496289772i/35277434.jpg",
+      "title": "Why Love Matters: How Affection Shapes a Baby's Brain",
+      "url": "https://www.goodreads.com/book/show/875395.Why_Love_Matters",
+      "id": "860738",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348802849i/875395.jpg",
       "authors": [
-        "Walter Riso"
+        "Sue Gerhardt"
       ],
       "genres": [
-        "self-help",
-        "relationships",
-        "non-fiction",
-        "romance",
+        "parenting",
         "psychology",
-        "love"
+        "non-fiction",
+        "science",
+        "neuroscience",
+        "relationships",
+        "counselling"
       ],
-      "rating": 4.12,
-      "ratings": 1671,
-      "reviews": 181
+      "rating": 4.35,
+      "ratings": 1996,
+      "reviews": 153
     },
     {
       "title": "The Good Girl's Guide to Great Sex: Creating a Marriage That's Both Holy and Hot",
@@ -33,34 +34,13 @@
         "non-fiction",
         "christian",
         "relationships",
+        "audiobook",
         "sexuality",
-        "self-help",
-        "faith"
+        "self-help"
       ],
-      "rating": 4.18,
-      "ratings": 1666,
-      "reviews": 311
-    },
-    {
-      "title": "Attachment in Psychotherapy",
-      "url": "https://www.goodreads.com/book/show/224832.Attachment_in_Psychotherapy",
-      "id": "217750",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388263090i/224832.jpg",
-      "authors": [
-        "David J. Wallin"
-      ],
-      "genres": [
-        "psychology",
-        "non-fiction",
-        "mental-health",
-        "counselling",
-        "self-help",
-        "social-work",
-        "relationships"
-      ],
-      "rating": 4.36,
-      "ratings": 1665,
-      "reviews": 96
+      "rating": 4.2,
+      "ratings": 1993,
+      "reviews": 359
     },
     {
       "title": "How to Be Single and Happy: Science-Based Strategies for Keeping Your Sanity While Looking for a Soul Mate",
@@ -73,36 +53,330 @@
       "genres": [
         "non-fiction",
         "self-help",
-        "psychology",
         "relationships",
+        "psychology",
         "personal-development",
         "mental-health",
-        "adult"
+        "audiobook"
       ],
-      "rating": 4.22,
-      "ratings": 1652,
-      "reviews": 220
+      "rating": 4.2,
+      "ratings": 1980,
+      "reviews": 249
     },
     {
-      "title": "Becoming the One: Heal Your Past, Transform Your Relationship Patterns, and Come Home to Yourself",
-      "url": "https://www.goodreads.com/book/show/57941553-becoming-the-one",
-      "id": "90784610",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1638162742i/57941553.jpg",
+      "title": "How to Survive the Loss of a Love",
+      "url": "https://www.goodreads.com/book/show/223799.How_to_Survive_the_Loss_of_a_Love",
+      "id": "3801311",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347342293i/223799.jpg",
       "authors": [
-        "Sheleana Aiyana"
+        "Peter McWilliams"
+      ],
+      "genres": [
+        "non-fiction",
+        "self-help",
+        "psychology",
+        "grief",
+        "relationships",
+        "poetry",
+        "personal-development"
+      ],
+      "rating": 4.3,
+      "ratings": 1960,
+      "reviews": 230
+    },
+    {
+      "title": "Behind Closed Doors",
+      "url": "https://www.goodreads.com/book/show/191549.Behind_Closed_Doors",
+      "id": "185195",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1427054326i/191549.jpg",
+      "authors": [
+        "Kimberla Lawson Roby"
+      ],
+      "genres": [
+        "fiction",
+        "african-american",
+        "romance",
+        "audiobook",
+        "adult-fiction",
+        "chick-lit",
+        "relationships"
+      ],
+      "rating": 4.11,
+      "ratings": 1959,
+      "reviews": 117
+    },
+    {
+      "title": "Getting Past Your Breakup: How to Turn a Devastating Loss into the Best Thing That Ever Happened to You",
+      "url": "https://www.goodreads.com/book/show/4811949-getting-past-your-breakup",
+      "id": "4877073",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1403822172i/4811949.jpg",
+      "authors": [
+        "Susan J. Elliott"
+      ],
+      "genres": [
+        "self-help",
+        "relationships",
+        "non-fiction",
+        "psychology",
+        "personal-development",
+        "divorce",
+        "mental-health"
+      ],
+      "rating": 4.19,
+      "ratings": 1938,
+      "reviews": 164
+    },
+    {
+      "title": "Bones Would Rain from the Sky: Deepening Our Relationships with Dogs",
+      "url": "https://www.goodreads.com/book/show/317863.Bones_Would_Rain_from_the_Sky",
+      "id": "308656",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1433080798i/317863.jpg",
+      "authors": [
+        "Suzanne Clothier"
+      ],
+      "genres": [
+        "dogs",
+        "non-fiction",
+        "animals",
+        "nature",
+        "audiobook",
+        "health",
+        "relationships"
+      ],
+      "rating": 4.26,
+      "ratings": 1935,
+      "reviews": 163
+    },
+    {
+      "title": "Praying for Your Future Husband: Preparing Your Heart for His",
+      "url": "https://www.goodreads.com/book/show/10401427-praying-for-your-future-husband",
+      "id": "42490556",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320563139i/10401427.jpg",
+      "authors": [
+        "Robin Jones Gunn"
+      ],
+      "genres": [
+        "christian",
+        "non-fiction",
+        "relationships",
+        "christian-non-fiction",
+        "prayer",
+        "faith",
+        "christianity"
+      ],
+      "rating": 4.37,
+      "ratings": 1920,
+      "reviews": 168
+    },
+    {
+      "title": "People Skills: How to Assert Yourself, Listen to Others, and Resolve Conflicts",
+      "url": "https://www.goodreads.com/book/show/65327.People_Skills",
+      "id": "63377",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1441395147i/65327.jpg",
+      "authors": [
+        "Robert   Bolton"
+      ],
+      "genres": [
+        "communication",
+        "self-help",
+        "psychology",
+        "non-fiction",
+        "business",
+        "leadership",
+        "relationships"
+      ],
+      "rating": 4.01,
+      "ratings": 1900,
+      "reviews": 146
+    },
+    {
+      "title": "I Want This to Work: An Inclusive Guide to Navigating the Most Difficult Relationship Issues We Face in the Modern Age",
+      "url": "https://www.goodreads.com/book/show/56614588-i-want-this-to-work",
+      "id": "88455587",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1638160426i/56614588.jpg",
+      "authors": [
+        "Elizabeth  Earnshaw"
+      ],
+      "genres": [
+        "relationships",
+        "non-fiction",
+        "self-help",
+        "psychology",
+        "love",
+        "personal-development",
+        "romance"
+      ],
+      "rating": 4.15,
+      "ratings": 1896,
+      "reviews": 50
+    },
+    {
+      "title": "When to Walk Away: Finding Freedom from Toxic People",
+      "url": "https://www.goodreads.com/book/show/44441845-when-to-walk-away",
+      "id": "69016198",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1566660593i/44441845.jpg",
+      "authors": [
+        "Gary L. Thomas"
       ],
       "genres": [
         "self-help",
         "non-fiction",
-        "spirituality",
+        "christian",
+        "relationships",
+        "christian-living",
+        "faith",
+        "christian-non-fiction"
+      ],
+      "rating": 4.48,
+      "ratings": 1871,
+      "reviews": 310
+    },
+    {
+      "title": "Why Love Hurts: A Sociological Explanation",
+      "url": "https://www.goodreads.com/book/show/13763042-why-love-hurts",
+      "id": "18446748",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1375676726i/13763042.jpg",
+      "authors": [
+        "Eva Illouz"
+      ],
+      "genres": [
+        "non-fiction",
+        "sociology",
+        "psychology",
+        "feminism",
+        "relationships",
+        "love",
+        "philosophy"
+      ],
+      "rating": 4,
+      "ratings": 1865,
+      "reviews": 228
+    },
+    {
+      "title": "Block, Delete, Move On: It's not you, it's them",
+      "url": "https://www.goodreads.com/book/show/58006746-block-delete-move-on",
+      "id": "90897460",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1645574520i/58006746.jpg",
+      "authors": [
+        "Lalalaletmeexplain"
+      ],
+      "genres": [
+        "non-fiction",
+        "feminism",
+        "self-help",
+        "psychology",
+        "mental-health",
+        "relationships",
+        "adult"
+      ],
+      "rating": 4.27,
+      "ratings": 1849,
+      "reviews": 172
+    },
+    {
+      "title": "The Wizard of Oz and Other Narcissists: Coping with the One-Way Relationship in Work, Love, and Family",
+      "url": "https://www.goodreads.com/book/show/116590.The_Wizard_of_Oz_and_Other_Narcissists",
+      "id": "112274",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1387720534i/116590.jpg",
+      "authors": [
+        "Eleanor D. Payson"
+      ],
+      "genres": [
+        "psychology",
+        "non-fiction",
+        "self-help",
+        "mental-health",
+        "relationships",
+        "personal-development",
+        "audiobook"
+      ],
+      "rating": 4.16,
+      "ratings": 1848,
+      "reviews": 180
+    },
+    {
+      "title": "Intimate Issues: 21 Questions Christian Women Ask about Sex",
+      "url": "https://www.goodreads.com/book/show/247384.Intimate_Issues",
+      "id": "239182",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1400720049i/247384.jpg",
+      "authors": [
+        "Linda Dillow"
+      ],
+      "genres": [
+        "marriage",
+        "christian",
+        "non-fiction",
+        "relationships",
+        "womens",
+        "christian-living",
+        "sexuality"
+      ],
+      "rating": 4.19,
+      "ratings": 1843,
+      "reviews": 67
+    },
+    {
+      "title": "Friend-ish: Reclaiming Real Friendship in a Culture of Confusion",
+      "url": "https://www.goodreads.com/book/show/42772148-friend-ish",
+      "id": "66525796",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1550608428i/42772148.jpg",
+      "authors": [
+        "Kelly Needham"
+      ],
+      "genres": [
+        "christian",
+        "christian-living",
+        "non-fiction",
+        "relationships",
+        "friendship",
+        "self-help",
+        "christianity"
+      ],
+      "rating": 4.24,
+      "ratings": 1839,
+      "reviews": 345
+    },
+    {
+      "title": "How to Avoid Falling in Love with a Jerk",
+      "url": "https://www.goodreads.com/book/show/3130792-how-to-avoid-falling-in-love-with-a-jerk",
+      "id": "3162200",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348840404i/3130792.jpg",
+      "authors": [
+        "John Van Epp"
+      ],
+      "genres": [
+        "non-fiction",
+        "self-help",
         "relationships",
         "psychology",
-        "personal-development",
-        "mental-health"
+        "marriage",
+        "audiobook",
+        "christian"
       ],
-      "rating": 4.36,
-      "ratings": 1649,
-      "reviews": 101
+      "rating": 4.16,
+      "ratings": 1812,
+      "reviews": 302
+    },
+    {
+      "title": "Wired for Love: A Neuroscientist's Journey Through Romance, Loss, and the Essence of Human Connection",
+      "url": "https://www.goodreads.com/book/show/57693656-wired-for-love",
+      "id": "90371795",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1620716658i/57693656.jpg",
+      "authors": [
+        "Stephanie Cacioppo"
+      ],
+      "genres": [
+        "non-fiction",
+        "science",
+        "psychology",
+        "memoir",
+        "neuroscience",
+        "relationships",
+        "love"
+      ],
+      "rating": 4.04,
+      "ratings": 1775,
+      "reviews": 278
     },
     {
       "title": "Sacred Parenting: How Raising Children Shapes Our Souls",
@@ -122,238 +396,8 @@
         "relationships"
       ],
       "rating": 4.29,
-      "ratings": 1643,
-      "reviews": 169
-    },
-    {
-      "title": "Relationships 101",
-      "url": "https://www.goodreads.com/book/show/19843.Relationships_101",
-      "id": "21042",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1433035894i/19843.jpg",
-      "authors": [
-        "John C. Maxwell"
-      ],
-      "genres": [
-        "leadership",
-        "relationships",
-        "business",
-        "non-fiction",
-        "self-help",
-        "personal-development",
-        "psychology"
-      ],
-      "rating": 4.22,
-      "ratings": 1631,
-      "reviews": 113
-    },
-    {
-      "title": "Rose in a Storm",
-      "url": "https://www.goodreads.com/book/show/8138952-rose-in-a-storm",
-      "id": "12935369",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320434692i/8138952.jpg",
-      "authors": [
-        "Jon Katz"
-      ],
-      "genres": [
-        "animals",
-        "dogs",
-        "fiction",
-        "adventure",
-        "relationships",
-        "nature",
-        "action"
-      ],
-      "rating": 4.04,
-      "ratings": 1626,
-      "reviews": 280
-    },
-    {
-      "title": "Traveling Light",
-      "url": "https://www.goodreads.com/book/show/279979.Traveling_Light",
-      "id": "271577",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1173380655i/279979.jpg",
-      "authors": [
-        "Katrina Kittle"
-      ],
-      "genres": [
-        "fiction",
-        "contemporary",
-        "chick-lit",
-        "literary-fiction",
-        "young-adult",
-        "relationships",
-        "m-m-romance"
-      ],
-      "rating": 4.08,
-      "ratings": 1612,
-      "reviews": 180
-    },
-    {
-      "title": "Anxiously Attached: Becoming More Secure in Life and Love",
-      "url": "https://www.goodreads.com/book/show/59900665-anxiously-attached",
-      "id": "94317849",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1643669905i/59900665.jpg",
-      "authors": [
-        "Jessica Baum LMHC"
-      ],
-      "genres": [
-        "self-help",
-        "non-fiction",
-        "psychology",
-        "relationships",
-        "mental-health",
-        "audiobook",
-        "love"
-      ],
-      "rating": 4.14,
-      "ratings": 1603,
-      "reviews": 194
-    },
-    {
-      "title": "The Pink House",
-      "url": "https://www.goodreads.com/book/show/62879368-the-pink-house",
-      "id": "96555625",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1667831666i/62879368.jpg",
-      "authors": [
-        "Catherine Alliott"
-      ],
-      "genres": [
-        "romance",
-        "contemporary",
-        "fiction",
-        "audiobook",
-        "relationships",
-        "chick-lit"
-      ],
-      "rating": 4.16,
-      "ratings": 1577,
-      "reviews": 88
-    },
-    {
-      "title": "Block, Delete, Move On: It's not you, it's them",
-      "url": "https://www.goodreads.com/book/show/58006746-block-delete-move-on",
-      "id": "90897460",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1645574520i/58006746.jpg",
-      "authors": [
-        "Lalalaletmeexplain"
-      ],
-      "genres": [
-        "non-fiction",
-        "feminism",
-        "self-help",
-        "psychology",
-        "mental-health",
-        "relationships",
-        "audiobook"
-      ],
-      "rating": 4.33,
-      "ratings": 1552,
-      "reviews": 142
-    },
-    {
-      "title": "The 5 Love Languages Military Edition: The Secret to Love That Lasts",
-      "url": "https://www.goodreads.com/book/show/17318290-the-5-love-languages-military-edition",
-      "id": "83563182",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1360650967i/17318290.jpg",
-      "authors": [
-        "Gary Chapman"
-      ],
-      "genres": [
-        "non-fiction",
-        "self-help",
-        "military-fiction",
-        "relationships",
-        "marriage",
-        "love",
-        "christian"
-      ],
-      "rating": 4.34,
-      "ratings": 1538,
-      "reviews": 126
-    },
-    {
-      "title": "Friend-ish: Reclaiming Real Friendship in a Culture of Confusion",
-      "url": "https://www.goodreads.com/book/show/42772148-friend-ish",
-      "id": "66525796",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1550608428i/42772148.jpg",
-      "authors": [
-        "Kelly Needham"
-      ],
-      "genres": [
-        "christian",
-        "christian-living",
-        "non-fiction",
-        "relationships",
-        "self-help",
-        "religion",
-        "christian-non-fiction"
-      ],
-      "rating": 4.25,
-      "ratings": 1537,
-      "reviews": 297
-    },
-    {
-      "title": "Teachings on Love",
-      "url": "https://www.goodreads.com/book/show/263320.Teachings_on_Love",
-      "id": "348073",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328840151i/263320.jpg",
-      "authors": [
-        "Thich Nhat Hanh"
-      ],
-      "genres": [
-        "buddhism",
-        "spirituality",
-        "non-fiction",
-        "religion",
-        "love",
-        "relationships",
-        "philosophy"
-      ],
-      "rating": 4.37,
-      "ratings": 1535,
-      "reviews": 128
-    },
-    {
-      "title": "When to Walk Away: Finding Freedom from Toxic People",
-      "url": "https://www.goodreads.com/book/show/44441845-when-to-walk-away",
-      "id": "69016198",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1566660593i/44441845.jpg",
-      "authors": [
-        "Gary L. Thomas"
-      ],
-      "genres": [
-        "self-help",
-        "non-fiction",
-        "christian",
-        "christian-living",
-        "faith",
-        "relationships",
-        "christianity"
-      ],
-      "rating": 4.49,
-      "ratings": 1524,
-      "reviews": 270
-    },
-    {
-      "title": "Why Love Hurts: A Sociological Explanation",
-      "url": "https://www.goodreads.com/book/show/13763042-why-love-hurts",
-      "id": "18446748",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1375676726i/13763042.jpg",
-      "authors": [
-        "Eva Illouz"
-      ],
-      "genres": [
-        "non-fiction",
-        "sociology",
-        "psychology",
-        "feminism",
-        "love",
-        "relationships",
-        "philosophy"
-      ],
-      "rating": 4.01,
-      "ratings": 1509,
-      "reviews": 181
+      "ratings": 1765,
+      "reviews": 179
     },
     {
       "title": "Stop Caretaking the Borderline or Narcissist: How to End the Drama and Get on with Life",
@@ -369,75 +413,12 @@
         "non-fiction",
         "mental-health",
         "relationships",
-        "health",
-        "counselling"
-      ],
-      "rating": 4.36,
-      "ratings": 1501,
-      "reviews": 160
-    },
-    {
-      "title": "The Game of Desire: 5 Surprising Secrets to Dating with Dominance - and Getting What You Want",
-      "url": "https://www.goodreads.com/book/show/44171404-the-game-of-desire",
-      "id": "68706628",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1551507895i/44171404.jpg",
-      "authors": [
-        "Shannon Boodram"
-      ],
-      "genres": [
-        "non-fiction",
-        "self-help",
-        "relationships",
-        "sexuality",
-        "psychology",
         "audiobook",
-        "feminism"
+        "health"
       ],
-      "rating": 4,
-      "ratings": 1487,
-      "reviews": 162
-    },
-    {
-      "title": "Loving Each Other: The Challenge of Human Relationships",
-      "url": "https://www.goodreads.com/book/show/318429.Loving_Each_Other",
-      "id": "2587095",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320492702i/318429.jpg",
-      "authors": [
-        "Leo F. Buscaglia"
-      ],
-      "genres": [
-        "non-fiction",
-        "psychology",
-        "self-help",
-        "relationships",
-        "spirituality",
-        "love",
-        "inspirational"
-      ],
-      "rating": 4.09,
-      "ratings": 1484,
-      "reviews": 74
-    },
-    {
-      "title": "How to Avoid Falling in Love with a Jerk",
-      "url": "https://www.goodreads.com/book/show/3130792-how-to-avoid-falling-in-love-with-a-jerk",
-      "id": "3162200",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348840404i/3130792.jpg",
-      "authors": [
-        "John Van Epp"
-      ],
-      "genres": [
-        "non-fiction",
-        "self-help",
-        "relationships",
-        "psychology",
-        "marriage",
-        "christian",
-        "adult"
-      ],
-      "rating": 4.18,
-      "ratings": 1482,
-      "reviews": 239
+      "rating": 4.35,
+      "ratings": 1752,
+      "reviews": 190
     },
     {
       "title": "Vztahy a mýty: Párová terapie do kapsy",
@@ -457,50 +438,71 @@
         "audiobook"
       ],
       "rating": 4.27,
-      "ratings": 1464,
-      "reviews": 159
+      "ratings": 1742,
+      "reviews": 179
     },
     {
-      "title": "The Seven Levels of Intimacy: The Art of Loving and the Joy of Being Loved",
-      "url": "https://www.goodreads.com/book/show/96099.The_Seven_Levels_of_Intimacy",
-      "id": "92621",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442924885i/96099.jpg",
+      "title": "Connect: Building Exceptional Relationships with Family, Friends, and Colleagues",
+      "url": "https://www.goodreads.com/book/show/53720447-connect",
+      "id": "84042320",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1598245550i/53720447.jpg",
       "authors": [
-        "Matthew Kelly"
+        "David L. Bradford"
       ],
       "genres": [
+        "non-fiction",
+        "psychology",
+        "communication",
+        "relationships",
+        "business",
+        "self-help",
+        "personal-development"
+      ],
+      "rating": 4.08,
+      "ratings": 1732,
+      "reviews": 211
+    },
+    {
+      "title": "Radical Intimacy",
+      "url": "https://www.goodreads.com/book/show/61389623-radical-intimacy",
+      "id": "96847468",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1657045211i/61389623.jpg",
+      "authors": [
+        "Sophie K. Rosa"
+      ],
+      "genres": [
+        "non-fiction",
+        "feminism",
+        "politics",
+        "queer",
+        "relationships",
+        "audiobook",
+        "sociology"
+      ],
+      "rating": 4.16,
+      "ratings": 1725,
+      "reviews": 258
+    },
+    {
+      "title": "Relationships 101",
+      "url": "https://www.goodreads.com/book/show/19843.Relationships_101",
+      "id": "21042",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1433035894i/19843.jpg",
+      "authors": [
+        "John C. Maxwell"
+      ],
+      "genres": [
+        "leadership",
+        "business",
         "relationships",
         "non-fiction",
         "self-help",
-        "psychology",
-        "spirituality",
-        "marriage",
-        "catholic"
-      ],
-      "rating": 4.12,
-      "ratings": 1453,
-      "reviews": 153
-    },
-    {
-      "title": "The Journey from Abandonment to Healing: Turn the End of a Relationship into the Beginning of a New Life",
-      "url": "https://www.goodreads.com/book/show/77805.The_Journey_from_Abandonment_to_Healing",
-      "id": "75137",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388195128i/77805.jpg",
-      "authors": [
-        "Susan Anderson"
-      ],
-      "genres": [
-        "self-help",
-        "psychology",
-        "non-fiction",
-        "relationships",
-        "mental-health",
         "personal-development",
-        "health"
+        "christian"
       ],
       "rating": 4.22,
-      "ratings": 1442,
-      "reviews": 135
+      "ratings": 1724,
+      "reviews": 121
     }
   ]
 }

@@ -1,73 +1,388 @@
 {
   "books": [
     {
-      "title": "The Napping House",
-      "url": "https://www.goodreads.com/book/show/815234.The_Napping_House",
-      "id": "359311",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1410229873i/815234.jpg",
+      "title": "The Masterpiece",
+      "url": "https://www.goodreads.com/book/show/35605477-the-masterpiece",
+      "id": "57043085",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1499271799i/35605477.jpg",
       "authors": [
-        "Audrey Wood"
+        "Francine  Rivers"
+      ],
+      "genres": [
+        "christian-fiction",
+        "christian",
+        "fiction",
+        "romance",
+        "contemporary",
+        "book-club",
+        "christian-romance"
+      ],
+      "rating": 4.3,
+      "ratings": 54064,
+      "reviews": 4298
+    },
+    {
+      "title": "Those Girls",
+      "url": "https://www.goodreads.com/book/show/23014603-those-girls",
+      "id": "42580742",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1462090625i/23014603.jpg",
+      "authors": [
+        "Chevy Stevens"
+      ],
+      "genres": [
+        "thriller",
+        "fiction",
+        "mystery",
+        "mystery-thriller",
+        "audiobook",
+        "suspense",
+        "crime"
+      ],
+      "rating": 4.01,
+      "ratings": 54020,
+      "reviews": 4904
+    },
+    {
+      "title": "Heir of Novron",
+      "url": "https://www.goodreads.com/book/show/44777327-heir-of-novron",
+      "id": "16022532",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1707559940i/44777327.jpg",
+      "authors": [
+        "Michael J. Sullivan"
+      ],
+      "genres": [
+        "fantasy",
+        "audiobook",
+        "fiction",
+        "epic-fantasy",
+        "adventure",
+        "high-fantasy",
+        "magic"
+      ],
+      "rating": 4.51,
+      "ratings": 54011,
+      "reviews": 3224
+    },
+    {
+      "title": "The Opportunist",
+      "url": "https://www.goodreads.com/book/show/13312527-the-opportunist",
+      "id": "18518411",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1688393720i/13312527.jpg",
+      "authors": [
+        "Tarryn Fisher"
+      ],
+      "genres": [
+        "romance",
+        "new-adult",
+        "contemporary",
+        "contemporary-romance",
+        "adult",
+        "drama",
+        "fiction"
+      ],
+      "rating": 4.18,
+      "ratings": 54006,
+      "reviews": 6477
+    },
+    {
+      "title": "The Naturalist",
+      "url": "https://www.goodreads.com/book/show/34330645-the-naturalist",
+      "id": "55396490",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1487381119i/34330645.jpg",
+      "authors": [
+        "Andrew Mayne"
+      ],
+      "genres": [
+        "mystery",
+        "thriller",
+        "fiction",
+        "crime",
+        "mystery-thriller",
+        "audiobook",
+        "suspense"
+      ],
+      "rating": 4.08,
+      "ratings": 53977,
+      "reviews": 3582
+    },
+    {
+      "title": "A Minute to Midnight",
+      "url": "https://www.goodreads.com/book/show/44422464-a-minute-to-midnight",
+      "id": "68804946",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1565138579i/44422464.jpg",
+      "authors": [
+        "David Baldacci"
+      ],
+      "genres": [
+        "mystery",
+        "fiction",
+        "thriller",
+        "audiobook",
+        "crime",
+        "suspense",
+        "mystery-thriller"
+      ],
+      "rating": 4.22,
+      "ratings": 53969,
+      "reviews": 3352
+    },
+    {
+      "title": "The Winner",
+      "url": "https://www.goodreads.com/book/show/113138.The_Winner",
+      "id": "1369417",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347754561i/113138.jpg",
+      "authors": [
+        "David Baldacci"
+      ],
+      "genres": [
+        "fiction",
+        "thriller",
+        "mystery",
+        "suspense",
+        "crime",
+        "mystery-thriller",
+        "book-club"
+      ],
+      "rating": 4.14,
+      "ratings": 53883,
+      "reviews": 2320
+    },
+    {
+      "title": "Dragons of Winter Night",
+      "url": "https://www.goodreads.com/book/show/23454.Dragons_of_Winter_Night",
+      "id": "1068574",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348585266i/23454.jpg",
+      "authors": [
+        "Margaret Weis"
+      ],
+      "genres": [
+        "fantasy",
+        "dragonlance",
+        "fiction",
+        "dragons",
+        "high-fantasy",
+        "epic-fantasy",
+        "science-fiction-fantasy"
+      ],
+      "rating": 4.15,
+      "ratings": 53883,
+      "reviews": 1100
+    },
+    {
+      "title": "Beach Music",
+      "url": "https://www.goodreads.com/book/show/16729.Beach_Music",
+      "id": "2707941",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1426903848i/16729.jpg",
+      "authors": [
+        "Pat Conroy"
+      ],
+      "genres": [
+        "fiction",
+        "book-club",
+        "southern",
+        "historical-fiction",
+        "contemporary",
+        "audiobook",
+        "drama"
+      ],
+      "rating": 4.18,
+      "ratings": 53876,
+      "reviews": 3791
+    },
+    {
+      "title": "Malice",
+      "url": "https://www.goodreads.com/book/show/15750692-malice",
+      "id": "21444710",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1342785006i/15750692.jpg",
+      "authors": [
+        "John Gwynne"
+      ],
+      "genres": [
+        "fantasy",
+        "fiction",
+        "epic-fantasy",
+        "high-fantasy",
+        "adult",
+        "audiobook",
+        "magic"
+      ],
+      "rating": 4.17,
+      "ratings": 53875,
+      "reviews": 6142
+    },
+    {
+      "title": "The Invisible Bridge",
+      "url": "https://www.goodreads.com/book/show/8200557-the-invisible-bridge",
+      "id": "8419478",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1478106140i/8200557.jpg",
+      "authors": [
+        "Julie Orringer"
+      ],
+      "genres": [
+        "historical-fiction",
+        "fiction",
+        "world-war-ii",
+        "holocaust",
+        "book-club",
+        "historical",
+        "war"
+      ],
+      "rating": 4.18,
+      "ratings": 53759,
+      "reviews": 5384
+    },
+    {
+      "title": "The Magic Strings of Frankie Presto",
+      "url": "https://www.goodreads.com/book/show/32735857-the-magic-strings-of-frankie-presto",
+      "id": "44611588",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1477323385i/32735857.jpg",
+      "authors": [
+        "Mitch Albom"
+      ],
+      "genres": [
+        "fiction",
+        "book-club",
+        "historical-fiction",
+        "music",
+        "audiobook",
+        "magical-realism",
+        "fantasy"
+      ],
+      "rating": 4.37,
+      "ratings": 53716,
+      "reviews": 7262
+    },
+    {
+      "title": "The Last Boyfriend",
+      "url": "https://www.goodreads.com/book/show/12099007-the-last-boyfriend",
+      "id": "17067735",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1334384607i/12099007.jpg",
+      "authors": [
+        "Nora Roberts"
+      ],
+      "genres": [
+        "romance",
+        "contemporary-romance",
+        "fiction",
+        "contemporary",
+        "chick-lit",
+        "paranormal",
+        "audiobook"
+      ],
+      "rating": 4.11,
+      "ratings": 53681,
+      "reviews": 2717
+    },
+    {
+      "title": "Mike Mulligan and His Steam Shovel",
+      "url": "https://www.goodreads.com/book/show/153542.Mike_Mulligan_and_His_Steam_Shovel",
+      "id": "1069773",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386924293i/153542.jpg",
+      "authors": [
+        "Virginia Lee Burton"
       ],
       "genres": [
         "picture-books",
         "childrens",
         "fiction",
-        "storytime",
-        "family",
-        "humor",
-        "animals"
+        "classics",
+        "juvenile",
+        "kids",
+        "transport"
       ],
-      "rating": 4.27,
-      "ratings": 46348,
-      "reviews": 1540
+      "rating": 4.21,
+      "ratings": 53678,
+      "reviews": 776
     },
     {
-      "title": "Dragonsinger",
-      "url": "https://www.goodreads.com/book/show/28547.Dragonsinger",
-      "id": "2971170",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1410942014i/28547.jpg",
+      "title": "SPY×FAMILY 2",
+      "url": "https://www.goodreads.com/book/show/52950513-spy-family-2",
+      "id": "73517859",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1571349928l/52950513.jpg",
       "authors": [
-        "Anne McCaffrey"
+        "Tatsuya Endo"
       ],
       "genres": [
-        "fantasy",
-        "science-fiction",
-        "dragons",
+        "manga",
+        "graphic-novels",
+        "comics",
         "fiction",
+        "humor",
         "young-adult",
-        "science-fiction-fantasy",
-        "adventure"
+        "comedy"
       ],
-      "rating": 4.3,
-      "ratings": 46310,
-      "reviews": 1058
+      "rating": 4.53,
+      "ratings": 53647,
+      "reviews": 3756
     },
     {
-      "title": "The Assassin and the Underworld",
-      "url": "https://www.goodreads.com/book/show/13546173-the-assassin-and-the-underworld",
-      "id": "19111271",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1336062984i/13546173.jpg",
+      "title": "I Wish You All the Best",
+      "url": "https://www.goodreads.com/book/show/41473872-i-wish-you-all-the-best",
+      "id": "61277384",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1538483349i/41473872.jpg",
       "authors": [
-        "Sarah J. Maas"
+        "Mason Deaver"
       ],
       "genres": [
-        "fantasy",
+        "lgbt",
         "young-adult",
         "romance",
-        "novella",
-        "short-stories",
+        "queer",
+        "contemporary",
         "fiction",
-        "high-fantasy"
+        "mental-health"
       ],
-      "rating": 4.34,
-      "ratings": 46287,
-      "reviews": 2196
+      "rating": 4.15,
+      "ratings": 53642,
+      "reviews": 9088
     },
     {
-      "title": "The Third Option",
-      "url": "https://www.goodreads.com/book/show/184661.The_Third_Option",
-      "id": "3267366",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1314830587i/184661.jpg",
+      "title": "Broken Homes",
+      "url": "https://www.goodreads.com/book/show/16078584-broken-homes",
+      "id": "21875874",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1403204872i/16078584.jpg",
+      "authors": [
+        "Ben Aaronovitch"
+      ],
+      "genres": [
+        "fantasy",
+        "urban-fantasy",
+        "mystery",
+        "fiction",
+        "crime",
+        "audiobook",
+        "magic"
+      ],
+      "rating": 4.16,
+      "ratings": 53615,
+      "reviews": 3465
+    },
+    {
+      "title": "The Robots of Dawn",
+      "url": "https://www.goodreads.com/book/show/41810.The_Robots_of_Dawn",
+      "id": "905286",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1351030933i/41810.jpg",
+      "authors": [
+        "Isaac Asimov"
+      ],
+      "genres": [
+        "science-fiction",
+        "fiction",
+        "mystery",
+        "robots",
+        "classics",
+        "science-fiction-fantasy",
+        "audiobook"
+      ],
+      "rating": 4.2,
+      "ratings": 53613,
+      "reviews": 2213
+    },
+    {
+      "title": "Act of Treason",
+      "url": "https://www.goodreads.com/book/show/26722.Act_of_Treason",
+      "id": "27405",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1441133916i/26722.jpg",
       "authors": [
         "Vince Flynn"
       ],
@@ -77,427 +392,117 @@
         "espionage",
         "action",
         "mystery",
-        "spy-thriller",
-        "suspense"
-      ],
-      "rating": 4.27,
-      "ratings": 46274,
-      "reviews": 1363
-    },
-    {
-      "title": "Arcanum Unbounded: The Cosmere Collection",
-      "url": "https://www.goodreads.com/book/show/28595941-arcanum-unbounded",
-      "id": "48765829",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1466536615i/28595941.jpg",
-      "authors": [
-        "Brandon Sanderson"
-      ],
-      "genres": [
-        "fantasy",
-        "fiction",
-        "short-stories",
-        "epic-fantasy",
-        "high-fantasy",
         "audiobook",
-        "adult"
+        "spy-thriller"
       ],
-      "rating": 4.48,
-      "ratings": 46244,
-      "reviews": 3004
+      "rating": 4.32,
+      "ratings": 53598,
+      "reviews": 1209
     },
     {
-      "title": "Yumi and the Nightmare Painter",
-      "url": "https://www.goodreads.com/book/show/60531416-yumi-and-the-nightmare-painter",
-      "id": "95396325",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1689135481i/60531416.jpg",
+      "title": "The Box in the Woods",
+      "url": "https://www.goodreads.com/book/show/52716736-the-box-in-the-woods",
+      "id": "78642681",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1592740203i/52716736.jpg",
       "authors": [
-        "Brandon Sanderson"
+        "Maureen Johnson"
       ],
       "genres": [
-        "fantasy",
-        "romance",
-        "fiction",
-        "adult",
-        "high-fantasy",
-        "science-fiction",
-        "audiobook"
-      ],
-      "rating": 4.49,
-      "ratings": 46232,
-      "reviews": 6765
-    },
-    {
-      "title": "The Crystal Cave",
-      "url": "https://www.goodreads.com/book/show/82192.The_Crystal_Cave",
-      "id": "1864677",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1439344566i/82192.jpg",
-      "authors": [
-        "Mary  Stewart"
-      ],
-      "genres": [
-        "fantasy",
-        "fiction",
-        "historical-fiction",
-        "arthurian",
-        "historical",
-        "mythology",
-        "science-fiction-fantasy"
-      ],
-      "rating": 4.13,
-      "ratings": 46209,
-      "reviews": 2085
-    },
-    {
-      "title": "The Goblin Emperor",
-      "url": "https://www.goodreads.com/book/show/17910048-the-goblin-emperor",
-      "id": "24241248",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1373039517i/17910048.jpg",
-      "authors": [
-        "Katherine Addison"
-      ],
-      "genres": [
-        "fantasy",
-        "fiction",
-        "steampunk",
-        "high-fantasy",
+        "mystery",
         "young-adult",
-        "science-fiction-fantasy",
-        "adult"
-      ],
-      "rating": 4.07,
-      "ratings": 46206,
-      "reviews": 7362
-    },
-    {
-      "title": "We're Going on a Bear Hunt",
-      "url": "https://www.goodreads.com/book/show/201126.We_re_Going_on_a_Bear_Hunt",
-      "id": "1974395",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388274854i/201126.jpg",
-      "authors": [
-        "Michael Rosen"
-      ],
-      "genres": [
-        "picture-books",
-        "childrens",
-        "animals",
+        "audiobook",
+        "mystery-thriller",
+        "thriller",
         "fiction",
-        "adventure",
-        "family",
-        "storytime"
+        "contemporary"
       ],
-      "rating": 4.29,
-      "ratings": 46195,
-      "reviews": 1903
+      "rating": 4.05,
+      "ratings": 53595,
+      "reviews": 7186
     },
     {
-      "title": "Into the Still Blue",
-      "url": "https://www.goodreads.com/book/show/14288998-into-the-still-blue",
-      "id": "19928978",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1417467183i/14288998.jpg",
+      "title": "Fear",
+      "url": "https://www.goodreads.com/book/show/8811134-fear",
+      "id": "13685368",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1309186708i/8811134.jpg",
       "authors": [
-        "Veronica Rossi"
+        "Michael  Grant"
       ],
       "genres": [
         "young-adult",
         "dystopia",
-        "fantasy",
-        "romance",
         "science-fiction",
-        "post-apocalyptic",
-        "fiction"
-      ],
-      "rating": 4.15,
-      "ratings": 46185,
-      "reviews": 3907
-    },
-    {
-      "title": "Harry Potter and the Chamber of Secrets: Selected Themes from the Motion Picture - Piano Solos: Piano Solos (Includes Souvenir Poster), Book & Poster",
-      "url": "https://www.goodreads.com/book/show/20698371-harry-potter-and-the-chamber-of-secrets",
-      "id": "40017880",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1391365560i/20698371.jpg",
-      "authors": [
-        "John   Williams"
-      ],
-      "genres": [
         "fantasy",
-        "fiction"
-      ],
-      "rating": 4.68,
-      "ratings": 46168,
-      "reviews": 18
-    },
-    {
-      "title": "A Fire in the Flesh",
-      "url": "https://www.goodreads.com/book/show/61150440-a-fire-in-the-flesh",
-      "id": "96391026",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1681507578i/61150440.jpg",
-      "authors": [
-        "Jennifer L. Armentrout"
-      ],
-      "genres": [
-        "fantasy",
-        "romance",
-        "fantasy-romance",
-        "adult",
-        "new-adult",
-        "paranormal",
-        "fiction"
-      ],
-      "rating": 4.09,
-      "ratings": 46167,
-      "reviews": 4626
-    },
-    {
-      "title": "The Son",
-      "url": "https://www.goodreads.com/book/show/19101283-the-son",
-      "id": "24342394",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1390177620i/19101283.jpg",
-      "authors": [
-        "Jo Nesbø"
-      ],
-      "genres": [
-        "mystery",
-        "crime",
-        "thriller",
         "fiction",
-        "mystery-thriller",
-        "nordic-noir",
-        "scandinavian-literature"
+        "horror",
+        "paranormal"
       ],
-      "rating": 4.08,
-      "ratings": 46108,
-      "reviews": 3318
+      "rating": 4.22,
+      "ratings": 53592,
+      "reviews": 2296
     },
     {
-      "title": "A Modest Proposal",
-      "url": "https://www.goodreads.com/book/show/5206937-a-modest-proposal",
-      "id": "6627040",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348659670i/5206937.jpg",
+      "title": "The Winter King",
+      "url": "https://www.goodreads.com/book/show/68520.The_Winter_King",
+      "id": "115813",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1311987677i/68520.jpg",
       "authors": [
-        "Jonathan Swift"
+        "Bernard Cornwell"
+      ],
+      "genres": [
+        "historical-fiction",
+        "fantasy",
+        "fiction",
+        "arthurian",
+        "historical",
+        "mythology",
+        "medieval"
+      ],
+      "rating": 4.26,
+      "ratings": 53561,
+      "reviews": 2985
+    },
+    {
+      "title": "Emily of New Moon",
+      "url": "https://www.goodreads.com/book/show/3562.Emily_of_New_Moon",
+      "id": "1223124",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1563899327i/3562.jpg",
+      "authors": [
+        "L.M. Montgomery"
       ],
       "genres": [
         "classics",
         "fiction",
-        "humor",
-        "essays",
-        "short-stories",
-        "philosophy",
-        "school"
-      ],
-      "rating": 4.02,
-      "ratings": 46099,
-      "reviews": 1951
-    },
-    {
-      "title": "Percy Jackson's Greek Heroes",
-      "url": "https://www.goodreads.com/book/show/23349901-percy-jackson-s-greek-heroes",
-      "id": "42907836",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1413406290i/23349901.jpg",
-      "authors": [
-        "Rick Riordan"
-      ],
-      "genres": [
-        "fantasy",
-        "mythology",
         "young-adult",
+        "historical-fiction",
+        "childrens",
         "middle-grade",
-        "fiction",
-        "greek-mythology",
-        "adventure"
+        "canada"
       ],
-      "rating": 4.43,
-      "ratings": 46057,
-      "reviews": 2431
-    },
-    {
-      "title": "Letters to the Lost",
-      "url": "https://www.goodreads.com/book/show/30038855-letters-to-the-lost",
-      "id": "45042926",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1464361740i/30038855.jpg",
-      "authors": [
-        "Brigid Kemmerer"
-      ],
-      "genres": [
-        "romance",
-        "young-adult",
-        "contemporary",
-        "fiction",
-        "young-adult-contemporary",
-        "contemporary-romance",
-        "realistic-fiction"
-      ],
-      "rating": 4.32,
-      "ratings": 46054,
-      "reviews": 7140
-    },
-    {
-      "title": "Fantastic Beasts: The Crimes of Grindelwald: The Original Screenplay",
-      "url": "https://www.goodreads.com/book/show/39330961-fantastic-beasts",
-      "id": "60958118",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1527724881i/39330961.jpg",
-      "authors": [
-        "J.K. Rowling"
-      ],
-      "genres": [
-        "fantasy",
-        "fiction",
-        "young-adult",
-        "plays",
-        "magic",
-        "adventure",
-        "historical-fiction"
-      ],
-      "rating": 4.04,
-      "ratings": 46048,
+      "rating": 4.12,
+      "ratings": 53555,
       "reviews": 3160
     },
     {
-      "title": "As Long as the Lemon Trees Grow",
-      "url": "https://www.goodreads.com/book/show/57390604-as-long-as-the-lemon-trees-grow",
-      "id": "89844864",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1642433141i/57390604.jpg",
+      "title": "Caddie Woodlawn",
+      "url": "https://www.goodreads.com/book/show/205821.Caddie_Woodlawn",
+      "id": "1231594",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388281233i/205821.jpg",
       "authors": [
-        "Zoulfa Katouh"
+        "Carol Ryrie Brink"
       ],
       "genres": [
         "historical-fiction",
+        "childrens",
         "fiction",
+        "classics",
+        "middle-grade",
         "young-adult",
-        "romance",
-        "contemporary",
-        "historical",
-        "fantasy"
+        "historical"
       ],
-      "rating": 4.51,
-      "ratings": 46010,
-      "reviews": 8974
-    },
-    {
-      "title": "Waking Gods",
-      "url": "https://www.goodreads.com/book/show/30134847-waking-gods",
-      "id": "50566357",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1462736382i/30134847.jpg",
-      "authors": [
-        "Sylvain Neuvel"
-      ],
-      "genres": [
-        "science-fiction",
-        "fiction",
-        "audiobook",
-        "fantasy",
-        "adult",
-        "aliens",
-        "science-fiction-fantasy"
-      ],
-      "rating": 4.01,
-      "ratings": 45995,
-      "reviews": 5113
-    },
-    {
-      "title": "Identity",
-      "url": "https://www.goodreads.com/book/show/61885098-identity",
-      "id": "97563952",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1664015043i/61885098.jpg",
-      "authors": [
-        "Nora Roberts"
-      ],
-      "genres": [
-        "romance",
-        "romantic-suspense",
-        "thriller",
-        "fiction",
-        "suspense",
-        "mystery",
-        "contemporary"
-      ],
-      "rating": 4.35,
-      "ratings": 45990,
-      "reviews": 4046
-    },
-    {
-      "title": "Where Eagles Dare",
-      "url": "https://www.goodreads.com/book/show/148337.Where_Eagles_Dare",
-      "id": "2781685",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348212543i/148337.jpg",
-      "authors": [
-        "Alistair MacLean"
-      ],
-      "genres": [
-        "fiction",
-        "thriller",
-        "war",
-        "historical-fiction",
-        "adventure",
-        "action",
-        "espionage"
-      ],
-      "rating": 4.14,
-      "ratings": 45982,
-      "reviews": 663
-    },
-    {
-      "title": "Strangers",
-      "url": "https://www.goodreads.com/book/show/15676.Strangers",
-      "id": "359553",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1308458895i/15676.jpg",
-      "authors": [
-        "Dean Koontz"
-      ],
-      "genres": [
-        "horror",
-        "fiction",
-        "thriller",
-        "suspense",
-        "mystery",
-        "science-fiction",
-        "fantasy"
-      ],
-      "rating": 4.01,
-      "ratings": 45975,
-      "reviews": 1010
-    },
-    {
-      "title": "Northern Lights",
-      "url": "https://www.goodreads.com/book/show/85459.Northern_Lights",
-      "id": "2060382",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1309209276i/85459.jpg",
-      "authors": [
-        "Nora Roberts"
-      ],
-      "genres": [
-        "romance",
-        "mystery",
-        "romantic-suspense",
-        "fiction",
-        "contemporary-romance",
-        "contemporary",
-        "suspense"
-      ],
-      "rating": 4.03,
-      "ratings": 45968,
-      "reviews": 1610
-    },
-    {
-      "title": "The Mephisto Club",
-      "url": "https://www.goodreads.com/book/show/32254.The_Mephisto_Club",
-      "id": "216590",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1389056704i/32254.jpg",
-      "authors": [
-        "Tess Gerritsen"
-      ],
-      "genres": [
-        "mystery",
-        "thriller",
-        "crime",
-        "fiction",
-        "suspense",
-        "mystery-thriller",
-        "detective"
-      ],
-      "rating": 4.03,
-      "ratings": 45958,
-      "reviews": 2122
+      "rating": 4.02,
+      "ratings": 53547,
+      "reviews": 1927
     }
   ]
 }

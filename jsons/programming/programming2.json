@@ -1,46 +1,67 @@
 {
   "books": [
     {
-      "title": "Continuous delivery",
-      "url": "https://www.goodreads.com/book/show/8686650-continuous-delivery",
-      "id": "13558958",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347640457i/8686650.jpg",
+      "title": "Joel on Software",
+      "url": "https://www.goodreads.com/book/show/41786.Joel_on_Software",
+      "id": "41302",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1419283213i/41786.jpg",
       "authors": [
-        "Jez Humble"
+        "Joel Spolsky"
       ],
       "genres": [
         "programming",
-        "technology",
         "software",
-        "computer-science",
-        "technical",
         "non-fiction",
-        "business"
+        "technology",
+        "computer-science",
+        "business",
+        "management"
       ],
-      "rating": 4.2,
-      "ratings": 3220,
-      "reviews": 165
+      "rating": 4.13,
+      "ratings": 3374,
+      "reviews": 153
     },
     {
-      "title": "Programming Pearls",
-      "url": "https://www.goodreads.com/book/show/52084.Programming_Pearls",
-      "id": "50819",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1385191091i/52084.jpg",
+      "title": "Pro Git",
+      "url": "https://www.goodreads.com/book/show/6518085-pro-git",
+      "id": "6709947",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1383771684i/6518085.jpg",
       "authors": [
-        "Jon L. Bentley"
+        "Scott Chacon"
       ],
       "genres": [
         "programming",
         "computer-science",
         "technology",
-        "software",
+        "non-fiction",
+        "technical",
+        "reference",
+        "software"
+      ],
+      "rating": 4.18,
+      "ratings": 3374,
+      "reviews": 303
+    },
+    {
+      "title": "Effective C++: 55 Specific Ways to Improve Your Programs and Designs",
+      "url": "https://www.goodreads.com/book/show/105125.Effective_C_",
+      "id": "1107262",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348261809i/105125.jpg",
+      "authors": [
+        "Scott Meyers"
+      ],
+      "genres": [
+        "programming",
+        "computer-science",
         "technical",
         "non-fiction",
+        "technology",
+        "software",
         "computers"
       ],
-      "rating": 4.2,
-      "ratings": 3184,
-      "reviews": 92
+      "rating": 4.4,
+      "ratings": 3341,
+      "reviews": 141
     },
     {
       "title": "The Art of Game Design: A Book of Lenses",
@@ -60,50 +81,29 @@
         "video-games"
       ],
       "rating": 4.39,
-      "ratings": 3161,
-      "reviews": 238
+      "ratings": 3338,
+      "reviews": 254
     },
     {
-      "title": "An Elegant Puzzle: Systems of Engineering Management",
-      "url": "https://www.goodreads.com/book/show/45303387-an-elegant-puzzle",
-      "id": "70025565",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1556221385i/45303387.jpg",
+      "title": "Continuous delivery",
+      "url": "https://www.goodreads.com/book/show/8686650-continuous-delivery",
+      "id": "13558958",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347640457i/8686650.jpg",
       "authors": [
-        "Will Larson"
-      ],
-      "genres": [
-        "management",
-        "leadership",
-        "business",
-        "technology",
-        "non-fiction",
-        "engineering",
-        "programming"
-      ],
-      "rating": 4.1,
-      "ratings": 3151,
-      "reviews": 284
-    },
-    {
-      "title": "Learning Python",
-      "url": "https://www.goodreads.com/book/show/80435.Learning_Python",
-      "id": "77670",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386922968i/80435.jpg",
-      "authors": [
-        "Mark Lutz"
+        "Jez Humble"
       ],
       "genres": [
         "programming",
-        "computer-science",
-        "reference",
-        "non-fiction",
         "technology",
-        "computers",
-        "technical"
+        "software",
+        "computer-science",
+        "technical",
+        "non-fiction",
+        "business"
       ],
-      "rating": 4,
-      "ratings": 3114,
-      "reviews": 171
+      "rating": 4.2,
+      "ratings": 3285,
+      "reviews": 168
     },
     {
       "title": "Release It!: Design and Deploy Production-Ready Software",
@@ -122,30 +122,30 @@
         "non-fiction",
         "engineering"
       ],
-      "rating": 4.26,
-      "ratings": 3106,
-      "reviews": 254
+      "rating": 4.25,
+      "ratings": 3221,
+      "reviews": 263
     },
     {
-      "title": "JavaScript: The Definitive Guide",
-      "url": "https://www.goodreads.com/book/show/148050.JavaScript",
-      "id": "142879",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347652925i/148050.jpg",
+      "title": "Programming Pearls",
+      "url": "https://www.goodreads.com/book/show/52084.Programming_Pearls",
+      "id": "50819",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1385191091i/52084.jpg",
       "authors": [
-        "David Flanagan"
+        "Jon L. Bentley"
       ],
       "genres": [
         "programming",
-        "reference",
         "computer-science",
         "technology",
+        "software",
+        "technical",
         "non-fiction",
-        "computers",
-        "technical"
+        "computers"
       ],
-      "rating": 4.09,
-      "ratings": 3081,
-      "reviews": 121
+      "rating": 4.2,
+      "ratings": 3209,
+      "reviews": 95
     },
     {
       "title": "Eloquent JavaScript: A Modern Introduction to Programming",
@@ -165,8 +165,71 @@
         "software"
       ],
       "rating": 4.15,
-      "ratings": 3031,
-      "reviews": 260
+      "ratings": 3185,
+      "reviews": 280
+    },
+    {
+      "title": "Learning Python",
+      "url": "https://www.goodreads.com/book/show/80435.Learning_Python",
+      "id": "77670",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386922968i/80435.jpg",
+      "authors": [
+        "Mark Lutz"
+      ],
+      "genres": [
+        "programming",
+        "computer-science",
+        "reference",
+        "non-fiction",
+        "technology",
+        "computers",
+        "technical"
+      ],
+      "rating": 4.01,
+      "ratings": 3184,
+      "reviews": 176
+    },
+    {
+      "title": "Automate the Boring Stuff with Python: Practical Programming for Total Beginners",
+      "url": "https://www.goodreads.com/book/show/22514127-automate-the-boring-stuff-with-python",
+      "id": "41958015",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1418768948i/22514127.jpg",
+      "authors": [
+        "Al Sweigart"
+      ],
+      "genres": [
+        "programming",
+        "computer-science",
+        "non-fiction",
+        "technology",
+        "coding",
+        "reference",
+        "computers"
+      ],
+      "rating": 4.28,
+      "ratings": 3093,
+      "reviews": 268
+    },
+    {
+      "title": "Python Crash Course: A Hands-On, Project-Based Introduction to Programming",
+      "url": "https://www.goodreads.com/book/show/23241059-python-crash-course",
+      "id": "42784657",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1418765169i/23241059.jpg",
+      "authors": [
+        "Eric Matthes"
+      ],
+      "genres": [
+        "programming",
+        "computer-science",
+        "non-fiction",
+        "coding",
+        "technology",
+        "reference",
+        "technical"
+      ],
+      "rating": 4.36,
+      "ratings": 3015,
+      "reviews": 287
     },
     {
       "title": "Compilers: Principles, Techniques, and Tools",
@@ -182,33 +245,12 @@
         "technology",
         "technical",
         "computers",
-        "software",
-        "non-fiction"
-      ],
-      "rating": 4.09,
-      "ratings": 2968,
-      "reviews": 64
-    },
-    {
-      "title": "Automate the Boring Stuff with Python: Practical Programming for Total Beginners",
-      "url": "https://www.goodreads.com/book/show/22514127-automate-the-boring-stuff-with-python",
-      "id": "41958015",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1418768948i/22514127.jpg",
-      "authors": [
-        "Al Sweigart"
-      ],
-      "genres": [
-        "programming",
-        "computer-science",
         "non-fiction",
-        "coding",
-        "technology",
-        "reference",
-        "computers"
+        "textbooks"
       ],
-      "rating": 4.29,
-      "ratings": 2859,
-      "reviews": 256
+      "rating": 4.1,
+      "ratings": 3005,
+      "reviews": 65
     },
     {
       "title": "Java Concurrency in Practice",
@@ -225,95 +267,32 @@
         "technical",
         "software",
         "non-fiction",
-        "computers"
+        "reference"
       ],
-      "rating": 4.47,
-      "ratings": 2828,
+      "rating": 4.48,
+      "ratings": 2892,
       "reviews": 138
     },
     {
-      "title": "Practical Programming for Strength Training",
-      "url": "https://www.goodreads.com/book/show/1677880.Practical_Programming_for_Strength_Training",
-      "id": "1672986",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1387748314i/1677880.jpg",
+      "title": "Staff Engineer: Leadership Beyond the Management Track",
+      "url": "https://www.goodreads.com/book/show/56481725-staff-engineer",
+      "id": "88125716",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1609348975i/56481725.jpg",
       "authors": [
-        "Mark Rippetoe"
+        "Will Larson"
       ],
       "genres": [
-        "fitness",
-        "health",
+        "leadership",
+        "technology",
+        "management",
+        "software",
         "non-fiction",
-        "sports",
-        "reference",
-        "self-help",
+        "engineering",
         "programming"
       ],
-      "rating": 4.33,
-      "ratings": 2803,
-      "reviews": 143
-    },
-    {
-      "title": "Management 3.0: Leading Agile Developers, Developing Agile Leaders",
-      "url": "https://www.goodreads.com/book/show/10210821-management-3-0",
-      "id": "15110275",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1414947872i/10210821.jpg",
-      "authors": [
-        "Jurgen Appelo"
-      ],
-      "genres": [
-        "management",
-        "leadership",
-        "business",
-        "non-fiction",
-        "software",
-        "programming",
-        "technology"
-      ],
-      "rating": 4.15,
-      "ratings": 2760,
-      "reviews": 150
-    },
-    {
-      "title": "Practical Object Oriented Design in Ruby",
-      "url": "https://www.goodreads.com/book/show/13507787-practical-object-oriented-design-in-ruby",
-      "id": "19059453",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1358916543i/13507787.jpg",
-      "authors": [
-        "Sandi Metz"
-      ],
-      "genres": [
-        "programming",
-        "technology",
-        "computer-science",
-        "software",
-        "technical",
-        "non-fiction",
-        "coding"
-      ],
-      "rating": 4.53,
-      "ratings": 2738,
-      "reviews": 199
-    },
-    {
-      "title": "Mastering Bitcoin",
-      "url": "https://www.goodreads.com/book/show/21820378-mastering-bitcoin",
-      "id": "41087844",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1418769446i/21820378.jpg",
-      "authors": [
-        "Andreas M. Antonopoulos"
-      ],
-      "genres": [
-        "finance",
-        "technology",
-        "programming",
-        "computer-science",
-        "economics",
-        "non-fiction",
-        "business"
-      ],
-      "rating": 4.31,
-      "ratings": 2647,
-      "reviews": 252
+      "rating": 4.04,
+      "ratings": 2887,
+      "reviews": 285
     },
     {
       "title": "Site Reliability Engineering: How Google Runs Production Systems",
@@ -332,30 +311,93 @@
         "non-fiction",
         "engineering"
       ],
-      "rating": 4.23,
-      "ratings": 2645,
-      "reviews": 251
+      "rating": 4.21,
+      "ratings": 2850,
+      "reviews": 267
     },
     {
-      "title": "Python Crash Course: A Hands-On, Project-Based Introduction to Programming",
-      "url": "https://www.goodreads.com/book/show/23241059-python-crash-course",
-      "id": "42784657",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1418765169i/23241059.jpg",
+      "title": "Management 3.0: Leading Agile Developers, Developing Agile Leaders (Addison-Wesley Signature Series",
+      "url": "https://www.goodreads.com/book/show/10210821-management-3-0",
+      "id": "15110275",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1414947872i/10210821.jpg",
       "authors": [
-        "Eric Matthes"
+        "Jurgen Appelo"
+      ],
+      "genres": [
+        "management",
+        "leadership",
+        "business",
+        "non-fiction",
+        "software",
+        "programming",
+        "technology"
+      ],
+      "rating": 4.15,
+      "ratings": 2830,
+      "reviews": 153
+    },
+    {
+      "title": "Practical Object Oriented Design in Ruby",
+      "url": "https://www.goodreads.com/book/show/13507787-practical-object-oriented-design-in-ruby",
+      "id": "19059453",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1358916543i/13507787.jpg",
+      "authors": [
+        "Sandi Metz"
       ],
       "genres": [
         "programming",
+        "technology",
+        "software",
+        "computer-science",
+        "technical",
+        "non-fiction",
+        "coding"
+      ],
+      "rating": 4.53,
+      "ratings": 2798,
+      "reviews": 208
+    },
+    {
+      "title": "Mastering Bitcoin: Unlocking Digital Cryptocurrencies",
+      "url": "https://www.goodreads.com/book/show/21820378-mastering-bitcoin",
+      "id": "41087844",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1418769446i/21820378.jpg",
+      "authors": [
+        "Andreas M. Antonopoulos"
+      ],
+      "genres": [
+        "finance",
+        "technology",
         "non-fiction",
         "computer-science",
-        "coding",
-        "technology",
-        "reference",
-        "technical"
+        "economics",
+        "programming",
+        "business"
       ],
-      "rating": 4.36,
-      "ratings": 2623,
+      "rating": 4.3,
+      "ratings": 2775,
       "reviews": 256
+    },
+    {
+      "title": "Hands-On Machine Learning with Scikit-Learn and TensorFlow",
+      "url": "https://www.goodreads.com/book/show/32899495-hands-on-machine-learning-with-scikit-learn-and-tensorflow",
+      "id": "53513052",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1478536137i/32899495.jpg",
+      "authors": [
+        "Aurélien Géron"
+      ],
+      "genres": [
+        "programming",
+        "computer-science",
+        "artificial-intelligence",
+        "technology",
+        "non-fiction",
+        "technical",
+        "textbooks"
+      ],
+      "rating": 4.55,
+      "ratings": 2724,
+      "reviews": 210
     },
     {
       "title": "The Algorithm Design Manual",
@@ -374,9 +416,9 @@
         "non-fiction",
         "software"
       ],
-      "rating": 4.35,
-      "ratings": 2600,
-      "reviews": 96
+      "rating": 4.34,
+      "ratings": 2671,
+      "reviews": 98
     },
     {
       "title": "Agile Estimating and Planning",
@@ -396,8 +438,29 @@
         "technical"
       ],
       "rating": 4.14,
-      "ratings": 2580,
-      "reviews": 162
+      "ratings": 2618,
+      "reviews": 165
+    },
+    {
+      "title": "Data Science for Business: What You Need to Know about Data Mining and Data-Analytic Thinking",
+      "url": "https://www.goodreads.com/book/show/17912916-data-science-for-business",
+      "id": "25100684",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1374654260i/17912916.jpg",
+      "authors": [
+        "Foster Provost"
+      ],
+      "genres": [
+        "business",
+        "non-fiction",
+        "technology",
+        "science",
+        "computer-science",
+        "programming",
+        "technical"
+      ],
+      "rating": 4.13,
+      "ratings": 2590,
+      "reviews": 176
     },
     {
       "title": "You Don't Know JS: Up & Going",
@@ -416,72 +479,9 @@
         "coding",
         "software"
       ],
-      "rating": 4.34,
-      "ratings": 2499,
-      "reviews": 171
-    },
-    {
-      "title": "The Principles of Product Development Flow: Second Generation Lean Product Development",
-      "url": "https://www.goodreads.com/book/show/6278270-the-principles-of-product-development-flow",
-      "id": "6461800",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1397503368i/6278270.jpg",
-      "authors": [
-        "Donald G. Reinertsen"
-      ],
-      "genres": [
-        "business",
-        "management",
-        "non-fiction",
-        "technology",
-        "leadership",
-        "software",
-        "programming"
-      ],
-      "rating": 4.18,
-      "ratings": 2468,
-      "reviews": 133
-    },
-    {
-      "title": "Hands-On Machine Learning with Scikit-Learn and TensorFlow",
-      "url": "https://www.goodreads.com/book/show/32899495-hands-on-machine-learning-with-scikit-learn-and-tensorflow",
-      "id": "53513052",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1478536137i/32899495.jpg",
-      "authors": [
-        "Aurélien Géron"
-      ],
-      "genres": [
-        "programming",
-        "computer-science",
-        "artificial-intelligence",
-        "technology",
-        "non-fiction",
-        "technical",
-        "textbooks"
-      ],
-      "rating": 4.56,
-      "ratings": 2455,
-      "reviews": 184
-    },
-    {
-      "title": "Growing Object-Oriented Software, Guided by Tests",
-      "url": "https://www.goodreads.com/book/show/4268826-growing-object-oriented-software-guided-by-tests",
-      "id": "4316345",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348030542i/4268826.jpg",
-      "authors": [
-        "Steve  Freeman"
-      ],
-      "genres": [
-        "programming",
-        "software",
-        "technology",
-        "computer-science",
-        "technical",
-        "non-fiction",
-        "coding"
-      ],
-      "rating": 4.19,
-      "ratings": 2427,
-      "reviews": 139
+      "rating": 4.35,
+      "ratings": 2531,
+      "reviews": 174
     },
     {
       "title": "The Deadline",
@@ -500,9 +500,9 @@
         "technology",
         "computer-science"
       ],
-      "rating": 4.16,
-      "ratings": 2426,
-      "reviews": 183
+      "rating": 4.15,
+      "ratings": 2524,
+      "reviews": 192
     }
   ]
 }

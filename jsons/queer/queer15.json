@@ -1,67 +1,466 @@
 {
   "books": [
     {
-      "title": "Homie",
-      "url": "https://www.goodreads.com/book/show/44094014-homie",
-      "id": "68574909",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1566099563i/44094014.jpg",
+      "title": "Ocean's Echo",
+      "url": "https://www.goodreads.com/book/show/59808117-ocean-s-echo",
+      "id": "94199661",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1651252377i/59808117.jpg",
       "authors": [
-        "Danez Smith"
+        "Everina Maxwell"
       ],
       "genres": [
-        "poetry",
+        "science-fiction",
+        "romance",
         "lgbt",
         "queer",
-        "audiobook",
-        "non-fiction",
-        "race",
-        "adult"
+        "fiction",
+        "fantasy",
+        "audiobook"
       ],
-      "rating": 4.42,
-      "ratings": 7032,
-      "reviews": 1079
+      "rating": 4.12,
+      "ratings": 9055,
+      "reviews": 1881
     },
     {
-      "title": "Dark Heir",
-      "url": "https://www.goodreads.com/book/show/52780201-dark-heir",
-      "id": "71684010",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1682693635i/52780201.jpg",
+      "title": "For Real",
+      "url": "https://www.goodreads.com/book/show/197036064-for-real",
+      "id": "45123759",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1702411811i/197036064.jpg",
       "authors": [
-        "C.S. Pacat"
+        "Alexis  Hall"
+      ],
+      "genres": [
+        "romance",
+        "bdsm",
+        "m-m-romance",
+        "contemporary",
+        "lgbt",
+        "queer",
+        "contemporary-romance"
+      ],
+      "rating": 4.19,
+      "ratings": 9052,
+      "reviews": 1871
+    },
+    {
+      "title": "Golden Boy",
+      "url": "https://www.goodreads.com/book/show/15803173-golden-boy",
+      "id": "21526297",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1363611172i/15803173.jpg",
+      "authors": [
+        "Abigail Tarttelin"
+      ],
+      "genres": [
+        "fiction",
+        "young-adult",
+        "contemporary",
+        "lgbt",
+        "queer",
+        "coming-of-age",
+        "book-club"
+      ],
+      "rating": 4.1,
+      "ratings": 9035,
+      "reviews": 1730
+    },
+    {
+      "title": "Dangerous Angels",
+      "url": "https://www.goodreads.com/book/show/14565.Dangerous_Angels",
+      "id": "990480",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1166639454i/14565.jpg",
+      "authors": [
+        "Francesca Lia Block"
+      ],
+      "genres": [
+        "young-adult",
+        "fantasy",
+        "fiction",
+        "magical-realism",
+        "romance",
+        "urban-fantasy",
+        "queer"
+      ],
+      "rating": 4.25,
+      "ratings": 9030,
+      "reviews": 621
+    },
+    {
+      "title": "Trixie and Katya's Guide to Modern Womanhood",
+      "url": "https://www.goodreads.com/book/show/52180973-trixie-and-katya-s-guide-to-modern-womanhood",
+      "id": "73001861",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1572499535i/52180973.jpg",
+      "authors": [
+        "Trixie Mattel"
+      ],
+      "genres": [
+        "non-fiction",
+        "humor",
+        "audiobook",
+        "lgbt",
+        "queer",
+        "self-help",
+        "comedy"
+      ],
+      "rating": 4.01,
+      "ratings": 9016,
+      "reviews": 1178
+    },
+    {
+      "title": "Unprotected: A Memoir",
+      "url": "https://www.goodreads.com/book/show/56969425-unprotected",
+      "id": "89111953",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1631105189i/56969425.jpg",
+      "authors": [
+        "Billy Porter"
+      ],
+      "genres": [
+        "memoir",
+        "non-fiction",
+        "audiobook",
+        "lgbt",
+        "biography",
+        "queer",
+        "biography-memoir"
+      ],
+      "rating": 4.47,
+      "ratings": 8908,
+      "reviews": 1338
+    },
+    {
+      "title": "Whipping Girl: A Transsexual Woman on Sexism and the Scapegoating of Femininity",
+      "url": "https://www.goodreads.com/book/show/605663.Whipping_Girl",
+      "id": "592211",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328853725i/605663.jpg",
+      "authors": [
+        "Julia Serano"
+      ],
+      "genres": [
+        "non-fiction",
+        "feminism",
+        "queer",
+        "lgbt",
+        "gender",
+        "transgender",
+        "gender-studies"
+      ],
+      "rating": 4.27,
+      "ratings": 8801,
+      "reviews": 893
+    },
+    {
+      "title": "¡Hola Papi!: How to Come Out in a Walmart Parking Lot and Other Life Lessons",
+      "url": "https://www.goodreads.com/book/show/55711622-hola-papi",
+      "id": "86884070",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1623264430i/55711622.jpg",
+      "authors": [
+        "John Paul Brammer"
+      ],
+      "genres": [
+        "memoir",
+        "non-fiction",
+        "lgbt",
+        "queer",
+        "essays",
+        "audiobook",
+        "humor"
+      ],
+      "rating": 4.04,
+      "ratings": 8789,
+      "reviews": 1217
+    },
+    {
+      "title": "The Sugared Game",
+      "url": "https://www.goodreads.com/book/show/52237997-the-sugared-game",
+      "id": "77319499",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1595250042i/52237997.jpg",
+      "authors": [
+        "K.J. Charles"
+      ],
+      "genres": [
+        "romance",
+        "historical",
+        "historical-fiction",
+        "mystery",
+        "lgbt",
+        "queer",
+        "historical-romance"
+      ],
+      "rating": 4.25,
+      "ratings": 8775,
+      "reviews": 1283
+    },
+    {
+      "title": "The Fire Never Goes Out: A Memoir in Pictures",
+      "url": "https://www.goodreads.com/book/show/45169737-the-fire-never-goes-out",
+      "id": "69873539",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1561046811i/45169737.jpg",
+      "authors": [
+        "N.D. Stevenson"
+      ],
+      "genres": [
+        "graphic-novels",
+        "non-fiction",
+        "memoir",
+        "lgbt",
+        "queer",
+        "mental-health",
+        "graphic-novels-comics"
+      ],
+      "rating": 4.01,
+      "ratings": 8772,
+      "reviews": 1401
+    },
+    {
+      "title": "All The Young Men",
+      "url": "https://www.goodreads.com/book/show/52580373-all-the-young-men",
+      "id": "78245538",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1600089898i/52580373.jpg",
+      "authors": [
+        "Ruth Coker Burks"
+      ],
+      "genres": [
+        "non-fiction",
+        "memoir",
+        "lgbt",
+        "history",
+        "biography",
+        "queer",
+        "book-club"
+      ],
+      "rating": 4.49,
+      "ratings": 8759,
+      "reviews": 1144
+    },
+    {
+      "title": "Sure of You",
+      "url": "https://www.goodreads.com/book/show/16259.Sure_of_You",
+      "id": "952126",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1166720255i/16259.jpg",
+      "authors": [
+        "Armistead Maupin"
+      ],
+      "genres": [
+        "fiction",
+        "lgbt",
+        "queer",
+        "gay",
+        "gay-fiction",
+        "novels",
+        "american"
+      ],
+      "rating": 4.07,
+      "ratings": 8746,
+      "reviews": 346
+    },
+    {
+      "title": "Stars Collide",
+      "url": "https://www.goodreads.com/book/show/74882249-stars-collide",
+      "id": "96477774",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1672860138i/74882249.jpg",
+      "authors": [
+        "Rachel Lacey"
+      ],
+      "genres": [
+        "romance",
+        "lesbian",
+        "lgbt",
+        "queer",
+        "contemporary",
+        "fiction",
+        "audiobook"
+      ],
+      "rating": 4.01,
+      "ratings": 8725,
+      "reviews": 1111
+    },
+    {
+      "title": "Funny Boy",
+      "url": "https://www.goodreads.com/book/show/111389.Funny_Boy",
+      "id": "107283",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348281003i/111389.jpg",
+      "authors": [
+        "Shyam Selvadurai"
+      ],
+      "genres": [
+        "fiction",
+        "lgbt",
+        "queer",
+        "historical-fiction",
+        "coming-of-age",
+        "gay",
+        "asia"
+      ],
+      "rating": 4.06,
+      "ratings": 8720,
+      "reviews": 858
+    },
+    {
+      "title": "My Love Mix-Up!, Vol. 1",
+      "url": "https://www.goodreads.com/book/show/57147089-my-love-mix-up-vol-1",
+      "id": "76309596",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1623592791i/57147089.jpg",
+      "authors": [
+        "Wataru Hinekure"
+      ],
+      "genres": [
+        "manga",
+        "romance",
+        "lgbt",
+        "queer",
+        "contemporary",
+        "young-adult",
+        "graphic-novels"
+      ],
+      "rating": 4.37,
+      "ratings": 8716,
+      "reviews": 1357
+    },
+    {
+      "title": "The Final Strife",
+      "url": "https://www.goodreads.com/book/show/54440543-the-final-strife",
+      "id": "84956152",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1640248887i/54440543.jpg",
+      "authors": [
+        "Saara El-Arifi"
       ],
       "genres": [
         "fantasy",
-        "young-adult",
+        "lesbian",
+        "lgbt",
+        "queer",
+        "romance",
+        "fiction",
+        "adult"
+      ],
+      "rating": 4.19,
+      "ratings": 8700,
+      "reviews": 1921
+    },
+    {
+      "title": "Spear",
+      "url": "https://www.goodreads.com/book/show/57693308-spear",
+      "id": "87725055",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1620929093i/57693308.jpg",
+      "authors": [
+        "Nicola Griffith"
+      ],
+      "genres": [
+        "fantasy",
+        "queer",
+        "lgbt",
+        "historical-fiction",
+        "fiction",
+        "retellings",
+        "novella"
+      ],
+      "rating": 4.06,
+      "ratings": 8570,
+      "reviews": 1708
+    },
+    {
+      "title": "The Husky and His White Cat Shizun: Erha He Ta De Bai Mao Shizun (Novel) Vol. 2",
+      "url": "https://www.goodreads.com/book/show/60587527-the-husky-and-his-white-cat-shizun",
+      "id": "99789755",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1670029294i/60587527.jpg",
+      "authors": [
+        "Rou Bao Bu Chi Rou"
+      ],
+      "genres": [
+        "fantasy",
+        "romance",
         "lgbt",
         "queer",
         "historical",
-        "magic",
-        "fiction"
+        "fiction",
+        "adult"
       ],
-      "rating": 4.58,
-      "ratings": 7020,
-      "reviews": 1949
+      "rating": 4.54,
+      "ratings": 8542,
+      "reviews": 919
     },
     {
-      "title": "Love That Story: Observations from a Gorgeously Queer Life",
-      "url": "https://www.goodreads.com/book/show/59916195-love-that-story",
-      "id": "94346764",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1649601077i/59916195.jpg",
+      "title": "The Soldier's Scoundrel",
+      "url": "https://www.goodreads.com/book/show/29875088-the-soldier-s-scoundrel",
+      "id": "50247917",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1480135489i/29875088.jpg",
       "authors": [
-        "Jonathan Van Ness"
+        "Cat Sebastian"
       ],
       "genres": [
-        "non-fiction",
-        "audiobook",
-        "memoir",
+        "romance",
+        "historical",
+        "historical-romance",
+        "historical-fiction",
+        "m-m-romance",
         "lgbt",
-        "essays",
-        "queer",
-        "biography"
+        "queer"
       ],
-      "rating": 4.11,
-      "ratings": 6977,
-      "reviews": 697
+      "rating": 4,
+      "ratings": 8492,
+      "reviews": 1475
+    },
+    {
+      "title": "Go Luck Yourself",
+      "url": "https://www.goodreads.com/book/show/218063235-go-luck-yourself",
+      "id": "224608342",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1752528715i/218063235.jpg",
+      "authors": [
+        "Sara Raasch"
+      ],
+      "genres": [
+        "romance",
+        "fantasy",
+        "lgbt",
+        "queer",
+        "audiobook",
+        "holiday",
+        "adult"
+      ],
+      "rating": 4.33,
+      "ratings": 8467,
+      "reviews": 1846
+    },
+    {
+      "title": "Grandmaster of Demonic Cultivation, Vol. 1",
+      "url": "https://www.goodreads.com/book/show/61189319-grandmaster-of-demonic-cultivation",
+      "id": "87662452",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1665475327i/61189319.jpg",
+      "authors": [
+        "Luo Di Cheng Qiu"
+      ],
+      "genres": [
+        "manga",
+        "fantasy",
+        "romance",
+        "graphic-novels",
+        "lgbt",
+        "comics",
+        "queer"
+      ],
+      "rating": 4.55,
+      "ratings": 8440,
+      "reviews": 835
+    },
+    {
+      "title": "bone",
+      "url": "https://www.goodreads.com/book/show/35084223-bone",
+      "id": "42059068",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1494857481i/35084223.jpg",
+      "authors": [
+        "Yrsa Daley-Ward"
+      ],
+      "genres": [
+        "poetry",
+        "feminism",
+        "non-fiction",
+        "lgbt",
+        "queer",
+        "womens",
+        "audiobook"
+      ],
+      "rating": 4.14,
+      "ratings": 8367,
+      "reviews": 858
     },
     {
       "title": "Bloom into You, Vol. 1",
@@ -81,428 +480,29 @@
         "lesbian"
       ],
       "rating": 4.04,
-      "ratings": 6959,
-      "reviews": 734
+      "ratings": 8319,
+      "reviews": 895
     },
     {
-      "title": "The Best Men",
-      "url": "https://www.goodreads.com/book/show/59651571-the-best-men",
-      "id": "88985431",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1639236532i/59651571.jpg",
+      "title": "Spoiler Alert: The Hero Dies",
+      "url": "https://www.goodreads.com/book/show/32913135-spoiler-alert",
+      "id": "53530788",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1486179167i/32913135.jpg",
       "authors": [
-        "Sarina Bowen"
+        "Michael Ausiello"
       ],
       "genres": [
-        "romance",
-        "m-m-romance",
-        "contemporary",
-        "lgbt",
-        "contemporary-romance",
-        "audiobook",
-        "queer"
-      ],
-      "rating": 4.12,
-      "ratings": 6932,
-      "reviews": 1092
-    },
-    {
-      "title": "My Brother's Husband, Volume 2",
-      "url": "https://www.goodreads.com/book/show/37824476-my-brother-s-husband-volume-2",
-      "id": "66350383",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1657572737i/37824476.jpg",
-      "authors": [
-        "Gengoroh Tagame"
-      ],
-      "genres": [
-        "manga",
-        "graphic-novels",
-        "lgbt",
-        "queer",
-        "comics",
-        "fiction",
-        "contemporary"
-      ],
-      "rating": 4.55,
-      "ratings": 6899,
-      "reviews": 1062
-    },
-    {
-      "title": "My Love Mix-Up!, Vol. 1",
-      "url": "https://www.goodreads.com/book/show/57147089-my-love-mix-up-vol-1",
-      "id": "76309596",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1623592791i/57147089.jpg",
-      "authors": [
-        "Wataru Hinekure"
-      ],
-      "genres": [
-        "manga",
-        "romance",
-        "lgbt",
-        "boys-love",
-        "queer",
-        "contemporary",
-        "young-adult"
-      ],
-      "rating": 4.36,
-      "ratings": 6845,
-      "reviews": 1097
-    },
-    {
-      "title": "How to Be a Normal Person",
-      "url": "https://www.goodreads.com/book/show/25548442-how-to-be-a-normal-person",
-      "id": "45341713",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1437768781i/25548442.jpg",
-      "authors": [
-        "T.J. Klune"
-      ],
-      "genres": [
-        "romance",
-        "m-m-romance",
-        "contemporary",
-        "lgbt",
-        "queer",
-        "fiction",
-        "humor"
-      ],
-      "rating": 4.32,
-      "ratings": 6828,
-      "reviews": 1410
-    },
-    {
-      "title": "Martyr!",
-      "url": "https://www.goodreads.com/book/show/139400713-martyr",
-      "id": "155375386",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1683818219i/139400713.jpg",
-      "authors": [
-        "Kaveh Akbar"
-      ],
-      "genres": [
-        "fiction",
-        "poetry",
-        "literary-fiction",
-        "queer",
-        "contemporary",
-        "lgbt",
-        "audiobook"
-      ],
-      "rating": 4.25,
-      "ratings": 6814,
-      "reviews": 1478
-    },
-    {
-      "title": "A Strange and Stubborn Endurance",
-      "url": "https://www.goodreads.com/book/show/58724793-a-strange-and-stubborn-endurance",
-      "id": "90425277",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1636669886i/58724793.jpg",
-      "authors": [
-        "Foz Meadows"
-      ],
-      "genres": [
-        "fantasy",
-        "romance",
-        "lgbt",
-        "queer",
-        "adult",
-        "fiction",
-        "fantasy-romance"
-      ],
-      "rating": 4.02,
-      "ratings": 6791,
-      "reviews": 1556
-    },
-    {
-      "title": "The Husband Hoax",
-      "url": "https://www.goodreads.com/book/show/63212931-the-husband-hoax",
-      "id": "99093083",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1673525335i/63212931.jpg",
-      "authors": [
-        "Saxon James"
-      ],
-      "genres": [
-        "m-m-romance",
-        "romance",
-        "contemporary",
-        "lgbt",
-        "contemporary-romance",
-        "queer",
-        "audiobook"
-      ],
-      "rating": 4.05,
-      "ratings": 6765,
-      "reviews": 823
-    },
-    {
-      "title": "He Who Drowned the World",
-      "url": "https://www.goodreads.com/book/show/63132362-he-who-drowned-the-world",
-      "id": "93477937",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1675980231i/63132362.jpg",
-      "authors": [
-        "Shelley Parker-Chan"
-      ],
-      "genres": [
-        "fantasy",
-        "historical-fiction",
-        "queer",
-        "historical",
-        "fiction",
-        "lgbt",
-        "adult"
-      ],
-      "rating": 4.29,
-      "ratings": 6716,
-      "reviews": 1650
-    },
-    {
-      "title": "Grandmaster of Demonic Cultivation: Mo Dao Zu Shi (Novel) Vol. 5",
-      "url": "https://www.goodreads.com/book/show/58736096-grandmaster-of-demonic-cultivation",
-      "id": "92449072",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1680289139i/58736096.jpg",
-      "authors": [
-        "Mò Xiāng Tóng Xiù"
-      ],
-      "genres": [
-        "fantasy",
-        "romance",
-        "lgbt",
-        "boys-love",
-        "queer",
-        "historical",
-        "fiction"
-      ],
-      "rating": 4.6,
-      "ratings": 6711,
-      "reviews": 745
-    },
-    {
-      "title": "Mary Ann in Autumn",
-      "url": "https://www.goodreads.com/book/show/7978315-mary-ann-in-autumn",
-      "id": "6459086",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1278046571i/7978315.jpg",
-      "authors": [
-        "Armistead Maupin"
-      ],
-      "genres": [
-        "fiction",
-        "lgbt",
-        "gay",
-        "queer",
-        "gay-fiction",
-        "contemporary",
-        "novels"
-      ],
-      "rating": 4.04,
-      "ratings": 6704,
-      "reviews": 767
-    },
-    {
-      "title": "Postcolonial Love Poem",
-      "url": "https://www.goodreads.com/book/show/44094069-postcolonial-love-poem",
-      "id": "68574999",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1566106111i/44094069.jpg",
-      "authors": [
-        "Natalie Díaz"
-      ],
-      "genres": [
-        "poetry",
-        "lgbt",
-        "queer",
         "non-fiction",
-        "feminism",
-        "race",
-        "adult"
-      ],
-      "rating": 4.35,
-      "ratings": 6704,
-      "reviews": 1030
-    },
-    {
-      "title": "Revenant Gun",
-      "url": "https://www.goodreads.com/book/show/36373688-revenant-gun",
-      "id": "58060922",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1527495995i/36373688.jpg",
-      "authors": [
-        "Yoon Ha Lee"
-      ],
-      "genres": [
-        "science-fiction",
-        "fiction",
-        "space-opera",
-        "queer",
-        "lgbt",
-        "science-fiction-fantasy",
-        "fantasy"
-      ],
-      "rating": 4.12,
-      "ratings": 6697,
-      "reviews": 728
-    },
-    {
-      "title": "Dschinns",
-      "url": "https://www.goodreads.com/book/show/59425363-dschinns",
-      "id": "93602276",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1634821849i/59425363.jpg",
-      "authors": [
-        "Fatma Aydemir"
-      ],
-      "genres": [
-        "fiction",
-        "german-literature",
-        "contemporary",
-        "germany",
-        "queer",
-        "audiobook",
-        "novels"
-      ],
-      "rating": 4.58,
-      "ratings": 6692,
-      "reviews": 599
-    },
-    {
-      "title": "Cantoras",
-      "url": "https://www.goodreads.com/book/show/43289181-cantoras",
-      "id": "67176389",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1552055059i/43289181.jpg",
-      "authors": [
-        "Carolina De Robertis"
-      ],
-      "genres": [
-        "historical-fiction",
-        "fiction",
-        "lgbt",
-        "queer",
-        "historical",
-        "lesbian",
-        "feminism"
-      ],
-      "rating": 4.38,
-      "ratings": 6636,
-      "reviews": 1183
-    },
-    {
-      "title": "Spear",
-      "url": "https://www.goodreads.com/book/show/57693308-spear",
-      "id": "87725055",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1620929093i/57693308.jpg",
-      "authors": [
-        "Nicola Griffith"
-      ],
-      "genres": [
-        "fantasy",
-        "lgbt",
-        "historical-fiction",
-        "queer",
-        "fiction",
-        "retellings",
-        "novella"
-      ],
-      "rating": 4.09,
-      "ratings": 6629,
-      "reviews": 1357
-    },
-    {
-      "title": "Sissy: A Coming-of-Gender Story",
-      "url": "https://www.goodreads.com/book/show/40984365-sissy",
-      "id": "63949476",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1551995801i/40984365.jpg",
-      "authors": [
-        "Jacob Tobia"
-      ],
-      "genres": [
         "memoir",
-        "non-fiction",
-        "lgbt",
-        "queer",
         "audiobook",
-        "biography",
-        "gender"
-      ],
-      "rating": 4.08,
-      "ratings": 6619,
-      "reviews": 1026
-    },
-    {
-      "title": "Invisible Life",
-      "url": "https://www.goodreads.com/book/show/507388.Invisible_Life",
-      "id": "1427368",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1349055046i/507388.jpg",
-      "authors": [
-        "E. Lynn Harris"
-      ],
-      "genres": [
-        "fiction",
         "lgbt",
-        "african-american",
+        "biography",
         "queer",
-        "romance",
-        "gay",
-        "drama"
+        "book-club"
       ],
       "rating": 4.31,
-      "ratings": 6611,
-      "reviews": 257
-    },
-    {
-      "title": "Trumpet",
-      "url": "https://www.goodreads.com/book/show/195733.Trumpet",
-      "id": "647113",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1403185988i/195733.jpg",
-      "authors": [
-        "Jackie Kay"
-      ],
-      "genres": [
-        "fiction",
-        "lgbt",
-        "queer",
-        "literary-fiction",
-        "historical-fiction",
-        "contemporary",
-        "scotland"
-      ],
-      "rating": 4.06,
-      "ratings": 6588,
-      "reviews": 561
-    },
-    {
-      "title": "Master of Mayhem",
-      "url": "https://www.goodreads.com/book/show/59541711-master-of-mayhem",
-      "id": "93774869",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1645625563i/59541711.jpg",
-      "authors": [
-        "Saxon James"
-      ],
-      "genres": [
-        "m-m-romance",
-        "romance",
-        "college",
-        "contemporary",
-        "lgbt",
-        "new-adult",
-        "queer"
-      ],
-      "rating": 4.13,
-      "ratings": 6584,
-      "reviews": 737
-    },
-    {
-      "title": "The Scum Villain's Self-Saving System: Ren Zha Fanpai Zijiu Xitong (Novel) Vol. 4",
-      "url": "https://www.goodreads.com/book/show/59983784-the-scum-villain-s-self-saving-system",
-      "id": "94534311",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1660332636i/59983784.jpg",
-      "authors": [
-        "Mò Xiāng Tóng Xiù"
-      ],
-      "genres": [
-        "fantasy",
-        "romance",
-        "lgbt",
-        "boys-love",
-        "fiction",
-        "queer",
-        "china"
-      ],
-      "rating": 4.27,
-      "ratings": 6566,
-      "reviews": 686
+      "ratings": 8255,
+      "reviews": 1027
     }
   ]
 }

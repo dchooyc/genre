@@ -1,48 +1,6 @@
 {
   "books": [
     {
-      "title": "On Growth and Form",
-      "url": "https://www.goodreads.com/book/show/460984.On_Growth_and_Form",
-      "id": "1960",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348738718i/460984.jpg",
-      "authors": [
-        "D'Arcy Wentworth Thompson"
-      ],
-      "genres": [
-        "science",
-        "biology",
-        "non-fiction",
-        "evolution",
-        "philosophy",
-        "mathematics",
-        "design"
-      ],
-      "rating": 4.14,
-      "ratings": 853,
-      "reviews": 34
-    },
-    {
-      "title": "Nothing Stopped Sophie: The Story of Unshakable Mathematician Sophie Germain",
-      "url": "https://www.goodreads.com/book/show/33673116-nothing-stopped-sophie",
-      "id": "54547206",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1528546797i/33673116.jpg",
-      "authors": [
-        "Cheryl Bardoe"
-      ],
-      "genres": [
-        "picture-books",
-        "biography",
-        "mathematics",
-        "non-fiction",
-        "history",
-        "childrens",
-        "science"
-      ],
-      "rating": 4.25,
-      "ratings": 850,
-      "reviews": 217
-    },
-    {
       "title": "Proofs from the Book",
       "url": "https://www.goodreads.com/book/show/696238.Proofs_from_the_Book",
       "id": "682557",
@@ -56,12 +14,33 @@
         "non-fiction",
         "textbooks",
         "reference",
-        "technical",
-        "academic"
+        "academic",
+        "technical"
       ],
       "rating": 4.4,
-      "ratings": 828,
-      "reviews": 20
+      "ratings": 860,
+      "reviews": 23
+    },
+    {
+      "title": "Journey to the Edge of Reason: The Life of Kurt Gödel",
+      "url": "https://www.goodreads.com/book/show/55298400-journey-to-the-edge-of-reason",
+      "id": "86235737",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1615001606i/55298400.jpg",
+      "authors": [
+        "Stephen Budiansky"
+      ],
+      "genres": [
+        "biography",
+        "philosophy",
+        "science",
+        "non-fiction",
+        "mathematics",
+        "history",
+        "physics"
+      ],
+      "rating": 4.08,
+      "ratings": 839,
+      "reviews": 114
     },
     {
       "title": "Ada Lovelace: The Poet of Science",
@@ -72,38 +51,59 @@
         "Diane Stanley"
       ],
       "genres": [
-        "picture-books",
         "biography",
-        "science",
+        "picture-books",
         "non-fiction",
+        "science",
         "childrens",
         "mathematics",
         "history"
       ],
       "rating": 4.03,
-      "ratings": 814,
-      "reviews": 205
+      "ratings": 827,
+      "reviews": 202
     },
     {
-      "title": "Understanding Complexity",
-      "url": "https://www.goodreads.com/book/show/46138936-understanding-complexity",
-      "id": "71080283",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1654077152i/46138936.jpg",
+      "title": "Classical Mechanics",
+      "url": "https://www.goodreads.com/book/show/245483.Classical_Mechanics",
+      "id": "237849",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386912834i/245483.jpg",
       "authors": [
-        "Scott E. Page"
+        "John R. Taylor"
       ],
       "genres": [
+        "physics",
+        "textbooks",
         "science",
         "non-fiction",
-        "philosophy",
-        "audiobook",
-        "economics",
-        "business",
-        "mathematics"
+        "reference",
+        "mathematics",
+        "stem"
       ],
-      "rating": 4.15,
-      "ratings": 814,
-      "reviews": 98
+      "rating": 4.29,
+      "ratings": 826,
+      "reviews": 59
+    },
+    {
+      "title": "Mastering 'Metrics: The Path from Cause to Effect",
+      "url": "https://www.goodreads.com/book/show/23986891-mastering-metrics",
+      "id": "43588311",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1441615856i/23986891.jpg",
+      "authors": [
+        "Joshua D. Angrist"
+      ],
+      "genres": [
+        "economics",
+        "non-fiction",
+        "business",
+        "mathematics",
+        "technical",
+        "science",
+        "reference"
+      ],
+      "rating": 4.28,
+      "ratings": 824,
+      "reviews": 75
     },
     {
       "title": "Is a Blue Whale the Biggest Thing There Is?",
@@ -123,7 +123,7 @@
         "nature"
       ],
       "rating": 4.27,
-      "ratings": 790,
+      "ratings": 808,
       "reviews": 75
     },
     {
@@ -143,9 +143,9 @@
         "reference",
         "technical"
       ],
-      "rating": 4.23,
-      "ratings": 787,
-      "reviews": 40
+      "rating": 4.24,
+      "ratings": 808,
+      "reviews": 43
     },
     {
       "title": "Ada Byron Lovelace & the Thinking Machine",
@@ -160,13 +160,13 @@
         "biography",
         "non-fiction",
         "science",
-        "history",
         "mathematics",
+        "history",
         "childrens"
       ],
       "rating": 4.19,
-      "ratings": 776,
-      "reviews": 175
+      "ratings": 798,
+      "reviews": 177
     },
     {
       "title": "A Computer Called Katherine: How Katherine Johnson Helped Put America on the Moon",
@@ -182,199 +182,33 @@
         "non-fiction",
         "science",
         "space",
-        "mathematics",
-        "history"
+        "history",
+        "mathematics"
       ],
       "rating": 4.39,
-      "ratings": 768,
-      "reviews": 145
+      "ratings": 797,
+      "reviews": 150
     },
     {
-      "title": "Ordinary Mary's Extraordinary Deed",
-      "url": "https://www.goodreads.com/book/show/226034.Ordinary_Mary_s_Extraordinary_Deed",
-      "id": "218932",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1580654524i/226034.jpg",
+      "title": "The Fourth Dimension: A Guided Tour of the Higher Universes",
+      "url": "https://www.goodreads.com/book/show/274064.The_Fourth_Dimension",
+      "id": "265742",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1392182471i/274064.jpg",
       "authors": [
-        "Emily Pearson"
+        "Rudy Rucker"
       ],
       "genres": [
-        "picture-books",
-        "childrens",
-        "fiction",
-        "realistic-fiction",
-        "mathematics",
-        "family",
-        "1st-grade"
-      ],
-      "rating": 4.21,
-      "ratings": 755,
-      "reviews": 156
-    },
-    {
-      "title": "My Very First Book of Shapes",
-      "url": "https://www.goodreads.com/book/show/394758.My_Very_First_Book_of_Shapes",
-      "id": "2799196",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347662324i/394758.jpg",
-      "authors": [
-        "Eric Carle"
-      ],
-      "genres": [
-        "picture-books",
-        "childrens",
-        "mathematics",
-        "fiction",
-        "spanish-literature"
-      ],
-      "rating": 4.05,
-      "ratings": 754,
-      "reviews": 56
-    },
-    {
-      "title": "A Hundred Billion Trillion Stars",
-      "url": "https://www.goodreads.com/book/show/33154778-a-hundred-billion-trillion-stars",
-      "id": "53847669",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1499584420i/33154778.jpg",
-      "authors": [
-        "Seth Fishman"
-      ],
-      "genres": [
-        "picture-books",
-        "mathematics",
-        "non-fiction",
         "science",
-        "childrens",
-        "space",
-        "storytime"
-      ],
-      "rating": 4.15,
-      "ratings": 750,
-      "reviews": 143
-    },
-    {
-      "title": "Mastering 'Metrics: The Path from Cause to Effect",
-      "url": "https://www.goodreads.com/book/show/23986891-mastering-metrics",
-      "id": "43588311",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1441615856i/23986891.jpg",
-      "authors": [
-        "Joshua D. Angrist"
-      ],
-      "genres": [
-        "economics",
         "non-fiction",
-        "mathematics",
-        "business",
-        "technical",
-        "science",
-        "reference"
-      ],
-      "rating": 4.26,
-      "ratings": 730,
-      "reviews": 58
-    },
-    {
-      "title": "Classical Mechanics",
-      "url": "https://www.goodreads.com/book/show/245483.Classical_Mechanics",
-      "id": "237849",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386912834i/245483.jpg",
-      "authors": [
-        "John R. Taylor"
-      ],
-      "genres": [
         "physics",
-        "textbooks",
-        "science",
-        "non-fiction",
-        "reference",
-        "school",
-        "mathematics"
-      ],
-      "rating": 4.31,
-      "ratings": 727,
-      "reviews": 42
-    },
-    {
-      "title": "Introduction to Logic",
-      "url": "https://www.goodreads.com/book/show/673485.Introduction_to_Logic",
-      "id": "659499",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1387715388i/673485.jpg",
-      "authors": [
-        "Irving M. Copi"
-      ],
-      "genres": [
+        "mathematics",
         "philosophy",
-        "logic",
-        "non-fiction",
-        "textbooks",
-        "reference",
-        "mathematics",
-        "science"
+        "popular-science",
+        "stem"
       ],
-      "rating": 4.09,
-      "ratings": 721,
-      "reviews": 61
-    },
-    {
-      "title": "AIQ: How People and Machines Are Smarter Together",
-      "url": "https://www.goodreads.com/book/show/39328092-aiq",
-      "id": "60952781",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1521526128i/39328092.jpg",
-      "authors": [
-        "Nick Polson"
-      ],
-      "genres": [
-        "non-fiction",
-        "science",
-        "artificial-intelligence",
-        "technology",
-        "business",
-        "society",
-        "mathematics"
-      ],
-      "rating": 4.16,
-      "ratings": 693,
-      "reviews": 113
-    },
-    {
-      "title": "Introductory Econometrics: A Modern Approach",
-      "url": "https://www.goodreads.com/book/show/390475.Introductory_Econometrics",
-      "id": "380087",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1387708212i/390475.jpg",
-      "authors": [
-        "Jeffrey M. Wooldridge"
-      ],
-      "genres": [
-        "economics",
-        "textbooks",
-        "non-fiction",
-        "mathematics",
-        "academic",
-        "reference",
-        "business"
-      ],
-      "rating": 4.09,
-      "ratings": 690,
-      "reviews": 27
-    },
-    {
-      "title": "The Girl With a Mind for Math: The Story of Raye Montague",
-      "url": "https://www.goodreads.com/book/show/37815011-the-girl-with-a-mind-for-math",
-      "id": "57204083",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1532500692i/37815011.jpg",
-      "authors": [
-        "Julia Finley Mosca"
-      ],
-      "genres": [
-        "picture-books",
-        "biography",
-        "non-fiction",
-        "mathematics",
-        "childrens",
-        "science",
-        "african-american"
-      ],
-      "rating": 4.4,
-      "ratings": 684,
-      "reviews": 170
+      "rating": 4.14,
+      "ratings": 790,
+      "reviews": 52
     },
     {
       "title": "Pezzettino",
@@ -387,57 +221,15 @@
       "genres": [
         "picture-books",
         "childrens",
-        "mathematics",
         "art",
         "italian-literature",
         "adventure",
+        "mathematics",
         "psychology"
       ],
-      "rating": 4.28,
-      "ratings": 681,
-      "reviews": 70
-    },
-    {
-      "title": "Asimov on Numbers",
-      "url": "https://www.goodreads.com/book/show/41816.Asimov_on_Numbers",
-      "id": "41328",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1392393658i/41816.jpg",
-      "authors": [
-        "Isaac Asimov"
-      ],
-      "genres": [
-        "non-fiction",
-        "science",
-        "mathematics",
-        "essays",
-        "classics",
-        "education",
-        "reference"
-      ],
-      "rating": 4.06,
-      "ratings": 666,
-      "reviews": 41
-    },
-    {
-      "title": "Biggest, Strongest, Fastest",
-      "url": "https://www.goodreads.com/book/show/1406157.Biggest_Strongest_Fastest",
-      "id": "1396396",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347522732i/1406157.jpg",
-      "authors": [
-        "Steve Jenkins"
-      ],
-      "genres": [
-        "picture-books",
-        "animals",
-        "non-fiction",
-        "science",
-        "childrens",
-        "mathematics",
-        "nature"
-      ],
-      "rating": 4.1,
-      "ratings": 664,
-      "reviews": 104
+      "rating": 4.29,
+      "ratings": 780,
+      "reviews": 84
     },
     {
       "title": "Change is the Only Constant: The Wisdom of Calculus in a Madcap World",
@@ -457,50 +249,260 @@
         "popular-science"
       ],
       "rating": 4.31,
-      "ratings": 663,
-      "reviews": 97
+      "ratings": 778,
+      "reviews": 108
     },
     {
-      "title": "Sled Dog School",
-      "url": "https://www.goodreads.com/book/show/29736688-sled-dog-school",
-      "id": "50079172",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1490336902i/29736688.jpg",
+      "title": "A Hundred Billion Trillion Stars",
+      "url": "https://www.goodreads.com/book/show/33154778-a-hundred-billion-trillion-stars",
+      "id": "53847669",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1499584420i/33154778.jpg",
       "authors": [
-        "Terry Lynn Johnson"
+        "Seth Fishman"
       ],
       "genres": [
-        "middle-grade",
-        "fiction",
-        "realistic-fiction",
-        "animals",
-        "childrens",
-        "dogs",
-        "mathematics"
-      ],
-      "rating": 4.01,
-      "ratings": 663,
-      "reviews": 113
-    },
-    {
-      "title": "Introduction to Automata Theory, Languages, and Computation",
-      "url": "https://www.goodreads.com/book/show/1384026.Introduction_to_Automata_Theory_Languages_and_Computation",
-      "id": "1374051",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1387668734i/1384026.jpg",
-      "authors": [
-        "John E. Hopcroft"
-      ],
-      "genres": [
-        "computer-science",
-        "programming",
-        "reference",
+        "picture-books",
         "mathematics",
-        "computers",
+        "non-fiction",
         "science",
+        "childrens",
+        "space",
+        "stem"
+      ],
+      "rating": 4.14,
+      "ratings": 773,
+      "reviews": 144
+    },
+    {
+      "title": "Course of Theoretical Physics: Vol. 1, Mechanics",
+      "url": "https://www.goodreads.com/book/show/53517.Course_of_Theoretical_Physics",
+      "id": "52192",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348950900i/53517.jpg",
+      "authors": [
+        "L.D. Landau"
+      ],
+      "genres": [
+        "physics",
+        "science",
+        "textbooks",
+        "mathematics",
+        "non-fiction",
+        "reference",
         "technical"
       ],
-      "rating": 4.05,
-      "ratings": 655,
+      "rating": 4.4,
+      "ratings": 758,
+      "reviews": 32
+    },
+    {
+      "title": "The Great Mental Models Volume 3: Systems and Mathematics",
+      "url": "https://www.goodreads.com/book/show/57016829-the-great-mental-models-volume-3",
+      "id": "89214528",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1623125468i/57016829.jpg",
+      "authors": [
+        "Rhiannon Beaubien"
+      ],
+      "genres": [
+        "non-fiction",
+        "science",
+        "psychology",
+        "self-help",
+        "business",
+        "mathematics",
+        "personal-development"
+      ],
+      "rating": 4.25,
+      "ratings": 756,
+      "reviews": 52
+    },
+    {
+      "title": "The Art of More: How Mathematics Created Civilisation",
+      "url": "https://www.goodreads.com/book/show/56648606-the-art-of-more",
+      "id": "88519729",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1620621885i/56648606.jpg",
+      "authors": [
+        "Michael Brooks"
+      ],
+      "genres": [
+        "non-fiction",
+        "science",
+        "history",
+        "mathematics",
+        "audiobook",
+        "popular-science",
+        "stem"
+      ],
+      "rating": 4.07,
+      "ratings": 736,
+      "reviews": 98
+    },
+    {
+      "title": "The Girl With a Mind for Math: The Story of Raye Montague",
+      "url": "https://www.goodreads.com/book/show/37815011-the-girl-with-a-mind-for-math",
+      "id": "57204083",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1532500692i/37815011.jpg",
+      "authors": [
+        "Julia Finley Mosca"
+      ],
+      "genres": [
+        "picture-books",
+        "biography",
+        "non-fiction",
+        "mathematics",
+        "childrens",
+        "stem",
+        "science"
+      ],
+      "rating": 4.41,
+      "ratings": 735,
+      "reviews": 175
+    },
+    {
+      "title": "AIQ: How People and Machines are Smarter Together",
+      "url": "https://www.goodreads.com/book/show/39328092-aiq",
+      "id": "60952781",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1521526128i/39328092.jpg",
+      "authors": [
+        "Nick Polson"
+      ],
+      "genres": [
+        "non-fiction",
+        "science",
+        "artificial-intelligence",
+        "technology",
+        "business",
+        "mathematics",
+        "audiobook"
+      ],
+      "rating": 4.15,
+      "ratings": 725,
+      "reviews": 120
+    },
+    {
+      "title": "Statistics Without Tears: An Introduction for Non-Mathematicians",
+      "url": "https://www.goodreads.com/book/show/578667.Statistics_Without_Tears",
+      "id": "565585",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348517063i/578667.jpg",
+      "authors": [
+        "Derek Rowntree"
+      ],
+      "genres": [
+        "non-fiction",
+        "science",
+        "mathematics",
+        "reference",
+        "research",
+        "popular-science",
+        "technology"
+      ],
+      "rating": 4.01,
+      "ratings": 714,
+      "reviews": 91
+    },
+    {
+      "title": "Introductory Econometrics: A Modern Approach",
+      "url": "https://www.goodreads.com/book/show/390475.Introductory_Econometrics",
+      "id": "380087",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1387708212i/390475.jpg",
+      "authors": [
+        "Jeffrey M. Wooldridge"
+      ],
+      "genres": [
+        "economics",
+        "textbooks",
+        "mathematics",
+        "non-fiction",
+        "academic",
+        "business",
+        "reference"
+      ],
+      "rating": 4.11,
+      "ratings": 711,
       "reviews": 29
+    },
+    {
+      "title": "Why Machines Learn: The Elegant Math Behind Modern AI",
+      "url": "https://www.goodreads.com/book/show/195888801-why-machines-learn",
+      "id": "197870335",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1698815858i/195888801.jpg",
+      "authors": [
+        "Anil Ananthaswamy"
+      ],
+      "genres": [
+        "artificial-intelligence",
+        "science",
+        "non-fiction",
+        "technology",
+        "mathematics",
+        "computer-science",
+        "programming"
+      ],
+      "rating": 4.37,
+      "ratings": 707,
+      "reviews": 101
+    },
+    {
+      "title": "Abstract Algebra",
+      "url": "https://www.goodreads.com/book/show/264543.Abstract_Algebra",
+      "id": "256451",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347960258i/264543.jpg",
+      "authors": [
+        "David S. Dummit"
+      ],
+      "genres": [
+        "mathematics",
+        "textbooks",
+        "algebra",
+        "non-fiction",
+        "science",
+        "technical",
+        "reference"
+      ],
+      "rating": 4.19,
+      "ratings": 702,
+      "reviews": 48
+    },
+    {
+      "title": "Biggest, Strongest, Fastest",
+      "url": "https://www.goodreads.com/book/show/1406157.Biggest_Strongest_Fastest",
+      "id": "1396396",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347522732i/1406157.jpg",
+      "authors": [
+        "Steve Jenkins"
+      ],
+      "genres": [
+        "picture-books",
+        "animals",
+        "non-fiction",
+        "science",
+        "childrens",
+        "nature",
+        "mathematics"
+      ],
+      "rating": 4.11,
+      "ratings": 692,
+      "reviews": 105
+    },
+    {
+      "title": "Introduction to Linear Algebra",
+      "url": "https://www.goodreads.com/book/show/179700.Introduction_to_Linear_Algebra",
+      "id": "173617",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1387724653i/179700.jpg",
+      "authors": [
+        "Gilbert Strang"
+      ],
+      "genres": [
+        "mathematics",
+        "textbooks",
+        "reference",
+        "science",
+        "algebra",
+        "computer-science",
+        "non-fiction"
+      ],
+      "rating": 4.24,
+      "ratings": 690,
+      "reviews": 61
     }
   ]
 }

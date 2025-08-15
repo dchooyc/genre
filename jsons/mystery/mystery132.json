@@ -1,31 +1,388 @@
 {
   "books": [
     {
-      "title": "The Girl in the Sand",
-      "url": "https://www.goodreads.com/book/show/39334011-the-girl-in-the-sand",
-      "id": "60655743",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1521589050i/39334011.jpg",
+      "title": "Flesh and Bone",
+      "url": "https://www.goodreads.com/book/show/92145.Flesh_and_Bone",
+      "id": "88873",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442930671i/92145.jpg",
       "authors": [
-        "L.T. Vargus"
+        "Jefferson Bass"
+      ],
+      "genres": [
+        "mystery",
+        "fiction",
+        "thriller",
+        "crime",
+        "suspense",
+        "mystery-thriller",
+        "anthropology"
+      ],
+      "rating": 4.06,
+      "ratings": 10899,
+      "reviews": 660
+    },
+    {
+      "title": "Everything We Give",
+      "url": "https://www.goodreads.com/book/show/36647644-everything-we-give",
+      "id": "58418974",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1515494112i/36647644.jpg",
+      "authors": [
+        "Kerry Lonsdale"
+      ],
+      "genres": [
+        "fiction",
+        "romance",
+        "audiobook",
+        "mystery",
+        "contemporary-romance",
+        "chick-lit",
+        "contemporary"
+      ],
+      "rating": 4.16,
+      "ratings": 10897,
+      "reviews": 644
+    },
+    {
+      "title": "Mercy",
+      "url": "https://www.goodreads.com/book/show/33121289-mercy",
+      "id": "53788720",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1480014443i/33121289.jpg",
+      "authors": [
+        "Victor Methos"
+      ],
+      "genres": [
+        "fiction",
+        "legal-thriller",
+        "crime",
+        "mystery",
+        "thriller",
+        "audiobook",
+        "suspense"
+      ],
+      "rating": 4.4,
+      "ratings": 10891,
+      "reviews": 401
+    },
+    {
+      "title": "Above Suspicion",
+      "url": "https://www.goodreads.com/book/show/729246.Above_Suspicion",
+      "id": "2478654",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442591860i/729246.jpg",
+      "authors": [
+        "Lynda La Plante"
+      ],
+      "genres": [
+        "mystery",
+        "fiction",
+        "crime",
+        "thriller",
+        "mystery-thriller",
+        "espionage",
+        "suspense"
+      ],
+      "rating": 4.09,
+      "ratings": 10888,
+      "reviews": 675
+    },
+    {
+      "title": "Code",
+      "url": "https://www.goodreads.com/book/show/7744611-code",
+      "id": "10566392",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1341408951i/7744611.jpg",
+      "authors": [
+        "Kathy Reichs"
+      ],
+      "genres": [
+        "young-adult",
+        "mystery",
+        "science-fiction",
+        "fiction",
+        "fantasy",
+        "adventure",
+        "thriller"
+      ],
+      "rating": 4.24,
+      "ratings": 10874,
+      "reviews": 790
+    },
+    {
+      "title": "The Woman in Our House",
+      "url": "https://www.goodreads.com/book/show/39904261-the-woman-in-our-house",
+      "id": "61749922",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1549635992i/39904261.jpg",
+      "authors": [
+        "Andrew   Hart"
+      ],
+      "genres": [
+        "thriller",
+        "fiction",
+        "mystery",
+        "mystery-thriller",
+        "suspense",
+        "audiobook",
+        "adult"
+      ],
+      "rating": 4,
+      "ratings": 10871,
+      "reviews": 787
+    },
+    {
+      "title": "The Devil and Mrs. Davenport",
+      "url": "https://www.goodreads.com/book/show/162505604-the-devil-and-mrs-davenport",
+      "id": "173872354",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1697845856i/162505604.jpg",
+      "authors": [
+        "Paulette Kennedy"
+      ],
+      "genres": [
+        "horror",
+        "historical-fiction",
+        "fiction",
+        "mystery",
+        "thriller",
+        "paranormal",
+        "gothic"
+      ],
+      "rating": 4.19,
+      "ratings": 10870,
+      "reviews": 1420
+    },
+    {
+      "title": "The Unquiet",
+      "url": "https://www.goodreads.com/book/show/175247.The_Unquiet",
+      "id": "3238289",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1385271594i/175247.jpg",
+      "authors": [
+        "John Connolly"
+      ],
+      "genres": [
+        "thriller",
+        "mystery",
+        "crime",
+        "fiction",
+        "horror",
+        "mystery-thriller",
+        "supernatural"
+      ],
+      "rating": 4.15,
+      "ratings": 10857,
+      "reviews": 622
+    },
+    {
+      "title": "Ahead of the Game",
+      "url": "https://www.goodreads.com/book/show/56326926-ahead-of-the-game",
+      "id": "87757367",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1608280930i/56326926.jpg",
+      "authors": [
+        "J.D. Kirk"
+      ],
+      "genres": [
+        "crime",
+        "mystery",
+        "thriller",
+        "scotland",
+        "fiction",
+        "audiobook",
+        "mystery-thriller"
+      ],
+      "rating": 4.55,
+      "ratings": 10855,
+      "reviews": 357
+    },
+    {
+      "title": "Ice Blue",
+      "url": "https://www.goodreads.com/book/show/10994296-ice-blue",
+      "id": "15912918",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328325379i/10994296.jpg",
+      "authors": [
+        "Emma Jameson"
+      ],
+      "genres": [
+        "mystery",
+        "romance",
+        "crime",
+        "fiction",
+        "contemporary",
+        "mystery-thriller",
+        "thriller"
+      ],
+      "rating": 4.13,
+      "ratings": 10855,
+      "reviews": 815
+    },
+    {
+      "title": "The Lost Order",
+      "url": "https://www.goodreads.com/book/show/29939076-the-lost-order",
+      "id": "53491597",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1466763950i/29939076.jpg",
+      "authors": [
+        "Steve Berry"
+      ],
+      "genres": [
+        "thriller",
+        "fiction",
+        "historical-fiction",
+        "mystery",
+        "audiobook",
+        "adventure",
+        "mystery-thriller"
+      ],
+      "rating": 4.09,
+      "ratings": 10852,
+      "reviews": 916
+    },
+    {
+      "title": "Fortune Hunter",
+      "url": "https://www.goodreads.com/book/show/29915419-fortune-hunter",
+      "id": "50294926",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1460644994i/29915419.jpg",
+      "authors": [
+        "Jana Deleon"
+      ],
+      "genres": [
+        "mystery",
+        "cozy-mystery",
+        "humor",
+        "audiobook",
+        "fiction",
+        "romance",
+        "cozy"
+      ],
+      "rating": 4.5,
+      "ratings": 10852,
+      "reviews": 461
+    },
+    {
+      "title": "Bedlam",
+      "url": "https://www.goodreads.com/book/show/53510813-bedlam",
+      "id": "84909430",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1590613643i/53510813.jpg",
+      "authors": [
+        "L.J. Ross"
+      ],
+      "genres": [
+        "crime",
+        "thriller",
+        "mystery",
+        "fiction",
+        "audiobook",
+        "mystery-thriller",
+        "psychological-thriller"
+      ],
+      "rating": 4.35,
+      "ratings": 10849,
+      "reviews": 363
+    },
+    {
+      "title": "Hemlock Bay",
+      "url": "https://www.goodreads.com/book/show/319139.Hemlock_Bay",
+      "id": "1833173",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1390153650i/319139.jpg",
+      "authors": [
+        "Catherine Coulter"
       ],
       "genres": [
         "mystery",
         "thriller",
+        "romance",
         "fiction",
-        "crime",
-        "mystery-thriller",
-        "horror",
-        "detective"
+        "suspense",
+        "romantic-suspense",
+        "crime"
       ],
-      "rating": 4.39,
-      "ratings": 8901,
-      "reviews": 412
+      "rating": 4.06,
+      "ratings": 10843,
+      "reviews": 406
     },
     {
-      "title": "Chaos in Death",
-      "url": "https://www.goodreads.com/book/show/11138230-chaos-in-death",
-      "id": "16061587",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1316262197i/11138230.jpg",
+      "title": "In the Electric Mist With Confederate Dead",
+      "url": "https://www.goodreads.com/book/show/218736.In_the_Electric_Mist_With_Confederate_Dead",
+      "id": "852498",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347384287i/218736.jpg",
+      "authors": [
+        "James Lee Burke"
+      ],
+      "genres": [
+        "mystery",
+        "fiction",
+        "crime",
+        "thriller",
+        "mystery-thriller",
+        "detective",
+        "noir"
+      ],
+      "rating": 4.17,
+      "ratings": 10841,
+      "reviews": 550
+    },
+    {
+      "title": "TailSpin",
+      "url": "https://www.goodreads.com/book/show/2022443.TailSpin",
+      "id": "2929459",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1441922466i/2022443.jpg",
+      "authors": [
+        "Catherine Coulter"
+      ],
+      "genres": [
+        "mystery",
+        "fiction",
+        "thriller",
+        "romance",
+        "suspense",
+        "romantic-suspense",
+        "crime"
+      ],
+      "rating": 4.1,
+      "ratings": 10840,
+      "reviews": 579
+    },
+    {
+      "title": "Tales of the Unexpected",
+      "url": "https://www.goodreads.com/book/show/394689.Tales_of_the_Unexpected",
+      "id": "326019",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1403167344i/394689.jpg",
+      "authors": [
+        "Roald Dahl"
+      ],
+      "genres": [
+        "short-stories",
+        "fiction",
+        "horror",
+        "fantasy",
+        "classics",
+        "humor",
+        "mystery"
+      ],
+      "rating": 4.17,
+      "ratings": 10838,
+      "reviews": 639
+    },
+    {
+      "title": "Winter's Web",
+      "url": "https://www.goodreads.com/book/show/49529106-winter-s-web",
+      "id": "73457015",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1569507743l/49529106.jpg",
+      "authors": [
+        "Mary Stone"
+      ],
+      "genres": [
+        "mystery",
+        "thriller",
+        "crime",
+        "fiction",
+        "audiobook",
+        "paranormal",
+        "suspense"
+      ],
+      "rating": 4.52,
+      "ratings": 10837,
+      "reviews": 249
+    },
+    {
+      "title": "Missing in Death",
+      "url": "https://www.goodreads.com/book/show/6498356-missing-in-death",
+      "id": "6689855",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348032120i/6498356.jpg",
       "authors": [
         "J.D. Robb"
       ],
@@ -33,476 +390,119 @@
         "mystery",
         "romance",
         "crime",
-        "futuristic",
         "romantic-suspense",
-        "fiction",
-        "suspense"
+        "futuristic",
+        "audiobook",
+        "fiction"
       ],
-      "rating": 4.17,
-      "ratings": 8899,
-      "reviews": 363
+      "rating": 4.23,
+      "ratings": 10837,
+      "reviews": 387
     },
     {
-      "title": "Mortal Stakes",
-      "url": "https://www.goodreads.com/book/show/414402.Mortal_Stakes",
-      "id": "3173257",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1370973351i/414402.jpg",
+      "title": "Watcher in the Woods",
+      "url": "https://www.goodreads.com/book/show/38349181-watcher-in-the-woods",
+      "id": "60012379",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1539110468i/38349181.jpg",
+      "authors": [
+        "Kelley Armstrong"
+      ],
+      "genres": [
+        "mystery",
+        "thriller",
+        "fiction",
+        "audiobook",
+        "suspense",
+        "mystery-thriller",
+        "adult"
+      ],
+      "rating": 4.14,
+      "ratings": 10835,
+      "reviews": 1155
+    },
+    {
+      "title": "The Colors of All the Cattle",
+      "url": "https://www.goodreads.com/book/show/38658159-the-colors-of-all-the-cattle",
+      "id": "60268874",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1527401446i/38658159.jpg",
+      "authors": [
+        "Alexander McCall Smith"
+      ],
+      "genres": [
+        "mystery",
+        "fiction",
+        "africa",
+        "audiobook",
+        "cozy-mystery",
+        "botswana",
+        "adult"
+      ],
+      "rating": 4.16,
+      "ratings": 10834,
+      "reviews": 1292
+    },
+    {
+      "title": "Painted Ladies",
+      "url": "https://www.goodreads.com/book/show/7625566-painted-ladies",
+      "id": "10113302",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320532565i/7625566.jpg",
       "authors": [
         "Robert B. Parker"
       ],
       "genres": [
         "mystery",
         "fiction",
+        "crime",
         "detective",
-        "crime",
-        "mystery-thriller",
         "thriller",
-        "audiobook"
-      ],
-      "rating": 4.03,
-      "ratings": 8896,
-      "reviews": 451
-    },
-    {
-      "title": "Everything She Ever Wanted: A True Story of Obsessive Love, Murder, and Betrayal",
-      "url": "https://www.goodreads.com/book/show/225383.Everything_She_Ever_Wanted",
-      "id": "218290",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1412143011i/225383.jpg",
-      "authors": [
-        "Ann Rule"
-      ],
-      "genres": [
-        "true-crime",
-        "non-fiction",
-        "crime",
-        "mystery",
-        "biography",
-        "audiobook",
-        "true-story"
-      ],
-      "rating": 4.07,
-      "ratings": 8896,
-      "reviews": 311
-    },
-    {
-      "title": "Split Second",
-      "url": "https://www.goodreads.com/book/show/557405.Split_Second",
-      "id": "1179853",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1335743058i/557405.jpg",
-      "authors": [
-        "Alex Kava"
-      ],
-      "genres": [
-        "mystery",
-        "thriller",
-        "crime",
-        "fiction",
-        "suspense",
-        "mystery-thriller",
-        "romance"
-      ],
-      "rating": 4.09,
-      "ratings": 8894,
-      "reviews": 392
-    },
-    {
-      "title": "The Forever Crew",
-      "url": "https://www.goodreads.com/book/show/46065762-the-forever-crew",
-      "id": "70983545",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1559244938i/46065762.jpg",
-      "authors": [
-        "C.M. Stunich"
-      ],
-      "genres": [
-        "reverse-harem",
-        "romance",
-        "contemporary",
-        "high-school",
-        "mystery",
-        "new-adult",
-        "young-adult"
-      ],
-      "rating": 4.24,
-      "ratings": 8892,
-      "reviews": 719
-    },
-    {
-      "title": "The Maze Runner Trilogy",
-      "url": "https://www.goodreads.com/book/show/17292676-the-maze-runner-trilogy",
-      "id": "23924619",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1366897607i/17292676.jpg",
-      "authors": [
-        "James Dashner"
-      ],
-      "genres": [
-        "young-adult",
-        "dystopia",
-        "fiction",
-        "fantasy",
-        "science-fiction",
-        "post-apocalyptic",
-        "mystery"
-      ],
-      "rating": 4.18,
-      "ratings": 8889,
-      "reviews": 423
-    },
-    {
-      "title": "Changing the Rules",
-      "url": "https://www.goodreads.com/book/show/54457628-changing-the-rules",
-      "id": "84984779",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1603804814i/54457628.jpg",
-      "authors": [
-        "Catherine Bybee"
-      ],
-      "genres": [
-        "romance",
-        "romantic-suspense",
-        "suspense",
-        "mystery",
-        "contemporary",
-        "fiction",
-        "audiobook"
-      ],
-      "rating": 4.28,
-      "ratings": 8888,
-      "reviews": 487
-    },
-    {
-      "title": "From Below",
-      "url": "https://www.goodreads.com/book/show/58830202-from-below",
-      "id": "92657861",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1629655212i/58830202.jpg",
-      "authors": [
-        "Darcy Coates"
-      ],
-      "genres": [
-        "horror",
-        "mystery",
-        "fiction",
-        "thriller",
-        "paranormal",
-        "adult",
-        "mystery-thriller"
-      ],
-      "rating": 4.04,
-      "ratings": 8887,
-      "reviews": 1582
-    },
-    {
-      "title": "Red Russia",
-      "url": "https://www.goodreads.com/book/show/36043601-red-russia",
-      "id": "57617699",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1502768249i/36043601.jpg",
-      "authors": [
-        "Tanya Thompson"
-      ],
-      "genres": [
-        "humor",
-        "thriller",
-        "crime",
-        "mystery",
-        "magical-realism",
-        "paranormal",
-        "supernatural"
-      ],
-      "rating": 4.06,
-      "ratings": 8882,
-      "reviews": 137
-    },
-    {
-      "title": "Rust & Stardust",
-      "url": "https://www.goodreads.com/book/show/36249634-rust-stardust",
-      "id": "57897346",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1508012065i/36249634.jpg",
-      "authors": [
-        "T. Greenwood"
-      ],
-      "genres": [
-        "historical-fiction",
-        "fiction",
-        "true-crime",
-        "crime",
-        "historical",
-        "thriller",
-        "mystery"
-      ],
-      "rating": 4.14,
-      "ratings": 8876,
-      "reviews": 1930
-    },
-    {
-      "title": "True Valor",
-      "url": "https://www.goodreads.com/book/show/359456.True_Valor",
-      "id": "349578",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1406510041i/359456.jpg",
-      "authors": [
-        "Dee Henderson"
-      ],
-      "genres": [
-        "christian-fiction",
-        "christian",
-        "fiction",
-        "romance",
-        "suspense",
-        "mystery",
-        "military-fiction"
-      ],
-      "rating": 4.27,
-      "ratings": 8873,
-      "reviews": 229
-    },
-    {
-      "title": "The Vanishing of Margaret Small",
-      "url": "https://www.goodreads.com/book/show/62616002-the-vanishing-of-margaret-small",
-      "id": "98374241",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1663855910i/62616002.jpg",
-      "authors": [
-        "Neil Alexander"
-      ],
-      "genres": [
-        "fiction",
-        "mystery",
-        "historical-fiction",
-        "audiobook",
-        "thriller",
-        "mystery-thriller",
-        "historical"
-      ],
-      "rating": 4.24,
-      "ratings": 8868,
-      "reviews": 669
-    },
-    {
-      "title": "Beneath the Bleeding",
-      "url": "https://www.goodreads.com/book/show/964750.Beneath_the_Bleeding",
-      "id": "2585961",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1179859016i/964750.jpg",
-      "authors": [
-        "Val McDermid"
-      ],
-      "genres": [
-        "mystery",
-        "crime",
-        "fiction",
-        "thriller",
-        "mystery-thriller",
-        "suspense",
-        "audiobook"
-      ],
-      "rating": 4.13,
-      "ratings": 8865,
-      "reviews": 468
-    },
-    {
-      "title": "Wrongful Death",
-      "url": "https://www.goodreads.com/book/show/40194671-wrongful-death",
-      "id": "3907152",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1527021298i/40194671.jpg",
-      "authors": [
-        "Robert Dugoni"
-      ],
-      "genres": [
-        "mystery",
-        "fiction",
-        "thriller",
-        "legal-thriller",
-        "suspense",
         "audiobook",
         "mystery-thriller"
       ],
-      "rating": 4.32,
-      "ratings": 8864,
-      "reviews": 416
+      "rating": 4.01,
+      "ratings": 10833,
+      "reviews": 677
     },
     {
-      "title": "The Handler",
-      "url": "https://www.goodreads.com/book/show/75519912-the-handler",
-      "id": "100813466",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1672686065i/75519912.jpg",
+      "title": "The Night Agent",
+      "url": "https://www.goodreads.com/book/show/44023366-the-night-agent",
+      "id": "60660868",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1553541930i/44023366.jpg",
       "authors": [
-        "L.T. Ryan"
+        "Matthew Quirk"
       ],
       "genres": [
-        "mystery",
         "thriller",
         "fiction",
-        "crime",
-        "mystery-thriller",
-        "suspense",
-        "animals"
-      ],
-      "rating": 4.42,
-      "ratings": 8861,
-      "reviews": 314
-    },
-    {
-      "title": "The Sound of Broken Glass",
-      "url": "https://www.goodreads.com/book/show/15717347-the-sound-of-broken-glass",
-      "id": "21388076",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1350939145i/15717347.jpg",
-      "authors": [
-        "Deborah Crombie"
-      ],
-      "genres": [
         "mystery",
-        "fiction",
-        "crime",
-        "audiobook",
         "mystery-thriller",
-        "british-literature",
+        "audiobook",
+        "espionage",
         "suspense"
       ],
-      "rating": 4.11,
-      "ratings": 8854,
-      "reviews": 703
+      "rating": 4.01,
+      "ratings": 10832,
+      "reviews": 1111
     },
     {
-      "title": "The Whole Truth",
-      "url": "https://www.goodreads.com/book/show/49569511-the-whole-truth",
-      "id": "74832017",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1617287409i/49569511.jpg",
+      "title": "The Courage Tree",
+      "url": "https://www.goodreads.com/book/show/706079.The_Courage_Tree",
+      "id": "3879439",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1480910849i/706079.jpg",
       "authors": [
-        "Cara Hunter"
+        "Diane Chamberlain"
       ],
       "genres": [
-        "crime",
-        "thriller",
-        "mystery",
         "fiction",
-        "mystery-thriller",
-        "audiobook",
-        "british-literature"
-      ],
-      "rating": 4.2,
-      "ratings": 8852,
-      "reviews": 1125
-    },
-    {
-      "title": "Nemesis",
-      "url": "https://www.goodreads.com/book/show/23398600-nemesis",
-      "id": "42955194",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1417721349i/23398600.jpg",
-      "authors": [
-        "Catherine Coulter"
-      ],
-      "genres": [
         "mystery",
-        "thriller",
-        "suspense",
-        "fiction",
-        "romance",
-        "mystery-thriller",
-        "crime"
-      ],
-      "rating": 4.13,
-      "ratings": 8851,
-      "reviews": 601
-    },
-    {
-      "title": "Friend of the Devil",
-      "url": "https://www.goodreads.com/book/show/989584.Friend_of_the_Devil",
-      "id": "3125167",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348602706i/989584.jpg",
-      "authors": [
-        "Peter Robinson"
-      ],
-      "genres": [
-        "mystery",
-        "fiction",
-        "crime",
-        "mystery-thriller",
-        "thriller",
-        "british-literature",
-        "detective"
-      ],
-      "rating": 4.06,
-      "ratings": 8850,
-      "reviews": 420
-    },
-    {
-      "title": "The Wolf at the Door",
-      "url": "https://www.goodreads.com/book/show/36480253-the-wolf-at-the-door",
-      "id": "58190977",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1515447921i/36480253.jpg",
-      "authors": [
-        "Charlie Adhara"
-      ],
-      "genres": [
-        "romance",
-        "m-m-romance",
-        "paranormal",
-        "mystery",
-        "fantasy",
-        "shapeshifters",
-        "lgbt"
-      ],
-      "rating": 4.17,
-      "ratings": 8845,
-      "reviews": 1498
-    },
-    {
-      "title": "Johannes Cabal the Detective",
-      "url": "https://www.goodreads.com/book/show/7675981-johannes-cabal-the-detective",
-      "id": "6824834",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327931539i/7675981.jpg",
-      "authors": [
-        "Jonathan L. Howard"
-      ],
-      "genres": [
-        "fantasy",
-        "steampunk",
-        "mystery",
-        "fiction",
-        "horror",
-        "humor",
-        "urban-fantasy"
-      ],
-      "rating": 4.07,
-      "ratings": 8840,
-      "reviews": 748
-    },
-    {
-      "title": "The Lie",
-      "url": "https://www.goodreads.com/book/show/57567811-the-lie",
-      "id": "71108822",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1617032068i/57567811.jpg",
-      "authors": [
-        "Callie Rose"
-      ],
-      "genres": [
-        "reverse-harem",
-        "romance",
-        "high-school",
+        "chick-lit",
         "contemporary",
-        "mystery",
-        "new-adult",
-        "contemporary-romance"
+        "audiobook",
+        "book-club",
+        "drama"
       ],
-      "rating": 4.14,
-      "ratings": 8837,
-      "reviews": 443
-    },
-    {
-      "title": "Family",
-      "url": "https://www.goodreads.com/book/show/17452012-family",
-      "id": "22024848",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1362097189i/17452012.jpg",
-      "authors": [
-        "Robert J. Crane"
-      ],
-      "genres": [
-        "fantasy",
-        "urban-fantasy",
-        "young-adult",
-        "fiction",
-        "paranormal",
-        "mystery",
-        "action"
-      ],
-      "rating": 4.33,
-      "ratings": 8806,
-      "reviews": 212
+      "rating": 4,
+      "ratings": 10825,
+      "reviews": 752
     }
   ]
 }

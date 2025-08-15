@@ -1,27 +1,6 @@
 {
   "books": [
     {
-      "title": "The C++ Programming Language",
-      "url": "https://www.goodreads.com/book/show/112251.The_C_Programming_Language",
-      "id": "108084",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347400993i/112251.jpg",
-      "authors": [
-        "Bjarne Stroustrup"
-      ],
-      "genres": [
-        "programming",
-        "computer-science",
-        "reference",
-        "technical",
-        "technology",
-        "non-fiction",
-        "computers"
-      ],
-      "rating": 4.09,
-      "ratings": 3955,
-      "reviews": 105
-    },
-    {
       "title": "Patterns of Enterprise Application Architecture",
       "url": "https://www.goodreads.com/book/show/70156.Patterns_of_Enterprise_Application_Architecture",
       "id": "67973",
@@ -39,50 +18,50 @@
         "non-fiction"
       ],
       "rating": 4.12,
-      "ratings": 3766,
-      "reviews": 150
+      "ratings": 3852,
+      "reviews": 153
     },
     {
-      "title": "Effective C++: 55 Specific Ways to Improve Your Programs and Designs",
-      "url": "https://www.goodreads.com/book/show/105125.Effective_C_",
-      "id": "1107262",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348261809i/105125.jpg",
+      "title": "Responsive Web Design",
+      "url": "https://www.goodreads.com/book/show/9815906-responsive-web-design",
+      "id": "16313898",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1291401033i/9815906.jpg",
       "authors": [
-        "Scott Meyers"
+        "Ethan Marcotte"
+      ],
+      "genres": [
+        "design",
+        "website-design",
+        "non-fiction",
+        "web",
+        "programming",
+        "technology",
+        "technical"
+      ],
+      "rating": 4.13,
+      "ratings": 3632,
+      "reviews": 225
+    },
+    {
+      "title": "JavaScript: The Definitive Guide",
+      "url": "https://www.goodreads.com/book/show/148050.JavaScript",
+      "id": "142879",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347652925i/148050.jpg",
+      "authors": [
+        "David Flanagan"
       ],
       "genres": [
         "programming",
-        "computer-science",
-        "technical",
-        "non-fiction",
+        "reference",
         "technology",
-        "software",
-        "computers"
-      ],
-      "rating": 4.4,
-      "ratings": 3304,
-      "reviews": 138
-    },
-    {
-      "title": "A Philosophy of Software Design",
-      "url": "https://www.goodreads.com/book/show/39996759-a-philosophy-of-software-design",
-      "id": "61938796",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1531857377i/39996759.jpg",
-      "authors": [
-        "John Ousterhout"
-      ],
-      "genres": [
-        "programming",
-        "technology",
-        "software",
-        "computer-science",
-        "technical",
         "non-fiction",
-        "engineering"
+        "computer-science",
+        "computers",
+        "technical"
       ],
-      "rating": 4.2,
-      "ratings": 3255,
-      "reviews": 401
+      "rating": 4.07,
+      "ratings": 3380,
+      "reviews": 140
     },
     {
       "title": "Pro Git",
@@ -102,8 +81,29 @@
         "software"
       ],
       "rating": 4.18,
-      "ratings": 3237,
-      "reviews": 295
+      "ratings": 3374,
+      "reviews": 303
+    },
+    {
+      "title": "Effective C++: 55 Specific Ways to Improve Your Programs and Designs",
+      "url": "https://www.goodreads.com/book/show/105125.Effective_C_",
+      "id": "1107262",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348261809i/105125.jpg",
+      "authors": [
+        "Scott Meyers"
+      ],
+      "genres": [
+        "programming",
+        "computer-science",
+        "technical",
+        "non-fiction",
+        "technology",
+        "software",
+        "computers"
+      ],
+      "rating": 4.4,
+      "ratings": 3341,
+      "reviews": 141
     },
     {
       "title": "Continuous delivery",
@@ -123,8 +123,29 @@
         "business"
       ],
       "rating": 4.2,
-      "ratings": 3220,
-      "reviews": 165
+      "ratings": 3285,
+      "reviews": 168
+    },
+    {
+      "title": "Release It!: Design and Deploy Production-Ready Software",
+      "url": "https://www.goodreads.com/book/show/1069827.Release_It_",
+      "id": "1056502",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328765022i/1069827.jpg",
+      "authors": [
+        "Michael T. Nygard"
+      ],
+      "genres": [
+        "programming",
+        "technology",
+        "software",
+        "technical",
+        "computer-science",
+        "non-fiction",
+        "engineering"
+      ],
+      "rating": 4.25,
+      "ratings": 3221,
+      "reviews": 263
     },
     {
       "title": "Programming Pearls",
@@ -144,71 +165,8 @@
         "computers"
       ],
       "rating": 4.2,
-      "ratings": 3184,
-      "reviews": 92
-    },
-    {
-      "title": "Learning Python",
-      "url": "https://www.goodreads.com/book/show/80435.Learning_Python",
-      "id": "77670",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386922968i/80435.jpg",
-      "authors": [
-        "Mark Lutz"
-      ],
-      "genres": [
-        "programming",
-        "computer-science",
-        "reference",
-        "non-fiction",
-        "technology",
-        "computers",
-        "technical"
-      ],
-      "rating": 4,
-      "ratings": 3114,
-      "reviews": 171
-    },
-    {
-      "title": "Release It!: Design and Deploy Production-Ready Software",
-      "url": "https://www.goodreads.com/book/show/1069827.Release_It_",
-      "id": "1056502",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328765022i/1069827.jpg",
-      "authors": [
-        "Michael T. Nygard"
-      ],
-      "genres": [
-        "programming",
-        "technology",
-        "software",
-        "technical",
-        "computer-science",
-        "non-fiction",
-        "engineering"
-      ],
-      "rating": 4.26,
-      "ratings": 3106,
-      "reviews": 254
-    },
-    {
-      "title": "JavaScript: The Definitive Guide",
-      "url": "https://www.goodreads.com/book/show/148050.JavaScript",
-      "id": "142879",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347652925i/148050.jpg",
-      "authors": [
-        "David Flanagan"
-      ],
-      "genres": [
-        "programming",
-        "reference",
-        "computer-science",
-        "technology",
-        "non-fiction",
-        "computers",
-        "technical"
-      ],
-      "rating": 4.09,
-      "ratings": 3081,
-      "reviews": 121
+      "ratings": 3209,
+      "reviews": 95
     },
     {
       "title": "Eloquent JavaScript: A Modern Introduction to Programming",
@@ -228,8 +186,50 @@
         "software"
       ],
       "rating": 4.15,
-      "ratings": 3031,
-      "reviews": 260
+      "ratings": 3185,
+      "reviews": 280
+    },
+    {
+      "title": "Learning Python",
+      "url": "https://www.goodreads.com/book/show/80435.Learning_Python",
+      "id": "77670",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386922968i/80435.jpg",
+      "authors": [
+        "Mark Lutz"
+      ],
+      "genres": [
+        "programming",
+        "computer-science",
+        "reference",
+        "non-fiction",
+        "technology",
+        "computers",
+        "technical"
+      ],
+      "rating": 4.01,
+      "ratings": 3184,
+      "reviews": 176
+    },
+    {
+      "title": "Python Crash Course: A Hands-On, Project-Based Introduction to Programming",
+      "url": "https://www.goodreads.com/book/show/23241059-python-crash-course",
+      "id": "42784657",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1418765169i/23241059.jpg",
+      "authors": [
+        "Eric Matthes"
+      ],
+      "genres": [
+        "programming",
+        "computer-science",
+        "non-fiction",
+        "coding",
+        "technology",
+        "reference",
+        "technical"
+      ],
+      "rating": 4.36,
+      "ratings": 3015,
+      "reviews": 287
     },
     {
       "title": "Compilers: Principles, Techniques, and Tools",
@@ -245,12 +245,12 @@
         "technology",
         "technical",
         "computers",
-        "software",
-        "non-fiction"
+        "non-fiction",
+        "textbooks"
       ],
-      "rating": 4.09,
-      "ratings": 2968,
-      "reviews": 64
+      "rating": 4.1,
+      "ratings": 3005,
+      "reviews": 65
     },
     {
       "title": "Java Concurrency in Practice",
@@ -267,32 +267,11 @@
         "technical",
         "software",
         "non-fiction",
-        "computers"
+        "reference"
       ],
-      "rating": 4.47,
-      "ratings": 2828,
+      "rating": 4.48,
+      "ratings": 2892,
       "reviews": 138
-    },
-    {
-      "title": "Practical Object Oriented Design in Ruby",
-      "url": "https://www.goodreads.com/book/show/13507787-practical-object-oriented-design-in-ruby",
-      "id": "19059453",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1358916543i/13507787.jpg",
-      "authors": [
-        "Sandi Metz"
-      ],
-      "genres": [
-        "programming",
-        "technology",
-        "computer-science",
-        "software",
-        "technical",
-        "non-fiction",
-        "coding"
-      ],
-      "rating": 4.53,
-      "ratings": 2738,
-      "reviews": 199
     },
     {
       "title": "Site Reliability Engineering: How Google Runs Production Systems",
@@ -311,30 +290,51 @@
         "non-fiction",
         "engineering"
       ],
-      "rating": 4.23,
-      "ratings": 2645,
-      "reviews": 251
+      "rating": 4.21,
+      "ratings": 2850,
+      "reviews": 267
     },
     {
-      "title": "Python Crash Course: A Hands-On, Project-Based Introduction to Programming",
-      "url": "https://www.goodreads.com/book/show/23241059-python-crash-course",
-      "id": "42784657",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1418765169i/23241059.jpg",
+      "title": "Practical Object Oriented Design in Ruby",
+      "url": "https://www.goodreads.com/book/show/13507787-practical-object-oriented-design-in-ruby",
+      "id": "19059453",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1358916543i/13507787.jpg",
       "authors": [
-        "Eric Matthes"
+        "Sandi Metz"
       ],
       "genres": [
         "programming",
-        "non-fiction",
-        "computer-science",
-        "coding",
         "technology",
-        "reference",
-        "technical"
+        "software",
+        "computer-science",
+        "technical",
+        "non-fiction",
+        "coding"
       ],
-      "rating": 4.36,
-      "ratings": 2623,
-      "reviews": 256
+      "rating": 4.53,
+      "ratings": 2798,
+      "reviews": 208
+    },
+    {
+      "title": "Hands-On Machine Learning with Scikit-Learn and TensorFlow",
+      "url": "https://www.goodreads.com/book/show/32899495-hands-on-machine-learning-with-scikit-learn-and-tensorflow",
+      "id": "53513052",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1478536137i/32899495.jpg",
+      "authors": [
+        "Aurélien Géron"
+      ],
+      "genres": [
+        "programming",
+        "computer-science",
+        "artificial-intelligence",
+        "technology",
+        "non-fiction",
+        "technical",
+        "textbooks"
+      ],
+      "rating": 4.55,
+      "ratings": 2724,
+      "reviews": 210
     },
     {
       "title": "The Algorithm Design Manual",
@@ -353,9 +353,9 @@
         "non-fiction",
         "software"
       ],
-      "rating": 4.35,
-      "ratings": 2600,
-      "reviews": 96
+      "rating": 4.34,
+      "ratings": 2671,
+      "reviews": 98
     },
     {
       "title": "Agile Estimating and Planning",
@@ -375,71 +375,8 @@
         "technical"
       ],
       "rating": 4.14,
-      "ratings": 2580,
-      "reviews": 162
-    },
-    {
-      "title": "You Don't Know JS: Up & Going",
-      "url": "https://www.goodreads.com/book/show/25136217-you-don-t-know-js",
-      "id": "44833837",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1457542606i/25136217.jpg",
-      "authors": [
-        "Kyle Simpson"
-      ],
-      "genres": [
-        "programming",
-        "computer-science",
-        "technology",
-        "non-fiction",
-        "technical",
-        "coding",
-        "software"
-      ],
-      "rating": 4.34,
-      "ratings": 2499,
-      "reviews": 171
-    },
-    {
-      "title": "Hands-On Machine Learning with Scikit-Learn and TensorFlow",
-      "url": "https://www.goodreads.com/book/show/32899495-hands-on-machine-learning-with-scikit-learn-and-tensorflow",
-      "id": "53513052",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1478536137i/32899495.jpg",
-      "authors": [
-        "Aurélien Géron"
-      ],
-      "genres": [
-        "programming",
-        "computer-science",
-        "artificial-intelligence",
-        "technology",
-        "non-fiction",
-        "technical",
-        "textbooks"
-      ],
-      "rating": 4.56,
-      "ratings": 2455,
-      "reviews": 184
-    },
-    {
-      "title": "Growing Object-Oriented Software, Guided by Tests",
-      "url": "https://www.goodreads.com/book/show/4268826-growing-object-oriented-software-guided-by-tests",
-      "id": "4316345",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348030542i/4268826.jpg",
-      "authors": [
-        "Steve  Freeman"
-      ],
-      "genres": [
-        "programming",
-        "software",
-        "technology",
-        "computer-science",
-        "technical",
-        "non-fiction",
-        "coding"
-      ],
-      "rating": 4.19,
-      "ratings": 2427,
-      "reviews": 139
+      "ratings": 2618,
+      "reviews": 165
     },
     {
       "title": "Data Science for Business: What You Need to Know about Data Mining and Data-Analytic Thinking",
@@ -459,8 +396,29 @@
         "technical"
       ],
       "rating": 4.13,
-      "ratings": 2420,
-      "reviews": 162
+      "ratings": 2590,
+      "reviews": 176
+    },
+    {
+      "title": "You Don't Know JS: Up & Going",
+      "url": "https://www.goodreads.com/book/show/25136217-you-don-t-know-js",
+      "id": "44833837",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1457542606i/25136217.jpg",
+      "authors": [
+        "Kyle Simpson"
+      ],
+      "genres": [
+        "programming",
+        "computer-science",
+        "technology",
+        "non-fiction",
+        "technical",
+        "coding",
+        "software"
+      ],
+      "rating": 4.35,
+      "ratings": 2531,
+      "reviews": 174
     },
     {
       "title": "Hacking: The Art of Exploitation w/CD",
@@ -474,14 +432,56 @@
         "computer-science",
         "programming",
         "hackers",
-        "non-fiction",
         "technology",
+        "non-fiction",
         "technical",
         "computers"
       ],
       "rating": 4.17,
-      "ratings": 2386,
-      "reviews": 118
+      "ratings": 2467,
+      "reviews": 131
+    },
+    {
+      "title": "Growing Object-Oriented Software, Guided by Tests",
+      "url": "https://www.goodreads.com/book/show/4268826-growing-object-oriented-software-guided-by-tests",
+      "id": "4316345",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348030542i/4268826.jpg",
+      "authors": [
+        "Steve Freeman"
+      ],
+      "genres": [
+        "programming",
+        "technology",
+        "software",
+        "computer-science",
+        "technical",
+        "non-fiction",
+        "coding"
+      ],
+      "rating": 4.19,
+      "ratings": 2456,
+      "reviews": 146
+    },
+    {
+      "title": "Python for Data Analysis",
+      "url": "https://www.goodreads.com/book/show/14744694-python-for-data-analysis",
+      "id": "20393594",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1356132971i/14744694.jpg",
+      "authors": [
+        "Wes McKinney"
+      ],
+      "genres": [
+        "programming",
+        "computer-science",
+        "technology",
+        "non-fiction",
+        "coding",
+        "reference",
+        "technical"
+      ],
+      "rating": 4.17,
+      "ratings": 2412,
+      "reviews": 181
     },
     {
       "title": "Computer Networks",
@@ -496,13 +496,13 @@
         "technology",
         "technical",
         "non-fiction",
-        "reference",
         "programming",
+        "reference",
         "computers"
       ],
       "rating": 4.12,
-      "ratings": 2331,
-      "reviews": 109
+      "ratings": 2399,
+      "reviews": 119
     }
   ]
 }

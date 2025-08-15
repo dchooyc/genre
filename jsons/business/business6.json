@@ -1,67 +1,361 @@
 {
   "books": [
     {
-      "title": "The Infinite Game",
-      "url": "https://www.goodreads.com/book/show/38390751-the-infinite-game",
-      "id": "60047666",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1571114448i/38390751.jpg",
+      "title": "The Laws of Human Nature",
+      "url": "https://www.goodreads.com/book/show/39330937-the-laws-of-human-nature",
+      "id": "60958057",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1620206225i/39330937.jpg",
       "authors": [
-        "Simon Sinek"
+        "Robert Greene"
+      ],
+      "genres": [
+        "psychology",
+        "non-fiction",
+        "self-help",
+        "philosophy",
+        "personal-development",
+        "business",
+        "history"
+      ],
+      "rating": 4.35,
+      "ratings": 27216,
+      "reviews": 2147
+    },
+    {
+      "title": "The Smartest Guys in the Room: The Amazing Rise and Scandalous Fall of Enron",
+      "url": "https://www.goodreads.com/book/show/113576.The_Smartest_Guys_in_the_Room",
+      "id": "1604",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1309204701i/113576.jpg",
+      "authors": [
+        "Bethany McLean"
       ],
       "genres": [
         "business",
-        "leadership",
         "non-fiction",
-        "self-help",
-        "personal-development",
-        "management",
-        "psychology"
+        "finance",
+        "history",
+        "economics",
+        "true-crime",
+        "audiobook"
       ],
-      "rating": 4.17,
-      "ratings": 23640,
-      "reviews": 2094
+      "rating": 4.22,
+      "ratings": 27191,
+      "reviews": 1255
     },
     {
-      "title": "The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever",
-      "url": "https://www.goodreads.com/book/show/29342515-the-coaching-habit",
-      "id": "49453428",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1456463829i/29342515.jpg",
+      "title": "Ignore Everybody: and 39 Other Keys to Creativity",
+      "url": "https://www.goodreads.com/book/show/6162567-ignore-everybody",
+      "id": "6341764",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347753770i/6162567.jpg",
       "authors": [
-        "Michael Bungay Stanier"
+        "Hugh MacLeod"
       ],
       "genres": [
-        "leadership",
-        "business",
         "non-fiction",
-        "management",
+        "business",
+        "art",
         "self-help",
-        "personal-development",
-        "psychology"
+        "writing",
+        "psychology",
+        "design"
       ],
-      "rating": 4.02,
-      "ratings": 23403,
-      "reviews": 1888
+      "rating": 4.06,
+      "ratings": 27163,
+      "reviews": 607
     },
     {
-      "title": "The Simple Path to Wealth: Your road map to financial independence and a rich, free life",
-      "url": "https://www.goodreads.com/book/show/30646587-the-simple-path-to-wealth",
-      "id": "51187846",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1466299641i/30646587.jpg",
+      "title": "Sam Walton: Made In America",
+      "url": "https://www.goodreads.com/book/show/10631.Sam_Walton",
+      "id": "13270",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1463939506i/10631.jpg",
       "authors": [
-        "J.L. Collins"
+        "Sam Walton"
+      ],
+      "genres": [
+        "business",
+        "biography",
+        "non-fiction",
+        "autobiography",
+        "leadership",
+        "entrepreneurship",
+        "history"
+      ],
+      "rating": 4.15,
+      "ratings": 27128,
+      "reviews": 1267
+    },
+    {
+      "title": "Making Ideas Happen: Overcoming the Obstacles Between Vision and Reality",
+      "url": "https://www.goodreads.com/book/show/7696135-making-ideas-happen",
+      "id": "10377870",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347876337i/7696135.jpg",
+      "authors": [
+        "Scott Belsky"
+      ],
+      "genres": [
+        "business",
+        "non-fiction",
+        "productivity",
+        "design",
+        "self-help",
+        "leadership",
+        "personal-development"
+      ],
+      "rating": 4.08,
+      "ratings": 26986,
+      "reviews": 426
+    },
+    {
+      "title": "Dark Money: The Hidden History of the Billionaires Behind the Rise of the Radical Right",
+      "url": "https://www.goodreads.com/book/show/27833494-dark-money",
+      "id": "47815497",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1452601408i/27833494.jpg",
+      "authors": [
+        "Jane Mayer"
+      ],
+      "genres": [
+        "non-fiction",
+        "politics",
+        "history",
+        "economics",
+        "business",
+        "audiobook",
+        "finance"
+      ],
+      "rating": 4.31,
+      "ratings": 26786,
+      "reviews": 3601
+    },
+    {
+      "title": "The Talent Code: Unlocking the Secret of Skill in Sports, Art, Music, Math, and Just About Everything Else",
+      "url": "https://www.goodreads.com/book/show/5771014-the-talent-code",
+      "id": "5942757",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1404579448i/5771014.jpg",
+      "authors": [
+        "Daniel Coyle"
+      ],
+      "genres": [
+        "non-fiction",
+        "psychology",
+        "self-help",
+        "business",
+        "personal-development",
+        "education",
+        "leadership"
+      ],
+      "rating": 4.03,
+      "ratings": 26564,
+      "reviews": 1960
+    },
+    {
+      "title": "Building a StoryBrand: Clarify Your Message So Customers Will Listen",
+      "url": "https://www.goodreads.com/book/show/34460583-building-a-storybrand",
+      "id": "55576937",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1505317411i/34460583.jpg",
+      "authors": [
+        "Donald  Miller"
+      ],
+      "genres": [
+        "business",
+        "non-fiction",
+        "entrepreneurship",
+        "leadership",
+        "buisness",
+        "audiobook",
+        "writing"
+      ],
+      "rating": 4.27,
+      "ratings": 26372,
+      "reviews": 2231
+    },
+    {
+      "title": "The Inner Game of Tennis: The Classic Guide to the Mental Side of Peak Performance",
+      "url": "https://www.goodreads.com/book/show/905.The_Inner_Game_of_Tennis",
+      "id": "5127",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1750018611i/905.jpg",
+      "authors": [
+        "W. Timothy Gallwey"
+      ],
+      "genres": [
+        "non-fiction",
+        "psychology",
+        "sports",
+        "self-help",
+        "personal-development",
+        "philosophy",
+        "business"
+      ],
+      "rating": 4.19,
+      "ratings": 25982,
+      "reviews": 2267
+    },
+    {
+      "title": "The Millionaire Fastlane: Crack the Code to Wealth and Live Rich for a Lifetime!",
+      "url": "https://www.goodreads.com/book/show/18872437-the-millionaire-fastlane",
+      "id": "13781747",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1384971700i/18872437.jpg",
+      "authors": [
+        "M.J. DeMarco"
+      ],
+      "genres": [
+        "business",
+        "finance",
+        "non-fiction",
+        "self-help",
+        "money",
+        "personal-finance",
+        "entrepreneurship"
+      ],
+      "rating": 4.3,
+      "ratings": 25615,
+      "reviews": 1987
+    },
+    {
+      "title": "MONEY Master the Game: 7 Simple Steps to Financial Freedom",
+      "url": "https://www.goodreads.com/book/show/23014006-money-master-the-game",
+      "id": "42580254",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1420938135i/23014006.jpg",
+      "authors": [
+        "Anthony Robbins"
       ],
       "genres": [
         "finance",
-        "personal-finance",
-        "non-fiction",
+        "business",
         "money",
+        "non-fiction",
+        "self-help",
+        "personal-finance",
+        "personal-development"
+      ],
+      "rating": 4,
+      "ratings": 25441,
+      "reviews": 2515
+    },
+    {
+      "title": "The Slight Edge",
+      "url": "https://www.goodreads.com/book/show/590652.The_Slight_Edge",
+      "id": "577412",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1387667330i/590652.jpg",
+      "authors": [
+        "Jeff Olson"
+      ],
+      "genres": [
+        "self-help",
+        "personal-development",
+        "non-fiction",
+        "business",
+        "psychology",
+        "productivity",
+        "leadership"
+      ],
+      "rating": 4.29,
+      "ratings": 25243,
+      "reviews": 1910
+    },
+    {
+      "title": "The Little Book of Common Sense Investing: The Only Way to Guarantee Your Fair Share of Stock Market Returns",
+      "url": "https://www.goodreads.com/book/show/171127.The_Little_Book_of_Common_Sense_Investing",
+      "id": "165246",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347673616i/171127.jpg",
+      "authors": [
+        "John C. Bogle"
+      ],
+      "genres": [
+        "finance",
+        "non-fiction",
+        "business",
+        "personal-finance",
+        "money",
+        "economics",
+        "self-help"
+      ],
+      "rating": 4.15,
+      "ratings": 25137,
+      "reviews": 2038
+    },
+    {
+      "title": "Developing the Leader Within You",
+      "url": "https://www.goodreads.com/book/show/183554.Developing_the_Leader_Within_You",
+      "id": "177444",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388189323i/183554.jpg",
+      "authors": [
+        "John C. Maxwell"
+      ],
+      "genres": [
+        "leadership",
         "business",
         "self-help",
-        "economics"
+        "non-fiction",
+        "personal-development",
+        "management",
+        "christian"
       ],
-      "rating": 4.44,
-      "ratings": 23374,
-      "reviews": 2001
+      "rating": 4.22,
+      "ratings": 25125,
+      "reviews": 450
+    },
+    {
+      "title": "Inspired: How to Create Tech Products Customers Love",
+      "url": "https://www.goodreads.com/book/show/35249663-inspired",
+      "id": "3361249",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1685881845i/35249663.jpg",
+      "authors": [
+        "Marty Cagan"
+      ],
+      "genres": [
+        "business",
+        "non-fiction",
+        "design",
+        "technology",
+        "management",
+        "entrepreneurship",
+        "leadership"
+      ],
+      "rating": 4.23,
+      "ratings": 24896,
+      "reviews": 1513
+    },
+    {
+      "title": "Make Time: How to Focus on What Matters Every Day",
+      "url": "https://www.goodreads.com/book/show/37880811-make-time",
+      "id": "59586061",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1524067121i/37880811.jpg",
+      "authors": [
+        "Jake Knapp"
+      ],
+      "genres": [
+        "non-fiction",
+        "productivity",
+        "self-help",
+        "personal-development",
+        "business",
+        "audiobook",
+        "psychology"
+      ],
+      "rating": 4.07,
+      "ratings": 24597,
+      "reviews": 2558
+    },
+    {
+      "title": "The Power of Moments: Why Certain Experiences Have Extraordinary Impact",
+      "url": "https://www.goodreads.com/book/show/34466952-the-power-of-moments",
+      "id": "55587025",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1506854677i/34466952.jpg",
+      "authors": [
+        "Chip Heath"
+      ],
+      "genres": [
+        "non-fiction",
+        "business",
+        "psychology",
+        "self-help",
+        "leadership",
+        "audiobook",
+        "personal-development"
+      ],
+      "rating": 4.12,
+      "ratings": 24227,
+      "reviews": 2254
     },
     {
       "title": "Anything You Want: 40 Lessons for a New Kind of Entrepreneur",
@@ -81,8 +375,50 @@
         "biography"
       ],
       "rating": 4.11,
-      "ratings": 22821,
-      "reviews": 1402
+      "ratings": 23877,
+      "reviews": 1489
+    },
+    {
+      "title": "Poor Economics: A Radical Rethinking of the Way to Fight Global Poverty",
+      "url": "https://www.goodreads.com/book/show/10245602-poor-economics",
+      "id": "15145697",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1344679036i/10245602.jpg",
+      "authors": [
+        "Abhijit V. Banerjee"
+      ],
+      "genres": [
+        "economics",
+        "non-fiction",
+        "politics",
+        "business",
+        "poverty",
+        "finance",
+        "sociology"
+      ],
+      "rating": 4.27,
+      "ratings": 23807,
+      "reviews": 2190
+    },
+    {
+      "title": "Blood, Sweat, and Pixels",
+      "url": "https://www.goodreads.com/book/show/34376766-blood-sweat-and-pixels",
+      "id": "55462513",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1487805540l/34376766.jpg",
+      "authors": [
+        "Jason Schreier"
+      ],
+      "genres": [
+        "non-fiction",
+        "video-games",
+        "audiobook",
+        "business",
+        "gaming",
+        "games",
+        "technology"
+      ],
+      "rating": 4.2,
+      "ratings": 23595,
+      "reviews": 2222
     },
     {
       "title": "The 8th Habit: From Effectiveness to Greatness",
@@ -101,135 +437,9 @@
         "psychology",
         "productivity"
       ],
-      "rating": 4.02,
-      "ratings": 22567,
-      "reviews": 533
-    },
-    {
-      "title": "Inspired: How to Create Tech Products Customers Love",
-      "url": "https://www.goodreads.com/book/show/35249663-inspired",
-      "id": "3361249",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1685881845i/35249663.jpg",
-      "authors": [
-        "Marty Cagan"
-      ],
-      "genres": [
-        "business",
-        "non-fiction",
-        "design",
-        "management",
-        "technology",
-        "entrepreneurship",
-        "leadership"
-      ],
-      "rating": 4.24,
-      "ratings": 22423,
-      "reviews": 1386
-    },
-    {
-      "title": "Building a StoryBrand: Clarify Your Message So Customers Will Listen",
-      "url": "https://www.goodreads.com/book/show/34460583-building-a-storybrand",
-      "id": "55576937",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1505317411i/34460583.jpg",
-      "authors": [
-        "Donald  Miller"
-      ],
-      "genres": [
-        "business",
-        "non-fiction",
-        "entrepreneurship",
-        "buisness",
-        "leadership",
-        "writing",
-        "self-help"
-      ],
-      "rating": 4.28,
-      "ratings": 22145,
-      "reviews": 1921
-    },
-    {
-      "title": "Debt: The First 5,000 Years",
-      "url": "https://www.goodreads.com/book/show/6617037-debt",
-      "id": "6811142",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1390408633i/6617037.jpg",
-      "authors": [
-        "David Graeber"
-      ],
-      "genres": [
-        "history",
-        "economics",
-        "non-fiction",
-        "anthropology",
-        "politics",
-        "finance",
-        "business"
-      ],
-      "rating": 4.21,
-      "ratings": 22069,
-      "reviews": 2757
-    },
-    {
-      "title": "The Culture Map: Breaking Through the Invisible Boundaries of Global Business",
-      "url": "https://www.goodreads.com/book/show/22085568-the-culture-map",
-      "id": "41424992",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1488319495i/22085568.jpg",
-      "authors": [
-        "Erin Meyer"
-      ],
-      "genres": [
-        "non-fiction",
-        "business",
-        "psychology",
-        "leadership",
-        "cultural",
-        "management",
-        "sociology"
-      ],
-      "rating": 4.34,
-      "ratings": 21827,
-      "reviews": 2099
-    },
-    {
-      "title": "Leading Change",
-      "url": "https://www.goodreads.com/book/show/51370.Leading_Change",
-      "id": "50134",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1427779756i/51370.jpg",
-      "authors": [
-        "John P. Kotter"
-      ],
-      "genres": [
-        "business",
-        "leadership",
-        "non-fiction",
-        "management",
-        "buisness",
-        "personal-development",
-        "self-help"
-      ],
       "rating": 4.03,
-      "ratings": 21801,
-      "reviews": 608
-    },
-    {
-      "title": "Poor Economics: A Radical Rethinking of the Way to Fight Global Poverty",
-      "url": "https://www.goodreads.com/book/show/10245602-poor-economics",
-      "id": "15145697",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1344679036i/10245602.jpg",
-      "authors": [
-        "Abhijit V. Banerjee"
-      ],
-      "genres": [
-        "economics",
-        "non-fiction",
-        "politics",
-        "business",
-        "poverty",
-        "sociology",
-        "international-development"
-      ],
-      "rating": 4.28,
-      "ratings": 21793,
-      "reviews": 1987
+      "ratings": 23402,
+      "reviews": 543
     },
     {
       "title": "Scrum: The Art of Doing Twice the Work in Half the Time",
@@ -242,15 +452,36 @@
       "genres": [
         "business",
         "non-fiction",
-        "management",
         "productivity",
-        "self-help",
+        "management",
         "leadership",
-        "technology"
+        "audiobook",
+        "self-help"
       ],
-      "rating": 4.15,
-      "ratings": 21738,
-      "reviews": 1883
+      "rating": 4.14,
+      "ratings": 23270,
+      "reviews": 1997
+    },
+    {
+      "title": "Total Recall: My Unbelievably True Life Story",
+      "url": "https://www.goodreads.com/book/show/14546626-total-recall",
+      "id": "19112177",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1344398356i/14546626.jpg",
+      "authors": [
+        "Arnold Schwarzenegger"
+      ],
+      "genres": [
+        "biography",
+        "non-fiction",
+        "autobiography",
+        "audiobook",
+        "memoir",
+        "business",
+        "biography-memoir"
+      ],
+      "rating": 4.17,
+      "ratings": 23148,
+      "reviews": 1959
     },
     {
       "title": "Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days",
@@ -270,239 +501,8 @@
         "self-help"
       ],
       "rating": 4.19,
-      "ratings": 21735,
-      "reviews": 1409
-    },
-    {
-      "title": "Total Recall: My Unbelievably True Life Story",
-      "url": "https://www.goodreads.com/book/show/14546626-total-recall",
-      "id": "19112177",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1344398356i/14546626.jpg",
-      "authors": [
-        "Arnold Schwarzenegger"
-      ],
-      "genres": [
-        "biography",
-        "non-fiction",
-        "autobiography",
-        "memoir",
-        "audiobook",
-        "business",
-        "biography-memoir"
-      ],
-      "rating": 4.16,
-      "ratings": 21587,
-      "reviews": 1845
-    },
-    {
-      "title": "The Little Book of Common Sense Investing: The Only Way to Guarantee Your Fair Share of Stock Market Returns",
-      "url": "https://www.goodreads.com/book/show/171127.The_Little_Book_of_Common_Sense_Investing",
-      "id": "165246",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347673616i/171127.jpg",
-      "authors": [
-        "John C. Bogle"
-      ],
-      "genres": [
-        "finance",
-        "non-fiction",
-        "business",
-        "personal-finance",
-        "money",
-        "economics",
-        "self-help"
-      ],
-      "rating": 4.16,
-      "ratings": 21463,
-      "reviews": 1742
-    },
-    {
-      "title": "Make Time: How to Focus on What Matters Every Day",
-      "url": "https://www.goodreads.com/book/show/37880811-make-time",
-      "id": "59586061",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1524067121i/37880811.jpg",
-      "authors": [
-        "Jake Knapp"
-      ],
-      "genres": [
-        "non-fiction",
-        "productivity",
-        "self-help",
-        "personal-development",
-        "business",
-        "psychology",
-        "audiobook"
-      ],
-      "rating": 4.09,
-      "ratings": 21463,
-      "reviews": 2260
-    },
-    {
-      "title": "Unlimited Memory: How to Use Advanced Learning Strategies to Learn Faster, Remember More and be More Productive",
-      "url": "https://www.goodreads.com/book/show/20958539-unlimited-memory",
-      "id": "40333709",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1428170961i/20958539.jpg",
-      "authors": [
-        "Kevin Horsley"
-      ],
-      "genres": [
-        "self-help",
-        "non-fiction",
-        "psychology",
-        "personal-development",
-        "productivity",
-        "science",
-        "business"
-      ],
-      "rating": 4.01,
-      "ratings": 21401,
-      "reviews": 1369
-    },
-    {
-      "title": "Misbehaving: The Making of Behavioral Economics",
-      "url": "https://www.goodreads.com/book/show/26530355-misbehaving",
-      "id": "42871209",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1459531022i/26530355.jpg",
-      "authors": [
-        "Richard H. Thaler"
-      ],
-      "genres": [
-        "economics",
-        "non-fiction",
-        "psychology",
-        "business",
-        "finance",
-        "science",
-        "audiobook"
-      ],
-      "rating": 4.16,
-      "ratings": 21321,
-      "reviews": 1568
-    },
-    {
-      "title": "The 22 Immutable Laws of Marketing: Violate Them at Your Own Risk",
-      "url": "https://www.goodreads.com/book/show/33449.The_22_Immutable_Laws_of_Marketing",
-      "id": "33525",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1417627150i/33449.jpg",
-      "authors": [
-        "Al Ries"
-      ],
-      "genres": [
-        "business",
-        "non-fiction",
-        "entrepreneurship",
-        "buisness",
-        "self-help",
-        "management",
-        "leadership"
-      ],
-      "rating": 4.05,
-      "ratings": 21038,
-      "reviews": 956
-    },
-    {
-      "title": "The Power of Moments: Why Certain Experiences Have Extraordinary Impact",
-      "url": "https://www.goodreads.com/book/show/34466952-the-power-of-moments",
-      "id": "55587025",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1506854677i/34466952.jpg",
-      "authors": [
-        "Chip Heath"
-      ],
-      "genres": [
-        "non-fiction",
-        "business",
-        "psychology",
-        "self-help",
-        "leadership",
-        "personal-development",
-        "audiobook"
-      ],
-      "rating": 4.13,
-      "ratings": 20692,
-      "reviews": 1887
-    },
-    {
-      "title": "Chip War: The Fight for the World's Most Critical Technology",
-      "url": "https://www.goodreads.com/book/show/60321447-chip-war",
-      "id": "95096793",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1662566820i/60321447.jpg",
-      "authors": [
-        "Chris   Miller"
-      ],
-      "genres": [
-        "non-fiction",
-        "business",
-        "history",
-        "technology",
-        "politics",
-        "economics",
-        "science"
-      ],
-      "rating": 4.45,
-      "ratings": 20676,
-      "reviews": 1946
-    },
-    {
-      "title": "The Inner Game of Tennis: The Classic Guide to the Mental Side of Peak Performance",
-      "url": "https://www.goodreads.com/book/show/905.The_Inner_Game_of_Tennis",
-      "id": "5127",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1427665815i/905.jpg",
-      "authors": [
-        "W. Timothy Gallwey"
-      ],
-      "genres": [
-        "non-fiction",
-        "psychology",
-        "sports",
-        "self-help",
-        "personal-development",
-        "philosophy",
-        "business"
-      ],
-      "rating": 4.19,
-      "ratings": 20488,
-      "reviews": 1733
-    },
-    {
-      "title": "Blood, Sweat, and Pixels: The Triumphant, Turbulent Stories Behind How Video Games Are Made",
-      "url": "https://www.goodreads.com/book/show/34376766-blood-sweat-and-pixels",
-      "id": "55462513",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1487805540i/34376766.jpg",
-      "authors": [
-        "Jason Schreier"
-      ],
-      "genres": [
-        "non-fiction",
-        "video-games",
-        "business",
-        "games",
-        "gaming",
-        "technology",
-        "audiobook"
-      ],
-      "rating": 4.21,
-      "ratings": 20419,
-      "reviews": 1961
-    },
-    {
-      "title": "The Millionaire Fastlane: Crack the Code to Wealth and Live Rich for a Lifetime!",
-      "url": "https://www.goodreads.com/book/show/18872437-the-millionaire-fastlane",
-      "id": "13781747",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1384971700i/18872437.jpg",
-      "authors": [
-        "M.J. DeMarco"
-      ],
-      "genres": [
-        "business",
-        "finance",
-        "non-fiction",
-        "self-help",
-        "money",
-        "entrepreneurship",
-        "personal-finance"
-      ],
-      "rating": 4.32,
-      "ratings": 20230,
-      "reviews": 1560
+      "ratings": 23086,
+      "reviews": 1474
     }
   ]
 }

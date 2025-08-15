@@ -1,168 +1,382 @@
 {
   "books": [
     {
-      "title": "Hummingbird",
-      "url": "https://www.goodreads.com/book/show/734611.Hummingbird",
-      "id": "3245526",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1387662496i/734611.jpg",
+      "title": "Big Sky Country",
+      "url": "https://www.goodreads.com/book/show/13261295-big-sky-country",
+      "id": "18462814",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1333727035i/13261295.jpg",
+      "authors": [
+        "Linda Lael Miller"
+      ],
+      "genres": [
+        "romance",
+        "westerns",
+        "contemporary-romance",
+        "contemporary",
+        "western-romance",
+        "fiction",
+        "audiobook"
+      ],
+      "rating": 4.08,
+      "ratings": 5452,
+      "reviews": 374
+    },
+    {
+      "title": "Battleborn",
+      "url": "https://www.goodreads.com/book/show/13163921-battleborn",
+      "id": "18342979",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348814807i/13163921.jpg",
+      "authors": [
+        "Claire Vaye Watkins"
+      ],
+      "genres": [
+        "short-stories",
+        "fiction",
+        "contemporary",
+        "literary-fiction",
+        "westerns",
+        "historical-fiction",
+        "american"
+      ],
+      "rating": 4.12,
+      "ratings": 5400,
+      "reviews": 761
+    },
+    {
+      "title": "Resolution",
+      "url": "https://www.goodreads.com/book/show/2052978.Resolution",
+      "id": "2058039",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442280522i/2052978.jpg",
+      "authors": [
+        "Robert B. Parker"
+      ],
+      "genres": [
+        "westerns",
+        "fiction",
+        "historical-fiction",
+        "mystery",
+        "audiobook",
+        "historical",
+        "action"
+      ],
+      "rating": 4,
+      "ratings": 5390,
+      "reviews": 468
+    },
+    {
+      "title": "The Simple Life",
+      "url": "https://www.goodreads.com/book/show/41726492-the-simple-life",
+      "id": "65096673",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1537102370i/41726492.jpg",
+      "authors": [
+        "Tara Sivec"
+      ],
+      "genres": [
+        "romance",
+        "enemies-to-lovers",
+        "contemporary-romance",
+        "contemporary",
+        "humor",
+        "audiobook",
+        "westerns"
+      ],
+      "rating": 4.2,
+      "ratings": 5358,
+      "reviews": 564
+    },
+    {
+      "title": "Rocky Mountain Desire",
+      "url": "https://www.goodreads.com/book/show/53341735-rocky-mountain-desire",
+      "id": "18262191",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1588799910i/53341735.jpg",
+      "authors": [
+        "Vivian Arend"
+      ],
+      "genres": [
+        "romance",
+        "westerns",
+        "contemporary",
+        "contemporary-romance",
+        "erotica",
+        "erotic-romance",
+        "western-romance"
+      ],
+      "rating": 4.19,
+      "ratings": 5357,
+      "reviews": 275
+    },
+    {
+      "title": "Education of a Wandering Man: A Memoir",
+      "url": "https://www.goodreads.com/book/show/828165.Education_of_a_Wandering_Man",
+      "id": "509736",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1584724203i/828165.jpg",
+      "authors": [
+        "Louis L'Amour"
+      ],
+      "genres": [
+        "biography",
+        "non-fiction",
+        "memoir",
+        "westerns",
+        "travel",
+        "autobiography",
+        "education"
+      ],
+      "rating": 4.06,
+      "ratings": 5315,
+      "reviews": 590
+    },
+    {
+      "title": "Blue Skies",
+      "url": "https://www.goodreads.com/book/show/89354.Blue_Skies",
+      "id": "1333326",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1266705408i/89354.jpg",
+      "authors": [
+        "Catherine Anderson"
+      ],
+      "genres": [
+        "romance",
+        "contemporary-romance",
+        "contemporary",
+        "westerns",
+        "disability",
+        "western-romance",
+        "fiction"
+      ],
+      "rating": 4.15,
+      "ratings": 5296,
+      "reviews": 247
+    },
+    {
+      "title": "Embracing Her Heart",
+      "url": "https://www.goodreads.com/book/show/39403885-embracing-her-heart",
+      "id": "57210907",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1521919667i/39403885.jpg",
+      "authors": [
+        "Melissa Foster"
+      ],
+      "genres": [
+        "romance",
+        "contemporary",
+        "contemporary-romance",
+        "second-chance",
+        "audiobook",
+        "chick-lit",
+        "westerns"
+      ],
+      "rating": 4.22,
+      "ratings": 5281,
+      "reviews": 444
+    },
+    {
+      "title": "The Accidental Guardian",
+      "url": "https://www.goodreads.com/book/show/35086271-the-accidental-guardian",
+      "id": "56389385",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1501794087i/35086271.jpg",
+      "authors": [
+        "Mary Connealy"
+      ],
+      "genres": [
+        "historical-fiction",
+        "romance",
+        "christian-fiction",
+        "historical",
+        "westerns",
+        "christian",
+        "historical-romance"
+      ],
+      "rating": 4.01,
+      "ratings": 5268,
+      "reviews": 484
+    },
+    {
+      "title": "Years",
+      "url": "https://www.goodreads.com/book/show/772716.Years",
+      "id": "758768",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1372537104i/772716.jpg",
       "authors": [
         "LaVyrle Spencer"
       ],
       "genres": [
         "romance",
         "historical-romance",
-        "westerns",
         "historical",
         "historical-fiction",
+        "westerns",
         "fiction",
         "western-romance"
       ],
-      "rating": 4.04,
-      "ratings": 4433,
-      "reviews": 330
+      "rating": 4.21,
+      "ratings": 5207,
+      "reviews": 432
     },
     {
-      "title": "Hope Springs",
-      "url": "https://www.goodreads.com/book/show/19776270-hope-springs",
-      "id": "26526132",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1414559841i/19776270.jpg",
+      "title": "Fools Crow",
+      "url": "https://www.goodreads.com/book/show/57458.Fools_Crow",
+      "id": "55978",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386924894i/57458.jpg",
       "authors": [
-        "Sarah M. Eden"
+        "James Welch"
       ],
       "genres": [
-        "romance",
         "historical-fiction",
-        "clean-romance",
         "fiction",
-        "historical",
-        "historical-romance",
-        "westerns"
+        "native-american",
+        "indigenous",
+        "classics",
+        "westerns",
+        "historical"
       ],
-      "rating": 4.18,
-      "ratings": 4422,
-      "reviews": 623
+      "rating": 4.04,
+      "ratings": 5180,
+      "reviews": 414
     },
     {
-      "title": "Comanche Heart",
-      "url": "https://www.goodreads.com/book/show/696514.Comanche_Heart",
-      "id": "682833",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1231129859i/696514.jpg",
+      "title": "Brimstone",
+      "url": "https://www.goodreads.com/book/show/6006715-brimstone",
+      "id": "6181807",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1433220048i/6006715.jpg",
       "authors": [
-        "Catherine Anderson"
+        "Robert B. Parker"
       ],
       "genres": [
-        "historical-romance",
+        "westerns",
+        "fiction",
+        "historical-fiction",
+        "mystery",
+        "audiobook",
+        "historical",
+        "adult-fiction"
+      ],
+      "rating": 4.04,
+      "ratings": 5174,
+      "reviews": 406
+    },
+    {
+      "title": "Hombre",
+      "url": "https://www.goodreads.com/book/show/835203.Hombre",
+      "id": "1855093",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347697825i/835203.jpg",
+      "authors": [
+        "Elmore Leonard"
+      ],
+      "genres": [
+        "westerns",
+        "fiction",
+        "historical-fiction",
+        "crime",
+        "audiobook",
+        "novels",
+        "classics"
+      ],
+      "rating": 4.01,
+      "ratings": 5169,
+      "reviews": 403
+    },
+    {
+      "title": "Tooth and Claw",
+      "url": "https://www.goodreads.com/book/show/209018850-tooth-and-claw",
+      "id": "215027330",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1718898255i/209018850.jpg",
+      "authors": [
+        "Craig Johnson"
+      ],
+      "genres": [
+        "mystery",
+        "fiction",
+        "thriller",
+        "westerns",
+        "audiobook",
+        "adventure",
+        "mystery-thriller"
+      ],
+      "rating": 4.23,
+      "ratings": 5145,
+      "reviews": 498
+    },
+    {
+      "title": "Another Dawn",
+      "url": "https://www.goodreads.com/book/show/520986.Another_Dawn",
+      "id": "13538298",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1287693295i/520986.jpg",
+      "authors": [
+        "Sandra       Brown"
+      ],
+      "genres": [
         "romance",
+        "historical-romance",
         "historical",
         "westerns",
-        "historical-fiction",
         "western-romance",
-        "western-historical-romance"
+        "fiction",
+        "audiobook"
       ],
-      "rating": 4.04,
-      "ratings": 4392,
-      "reviews": 360
+      "rating": 4.02,
+      "ratings": 5143,
+      "reviews": 250
     },
     {
-      "title": "Hidden Treasure",
-      "url": "https://www.goodreads.com/book/show/21935798-hidden-treasure",
-      "id": "41236485",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1397599466i/21935798.jpg",
+      "title": "Pulp",
+      "url": "https://www.goodreads.com/book/show/49050409-pulp",
+      "id": "74485308",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1582784009i/49050409.jpg",
       "authors": [
-        "Melody Anne"
+        "Ed Brubaker"
+      ],
+      "genres": [
+        "comics",
+        "graphic-novels",
+        "westerns",
+        "crime",
+        "fiction",
+        "historical-fiction",
+        "noir"
+      ],
+      "rating": 4.31,
+      "ratings": 5139,
+      "reviews": 670
+    },
+    {
+      "title": "Boundary Lines",
+      "url": "https://www.goodreads.com/book/show/491039.Boundary_Lines",
+      "id": "2007677",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1175193811i/491039.jpg",
+      "authors": [
+        "Nora Roberts"
       ],
       "genres": [
         "romance",
         "contemporary",
         "contemporary-romance",
-        "westerns",
-        "family",
-        "adult",
-        "audiobook"
-      ],
-      "rating": 4.31,
-      "ratings": 4385,
-      "reviews": 178
-    },
-    {
-      "title": "Down the Long Hills",
-      "url": "https://www.goodreads.com/book/show/44925.Down_the_Long_Hills",
-      "id": "44248",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388856540i/44925.jpg",
-      "authors": [
-        "Louis l'Amour"
-      ],
-      "genres": [
+        "harlequin",
         "westerns",
         "fiction",
-        "historical-fiction",
-        "adventure",
-        "survival",
-        "action",
-        "historical"
+        "chick-lit"
       ],
-      "rating": 4.15,
-      "ratings": 4381,
-      "reviews": 283
+      "rating": 4.02,
+      "ratings": 5134,
+      "reviews": 165
     },
     {
-      "title": "A Man Called Justice",
-      "url": "https://www.goodreads.com/book/show/60903794-a-man-called-justice",
-      "id": "96061304",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1651262627i/60903794.jpg",
+      "title": "Holidays on the Ranch",
+      "url": "https://www.goodreads.com/book/show/57529223-holidays-on-the-ranch",
+      "id": "26203445",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1616720597i/57529223.jpg",
       "authors": [
-        "John  Deacon"
-      ],
-      "genres": [
-        "westerns",
-        "fiction",
-        "historical-fiction"
-      ],
-      "rating": 4.59,
-      "ratings": 4359,
-      "reviews": 185
-    },
-    {
-      "title": "Secondhand Bride",
-      "url": "https://www.goodreads.com/book/show/74013.Secondhand_Bride",
-      "id": "71609",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388276665i/74013.jpg",
-      "authors": [
-        "Linda Lael Miller"
+        "Carolyn Brown"
       ],
       "genres": [
         "romance",
-        "historical-romance",
+        "christmas",
         "westerns",
-        "historical",
-        "western-romance",
-        "historical-fiction",
-        "fiction"
-      ],
-      "rating": 4.2,
-      "ratings": 4345,
-      "reviews": 192
-    },
-    {
-      "title": "Conagher",
-      "url": "https://www.goodreads.com/book/show/1123599.Conagher",
-      "id": "2846747",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1333578734i/1123599.jpg",
-      "authors": [
-        "Louis l'Amour"
-      ],
-      "genres": [
-        "westerns",
+        "holiday",
+        "contemporary-romance",
         "fiction",
-        "historical-fiction",
-        "romance",
-        "adventure",
-        "historical",
-        "novels"
+        "military-fiction"
       ],
-      "rating": 4.16,
-      "ratings": 4336,
-      "reviews": 240
+      "rating": 4.32,
+      "ratings": 5119,
+      "reviews": 271
     },
     {
       "title": "Without Words",
@@ -175,325 +389,120 @@
       "genres": [
         "historical-romance",
         "westerns",
-        "historical",
         "romance",
+        "historical",
         "historical-fiction",
         "western-romance",
-        "disability"
+        "slow-burn"
       ],
       "rating": 4.22,
-      "ratings": 4331,
-      "reviews": 488
+      "ratings": 5118,
+      "reviews": 606
     },
     {
-      "title": "In Shining Whatever",
-      "url": "https://www.goodreads.com/book/show/18522489-in-shining-whatever",
-      "id": "19079317",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1379705725i/18522489.jpg",
+      "title": "Hope Ignites",
+      "url": "https://www.goodreads.com/book/show/18276941-hope-ignites",
+      "id": "25746502",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388389937i/18276941.jpg",
       "authors": [
-        "Carolyn Brown"
+        "Jaci Burton"
       ],
       "genres": [
         "romance",
         "contemporary-romance",
-        "chick-lit",
         "contemporary",
+        "westerns",
+        "adult",
         "audiobook",
-        "westerns"
-      ],
-      "rating": 4.36,
-      "ratings": 4328,
-      "reviews": 134
-    },
-    {
-      "title": "The Lonely Men",
-      "url": "https://www.goodreads.com/book/show/727558.The_Lonely_Men",
-      "id": "3234587",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320511460i/727558.jpg",
-      "authors": [
-        "Louis l'Amour"
-      ],
-      "genres": [
-        "westerns",
-        "fiction",
-        "historical-fiction",
-        "adventure",
-        "action",
-        "historical",
-        "novels"
-      ],
-      "rating": 4.16,
-      "ratings": 4296,
-      "reviews": 149
-    },
-    {
-      "title": "River's End",
-      "url": "https://www.goodreads.com/book/show/60150692-river-s-end",
-      "id": "41820985",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1642476247i/60150692.jpg",
-      "authors": [
-        "Leanne Davis"
-      ],
-      "genres": [
-        "romance",
-        "contemporary",
-        "contemporary-romance",
-        "westerns",
-        "fiction",
-        "abuse",
-        "western-romance"
-      ],
-      "rating": 4.12,
-      "ratings": 4287,
-      "reviews": 373
-    },
-    {
-      "title": "A SEAL's Oath",
-      "url": "https://www.goodreads.com/book/show/28514383-a-seal-s-oath",
-      "id": "48495456",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1460134352i/28514383.jpg",
-      "authors": [
-        "Cora Seton"
-      ],
-      "genres": [
-        "romance",
-        "military-fiction",
-        "contemporary-romance",
-        "contemporary",
-        "amazon",
-        "military-romance",
-        "westerns"
-      ],
-      "rating": 4.04,
-      "ratings": 4267,
-      "reviews": 345
-    },
-    {
-      "title": "A Creed In Stone Creek",
-      "url": "https://www.goodreads.com/book/show/8964279-a-creed-in-stone-creek",
-      "id": "13841199",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1301272222i/8964279.jpg",
-      "authors": [
-        "Linda Lael Miller"
-      ],
-      "genres": [
-        "romance",
-        "contemporary-romance",
-        "westerns",
-        "western-romance",
-        "fiction",
-        "contemporary",
-        "chick-lit"
-      ],
-      "rating": 4.08,
-      "ratings": 4250,
-      "reviews": 277
-    },
-    {
-      "title": "Sweet Nothings",
-      "url": "https://www.goodreads.com/book/show/89357.Sweet_Nothings",
-      "id": "887638",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388234161i/89357.jpg",
-      "authors": [
-        "Catherine Anderson"
-      ],
-      "genres": [
-        "romance",
-        "contemporary-romance",
-        "contemporary",
-        "westerns",
-        "fiction",
-        "western-romance",
-        "abuse"
-      ],
-      "rating": 4.17,
-      "ratings": 4249,
-      "reviews": 181
-    },
-    {
-      "title": "Unwanted",
-      "url": "https://www.goodreads.com/book/show/59584469-unwanted",
-      "id": "93836857",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1636532330i/59584469.jpg",
-      "authors": [
-        "C.J. Petit"
-      ],
-      "genres": [
-        "westerns",
-        "fiction",
-        "western-romance"
-      ],
-      "rating": 4.42,
-      "ratings": 4246,
-      "reviews": 110
-    },
-    {
-      "title": "McKettrick's Pride",
-      "url": "https://www.goodreads.com/book/show/59954.McKettrick_s_Pride",
-      "id": "1552303",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1436651076i/59954.jpg",
-      "authors": [
-        "Linda Lael Miller"
-      ],
-      "genres": [
-        "romance",
-        "westerns",
-        "contemporary-romance",
-        "western-romance",
-        "contemporary",
-        "fiction",
-        "historical-romance"
-      ],
-      "rating": 4.25,
-      "ratings": 4211,
-      "reviews": 142
-    },
-    {
-      "title": "No White Knight",
-      "url": "https://www.goodreads.com/book/show/53251963-no-white-knight",
-      "id": "80799038",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1587676780i/53251963.jpg",
-      "authors": [
-        "Nicole Snow"
-      ],
-      "genres": [
-        "romance",
-        "westerns",
-        "contemporary-romance",
-        "contemporary",
-        "mystery",
-        "suspense",
-        "mystery-thriller"
-      ],
-      "rating": 4.45,
-      "ratings": 4181,
-      "reviews": 334
-    },
-    {
-      "title": "Healing Hearts",
-      "url": "https://www.goodreads.com/book/show/38903007-healing-hearts",
-      "id": "60456741",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1519976436i/38903007.jpg",
-      "authors": [
-        "Sarah M. Eden"
-      ],
-      "genres": [
-        "romance",
-        "historical-fiction",
-        "historical",
-        "historical-romance",
-        "westerns",
-        "clean-romance",
         "fiction"
       ],
-      "rating": 4.12,
-      "ratings": 4178,
-      "reviews": 678
+      "rating": 4.02,
+      "ratings": 5106,
+      "reviews": 380
     },
     {
-      "title": "Jubilee Trail (3)",
-      "url": "https://www.goodreads.com/book/show/74725.Jubilee_Trail_3_",
-      "id": "1787863",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388256044i/74725.jpg",
+      "title": "Big Sky Mountain",
+      "url": "https://www.goodreads.com/book/show/13545612-big-sky-mountain",
+      "id": "19110679",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1336825718i/13545612.jpg",
       "authors": [
-        "Gwen Bristow"
+        "Linda Lael Miller"
       ],
       "genres": [
-        "historical-fiction",
-        "fiction",
-        "historical",
         "romance",
-        "historical-romance",
-        "adventure",
-        "westerns"
+        "westerns",
+        "contemporary-romance",
+        "contemporary",
+        "western-romance",
+        "fiction",
+        "audiobook"
       ],
       "rating": 4.15,
-      "ratings": 4170,
-      "reviews": 444
+      "ratings": 5098,
+      "reviews": 276
     },
     {
-      "title": "Treasure Mountain",
-      "url": "https://www.goodreads.com/book/show/282092.Treasure_Mountain",
-      "id": "273646",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320446730i/282092.jpg",
+      "title": "Cowboy Command",
+      "url": "https://www.goodreads.com/book/show/18919836-cowboy-command",
+      "id": "26403569",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1385259258i/18919836.jpg",
       "authors": [
-        "Louis l'Amour"
-      ],
-      "genres": [
-        "westerns",
-        "fiction",
-        "historical-fiction",
-        "adventure",
-        "historical",
-        "mystery",
-        "audiobook"
-      ],
-      "rating": 4.13,
-      "ratings": 4156,
-      "reviews": 133
-    },
-    {
-      "title": "The Sky-Liners",
-      "url": "https://www.goodreads.com/book/show/1123517.The_Sky_Liners",
-      "id": "1110608",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320537676i/1123517.jpg",
-      "authors": [
-        "Louis l'Amour"
-      ],
-      "genres": [
-        "westerns",
-        "fiction",
-        "historical-fiction",
-        "adventure",
-        "action",
-        "audiobook",
-        "adult-fiction"
-      ],
-      "rating": 4.13,
-      "ratings": 4142,
-      "reviews": 123
-    },
-    {
-      "title": "King of Country",
-      "url": "https://www.goodreads.com/book/show/198131768-king-of-country",
-      "id": "200925723",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1696592905i/198131768.jpg",
-      "authors": [
-        "C.W. Farnsworth"
+        "Olivia Jaymes"
       ],
       "genres": [
         "romance",
+        "romantic-suspense",
         "westerns",
-        "contemporary-romance",
-        "music",
+        "erotica",
         "contemporary",
-        "musicians",
-        "audiobook"
+        "suspense",
+        "contemporary-romance"
       ],
-      "rating": 4.02,
-      "ratings": 4139,
-      "reviews": 590
+      "rating": 4.05,
+      "ratings": 5096,
+      "reviews": 297
     },
     {
-      "title": "Cherish",
-      "url": "https://www.goodreads.com/book/show/89356.Cherish",
-      "id": "86238",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1349010397i/89356.jpg",
+      "title": "Blue Moon Promise",
+      "url": "https://www.goodreads.com/book/show/11942636-blue-moon-promise",
+      "id": "16903991",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327922648i/11942636.jpg",
       "authors": [
-        "Catherine Anderson"
+        "Colleen Coble"
       ],
       "genres": [
-        "historical-romance",
+        "christian-fiction",
         "romance",
+        "historical-fiction",
+        "christian",
         "westerns",
         "historical",
-        "western-romance",
-        "historical-fiction",
         "fiction"
       ],
-      "rating": 4.02,
-      "ratings": 4129,
-      "reviews": 255
+      "rating": 4.15,
+      "ratings": 5082,
+      "reviews": 372
+    },
+    {
+      "title": "Buckled",
+      "url": "https://www.goodreads.com/book/show/38134238-buckled",
+      "id": "59818999",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1519186420i/38134238.jpg",
+      "authors": [
+        "Pam Godwin"
+      ],
+      "genres": [
+        "romance",
+        "dark-romance",
+        "westerns",
+        "dark",
+        "bdsm",
+        "contemporary",
+        "erotica"
+      ],
+      "rating": 4.19,
+      "ratings": 5069,
+      "reviews": 767
     }
   ]
 }

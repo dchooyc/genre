@@ -1,108 +1,497 @@
 {
   "books": [
     {
-      "title": "Wolf at the Door",
-      "url": "https://www.goodreads.com/book/show/57922466-wolf-at-the-door",
-      "id": "89653475",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1641231220i/57922466.jpg",
+      "title": "1536: The Year That Changed Henry VIII",
+      "url": "https://www.goodreads.com/book/show/6307713-1536",
+      "id": "6492608",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328821277i/6307713.jpg",
       "authors": [
-        "Sarah Hawkswood"
+        "Suzannah Lipscomb"
+      ],
+      "genres": [
+        "history",
+        "non-fiction",
+        "tudor-period",
+        "biography",
+        "royalty",
+        "british-literature",
+        "historical"
+      ],
+      "rating": 4.1,
+      "ratings": 642,
+      "reviews": 54
+    },
+    {
+      "title": "The Rise and Fall of the British Empire",
+      "url": "https://www.goodreads.com/book/show/25281744-the-rise-and-fall-of-the-british-empire",
+      "id": "10660576",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1428098384i/25281744.jpg",
+      "authors": [
+        "Patrick N. Allitt"
+      ],
+      "genres": [
+        "history",
+        "non-fiction",
+        "audiobook",
+        "british-literature",
+        "historical",
+        "politics",
+        "world-history"
+      ],
+      "rating": 4.17,
+      "ratings": 642,
+      "reviews": 85
+    },
+    {
+      "title": "The Temple: The Poetry of George Herbert",
+      "url": "https://www.goodreads.com/book/show/199264.The_Temple",
+      "id": "1167395",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1677789999i/199264.jpg",
+      "authors": [
+        "George Herbert"
+      ],
+      "genres": [
+        "poetry",
+        "classics",
+        "religion",
+        "christianity",
+        "christian",
+        "british-literature",
+        "literature"
+      ],
+      "rating": 4.15,
+      "ratings": 642,
+      "reviews": 64
+    },
+    {
+      "title": "A Plague of Poison",
+      "url": "https://www.goodreads.com/book/show/5806360-a-plague-of-poison",
+      "id": "5978357",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348584204i/5806360.jpg",
+      "authors": [
+        "Maureen Ash"
       ],
       "genres": [
         "mystery",
         "historical-fiction",
-        "crime",
+        "historical-mystery",
         "historical",
+        "medieval",
         "fiction",
-        "british-literature",
-        "historical-mystery"
+        "british-literature"
       ],
-      "rating": 4.44,
-      "ratings": 502,
-      "reviews": 56
+      "rating": 4.04,
+      "ratings": 641,
+      "reviews": 46
     },
     {
-      "title": "Mrs. Tim Gets a Job",
-      "url": "https://www.goodreads.com/book/show/1200453.Mrs_Tim_Gets_a_Job",
-      "id": "3091996",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1466378762i/1200453.jpg",
+      "title": "Punk Rock: An Oral History",
+      "url": "https://www.goodreads.com/book/show/14602.Punk_Rock",
+      "id": "16626",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320483404i/14602.jpg",
+      "authors": [
+        "John Robb"
+      ],
+      "genres": [
+        "music",
+        "non-fiction",
+        "punk",
+        "history",
+        "oral-history",
+        "biography",
+        "british-literature"
+      ],
+      "rating": 4.01,
+      "ratings": 640,
+      "reviews": 58
+    },
+    {
+      "title": "The Secrets",
+      "url": "https://www.goodreads.com/book/show/44905006-the-secrets",
+      "id": "69562230",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1555056308i/44905006.jpg",
+      "authors": [
+        "Jane A. Adams"
+      ],
+      "genres": [
+        "mystery",
+        "fiction",
+        "british-literature",
+        "thriller",
+        "crime"
+      ],
+      "rating": 4.06,
+      "ratings": 640,
+      "reviews": 40
+    },
+    {
+      "title": "The Vengeance Trail",
+      "url": "https://www.goodreads.com/book/show/62974951-the-vengeance-trail",
+      "id": "98798300",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1665574707i/62974951.jpg",
+      "authors": [
+        "Elizabeth Bailey"
+      ],
+      "genres": [
+        "mystery",
+        "historical",
+        "historical-fiction",
+        "british-literature",
+        "crime",
+        "historical-mystery",
+        "fiction"
+      ],
+      "rating": 4.34,
+      "ratings": 639,
+      "reviews": 31
+    },
+    {
+      "title": "Death at Dearley Manor",
+      "url": "https://www.goodreads.com/book/show/45042320-death-at-dearley-manor",
+      "id": "4806791",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1555248564i/45042320.jpg",
+      "authors": [
+        "Betty Rowlands"
+      ],
+      "genres": [
+        "mystery",
+        "crime",
+        "cozy",
+        "british-literature"
+      ],
+      "rating": 4.23,
+      "ratings": 637,
+      "reviews": 52
+    },
+    {
+      "title": "The House of the Deer",
+      "url": "https://www.goodreads.com/book/show/60119076-the-house-of-the-deer",
+      "id": "2433775",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1642109476i/60119076.jpg",
       "authors": [
         "D.E. Stevenson"
       ],
       "genres": [
         "fiction",
-        "historical-fiction",
-        "british-literature",
         "romance",
-        "world-war-ii",
-        "historical",
-        "family"
-      ],
-      "rating": 4.22,
-      "ratings": 502,
-      "reviews": 64
-    },
-    {
-      "title": "Oh, qué espléndida música",
-      "url": "https://www.goodreads.com/book/show/151473382-oh-qu-espl-ndida-m-sica",
-      "id": "2963373",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1683985394i/151473382.jpg",
-      "authors": [
-        "Dorothy Evelyn Smith"
-      ],
-      "genres": [
-        "fiction",
+        "historical-fiction",
         "british-literature",
-        "classics",
-        "coming-of-age",
-        "historical-fiction",
-        "female-authors",
-        "historical"
+        "audiobook",
+        "mystery",
+        "classics"
       ],
-      "rating": 4.54,
-      "ratings": 501,
-      "reviews": 100
+      "rating": 4.04,
+      "ratings": 635,
+      "reviews": 42
     },
     {
-      "title": "Blood Runs Thicker",
-      "url": "https://www.goodreads.com/book/show/55776911-blood-runs-thicker",
-      "id": "86395570",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1641231179i/55776911.jpg",
+      "title": "Murder in an English Castle",
+      "url": "https://www.goodreads.com/book/show/216955883-murder-in-an-english-castle",
+      "id": "223413934",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1722262480i/216955883.jpg",
       "authors": [
-        "Sarah Hawkswood"
+        "Merryn Allingham"
       ],
       "genres": [
-        "historical-fiction",
+        "cozy-mystery",
         "mystery",
+        "historical-fiction",
         "historical",
         "fiction",
         "historical-mystery",
         "british-literature"
       ],
-      "rating": 4.39,
-      "ratings": 501,
-      "reviews": 45
+      "rating": 4.33,
+      "ratings": 634,
+      "reviews": 48
     },
     {
-      "title": "Cabin Pressure: The Complete Series 3",
-      "url": "https://www.goodreads.com/book/show/17348038-cabin-pressure",
-      "id": "46171809",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1360562505i/17348038.jpg",
+      "title": "The Fugitive Colours",
+      "url": "https://www.goodreads.com/book/show/59682540-the-fugitive-colours",
+      "id": "93979047",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1640259261i/59682540.jpg",
       "authors": [
-        "John Finnemore"
+        "Nancy Bilyeau"
       ],
       "genres": [
-        "audiobook",
-        "humor",
-        "comedy",
+        "historical-fiction",
+        "fiction",
+        "art",
+        "historical",
+        "mystery",
+        "romance",
+        "british-literature"
+      ],
+      "rating": 4.01,
+      "ratings": 634,
+      "reviews": 76
+    },
+    {
+      "title": "Revelations",
+      "url": "https://www.goodreads.com/book/show/55278167-revelations",
+      "id": "84337316",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1599611352i/55278167.jpg",
+      "authors": [
+        "Mary Sharratt"
+      ],
+      "genres": [
+        "historical-fiction",
+        "fiction",
+        "medieval",
+        "historical",
+        "british-literature",
+        "religion",
+        "spirituality"
+      ],
+      "rating": 4.06,
+      "ratings": 634,
+      "reviews": 149
+    },
+    {
+      "title": "Bloodshed on the Boards",
+      "url": "https://www.goodreads.com/book/show/195963839-bloodshed-on-the-boards",
+      "id": "197993463",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1711674894i/195963839.jpg",
+      "authors": [
+        "Judy Leigh"
+      ],
+      "genres": [
+        "mystery",
+        "cozy-mystery",
+        "murder-mystery",
+        "cozy",
+        "british-literature",
+        "crime",
+        "detective"
+      ],
+      "rating": 4.31,
+      "ratings": 633,
+      "reviews": 54
+    },
+    {
+      "title": "Before I Sleep",
+      "url": "https://www.goodreads.com/book/show/62063007-before-i-sleep",
+      "id": "97833497",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1661269623i/62063007.jpg",
+      "authors": [
+        "Cynthia Harrod-Eagles"
+      ],
+      "genres": [
+        "mystery",
         "fiction",
         "british-literature",
-        "plays",
-        "contemporary"
+        "crime",
+        "thriller"
       ],
-      "rating": 4.75,
-      "ratings": 500,
-      "reviews": 40
+      "rating": 4.2,
+      "ratings": 633,
+      "reviews": 80
+    },
+    {
+      "title": "The Scandal",
+      "url": "https://www.goodreads.com/book/show/41717274-the-scandal",
+      "id": "65073251",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1536833203i/41717274.jpg",
+      "authors": [
+        "Mari Hannah"
+      ],
+      "genres": [
+        "crime",
+        "thriller",
+        "fiction",
+        "mystery",
+        "murder-mystery",
+        "british-literature"
+      ],
+      "rating": 4.14,
+      "ratings": 633,
+      "reviews": 73
+    },
+    {
+      "title": "A Grave Concern",
+      "url": "https://www.goodreads.com/book/show/28016484-a-grave-concern",
+      "id": "48027158",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1457647450i/28016484.jpg",
+      "authors": [
+        "Susanna Gregory"
+      ],
+      "genres": [
+        "historical-fiction",
+        "mystery",
+        "medieval",
+        "historical-mystery",
+        "historical",
+        "audiobook",
+        "british-literature"
+      ],
+      "rating": 4.31,
+      "ratings": 633,
+      "reviews": 34
+    },
+    {
+      "title": "How To Be Invisible",
+      "url": "https://www.goodreads.com/book/show/41736606-how-to-be-invisible",
+      "id": "65124920",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1543495504i/41736606.jpg",
+      "authors": [
+        "Kate Bush"
+      ],
+      "genres": [
+        "poetry",
+        "music",
+        "non-fiction",
+        "art",
+        "british-literature",
+        "memoir",
+        "reference"
+      ],
+      "rating": 4.39,
+      "ratings": 630,
+      "reviews": 100
+    },
+    {
+      "title": "Doctor Who: Jubilee",
+      "url": "https://www.goodreads.com/book/show/863591.Doctor_Who",
+      "id": "849012",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347279491i/863591.jpg",
+      "authors": [
+        "Robert Shearman"
+      ],
+      "genres": [
+        "doctor-who",
+        "science-fiction",
+        "audiobook",
+        "media-tie-in",
+        "time-travel",
+        "fiction",
+        "british-literature"
+      ],
+      "rating": 4.29,
+      "ratings": 629,
+      "reviews": 62
+    },
+    {
+      "title": "Sam the Sudden",
+      "url": "https://www.goodreads.com/book/show/898659.Sam_the_Sudden",
+      "id": "883846",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347567508i/898659.jpg",
+      "authors": [
+        "P.G. Wodehouse"
+      ],
+      "genres": [
+        "humor",
+        "fiction",
+        "comedy",
+        "british-literature",
+        "classics",
+        "20th-century"
+      ],
+      "rating": 4.16,
+      "ratings": 629,
+      "reviews": 67
+    },
+    {
+      "title": "Charlotte Fairlie",
+      "url": "https://www.goodreads.com/book/show/59638212-charlotte-fairlie",
+      "id": "16489555",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1637082585i/59638212.jpg",
+      "authors": [
+        "D.E. Stevenson"
+      ],
+      "genres": [
+        "fiction",
+        "romance",
+        "scotland",
+        "historical-fiction",
+        "british-literature",
+        "classics",
+        "historical-romance"
+      ],
+      "rating": 4.18,
+      "ratings": 629,
+      "reviews": 99
+    },
+    {
+      "title": "My Mother's Choice",
+      "url": "https://www.goodreads.com/book/show/53939826-my-mother-s-choice",
+      "id": "84423574",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1591815790i/53939826.jpg",
+      "authors": [
+        "Ali  Mercer"
+      ],
+      "genres": [
+        "contemporary",
+        "suspense",
+        "british-literature",
+        "mystery",
+        "womens-fiction"
+      ],
+      "rating": 4.04,
+      "ratings": 627,
+      "reviews": 87
+    },
+    {
+      "title": "Princess Mary: The First Modern Princess",
+      "url": "https://www.goodreads.com/book/show/57113892-princess-mary",
+      "id": "89053840",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1613619429i/57113892.jpg",
+      "authors": [
+        "Elisabeth Basford"
+      ],
+      "genres": [
+        "biography",
+        "history",
+        "non-fiction",
+        "royalty",
+        "british-literature",
+        "audiobook",
+        "historical"
+      ],
+      "rating": 4.04,
+      "ratings": 627,
+      "reviews": 66
+    },
+    {
+      "title": "Taken by Storm",
+      "url": "https://www.goodreads.com/book/show/56384368-taken-by-storm",
+      "id": "2103707",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1608674060i/56384368.jpg",
+      "authors": [
+        "Danelle Harmon"
+      ],
+      "genres": [
+        "historical-romance",
+        "romance",
+        "historical-fiction",
+        "historical",
+        "pirates",
+        "british-literature",
+        "adult"
+      ],
+      "rating": 4.4,
+      "ratings": 625,
+      "reviews": 32
+    },
+    {
+      "title": "Double Cross Dead",
+      "url": "https://www.goodreads.com/book/show/178819360-double-cross-dead",
+      "id": "184275984",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1687910651i/178819360.jpg",
+      "authors": [
+        "Lynn Morrison"
+      ],
+      "genres": [
+        "mystery",
+        "cozy-mystery",
+        "historical",
+        "historical-mystery",
+        "historical-fiction",
+        "fiction",
+        "british-literature"
+      ],
+      "rating": 4.6,
+      "ratings": 624,
+      "reviews": 37
     }
   ]
 }

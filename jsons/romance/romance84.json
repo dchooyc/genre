@@ -1,6 +1,48 @@
 {
   "books": [
     {
+      "title": "Obsession",
+      "url": "https://www.goodreads.com/book/show/14060046-obsession",
+      "id": "19696664",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1368003139i/14060046.jpg",
+      "authors": [
+        "Jennifer L. Armentrout"
+      ],
+      "genres": [
+        "romance",
+        "paranormal",
+        "aliens",
+        "fantasy",
+        "new-adult",
+        "paranormal-romance",
+        "science-fiction"
+      ],
+      "rating": 4.1,
+      "ratings": 29654,
+      "reviews": 2714
+    },
+    {
+      "title": "Playboy Pilot",
+      "url": "https://www.goodreads.com/book/show/29533192-playboy-pilot",
+      "id": "49831035",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1463038030i/29533192.jpg",
+      "authors": [
+        "Penelope Ward"
+      ],
+      "genres": [
+        "romance",
+        "contemporary",
+        "contemporary-romance",
+        "audiobook",
+        "new-adult",
+        "adult",
+        "erotica"
+      ],
+      "rating": 4.11,
+      "ratings": 29640,
+      "reviews": 2695
+    },
+    {
       "title": "The House on Tradd Street",
       "url": "https://www.goodreads.com/book/show/4505161-the-house-on-tradd-street",
       "id": "4554187",
@@ -18,29 +60,29 @@
         "audiobook"
       ],
       "rating": 4.01,
-      "ratings": 29617,
-      "reviews": 2912
+      "ratings": 29636,
+      "reviews": 2914
     },
     {
-      "title": "Succubus Dreams",
-      "url": "https://www.goodreads.com/book/show/2977487-succubus-dreams",
-      "id": "3007852",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1315977451i/2977487.jpg",
+      "title": "The Unidentified Redhead",
+      "url": "https://www.goodreads.com/book/show/7743783-the-unidentified-redhead",
+      "id": "10561678",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1594450401i/7743783.jpg",
       "authors": [
-        "Richelle Mead"
+        "Alice Clayton"
       ],
       "genres": [
-        "urban-fantasy",
-        "paranormal",
-        "fantasy",
         "romance",
-        "paranormal-romance",
-        "demons",
-        "vampires"
+        "contemporary-romance",
+        "contemporary",
+        "chick-lit",
+        "humor",
+        "adult",
+        "erotica"
       ],
-      "rating": 4.12,
-      "ratings": 29547,
-      "reviews": 1210
+      "rating": 4.01,
+      "ratings": 29621,
+      "reviews": 2391
     },
     {
       "title": "Under the Stars",
@@ -55,55 +97,13 @@
         "small-town-romance",
         "workplace-romance",
         "contemporary-romance",
-        "workplace",
         "forced-proximity",
+        "workplace",
         "contemporary"
       ],
       "rating": 4.29,
-      "ratings": 29545,
-      "reviews": 2264
-    },
-    {
-      "title": "Melt for You",
-      "url": "https://www.goodreads.com/book/show/36564103-melt-for-you",
-      "id": "66311130",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1519177832i/36564103.jpg",
-      "authors": [
-        "J.T. Geissinger"
-      ],
-      "genres": [
-        "romance",
-        "contemporary-romance",
-        "contemporary",
-        "slow-burn",
-        "friends-to-lovers",
-        "sports",
-        "sports-romance"
-      ],
-      "rating": 4.26,
-      "ratings": 29537,
-      "reviews": 3155
-    },
-    {
-      "title": "Mistress of Rome",
-      "url": "https://www.goodreads.com/book/show/49570871-mistress-of-rome",
-      "id": "6774744",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1576856730i/49570871.jpg",
-      "authors": [
-        "Kate Quinn"
-      ],
-      "genres": [
-        "historical-fiction",
-        "historical",
-        "fiction",
-        "romance",
-        "historical-romance",
-        "italy",
-        "adult"
-      ],
-      "rating": 4.02,
-      "ratings": 29529,
-      "reviews": 2496
+      "ratings": 29582,
+      "reviews": 2267
     },
     {
       "title": "Ryan Retribution",
@@ -123,8 +123,92 @@
         "dark"
       ],
       "rating": 4.09,
-      "ratings": 29513,
-      "reviews": 866
+      "ratings": 29576,
+      "reviews": 868
+    },
+    {
+      "title": "Melt for You",
+      "url": "https://www.goodreads.com/book/show/36564103-melt-for-you",
+      "id": "66311130",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1519177832i/36564103.jpg",
+      "authors": [
+        "J.T. Geissinger"
+      ],
+      "genres": [
+        "romance",
+        "contemporary-romance",
+        "contemporary",
+        "slow-burn",
+        "friends-to-lovers",
+        "sports",
+        "sports-romance"
+      ],
+      "rating": 4.26,
+      "ratings": 29571,
+      "reviews": 3159
+    },
+    {
+      "title": "Mistress of Rome",
+      "url": "https://www.goodreads.com/book/show/49570871-mistress-of-rome",
+      "id": "6774744",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1576856730i/49570871.jpg",
+      "authors": [
+        "Kate Quinn"
+      ],
+      "genres": [
+        "historical-fiction",
+        "historical",
+        "fiction",
+        "romance",
+        "historical-romance",
+        "italy",
+        "adult"
+      ],
+      "rating": 4.02,
+      "ratings": 29562,
+      "reviews": 2497
+    },
+    {
+      "title": "Succubus Dreams",
+      "url": "https://www.goodreads.com/book/show/2977487-succubus-dreams",
+      "id": "3007852",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1315977451i/2977487.jpg",
+      "authors": [
+        "Richelle Mead"
+      ],
+      "genres": [
+        "urban-fantasy",
+        "paranormal",
+        "fantasy",
+        "romance",
+        "paranormal-romance",
+        "demons",
+        "vampires"
+      ],
+      "rating": 4.12,
+      "ratings": 29549,
+      "reviews": 1212
+    },
+    {
+      "title": "Stellarlune",
+      "url": "https://www.goodreads.com/book/show/40219200-stellarlune",
+      "id": "62455295",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1645031780i/40219200.jpg",
+      "authors": [
+        "Shannon Messenger"
+      ],
+      "genres": [
+        "fantasy",
+        "middle-grade",
+        "fiction",
+        "romance",
+        "young-adult",
+        "adventure",
+        "magic"
+      ],
+      "rating": 4.43,
+      "ratings": 29517,
+      "reviews": 3111
     },
     {
       "title": "The Twilight Saga - New Moon Songbook: Music from the Motion Picture Soundtrack",
@@ -140,7 +224,7 @@
         "young-adult"
       ],
       "rating": 4.28,
-      "ratings": 29489,
+      "ratings": 29513,
       "reviews": 8
     },
     {
@@ -161,8 +245,29 @@
         "suspense"
       ],
       "rating": 4.32,
-      "ratings": 29488,
+      "ratings": 29501,
       "reviews": 1553
+    },
+    {
+      "title": "Wilder",
+      "url": "https://www.goodreads.com/book/show/28672986-wilder",
+      "id": "48863691",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1470299001i/28672986.jpg",
+      "authors": [
+        "Rebecca Yarros"
+      ],
+      "genres": [
+        "romance",
+        "new-adult",
+        "sports",
+        "sports-romance",
+        "contemporary",
+        "college",
+        "contemporary-romance"
+      ],
+      "rating": 4.03,
+      "ratings": 29495,
+      "reviews": 2112
     },
     {
       "title": "Persuasion",
@@ -182,8 +287,8 @@
         "young-adult"
       ],
       "rating": 4.26,
-      "ratings": 29474,
-      "reviews": 1490
+      "ratings": 29488,
+      "reviews": 1491
     },
     {
       "title": "Creation in Death",
@@ -203,50 +308,8 @@
         "suspense"
       ],
       "rating": 4.4,
-      "ratings": 29454,
-      "reviews": 1120
-    },
-    {
-      "title": "On the Prowl",
-      "url": "https://www.goodreads.com/book/show/285212.On_the_Prowl",
-      "id": "276710",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1422192630i/285212.jpg",
-      "authors": [
-        "Patricia Briggs"
-      ],
-      "genres": [
-        "urban-fantasy",
-        "fantasy",
-        "paranormal",
-        "romance",
-        "paranormal-romance",
-        "anthologies",
-        "werewolves"
-      ],
-      "rating": 4.06,
-      "ratings": 29451,
-      "reviews": 1356
-    },
-    {
-      "title": "Stellarlune",
-      "url": "https://www.goodreads.com/book/show/40219200-stellarlune",
-      "id": "62455295",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1645031780i/40219200.jpg",
-      "authors": [
-        "Shannon Messenger"
-      ],
-      "genres": [
-        "fantasy",
-        "middle-grade",
-        "fiction",
-        "romance",
-        "young-adult",
-        "adventure",
-        "magic"
-      ],
-      "rating": 4.43,
-      "ratings": 29448,
-      "reviews": 3108
+      "ratings": 29469,
+      "reviews": 1122
     },
     {
       "title": "Storm and Silence",
@@ -266,8 +329,29 @@
         "humor"
       ],
       "rating": 4.49,
-      "ratings": 29443,
-      "reviews": 2652
+      "ratings": 29453,
+      "reviews": 2653
+    },
+    {
+      "title": "On the Prowl",
+      "url": "https://www.goodreads.com/book/show/285212.On_the_Prowl",
+      "id": "276710",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1422192630i/285212.jpg",
+      "authors": [
+        "Patricia Briggs"
+      ],
+      "genres": [
+        "urban-fantasy",
+        "fantasy",
+        "paranormal",
+        "romance",
+        "paranormal-romance",
+        "anthologies",
+        "werewolves"
+      ],
+      "rating": 4.06,
+      "ratings": 29452,
+      "reviews": 1357
     },
     {
       "title": "Devil's Game",
@@ -287,7 +371,7 @@
         "audiobook"
       ],
       "rating": 4.26,
-      "ratings": 29434,
+      "ratings": 29436,
       "reviews": 2215
     },
     {
@@ -308,8 +392,29 @@
         "erotic-romance"
       ],
       "rating": 4.1,
-      "ratings": 29418,
+      "ratings": 29424,
       "reviews": 2324
+    },
+    {
+      "title": "Cut and Run",
+      "url": "https://www.goodreads.com/book/show/39182872-cut-and-run",
+      "id": "60765698",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1524486164i/39182872.jpg",
+      "authors": [
+        "Mary Burton"
+      ],
+      "genres": [
+        "mystery",
+        "thriller",
+        "suspense",
+        "romantic-suspense",
+        "romance",
+        "audiobook",
+        "fiction"
+      ],
+      "rating": 4.21,
+      "ratings": 29412,
+      "reviews": 1342
     },
     {
       "title": "Heart Recaptured",
@@ -330,28 +435,28 @@
       ],
       "rating": 4.13,
       "ratings": 29406,
-      "reviews": 2819
+      "reviews": 2820
     },
     {
-      "title": "Cut and Run",
-      "url": "https://www.goodreads.com/book/show/39182872-cut-and-run",
-      "id": "60765698",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1524486164i/39182872.jpg",
+      "title": "Save Your Breath",
+      "url": "https://www.goodreads.com/book/show/41196516-save-your-breath",
+      "id": "64381414",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1544630671i/41196516.jpg",
       "authors": [
-        "Mary Burton"
+        "Melinda Leigh"
       ],
       "genres": [
         "mystery",
+        "romantic-suspense",
         "thriller",
         "suspense",
-        "romantic-suspense",
         "romance",
         "audiobook",
-        "fiction"
+        "crime"
       ],
-      "rating": 4.21,
-      "ratings": 29403,
-      "reviews": 1341
+      "rating": 4.46,
+      "ratings": 29401,
+      "reviews": 1062
     },
     {
       "title": "D.N.Angel, Vol. 1",
@@ -371,7 +476,7 @@
         "young-adult"
       ],
       "rating": 4.01,
-      "ratings": 29400,
+      "ratings": 29399,
       "reviews": 219
     },
     {
@@ -392,113 +497,8 @@
         "adult"
       ],
       "rating": 4.33,
-      "ratings": 29385,
+      "ratings": 29392,
       "reviews": 1261
-    },
-    {
-      "title": "Save Your Breath",
-      "url": "https://www.goodreads.com/book/show/41196516-save-your-breath",
-      "id": "64381414",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1544630671i/41196516.jpg",
-      "authors": [
-        "Melinda Leigh"
-      ],
-      "genres": [
-        "mystery",
-        "romantic-suspense",
-        "thriller",
-        "suspense",
-        "romance",
-        "audiobook",
-        "crime"
-      ],
-      "rating": 4.46,
-      "ratings": 29380,
-      "reviews": 1060
-    },
-    {
-      "title": "Shadow's Claim",
-      "url": "https://www.goodreads.com/book/show/12988016-shadow-s-claim",
-      "id": "18147798",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1336161703i/12988016.jpg",
-      "authors": [
-        "Kresley Cole"
-      ],
-      "genres": [
-        "paranormal-romance",
-        "paranormal",
-        "romance",
-        "vampires",
-        "fantasy",
-        "demons",
-        "urban-fantasy"
-      ],
-      "rating": 4.25,
-      "ratings": 29377,
-      "reviews": 1867
-    },
-    {
-      "title": "Hecha de estrellas",
-      "url": "https://www.goodreads.com/book/show/46029196-hecha-de-estrellas",
-      "id": "52030589",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1559012473i/46029196.jpg",
-      "authors": [
-        "Ashley Herring Blake"
-      ],
-      "genres": [
-        "young-adult",
-        "contemporary",
-        "lgbt",
-        "fiction",
-        "queer",
-        "romance",
-        "lesbian"
-      ],
-      "rating": 4.19,
-      "ratings": 29360,
-      "reviews": 6019
-    },
-    {
-      "title": "Wilder",
-      "url": "https://www.goodreads.com/book/show/28672986-wilder",
-      "id": "48863691",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1470299001i/28672986.jpg",
-      "authors": [
-        "Rebecca Yarros"
-      ],
-      "genres": [
-        "romance",
-        "new-adult",
-        "sports",
-        "sports-romance",
-        "contemporary",
-        "college",
-        "contemporary-romance"
-      ],
-      "rating": 4.03,
-      "ratings": 29358,
-      "reviews": 2102
-    },
-    {
-      "title": "Heir to the Shadows",
-      "url": "https://www.goodreads.com/book/show/363785.Heir_to_the_Shadows",
-      "id": "2510727",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1432415008i/363785.jpg",
-      "authors": [
-        "Anne Bishop"
-      ],
-      "genres": [
-        "fantasy",
-        "romance",
-        "magic",
-        "fiction",
-        "dark-fantasy",
-        "high-fantasy",
-        "paranormal"
-      ],
-      "rating": 4.31,
-      "ratings": 29345,
-      "reviews": 921
     }
   ]
 }

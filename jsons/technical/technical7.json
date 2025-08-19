@@ -1,6 +1,27 @@
 {
   "books": [
     {
+      "title": "Python Pocket Reference",
+      "url": "https://www.goodreads.com/book/show/583495.Python_Pocket_Reference",
+      "id": "570354",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388711420i/583495.jpg",
+      "authors": [
+        "Mark Lutz"
+      ],
+      "genres": [
+        "reference",
+        "programming",
+        "computers",
+        "computer-science",
+        "non-fiction",
+        "technical",
+        "technology"
+      ],
+      "rating": 4.03,
+      "ratings": 733,
+      "reviews": 27
+    },
+    {
       "title": "Dive Into Design Patterns",
       "url": "https://www.goodreads.com/book/show/43125355-dive-into-design-patterns",
       "id": "61835410",
@@ -18,7 +39,7 @@
         "design"
       ],
       "rating": 4.66,
-      "ratings": 730,
+      "ratings": 731,
       "reviews": 192
     },
     {
@@ -39,7 +60,7 @@
         "technical"
       ],
       "rating": 4.15,
-      "ratings": 721,
+      "ratings": 722,
       "reviews": 96
     },
     {
@@ -81,7 +102,7 @@
         "software"
       ],
       "rating": 4.39,
-      "ratings": 713,
+      "ratings": 714,
       "reviews": 68
     },
     {
@@ -144,7 +165,7 @@
         "computers"
       ],
       "rating": 4.63,
-      "ratings": 702,
+      "ratings": 703,
       "reviews": 44
     },
     {
@@ -186,7 +207,7 @@
         "engineering"
       ],
       "rating": 4.21,
-      "ratings": 697,
+      "ratings": 699,
       "reviews": 34
     },
     {
@@ -207,29 +228,8 @@
         "non-fiction"
       ],
       "rating": 4.25,
-      "ratings": 686,
+      "ratings": 687,
       "reviews": 70
-    },
-    {
-      "title": "You Don't Know JS: Async & Performance",
-      "url": "https://www.goodreads.com/book/show/22221110-you-don-t-know-js",
-      "id": "41559954",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1401074365i/22221110.jpg",
-      "authors": [
-        "Kyle Simpson"
-      ],
-      "genres": [
-        "programming",
-        "technology",
-        "computer-science",
-        "non-fiction",
-        "technical",
-        "software",
-        "coding"
-      ],
-      "rating": 4.31,
-      "ratings": 681,
-      "reviews": 42
     },
     {
       "title": "The Mixing Engineer's Handbook",
@@ -250,6 +250,27 @@
       "rating": 4.31,
       "ratings": 681,
       "reviews": 39
+    },
+    {
+      "title": "You Don't Know JS: Async & Performance",
+      "url": "https://www.goodreads.com/book/show/22221110-you-don-t-know-js",
+      "id": "41559954",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1401074365i/22221110.jpg",
+      "authors": [
+        "Kyle Simpson"
+      ],
+      "genres": [
+        "programming",
+        "technology",
+        "computer-science",
+        "non-fiction",
+        "technical",
+        "software",
+        "coding"
+      ],
+      "rating": 4.31,
+      "ratings": 680,
+      "reviews": 42
     },
     {
       "title": "A Twist of the Wrist II: The Basics of High Performance Motorcycle Riding",
@@ -290,7 +311,7 @@
         "reference"
       ],
       "rating": 4.59,
-      "ratings": 669,
+      "ratings": 668,
       "reviews": 93
     },
     {
@@ -336,27 +357,6 @@
       "reviews": 31
     },
     {
-      "title": "99 Bottles of OOP",
-      "url": "https://www.goodreads.com/book/show/31183020-99-bottles-of-oop",
-      "id": "51824272",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1477514056i/31183020.jpg",
-      "authors": [
-        "Sandi Metz"
-      ],
-      "genres": [
-        "programming",
-        "technology",
-        "software",
-        "computer-science",
-        "non-fiction",
-        "technical",
-        "engineering"
-      ],
-      "rating": 4.55,
-      "ratings": 661,
-      "reviews": 75
-    },
-    {
       "title": "Learning Domain-Driven Design: Aligning Software Architecture and Business Strategy",
       "url": "https://www.goodreads.com/book/show/57573212-learning-domain-driven-design",
       "id": "90162534",
@@ -374,7 +374,7 @@
         "non-fiction"
       ],
       "rating": 4.44,
-      "ratings": 660,
+      "ratings": 662,
       "reviews": 78
     },
     {
@@ -395,8 +395,29 @@
         "architecture"
       ],
       "rating": 4.49,
-      "ratings": 660,
+      "ratings": 661,
       "reviews": 83
+    },
+    {
+      "title": "99 Bottles of OOP",
+      "url": "https://www.goodreads.com/book/show/31183020-99-bottles-of-oop",
+      "id": "51824272",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1477514056i/31183020.jpg",
+      "authors": [
+        "Sandi Metz"
+      ],
+      "genres": [
+        "programming",
+        "technology",
+        "software",
+        "computer-science",
+        "technical",
+        "non-fiction",
+        "engineering"
+      ],
+      "rating": 4.55,
+      "ratings": 660,
+      "reviews": 75
     },
     {
       "title": "Python Data Science Handbook: Essential Tools for Working with Data",
@@ -441,6 +462,27 @@
       "reviews": 40
     },
     {
+      "title": "Algorithm Design",
+      "url": "https://www.goodreads.com/book/show/145055.Algorithm_Design",
+      "id": "139960",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348335904i/145055.jpg",
+      "authors": [
+        "Jon Kleinberg"
+      ],
+      "genres": [
+        "computer-science",
+        "algorithms",
+        "programming",
+        "technology",
+        "technical",
+        "textbooks",
+        "non-fiction"
+      ],
+      "rating": 4.17,
+      "ratings": 648,
+      "reviews": 26
+    },
+    {
       "title": "Introduction to Elementary Particles",
       "url": "https://www.goodreads.com/book/show/488853.Introduction_to_Elementary_Particles",
       "id": "477108",
@@ -460,48 +502,6 @@
       "rating": 4.26,
       "ratings": 647,
       "reviews": 39
-    },
-    {
-      "title": "Algorithm Design",
-      "url": "https://www.goodreads.com/book/show/145055.Algorithm_Design",
-      "id": "139960",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348335904i/145055.jpg",
-      "authors": [
-        "Jon Kleinberg"
-      ],
-      "genres": [
-        "computer-science",
-        "algorithms",
-        "programming",
-        "technology",
-        "technical",
-        "textbooks",
-        "non-fiction"
-      ],
-      "rating": 4.17,
-      "ratings": 647,
-      "reviews": 26
-    },
-    {
-      "title": "Scala for the Impatient",
-      "url": "https://www.goodreads.com/book/show/11335855-scala-for-the-impatient",
-      "id": "16264400",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348110005i/11335855.jpg",
-      "authors": [
-        "Cay S. Horstmann"
-      ],
-      "genres": [
-        "programming",
-        "technology",
-        "technical",
-        "computer-science",
-        "software",
-        "non-fiction",
-        "computers"
-      ],
-      "rating": 4.09,
-      "ratings": 638,
-      "reviews": 55
     }
   ]
 }

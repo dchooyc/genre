@@ -1,6 +1,48 @@
 {
   "books": [
     {
+      "title": "Microservice Patterns",
+      "url": "https://www.goodreads.com/book/show/34372564-microservice-patterns",
+      "id": "55456565",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1487751473i/34372564.jpg",
+      "authors": [
+        "Chris Richardson"
+      ],
+      "genres": [
+        "programming",
+        "technology",
+        "computer-science",
+        "software",
+        "architecture",
+        "technical",
+        "non-fiction"
+      ],
+      "rating": 4.25,
+      "ratings": 687,
+      "reviews": 70
+    },
+    {
+      "title": "You Don't Know JS: Async & Performance",
+      "url": "https://www.goodreads.com/book/show/22221110-you-don-t-know-js",
+      "id": "41559954",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1401074365i/22221110.jpg",
+      "authors": [
+        "Kyle Simpson"
+      ],
+      "genres": [
+        "programming",
+        "technology",
+        "computer-science",
+        "non-fiction",
+        "technical",
+        "software",
+        "coding"
+      ],
+      "rating": 4.31,
+      "ratings": 680,
+      "reviews": 42
+    },
+    {
       "title": "Kubernetes in Action",
       "url": "https://www.goodreads.com/book/show/34013922-kubernetes-in-action",
       "id": "55010684",
@@ -18,7 +60,7 @@
         "reference"
       ],
       "rating": 4.59,
-      "ratings": 669,
+      "ratings": 668,
       "reviews": 93
     },
     {
@@ -64,27 +106,6 @@
       "reviews": 31
     },
     {
-      "title": "99 Bottles of OOP",
-      "url": "https://www.goodreads.com/book/show/31183020-99-bottles-of-oop",
-      "id": "51824272",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1477514056i/31183020.jpg",
-      "authors": [
-        "Sandi Metz"
-      ],
-      "genres": [
-        "programming",
-        "technology",
-        "software",
-        "computer-science",
-        "non-fiction",
-        "technical",
-        "engineering"
-      ],
-      "rating": 4.55,
-      "ratings": 661,
-      "reviews": 75
-    },
-    {
       "title": "Learning Domain-Driven Design: Aligning Software Architecture and Business Strategy",
       "url": "https://www.goodreads.com/book/show/57573212-learning-domain-driven-design",
       "id": "90162534",
@@ -102,7 +123,7 @@
         "non-fiction"
       ],
       "rating": 4.44,
-      "ratings": 660,
+      "ratings": 662,
       "reviews": 78
     },
     {
@@ -123,8 +144,29 @@
         "architecture"
       ],
       "rating": 4.49,
-      "ratings": 660,
+      "ratings": 661,
       "reviews": 83
+    },
+    {
+      "title": "99 Bottles of OOP",
+      "url": "https://www.goodreads.com/book/show/31183020-99-bottles-of-oop",
+      "id": "51824272",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1477514056i/31183020.jpg",
+      "authors": [
+        "Sandi Metz"
+      ],
+      "genres": [
+        "programming",
+        "technology",
+        "software",
+        "computer-science",
+        "technical",
+        "non-fiction",
+        "engineering"
+      ],
+      "rating": 4.55,
+      "ratings": 660,
+      "reviews": 75
     },
     {
       "title": "Python Data Science Handbook: Essential Tools for Working with Data",
@@ -186,8 +228,29 @@
         "non-fiction"
       ],
       "rating": 4.17,
-      "ratings": 647,
+      "ratings": 648,
       "reviews": 26
+    },
+    {
+      "title": "The Sciences of the Artificial",
+      "url": "https://www.goodreads.com/book/show/676046.The_Sciences_of_the_Artificial",
+      "id": "2071475",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347640238i/676046.jpg",
+      "authors": [
+        "Herbert A. Simon"
+      ],
+      "genres": [
+        "science",
+        "philosophy",
+        "non-fiction",
+        "design",
+        "artificial-intelligence",
+        "computer-science",
+        "economics"
+      ],
+      "rating": 4.3,
+      "ratings": 647,
+      "reviews": 60
     },
     {
       "title": "Architects of Intelligence: The truth about AI from the people building it",
@@ -250,7 +313,7 @@
       ],
       "rating": 4.29,
       "ratings": 634,
-      "reviews": 48
+      "reviews": 49
     },
     {
       "title": "The Software Engineer's Guidebook: Navigating senior, tech lead, and staff engineer positions at tech companies and startups",
@@ -270,7 +333,7 @@
         "non-fiction"
       ],
       "rating": 4.08,
-      "ratings": 624,
+      "ratings": 625,
       "reviews": 80
     },
     {
@@ -354,7 +417,7 @@
         "design"
       ],
       "rating": 4.4,
-      "ratings": 607,
+      "ratings": 608,
       "reviews": 64
     },
     {
@@ -375,8 +438,8 @@
         "technical"
       ],
       "rating": 4.48,
-      "ratings": 604,
-      "reviews": 30
+      "ratings": 605,
+      "reviews": 31
     },
     {
       "title": "The Principles of Object-Oriented JavaScript",
@@ -421,27 +484,6 @@
       "reviews": 50
     },
     {
-      "title": "Black Hat Python: Python Programming for Hackers and Pentesters",
-      "url": "https://www.goodreads.com/book/show/22299369-black-hat-python",
-      "id": "41687198",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1418765234i/22299369.jpg",
-      "authors": [
-        "Justin Seitz"
-      ],
-      "genres": [
-        "hackers",
-        "programming",
-        "technology",
-        "computer-science",
-        "non-fiction",
-        "technical",
-        "computers"
-      ],
-      "rating": 4.11,
-      "ratings": 600,
-      "reviews": 31
-    },
-    {
       "title": "Fifty Quick Ideas to Improve Your User Stories",
       "url": "https://www.goodreads.com/book/show/21411450-fifty-quick-ideas-to-improve-your-user-stories",
       "id": "40712281",
@@ -461,48 +503,6 @@
       "rating": 4.15,
       "ratings": 600,
       "reviews": 57
-    },
-    {
-      "title": "High Performance JavaScript: Build Faster Web Application Interfaces",
-      "url": "https://www.goodreads.com/book/show/7008656-high-performance-javascript",
-      "id": "7253533",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328834985i/7008656.jpg",
-      "authors": [
-        "Nicholas C. Zakas"
-      ],
-      "genres": [
-        "programming",
-        "technology",
-        "technical",
-        "computer-science",
-        "non-fiction",
-        "software",
-        "coding"
-      ],
-      "rating": 4.11,
-      "ratings": 596,
-      "reviews": 36
-    },
-    {
-      "title": "Computer Organization and Architecture",
-      "url": "https://www.goodreads.com/book/show/299635.Computer_Organization_and_Architecture",
-      "id": "290709",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1173511225i/299635.jpg",
-      "authors": [
-        "William Stallings"
-      ],
-      "genres": [
-        "computer-science",
-        "reference",
-        "non-fiction",
-        "programming",
-        "computers",
-        "textbooks",
-        "science"
-      ],
-      "rating": 4.06,
-      "ratings": 595,
-      "reviews": 27
     }
   ]
 }

@@ -1,6 +1,48 @@
 {
   "books": [
     {
+      "title": "It Had to Be You",
+      "url": "https://www.goodreads.com/book/show/73070.It_Had_to_Be_You",
+      "id": "2268839",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1297088239i/73070.jpg",
+      "authors": [
+        "Susan Elizabeth Phillips"
+      ],
+      "genres": [
+        "romance",
+        "contemporary-romance",
+        "contemporary",
+        "sports",
+        "sports-romance",
+        "chick-lit",
+        "fiction"
+      ],
+      "rating": 4,
+      "ratings": 69087,
+      "reviews": 3149
+    },
+    {
+      "title": "Kiss an Angel",
+      "url": "https://www.goodreads.com/book/show/73086.Kiss_an_Angel",
+      "id": "1040905",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1309115033i/73086.jpg",
+      "authors": [
+        "Susan Elizabeth Phillips"
+      ],
+      "genres": [
+        "romance",
+        "contemporary-romance",
+        "contemporary",
+        "enemies-to-lovers",
+        "chick-lit",
+        "adult",
+        "humor"
+      ],
+      "rating": 4.17,
+      "ratings": 68932,
+      "reviews": 6026
+    },
+    {
       "title": "Twisted Emotions",
       "url": "https://www.goodreads.com/book/show/123192097-twisted-emotions",
       "id": "65739398",
@@ -18,8 +60,8 @@
         "new-adult"
       ],
       "rating": 4.1,
-      "ratings": 68721,
-      "reviews": 6738
+      "ratings": 68842,
+      "reviews": 6749
     },
     {
       "title": "At Home in Mitford",
@@ -39,71 +81,8 @@
         "inspirational"
       ],
       "rating": 4.13,
-      "ratings": 68562,
-      "reviews": 4803
-    },
-    {
-      "title": "The Words",
-      "url": "https://www.goodreads.com/book/show/57797137-the-words",
-      "id": "90532369",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1639007055i/57797137.jpg",
-      "authors": [
-        "Ashley Jade"
-      ],
-      "genres": [
-        "romance",
-        "enemies-to-lovers",
-        "second-chance",
-        "dark-romance",
-        "contemporary-romance",
-        "contemporary",
-        "second-chance-romance"
-      ],
-      "rating": 4.3,
-      "ratings": 68294,
-      "reviews": 7773
-    },
-    {
-      "title": "Love Unscripted",
-      "url": "https://www.goodreads.com/book/show/8204005-love-unscripted",
-      "id": "13051038",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327889844i/8204005.jpg",
-      "authors": [
-        "Tina Reber"
-      ],
-      "genres": [
-        "romance",
-        "contemporary-romance",
-        "contemporary",
-        "new-adult",
-        "adult",
-        "chick-lit",
-        "celebrity"
-      ],
-      "rating": 4.02,
-      "ratings": 68276,
-      "reviews": 3533
-    },
-    {
-      "title": "Sinners Condemned",
-      "url": "https://www.goodreads.com/book/show/60160772-sinners-condemned",
-      "id": "94886376",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1659884800i/60160772.jpg",
-      "authors": [
-        "Somme Sketcher"
-      ],
-      "genres": [
-        "dark-romance",
-        "romance",
-        "enemies-to-lovers",
-        "mafia-romance",
-        "dark",
-        "slow-burn",
-        "contemporary"
-      ],
-      "rating": 4.16,
-      "ratings": 68245,
-      "reviews": 6090
+      "ratings": 68588,
+      "reviews": 4805
     },
     {
       "title": "You, with a View",
@@ -123,8 +102,71 @@
         "forced-proximity"
       ],
       "rating": 4.07,
-      "ratings": 68242,
-      "reviews": 11352
+      "ratings": 68456,
+      "reviews": 11393
+    },
+    {
+      "title": "Sinners Condemned",
+      "url": "https://www.goodreads.com/book/show/60160772-sinners-condemned",
+      "id": "94886376",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1659884800i/60160772.jpg",
+      "authors": [
+        "Somme Sketcher"
+      ],
+      "genres": [
+        "dark-romance",
+        "romance",
+        "enemies-to-lovers",
+        "mafia-romance",
+        "dark",
+        "slow-burn",
+        "contemporary"
+      ],
+      "rating": 4.16,
+      "ratings": 68442,
+      "reviews": 6109
+    },
+    {
+      "title": "The Words",
+      "url": "https://www.goodreads.com/book/show/57797137-the-words",
+      "id": "90532369",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1639007055i/57797137.jpg",
+      "authors": [
+        "Ashley Jade"
+      ],
+      "genres": [
+        "romance",
+        "enemies-to-lovers",
+        "second-chance",
+        "dark-romance",
+        "contemporary-romance",
+        "contemporary",
+        "second-chance-romance"
+      ],
+      "rating": 4.3,
+      "ratings": 68399,
+      "reviews": 7786
+    },
+    {
+      "title": "Love Unscripted",
+      "url": "https://www.goodreads.com/book/show/8204005-love-unscripted",
+      "id": "13051038",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327889844i/8204005.jpg",
+      "authors": [
+        "Tina Reber"
+      ],
+      "genres": [
+        "romance",
+        "contemporary-romance",
+        "contemporary",
+        "new-adult",
+        "adult",
+        "chick-lit",
+        "celebrity"
+      ],
+      "rating": 4.02,
+      "ratings": 68277,
+      "reviews": 3533
     },
     {
       "title": "Fire Night",
@@ -144,50 +186,8 @@
         "new-adult"
       ],
       "rating": 4.03,
-      "ratings": 67897,
-      "reviews": 5084
-    },
-    {
-      "title": "Luna and the Lie",
-      "url": "https://www.goodreads.com/book/show/42883009-luna-and-the-lie",
-      "id": "66674396",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1542744759i/42883009.jpg",
-      "authors": [
-        "Mariana Zapata"
-      ],
-      "genres": [
-        "romance",
-        "slow-burn",
-        "contemporary",
-        "contemporary-romance",
-        "friends-to-lovers",
-        "enemies-to-lovers",
-        "workplace-romance"
-      ],
-      "rating": 4.07,
-      "ratings": 67839,
-      "reviews": 7532
-    },
-    {
-      "title": "Jewels of the Sun",
-      "url": "https://www.goodreads.com/book/show/59810.Jewels_of_the_Sun",
-      "id": "759792",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388194052i/59810.jpg",
-      "authors": [
-        "Nora Roberts"
-      ],
-      "genres": [
-        "romance",
-        "contemporary-romance",
-        "fantasy",
-        "fiction",
-        "contemporary",
-        "paranormal",
-        "ireland"
-      ],
-      "rating": 4.22,
-      "ratings": 67825,
-      "reviews": 1732
+      "ratings": 68022,
+      "reviews": 5092
     },
     {
       "title": "Sweet Bean Paste",
@@ -207,8 +207,50 @@
         "asia"
       ],
       "rating": 4.06,
-      "ratings": 67795,
-      "reviews": 11036
+      "ratings": 67989,
+      "reviews": 11067
+    },
+    {
+      "title": "Luna and the Lie",
+      "url": "https://www.goodreads.com/book/show/42883009-luna-and-the-lie",
+      "id": "66674396",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1542744759i/42883009.jpg",
+      "authors": [
+        "Mariana Zapata"
+      ],
+      "genres": [
+        "romance",
+        "slow-burn",
+        "contemporary",
+        "contemporary-romance",
+        "friends-to-lovers",
+        "enemies-to-lovers",
+        "workplace-romance"
+      ],
+      "rating": 4.07,
+      "ratings": 67910,
+      "reviews": 7540
+    },
+    {
+      "title": "Jewels of the Sun",
+      "url": "https://www.goodreads.com/book/show/59810.Jewels_of_the_Sun",
+      "id": "759792",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388194052i/59810.jpg",
+      "authors": [
+        "Nora Roberts"
+      ],
+      "genres": [
+        "romance",
+        "contemporary-romance",
+        "fantasy",
+        "fiction",
+        "contemporary",
+        "paranormal",
+        "ireland"
+      ],
+      "rating": 4.22,
+      "ratings": 67840,
+      "reviews": 1732
     },
     {
       "title": "Twisted Perfection",
@@ -228,8 +270,8 @@
         "abuse"
       ],
       "rating": 4.22,
-      "ratings": 67780,
-      "reviews": 4120
+      "ratings": 67779,
+      "reviews": 4119
     },
     {
       "title": "Circle of Friends",
@@ -249,8 +291,8 @@
         "contemporary"
       ],
       "rating": 4.07,
-      "ratings": 67646,
-      "reviews": 2336
+      "ratings": 67667,
+      "reviews": 2337
     },
     {
       "title": "El día que dejó de nevar en Alaska",
@@ -263,36 +305,15 @@
       "genres": [
         "new-adult",
         "enemies-to-lovers",
+        "romance",
         "young-adult",
         "contemporary",
         "spanish-literature",
-        "romance",
         "love"
       ],
       "rating": 4.4,
-      "ratings": 67445,
-      "reviews": 9851
-    },
-    {
-      "title": "Pigs in Heaven",
-      "url": "https://www.goodreads.com/book/show/14250.Pigs_in_Heaven",
-      "id": "161123",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347616121i/14250.jpg",
-      "authors": [
-        "Barbara Kingsolver"
-      ],
-      "genres": [
-        "fiction",
-        "contemporary",
-        "literary-fiction",
-        "adult-fiction",
-        "novels",
-        "book-club",
-        "native-american"
-      ],
-      "rating": 4.02,
-      "ratings": 67298,
-      "reviews": 2925
+      "ratings": 67577,
+      "reviews": 9872
     },
     {
       "title": "Carnal Urges",
@@ -312,8 +333,50 @@
         "contemporary"
       ],
       "rating": 4.23,
-      "ratings": 67128,
-      "reviews": 5567
+      "ratings": 67413,
+      "reviews": 5582
+    },
+    {
+      "title": "Pigs in Heaven",
+      "url": "https://www.goodreads.com/book/show/14250.Pigs_in_Heaven",
+      "id": "161123",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347616121i/14250.jpg",
+      "authors": [
+        "Barbara Kingsolver"
+      ],
+      "genres": [
+        "fiction",
+        "contemporary",
+        "literary-fiction",
+        "adult-fiction",
+        "novels",
+        "book-club",
+        "native-american"
+      ],
+      "rating": 4.02,
+      "ratings": 67337,
+      "reviews": 2930
+    },
+    {
+      "title": "Vicious Prince",
+      "url": "https://www.goodreads.com/book/show/48675599-vicious-prince",
+      "id": "74020663",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1591657215i/48675599.jpg",
+      "authors": [
+        "Rina Kent"
+      ],
+      "genres": [
+        "dark-romance",
+        "romance",
+        "enemies-to-lovers",
+        "dark",
+        "high-school",
+        "new-adult",
+        "contemporary"
+      ],
+      "rating": 4.09,
+      "ratings": 67084,
+      "reviews": 6076
     },
     {
       "title": "Holiday Romance",
@@ -333,7 +396,7 @@
         "contemporary-romance"
       ],
       "rating": 4,
-      "ratings": 67072,
+      "ratings": 67083,
       "reviews": 8892
     },
     {
@@ -354,29 +417,8 @@
         "audiobook"
       ],
       "rating": 4.13,
-      "ratings": 66995,
+      "ratings": 67020,
       "reviews": 2672
-    },
-    {
-      "title": "Vicious Prince",
-      "url": "https://www.goodreads.com/book/show/48675599-vicious-prince",
-      "id": "74020663",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1591657215i/48675599.jpg",
-      "authors": [
-        "Rina Kent"
-      ],
-      "genres": [
-        "dark-romance",
-        "romance",
-        "enemies-to-lovers",
-        "dark",
-        "high-school",
-        "new-adult",
-        "contemporary"
-      ],
-      "rating": 4.09,
-      "ratings": 66879,
-      "reviews": 6068
     },
     {
       "title": "Down to You",
@@ -400,27 +442,6 @@
       "reviews": 3356
     },
     {
-      "title": "Perfection",
-      "url": "https://www.goodreads.com/book/show/12351649-perfection",
-      "id": "17912072",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1406578931i/12351649.jpg",
-      "authors": [
-        "R.L. Mathewson"
-      ],
-      "genres": [
-        "romance",
-        "contemporary-romance",
-        "contemporary",
-        "humor",
-        "adult",
-        "chick-lit",
-        "new-adult"
-      ],
-      "rating": 4.12,
-      "ratings": 66528,
-      "reviews": 3097
-    },
-    {
       "title": "The Death of Vivek Oji",
       "url": "https://www.goodreads.com/book/show/48595550-the-death-of-vivek-oji",
       "id": "73238762",
@@ -438,8 +459,8 @@
         "book-club"
       ],
       "rating": 4.12,
-      "ratings": 66524,
-      "reviews": 10077
+      "ratings": 66564,
+      "reviews": 10081
     },
     {
       "title": "Winter Solstice",
@@ -459,50 +480,29 @@
         "contemporary"
       ],
       "rating": 4.06,
-      "ratings": 66498,
-      "reviews": 4298
+      "ratings": 66543,
+      "reviews": 4300
     },
     {
-      "title": "Collide",
-      "url": "https://www.goodreads.com/book/show/17158596-collide",
-      "id": "23582083",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1359831056i/17158596.jpg",
+      "title": "Perfection",
+      "url": "https://www.goodreads.com/book/show/12351649-perfection",
+      "id": "17912072",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1406578931i/12351649.jpg",
       "authors": [
-        "Gail McHugh"
+        "R.L. Mathewson"
       ],
       "genres": [
         "romance",
-        "new-adult",
         "contemporary-romance",
         "contemporary",
+        "humor",
         "adult",
-        "erotica",
-        "drama"
+        "chick-lit",
+        "new-adult"
       ],
-      "rating": 4.19,
-      "ratings": 66412,
-      "reviews": 4931
-    },
-    {
-      "title": "Identical",
-      "url": "https://www.goodreads.com/book/show/2241059.Identical",
-      "id": "3032810",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388180728i/2241059.jpg",
-      "authors": [
-        "Ellen Hopkins"
-      ],
-      "genres": [
-        "young-adult",
-        "poetry",
-        "fiction",
-        "contemporary",
-        "mental-health",
-        "realistic-fiction",
-        "abuse"
-      ],
-      "rating": 4.29,
-      "ratings": 66393,
-      "reviews": 4252
+      "rating": 4.12,
+      "ratings": 66532,
+      "reviews": 3097
     }
   ]
 }

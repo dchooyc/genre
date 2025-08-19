@@ -26,8 +26,8 @@ func main() {
 	allBooks = removeDuplicates(allBooks)
 	fmt.Println("Length of all books: ", len(allBooks))
 
-	genreToBooks := filterTopGenres(sortByGenre(allBooks))
-	createJsons(genreToBooks)
+	genreToBooks := sortByGenre(allBooks)
+	createJsons(genreToBooks, 120, 2400)
 }
 
 func removeDuplicates(books []book.Book) []book.Book {
@@ -47,7 +47,7 @@ func removeDuplicates(books []book.Book) []book.Book {
 	return books
 }
 
-func createJsons(genreToBooks map[string][]book.Book) {
+func createJsons(genreToBooks map[string][]book.Book, minBookCount, maxBookCount int) {
 	genres := Genres{}
 
 	for genre := range genreToBooks {
@@ -56,6 +56,16 @@ func createJsons(genreToBooks map[string][]book.Book) {
 		}
 
 		books := book.Books{Books: genreToBooks[genre]}
+
+		if len(books.Books) < minBookCount {
+			continue
+		}
+
+		sort.Slice(books.Books, func(i, j int) bool {
+			return books.Books[i].Ratings > books.Books[j].Ratings
+		})
+
+		books.Books = books.Books[:min(len(books.Books), maxBookCount)]
 
 		err := createJsonBooks(genre, 24, books)
 		if err != nil {
@@ -94,10 +104,6 @@ func createJsonGenres(filename string, genres Genres) error {
 }
 
 func createJsonBooks(genre string, limit int, books book.Books) error {
-	sort.Slice(books.Books, func(i, j int) bool {
-		return books.Books[i].Ratings > books.Books[j].Ratings
-	})
-
 	err := os.MkdirAll("jsons/"+genre, 0755)
 	if err != nil {
 		return err
@@ -129,8 +135,6 @@ func createJsonBooks(genre string, limit int, books book.Books) error {
 		if err != nil {
 			return fmt.Errorf("failed writing json: %w", err)
 		}
-
-		fmt.Println("Created: ", filename, " with length: ", len(cur.Books))
 	}
 
 	return nil
@@ -150,27 +154,6 @@ func sortByGenre(books []book.Book) map[string][]book.Book {
 	delete(genreToBooks, "audiobook")
 
 	return genreToBooks
-}
-
-func filterTopGenres(genreToBooks map[string][]book.Book) map[string][]book.Book {
-	res := make(map[string][]book.Book)
-	genres := []genreAndCount{}
-
-	for genre, books := range genreToBooks {
-		genres = append(genres, genreAndCount{genre, len(books)})
-	}
-
-	sort.Slice(genres, func(i, j int) bool {
-		return genres[i].count > genres[j].count
-	})
-
-	genres = genres[:365]
-
-	for _, g := range genres {
-		res[g.genre] = genreToBooks[g.genre]
-	}
-
-	return res
 }
 
 func retrieveFile(target string) []book.Book {

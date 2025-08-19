@@ -1,6 +1,48 @@
 {
   "books": [
     {
+      "title": "The Glass Rainbow",
+      "url": "https://www.goodreads.com/book/show/7200466-the-glass-rainbow",
+      "id": "7875381",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388196452i/7200466.jpg",
+      "authors": [
+        "James Lee Burke"
+      ],
+      "genres": [
+        "mystery",
+        "fiction",
+        "crime",
+        "mystery-thriller",
+        "thriller",
+        "detective",
+        "audiobook"
+      ],
+      "rating": 4.22,
+      "ratings": 11047,
+      "reviews": 765
+    },
+    {
+      "title": "The Silversmith",
+      "url": "https://www.goodreads.com/book/show/17457543-the-silversmith",
+      "id": "24350076",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1364482418i/17457543.jpg",
+      "authors": [
+        "Jeff Carson"
+      ],
+      "genres": [
+        "mystery",
+        "fiction",
+        "thriller",
+        "suspense",
+        "mystery-thriller",
+        "crime",
+        "amazon"
+      ],
+      "rating": 4.32,
+      "ratings": 11045,
+      "reviews": 366
+    },
+    {
       "title": "Touch & Geaux",
       "url": "https://www.goodreads.com/book/show/16159276-touch-geaux",
       "id": "22000005",
@@ -18,92 +60,8 @@
         "military-fiction"
       ],
       "rating": 4.47,
-      "ratings": 11038,
-      "reviews": 1402
-    },
-    {
-      "title": "Dreaming of the Bones",
-      "url": "https://www.goodreads.com/book/show/573127.Dreaming_of_the_Bones",
-      "id": "545180",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1389149588i/573127.jpg",
-      "authors": [
-        "Deborah Crombie"
-      ],
-      "genres": [
-        "mystery",
-        "fiction",
-        "audiobook",
-        "crime",
-        "mystery-thriller",
-        "british-literature",
-        "detective"
-      ],
-      "rating": 4.09,
-      "ratings": 11030,
-      "reviews": 640
-    },
-    {
-      "title": "The Mafia And His Angel: Part 2",
-      "url": "https://www.goodreads.com/book/show/36411879-the-mafia-and-his-angel",
-      "id": "53472804",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1507993953i/36411879.jpg",
-      "authors": [
-        "Lylah James"
-      ],
-      "genres": [
-        "mafia-romance",
-        "romance",
-        "dark-romance",
-        "dark",
-        "abuse",
-        "contemporary",
-        "crime"
-      ],
-      "rating": 4.18,
-      "ratings": 11017,
-      "reviews": 679
-    },
-    {
-      "title": "Bodily Harm",
-      "url": "https://www.goodreads.com/book/show/8721767-bodily-harm",
-      "id": "10383687",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328346523i/8721767.jpg",
-      "authors": [
-        "Robert Dugoni"
-      ],
-      "genres": [
-        "mystery",
-        "fiction",
-        "thriller",
-        "legal-thriller",
-        "audiobook",
-        "suspense",
-        "crime"
-      ],
-      "rating": 4.41,
-      "ratings": 11016,
-      "reviews": 406
-    },
-    {
-      "title": "Burden of Truth",
-      "url": "https://www.goodreads.com/book/show/43511418-burden-of-truth",
-      "id": "68278726",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1546967867i/43511418.jpg",
-      "authors": [
-        "Robin      James"
-      ],
-      "genres": [
-        "thriller",
-        "mystery",
-        "legal-thriller",
-        "fiction",
-        "audiobook",
-        "crime",
-        "mystery-thriller"
-      ],
-      "rating": 4.37,
-      "ratings": 11008,
-      "reviews": 416
+      "ratings": 11042,
+      "reviews": 1401
     },
     {
       "title": "Poison Garden",
@@ -123,8 +81,92 @@
         "detective"
       ],
       "rating": 4.6,
-      "ratings": 11006,
-      "reviews": 301
+      "ratings": 11041,
+      "reviews": 303
+    },
+    {
+      "title": "Dreaming of the Bones",
+      "url": "https://www.goodreads.com/book/show/573127.Dreaming_of_the_Bones",
+      "id": "545180",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1389149588i/573127.jpg",
+      "authors": [
+        "Deborah Crombie"
+      ],
+      "genres": [
+        "mystery",
+        "fiction",
+        "audiobook",
+        "crime",
+        "mystery-thriller",
+        "british-literature",
+        "detective"
+      ],
+      "rating": 4.09,
+      "ratings": 11035,
+      "reviews": 640
+    },
+    {
+      "title": "Bodily Harm",
+      "url": "https://www.goodreads.com/book/show/8721767-bodily-harm",
+      "id": "10383687",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328346523i/8721767.jpg",
+      "authors": [
+        "Robert Dugoni"
+      ],
+      "genres": [
+        "mystery",
+        "fiction",
+        "thriller",
+        "legal-thriller",
+        "audiobook",
+        "suspense",
+        "crime"
+      ],
+      "rating": 4.41,
+      "ratings": 11029,
+      "reviews": 406
+    },
+    {
+      "title": "The Mafia And His Angel: Part 2",
+      "url": "https://www.goodreads.com/book/show/36411879-the-mafia-and-his-angel",
+      "id": "53472804",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1507993953i/36411879.jpg",
+      "authors": [
+        "Lylah James"
+      ],
+      "genres": [
+        "mafia-romance",
+        "romance",
+        "dark-romance",
+        "dark",
+        "abuse",
+        "contemporary",
+        "crime"
+      ],
+      "rating": 4.18,
+      "ratings": 11020,
+      "reviews": 679
+    },
+    {
+      "title": "Burden of Truth",
+      "url": "https://www.goodreads.com/book/show/43511418-burden-of-truth",
+      "id": "68278726",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1546967867i/43511418.jpg",
+      "authors": [
+        "Robin      James"
+      ],
+      "genres": [
+        "thriller",
+        "mystery",
+        "legal-thriller",
+        "fiction",
+        "audiobook",
+        "crime",
+        "mystery-thriller"
+      ],
+      "rating": 4.37,
+      "ratings": 11019,
+      "reviews": 416
     },
     {
       "title": "Her Final Confession",
@@ -144,8 +186,29 @@
         "suspense"
       ],
       "rating": 4.43,
-      "ratings": 11006,
+      "ratings": 11015,
       "reviews": 602
+    },
+    {
+      "title": "A Perfect Wife",
+      "url": "https://www.goodreads.com/book/show/56886421-a-perfect-wife",
+      "id": "88952629",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1612010620i/56886421.jpg",
+      "authors": [
+        "Elle Gray"
+      ],
+      "genres": [
+        "mystery",
+        "thriller",
+        "crime",
+        "audiobook",
+        "suspense",
+        "fiction",
+        "mystery-thriller"
+      ],
+      "rating": 4.51,
+      "ratings": 11008,
+      "reviews": 265
     },
     {
       "title": "Scream for Me",
@@ -165,7 +228,7 @@
         "fiction"
       ],
       "rating": 4.25,
-      "ratings": 11004,
+      "ratings": 11007,
       "reviews": 514
     },
     {
@@ -186,8 +249,29 @@
         "paranormal"
       ],
       "rating": 4.11,
-      "ratings": 11003,
+      "ratings": 11004,
       "reviews": 804
+    },
+    {
+      "title": "Transient Desires",
+      "url": "https://www.goodreads.com/book/show/56775755-transient-desires",
+      "id": "85798273",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1611257099i/56775755.jpg",
+      "authors": [
+        "Donna Leon"
+      ],
+      "genres": [
+        "mystery",
+        "fiction",
+        "italy",
+        "crime",
+        "audiobook",
+        "detective",
+        "mystery-thriller"
+      ],
+      "rating": 4.1,
+      "ratings": 11000,
+      "reviews": 943
     },
     {
       "title": "Tarnished Tyrant",
@@ -207,7 +291,7 @@
         "crime"
       ],
       "rating": 4.16,
-      "ratings": 10994,
+      "ratings": 10998,
       "reviews": 500
     },
     {
@@ -228,29 +312,8 @@
         "crime"
       ],
       "rating": 4.22,
-      "ratings": 10993,
+      "ratings": 10994,
       "reviews": 309
-    },
-    {
-      "title": "Transient Desires",
-      "url": "https://www.goodreads.com/book/show/56775755-transient-desires",
-      "id": "85798273",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1611257099i/56775755.jpg",
-      "authors": [
-        "Donna Leon"
-      ],
-      "genres": [
-        "mystery",
-        "fiction",
-        "italy",
-        "crime",
-        "audiobook",
-        "detective",
-        "mystery-thriller"
-      ],
-      "rating": 4.1,
-      "ratings": 10987,
-      "reviews": 943
     },
     {
       "title": "The Cartel",
@@ -270,71 +333,8 @@
         "suspense"
       ],
       "rating": 4.54,
-      "ratings": 10976,
+      "ratings": 10988,
       "reviews": 721
-    },
-    {
-      "title": "The Twenty-Three",
-      "url": "https://www.goodreads.com/book/show/29429982-the-twenty-three",
-      "id": "49694492",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1458146838i/29429982.jpg",
-      "authors": [
-        "Linwood Barclay"
-      ],
-      "genres": [
-        "thriller",
-        "mystery",
-        "fiction",
-        "mystery-thriller",
-        "suspense",
-        "crime",
-        "audiobook"
-      ],
-      "rating": 4.05,
-      "ratings": 10973,
-      "reviews": 1073
-    },
-    {
-      "title": "A Perfect Wife",
-      "url": "https://www.goodreads.com/book/show/56886421-a-perfect-wife",
-      "id": "88952629",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1612010620i/56886421.jpg",
-      "authors": [
-        "Elle Gray"
-      ],
-      "genres": [
-        "mystery",
-        "thriller",
-        "crime",
-        "audiobook",
-        "suspense",
-        "fiction",
-        "mystery-thriller"
-      ],
-      "rating": 4.51,
-      "ratings": 10973,
-      "reviews": 263
-    },
-    {
-      "title": "The Black Angel",
-      "url": "https://www.goodreads.com/book/show/175245.The_Black_Angel",
-      "id": "890709",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388275337i/175245.jpg",
-      "authors": [
-        "John Connolly"
-      ],
-      "genres": [
-        "thriller",
-        "mystery",
-        "crime",
-        "fiction",
-        "horror",
-        "supernatural",
-        "paranormal"
-      ],
-      "rating": 4.16,
-      "ratings": 10969,
-      "reviews": 604
     },
     {
       "title": "Northwind",
@@ -354,8 +354,29 @@
         "humor"
       ],
       "rating": 4.51,
-      "ratings": 10968,
-      "reviews": 545
+      "ratings": 10980,
+      "reviews": 547
+    },
+    {
+      "title": "The Twenty-Three",
+      "url": "https://www.goodreads.com/book/show/29429982-the-twenty-three",
+      "id": "49694492",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1458146838i/29429982.jpg",
+      "authors": [
+        "Linwood Barclay"
+      ],
+      "genres": [
+        "thriller",
+        "mystery",
+        "fiction",
+        "mystery-thriller",
+        "suspense",
+        "crime",
+        "audiobook"
+      ],
+      "rating": 4.05,
+      "ratings": 10979,
+      "reviews": 1074
     },
     {
       "title": "The Body Keeper",
@@ -375,8 +396,29 @@
         "suspense"
       ],
       "rating": 4.51,
-      "ratings": 10967,
+      "ratings": 10978,
       "reviews": 712
+    },
+    {
+      "title": "The Black Angel",
+      "url": "https://www.goodreads.com/book/show/175245.The_Black_Angel",
+      "id": "890709",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388275337i/175245.jpg",
+      "authors": [
+        "John Connolly"
+      ],
+      "genres": [
+        "thriller",
+        "mystery",
+        "crime",
+        "fiction",
+        "horror",
+        "supernatural",
+        "paranormal"
+      ],
+      "rating": 4.16,
+      "ratings": 10974,
+      "reviews": 605
     },
     {
       "title": "Cause to Kill",
@@ -396,7 +438,7 @@
         "audiobook"
       ],
       "rating": 4.02,
-      "ratings": 10966,
+      "ratings": 10970,
       "reviews": 709
     },
     {
@@ -417,8 +459,29 @@
         "british-literature"
       ],
       "rating": 4.29,
-      "ratings": 10956,
+      "ratings": 10966,
       "reviews": 221
+    },
+    {
+      "title": "Schuld",
+      "url": "https://www.goodreads.com/book/show/8846471-schuld",
+      "id": "17514528",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328977763i/8846471.jpg",
+      "authors": [
+        "Ferdinand von Schirach"
+      ],
+      "genres": [
+        "short-stories",
+        "crime",
+        "fiction",
+        "german-literature",
+        "contemporary",
+        "law",
+        "thriller"
+      ],
+      "rating": 4.2,
+      "ratings": 10959,
+      "reviews": 519
     },
     {
       "title": "Darkness Falls",
@@ -438,71 +501,8 @@
         "audiobook"
       ],
       "rating": 4.26,
-      "ratings": 10940,
-      "reviews": 893
-    },
-    {
-      "title": "Schuld",
-      "url": "https://www.goodreads.com/book/show/8846471-schuld",
-      "id": "17514528",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328977763i/8846471.jpg",
-      "authors": [
-        "Ferdinand von Schirach"
-      ],
-      "genres": [
-        "short-stories",
-        "crime",
-        "fiction",
-        "german-literature",
-        "contemporary",
-        "law",
-        "thriller"
-      ],
-      "rating": 4.19,
-      "ratings": 10940,
-      "reviews": 518
-    },
-    {
-      "title": "Crimson Rivers",
-      "url": "https://www.goodreads.com/book/show/161503.Crimson_Rivers",
-      "id": "1538586",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1400897417i/161503.jpg",
-      "authors": [
-        "Jean-Christophe Grangé"
-      ],
-      "genres": [
-        "thriller",
-        "crime",
-        "fiction",
-        "mystery",
-        "france",
-        "detective",
-        "audiobook"
-      ],
-      "rating": 4.18,
-      "ratings": 10936,
-      "reviews": 519
-    },
-    {
-      "title": "Seven Days",
-      "url": "https://www.goodreads.com/book/show/44557072-seven-days",
-      "id": "69151870",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1606856855i/44557072.jpg",
-      "authors": [
-        "Alex Lake"
-      ],
-      "genres": [
-        "thriller",
-        "fiction",
-        "mystery",
-        "crime",
-        "audiobook",
-        "mystery-thriller",
-        "psychological-thriller"
-      ],
-      "rating": 4.27,
-      "ratings": 10929,
-      "reviews": 1344
+      "ratings": 10956,
+      "reviews": 894
     }
   ]
 }

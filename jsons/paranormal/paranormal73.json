@@ -1,6 +1,90 @@
 {
   "books": [
     {
+      "title": "Once Bitten",
+      "url": "https://www.goodreads.com/book/show/53285355-once-bitten",
+      "id": "81042848",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1588017955i/53285355.jpg",
+      "authors": [
+        "Linsey Hall"
+      ],
+      "genres": [
+        "fantasy",
+        "urban-fantasy",
+        "paranormal",
+        "vampires",
+        "romance",
+        "magic",
+        "paranormal-romance"
+      ],
+      "rating": 4,
+      "ratings": 9082,
+      "reviews": 519
+    },
+    {
+      "title": "Golden",
+      "url": "https://www.goodreads.com/book/show/62056349-golden",
+      "id": "97822962",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1661206628i/62056349.jpg",
+      "authors": [
+        "Shannon Mayer"
+      ],
+      "genres": [
+        "fantasy",
+        "paranormal",
+        "romance",
+        "urban-fantasy",
+        "shapeshifters",
+        "werewolves",
+        "magic"
+      ],
+      "rating": 4.09,
+      "ratings": 9080,
+      "reviews": 857
+    },
+    {
+      "title": "Family",
+      "url": "https://www.goodreads.com/book/show/17452012-family",
+      "id": "22024848",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1362097189i/17452012.jpg",
+      "authors": [
+        "Robert J. Crane"
+      ],
+      "genres": [
+        "fantasy",
+        "urban-fantasy",
+        "young-adult",
+        "paranormal",
+        "fiction",
+        "mystery",
+        "thriller"
+      ],
+      "rating": 4.33,
+      "ratings": 9077,
+      "reviews": 216
+    },
+    {
+      "title": "Shadow Rites",
+      "url": "https://www.goodreads.com/book/show/25759452-shadow-rites",
+      "id": "45603863",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1438662192i/25759452.jpg",
+      "authors": [
+        "Faith Hunter"
+      ],
+      "genres": [
+        "urban-fantasy",
+        "fantasy",
+        "vampires",
+        "paranormal",
+        "magic",
+        "shapeshifters",
+        "witches"
+      ],
+      "rating": 4.39,
+      "ratings": 9073,
+      "reviews": 520
+    },
+    {
       "title": "Devi",
       "url": "https://www.goodreads.com/book/show/38558598-devi",
       "id": "45866764",
@@ -18,50 +102,8 @@
         "werewolves"
       ],
       "rating": 4.22,
-      "ratings": 9052,
+      "ratings": 9054,
       "reviews": 410
-    },
-    {
-      "title": "Raven's Shadow",
-      "url": "https://www.goodreads.com/book/show/285207.Raven_s_Shadow",
-      "id": "276705",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388246155i/285207.jpg",
-      "authors": [
-        "Patricia Briggs"
-      ],
-      "genres": [
-        "fantasy",
-        "magic",
-        "fiction",
-        "audiobook",
-        "paranormal",
-        "high-fantasy",
-        "romance"
-      ],
-      "rating": 4.02,
-      "ratings": 9047,
-      "reviews": 504
-    },
-    {
-      "title": "Burning Lamp",
-      "url": "https://www.goodreads.com/book/show/6908832-burning-lamp",
-      "id": "7133882",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1260447104i/6908832.jpg",
-      "authors": [
-        "Amanda Quick"
-      ],
-      "genres": [
-        "romance",
-        "paranormal",
-        "historical-romance",
-        "historical",
-        "paranormal-romance",
-        "fantasy",
-        "mystery"
-      ],
-      "rating": 4.09,
-      "ratings": 9045,
-      "reviews": 394
     },
     {
       "title": "The Fourth Closet",
@@ -81,8 +123,50 @@
         "paranormal"
       ],
       "rating": 4.19,
-      "ratings": 9042,
+      "ratings": 9050,
       "reviews": 883
+    },
+    {
+      "title": "Burning Lamp",
+      "url": "https://www.goodreads.com/book/show/6908832-burning-lamp",
+      "id": "7133882",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1260447104i/6908832.jpg",
+      "authors": [
+        "Amanda Quick"
+      ],
+      "genres": [
+        "romance",
+        "paranormal",
+        "historical-romance",
+        "historical",
+        "paranormal-romance",
+        "fantasy",
+        "mystery"
+      ],
+      "rating": 4.09,
+      "ratings": 9048,
+      "reviews": 394
+    },
+    {
+      "title": "Raven's Shadow",
+      "url": "https://www.goodreads.com/book/show/285207.Raven_s_Shadow",
+      "id": "276705",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388246155i/285207.jpg",
+      "authors": [
+        "Patricia Briggs"
+      ],
+      "genres": [
+        "fantasy",
+        "magic",
+        "fiction",
+        "audiobook",
+        "paranormal",
+        "high-fantasy",
+        "romance"
+      ],
+      "rating": 4.02,
+      "ratings": 9048,
+      "reviews": 504
     },
     {
       "title": "Adrian's Lost Chapter",
@@ -102,7 +186,7 @@
         "urban-fantasy"
       ],
       "rating": 4.01,
-      "ratings": 9039,
+      "ratings": 9041,
       "reviews": 799
     },
     {
@@ -123,7 +207,7 @@
         "space"
       ],
       "rating": 4.19,
-      "ratings": 9035,
+      "ratings": 9034,
       "reviews": 160
     },
     {
@@ -144,7 +228,7 @@
         "paranormal-romance"
       ],
       "rating": 4.09,
-      "ratings": 9030,
+      "ratings": 9031,
       "reviews": 708
     },
     {
@@ -165,7 +249,7 @@
         "audiobook"
       ],
       "rating": 4.41,
-      "ratings": 9006,
+      "ratings": 9012,
       "reviews": 616
     },
     {
@@ -186,8 +270,8 @@
         "audiobook"
       ],
       "rating": 4.06,
-      "ratings": 9004,
-      "reviews": 836
+      "ratings": 9011,
+      "reviews": 837
     },
     {
       "title": "Queen Takes King",
@@ -207,8 +291,8 @@
         "erotica"
       ],
       "rating": 4.04,
-      "ratings": 9001,
-      "reviews": 605
+      "ratings": 9008,
+      "reviews": 606
     },
     {
       "title": "Crown of Moonlight",
@@ -228,29 +312,8 @@
         "vampires"
       ],
       "rating": 4.43,
-      "ratings": 9000,
+      "ratings": 9005,
       "reviews": 387
-    },
-    {
-      "title": "Midnight Predator",
-      "url": "https://www.goodreads.com/book/show/30337.Midnight_Predator",
-      "id": "1389708",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1346108228i/30337.jpg",
-      "authors": [
-        "Amelia Atwater-Rhodes"
-      ],
-      "genres": [
-        "young-adult",
-        "fantasy",
-        "vampires",
-        "paranormal",
-        "fiction",
-        "supernatural",
-        "urban-fantasy"
-      ],
-      "rating": 4.03,
-      "ratings": 8996,
-      "reviews": 227
     },
     {
       "title": "Breakwater",
@@ -270,29 +333,29 @@
         "paranormal-romance"
       ],
       "rating": 4.27,
-      "ratings": 8995,
+      "ratings": 8999,
       "reviews": 302
     },
     {
-      "title": "Origins",
-      "url": "https://www.goodreads.com/book/show/775971.Origins",
-      "id": "1428641",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1355667099i/775971.jpg",
+      "title": "Midnight Predator",
+      "url": "https://www.goodreads.com/book/show/30337.Midnight_Predator",
+      "id": "1389708",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1346108228i/30337.jpg",
       "authors": [
-        "Cate Tiernan"
+        "Amelia Atwater-Rhodes"
       ],
       "genres": [
         "young-adult",
         "fantasy",
-        "witches",
+        "vampires",
         "paranormal",
-        "magic",
-        "romance",
-        "fiction"
+        "fiction",
+        "supernatural",
+        "urban-fantasy"
       ],
-      "rating": 4.05,
-      "ratings": 8993,
-      "reviews": 229
+      "rating": 4.03,
+      "ratings": 8997,
+      "reviews": 227
     },
     {
       "title": "Tempt the Stars",
@@ -312,8 +375,29 @@
         "paranormal-romance"
       ],
       "rating": 4.14,
-      "ratings": 8992,
+      "ratings": 8997,
       "reviews": 678
+    },
+    {
+      "title": "Origins",
+      "url": "https://www.goodreads.com/book/show/775971.Origins",
+      "id": "1428641",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1355667099i/775971.jpg",
+      "authors": [
+        "Cate Tiernan"
+      ],
+      "genres": [
+        "young-adult",
+        "fantasy",
+        "witches",
+        "paranormal",
+        "magic",
+        "romance",
+        "fiction"
+      ],
+      "rating": 4.05,
+      "ratings": 8994,
+      "reviews": 229
     },
     {
       "title": "Son of the Dawn",
@@ -354,7 +438,7 @@
         "shapeshifters"
       ],
       "rating": 4.08,
-      "ratings": 8975,
+      "ratings": 8977,
       "reviews": 472
     },
     {
@@ -375,8 +459,8 @@
         "enemies-to-lovers"
       ],
       "rating": 4.03,
-      "ratings": 8965,
-      "reviews": 448
+      "ratings": 8973,
+      "reviews": 449
     },
     {
       "title": "Neutral",
@@ -396,7 +480,7 @@
         "gods"
       ],
       "rating": 4.29,
-      "ratings": 8960,
+      "ratings": 8964,
       "reviews": 562
     },
     {
@@ -417,92 +501,8 @@
         "vampires"
       ],
       "rating": 4.37,
-      "ratings": 8945,
+      "ratings": 8948,
       "reviews": 438
-    },
-    {
-      "title": "Empower",
-      "url": "https://www.goodreads.com/book/show/16030817-empower",
-      "id": "21800531",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1373349898i/16030817.jpg",
-      "authors": [
-        "Jessica Shirvington"
-      ],
-      "genres": [
-        "angels",
-        "fantasy",
-        "young-adult",
-        "romance",
-        "paranormal",
-        "supernatural",
-        "paranormal-romance"
-      ],
-      "rating": 4.59,
-      "ratings": 8937,
-      "reviews": 804
-    },
-    {
-      "title": "Sworn to the Shadow God",
-      "url": "https://www.goodreads.com/book/show/59452797-sworn-to-the-shadow-god",
-      "id": "75860195",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1635228600i/59452797.jpg",
-      "authors": [
-        "Ruby Dixon"
-      ],
-      "genres": [
-        "fantasy",
-        "romance",
-        "fantasy-romance",
-        "paranormal",
-        "paranormal-romance",
-        "gods",
-        "magic"
-      ],
-      "rating": 4.17,
-      "ratings": 8937,
-      "reviews": 1059
-    },
-    {
-      "title": "Wicked Gods",
-      "url": "https://www.goodreads.com/book/show/51862094-wicked-gods",
-      "id": "71306093",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1560581200l/51862094.jpg",
-      "authors": [
-        "Michelle Hercules"
-      ],
-      "genres": [
-        "reverse-harem",
-        "fantasy",
-        "paranormal",
-        "romance",
-        "magic",
-        "paranormal-romance",
-        "enemies-to-lovers"
-      ],
-      "rating": 4.06,
-      "ratings": 8929,
-      "reviews": 637
-    },
-    {
-      "title": "Darkness Falls",
-      "url": "https://www.goodreads.com/book/show/7977037-darkness-falls",
-      "id": "12307536",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1353496072i/7977037.jpg",
-      "authors": [
-        "Cate Tiernan"
-      ],
-      "genres": [
-        "fantasy",
-        "young-adult",
-        "paranormal",
-        "romance",
-        "magic",
-        "urban-fantasy",
-        "supernatural"
-      ],
-      "rating": 4.1,
-      "ratings": 8928,
-      "reviews": 662
     }
   ]
 }

@@ -1,6 +1,27 @@
 {
   "books": [
     {
+      "title": "Pro Git",
+      "url": "https://www.goodreads.com/book/show/6518085-pro-git",
+      "id": "6709947",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1383771684i/6518085.jpg",
+      "authors": [
+        "Scott Chacon"
+      ],
+      "genres": [
+        "programming",
+        "computer-science",
+        "technology",
+        "non-fiction",
+        "technical",
+        "reference",
+        "software"
+      ],
+      "rating": 4.18,
+      "ratings": 3375,
+      "reviews": 303
+    },
+    {
       "title": "Joel on Software",
       "url": "https://www.goodreads.com/book/show/41786.Joel_on_Software",
       "id": "41302",
@@ -20,27 +41,6 @@
       "rating": 4.13,
       "ratings": 3374,
       "reviews": 153
-    },
-    {
-      "title": "Pro Git",
-      "url": "https://www.goodreads.com/book/show/6518085-pro-git",
-      "id": "6709947",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1383771684i/6518085.jpg",
-      "authors": [
-        "Scott Chacon"
-      ],
-      "genres": [
-        "programming",
-        "computer-science",
-        "technology",
-        "non-fiction",
-        "technical",
-        "reference",
-        "software"
-      ],
-      "rating": 4.18,
-      "ratings": 3374,
-      "reviews": 303
     },
     {
       "title": "Effective C++: 55 Specific Ways to Improve Your Programs and Designs",
@@ -81,7 +81,7 @@
         "video-games"
       ],
       "rating": 4.39,
-      "ratings": 3338,
+      "ratings": 3337,
       "reviews": 254
     },
     {
@@ -102,7 +102,7 @@
         "business"
       ],
       "rating": 4.2,
-      "ratings": 3285,
+      "ratings": 3286,
       "reviews": 168
     },
     {
@@ -148,6 +148,27 @@
       "reviews": 95
     },
     {
+      "title": "Learning Python",
+      "url": "https://www.goodreads.com/book/show/80435.Learning_Python",
+      "id": "77670",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386922968i/80435.jpg",
+      "authors": [
+        "Mark Lutz"
+      ],
+      "genres": [
+        "programming",
+        "computer-science",
+        "reference",
+        "non-fiction",
+        "technology",
+        "computers",
+        "technical"
+      ],
+      "rating": 4.01,
+      "ratings": 3186,
+      "reviews": 176
+    },
+    {
       "title": "Eloquent JavaScript: A Modern Introduction to Programming",
       "url": "https://www.goodreads.com/book/show/8910666-eloquent-javascript",
       "id": "13787033",
@@ -169,27 +190,6 @@
       "reviews": 280
     },
     {
-      "title": "Learning Python",
-      "url": "https://www.goodreads.com/book/show/80435.Learning_Python",
-      "id": "77670",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386922968i/80435.jpg",
-      "authors": [
-        "Mark Lutz"
-      ],
-      "genres": [
-        "programming",
-        "computer-science",
-        "reference",
-        "non-fiction",
-        "technology",
-        "computers",
-        "technical"
-      ],
-      "rating": 4.01,
-      "ratings": 3184,
-      "reviews": 176
-    },
-    {
       "title": "Automate the Boring Stuff with Python: Practical Programming for Total Beginners",
       "url": "https://www.goodreads.com/book/show/22514127-automate-the-boring-stuff-with-python",
       "id": "41958015",
@@ -207,8 +207,8 @@
         "computers"
       ],
       "rating": 4.28,
-      "ratings": 3093,
-      "reviews": 268
+      "ratings": 3095,
+      "reviews": 269
     },
     {
       "title": "Python Crash Course: A Hands-On, Project-Based Introduction to Programming",
@@ -228,8 +228,8 @@
         "technical"
       ],
       "rating": 4.36,
-      "ratings": 3015,
-      "reviews": 287
+      "ratings": 3018,
+      "reviews": 288
     },
     {
       "title": "Compilers: Principles, Techniques, and Tools",
@@ -249,8 +249,29 @@
         "textbooks"
       ],
       "rating": 4.1,
-      "ratings": 3005,
+      "ratings": 3006,
       "reviews": 65
+    },
+    {
+      "title": "Staff Engineer: Leadership Beyond the Management Track",
+      "url": "https://www.goodreads.com/book/show/56481725-staff-engineer",
+      "id": "88125716",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1609348975i/56481725.jpg",
+      "authors": [
+        "Will Larson"
+      ],
+      "genres": [
+        "leadership",
+        "technology",
+        "management",
+        "software",
+        "non-fiction",
+        "engineering",
+        "programming"
+      ],
+      "rating": 4.04,
+      "ratings": 2897,
+      "reviews": 288
     },
     {
       "title": "Java Concurrency in Practice",
@@ -274,27 +295,6 @@
       "reviews": 138
     },
     {
-      "title": "Staff Engineer: Leadership Beyond the Management Track",
-      "url": "https://www.goodreads.com/book/show/56481725-staff-engineer",
-      "id": "88125716",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1609348975i/56481725.jpg",
-      "authors": [
-        "Will Larson"
-      ],
-      "genres": [
-        "leadership",
-        "technology",
-        "management",
-        "software",
-        "non-fiction",
-        "engineering",
-        "programming"
-      ],
-      "rating": 4.04,
-      "ratings": 2887,
-      "reviews": 285
-    },
-    {
       "title": "Site Reliability Engineering: How Google Runs Production Systems",
       "url": "https://www.goodreads.com/book/show/27968891-site-reliability-engineering",
       "id": "47971924",
@@ -312,7 +312,7 @@
         "engineering"
       ],
       "rating": 4.21,
-      "ratings": 2850,
+      "ratings": 2851,
       "reviews": 267
     },
     {
@@ -354,7 +354,7 @@
         "coding"
       ],
       "rating": 4.53,
-      "ratings": 2798,
+      "ratings": 2797,
       "reviews": 208
     },
     {
@@ -375,8 +375,8 @@
         "business"
       ],
       "rating": 4.3,
-      "ratings": 2775,
-      "reviews": 256
+      "ratings": 2776,
+      "reviews": 255
     },
     {
       "title": "Hands-On Machine Learning with Scikit-Learn and TensorFlow",
@@ -396,7 +396,7 @@
         "textbooks"
       ],
       "rating": 4.55,
-      "ratings": 2724,
+      "ratings": 2725,
       "reviews": 210
     },
     {
@@ -438,7 +438,7 @@
         "technical"
       ],
       "rating": 4.14,
-      "ratings": 2618,
+      "ratings": 2619,
       "reviews": 165
     },
     {
@@ -459,7 +459,7 @@
         "technical"
       ],
       "rating": 4.13,
-      "ratings": 2590,
+      "ratings": 2593,
       "reviews": 176
     },
     {
@@ -501,7 +501,7 @@
         "computer-science"
       ],
       "rating": 4.15,
-      "ratings": 2524,
+      "ratings": 2525,
       "reviews": 192
     }
   ]

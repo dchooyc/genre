@@ -1,65 +1,339 @@
 {
   "books": [
     {
-      "title": "Cloud White",
-      "url": "https://www.goodreads.com/book/show/190993627-cloud-white",
-      "id": "99261624",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1689885546i/190993627.jpg",
+      "title": "Perfect Pucking Match",
+      "url": "https://www.goodreads.com/book/show/201565159-perfect-pucking-match",
+      "id": "206471789",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1702677391i/201565159.jpg",
       "authors": [
-        "Fearne Hill"
+        "Ivy Fox"
+      ],
+      "genres": [
+        "hockey",
+        "sports-romance",
+        "sports",
+        "romance",
+        "hockey-romance",
+        "contemporary",
+        "slow-burn"
+      ],
+      "rating": 4.15,
+      "ratings": 655,
+      "reviews": 190
+    },
+    {
+      "title": "The Trouble with Love and Ink",
+      "url": "https://www.goodreads.com/book/show/209828292-the-trouble-with-love-and-ink",
+      "id": "216042264",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1710368008i/209828292.jpg",
+      "authors": [
+        "Harriet Ashford"
+      ],
+      "genres": [
+        "romance",
+        "fake-dating",
+        "contemporary-romance",
+        "enemies-to-lovers",
+        "contemporary",
+        "love",
+        "slow-burn"
+      ],
+      "rating": 4.33,
+      "ratings": 655,
+      "reviews": 228
+    },
+    {
+      "title": "Loving Irish",
+      "url": "https://www.goodreads.com/book/show/37848725-loving-irish",
+      "id": "59544016",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1515430602i/37848725.jpg",
+      "authors": [
+        "Katy Regnery"
+      ],
+      "genres": [
+        "romance",
+        "second-chance",
+        "contemporary",
+        "contemporary-romance",
+        "amazon",
+        "second-chance-romance",
+        "slow-burn"
+      ],
+      "rating": 4.31,
+      "ratings": 654,
+      "reviews": 166
+    },
+    {
+      "title": "Quietly Yours",
+      "url": "https://www.goodreads.com/book/show/220224117-quietly-yours",
+      "id": "227154296",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1742388464i/220224117.jpg",
+      "authors": [
+        "L.H. Cosway"
+      ],
+      "genres": [
+        "romance",
+        "slow-burn",
+        "contemporary-romance",
+        "contemporary",
+        "enemies-to-lovers",
+        "grief",
+        "forced-proximity"
+      ],
+      "rating": 4.01,
+      "ratings": 654,
+      "reviews": 141
+    },
+    {
+      "title": "A Different Kind of Love",
+      "url": "https://www.goodreads.com/book/show/89575076-a-different-kind-of-love",
+      "id": "99131307",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1674965488i/89575076.jpg",
+      "authors": [
+        "Nicola Haken"
       ],
       "genres": [
         "m-m-romance",
-        "friends-to-lovers",
         "romance",
         "contemporary",
-        "found-family",
+        "lgbt",
+        "slow-burn",
+        "friends-to-lovers",
+        "gay"
+      ],
+      "rating": 4.06,
+      "ratings": 653,
+      "reviews": 109
+    },
+    {
+      "title": "Savage Promises",
+      "url": "https://www.goodreads.com/book/show/220772836-savage-promises",
+      "id": "227719959",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1749328679i/220772836.jpg",
+      "authors": [
+        "Deborah Garland"
+      ],
+      "genres": [
+        "mafia-romance",
+        "dark-romance",
+        "slow-burn",
+        "second-chance",
+        "forced-proximity",
+        "enemies-to-lovers",
+        "audiobook"
+      ],
+      "rating": 4.21,
+      "ratings": 652,
+      "reviews": 192
+    },
+    {
+      "title": "Follow You Down",
+      "url": "https://www.goodreads.com/book/show/209273808-follow-you-down",
+      "id": "215445458",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1709152833i/209273808.jpg",
+      "authors": [
+        "Ripley Proserpina"
+      ],
+      "genres": [
+        "reverse-harem",
+        "why-choose",
+        "romance",
+        "contemporary",
+        "slow-burn",
+        "contemporary-romance",
+        "friends-to-lovers"
+      ],
+      "rating": 4.43,
+      "ratings": 649,
+      "reviews": 77
+    },
+    {
+      "title": "The Hero in Her Story",
+      "url": "https://www.goodreads.com/book/show/62994723-the-hero-in-her-story",
+      "id": "98832781",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1678464799i/62994723.jpg",
+      "authors": [
+        "Kelsey Kingsley"
+      ],
+      "genres": [
+        "romance",
+        "enemies-to-lovers",
+        "friends-to-lovers",
+        "family",
+        "second-chance",
+        "slow-burn",
+        "contemporary-romance"
+      ],
+      "rating": 4.16,
+      "ratings": 649,
+      "reviews": 136
+    },
+    {
+      "title": "Love Me At My Worst",
+      "url": "https://www.goodreads.com/book/show/175774474-love-me-at-my-worst",
+      "id": "182643527",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1686745611i/175774474.jpg",
+      "authors": [
+        "Adrian J. Smith"
+      ],
+      "genres": [
+        "romance",
+        "lesbian",
+        "audiobook",
+        "lgbt",
+        "slow-burn",
+        "friends-to-lovers",
+        "workplace"
+      ],
+      "rating": 4.12,
+      "ratings": 647,
+      "reviews": 61
+    },
+    {
+      "title": "Chief Executive Daddy",
+      "url": "https://www.goodreads.com/book/show/123173572-chief-executive-daddy",
+      "id": "144471311",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1677908018i/123173572.jpg",
+      "authors": [
+        "Honey London"
+      ],
+      "genres": [
+        "m-m-romance",
+        "contemporary",
+        "romance",
+        "lgbt",
+        "bdsm",
         "slow-burn",
         "mental-health"
       ],
-      "rating": 4.19,
-      "ratings": 592,
+      "rating": 4.23,
+      "ratings": 644,
+      "reviews": 129
+    },
+    {
+      "title": "A Pocket of Lies",
+      "url": "https://www.goodreads.com/book/show/203690065-a-pocket-of-lies",
+      "id": "209516150",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1707042532i/203690065.jpg",
+      "authors": [
+        "R.A. Sandpiper"
+      ],
+      "genres": [
+        "fantasy",
+        "romantasy",
+        "romance",
+        "fantasy-romance",
+        "fae",
+        "enemies-to-lovers",
+        "slow-burn"
+      ],
+      "rating": 4.16,
+      "ratings": 644,
+      "reviews": 242
+    },
+    {
+      "title": "The No Rules Roommate",
+      "url": "https://www.goodreads.com/book/show/217034084-the-no-rules-roommate",
+      "id": "223504451",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1722447813i/217034084.jpg",
+      "authors": [
+        "Holly June Smith"
+      ],
+      "genres": [
+        "romance",
+        "friends-to-lovers",
+        "forced-proximity",
+        "contemporary-romance",
+        "fake-dating",
+        "fiction",
+        "slow-burn"
+      ],
+      "rating": 4.28,
+      "ratings": 642,
       "reviews": 140
     },
     {
-      "title": "Until There Was You",
-      "url": "https://www.goodreads.com/book/show/61864512-until-there-was-you",
-      "id": "97530189",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1659692867i/61864512.jpg",
+      "title": "An Armored Heart",
+      "url": "https://www.goodreads.com/book/show/123255669-an-armored-heart",
+      "id": "144622850",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1680720275i/123255669.jpg",
       "authors": [
-        "Nancy Ann Healy"
+        "R.C. Boldt"
       ],
       "genres": [
         "romance",
-        "lesbian-romance",
-        "lesbian",
-        "lgbt",
-        "slow-burn"
-      ],
-      "rating": 4.42,
-      "ratings": 591,
-      "reviews": 40
-    },
-    {
-      "title": "Temptation on the Warfront",
-      "url": "https://www.goodreads.com/book/show/31950193-temptation-on-the-warfront",
-      "id": "52610359",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1716350330i/31950193.jpg",
-      "authors": [
-        "alizarincrims0n"
-      ],
-      "genres": [
-        "fan-fiction",
-        "fantasy",
-        "romance",
-        "m-m-romance",
-        "magic",
-        "lgbt",
-        "slow-burn"
+        "enemies-to-lovers",
+        "contemporary-romance",
+        "fake-dating",
+        "contemporary",
+        "slow-burn",
+        "forced-proximity"
       ],
       "rating": 4.23,
-      "ratings": 591,
-      "reviews": 84
+      "ratings": 638,
+      "reviews": 193
+    },
+    {
+      "title": "Diamond",
+      "url": "https://www.goodreads.com/book/show/76750281-diamond",
+      "id": "101976007",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1673573887i/76750281.jpg",
+      "authors": [
+        "J.A. Low"
+      ],
+      "genres": [
+        "dark-romance",
+        "enemies-to-lovers",
+        "romance",
+        "dark",
+        "contemporary",
+        "slow-burn",
+        "suspense"
+      ],
+      "rating": 4.49,
+      "ratings": 638,
+      "reviews": 134
+    },
+    {
+      "title": "Belle Amour",
+      "url": "https://www.goodreads.com/book/show/223031884-belle-amour",
+      "id": "230085957",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1735327229i/223031884.jpg",
+      "authors": [
+        "Stephanie Myrick"
+      ],
+      "genres": [
+        "friends-to-lovers",
+        "slow-burn",
+        "contemporary",
+        "romance",
+        "divorce",
+        "contemporary-romance"
+      ],
+      "rating": 4.11,
+      "ratings": 636,
+      "reviews": 57
+    },
+    {
+      "title": "The No Kiss Contract",
+      "url": "https://www.goodreads.com/book/show/84727797-the-no-kiss-contract",
+      "id": "109240426",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1674577110i/84727797.jpg",
+      "authors": [
+        "Nan Campbell"
+      ],
+      "genres": [
+        "romance",
+        "lesbian",
+        "fake-dating",
+        "second-chance",
+        "lgbt",
+        "slow-burn",
+        "audiobook"
+      ],
+      "rating": 4.24,
+      "ratings": 635,
+      "reviews": 111
     },
     {
       "title": "Ember Falls",
@@ -76,419 +350,154 @@
         "slow-burn",
         "he-falls-first"
       ],
-      "rating": 4.34,
-      "ratings": 590,
-      "reviews": 139
+      "rating": 4.33,
+      "ratings": 630,
+      "reviews": 145
     },
     {
-      "title": "Rock Bottom",
-      "url": "https://www.goodreads.com/book/show/75716997-rock-bottom",
-      "id": "101095316",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1673390263i/75716997.jpg",
+      "title": "Sweet Thing",
+      "url": "https://www.goodreads.com/book/show/57724919-sweet-thing",
+      "id": "90413265",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1632987202i/57724919.jpg",
       "authors": [
-        "Kat Mizera"
-      ],
-      "genres": [
-        "romance",
-        "second-chance",
-        "music",
-        "contemporary",
-        "contemporary-romance",
-        "slow-burn",
-        "family"
-      ],
-      "rating": 4.31,
-      "ratings": 590,
-      "reviews": 90
-    },
-    {
-      "title": "When We Ignite",
-      "url": "https://www.goodreads.com/book/show/231021309-when-we-ignite",
-      "id": "244184232",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1743806080i/231021309.jpg",
-      "authors": [
-        "Alex Cross"
+        "Emma Alcott"
       ],
       "genres": [
         "m-m-romance",
         "romance",
         "contemporary",
-        "queer",
-        "adult",
+        "friends-to-lovers",
+        "lgbt",
+        "audiobook",
         "slow-burn"
       ],
-      "rating": 4.42,
-      "ratings": 590,
-      "reviews": 169
+      "rating": 4.09,
+      "ratings": 626,
+      "reviews": 179
     },
     {
-      "title": "Yes, Coach",
-      "url": "https://www.goodreads.com/book/show/233868496-yes-coach",
-      "id": "248652543",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1755027984i/233868496.jpg",
+      "title": "Burn",
+      "url": "https://www.goodreads.com/book/show/57035094-burn",
+      "id": "89246816",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1614126143i/57035094.jpg",
       "authors": [
-        "Daisy Jane"
+        "Grahame Claire"
       ],
       "genres": [
-        "sports",
         "romance",
-        "slow-burn",
-        "friends-to-lovers",
-        "westerns",
         "contemporary-romance",
-        "football"
-      ],
-      "rating": 4.13,
-      "ratings": 589,
-      "reviews": 139
-    },
-    {
-      "title": "Quiet Burn",
-      "url": "https://www.goodreads.com/book/show/223436486-quiet-burn",
-      "id": "230497535",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1736454491i/223436486.jpg",
-      "authors": [
-        "Cassandra Featherstone"
-      ],
-      "genres": [
-        "reverse-harem",
-        "magic",
-        "demons",
-        "fantasy",
-        "why-choose",
+        "contemporary",
+        "audiobook",
         "slow-burn",
-        "paranormal"
+        "mystery",
+        "romantic-suspense"
       ],
-      "rating": 4.38,
-      "ratings": 581,
-      "reviews": 86
+      "rating": 4.04,
+      "ratings": 624,
+      "reviews": 121
     },
     {
-      "title": "Resting Beach Face",
-      "url": "https://www.goodreads.com/book/show/219834028-resting-beach-face",
-      "id": "226765775",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1730324050i/219834028.jpg",
+      "title": "Broken Records",
+      "url": "https://www.goodreads.com/book/show/58897969-broken-records",
+      "id": "91646443",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1630415418i/58897969.jpg",
       "authors": [
-        "D.J. Jamison"
+        "Bree Bennett"
       ],
       "genres": [
         "romance",
-        "m-m-romance",
-        "lgbt",
-        "found-family",
-        "friends-to-lovers",
+        "contemporary",
+        "contemporary-romance",
+        "celebrity",
+        "music",
         "forced-proximity",
         "slow-burn"
       ],
-      "rating": 4.35,
-      "ratings": 578,
-      "reviews": 120
-    },
-    {
-      "title": "Scarred Wife",
-      "url": "https://www.goodreads.com/book/show/218724943-scarred-wife",
-      "id": "225656698",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1726099645i/218724943.jpg",
-      "authors": [
-        "Sam Crescent"
-      ],
-      "genres": [
-        "romance",
-        "dark-romance",
-        "slow-burn",
-        "mafia-romance"
-      ],
-      "rating": 4.04,
-      "ratings": 575,
-      "reviews": 73
-    },
-    {
-      "title": "Gunner's Mercy",
-      "url": "https://www.goodreads.com/book/show/206342560-gunner-s-mercy",
-      "id": "212406981",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1730196526i/206342560.jpg",
-      "authors": [
-        "Cala Riley"
-      ],
-      "genres": [
-        "found-family",
-        "romance",
-        "enemies-to-lovers",
-        "dark-romance",
-        "workplace",
-        "slow-burn",
-        "contemporary"
-      ],
-      "rating": 4.4,
-      "ratings": 574,
-      "reviews": 176
-    },
-    {
-      "title": "Stay",
-      "url": "https://www.goodreads.com/book/show/61167314-stay",
-      "id": "96420082",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1653522786i/61167314.jpg",
-      "authors": [
-        "Taylor McNiff"
-      ],
-      "genres": [
-        "m-m-romance",
-        "enemies-to-lovers",
-        "slow-burn",
-        "military-fiction",
-        "contemporary",
-        "romance",
-        "lgbt"
-      ],
-      "rating": 4.46,
-      "ratings": 571,
-      "reviews": 69
-    },
-    {
-      "title": "Your Hand in Mine",
-      "url": "https://www.goodreads.com/book/show/198386258-your-hand-in-mine",
-      "id": "86196762",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1693596562i/198386258.jpg",
-      "authors": [
-        "Lily  Foster"
-      ],
-      "genres": [
-        "romance",
-        "contemporary",
-        "slow-burn",
-        "amazon",
-        "contemporary-romance"
-      ],
-      "rating": 4.05,
-      "ratings": 569,
-      "reviews": 51
-    },
-    {
-      "title": "Devil In The Details",
-      "url": "https://www.goodreads.com/book/show/201047156-devil-in-the-details",
-      "id": "205935443",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1698677369i/201047156.jpg",
-      "authors": [
-        "Alannah Carbonneau"
-      ],
-      "genres": [
-        "contemporary-romance",
-        "romance",
-        "friends-to-lovers",
-        "fake-dating",
-        "slow-burn",
-        "forced-proximity"
-      ],
-      "rating": 4.35,
-      "ratings": 569,
-      "reviews": 62
-    },
-    {
-      "title": "Solace",
-      "url": "https://www.goodreads.com/book/show/123205682-solace",
-      "id": "144526754",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1678282895i/123205682.jpg",
-      "authors": [
-        "Taylor McNiff"
-      ],
-      "genres": [
-        "m-m-romance",
-        "bdsm",
-        "slow-burn",
-        "found-family",
-        "dark",
-        "mental-health",
-        "dark-romance"
-      ],
       "rating": 4.44,
-      "ratings": 566,
-      "reviews": 61
+      "ratings": 622,
+      "reviews": 94
     },
     {
-      "title": "When Hearts Awaken",
-      "url": "https://www.goodreads.com/book/show/217147073-when-hearts-awaken",
-      "id": "223625612",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1737102727i/217147073.jpg",
+      "title": "Bright Shards",
+      "url": "https://www.goodreads.com/book/show/45861794-bright-shards",
+      "id": "70674784",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1558051703i/45861794.jpg",
       "authors": [
-        "Victoria Lum"
-      ],
-      "genres": [
-        "enemies-to-lovers",
-        "romance",
-        "dark-romance",
-        "billionaire-romance",
-        "found-family",
-        "he-falls-first",
-        "slow-burn"
-      ],
-      "rating": 4.43,
-      "ratings": 564,
-      "reviews": 329
-    },
-    {
-      "title": "Measure of a Man",
-      "url": "https://www.goodreads.com/book/show/205369998-measure-of-a-man",
-      "id": "95607821",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1710885724i/205369998.jpg",
-      "authors": [
-        "Molly McLain"
-      ],
-      "genres": [
-        "friends-to-lovers",
-        "small-town-romance",
-        "slow-burn",
-        "romance",
-        "contemporary-romance",
-        "contemporary",
-        "he-falls-first"
-      ],
-      "rating": 4.52,
-      "ratings": 562,
-      "reviews": 104
-    },
-    {
-      "title": "Baby, Be Mine",
-      "url": "https://www.goodreads.com/book/show/179258167-baby-be-mine",
-      "id": "184594458",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1687926530i/179258167.jpg",
-      "authors": [
-        "Taryn Quinn"
-      ],
-      "genres": [
-        "romance",
-        "contemporary",
-        "slow-burn",
-        "small-town-romance",
-        "contemporary-romance"
-      ],
-      "rating": 4.37,
-      "ratings": 557,
-      "reviews": 82
-    },
-    {
-      "title": "Watch Your Orbit",
-      "url": "https://www.goodreads.com/book/show/63228611-watch-your-orbit",
-      "id": "99118016",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1667678075i/63228611.jpg",
-      "authors": [
-        "Etta Pierce"
+        "Meg Pechenick"
       ],
       "genres": [
         "science-fiction",
-        "romance",
         "aliens",
-        "monster-romance",
-        "slow-burn",
-        "science-fiction-romance",
-        "m-f-romance"
-      ],
-      "rating": 4.18,
-      "ratings": 553,
-      "reviews": 87
-    },
-    {
-      "title": "Carnal Games",
-      "url": "https://www.goodreads.com/book/show/213180031-carnal-games",
-      "id": "219401927",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1748497567i/213180031.jpg",
-      "authors": [
-        "Simran ."
-      ],
-      "genres": [
-        "dark-romance",
         "romance",
-        "dark",
-        "forced-proximity",
-        "billionaire-romance",
-        "slow-burn"
+        "slow-burn",
+        "space-opera",
+        "speculative-fiction",
+        "science-fiction-romance"
       ],
-      "rating": 4.2,
-      "ratings": 553,
-      "reviews": 144
+      "rating": 4.44,
+      "ratings": 622,
+      "reviews": 96
     },
     {
-      "title": "Wildflowers",
-      "url": "https://www.goodreads.com/book/show/232551649-wildflowers",
-      "id": "247198986",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1748346813i/232551649.jpg",
+      "title": "If It Can't Be Us",
+      "url": "https://www.goodreads.com/book/show/221146959-if-it-can-t-be-us",
+      "id": "227218889",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1730607722i/221146959.jpg",
       "authors": [
-        "Kylie Scott"
+        "Erin Cornia"
       ],
       "genres": [
         "romance",
-        "dystopia",
-        "contemporary",
-        "post-apocalyptic",
-        "forced-proximity",
-        "slow-burn",
-        "adventure"
-      ],
-      "rating": 4.14,
-      "ratings": 553,
-      "reviews": 199
-    },
-    {
-      "title": "Savage Vicious Heir: Part One",
-      "url": "https://www.goodreads.com/book/show/196940146-savage-vicious-heir",
-      "id": "199350080",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1704567676i/196940146.jpg",
-      "authors": [
-        "Caitlyn Dare"
-      ],
-      "genres": [
-        "slow-burn",
-        "sports",
-        "dark-romance",
-        "new-adult",
         "friends-to-lovers",
-        "mental-health",
+        "chick-lit",
+        "slow-burn",
         "contemporary-romance"
       ],
-      "rating": 4.25,
-      "ratings": 551,
-      "reviews": 97
+      "rating": 4.16,
+      "ratings": 619,
+      "reviews": 140
     },
     {
-      "title": "UnLucky in Love",
-      "url": "https://www.goodreads.com/book/show/51962159-unlucky-in-love",
-      "id": "69217736",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1564023077l/51962159.jpg",
+      "title": "The Fearless: A zombie apocalypse romance",
+      "url": "https://www.goodreads.com/book/show/210551776-the-fearless",
+      "id": "214242175",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1711805829i/210551776.jpg",
       "authors": [
-        "Cary Hart"
+        "Elle Richards"
       ],
       "genres": [
-        "friends-to-lovers",
-        "audiobook",
+        "zombies",
         "romance",
-        "contemporary",
-        "contemporary-romance",
+        "post-apocalyptic",
+        "novella",
         "slow-burn",
-        "chick-lit"
+        "dystopia",
+        "apocalyptic"
       ],
-      "rating": 4,
-      "ratings": 547,
-      "reviews": 164
+      "rating": 4.15,
+      "ratings": 619,
+      "reviews": 51
     },
     {
-      "title": "Borrowed",
-      "url": "https://www.goodreads.com/book/show/37806318-borrowed",
-      "id": "59478950",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1701801487i/37806318.jpg",
+      "title": "Requited",
+      "url": "https://www.goodreads.com/book/show/60641052-requited",
+      "id": "95592137",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1647599350i/60641052.jpg",
       "authors": [
-        "Victoria Ashley"
+        "Jesse H. Reign"
       ],
       "genres": [
-        "fake-dating",
+        "m-m-romance",
+        "friends-to-lovers",
         "romance",
-        "music",
         "contemporary",
-        "enemies-to-lovers",
-        "forced-proximity",
+        "college",
+        "lgbt",
         "slow-burn"
       ],
-      "rating": 4.26,
-      "ratings": 546,
-      "reviews": 162
+      "rating": 4.21,
+      "ratings": 618,
+      "reviews": 115
     }
   ]
 }

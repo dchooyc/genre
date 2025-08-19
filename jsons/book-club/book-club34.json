@@ -1,6 +1,69 @@
 {
   "books": [
     {
+      "title": "Beautyland",
+      "url": "https://www.goodreads.com/book/show/127282939-beautyland",
+      "id": "148389907",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1685992173i/127282939.jpg",
+      "authors": [
+        "Marie-Helene Bertino"
+      ],
+      "genres": [
+        "fiction",
+        "science-fiction",
+        "audiobook",
+        "book-club",
+        "literary-fiction",
+        "fantasy",
+        "coming-of-age"
+      ],
+      "rating": 4.08,
+      "ratings": 30631,
+      "reviews": 5574
+    },
+    {
+      "title": "Cleopatra's Daughter",
+      "url": "https://www.goodreads.com/book/show/6340471-cleopatra-s-daughter",
+      "id": "5973842",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1449745007i/6340471.jpg",
+      "authors": [
+        "Michelle    Moran"
+      ],
+      "genres": [
+        "historical-fiction",
+        "historical",
+        "fiction",
+        "egypt",
+        "romance",
+        "young-adult",
+        "book-club"
+      ],
+      "rating": 4.12,
+      "ratings": 30569,
+      "reviews": 2706
+    },
+    {
+      "title": "Sunflower Sisters",
+      "url": "https://www.goodreads.com/book/show/54809001-sunflower-sisters",
+      "id": "85508184",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1597006480i/54809001.jpg",
+      "authors": [
+        "Martha Hall Kelly"
+      ],
+      "genres": [
+        "historical-fiction",
+        "fiction",
+        "civil-war",
+        "historical",
+        "audiobook",
+        "book-club",
+        "war"
+      ],
+      "rating": 4.26,
+      "ratings": 30563,
+      "reviews": 3064
+    },
+    {
       "title": "An Unfinished Story",
       "url": "https://www.goodreads.com/book/show/50669837-an-unfinished-story",
       "id": "75693570",
@@ -18,71 +81,8 @@
         "literary-fiction"
       ],
       "rating": 4.34,
-      "ratings": 30254,
-      "reviews": 1651
-    },
-    {
-      "title": "The Beach House",
-      "url": "https://www.goodreads.com/book/show/7512.The_Beach_House",
-      "id": "1589730",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388342395i/7512.jpg",
-      "authors": [
-        "Mary Alice Monroe"
-      ],
-      "genres": [
-        "fiction",
-        "romance",
-        "chick-lit",
-        "book-club",
-        "southern",
-        "beach-reads",
-        "summer-reads"
-      ],
-      "rating": 4.22,
-      "ratings": 30136,
-      "reviews": 2188
-    },
-    {
-      "title": "Confessions of a Forty-Something F**k Up",
-      "url": "https://www.goodreads.com/book/show/50359667-confessions-of-a-forty-something-f-k-up",
-      "id": "75308354",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1579541382i/50359667.jpg",
-      "authors": [
-        "Alexandra Potter"
-      ],
-      "genres": [
-        "fiction",
-        "romance",
-        "audiobook",
-        "chick-lit",
-        "contemporary",
-        "humor",
-        "book-club"
-      ],
-      "rating": 4.05,
-      "ratings": 30043,
-      "reviews": 3145
-    },
-    {
-      "title": "Straight Man",
-      "url": "https://www.goodreads.com/book/show/414298.Straight_Man",
-      "id": "3182399",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1430659357i/414298.jpg",
-      "authors": [
-        "Richard Russo"
-      ],
-      "genres": [
-        "fiction",
-        "humor",
-        "book-club",
-        "contemporary",
-        "academia",
-        "novels",
-        "literary-fiction"
-      ],
-      "rating": 4,
-      "ratings": 30007,
-      "reviews": 3170
+      "ratings": 30304,
+      "reviews": 1657
     },
     {
       "title": "The Beantown Girls",
@@ -102,8 +102,71 @@
         "war"
       ],
       "rating": 4.31,
-      "ratings": 29958,
-      "reviews": 2982
+      "ratings": 30151,
+      "reviews": 2987
+    },
+    {
+      "title": "The Beach House",
+      "url": "https://www.goodreads.com/book/show/7512.The_Beach_House",
+      "id": "1589730",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388342395i/7512.jpg",
+      "authors": [
+        "Mary Alice Monroe"
+      ],
+      "genres": [
+        "fiction",
+        "romance",
+        "chick-lit",
+        "book-club",
+        "southern",
+        "beach-reads",
+        "summer-reads"
+      ],
+      "rating": 4.22,
+      "ratings": 30151,
+      "reviews": 2188
+    },
+    {
+      "title": "Confessions of a Forty-Something F**k Up",
+      "url": "https://www.goodreads.com/book/show/78296963-confessions-of-a-forty-something-f-k-up",
+      "id": "75308354",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1690314808i/78296963.jpg",
+      "authors": [
+        "Alexandra Potter"
+      ],
+      "genres": [
+        "fiction",
+        "romance",
+        "audiobook",
+        "chick-lit",
+        "contemporary",
+        "humor",
+        "book-club"
+      ],
+      "rating": 4.05,
+      "ratings": 30124,
+      "reviews": 3150
+    },
+    {
+      "title": "Straight Man",
+      "url": "https://www.goodreads.com/book/show/414298.Straight_Man",
+      "id": "3182399",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1430659357i/414298.jpg",
+      "authors": [
+        "Richard Russo"
+      ],
+      "genres": [
+        "fiction",
+        "humor",
+        "book-club",
+        "contemporary",
+        "academia",
+        "novels",
+        "literary-fiction"
+      ],
+      "rating": 4,
+      "ratings": 30023,
+      "reviews": 3172
     },
     {
       "title": "The Keeper of Hidden Books",
@@ -123,8 +186,8 @@
         "book-club"
       ],
       "rating": 4.12,
-      "ratings": 29875,
-      "reviews": 2982
+      "ratings": 29952,
+      "reviews": 2991
     },
     {
       "title": "Home",
@@ -144,29 +207,8 @@
         "religion"
       ],
       "rating": 4.04,
-      "ratings": 29726,
-      "reviews": 4345
-    },
-    {
-      "title": "Carry On, Warrior: Thoughts on Life Unarmed",
-      "url": "https://www.goodreads.com/book/show/15802944-carry-on-warrior",
-      "id": "21526100",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1359054516i/15802944.jpg",
-      "authors": [
-        "Glennon Doyle"
-      ],
-      "genres": [
-        "non-fiction",
-        "memoir",
-        "self-help",
-        "book-club",
-        "parenting",
-        "biography",
-        "personal-development"
-      ],
-      "rating": 4.1,
-      "ratings": 29681,
-      "reviews": 2658
+      "ratings": 29741,
+      "reviews": 4351
     },
     {
       "title": "A River Runs Through It and Other Stories",
@@ -186,8 +228,29 @@
         "book-club"
       ],
       "rating": 4.19,
-      "ratings": 29676,
-      "reviews": 2272
+      "ratings": 29697,
+      "reviews": 2277
+    },
+    {
+      "title": "Carry On, Warrior: Thoughts on Life Unarmed",
+      "url": "https://www.goodreads.com/book/show/15802944-carry-on-warrior",
+      "id": "21526100",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1359054516i/15802944.jpg",
+      "authors": [
+        "Glennon Doyle"
+      ],
+      "genres": [
+        "non-fiction",
+        "memoir",
+        "self-help",
+        "book-club",
+        "parenting",
+        "biography",
+        "personal-development"
+      ],
+      "rating": 4.1,
+      "ratings": 29683,
+      "reviews": 2656
     },
     {
       "title": "Grandma Gatewood's Walk: The Inspiring Story of the Woman Who Saved the Appalachian Trail",
@@ -207,8 +270,8 @@
         "audiobook"
       ],
       "rating": 4.1,
-      "ratings": 29549,
-      "reviews": 4247
+      "ratings": 29610,
+      "reviews": 4256
     },
     {
       "title": "The Hand That First Held Mine",
@@ -228,29 +291,8 @@
         "british-literature"
       ],
       "rating": 4.05,
-      "ratings": 29270,
-      "reviews": 2934
-    },
-    {
-      "title": "All Over But the Shoutin'",
-      "url": "https://www.goodreads.com/book/show/470495.All_Over_But_the_Shoutin_",
-      "id": "1948077",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1616420845i/470495.jpg",
-      "authors": [
-        "Rick Bragg"
-      ],
-      "genres": [
-        "memoir",
-        "non-fiction",
-        "biography",
-        "book-club",
-        "biography-memoir",
-        "southern",
-        "autobiography"
-      ],
-      "rating": 4.13,
-      "ratings": 29198,
-      "reviews": 2099
+      "ratings": 29317,
+      "reviews": 2936
     },
     {
       "title": "Surviving Savannah",
@@ -270,8 +312,29 @@
         "adult"
       ],
       "rating": 4.17,
-      "ratings": 29198,
-      "reviews": 3517
+      "ratings": 29227,
+      "reviews": 3519
+    },
+    {
+      "title": "All Over But the Shoutin'",
+      "url": "https://www.goodreads.com/book/show/470495.All_Over_But_the_Shoutin_",
+      "id": "1948077",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1616420845i/470495.jpg",
+      "authors": [
+        "Rick Bragg"
+      ],
+      "genres": [
+        "memoir",
+        "non-fiction",
+        "biography",
+        "book-club",
+        "biography-memoir",
+        "southern",
+        "autobiography"
+      ],
+      "rating": 4.13,
+      "ratings": 29209,
+      "reviews": 2099
     },
     {
       "title": "Lullabies for Little Criminals",
@@ -291,8 +354,8 @@
         "literary-fiction"
       ],
       "rating": 4.04,
-      "ratings": 29173,
-      "reviews": 2399
+      "ratings": 29188,
+      "reviews": 2402
     },
     {
       "title": "I Will Always Write Back: How One Letter Changed Two Lives",
@@ -312,29 +375,8 @@
         "friendship"
       ],
       "rating": 4.38,
-      "ratings": 29171,
-      "reviews": 4717
-    },
-    {
-      "title": "Marching Powder",
-      "url": "https://www.goodreads.com/book/show/43081.Marching_Powder",
-      "id": "42519",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388245700i/43081.jpg",
-      "authors": [
-        "Rusty Young"
-      ],
-      "genres": [
-        "non-fiction",
-        "travel",
-        "biography",
-        "crime",
-        "memoir",
-        "true-crime",
-        "book-club"
-      ],
-      "rating": 4.31,
-      "ratings": 29138,
-      "reviews": 1311
+      "ratings": 29187,
+      "reviews": 4718
     },
     {
       "title": "The Garden of Evening Mists",
@@ -354,8 +396,29 @@
         "japan"
       ],
       "rating": 4.15,
-      "ratings": 29122,
-      "reviews": 3632
+      "ratings": 29156,
+      "reviews": 3633
+    },
+    {
+      "title": "Marching Powder",
+      "url": "https://www.goodreads.com/book/show/43081.Marching_Powder",
+      "id": "42519",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388245700i/43081.jpg",
+      "authors": [
+        "Rusty Young"
+      ],
+      "genres": [
+        "non-fiction",
+        "travel",
+        "biography",
+        "crime",
+        "memoir",
+        "true-crime",
+        "book-club"
+      ],
+      "rating": 4.31,
+      "ratings": 29152,
+      "reviews": 1311
     },
     {
       "title": "When the Rain Ends",
@@ -370,34 +433,13 @@
         "romance",
         "contemporary",
         "chick-lit",
-        "art",
         "audiobook",
+        "art",
         "book-club"
       ],
       "rating": 4.13,
-      "ratings": 29085,
+      "ratings": 29119,
       "reviews": 895
-    },
-    {
-      "title": "Tattoos on the Heart: The Power of Boundless Compassion",
-      "url": "https://www.goodreads.com/book/show/7090193-tattoos-on-the-heart",
-      "id": "7268233",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347834451i/7090193.jpg",
-      "authors": [
-        "Gregory Boyle"
-      ],
-      "genres": [
-        "non-fiction",
-        "memoir",
-        "book-club",
-        "christian",
-        "religion",
-        "faith",
-        "spirituality"
-      ],
-      "rating": 4.49,
-      "ratings": 29034,
-      "reviews": 4262
     },
     {
       "title": "The Life List",
@@ -417,8 +459,29 @@
         "adult"
       ],
       "rating": 4.07,
-      "ratings": 29011,
-      "reviews": 3342
+      "ratings": 29093,
+      "reviews": 3350
+    },
+    {
+      "title": "Tattoos on the Heart: The Power of Boundless Compassion",
+      "url": "https://www.goodreads.com/book/show/7090193-tattoos-on-the-heart",
+      "id": "7268233",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347834451i/7090193.jpg",
+      "authors": [
+        "Gregory Boyle"
+      ],
+      "genres": [
+        "non-fiction",
+        "memoir",
+        "book-club",
+        "christian",
+        "religion",
+        "faith",
+        "spirituality"
+      ],
+      "rating": 4.49,
+      "ratings": 29072,
+      "reviews": 4266
     },
     {
       "title": "Hadley & Grace",
@@ -438,71 +501,8 @@
         "book-club"
       ],
       "rating": 4.11,
-      "ratings": 28935,
-      "reviews": 1903
-    },
-    {
-      "title": "Erasure",
-      "url": "https://www.goodreads.com/book/show/355862.Erasure",
-      "id": "345986",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1708274015i/355862.jpg",
-      "authors": [
-        "Percival Everett"
-      ],
-      "genres": [
-        "fiction",
-        "literary-fiction",
-        "audiobook",
-        "race",
-        "contemporary",
-        "african-american",
-        "book-club"
-      ],
-      "rating": 4.17,
-      "ratings": 28871,
-      "reviews": 3912
-    },
-    {
-      "title": "The Ladies' Midnight Swimming Club",
-      "url": "https://www.goodreads.com/book/show/55170646-the-ladies-midnight-swimming-club",
-      "id": "86011500",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1621200323i/55170646.jpg",
-      "authors": [
-        "Faith Hogan"
-      ],
-      "genres": [
-        "fiction",
-        "book-club",
-        "ireland",
-        "contemporary",
-        "audiobook",
-        "romance",
-        "chick-lit"
-      ],
-      "rating": 4.16,
-      "ratings": 28855,
-      "reviews": 1625
-    },
-    {
-      "title": "How to Say Babylon",
-      "url": "https://www.goodreads.com/book/show/62919742-how-to-say-babylon",
-      "id": "98736173",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1696364131i/62919742.jpg",
-      "authors": [
-        "Safiya Sinclair"
-      ],
-      "genres": [
-        "memoir",
-        "non-fiction",
-        "audiobook",
-        "book-club",
-        "biography",
-        "feminism",
-        "religion"
-      ],
-      "rating": 4.44,
-      "ratings": 28720,
-      "reviews": 4616
+      "ratings": 28957,
+      "reviews": 1905
     }
   ]
 }

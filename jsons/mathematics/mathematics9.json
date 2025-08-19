@@ -1,6 +1,84 @@
 {
   "books": [
     {
+      "title": "Sciencia: Mathematics, Physics, Chemistry, Biology, and Astronomy for All",
+      "url": "https://www.goodreads.com/book/show/11458319-sciencia",
+      "id": "16392404",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1364522249i/11458319.jpg",
+      "authors": [
+        "Matt Tweed"
+      ],
+      "genres": [
+        "science",
+        "non-fiction",
+        "physics",
+        "education",
+        "chemistry",
+        "mathematics",
+        "astronomy"
+      ],
+      "rating": 4.23,
+      "ratings": 590,
+      "reviews": 46
+    },
+    {
+      "title": "Albert Einstein: Never Stop Questioning",
+      "url": "https://www.goodreads.com/book/show/34641699-albert-einstein",
+      "id": "55802701",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1490037195i/34641699.jpg",
+      "authors": [
+        "Venugopal"
+      ],
+      "genres": [
+        "comics",
+        "science",
+        "history",
+        "graphic-novels",
+        "mathematics",
+        "childrens",
+        "biography"
+      ],
+      "rating": 4.44,
+      "ratings": 585,
+      "reviews": 17
+    },
+    {
+      "title": "A Student's Guide to Maxwell's Equations",
+      "url": "https://www.goodreads.com/book/show/3094871-a-student-s-guide-to-maxwell-s-equations",
+      "id": "3126014",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347561661i/3094871.jpg",
+      "authors": [
+        "Daniel Fleisch"
+      ],
+      "genres": [
+        "physics",
+        "science",
+        "mathematics",
+        "non-fiction",
+        "textbooks",
+        "reference",
+        "engineering"
+      ],
+      "rating": 4.42,
+      "ratings": 584,
+      "reviews": 40
+    },
+    {
+      "title": "PLAY WITH GRAPHS - A Magical book to teach Problem Solving through Graphs",
+      "url": "https://www.goodreads.com/book/show/27466784-play-with-graphs---a-magical-book-to-teach-problem-solving-through-graph",
+      "id": "47513262",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1446744138i/27466784.jpg",
+      "authors": [
+        "Amit M. Agarwal"
+      ],
+      "genres": [
+        "mathematics"
+      ],
+      "rating": 4.12,
+      "ratings": 576,
+      "reviews": 26
+    },
+    {
       "title": "It's a Numberful World: How Math Is Hiding Everywhere",
       "url": "https://www.goodreads.com/book/show/45892066-it-s-a-numberful-world",
       "id": "63300116",
@@ -39,6 +117,27 @@
       "rating": 4.29,
       "ratings": 561,
       "reviews": 124
+    },
+    {
+      "title": "A Book of Abstract Algebra",
+      "url": "https://www.goodreads.com/book/show/8295305-a-book-of-abstract-algebra",
+      "id": "2922834",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328863153i/8295305.jpg",
+      "authors": [
+        "Charles C. Pinter"
+      ],
+      "genres": [
+        "mathematics",
+        "algebra",
+        "non-fiction",
+        "science",
+        "textbooks",
+        "reference",
+        "engineering"
+      ],
+      "rating": 4.37,
+      "ratings": 556,
+      "reviews": 32
     },
     {
       "title": "Machine Learning With Random Forests And Decision Trees: A Visual Guide For Beginners",
@@ -188,6 +287,27 @@
       "reviews": 31
     },
     {
+      "title": "Practical Statistics for Data Scientists: 50 Essential Concepts",
+      "url": "https://www.goodreads.com/book/show/28646693-practical-statistics-for-data-scientists",
+      "id": "48833594",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1495311419i/28646693.jpg",
+      "authors": [
+        "Peter Bruce"
+      ],
+      "genres": [
+        "computer-science",
+        "mathematics",
+        "non-fiction",
+        "programming",
+        "science",
+        "reference",
+        "technology"
+      ],
+      "rating": 4.03,
+      "ratings": 527,
+      "reviews": 46
+    },
+    {
       "title": "Thomas' Calculus",
       "url": "https://www.goodreads.com/book/show/818077.Thomas_Calculus",
       "id": "2056032",
@@ -207,27 +327,6 @@
       "rating": 4.04,
       "ratings": 526,
       "reviews": 46
-    },
-    {
-      "title": "Dynamic Hedging: Managing Vanilla and Exotic Options",
-      "url": "https://www.goodreads.com/book/show/204689.Dynamic_Hedging",
-      "id": "198078",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347788321i/204689.jpg",
-      "authors": [
-        "Nassim Nicholas Taleb"
-      ],
-      "genres": [
-        "finance",
-        "business",
-        "non-fiction",
-        "economics",
-        "mathematics",
-        "technical",
-        "psychology"
-      ],
-      "rating": 4.03,
-      "ratings": 525,
-      "reviews": 25
     },
     {
       "title": "Moja Means One: Swahili Counting Book",
@@ -251,25 +350,46 @@
       "reviews": 67
     },
     {
-      "title": "Practical Statistics for Data Scientists: 50 Essential Concepts",
-      "url": "https://www.goodreads.com/book/show/28646693-practical-statistics-for-data-scientists",
-      "id": "48833594",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1495311419i/28646693.jpg",
+      "title": "Dynamic Hedging: Managing Vanilla and Exotic Options",
+      "url": "https://www.goodreads.com/book/show/204689.Dynamic_Hedging",
+      "id": "198078",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347788321i/204689.jpg",
       "authors": [
-        "Peter Bruce"
+        "Nassim Nicholas Taleb"
       ],
       "genres": [
-        "computer-science",
-        "mathematics",
+        "finance",
+        "business",
         "non-fiction",
-        "programming",
-        "science",
-        "reference",
-        "technology"
+        "economics",
+        "mathematics",
+        "technical",
+        "psychology"
       ],
       "rating": 4.03,
       "ratings": 525,
-      "reviews": 46
+      "reviews": 25
+    },
+    {
+      "title": "Bernoulli's Fallacy: Statistical Illogic and the Crisis of Modern Science",
+      "url": "https://www.goodreads.com/book/show/55825328-bernoulli-s-fallacy",
+      "id": "87040527",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1622419217i/55825328.jpg",
+      "authors": [
+        "Aubrey Clayton"
+      ],
+      "genres": [
+        "science",
+        "non-fiction",
+        "mathematics",
+        "philosophy",
+        "history",
+        "audiobook",
+        "popular-science"
+      ],
+      "rating": 4.26,
+      "ratings": 521,
+      "reviews": 75
     },
     {
       "title": "Count on Me",
@@ -314,27 +434,6 @@
       "reviews": 17
     },
     {
-      "title": "Bernoulli's Fallacy: Statistical Illogic and the Crisis of Modern Science",
-      "url": "https://www.goodreads.com/book/show/55825328-bernoulli-s-fallacy",
-      "id": "87040527",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1622419217i/55825328.jpg",
-      "authors": [
-        "Aubrey Clayton"
-      ],
-      "genres": [
-        "science",
-        "non-fiction",
-        "mathematics",
-        "philosophy",
-        "history",
-        "audiobook",
-        "popular-science"
-      ],
-      "rating": 4.25,
-      "ratings": 519,
-      "reviews": 75
-    },
-    {
       "title": "The Biggest Ideas in the Universe: Quanta and Fields",
       "url": "https://www.goodreads.com/book/show/196848522-the-biggest-ideas-in-the-universe",
       "id": "199190044",
@@ -352,7 +451,7 @@
         "popular-science"
       ],
       "rating": 4.13,
-      "ratings": 513,
+      "ratings": 515,
       "reviews": 80
     },
     {

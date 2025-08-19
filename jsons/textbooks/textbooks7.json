@@ -1,6 +1,111 @@
 {
   "books": [
     {
+      "title": "Chemistry",
+      "url": "https://www.goodreads.com/book/show/387499.Chemistry",
+      "id": "377132",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388521812i/387499.jpg",
+      "authors": [
+        "Raymond Chang"
+      ],
+      "genres": [
+        "chemistry",
+        "science",
+        "textbooks",
+        "reference",
+        "non-fiction",
+        "school",
+        "academic"
+      ],
+      "rating": 4.01,
+      "ratings": 674,
+      "reviews": 38
+    },
+    {
+      "title": "Theories of Personality",
+      "url": "https://www.goodreads.com/book/show/2512141.Theories_of_Personality",
+      "id": "1106020",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1266885521i/2512141.jpg",
+      "authors": [
+        "Jess Feist"
+      ],
+      "genres": [
+        "psychology",
+        "non-fiction",
+        "textbooks",
+        "school",
+        "philosophy",
+        "counselling",
+        "unfinished"
+      ],
+      "rating": 4.03,
+      "ratings": 666,
+      "reviews": 51
+    },
+    {
+      "title": "Brock Biology of Microorganisms",
+      "url": "https://www.goodreads.com/book/show/929091.Brock_Biology_of_Microorganisms",
+      "id": "914073",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1387746764i/929091.jpg",
+      "authors": [
+        "Michael T. Madigan"
+      ],
+      "genres": [
+        "science",
+        "biology",
+        "textbooks",
+        "non-fiction",
+        "reference",
+        "academic",
+        "classics"
+      ],
+      "rating": 4.13,
+      "ratings": 665,
+      "reviews": 30
+    },
+    {
+      "title": "Applied Behavior Analysis",
+      "url": "https://www.goodreads.com/book/show/197934.Applied_Behavior_Analysis",
+      "id": "191463",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347481911i/197934.jpg",
+      "authors": [
+        "John O. Cooper"
+      ],
+      "genres": [
+        "psychology",
+        "textbooks",
+        "non-fiction",
+        "school",
+        "autistic-spectrum-disorder",
+        "education",
+        "teaching"
+      ],
+      "rating": 4.45,
+      "ratings": 660,
+      "reviews": 34
+    },
+    {
+      "title": "The Church",
+      "url": "https://www.goodreads.com/book/show/259103.The_Church",
+      "id": "251133",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388463085i/259103.jpg",
+      "authors": [
+        "Edmund P. Clowney"
+      ],
+      "genres": [
+        "theology",
+        "ecclesiology",
+        "church",
+        "christian",
+        "christianity",
+        "religion",
+        "textbooks"
+      ],
+      "rating": 4.02,
+      "ratings": 656,
+      "reviews": 50
+    },
+    {
       "title": "Theory of Machines",
       "url": "https://www.goodreads.com/book/show/9691678-theory-of-machines",
       "id": "4479592",
@@ -60,24 +165,25 @@
       "reviews": 46
     },
     {
-      "title": "The ECG Made Easy",
-      "url": "https://www.goodreads.com/book/show/1219715.The_ECG_Made_Easy",
-      "id": "1208192",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1181987628i/1219715.jpg",
+      "title": "Algorithm Design",
+      "url": "https://www.goodreads.com/book/show/145055.Algorithm_Design",
+      "id": "139960",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348335904i/145055.jpg",
       "authors": [
-        "John R. Hampton"
+        "Jon Kleinberg"
       ],
       "genres": [
-        "medicine",
-        "medical",
-        "non-fiction",
+        "computer-science",
+        "algorithms",
+        "programming",
+        "technology",
+        "technical",
         "textbooks",
-        "science",
-        "reference"
+        "non-fiction"
       ],
-      "rating": 4.2,
-      "ratings": 647,
-      "reviews": 60
+      "rating": 4.17,
+      "ratings": 648,
+      "reviews": 26
     },
     {
       "title": "Introduction to Elementary Particles",
@@ -122,25 +228,24 @@
       "reviews": 20
     },
     {
-      "title": "Algorithm Design",
-      "url": "https://www.goodreads.com/book/show/145055.Algorithm_Design",
-      "id": "139960",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348335904i/145055.jpg",
+      "title": "The ECG Made Easy",
+      "url": "https://www.goodreads.com/book/show/1219715.The_ECG_Made_Easy",
+      "id": "1208192",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1181987628i/1219715.jpg",
       "authors": [
-        "Jon Kleinberg"
+        "John R. Hampton"
       ],
       "genres": [
-        "computer-science",
-        "algorithms",
-        "programming",
-        "technology",
-        "technical",
+        "medicine",
+        "medical",
+        "non-fiction",
         "textbooks",
-        "non-fiction"
+        "science",
+        "reference"
       ],
-      "rating": 4.17,
+      "rating": 4.2,
       "ratings": 647,
-      "reviews": 26
+      "reviews": 60
     },
     {
       "title": "Engineering Mechanics: Dynamics",
@@ -185,26 +290,6 @@
       "reviews": 16
     },
     {
-      "title": "Talk To Me In Korean - Level 1",
-      "url": "https://www.goodreads.com/book/show/16095917-talk-to-me-in-korean---level-1",
-      "id": "21903589",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1364340428i/16095917.jpg",
-      "authors": [
-        "TalkToMeInKorean"
-      ],
-      "genres": [
-        "non-fiction",
-        "language",
-        "textbooks",
-        "reference",
-        "education",
-        "audiobook"
-      ],
-      "rating": 4.55,
-      "ratings": 638,
-      "reviews": 65
-    },
-    {
       "title": "The LSAT Trainer: A Remarkable Self-Study Guide For The Self-Driven Student",
       "url": "https://www.goodreads.com/book/show/34854973-the-lsat-trainer",
       "id": "56094857",
@@ -222,8 +307,28 @@
         "textbooks"
       ],
       "rating": 4.31,
-      "ratings": 637,
+      "ratings": 639,
       "reviews": 85
+    },
+    {
+      "title": "Talk To Me In Korean - Level 1",
+      "url": "https://www.goodreads.com/book/show/16095917-talk-to-me-in-korean---level-1",
+      "id": "21903589",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1364340428i/16095917.jpg",
+      "authors": [
+        "TalkToMeInKorean"
+      ],
+      "genres": [
+        "non-fiction",
+        "language",
+        "textbooks",
+        "reference",
+        "education",
+        "audiobook"
+      ],
+      "rating": 4.56,
+      "ratings": 637,
+      "reviews": 65
     },
     {
       "title": "Ross and Wilson Anatomy and Physiology in Health and Illness",
@@ -284,8 +389,8 @@
         "school",
         "textbooks"
       ],
-      "rating": 4.12,
-      "ratings": 630,
+      "rating": 4.11,
+      "ratings": 629,
       "reviews": 42
     },
     {
@@ -307,7 +412,7 @@
       ],
       "rating": 4.3,
       "ratings": 627,
-      "reviews": 58
+      "reviews": 59
     },
     {
       "title": "Davidson's Principles and Practice of Medicine [with Student Consult Online Access]",
@@ -347,7 +452,7 @@
         "education"
       ],
       "rating": 4.49,
-      "ratings": 618,
+      "ratings": 619,
       "reviews": 64
     },
     {
@@ -391,111 +496,6 @@
       "rating": 4.23,
       "ratings": 612,
       "reviews": 51
-    },
-    {
-      "title": "Physics for Scientists and Engineers",
-      "url": "https://www.goodreads.com/book/show/789047.Physics_for_Scientists_and_Engineers",
-      "id": "13002878",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1387712101i/789047.jpg",
-      "authors": [
-        "Raymond A. Serway"
-      ],
-      "genres": [
-        "physics",
-        "science",
-        "textbooks",
-        "non-fiction",
-        "engineering",
-        "reference",
-        "academic"
-      ],
-      "rating": 4.04,
-      "ratings": 611,
-      "reviews": 40
-    },
-    {
-      "title": "Stretching Anatomy",
-      "url": "https://www.goodreads.com/book/show/17741147-stretching-anatomy",
-      "id": "24824357",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1403169388i/17741147.jpg",
-      "authors": [
-        "Arnold G. Nelson"
-      ],
-      "genres": [
-        "health",
-        "fitness",
-        "non-fiction",
-        "reference",
-        "sports",
-        "textbooks",
-        "science"
-      ],
-      "rating": 4.02,
-      "ratings": 608,
-      "reviews": 45
-    },
-    {
-      "title": "Neuroscience",
-      "url": "https://www.goodreads.com/book/show/1353566.Neuroscience",
-      "id": "1343265",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348614837i/1353566.jpg",
-      "authors": [
-        "Dale Purves"
-      ],
-      "genres": [
-        "neuroscience",
-        "science",
-        "textbooks",
-        "psychology",
-        "non-fiction",
-        "reference",
-        "medicine"
-      ],
-      "rating": 4.14,
-      "ratings": 605,
-      "reviews": 22
-    },
-    {
-      "title": "Thermodynamics",
-      "url": "https://www.goodreads.com/book/show/183425.Thermodynamics",
-      "id": "177265",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388209650i/183425.jpg",
-      "authors": [
-        "Enrico Fermi"
-      ],
-      "genres": [
-        "physics",
-        "science",
-        "textbooks",
-        "non-fiction",
-        "chemistry",
-        "engineering",
-        "reference"
-      ],
-      "rating": 4.27,
-      "ratings": 603,
-      "reviews": 24
-    },
-    {
-      "title": "Introduction to Graph Theory",
-      "url": "https://www.goodreads.com/book/show/388049.Introduction_to_Graph_Theory",
-      "id": "377673",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1403739699i/388049.jpg",
-      "authors": [
-        "Richard J. Trudeau"
-      ],
-      "genres": [
-        "mathematics",
-        "science",
-        "non-fiction",
-        "textbooks",
-        "technology",
-        "computer-science",
-        "programming"
-      ],
-      "rating": 4.09,
-      "ratings": 603,
-      "reviews": 50
     }
   ]
 }

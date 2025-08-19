@@ -1,6 +1,48 @@
 {
   "books": [
     {
+      "title": "Someplace to Be Flying",
+      "url": "https://www.goodreads.com/book/show/186427.Someplace_to_Be_Flying",
+      "id": "14299487",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1316636933i/186427.jpg",
+      "authors": [
+        "Charles de Lint"
+      ],
+      "genres": [
+        "fantasy",
+        "urban-fantasy",
+        "fiction",
+        "magical-realism",
+        "science-fiction-fantasy",
+        "canada",
+        "magic"
+      ],
+      "rating": 4.32,
+      "ratings": 5842,
+      "reviews": 290
+    },
+    {
+      "title": "A Forest of Stars",
+      "url": "https://www.goodreads.com/book/show/60915527-a-forest-of-stars",
+      "id": "96083460",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1651442735i/60915527.jpg",
+      "authors": [
+        "Linsey Hall"
+      ],
+      "genres": [
+        "fantasy",
+        "fae",
+        "romance",
+        "fantasy-romance",
+        "paranormal",
+        "romantasy",
+        "magic"
+      ],
+      "rating": 4.07,
+      "ratings": 5839,
+      "reviews": 355
+    },
+    {
       "title": "When Sorrows Come",
       "url": "https://www.goodreads.com/book/show/45434015-when-sorrows-come",
       "id": "70185775",
@@ -18,7 +60,7 @@
         "magic"
       ],
       "rating": 4.42,
-      "ratings": 5834,
+      "ratings": 5838,
       "reviews": 503
     },
     {
@@ -39,7 +81,7 @@
         "demons"
       ],
       "rating": 4.14,
-      "ratings": 5832,
+      "ratings": 5836,
       "reviews": 269
     },
     {
@@ -55,34 +97,13 @@
         "urban-fantasy",
         "science-fiction",
         "romance",
-        "magic",
         "fiction",
+        "magic",
         "fae"
       ],
       "rating": 4.08,
       "ratings": 5827,
-      "reviews": 443
-    },
-    {
-      "title": "Bewitching",
-      "url": "https://www.goodreads.com/book/show/520536.Bewitching",
-      "id": "508441",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1635623104i/520536.jpg",
-      "authors": [
-        "Jill Barnett"
-      ],
-      "genres": [
-        "historical-romance",
-        "romance",
-        "historical",
-        "fantasy",
-        "paranormal",
-        "paranormal-romance",
-        "magic"
-      ],
-      "rating": 4.08,
-      "ratings": 5813,
-      "reviews": 578
+      "reviews": 442
     },
     {
       "title": "Village of Noobtown",
@@ -102,29 +123,8 @@
         "magic"
       ],
       "rating": 4.27,
-      "ratings": 5811,
+      "ratings": 5821,
       "reviews": 246
-    },
-    {
-      "title": "Witch Me Luck",
-      "url": "https://www.goodreads.com/book/show/25470958-witch-me-luck",
-      "id": "45240554",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1433451494i/25470958.jpg",
-      "authors": [
-        "Amanda M. Lee"
-      ],
-      "genres": [
-        "paranormal",
-        "mystery",
-        "cozy-mystery",
-        "witches",
-        "magic",
-        "romance",
-        "fantasy"
-      ],
-      "rating": 4.43,
-      "ratings": 5808,
-      "reviews": 233
     },
     {
       "title": "Cursed of Moon",
@@ -144,8 +144,113 @@
         "magic"
       ],
       "rating": 4.23,
-      "ratings": 5794,
-      "reviews": 190
+      "ratings": 5820,
+      "reviews": 192
+    },
+    {
+      "title": "He Who Fights with Monsters: Book Twelve",
+      "url": "https://www.goodreads.com/book/show/228243501-he-who-fights-with-monsters",
+      "id": "237497159",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1740156144i/228243501.jpg",
+      "authors": [
+        "Shirtaloon"
+      ],
+      "genres": [
+        "fantasy",
+        "audiobook",
+        "fiction",
+        "magic",
+        "adventure",
+        "science-fiction",
+        "urban-fantasy"
+      ],
+      "rating": 4.58,
+      "ratings": 5819,
+      "reviews": 266
+    },
+    {
+      "title": "Bewitching",
+      "url": "https://www.goodreads.com/book/show/520536.Bewitching",
+      "id": "508441",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1635623104i/520536.jpg",
+      "authors": [
+        "Jill Barnett"
+      ],
+      "genres": [
+        "historical-romance",
+        "romance",
+        "historical",
+        "fantasy",
+        "paranormal",
+        "paranormal-romance",
+        "magic"
+      ],
+      "rating": 4.08,
+      "ratings": 5814,
+      "reviews": 578
+    },
+    {
+      "title": "Witch Me Luck",
+      "url": "https://www.goodreads.com/book/show/25470958-witch-me-luck",
+      "id": "45240554",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1433451494i/25470958.jpg",
+      "authors": [
+        "Amanda M. Lee"
+      ],
+      "genres": [
+        "paranormal",
+        "mystery",
+        "cozy-mystery",
+        "witches",
+        "magic",
+        "romance",
+        "fantasy"
+      ],
+      "rating": 4.43,
+      "ratings": 5813,
+      "reviews": 233
+    },
+    {
+      "title": "The Width of the World",
+      "url": "https://www.goodreads.com/book/show/31213721-the-width-of-the-world",
+      "id": "51868240",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1483880281i/31213721.jpg",
+      "authors": [
+        "David Baldacci"
+      ],
+      "genres": [
+        "fantasy",
+        "young-adult",
+        "fiction",
+        "audiobook",
+        "dystopia",
+        "magic",
+        "adventure"
+      ],
+      "rating": 4.08,
+      "ratings": 5799,
+      "reviews": 309
+    },
+    {
+      "title": "Savannah",
+      "url": "https://www.goodreads.com/book/show/111171153-savannah",
+      "id": "133892722",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1676164000i/111171153.jpg",
+      "authors": [
+        "SunriseCV"
+      ],
+      "genres": [
+        "fantasy",
+        "audiobook",
+        "fiction",
+        "magic",
+        "role-playing-games",
+        "science-fiction",
+        "science-fiction-fantasy"
+      ],
+      "rating": 4.49,
+      "ratings": 5797,
+      "reviews": 162
     },
     {
       "title": "Camber the Heretic",
@@ -169,90 +274,6 @@
       "reviews": 55
     },
     {
-      "title": "The Width of the World",
-      "url": "https://www.goodreads.com/book/show/31213721-the-width-of-the-world",
-      "id": "51868240",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1483880281i/31213721.jpg",
-      "authors": [
-        "David Baldacci"
-      ],
-      "genres": [
-        "fantasy",
-        "young-adult",
-        "fiction",
-        "audiobook",
-        "dystopia",
-        "magic",
-        "adventure"
-      ],
-      "rating": 4.08,
-      "ratings": 5792,
-      "reviews": 309
-    },
-    {
-      "title": "Savannah",
-      "url": "https://www.goodreads.com/book/show/111171153-savannah",
-      "id": "133892722",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1676164000i/111171153.jpg",
-      "authors": [
-        "SunriseCV"
-      ],
-      "genres": [
-        "fantasy",
-        "audiobook",
-        "fiction",
-        "magic",
-        "role-playing-games",
-        "science-fiction",
-        "science-fiction-fantasy"
-      ],
-      "rating": 4.49,
-      "ratings": 5781,
-      "reviews": 161
-    },
-    {
-      "title": "A Dragon of a Different Color",
-      "url": "https://www.goodreads.com/book/show/31364790-a-dragon-of-a-different-color",
-      "id": "52050382",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1507463868i/31364790.jpg",
-      "authors": [
-        "Rachel Aaron"
-      ],
-      "genres": [
-        "fantasy",
-        "urban-fantasy",
-        "dragons",
-        "audiobook",
-        "magic",
-        "paranormal",
-        "romance"
-      ],
-      "rating": 4.24,
-      "ratings": 5780,
-      "reviews": 447
-    },
-    {
-      "title": "Voice of Command",
-      "url": "https://www.goodreads.com/book/show/43262062-voice-of-command",
-      "id": "67140190",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1545139247i/43262062.jpg",
-      "authors": [
-        "Melanie Cellier"
-      ],
-      "genres": [
-        "fantasy",
-        "young-adult",
-        "magic",
-        "romance",
-        "audiobook",
-        "young-adult-fantasy",
-        "fantasy-romance"
-      ],
-      "rating": 4.28,
-      "ratings": 5778,
-      "reviews": 293
-    },
-    {
       "title": "Nova Terra: Titan",
       "url": "https://www.goodreads.com/book/show/43097346-nova-terra",
       "id": "66909053",
@@ -270,50 +291,8 @@
         "virtual-reality"
       ],
       "rating": 4.39,
-      "ratings": 5776,
+      "ratings": 5785,
       "reviews": 258
-    },
-    {
-      "title": "Forced Ascent",
-      "url": "https://www.goodreads.com/book/show/18718842-forced-ascent",
-      "id": "26584435",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1411526441i/18718842.jpg",
-      "authors": [
-        "John Conroe"
-      ],
-      "genres": [
-        "urban-fantasy",
-        "fantasy",
-        "paranormal",
-        "vampires",
-        "supernatural",
-        "audiobook",
-        "magic"
-      ],
-      "rating": 4.36,
-      "ratings": 5776,
-      "reviews": 128
-    },
-    {
-      "title": "How to Live an Undead Lie",
-      "url": "https://www.goodreads.com/book/show/42265797-how-to-live-an-undead-lie",
-      "id": "65882895",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1541936756i/42265797.jpg",
-      "authors": [
-        "Hailey Edwards"
-      ],
-      "genres": [
-        "urban-fantasy",
-        "fantasy",
-        "vampires",
-        "paranormal",
-        "romance",
-        "magic",
-        "paranormal-romance"
-      ],
-      "rating": 4.45,
-      "ratings": 5776,
-      "reviews": 340
     },
     {
       "title": "Vengeful Demon King",
@@ -333,8 +312,134 @@
         "magic"
       ],
       "rating": 4.08,
-      "ratings": 5774,
-      "reviews": 322
+      "ratings": 5785,
+      "reviews": 323
+    },
+    {
+      "title": "A Dragon of a Different Color",
+      "url": "https://www.goodreads.com/book/show/31364790-a-dragon-of-a-different-color",
+      "id": "52050382",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1507463868i/31364790.jpg",
+      "authors": [
+        "Rachel Aaron"
+      ],
+      "genres": [
+        "fantasy",
+        "urban-fantasy",
+        "dragons",
+        "audiobook",
+        "magic",
+        "paranormal",
+        "romance"
+      ],
+      "rating": 4.24,
+      "ratings": 5783,
+      "reviews": 447
+    },
+    {
+      "title": "Deceit",
+      "url": "https://www.goodreads.com/book/show/49099311-deceit",
+      "id": "45485617",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575526432i/49099311.jpg",
+      "authors": [
+        "M.J. Haag"
+      ],
+      "genres": [
+        "fantasy",
+        "romance",
+        "retellings",
+        "beauty-and-the-beast",
+        "paranormal",
+        "fairy-tales",
+        "magic"
+      ],
+      "rating": 4.11,
+      "ratings": 5782,
+      "reviews": 365
+    },
+    {
+      "title": "Voice of Command",
+      "url": "https://www.goodreads.com/book/show/43262062-voice-of-command",
+      "id": "67140190",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1545139247i/43262062.jpg",
+      "authors": [
+        "Melanie Cellier"
+      ],
+      "genres": [
+        "fantasy",
+        "young-adult",
+        "magic",
+        "romance",
+        "audiobook",
+        "young-adult-fantasy",
+        "fantasy-romance"
+      ],
+      "rating": 4.28,
+      "ratings": 5781,
+      "reviews": 293
+    },
+    {
+      "title": "How to Live an Undead Lie",
+      "url": "https://www.goodreads.com/book/show/42265797-how-to-live-an-undead-lie",
+      "id": "65882895",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1541936756i/42265797.jpg",
+      "authors": [
+        "Hailey Edwards"
+      ],
+      "genres": [
+        "urban-fantasy",
+        "fantasy",
+        "vampires",
+        "paranormal",
+        "romance",
+        "magic",
+        "paranormal-romance"
+      ],
+      "rating": 4.46,
+      "ratings": 5778,
+      "reviews": 340
+    },
+    {
+      "title": "Forced Ascent",
+      "url": "https://www.goodreads.com/book/show/18718842-forced-ascent",
+      "id": "26584435",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1411526441i/18718842.jpg",
+      "authors": [
+        "John Conroe"
+      ],
+      "genres": [
+        "urban-fantasy",
+        "fantasy",
+        "paranormal",
+        "vampires",
+        "supernatural",
+        "audiobook",
+        "magic"
+      ],
+      "rating": 4.36,
+      "ratings": 5777,
+      "reviews": 128
+    },
+    {
+      "title": "The Malevolent Seven",
+      "url": "https://www.goodreads.com/book/show/61124074-the-malevolent-seven",
+      "id": "96343190",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1677558341i/61124074.jpg",
+      "authors": [
+        "Sebastien de Castell"
+      ],
+      "genres": [
+        "fantasy",
+        "fiction",
+        "audiobook",
+        "magic",
+        "high-fantasy",
+        "adult",
+        "adventure"
+      ],
+      "rating": 4.01,
+      "ratings": 5773,
+      "reviews": 778
     },
     {
       "title": "Jameson",
@@ -354,7 +459,7 @@
         "magic"
       ],
       "rating": 4.2,
-      "ratings": 5763,
+      "ratings": 5766,
       "reviews": 229
     },
     {
@@ -375,7 +480,7 @@
         "young-adult"
       ],
       "rating": 4.35,
-      "ratings": 5758,
+      "ratings": 5762,
       "reviews": 348
     },
     {
@@ -398,111 +503,6 @@
       "rating": 4.59,
       "ratings": 5758,
       "reviews": 303
-    },
-    {
-      "title": "The Malevolent Seven",
-      "url": "https://www.goodreads.com/book/show/61124074-the-malevolent-seven",
-      "id": "96343190",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1677558341i/61124074.jpg",
-      "authors": [
-        "Sebastien de Castell"
-      ],
-      "genres": [
-        "fantasy",
-        "fiction",
-        "audiobook",
-        "magic",
-        "high-fantasy",
-        "adult",
-        "adventure"
-      ],
-      "rating": 4.01,
-      "ratings": 5757,
-      "reviews": 775
-    },
-    {
-      "title": "Magic on the Hunt",
-      "url": "https://www.goodreads.com/book/show/8496907-magic-on-the-hunt",
-      "id": "13362631",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348075354i/8496907.jpg",
-      "authors": [
-        "Devon Monk"
-      ],
-      "genres": [
-        "urban-fantasy",
-        "fantasy",
-        "magic",
-        "paranormal",
-        "romance",
-        "fiction",
-        "audiobook"
-      ],
-      "rating": 4.1,
-      "ratings": 5747,
-      "reviews": 167
-    },
-    {
-      "title": "He Who Fights with Monsters: Book Twelve",
-      "url": "https://www.goodreads.com/book/show/228243501-he-who-fights-with-monsters",
-      "id": "237497159",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1740156144i/228243501.jpg",
-      "authors": [
-        "Shirtaloon"
-      ],
-      "genres": [
-        "fantasy",
-        "audiobook",
-        "fiction",
-        "magic",
-        "adventure",
-        "science-fiction",
-        "urban-fantasy"
-      ],
-      "rating": 4.58,
-      "ratings": 5744,
-      "reviews": 264
-    },
-    {
-      "title": "Transcendence",
-      "url": "https://www.goodreads.com/book/show/46131068-transcendence",
-      "id": "71064420",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1559485973i/46131068.jpg",
-      "authors": [
-        "TurtleMe"
-      ],
-      "genres": [
-        "fantasy",
-        "light-novel",
-        "fiction",
-        "adventure",
-        "manga",
-        "magic",
-        "audiobook"
-      ],
-      "rating": 4.44,
-      "ratings": 5743,
-      "reviews": 139
-    },
-    {
-      "title": "Heart of Malice",
-      "url": "https://www.goodreads.com/book/show/34859192-heart-of-malice",
-      "id": "56100475",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1492212604i/34859192.jpg",
-      "authors": [
-        "Lisa Edmonds"
-      ],
-      "genres": [
-        "urban-fantasy",
-        "paranormal",
-        "fantasy",
-        "vampires",
-        "magic",
-        "romance",
-        "shapeshifters"
-      ],
-      "rating": 4.15,
-      "ratings": 5742,
-      "reviews": 566
     }
   ]
 }

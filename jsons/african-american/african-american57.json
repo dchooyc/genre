@@ -1,117 +1,401 @@
 {
   "books": [
     {
-      "title": "The People Remember",
-      "url": "https://www.goodreads.com/book/show/53343404-the-people-remember",
-      "id": "82049097",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1632233082i/53343404.jpg",
+      "title": "Legacy: Women Poets of the Harlem Renaissance",
+      "url": "https://www.goodreads.com/book/show/53138262-legacy",
+      "id": "79888791",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1591024227i/53138262.jpg",
       "authors": [
-        "Ibi Zoboi"
+        "Nikki Grimes"
+      ],
+      "genres": [
+        "poetry",
+        "middle-grade",
+        "non-fiction",
+        "history",
+        "childrens",
+        "african-american",
+        "picture-books"
+      ],
+      "rating": 4.48,
+      "ratings": 656,
+      "reviews": 211
+    },
+    {
+      "title": "American Journal: Fifty Poems for Our Time",
+      "url": "https://www.goodreads.com/book/show/39663106-american-journal",
+      "id": "61237303",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1579978189i/39663106.jpg",
+      "authors": [
+        "Tracy K. Smith"
+      ],
+      "genres": [
+        "poetry",
+        "anthologies",
+        "non-fiction",
+        "teaching",
+        "african-american",
+        "contemporary",
+        "read-for-school"
+      ],
+      "rating": 4.13,
+      "ratings": 655,
+      "reviews": 102
+    },
+    {
+      "title": "The Sweet Spot: A Maple Hills Novel",
+      "url": "https://www.goodreads.com/book/show/54861180-the-sweet-spot",
+      "id": "85600740",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1596974664i/54861180.jpg",
+      "authors": [
+        "Tay Mo'Nae"
+      ],
+      "genres": [
+        "romance",
+        "audiobook",
+        "friends-to-lovers",
+        "african-american",
+        "fiction",
+        "novella",
+        "contemporary-romance"
+      ],
+      "rating": 4.13,
+      "ratings": 655,
+      "reviews": 101
+    },
+    {
+      "title": "The Naked Soul of Iceberg Slim",
+      "url": "https://www.goodreads.com/book/show/801667.The_Naked_Soul_of_Iceberg_Slim",
+      "id": "803660",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328077304i/801667.jpg",
+      "authors": [
+        "Iceberg Slim"
+      ],
+      "genres": [
+        "non-fiction",
+        "biography",
+        "memoir",
+        "essays",
+        "african-american",
+        "short-stories",
+        "crime"
+      ],
+      "rating": 4.15,
+      "ratings": 653,
+      "reviews": 29
+    },
+    {
+      "title": "Southern Horrors: Lynch Law in All Its Phases",
+      "url": "https://www.goodreads.com/book/show/6970597-southern-horrors",
+      "id": "7210033",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348445167i/6970597.jpg",
+      "authors": [
+        "Ida B. Wells-Barnett"
+      ],
+      "genres": [
+        "history",
+        "non-fiction",
+        "race",
+        "politics",
+        "classics",
+        "true-crime",
+        "african-american"
+      ],
+      "rating": 4.28,
+      "ratings": 652,
+      "reviews": 88
+    },
+    {
+      "title": "The Circle: Fallon's Story",
+      "url": "https://www.goodreads.com/book/show/20559158-the-circle",
+      "id": "38985303",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1389872622i/20559158.jpg",
+      "authors": [
+        "Danielle Santiago"
+      ],
+      "genres": [
+        "audiobook",
+        "urban",
+        "african-american"
+      ],
+      "rating": 4.46,
+      "ratings": 652,
+      "reviews": 70
+    },
+    {
+      "title": "You Make Me Better",
+      "url": "https://www.goodreads.com/book/show/27824237-you-make-me-better",
+      "id": "47019503",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1447439888i/27824237.jpg",
+      "authors": [
+        "AshleyNicole"
+      ],
+      "genres": [
+        "romance",
+        "african-american",
+        "african-american-romance",
+        "contemporary-romance"
+      ],
+      "rating": 4.49,
+      "ratings": 647,
+      "reviews": 96
+    },
+    {
+      "title": "Crime Partners",
+      "url": "https://www.goodreads.com/book/show/38056.Crime_Partners",
+      "id": "37848",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1169057596i/38056.jpg",
+      "authors": [
+        "Al C. Clark"
+      ],
+      "genres": [
+        "crime",
+        "fiction",
+        "mystery",
+        "urban",
+        "african-american",
+        "thriller"
+      ],
+      "rating": 4.18,
+      "ratings": 647,
+      "reviews": 33
+    },
+    {
+      "title": "Plum Fantastic",
+      "url": "https://www.goodreads.com/book/show/2761560-plum-fantastic",
+      "id": "2787269",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1426015447i/2761560.jpg",
+      "authors": [
+        "Whoopi Goldberg"
+      ],
+      "genres": [
+        "chapter-books",
+        "childrens",
+        "middle-grade",
+        "cultural",
+        "realistic-fiction",
+        "african-american",
+        "fiction"
+      ],
+      "rating": 4.14,
+      "ratings": 647,
+      "reviews": 87
+    },
+    {
+      "title": "Sweetness",
+      "url": "https://www.goodreads.com/book/show/24806971-sweetness",
+      "id": "44445840",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1422904732i/24806971.jpg",
+      "authors": [
+        "Toni Morrison"
+      ],
+      "genres": [
+        "short-stories",
+        "fiction",
+        "contemporary",
+        "race",
+        "african-american",
+        "book-club",
+        "adult"
+      ],
+      "rating": 4.15,
+      "ratings": 646,
+      "reviews": 102
+    },
+    {
+      "title": "Friends & Foes",
+      "url": "https://www.goodreads.com/book/show/13547509-friends-foes",
+      "id": "19112649",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1358832362i/13547509.jpg",
+      "authors": [
+        "ReShonda Tate Billingsley"
+      ],
+      "genres": [
+        "audiobook",
+        "christian-fiction",
+        "fiction",
+        "african-american"
+      ],
+      "rating": 4.37,
+      "ratings": 646,
+      "reviews": 70
+    },
+    {
+      "title": "Rise!: From Caged Bird to Poet of the People, Maya Angelou",
+      "url": "https://www.goodreads.com/book/show/42171985-rise",
+      "id": "65761910",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1559935875i/42171985.jpg",
+      "authors": [
+        "Bethany Hegedus"
       ],
       "genres": [
         "picture-books",
+        "biography",
         "poetry",
         "non-fiction",
         "history",
         "childrens",
-        "holiday",
         "african-american"
       ],
-      "rating": 4.53,
-      "ratings": 629,
-      "reviews": 125
+      "rating": 4.38,
+      "ratings": 645,
+      "reviews": 168
     },
     {
-      "title": "FAIZE",
-      "url": "https://www.goodreads.com/book/show/223316248-faize",
-      "id": "230377937",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1736184518i/223316248.jpg",
+      "title": "Mother Love",
+      "url": "https://www.goodreads.com/book/show/150319.Mother_Love",
+      "id": "145085",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348195461i/150319.jpg",
       "authors": [
-        "Jaimsss P."
+        "Rita Dove"
+      ],
+      "genres": [
+        "poetry",
+        "read-for-school",
+        "mythology",
+        "african-american",
+        "feminism",
+        "fiction",
+        "academic"
+      ],
+      "rating": 4.02,
+      "ratings": 644,
+      "reviews": 71
+    },
+    {
+      "title": "Without Sanctuary: Lynching Photography in America",
+      "url": "https://www.goodreads.com/book/show/135012.Without_Sanctuary",
+      "id": "130098",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328767936i/135012.jpg",
+      "authors": [
+        "James       Allen"
+      ],
+      "genres": [
+        "history",
+        "photography",
+        "non-fiction",
+        "african-american",
+        "race",
+        "american-history",
+        "sociology"
+      ],
+      "rating": 4.65,
+      "ratings": 643,
+      "reviews": 79
+    },
+    {
+      "title": "God's Trombones: Seven Negro Sermons in Verse",
+      "url": "https://www.goodreads.com/book/show/52479.God_s_Trombones",
+      "id": "2537712",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1375927667i/52479.jpg",
+      "authors": [
+        "James Weldon Johnson"
+      ],
+      "genres": [
+        "poetry",
+        "classics",
+        "religion",
+        "non-fiction",
+        "christian",
+        "christianity",
+        "african-american"
+      ],
+      "rating": 4.26,
+      "ratings": 642,
+      "reviews": 95
+    },
+    {
+      "title": "Vibration",
+      "url": "https://www.goodreads.com/book/show/62214102-vibration",
+      "id": "98012971",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1662050816i/62214102.jpg",
+      "authors": [
+        "K.C. Mills"
+      ],
+      "genres": [
+        "african-american",
+        "romance"
+      ],
+      "rating": 4.59,
+      "ratings": 640,
+      "reviews": 52
+    },
+    {
+      "title": "The Last Stand",
+      "url": "https://www.goodreads.com/book/show/57933665-the-last-stand",
+      "id": "90770941",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1692816262i/57933665.jpg",
+      "authors": [
+        "Antwan Eady"
+      ],
+      "genres": [
+        "picture-books",
+        "family",
+        "food",
+        "childrens",
+        "african-american",
+        "realistic-fiction",
+        "fiction"
+      ],
+      "rating": 4.39,
+      "ratings": 640,
+      "reviews": 123
+    },
+    {
+      "title": "When It's Us",
+      "url": "https://www.goodreads.com/book/show/202402799-when-it-s-us",
+      "id": "207798776",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1700406981i/202402799.jpg",
+      "authors": [
+        "Charity Shane"
       ],
       "genres": [
         "african-american-romance",
-        "sports",
-        "african-american",
-        "sports-romance"
+        "audiobook",
+        "african-american"
       ],
-      "rating": 4.58,
-      "ratings": 627,
-      "reviews": 66
+      "rating": 4.55,
+      "ratings": 639,
+      "reviews": 77
     },
     {
-      "title": "Camilla's Roses",
-      "url": "https://www.goodreads.com/book/show/495368.Camilla_s_Roses",
-      "id": "483525",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1309206823i/495368.jpg",
+      "title": "Waiting 'Til the Midnight Hour: A Narrative History of Black Power in America",
+      "url": "https://www.goodreads.com/book/show/177400.Waiting_Til_the_Midnight_Hour",
+      "id": "171374",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1312056379i/177400.jpg",
       "authors": [
-        "Bernice L. McFadden"
+        "Peniel E. Joseph"
+      ],
+      "genres": [
+        "history",
+        "non-fiction",
+        "race",
+        "anti-racist",
+        "politics",
+        "african-american",
+        "social-justice"
+      ],
+      "rating": 4.03,
+      "ratings": 636,
+      "reviews": 72
+    },
+    {
+      "title": "A Family Affair",
+      "url": "https://www.goodreads.com/book/show/16058163-a-family-affair",
+      "id": "21844414",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1377368982i/16058163.jpg",
+      "authors": [
+        "ReShonda Tate Billingsley"
       ],
       "genres": [
         "fiction",
         "audiobook",
+        "christian-fiction",
         "african-american"
       ],
-      "rating": 4.07,
-      "ratings": 627,
-      "reviews": 75
-    },
-    {
-      "title": "One Drop: Shifting the Lens on Race",
-      "url": "https://www.goodreads.com/book/show/55272238-one-drop",
-      "id": "86191166",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1606706924i/55272238.jpg",
-      "authors": [
-        "Yaba Blay"
-      ],
-      "genres": [
-        "non-fiction",
-        "race",
-        "social-justice",
-        "anti-racist",
-        "sociology",
-        "african-american",
-        "history"
-      ],
-      "rating": 4.37,
-      "ratings": 625,
-      "reviews": 78
-    },
-    {
-      "title": "Lord, Please Save her For Me",
-      "url": "https://www.goodreads.com/book/show/218025279-lord-please-save-her-for-me",
-      "id": "224551233",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1724447339i/218025279.jpg",
-      "authors": [
-        "Tatiana Timmons"
-      ],
-      "genres": [
-        "african-american"
-      ],
-      "rating": 4.58,
-      "ratings": 624,
-      "reviews": 48
-    },
-    {
-      "title": "Who You Belong To",
-      "url": "https://www.goodreads.com/book/show/219448889-who-you-belong-to",
-      "id": "226381769",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1727027018i/219448889.jpg",
-      "authors": [
-        "M.L. Bash"
-      ],
-      "genres": [
-        "romance",
-        "why-choose",
-        "dark-romance",
-        "african-american",
-        "audiobook",
-        "polyamory",
-        "erotica"
-      ],
-      "rating": 4.46,
-      "ratings": 624,
-      "reviews": 75
+      "rating": 4.34,
+      "ratings": 636,
+      "reviews": 79
     },
     {
       "title": "Welcome Back To Parkside Cove",
@@ -125,336 +409,64 @@
         "african-american"
       ],
       "rating": 4.65,
-      "ratings": 624,
-      "reviews": 45
+      "ratings": 635,
+      "reviews": 47
     },
     {
-      "title": "Continuous",
-      "url": "https://www.goodreads.com/book/show/214308025-continuous",
-      "id": "220578569",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1717632266i/214308025.jpg",
+      "title": "I Am Ruby Bridges",
+      "url": "https://www.goodreads.com/book/show/59245865-i-am-ruby-bridges",
+      "id": "93405539",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1661568753i/59245865.jpg",
       "authors": [
-        "Kennedy B."
+        "Ruby Bridges"
       ],
       "genres": [
-        "sports-romance",
-        "sports",
-        "african-american"
-      ],
-      "rating": 4.56,
-      "ratings": 622,
-      "reviews": 54
-    },
-    {
-      "title": "Drama Queen",
-      "url": "https://www.goodreads.com/book/show/702303.Drama_Queen",
-      "id": "688597",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1177421511i/702303.jpg",
-      "authors": [
-        "La Jill Hunt"
-      ],
-      "genres": [
-        "audiobook",
-        "adult-fiction",
-        "romance",
-        "african-american"
-      ],
-      "rating": 4.25,
-      "ratings": 621,
-      "reviews": 53
-    },
-    {
-      "title": "That Is My Dream!",
-      "url": "https://www.goodreads.com/book/show/29420535-that-is-my-dream",
-      "id": "49680066",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1486398375i/29420535.jpg",
-      "authors": [
-        "Langston Hughes"
-      ],
-      "genres": [
-        "poetry",
         "picture-books",
-        "childrens",
-        "historical-fiction",
-        "social-justice",
-        "cultural",
-        "african-american"
+        "biography",
+        "history",
+        "non-fiction",
+        "african-american",
+        "memoir",
+        "childrens"
+      ],
+      "rating": 4.45,
+      "ratings": 635,
+      "reviews": 113
+    },
+    {
+      "title": "Gimme a Gangsta",
+      "url": "https://www.goodreads.com/book/show/220948254-gimme-a-gangsta",
+      "id": "227900596",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1730133386i/220948254.jpg",
+      "authors": [
+        "K.L. Hall"
+      ],
+      "genres": [
+        "african-american",
+        "second-chance"
       ],
       "rating": 4.46,
-      "ratings": 616,
-      "reviews": 164
+      "ratings": 634,
+      "reviews": 52
     },
     {
-      "title": "Beautiful, Dirty, Rich",
-      "url": "https://www.goodreads.com/book/show/13102263-beautiful-dirty-rich",
-      "id": "18274934",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1344317046i/13102263.jpg",
+      "title": "The Love Galore Mixtape",
+      "url": "https://www.goodreads.com/book/show/56300934-the-love-galore-mixtape",
+      "id": "87709807",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1608047868i/56300934.jpg",
       "authors": [
-        "J.D. Mason"
+        "Alexandria  House"
       ],
       "genres": [
-        "fiction",
         "audiobook",
-        "suspense",
-        "mystery-thriller",
-        "african-american",
-        "mystery",
-        "family"
-      ],
-      "rating": 4.11,
-      "ratings": 616,
-      "reviews": 104
-    },
-    {
-      "title": "Days of Rage",
-      "url": "https://www.goodreads.com/book/show/20932611-days-of-rage",
-      "id": "458980",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1393547195i/20932611.jpg",
-      "authors": [
-        "Kris Nelscott"
-      ],
-      "genres": [
-        "mystery",
-        "crime",
-        "fiction",
-        "mystery-thriller",
-        "historical-fiction",
-        "african-american",
-        "historical-mystery"
-      ],
-      "rating": 4.25,
-      "ratings": 613,
-      "reviews": 40
-    },
-    {
-      "title": "My Life with Earth, Wind, & Fire",
-      "url": "https://www.goodreads.com/book/show/23234870-my-life-with-earth-wind-fire",
-      "id": "42715797",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1465429727i/23234870.jpg",
-      "authors": [
-        "Maurice White"
-      ],
-      "genres": [
-        "music",
-        "non-fiction",
-        "biography",
-        "autobiography",
-        "memoir",
-        "african-american",
-        "history"
-      ],
-      "rating": 4.43,
-      "ratings": 608,
-      "reviews": 99
-    },
-    {
-      "title": "Cass: Surrender to Love",
-      "url": "https://www.goodreads.com/book/show/205462293-cass",
-      "id": "211483380",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1705414606i/205462293.jpg",
-      "authors": [
-        "Connie Easton"
-      ],
-      "genres": [
-        "african-american"
-      ],
-      "rating": 4.43,
-      "ratings": 607,
-      "reviews": 71
-    },
-    {
-      "title": "Domestic Work: Poems",
-      "url": "https://www.goodreads.com/book/show/200567.Domestic_Work",
-      "id": "1649022",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388196414i/200567.jpg",
-      "authors": [
-        "Natasha Trethewey"
-      ],
-      "genres": [
-        "poetry",
-        "african-american",
-        "race",
-        "literary-fiction",
-        "labor",
-        "southern"
-      ],
-      "rating": 4.2,
-      "ratings": 606,
-      "reviews": 62
-    },
-    {
-      "title": "Mommy's Angel",
-      "url": "https://www.goodreads.com/book/show/184997.Mommy_s_Angel",
-      "id": "178808",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386748182i/184997.jpg",
-      "authors": [
-        "Miasha"
-      ],
-      "genres": [
-        "african-american",
-        "fiction"
-      ],
-      "rating": 4.29,
-      "ratings": 606,
-      "reviews": 58
-    },
-    {
-      "title": "Sing To Me: My Story of Making Music, Finding Magic, and Searching for Who's Next",
-      "url": "https://www.goodreads.com/book/show/22138387-sing-to-me",
-      "id": "41484680",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1454284998i/22138387.jpg",
-      "authors": [
-        "L.A. Reid"
-      ],
-      "genres": [
-        "music",
-        "non-fiction",
-        "biography",
-        "audiobook",
-        "memoir",
-        "autobiography",
-        "african-american"
-      ],
-      "rating": 4,
-      "ratings": 605,
-      "reviews": 89
-    },
-    {
-      "title": "Farmer Will Allen and the Growing Table",
-      "url": "https://www.goodreads.com/book/show/17347345-farmer-will-allen-and-the-growing-table",
-      "id": "24087543",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1367340365i/17347345.jpg",
-      "authors": [
-        "Jacqueline Briggs Martin"
-      ],
-      "genres": [
-        "picture-books",
-        "biography",
-        "non-fiction",
-        "food",
-        "childrens",
-        "african-american",
-        "science"
-      ],
-      "rating": 4.18,
-      "ratings": 594,
-      "reviews": 130
-    },
-    {
-      "title": "When We Say Black Lives Matter",
-      "url": "https://www.goodreads.com/book/show/56733549-when-we-say-black-lives-matter",
-      "id": "87317764",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1614688581i/56733549.jpg",
-      "authors": [
-        "Maxine Beneba Clarke"
-      ],
-      "genres": [
-        "picture-books",
-        "social-justice",
-        "childrens",
-        "activism",
-        "african-american",
-        "cultural",
-        "history"
-      ],
-      "rating": 4.43,
-      "ratings": 593,
-      "reviews": 191
-    },
-    {
-      "title": "Prophet and Endi: On My Block",
-      "url": "https://www.goodreads.com/book/show/176492218-prophet-and-endi",
-      "id": "183088140",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1686493978i/176492218.jpg",
-      "authors": [
-        "K.C. Mills"
-      ],
-      "genres": [
         "romance",
+        "erotica",
+        "african-american-romance",
         "african-american"
       ],
-      "rating": 4.6,
-      "ratings": 589,
-      "reviews": 72
-    },
-    {
-      "title": "Her Exception 3",
-      "url": "https://www.goodreads.com/book/show/203856012-her-exception-3",
-      "id": "209708566",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1702662399i/203856012.jpg",
-      "authors": [
-        "B. Love"
-      ],
-      "genres": [
-        "african-american",
-        "romance"
-      ],
-      "rating": 4.63,
-      "ratings": 588,
-      "reviews": 66
-    },
-    {
-      "title": "Oh Pray My Wings are Gonna Fit Me Well",
-      "url": "https://www.goodreads.com/book/show/170922.Oh_Pray_My_Wings_are_Gonna_Fit_Me_Well",
-      "id": "1283817",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328030305i/170922.jpg",
-      "authors": [
-        "Maya Angelou"
-      ],
-      "genres": [
-        "poetry",
-        "non-fiction",
-        "african-american",
-        "classics",
-        "feminism",
-        "literature",
-        "womens"
-      ],
-      "rating": 4.06,
-      "ratings": 587,
-      "reviews": 63
-    },
-    {
-      "title": "Jimi: Sounds Like a Rainbow: a Story of the Young Jimi Hendrix",
-      "url": "https://www.goodreads.com/book/show/7833075-jimi",
-      "id": "10902128",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347787121i/7833075.jpg",
-      "authors": [
-        "Gary Golio"
-      ],
-      "genres": [
-        "picture-books",
-        "biography",
-        "music",
-        "non-fiction",
-        "childrens",
-        "african-american",
-        "history"
-      ],
-      "rating": 4.07,
-      "ratings": 586,
-      "reviews": 159
-    },
-    {
-      "title": "The Panther and the Lash",
-      "url": "https://www.goodreads.com/book/show/586012.The_Panther_and_the_Lash",
-      "id": "572854",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1358898575i/586012.jpg",
-      "authors": [
-        "Langston Hughes"
-      ],
-      "genres": [
-        "poetry",
-        "african-american",
-        "classics",
-        "fiction",
-        "the-united-states-of-america",
-        "literature",
-        "african-american-literature"
-      ],
-      "rating": 4.44,
-      "ratings": 584,
-      "reviews": 80
+      "rating": 4.57,
+      "ratings": 634,
+      "reviews": 105
     }
   ]
 }

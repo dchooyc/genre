@@ -1,6 +1,48 @@
 {
   "books": [
     {
+      "title": "Encontrando a Silvia",
+      "url": "https://www.goodreads.com/book/show/22067320-encontrando-a-silvia",
+      "id": "41399376",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1399908952i/22067320.jpg",
+      "authors": [
+        "Elísabet Benavent"
+      ],
+      "genres": [
+        "romance",
+        "chick-lit",
+        "contemporary",
+        "drama",
+        "spanish-literature",
+        "erotica",
+        "adult"
+      ],
+      "rating": 4.24,
+      "ratings": 9015,
+      "reviews": 799
+    },
+    {
+      "title": "A Fool's Gold Christmas",
+      "url": "https://www.goodreads.com/book/show/13548158-a-fool-s-gold-christmas",
+      "id": "19113330",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1342896907i/13548158.jpg",
+      "authors": [
+        "Susan Mallery"
+      ],
+      "genres": [
+        "romance",
+        "contemporary-romance",
+        "christmas",
+        "contemporary",
+        "chick-lit",
+        "holiday",
+        "fiction"
+      ],
+      "rating": 4.09,
+      "ratings": 9012,
+      "reviews": 524
+    },
+    {
       "title": "Chasing Shadows",
       "url": "https://www.goodreads.com/book/show/39792615-chasing-shadows",
       "id": "61522637",
@@ -18,8 +60,29 @@
         "adult"
       ],
       "rating": 4.45,
-      "ratings": 9000,
+      "ratings": 9008,
       "reviews": 426
+    },
+    {
+      "title": "The Rose Petal Beach",
+      "url": "https://www.goodreads.com/book/show/15712502-the-rose-petal-beach",
+      "id": "21380038",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348824873i/15712502.jpg",
+      "authors": [
+        "Dorothy Koomson"
+      ],
+      "genres": [
+        "fiction",
+        "romance",
+        "chick-lit",
+        "mystery",
+        "contemporary",
+        "crime",
+        "thriller"
+      ],
+      "rating": 4.04,
+      "ratings": 9007,
+      "reviews": 725
     },
     {
       "title": "September",
@@ -39,71 +102,8 @@
         "erotica"
       ],
       "rating": 4.08,
-      "ratings": 8989,
+      "ratings": 8994,
       "reviews": 345
-    },
-    {
-      "title": "Uncharted",
-      "url": "https://www.goodreads.com/book/show/17268741-uncharted",
-      "id": "23880831",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1363971188i/17268741.jpg",
-      "authors": [
-        "Tracey Garvis Graves"
-      ],
-      "genres": [
-        "romance",
-        "contemporary",
-        "novella",
-        "contemporary-romance",
-        "fiction",
-        "new-adult",
-        "chick-lit"
-      ],
-      "rating": 4.04,
-      "ratings": 8972,
-      "reviews": 1129
-    },
-    {
-      "title": "Pictures of Lily",
-      "url": "https://www.goodreads.com/book/show/7134057-pictures-of-lily",
-      "id": "7396938",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1269790608i/7134057.jpg",
-      "authors": [
-        "Paige Toon"
-      ],
-      "genres": [
-        "chick-lit",
-        "romance",
-        "contemporary",
-        "contemporary-romance",
-        "fiction",
-        "adult",
-        "young-adult"
-      ],
-      "rating": 4.02,
-      "ratings": 8971,
-      "reviews": 492
-    },
-    {
-      "title": "Summer at the Comfort Food Café",
-      "url": "https://www.goodreads.com/book/show/29343910-summer-at-the-comfort-food-caf",
-      "id": "49580623",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1459506034i/29343910.jpg",
-      "authors": [
-        "Debbie  Johnson"
-      ],
-      "genres": [
-        "romance",
-        "chick-lit",
-        "fiction",
-        "summer",
-        "audiobook",
-        "contemporary",
-        "contemporary-romance"
-      ],
-      "rating": 4.24,
-      "ratings": 8967,
-      "reviews": 721
     },
     {
       "title": "The Summer Seekers",
@@ -123,8 +123,71 @@
         "summer-reads"
       ],
       "rating": 4.09,
-      "ratings": 8962,
-      "reviews": 1193
+      "ratings": 8987,
+      "reviews": 1196
+    },
+    {
+      "title": "Summer at the Comfort Food Café",
+      "url": "https://www.goodreads.com/book/show/29343910-summer-at-the-comfort-food-caf",
+      "id": "49580623",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1459506034i/29343910.jpg",
+      "authors": [
+        "Debbie  Johnson"
+      ],
+      "genres": [
+        "romance",
+        "chick-lit",
+        "fiction",
+        "summer",
+        "audiobook",
+        "contemporary",
+        "contemporary-romance"
+      ],
+      "rating": 4.24,
+      "ratings": 8980,
+      "reviews": 724
+    },
+    {
+      "title": "Uncharted",
+      "url": "https://www.goodreads.com/book/show/17268741-uncharted",
+      "id": "23880831",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1363971188i/17268741.jpg",
+      "authors": [
+        "Tracey Garvis Graves"
+      ],
+      "genres": [
+        "romance",
+        "contemporary",
+        "novella",
+        "contemporary-romance",
+        "fiction",
+        "new-adult",
+        "chick-lit"
+      ],
+      "rating": 4.04,
+      "ratings": 8976,
+      "reviews": 1131
+    },
+    {
+      "title": "Pictures of Lily",
+      "url": "https://www.goodreads.com/book/show/7134057-pictures-of-lily",
+      "id": "7396938",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1269790608i/7134057.jpg",
+      "authors": [
+        "Paige Toon"
+      ],
+      "genres": [
+        "chick-lit",
+        "romance",
+        "contemporary",
+        "contemporary-romance",
+        "fiction",
+        "adult",
+        "young-adult"
+      ],
+      "rating": 4.02,
+      "ratings": 8975,
+      "reviews": 493
     },
     {
       "title": "What Next?",
@@ -143,7 +206,7 @@
         "humor"
       ],
       "rating": 4.36,
-      "ratings": 8954,
+      "ratings": 8963,
       "reviews": 262
     },
     {
@@ -164,8 +227,8 @@
         "chick-lit"
       ],
       "rating": 4.17,
-      "ratings": 8949,
-      "reviews": 785
+      "ratings": 8958,
+      "reviews": 786
     },
     {
       "title": "October",
@@ -185,7 +248,7 @@
         "erotica"
       ],
       "rating": 4.01,
-      "ratings": 8947,
+      "ratings": 8951,
       "reviews": 313
     },
     {
@@ -206,8 +269,29 @@
         "summer-reads"
       ],
       "rating": 4.04,
-      "ratings": 8925,
-      "reviews": 650
+      "ratings": 8941,
+      "reviews": 651
+    },
+    {
+      "title": "The Summer Cottage",
+      "url": "https://www.goodreads.com/book/show/40277425-the-summer-cottage",
+      "id": "59698776",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1537724550i/40277425.jpg",
+      "authors": [
+        "Viola Shipman"
+      ],
+      "genres": [
+        "fiction",
+        "romance",
+        "chick-lit",
+        "summer-reads",
+        "contemporary",
+        "audiobook",
+        "book-club"
+      ],
+      "rating": 4.03,
+      "ratings": 8923,
+      "reviews": 1198
     },
     {
       "title": "In the Light of the Garden",
@@ -227,7 +311,7 @@
         "family"
       ],
       "rating": 4.07,
-      "ratings": 8917,
+      "ratings": 8918,
       "reviews": 675
     },
     {
@@ -248,35 +332,14 @@
         "contemporary-romance"
       ],
       "rating": 4.14,
-      "ratings": 8908,
+      "ratings": 8910,
       "reviews": 415
     },
     {
-      "title": "The Summer Cottage",
-      "url": "https://www.goodreads.com/book/show/40277425-the-summer-cottage",
-      "id": "59698776",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1537724550i/40277425.jpg",
-      "authors": [
-        "Viola Shipman"
-      ],
-      "genres": [
-        "fiction",
-        "romance",
-        "chick-lit",
-        "summer-reads",
-        "contemporary",
-        "audiobook",
-        "book-club"
-      ],
-      "rating": 4.03,
-      "ratings": 8906,
-      "reviews": 1197
-    },
-    {
       "title": "Found in a Bookshop",
-      "url": "https://www.goodreads.com/book/show/61674571-found-in-a-bookshop",
+      "url": "https://www.goodreads.com/book/show/62731806-found-in-a-bookshop",
       "id": "97274301",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1678448408i/61674571.jpg",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1672360522i/62731806.jpg",
       "authors": [
         "Stephanie Butland"
       ],
@@ -290,8 +353,8 @@
         "cozy"
       ],
       "rating": 4.22,
-      "ratings": 8888,
-      "reviews": 884
+      "ratings": 8909,
+      "reviews": 886
     },
     {
       "title": "In the Cards",
@@ -332,7 +395,7 @@
         "book-club"
       ],
       "rating": 4.1,
-      "ratings": 8865,
+      "ratings": 8866,
       "reviews": 324
     },
     {
@@ -353,7 +416,7 @@
         "sports-romance"
       ],
       "rating": 4.14,
-      "ratings": 8838,
+      "ratings": 8845,
       "reviews": 430
     },
     {
@@ -395,29 +458,8 @@
         "drama"
       ],
       "rating": 4.3,
-      "ratings": 8815,
-      "reviews": 586
-    },
-    {
-      "title": "I Heart Vegas",
-      "url": "https://www.goodreads.com/book/show/11685242-i-heart-vegas",
-      "id": "16631572",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1318280186i/11685242.jpg",
-      "authors": [
-        "Lindsey Kelk"
-      ],
-      "genres": [
-        "chick-lit",
-        "romance",
-        "contemporary",
-        "fiction",
-        "humor",
-        "audiobook",
-        "adult"
-      ],
-      "rating": 4.09,
-      "ratings": 8814,
-      "reviews": 364
+      "ratings": 8824,
+      "reviews": 587
     },
     {
       "title": "Stuck On You",
@@ -437,71 +479,29 @@
         "contemporary-romance"
       ],
       "rating": 4.02,
-      "ratings": 8809,
+      "ratings": 8818,
       "reviews": 658
     },
     {
-      "title": "A Christmas Duet",
-      "url": "https://www.goodreads.com/book/show/205436000-a-christmas-duet",
-      "id": "211455695",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1718286822i/205436000.jpg",
+      "title": "I Heart Vegas",
+      "url": "https://www.goodreads.com/book/show/11685242-i-heart-vegas",
+      "id": "16631572",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1318280186i/11685242.jpg",
       "authors": [
-        "Debbie Macomber"
-      ],
-      "genres": [
-        "christmas",
-        "romance",
-        "holiday",
-        "fiction",
-        "audiobook",
-        "contemporary",
-        "chick-lit"
-      ],
-      "rating": 4.03,
-      "ratings": 8788,
-      "reviews": 1094
-    },
-    {
-      "title": "Johnny Be Good",
-      "url": "https://www.goodreads.com/book/show/2274457.Johnny_Be_Good",
-      "id": "2280480",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327919693i/2274457.jpg",
-      "authors": [
-        "Paige Toon"
+        "Lindsey Kelk"
       ],
       "genres": [
         "chick-lit",
         "romance",
         "contemporary",
-        "music",
-        "contemporary-romance",
         "fiction",
+        "humor",
+        "audiobook",
         "adult"
       ],
-      "rating": 4.08,
-      "ratings": 8779,
-      "reviews": 572
-    },
-    {
-      "title": "A estreia de Fani",
-      "url": "https://www.goodreads.com/book/show/9706200-a-estreia-de-fani",
-      "id": "14594439",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1369453710i/9706200.jpg",
-      "authors": [
-        "Paula Pimenta"
-      ],
-      "genres": [
-        "romance",
-        "young-adult",
-        "contemporary",
-        "friends-to-lovers",
-        "fiction",
-        "chick-lit",
-        "brazil"
-      ],
-      "rating": 4.2,
-      "ratings": 8759,
-      "reviews": 418
+      "rating": 4.09,
+      "ratings": 8817,
+      "reviews": 366
     }
   ]
 }

@@ -1,6 +1,27 @@
 {
   "books": [
     {
+      "title": "Microservice Patterns",
+      "url": "https://www.goodreads.com/book/show/34372564-microservice-patterns",
+      "id": "55456565",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1487751473i/34372564.jpg",
+      "authors": [
+        "Chris Richardson"
+      ],
+      "genres": [
+        "programming",
+        "technology",
+        "computer-science",
+        "software",
+        "architecture",
+        "technical",
+        "non-fiction"
+      ],
+      "rating": 4.25,
+      "ratings": 687,
+      "reviews": 70
+    },
+    {
       "title": "You Don't Know JS: Async & Performance",
       "url": "https://www.goodreads.com/book/show/22221110-you-don-t-know-js",
       "id": "41559954",
@@ -18,7 +39,7 @@
         "coding"
       ],
       "rating": 4.31,
-      "ratings": 681,
+      "ratings": 680,
       "reviews": 42
     },
     {
@@ -39,50 +60,8 @@
         "reference"
       ],
       "rating": 4.59,
-      "ratings": 669,
+      "ratings": 668,
       "reviews": 93
-    },
-    {
-      "title": "99 Bottles of OOP",
-      "url": "https://www.goodreads.com/book/show/31183020-99-bottles-of-oop",
-      "id": "51824272",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1477514056i/31183020.jpg",
-      "authors": [
-        "Sandi Metz"
-      ],
-      "genres": [
-        "programming",
-        "technology",
-        "software",
-        "computer-science",
-        "non-fiction",
-        "technical",
-        "engineering"
-      ],
-      "rating": 4.55,
-      "ratings": 661,
-      "reviews": 75
-    },
-    {
-      "title": "Domain Modeling Made Functional: Tackle Software Complexity with Domain-Driven Design and F#",
-      "url": "https://www.goodreads.com/book/show/39021550-domain-modeling-made-functional",
-      "id": "56184944",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1520093533i/38918381.jpg",
-      "authors": [
-        "Scott Wlaschin"
-      ],
-      "genres": [
-        "programming",
-        "technology",
-        "software",
-        "computer-science",
-        "technical",
-        "non-fiction",
-        "architecture"
-      ],
-      "rating": 4.49,
-      "ratings": 660,
-      "reviews": 83
     },
     {
       "title": "Learning Domain-Driven Design: Aligning Software Architecture and Business Strategy",
@@ -102,8 +81,50 @@
         "non-fiction"
       ],
       "rating": 4.44,
-      "ratings": 660,
+      "ratings": 662,
       "reviews": 78
+    },
+    {
+      "title": "Domain Modeling Made Functional: Tackle Software Complexity with Domain-Driven Design and F#",
+      "url": "https://www.goodreads.com/book/show/39021550-domain-modeling-made-functional",
+      "id": "56184944",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1520093533i/38918381.jpg",
+      "authors": [
+        "Scott Wlaschin"
+      ],
+      "genres": [
+        "programming",
+        "technology",
+        "software",
+        "computer-science",
+        "technical",
+        "non-fiction",
+        "architecture"
+      ],
+      "rating": 4.49,
+      "ratings": 661,
+      "reviews": 83
+    },
+    {
+      "title": "99 Bottles of OOP",
+      "url": "https://www.goodreads.com/book/show/31183020-99-bottles-of-oop",
+      "id": "51824272",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1477514056i/31183020.jpg",
+      "authors": [
+        "Sandi Metz"
+      ],
+      "genres": [
+        "programming",
+        "technology",
+        "software",
+        "computer-science",
+        "technical",
+        "non-fiction",
+        "engineering"
+      ],
+      "rating": 4.55,
+      "ratings": 660,
+      "reviews": 75
     },
     {
       "title": "Scala for the Impatient",
@@ -144,7 +165,7 @@
         "non-fiction"
       ],
       "rating": 4.08,
-      "ratings": 624,
+      "ratings": 625,
       "reviews": 80
     },
     {
@@ -164,8 +185,8 @@
         "technical",
         "business"
       ],
-      "rating": 4.38,
-      "ratings": 621,
+      "rating": 4.39,
+      "ratings": 624,
       "reviews": 70
     },
     {
@@ -291,7 +312,7 @@
         "reference"
       ],
       "rating": 4.41,
-      "ratings": 592,
+      "ratings": 593,
       "reviews": 60
     },
     {
@@ -354,7 +375,7 @@
         "computers"
       ],
       "rating": 4.63,
-      "ratings": 572,
+      "ratings": 573,
       "reviews": 64
     },
     {
@@ -375,7 +396,7 @@
         "engineering"
       ],
       "rating": 4.27,
-      "ratings": 567,
+      "ratings": 568,
       "reviews": 69
     },
     {
@@ -396,7 +417,7 @@
         "software"
       ],
       "rating": 4.36,
-      "ratings": 553,
+      "ratings": 554,
       "reviews": 61
     },
     {
@@ -438,7 +459,7 @@
         "engineering"
       ],
       "rating": 4.2,
-      "ratings": 550,
+      "ratings": 551,
       "reviews": 64
     },
     {
@@ -479,30 +500,9 @@
         "business",
         "technical"
       ],
-      "rating": 4.08,
-      "ratings": 548,
+      "rating": 4.07,
+      "ratings": 549,
       "reviews": 85
-    },
-    {
-      "title": "You Don't Know JS: ES6 & Beyond",
-      "url": "https://www.goodreads.com/book/show/22221111-you-don-t-know-js",
-      "id": "41559955",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1451243301i/22221111.jpg",
-      "authors": [
-        "Kyle Simpson"
-      ],
-      "genres": [
-        "programming",
-        "technology",
-        "computer-science",
-        "technical",
-        "non-fiction",
-        "coding",
-        "software"
-      ],
-      "rating": 4.41,
-      "ratings": 546,
-      "reviews": 19
     }
   ]
 }

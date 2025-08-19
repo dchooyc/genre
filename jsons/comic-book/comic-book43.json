@@ -1,25 +1,444 @@
 {
   "books": [
     {
-      "title": "Overwatch #9: Junkenstein",
-      "url": "https://www.goodreads.com/book/show/32608267-overwatch-9",
-      "id": "53190731",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1476456165i/32608267.jpg",
+      "title": "Guardians of the Galaxy by Abnett & Lanning: The Complete Collection, Vol. 1",
+      "url": "https://www.goodreads.com/book/show/20405500-guardians-of-the-galaxy-by-abnett-and-lanning",
+      "id": "28953943",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1630684583i/20405500.jpg",
       "authors": [
-        "Michael Chu"
+        "Dan Abnett"
       ],
       "genres": [
         "comics",
         "graphic-novels",
-        "video-games",
+        "marvel",
+        "comic-book",
         "science-fiction",
+        "superheroes",
+        "fiction"
+      ],
+      "rating": 4,
+      "ratings": 1163,
+      "reviews": 107
+    },
+    {
+      "title": "Captain America: Truth - Red, White & Black",
+      "url": "https://www.goodreads.com/book/show/670341.Captain_America",
+      "id": "656375",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1530871532i/670341.jpg",
+      "authors": [
+        "Robert Morales"
+      ],
+      "genres": [
+        "comics",
+        "graphic-novels",
+        "marvel",
+        "fiction",
+        "superheroes",
+        "graphic-novels-comics",
+        "comic-book"
+      ],
+      "rating": 4.02,
+      "ratings": 1162,
+      "reviews": 200
+    },
+    {
+      "title": "Hellblazer, Vol. 7: Tainted Love",
+      "url": "https://www.goodreads.com/book/show/17797407-hellblazer-vol-7",
+      "id": "24895738",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1640578216i/17797407.jpg",
+      "authors": [
+        "Garth Ennis"
+      ],
+      "genres": [
+        "comics",
+        "graphic-novels",
+        "horror",
+        "fantasy",
+        "comic-book",
+        "dc-comics",
+        "fiction"
+      ],
+      "rating": 4.25,
+      "ratings": 1162,
+      "reviews": 93
+    },
+    {
+      "title": "Critical Role: Vox Machina Origins #5",
+      "url": "https://www.goodreads.com/book/show/38889090-critical-role",
+      "id": "60433085",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1519878376i/38889090.jpg",
+      "authors": [
+        "Matthew Mercer"
+      ],
+      "genres": [
+        "comics",
+        "fantasy",
+        "graphic-novels",
+        "graphic-novels-comics",
         "comic-book",
         "fiction",
+        "dungeons-and-dragons"
+      ],
+      "rating": 4.57,
+      "ratings": 1161,
+      "reviews": 46
+    },
+    {
+      "title": "Jessica Jones, Vol. 3: Return of the Purple Man",
+      "url": "https://www.goodreads.com/book/show/35605129-jessica-jones-vol-3",
+      "id": "57042736",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1523143171i/35605129.jpg",
+      "authors": [
+        "Brian Michael Bendis"
+      ],
+      "genres": [
+        "comics",
+        "graphic-novels",
+        "marvel",
+        "fiction",
+        "superheroes",
+        "comic-book",
         "graphic-novels-comics"
       ],
-      "rating": 4.11,
-      "ratings": 1106,
-      "reviews": 59
+      "rating": 4.04,
+      "ratings": 1154,
+      "reviews": 141
+    },
+    {
+      "title": "Ultimate Spider-Man Omnibus, Vol. 1",
+      "url": "https://www.goodreads.com/book/show/13330970-ultimate-spider-man-omnibus-vol-1",
+      "id": "18538653",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1394568982i/13330970.jpg",
+      "authors": [
+        "Brian Michael Bendis"
+      ],
+      "genres": [
+        "comics",
+        "marvel",
+        "graphic-novels",
+        "spider-man",
+        "superheroes",
+        "fiction",
+        "comic-book"
+      ],
+      "rating": 4.53,
+      "ratings": 1150,
+      "reviews": 106
+    },
+    {
+      "title": "Head Lopper, Vol. 2: Head Lopper and the Crimson Tower",
+      "url": "https://www.goodreads.com/book/show/35989510-head-lopper-vol-2",
+      "id": "57550452",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1525347297i/35989510.jpg",
+      "authors": [
+        "Andrew MacLean"
+      ],
+      "genres": [
+        "comics",
+        "graphic-novels",
+        "fantasy",
+        "graphic-novels-comics",
+        "fiction",
+        "comic-book",
+        "horror"
+      ],
+      "rating": 4.17,
+      "ratings": 1144,
+      "reviews": 101
+    },
+    {
+      "title": "Black Science, Vol. 6: Forbidden Realms and Hidden Truths",
+      "url": "https://www.goodreads.com/book/show/33585537-black-science-vol-6",
+      "id": "54398795",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1495948611i/33585537.jpg",
+      "authors": [
+        "Rick Remender"
+      ],
+      "genres": [
+        "comics",
+        "graphic-novels",
+        "science-fiction",
+        "graphic-novels-comics",
+        "fiction",
+        "comic-book",
+        "adventure"
+      ],
+      "rating": 4.1,
+      "ratings": 1143,
+      "reviews": 77
+    },
+    {
+      "title": "Scarlet Witch: The Complete Collection",
+      "url": "https://www.goodreads.com/book/show/55921187-scarlet-witch",
+      "id": "87134515",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1612376168i/55921187.jpg",
+      "authors": [
+        "James  Robinson"
+      ],
+      "genres": [
+        "comics",
+        "graphic-novels",
+        "marvel",
+        "fantasy",
+        "comic-book",
+        "graphic-novels-comics",
+        "superheroes"
+      ],
+      "rating": 4.01,
+      "ratings": 1141,
+      "reviews": 168
+    },
+    {
+      "title": "Thor (2014-2015) #3",
+      "url": "https://www.goodreads.com/book/show/27248930-thor-2014-2015-3",
+      "id": "43013152",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1445433065i/27248930.jpg",
+      "authors": [
+        "Jason Aaron"
+      ],
+      "genres": [
+        "comics",
+        "marvel",
+        "graphic-novels",
+        "comic-book",
+        "fantasy",
+        "graphic-novels-comics",
+        "superheroes"
+      ],
+      "rating": 4.28,
+      "ratings": 1140,
+      "reviews": 29
+    },
+    {
+      "title": "Fantastic Four, Vol. 5",
+      "url": "https://www.goodreads.com/book/show/13363136-fantastic-four-vol-5",
+      "id": "18591775",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1517378790i/13363136.jpg",
+      "authors": [
+        "Jonathan Hickman"
+      ],
+      "genres": [
+        "comics",
+        "marvel",
+        "graphic-novels",
+        "comic-book",
+        "superheroes",
+        "graphic-novels-comics",
+        "fiction"
+      ],
+      "rating": 4.3,
+      "ratings": 1138,
+      "reviews": 78
+    },
+    {
+      "title": "Daredevil, Vol. 9: King of Hell's Kitchen",
+      "url": "https://www.goodreads.com/book/show/105870.Daredevil_Vol_9",
+      "id": "102051",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1448622937i/105870.jpg",
+      "authors": [
+        "Brian Michael Bendis"
+      ],
+      "genres": [
+        "comics",
+        "graphic-novels",
+        "marvel",
+        "superheroes",
+        "crime",
+        "comic-book",
+        "graphic-novels-comics"
+      ],
+      "rating": 4.28,
+      "ratings": 1138,
+      "reviews": 41
+    },
+    {
+      "title": "The Amazing Spider-Man: 24/7",
+      "url": "https://www.goodreads.com/book/show/7296219-the-amazing-spider-man",
+      "id": "6613171",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1505584379i/7296219.jpg",
+      "authors": [
+        "Dan Slott"
+      ],
+      "genres": [
+        "comics",
+        "spider-man",
+        "marvel",
+        "graphic-novels",
+        "comic-book",
+        "graphic-novels-comics",
+        "superheroes"
+      ],
+      "rating": 4.09,
+      "ratings": 1136,
+      "reviews": 37
+    },
+    {
+      "title": "The Cartoon History of the Modern World Part 1: From Columbus to the U.S. Constitution",
+      "url": "https://www.goodreads.com/book/show/66726.The_Cartoon_History_of_the_Modern_World_Part_1",
+      "id": "64700",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1438689621i/66726.jpg",
+      "authors": [
+        "Larry Gonick"
+      ],
+      "genres": [
+        "history",
+        "non-fiction",
+        "comics",
+        "graphic-novels",
+        "humor",
+        "world-history",
+        "comic-book"
+      ],
+      "rating": 4.2,
+      "ratings": 1132,
+      "reviews": 88
+    },
+    {
+      "title": "The Immortal Hulk, Book One",
+      "url": "https://www.goodreads.com/book/show/52214193-the-immortal-hulk-book-one",
+      "id": "69119505",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1570033892l/52214193.jpg",
+      "authors": [
+        "Al Ewing"
+      ],
+      "genres": [
+        "comics",
+        "marvel",
+        "graphic-novels",
+        "horror",
+        "superheroes",
+        "fiction",
+        "comic-book"
+      ],
+      "rating": 4.35,
+      "ratings": 1127,
+      "reviews": 119
+    },
+    {
+      "title": "Daytripper #1",
+      "url": "https://www.goodreads.com/book/show/25827992-daytripper-1",
+      "id": "81106178",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1435718716i/25827992.jpg",
+      "authors": [
+        "Fábio Moon"
+      ],
+      "genres": [
+        "graphic-novels",
+        "comics",
+        "graphic-novels-comics",
+        "fiction",
+        "comic-book",
+        "sequential-art"
+      ],
+      "rating": 4.25,
+      "ratings": 1126,
+      "reviews": 31
+    },
+    {
+      "title": "Le Pays Qâ",
+      "url": "https://www.goodreads.com/book/show/460291.Le_Pays_Q_",
+      "id": "448759",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1600437008i/460291.jpg",
+      "authors": [
+        "Grzegorz Rosiński"
+      ],
+      "genres": [
+        "comics",
+        "bande-dessin%C3%A9e",
+        "fantasy",
+        "graphic-novels",
+        "comic-book",
+        "science-fiction",
+        "graphic-novels-comics"
+      ],
+      "rating": 4.2,
+      "ratings": 1125,
+      "reviews": 33
+    },
+    {
+      "title": "Hellblazer: Staring at the Wall",
+      "url": "https://www.goodreads.com/book/show/133020.Hellblazer",
+      "id": "1248835",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1309220734i/133020.jpg",
+      "authors": [
+        "Mike Carey"
+      ],
+      "genres": [
+        "comics",
+        "graphic-novels",
+        "horror",
+        "fantasy",
+        "graphic-novels-comics",
+        "comic-book",
+        "fiction"
+      ],
+      "rating": 4.18,
+      "ratings": 1113,
+      "reviews": 27
+    },
+    {
+      "title": "Batman: One Bad Day - Ra's Al Ghul",
+      "url": "https://www.goodreads.com/book/show/123006555-batman",
+      "id": "144288970",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1678648500i/123006555.jpg",
+      "authors": [
+        "Tom    Taylor"
+      ],
+      "genres": [
+        "comics",
+        "graphic-novels",
+        "batman",
+        "dc-comics",
+        "graphic-novels-comics",
+        "superheroes",
+        "comic-book"
+      ],
+      "rating": 4.02,
+      "ratings": 1113,
+      "reviews": 156
+    },
+    {
+      "title": "Le loup",
+      "url": "https://www.goodreads.com/book/show/45857110-le-loup",
+      "id": "70666082",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1557998012i/45857110.jpg",
+      "authors": [
+        "Jean-Marc Rochette"
+      ],
+      "genres": [
+        "bande-dessin%C3%A9e",
+        "graphic-novels",
+        "fiction",
+        "france",
+        "comics",
+        "nature",
+        "comic-book"
+      ],
+      "rating": 4.06,
+      "ratings": 1112,
+      "reviews": 106
+    },
+    {
+      "title": "Green Lantern/Green Arrow",
+      "url": "https://www.goodreads.com/book/show/538793.Green_Lantern_Green_Arrow",
+      "id": "17598840",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1476503524i/538793.jpg",
+      "authors": [
+        "Dennis O'Neil"
+      ],
+      "genres": [
+        "comics",
+        "graphic-novels",
+        "dc-comics",
+        "superheroes",
+        "comic-book",
+        "fiction",
+        "science-fiction"
+      ],
+      "rating": 4.09,
+      "ratings": 1111,
+      "reviews": 126
     },
     {
       "title": "Top 10",
@@ -39,8 +458,29 @@
         "science-fiction"
       ],
       "rating": 4.27,
-      "ratings": 1105,
+      "ratings": 1107,
       "reviews": 119
+    },
+    {
+      "title": "Overwatch #9: Junkenstein",
+      "url": "https://www.goodreads.com/book/show/32608267-overwatch-9",
+      "id": "53190731",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1476456165i/32608267.jpg",
+      "authors": [
+        "Michael Chu"
+      ],
+      "genres": [
+        "comics",
+        "graphic-novels",
+        "video-games",
+        "science-fiction",
+        "comic-book",
+        "fiction",
+        "graphic-novels-comics"
+      ],
+      "rating": 4.11,
+      "ratings": 1105,
+      "reviews": 59
     },
     {
       "title": "Hellboy in Mexico",
@@ -60,449 +500,8 @@
         "supernatural"
       ],
       "rating": 4.08,
-      "ratings": 1103,
+      "ratings": 1104,
       "reviews": 115
-    },
-    {
-      "title": "Deadly Class, Volume 9: Bone Machine",
-      "url": "https://www.goodreads.com/book/show/48592013-deadly-class-volume-9",
-      "id": "73927984",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1583548422i/48592013.jpg",
-      "authors": [
-        "Rick Remender"
-      ],
-      "genres": [
-        "graphic-novels",
-        "comics",
-        "graphic-novels-comics",
-        "comic-book",
-        "fiction",
-        "young-adult",
-        "action"
-      ],
-      "rating": 4.06,
-      "ratings": 1099,
-      "reviews": 112
-    },
-    {
-      "title": "Cap au Sud",
-      "url": "https://www.goodreads.com/book/show/27239211-cap-au-sud",
-      "id": "47224046",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1445328403i/27239211.jpg",
-      "authors": [
-        "Zidrou"
-      ],
-      "genres": [
-        "bande-dessin%C3%A9e",
-        "comics",
-        "graphic-novels",
-        "graphic-novels-comics",
-        "france",
-        "fiction",
-        "comic-book"
-      ],
-      "rating": 4.25,
-      "ratings": 1098,
-      "reviews": 109
-    },
-    {
-      "title": "Batman: Harley Quinn",
-      "url": "https://www.goodreads.com/book/show/25734020-batman",
-      "id": "56963839",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1441010046i/25734020.jpg",
-      "authors": [
-        "Paul Dini"
-      ],
-      "genres": [
-        "comics",
-        "graphic-novels",
-        "batman",
-        "dc-comics",
-        "fiction",
-        "comic-book",
-        "superheroes"
-      ],
-      "rating": 4.05,
-      "ratings": 1098,
-      "reviews": 123
-    },
-    {
-      "title": "Garfield Pulls His Weight",
-      "url": "https://www.goodreads.com/book/show/279317.Garfield_Pulls_His_Weight",
-      "id": "270924",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348568226i/279317.jpg",
-      "authors": [
-        "Jim Davis"
-      ],
-      "genres": [
-        "comics",
-        "humor",
-        "fiction",
-        "graphic-novels",
-        "comic-strips",
-        "comic-book",
-        "animals"
-      ],
-      "rating": 4.26,
-      "ratings": 1097,
-      "reviews": 33
-    },
-    {
-      "title": "For the Man Who Has Everything",
-      "url": "https://www.goodreads.com/book/show/6537607-for-the-man-who-has-everything",
-      "id": "6729786",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1371133583i/6537607.jpg",
-      "authors": [
-        "Alan             Moore"
-      ],
-      "genres": [
-        "comics",
-        "superman",
-        "graphic-novels",
-        "dc-comics",
-        "comic-book",
-        "superheroes",
-        "graphic-novels-comics"
-      ],
-      "rating": 4.26,
-      "ratings": 1095,
-      "reviews": 90
-    },
-    {
-      "title": "All-New Wolverine, Vol. 5: Orphans of X",
-      "url": "https://www.goodreads.com/book/show/35605121-all-new-wolverine-vol-5",
-      "id": "57042728",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1518908696i/35605121.jpg",
-      "authors": [
-        "Tom    Taylor"
-      ],
-      "genres": [
-        "comics",
-        "marvel",
-        "graphic-novels",
-        "x-men",
-        "superheroes",
-        "graphic-novels-comics",
-        "comic-book"
-      ],
-      "rating": 4.16,
-      "ratings": 1094,
-      "reviews": 129
-    },
-    {
-      "title": "Comer/Beber",
-      "url": "https://www.goodreads.com/book/show/36693404-comer-beber",
-      "id": "58490935",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1512081762i/36693404.jpg",
-      "authors": [
-        "Filipe Melo"
-      ],
-      "genres": [
-        "bande-dessin%C3%A9e",
-        "comics",
-        "graphic-novels",
-        "portugal",
-        "fiction",
-        "portuguese-literature",
-        "comic-book"
-      ],
-      "rating": 4.28,
-      "ratings": 1094,
-      "reviews": 128
-    },
-    {
-      "title": "Conan, Vol. 4: The Halls of the Dead and Other Stories",
-      "url": "https://www.goodreads.com/book/show/152207.Conan_Vol_4",
-      "id": "146908",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1403208780i/152207.jpg",
-      "authors": [
-        "Kurt Busiek"
-      ],
-      "genres": [
-        "comics",
-        "graphic-novels",
-        "fantasy",
-        "fiction",
-        "graphic-novels-comics",
-        "sword-and-sorcery",
-        "comic-book"
-      ],
-      "rating": 4.13,
-      "ratings": 1094,
-      "reviews": 43
-    },
-    {
-      "title": "Once & Future, Vol. 5: The Wasteland",
-      "url": "https://www.goodreads.com/book/show/61273399-once-future-vol-5",
-      "id": "96612081",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1666537948i/61273399.jpg",
-      "authors": [
-        "Kieron Gillen"
-      ],
-      "genres": [
-        "fantasy",
-        "graphic-novels",
-        "comics",
-        "horror",
-        "fiction",
-        "urban-fantasy",
-        "comic-book"
-      ],
-      "rating": 4.26,
-      "ratings": 1093,
-      "reviews": 145
-    },
-    {
-      "title": "Garfield Goes to Waist",
-      "url": "https://www.goodreads.com/book/show/279218.Garfield_Goes_to_Waist",
-      "id": "270826",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320515489i/279218.jpg",
-      "authors": [
-        "Jim Davis"
-      ],
-      "genres": [
-        "comics",
-        "humor",
-        "graphic-novels",
-        "comic-strips",
-        "comic-book",
-        "fiction",
-        "comedy"
-      ],
-      "rating": 4.17,
-      "ratings": 1093,
-      "reviews": 28
-    },
-    {
-      "title": "Gotham City: Year One",
-      "url": "https://www.goodreads.com/book/show/125071232-gotham-city",
-      "id": "146517531",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1684790835i/125071232.jpg",
-      "authors": [
-        "Tom King"
-      ],
-      "genres": [
-        "graphic-novels",
-        "dc-comics",
-        "batman",
-        "comics",
-        "crime",
-        "superheroes",
-        "comic-book"
-      ],
-      "rating": 4.11,
-      "ratings": 1093,
-      "reviews": 148
-    },
-    {
-      "title": "Robin, Vol. 1: The Lazarus Tournament",
-      "url": "https://www.goodreads.com/book/show/58406842-robin-vol-1",
-      "id": "91620258",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1679214434i/58406842.jpg",
-      "authors": [
-        "Joshua Williamson"
-      ],
-      "genres": [
-        "comics",
-        "dc-comics",
-        "graphic-novels",
-        "batman",
-        "superheroes",
-        "comic-book",
-        "graphic-novels-comics"
-      ],
-      "rating": 4.14,
-      "ratings": 1092,
-      "reviews": 140
-    },
-    {
-      "title": "The Immortal Hulk, Vol. 10: Of Hell and Death",
-      "url": "https://www.goodreads.com/book/show/57653258-the-immortal-hulk-vol-10",
-      "id": "90303514",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1635259455i/57653258.jpg",
-      "authors": [
-        "Al Ewing"
-      ],
-      "genres": [
-        "comics",
-        "marvel",
-        "graphic-novels",
-        "horror",
-        "superheroes",
-        "fiction",
-        "comic-book"
-      ],
-      "rating": 4.18,
-      "ratings": 1091,
-      "reviews": 126
-    },
-    {
-      "title": "The Authority, Vol. 1",
-      "url": "https://www.goodreads.com/book/show/17137620-the-authority-vol-1",
-      "id": "28204082",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1367256892i/17137620.jpg",
-      "authors": [
-        "Warren Ellis"
-      ],
-      "genres": [
-        "comics",
-        "graphic-novels",
-        "dc-comics",
-        "superheroes",
-        "comic-book",
-        "science-fiction",
-        "graphic-novels-comics"
-      ],
-      "rating": 4.07,
-      "ratings": 1089,
-      "reviews": 103
-    },
-    {
-      "title": "Lazarus: The First Collection",
-      "url": "https://www.goodreads.com/book/show/23093379-lazarus",
-      "id": "42643534",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1409620173i/23093379.jpg",
-      "authors": [
-        "Greg Rucka"
-      ],
-      "genres": [
-        "comics",
-        "graphic-novels",
-        "science-fiction",
-        "fiction",
-        "dystopia",
-        "graphic-novels-comics",
-        "comic-book"
-      ],
-      "rating": 4.33,
-      "ratings": 1089,
-      "reviews": 127
-    },
-    {
-      "title": "B.P.R.D., Vol. 14: King of Fear",
-      "url": "https://www.goodreads.com/book/show/8658005-b-p-r-d-vol-14",
-      "id": "13529270",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1403201649i/8658005.jpg",
-      "authors": [
-        "Mike Mignola"
-      ],
-      "genres": [
-        "comics",
-        "graphic-novels",
-        "horror",
-        "fantasy",
-        "graphic-novels-comics",
-        "comic-book",
-        "fiction"
-      ],
-      "rating": 4.1,
-      "ratings": 1089,
-      "reviews": 82
-    },
-    {
-      "title": "Overwatch #7: Legacy",
-      "url": "https://www.goodreads.com/book/show/31182384-overwatch-7",
-      "id": "51823405",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1469029070i/31182384.jpg",
-      "authors": [
-        "Andrew R. Robinson"
-      ],
-      "genres": [
-        "comics",
-        "graphic-novels",
-        "video-games",
-        "comic-book",
-        "science-fiction",
-        "graphic-novels-comics",
-        "fiction"
-      ],
-      "rating": 4.21,
-      "ratings": 1089,
-      "reviews": 44
-    },
-    {
-      "title": "Critical Role: Vox Machina Origins #6",
-      "url": "https://www.goodreads.com/book/show/39886588-critical-role",
-      "id": "61703602",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1524039926i/39886588.jpg",
-      "authors": [
-        "Matthew Mercer"
-      ],
-      "genres": [
-        "comics",
-        "fantasy",
-        "graphic-novels",
-        "graphic-novels-comics",
-        "fiction",
-        "dungeons-and-dragons",
-        "comic-book"
-      ],
-      "rating": 4.55,
-      "ratings": 1087,
-      "reviews": 40
-    },
-    {
-      "title": "Berlin, Vol. 3: City of Light",
-      "url": "https://www.goodreads.com/book/show/37941778-berlin-vol-3",
-      "id": "59667514",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1538044728i/37941778.jpg",
-      "authors": [
-        "Jason Lutes"
-      ],
-      "genres": [
-        "graphic-novels",
-        "historical-fiction",
-        "fiction",
-        "historical",
-        "germany",
-        "graphic-novels-comics",
-        "comic-book"
-      ],
-      "rating": 4.23,
-      "ratings": 1083,
-      "reviews": 110
-    },
-    {
-      "title": "Sonic the Hedgehog, Vol. 2: The Fate of Dr. Eggman",
-      "url": "https://www.goodreads.com/book/show/40248824-sonic-the-hedgehog-vol-2",
-      "id": "62532726",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1585505559i/40248824.jpg",
-      "authors": [
-        "Ian Flynn"
-      ],
-      "genres": [
-        "comics",
-        "graphic-novels",
-        "fiction",
-        "graphic-novels-comics",
-        "fantasy",
-        "video-games",
-        "comic-book"
-      ],
-      "rating": 4.41,
-      "ratings": 1081,
-      "reviews": 66
-    },
-    {
-      "title": "Overwatch #8: Old Soldiers",
-      "url": "https://www.goodreads.com/book/show/31278636-overwatch-8",
-      "id": "51934867",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1472076802i/31278636.jpg",
-      "authors": [
-        "Michael Chu"
-      ],
-      "genres": [
-        "comics",
-        "graphic-novels",
-        "video-games",
-        "science-fiction",
-        "comic-book",
-        "fiction",
-        "graphic-novels-comics"
-      ],
-      "rating": 4.15,
-      "ratings": 1080,
-      "reviews": 38
     }
   ]
 }

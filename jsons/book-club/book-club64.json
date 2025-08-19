@@ -1,6 +1,48 @@
 {
   "books": [
     {
+      "title": "The Temptation of Gracie",
+      "url": "https://www.goodreads.com/book/show/37548924-the-temptation-of-gracie",
+      "id": "59154283",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1522786178i/37548924.jpg",
+      "authors": [
+        "Santa Montefiore"
+      ],
+      "genres": [
+        "romance",
+        "fiction",
+        "historical-fiction",
+        "italy",
+        "contemporary",
+        "book-club",
+        "audiobook"
+      ],
+      "rating": 4.13,
+      "ratings": 8236,
+      "reviews": 697
+    },
+    {
+      "title": "The Forgotten Seamstress",
+      "url": "https://www.goodreads.com/book/show/18583830-the-forgotten-seamstress",
+      "id": "26320328",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1381429664i/18583830.jpg",
+      "authors": [
+        "Liz Trenow"
+      ],
+      "genres": [
+        "historical-fiction",
+        "fiction",
+        "historical",
+        "book-club",
+        "mystery",
+        "british-literature",
+        "romance"
+      ],
+      "rating": 4,
+      "ratings": 8163,
+      "reviews": 957
+    },
+    {
       "title": "Forever is the Worst Long Time",
       "url": "https://www.goodreads.com/book/show/31340919-forever-is-the-worst-long-time",
       "id": "52016156",
@@ -18,8 +60,29 @@
         "womens-fiction"
       ],
       "rating": 4.07,
-      "ratings": 8134,
+      "ratings": 8135,
       "reviews": 766
+    },
+    {
+      "title": "Daring to Drive: A Saudi Woman's Awakening",
+      "url": "https://www.goodreads.com/book/show/32620356-daring-to-drive",
+      "id": "53208039",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1545228360i/32620356.jpg",
+      "authors": [
+        "Manal Al-Sharif"
+      ],
+      "genres": [
+        "non-fiction",
+        "memoir",
+        "feminism",
+        "biography",
+        "middle-east",
+        "book-club",
+        "biography-memoir"
+      ],
+      "rating": 4.33,
+      "ratings": 8134,
+      "reviews": 1114
     },
     {
       "title": "A Woman's Place",
@@ -39,71 +102,8 @@
         "romance"
       ],
       "rating": 4.3,
-      "ratings": 8115,
+      "ratings": 8130,
       "reviews": 741
-    },
-    {
-      "title": "Hold Still: A Memoir with Photographs",
-      "url": "https://www.goodreads.com/book/show/23197288-hold-still",
-      "id": "42742272",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1418772238i/23197288.jpg",
-      "authors": [
-        "Sally Mann"
-      ],
-      "genres": [
-        "memoir",
-        "non-fiction",
-        "photography",
-        "art",
-        "biography",
-        "biography-memoir",
-        "book-club"
-      ],
-      "rating": 4.07,
-      "ratings": 8109,
-      "reviews": 1049
-    },
-    {
-      "title": "Tanqueray",
-      "url": "https://www.goodreads.com/book/show/59135431-tanqueray",
-      "id": "93255090",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1653947099i/59135431.jpg",
-      "authors": [
-        "Stephanie   Johnson"
-      ],
-      "genres": [
-        "non-fiction",
-        "memoir",
-        "biography",
-        "audiobook",
-        "biography-memoir",
-        "autobiography",
-        "book-club"
-      ],
-      "rating": 4.2,
-      "ratings": 8060,
-      "reviews": 952
-    },
-    {
-      "title": "James Patterson by James Patterson: The Stories of My Life",
-      "url": "https://www.goodreads.com/book/show/58231782-james-patterson-by-james-patterson",
-      "id": "91272015",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1653943274i/58231782.jpg",
-      "authors": [
-        "James  Patterson"
-      ],
-      "genres": [
-        "non-fiction",
-        "memoir",
-        "biography",
-        "audiobook",
-        "autobiography",
-        "writing",
-        "book-club"
-      ],
-      "rating": 4.19,
-      "ratings": 8058,
-      "reviews": 1018
     },
     {
       "title": "The Midnight Hour",
@@ -123,8 +123,71 @@
         "historical"
       ],
       "rating": 4.07,
-      "ratings": 8053,
-      "reviews": 490
+      "ratings": 8117,
+      "reviews": 498
+    },
+    {
+      "title": "Hold Still: A Memoir with Photographs",
+      "url": "https://www.goodreads.com/book/show/23197288-hold-still",
+      "id": "42742272",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1418772238i/23197288.jpg",
+      "authors": [
+        "Sally Mann"
+      ],
+      "genres": [
+        "memoir",
+        "non-fiction",
+        "photography",
+        "art",
+        "biography",
+        "biography-memoir",
+        "book-club"
+      ],
+      "rating": 4.07,
+      "ratings": 8111,
+      "reviews": 1049
+    },
+    {
+      "title": "James Patterson by James Patterson: The Stories of My Life",
+      "url": "https://www.goodreads.com/book/show/58231782-james-patterson-by-james-patterson",
+      "id": "91272015",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1653943274i/58231782.jpg",
+      "authors": [
+        "James  Patterson"
+      ],
+      "genres": [
+        "non-fiction",
+        "memoir",
+        "biography",
+        "audiobook",
+        "autobiography",
+        "writing",
+        "book-club"
+      ],
+      "rating": 4.19,
+      "ratings": 8064,
+      "reviews": 1018
+    },
+    {
+      "title": "Tanqueray",
+      "url": "https://www.goodreads.com/book/show/59135431-tanqueray",
+      "id": "93255090",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1653947099i/59135431.jpg",
+      "authors": [
+        "Stephanie   Johnson"
+      ],
+      "genres": [
+        "non-fiction",
+        "memoir",
+        "biography",
+        "audiobook",
+        "biography-memoir",
+        "autobiography",
+        "book-club"
+      ],
+      "rating": 4.2,
+      "ratings": 8064,
+      "reviews": 951
     },
     {
       "title": "Until I Say Goodbye: A Book about Living",
@@ -148,6 +211,27 @@
       "reviews": 940
     },
     {
+      "title": "A Natureza da Mordida",
+      "url": "https://www.goodreads.com/book/show/43226692-a-natureza-da-mordida",
+      "id": "67070830",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1544734739i/43226692.jpg",
+      "authors": [
+        "Carla Madeira"
+      ],
+      "genres": [
+        "fiction",
+        "romance",
+        "drama",
+        "contemporary",
+        "literary-fiction",
+        "book-club",
+        "brazil"
+      ],
+      "rating": 4.35,
+      "ratings": 8047,
+      "reviews": 1243
+    },
+    {
       "title": "The Fish That Ate the Whale: The Life and Times of America's Banana King",
       "url": "https://www.goodreads.com/book/show/13166586-the-fish-that-ate-the-whale",
       "id": "18345809",
@@ -165,29 +249,8 @@
         "entrepreneurship"
       ],
       "rating": 4.11,
-      "ratings": 8030,
-      "reviews": 761
-    },
-    {
-      "title": "A Natureza da Mordida",
-      "url": "https://www.goodreads.com/book/show/43226692-a-natureza-da-mordida",
-      "id": "67070830",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1544734739i/43226692.jpg",
-      "authors": [
-        "Carla Madeira"
-      ],
-      "genres": [
-        "fiction",
-        "romance",
-        "drama",
-        "contemporary",
-        "literary-fiction",
-        "book-club",
-        "brazil"
-      ],
-      "rating": 4.36,
-      "ratings": 8016,
-      "reviews": 1239
+      "ratings": 8043,
+      "reviews": 762
     },
     {
       "title": "Pulphead",
@@ -207,29 +270,8 @@
         "book-club"
       ],
       "rating": 4,
-      "ratings": 8002,
-      "reviews": 891
-    },
-    {
-      "title": "Star of the North",
-      "url": "https://www.goodreads.com/book/show/36723261-star-of-the-north",
-      "id": "57763081",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1513956496i/36723261.jpg",
-      "authors": [
-        "D.B. John"
-      ],
-      "genres": [
-        "thriller",
-        "fiction",
-        "mystery",
-        "historical-fiction",
-        "mystery-thriller",
-        "book-club",
-        "suspense"
-      ],
-      "rating": 4.2,
-      "ratings": 7986,
-      "reviews": 1105
+      "ratings": 8008,
+      "reviews": 892
     },
     {
       "title": "Cantoras",
@@ -249,8 +291,29 @@
         "book-club"
       ],
       "rating": 4.38,
-      "ratings": 7986,
+      "ratings": 7995,
       "reviews": 1450
+    },
+    {
+      "title": "Star of the North",
+      "url": "https://www.goodreads.com/book/show/36723261-star-of-the-north",
+      "id": "57763081",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1513956496i/36723261.jpg",
+      "authors": [
+        "D.B. John"
+      ],
+      "genres": [
+        "thriller",
+        "fiction",
+        "mystery",
+        "historical-fiction",
+        "mystery-thriller",
+        "book-club",
+        "suspense"
+      ],
+      "rating": 4.2,
+      "ratings": 7994,
+      "reviews": 1105
     },
     {
       "title": "Fair and Tender Ladies",
@@ -270,7 +333,7 @@
         "literary-fiction"
       ],
       "rating": 4.19,
-      "ratings": 7983,
+      "ratings": 7984,
       "reviews": 812
     },
     {
@@ -291,7 +354,7 @@
         "book-club"
       ],
       "rating": 4.15,
-      "ratings": 7980,
+      "ratings": 7983,
       "reviews": 566
     },
     {
@@ -312,7 +375,7 @@
         "book-club"
       ],
       "rating": 4.03,
-      "ratings": 7967,
+      "ratings": 7973,
       "reviews": 1175
     },
     {
@@ -333,8 +396,29 @@
         "literary-fiction"
       ],
       "rating": 4.33,
-      "ratings": 7963,
+      "ratings": 7965,
       "reviews": 665
+    },
+    {
+      "title": "Playing Ball: Life Lessons from My Journey to the Super Bowl and Beyond",
+      "url": "https://www.goodreads.com/book/show/202470606-playing-ball",
+      "id": "207906744",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1700543097i/202470606.jpg",
+      "authors": [
+        "Vernon Davis"
+      ],
+      "genres": [
+        "non-fiction",
+        "biography-memoir",
+        "memoir",
+        "inspirational",
+        "biography",
+        "book-club",
+        "true-story"
+      ],
+      "rating": 4.29,
+      "ratings": 7956,
+      "reviews": 21
     },
     {
       "title": "By Her Own Design: The Story of Ann Lowe, Society's Best-Kept Secret",
@@ -354,8 +438,8 @@
         "adult"
       ],
       "rating": 4.29,
-      "ratings": 7941,
-      "reviews": 1067
+      "ratings": 7954,
+      "reviews": 1069
     },
     {
       "title": "Good Hope Road",
@@ -375,7 +459,7 @@
         "christian"
       ],
       "rating": 4.1,
-      "ratings": 7941,
+      "ratings": 7949,
       "reviews": 769
     },
     {
@@ -395,7 +479,7 @@
         "book-club"
       ],
       "rating": 4.22,
-      "ratings": 7936,
+      "ratings": 7941,
       "reviews": 361
     },
     {
@@ -416,92 +500,8 @@
         "mystery-thriller"
       ],
       "rating": 4.18,
-      "ratings": 7923,
-      "reviews": 743
-    },
-    {
-      "title": "The First Wife's Secret",
-      "url": "https://www.goodreads.com/book/show/56599006-the-first-wife-s-secret",
-      "id": "88415045",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1610157104i/56599006.jpg",
-      "authors": [
-        "Claire Amarti"
-      ],
-      "genres": [
-        "fiction",
-        "mystery",
-        "book-club",
-        "contemporary",
-        "family",
-        "mystery-thriller",
-        "thriller"
-      ],
-      "rating": 4.03,
-      "ratings": 7913,
-      "reviews": 255
-    },
-    {
-      "title": "Hotline",
-      "url": "https://www.goodreads.com/book/show/60524292-hotline",
-      "id": "95383506",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1646067594i/60524292.jpg",
-      "authors": [
-        "Dimitri Nasrallah"
-      ],
-      "genres": [
-        "fiction",
-        "canada",
-        "historical-fiction",
-        "book-club",
-        "audiobook",
-        "literary-fiction",
-        "historical"
-      ],
-      "rating": 4.14,
-      "ratings": 7895,
-      "reviews": 933
-    },
-    {
-      "title": "Grey Bees",
-      "url": "https://www.goodreads.com/book/show/50374582-grey-bees",
-      "id": "62633944",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1605876951i/50374582.jpg",
-      "authors": [
-        "Andrey Kurkov"
-      ],
-      "genres": [
-        "fiction",
-        "ukraine",
-        "war",
-        "historical-fiction",
-        "book-club",
-        "contemporary",
-        "russia"
-      ],
-      "rating": 4.06,
-      "ratings": 7886,
-      "reviews": 1051
-    },
-    {
-      "title": "Wavewalker: Breaking Free",
-      "url": "https://www.goodreads.com/book/show/85135638-wavewalker",
-      "id": "126254731",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1678754193i/85135638.jpg",
-      "authors": [
-        "Suzanne Heywood"
-      ],
-      "genres": [
-        "non-fiction",
-        "memoir",
-        "biography",
-        "travel",
-        "book-club",
-        "adventure",
-        "audiobook"
-      ],
-      "rating": 4.23,
-      "ratings": 7883,
-      "reviews": 756
+      "ratings": 7927,
+      "reviews": 745
     }
   ]
 }

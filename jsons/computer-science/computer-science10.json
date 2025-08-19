@@ -1,6 +1,69 @@
 {
   "books": [
     {
+      "title": "Black Hat Python: Python Programming for Hackers and Pentesters",
+      "url": "https://www.goodreads.com/book/show/22299369-black-hat-python",
+      "id": "41687198",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1418765234i/22299369.jpg",
+      "authors": [
+        "Justin Seitz"
+      ],
+      "genres": [
+        "hackers",
+        "programming",
+        "technology",
+        "computer-science",
+        "non-fiction",
+        "technical",
+        "computers"
+      ],
+      "rating": 4.11,
+      "ratings": 600,
+      "reviews": 31
+    },
+    {
+      "title": "High Performance JavaScript: Build Faster Web Application Interfaces",
+      "url": "https://www.goodreads.com/book/show/7008656-high-performance-javascript",
+      "id": "7253533",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328834985i/7008656.jpg",
+      "authors": [
+        "Nicholas C. Zakas"
+      ],
+      "genres": [
+        "programming",
+        "technology",
+        "technical",
+        "computer-science",
+        "non-fiction",
+        "software",
+        "coding"
+      ],
+      "rating": 4.11,
+      "ratings": 596,
+      "reviews": 36
+    },
+    {
+      "title": "Computer Organization and Architecture",
+      "url": "https://www.goodreads.com/book/show/299635.Computer_Organization_and_Architecture",
+      "id": "290709",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1173511225i/299635.jpg",
+      "authors": [
+        "William Stallings"
+      ],
+      "genres": [
+        "computer-science",
+        "reference",
+        "non-fiction",
+        "programming",
+        "computers",
+        "textbooks",
+        "science"
+      ],
+      "rating": 4.06,
+      "ratings": 595,
+      "reviews": 27
+    },
+    {
       "title": "Kotlin in Action",
       "url": "https://www.goodreads.com/book/show/29242249-kotlin-in-action",
       "id": "49486079",
@@ -18,7 +81,7 @@
         "reference"
       ],
       "rating": 4.41,
-      "ratings": 592,
+      "ratings": 593,
       "reviews": 60
     },
     {
@@ -106,27 +169,6 @@
       "reviews": 24
     },
     {
-      "title": "Game Engine Architecture",
-      "url": "https://www.goodreads.com/book/show/6709076-game-engine-architecture",
-      "id": "6904910",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348115696i/6709076.jpg",
-      "authors": [
-        "Jason Gregory"
-      ],
-      "genres": [
-        "programming",
-        "computer-science",
-        "games",
-        "non-fiction",
-        "game-design",
-        "technology",
-        "technical"
-      ],
-      "rating": 4.41,
-      "ratings": 577,
-      "reviews": 29
-    },
-    {
       "title": "Mastering Ethereum: Building Smart Contracts and DApps",
       "url": "https://www.goodreads.com/book/show/33584554-mastering-ethereum",
       "id": "54397323",
@@ -169,6 +211,27 @@
       "reviews": 64
     },
     {
+      "title": "Game Engine Architecture",
+      "url": "https://www.goodreads.com/book/show/6709076-game-engine-architecture",
+      "id": "6904910",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348115696i/6709076.jpg",
+      "authors": [
+        "Jason Gregory"
+      ],
+      "genres": [
+        "programming",
+        "computer-science",
+        "games",
+        "non-fiction",
+        "game-design",
+        "technology",
+        "technical"
+      ],
+      "rating": 4.41,
+      "ratings": 575,
+      "reviews": 29
+    },
+    {
       "title": "Programming Rust: Fast, Safe Systems Development",
       "url": "https://www.goodreads.com/book/show/25550614-programming-rust",
       "id": "45344609",
@@ -186,8 +249,29 @@
         "computers"
       ],
       "rating": 4.63,
-      "ratings": 572,
+      "ratings": 573,
       "reviews": 64
+    },
+    {
+      "title": "Clojure for the Brave and True",
+      "url": "https://www.goodreads.com/book/show/20873338-clojure-for-the-brave-and-true",
+      "id": "40212034",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1432497082i/20873338.jpg",
+      "authors": [
+        "Daniel Higginbotham"
+      ],
+      "genres": [
+        "programming",
+        "computer-science",
+        "technology",
+        "non-fiction",
+        "technical",
+        "software",
+        "engineering"
+      ],
+      "rating": 4.27,
+      "ratings": 568,
+      "reviews": 69
     },
     {
       "title": "Natural Language Processing with Python: Analyzing Text with the Natural Language Toolkit",
@@ -209,27 +293,6 @@
       "rating": 4.1,
       "ratings": 568,
       "reviews": 54
-    },
-    {
-      "title": "Clojure for the Brave and True",
-      "url": "https://www.goodreads.com/book/show/20873338-clojure-for-the-brave-and-true",
-      "id": "40212034",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1432497082i/20873338.jpg",
-      "authors": [
-        "Daniel Higginbotham"
-      ],
-      "genres": [
-        "programming",
-        "computer-science",
-        "technology",
-        "non-fiction",
-        "technical",
-        "software",
-        "engineering"
-      ],
-      "rating": 4.27,
-      "ratings": 567,
-      "reviews": 69
     },
     {
       "title": "C++ Primer Plus",
@@ -316,6 +379,27 @@
       "reviews": 32
     },
     {
+      "title": "The Nature of Software Development",
+      "url": "https://www.goodreads.com/book/show/23016056-the-nature-of-software-development",
+      "id": "42582037",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1459593978i/23016056.jpg",
+      "authors": [
+        "Ron Jeffries"
+      ],
+      "genres": [
+        "programming",
+        "technology",
+        "software",
+        "non-fiction",
+        "computer-science",
+        "business",
+        "technical"
+      ],
+      "rating": 4.07,
+      "ratings": 549,
+      "reviews": 85
+    },
+    {
       "title": "More Joel on Software: Further Thoughts on Diverse and Occasionally Related Matters That Will Prove of Interest to Software Developers, Designers, and ... or Ill Luck, Work with Them in Some Capacity",
       "url": "https://www.goodreads.com/book/show/2718384-more-joel-on-software",
       "id": "2743981",
@@ -335,48 +419,6 @@
       "rating": 4.05,
       "ratings": 549,
       "reviews": 34
-    },
-    {
-      "title": "The Nature of Software Development",
-      "url": "https://www.goodreads.com/book/show/23016056-the-nature-of-software-development",
-      "id": "42582037",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1459593978i/23016056.jpg",
-      "authors": [
-        "Ron Jeffries"
-      ],
-      "genres": [
-        "programming",
-        "technology",
-        "software",
-        "non-fiction",
-        "computer-science",
-        "business",
-        "technical"
-      ],
-      "rating": 4.08,
-      "ratings": 548,
-      "reviews": 85
-    },
-    {
-      "title": "The Road to React",
-      "url": "https://www.goodreads.com/book/show/37503118-the-road-to-react",
-      "id": "54742113",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1513179373i/37503118.jpg",
-      "authors": [
-        "Robin Wieruch"
-      ],
-      "genres": [
-        "programming",
-        "computer-science",
-        "technology",
-        "software",
-        "non-fiction",
-        "coding",
-        "computers"
-      ],
-      "rating": 4.23,
-      "ratings": 546,
-      "reviews": 76
     },
     {
       "title": "You Don't Know JS: ES6 & Beyond",
@@ -416,9 +458,30 @@
         "computers",
         "reference"
       ],
-      "rating": 4.1,
-      "ratings": 545,
+      "rating": 4.09,
+      "ratings": 546,
       "reviews": 20
+    },
+    {
+      "title": "The Road to React",
+      "url": "https://www.goodreads.com/book/show/37503118-the-road-to-react",
+      "id": "54742113",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1513179373i/37503118.jpg",
+      "authors": [
+        "Robin Wieruch"
+      ],
+      "genres": [
+        "programming",
+        "computer-science",
+        "technology",
+        "software",
+        "non-fiction",
+        "coding",
+        "computers"
+      ],
+      "rating": 4.23,
+      "ratings": 546,
+      "reviews": 76
     },
     {
       "title": "Scrum: A Pocket Guide: A Smart Travel Companion (Best Practice",
@@ -437,69 +500,6 @@
       "rating": 4.24,
       "ratings": 544,
       "reviews": 53
-    },
-    {
-      "title": "SQL Antipatterns: Avoiding the Pitfalls of Database Programming",
-      "url": "https://www.goodreads.com/book/show/7959038-sql-antipatterns",
-      "id": "11753471",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348552520i/7959038.jpg",
-      "authors": [
-        "Bill Karwin"
-      ],
-      "genres": [
-        "programming",
-        "technology",
-        "software",
-        "non-fiction",
-        "computer-science",
-        "technical",
-        "reference"
-      ],
-      "rating": 4,
-      "ratings": 544,
-      "reviews": 70
-    },
-    {
-      "title": "Gray Hat Hacking : The Ethical Hacker's Handbook",
-      "url": "https://www.goodreads.com/book/show/61621.Gray_Hat_Hacking_",
-      "id": "59930",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1390348780i/61621.jpg",
-      "authors": [
-        "Shon Harris"
-      ],
-      "genres": [
-        "hackers",
-        "technology",
-        "computer-science",
-        "non-fiction",
-        "technical",
-        "reference",
-        "programming"
-      ],
-      "rating": 4.09,
-      "ratings": 533,
-      "reviews": 18
-    },
-    {
-      "title": "Quantum Computation and Quantum Information",
-      "url": "https://www.goodreads.com/book/show/153910.Quantum_Computation_and_Quantum_Information",
-      "id": "148546",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348285880i/153910.jpg",
-      "authors": [
-        "Michael A. Nielsen"
-      ],
-      "genres": [
-        "physics",
-        "science",
-        "computer-science",
-        "textbooks",
-        "mathematics",
-        "non-fiction",
-        "programming"
-      ],
-      "rating": 4.39,
-      "ratings": 527,
-      "reviews": 31
     }
   ]
 }

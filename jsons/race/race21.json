@@ -1,6 +1,27 @@
 {
   "books": [
     {
+      "title": "Even This Page Is White",
+      "url": "https://www.goodreads.com/book/show/28818619-even-this-page-is-white",
+      "id": "49036025",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1454918391i/28818619.jpg",
+      "authors": [
+        "Vivek Shraya"
+      ],
+      "genres": [
+        "poetry",
+        "lgbt",
+        "queer",
+        "race",
+        "non-fiction",
+        "canada",
+        "transgender"
+      ],
+      "rating": 4.09,
+      "ratings": 2063,
+      "reviews": 317
+    },
+    {
       "title": "Nobody: Casualties of America's War on the Vulnerable, from Ferguson to Flint and Beyond",
       "url": "https://www.goodreads.com/book/show/27274349-nobody",
       "id": "47328181",
@@ -19,7 +40,7 @@
       ],
       "rating": 4.31,
       "ratings": 2060,
-      "reviews": 239
+      "reviews": 238
     },
     {
       "title": "The Selected Works of Audre Lorde",
@@ -35,33 +56,12 @@
         "feminism",
         "essays",
         "queer",
-        "race",
-        "lgbt"
-      ],
-      "rating": 4.61,
-      "ratings": 2057,
-      "reviews": 275
-    },
-    {
-      "title": "Um Defeito de Cor",
-      "url": "https://www.goodreads.com/book/show/6262794-um-defeito-de-cor",
-      "id": "6446044",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1602367482i/6262794.jpg",
-      "authors": [
-        "Ana Maria Gonçalves"
-      ],
-      "genres": [
-        "fiction",
-        "historical-fiction",
-        "brazil",
-        "romance",
-        "portuguese-literature",
-        "drama",
+        "lgbt",
         "race"
       ],
-      "rating": 4.74,
-      "ratings": 2054,
-      "reviews": 286
+      "rating": 4.62,
+      "ratings": 2059,
+      "reviews": 275
     },
     {
       "title": "Intellectuals and Race",
@@ -81,29 +81,8 @@
         "race"
       ],
       "rating": 4.35,
-      "ratings": 2036,
+      "ratings": 2037,
       "reviews": 216
-    },
-    {
-      "title": "When Affirmative Action Was White: An Untold History of Racial Inequality in Twentieth-Century America",
-      "url": "https://www.goodreads.com/book/show/88367.When_Affirmative_Action_Was_White",
-      "id": "85273",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348870472i/88367.jpg",
-      "authors": [
-        "Ira Katznelson"
-      ],
-      "genres": [
-        "history",
-        "non-fiction",
-        "race",
-        "politics",
-        "social-justice",
-        "anti-racist",
-        "american-history"
-      ],
-      "rating": 4.13,
-      "ratings": 2028,
-      "reviews": 198
     },
     {
       "title": "Policing Black Lives: State Violence in Canada from Slavery to the Present",
@@ -124,28 +103,28 @@
       ],
       "rating": 4.56,
       "ratings": 2027,
-      "reviews": 288
+      "reviews": 287
     },
     {
-      "title": "Feminism Without Borders: Decolonizing Theory, Practicing Solidarity",
-      "url": "https://www.goodreads.com/book/show/151266.Feminism_Without_Borders",
-      "id": "145992",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1344683948i/151266.jpg",
+      "title": "When Affirmative Action Was White: An Untold History of Racial Inequality in Twentieth-Century America",
+      "url": "https://www.goodreads.com/book/show/88367.When_Affirmative_Action_Was_White",
+      "id": "85273",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348870472i/88367.jpg",
       "authors": [
-        "Chandra Talpade Mohanty"
+        "Ira Katznelson"
       ],
       "genres": [
-        "feminism",
+        "history",
         "non-fiction",
-        "gender",
-        "politics",
         "race",
+        "politics",
         "social-justice",
-        "theory"
+        "anti-racist",
+        "american-history"
       ],
-      "rating": 4.24,
-      "ratings": 2013,
-      "reviews": 74
+      "rating": 4.13,
+      "ratings": 2027,
+      "reviews": 198
     },
     {
       "title": "Soul by Soul: Life Inside the Antebellum Slave Market",
@@ -165,8 +144,29 @@
         "politics"
       ],
       "rating": 4.11,
-      "ratings": 2012,
+      "ratings": 2013,
       "reviews": 99
+    },
+    {
+      "title": "Feminism Without Borders: Decolonizing Theory, Practicing Solidarity",
+      "url": "https://www.goodreads.com/book/show/151266.Feminism_without_Borders",
+      "id": "145992",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1344683948i/151266.jpg",
+      "authors": [
+        "Chandra Talpade Mohanty"
+      ],
+      "genres": [
+        "feminism",
+        "non-fiction",
+        "gender",
+        "politics",
+        "race",
+        "theory",
+        "social-justice"
+      ],
+      "rating": 4.24,
+      "ratings": 2013,
+      "reviews": 74
     },
     {
       "title": "We Gon' Be Alright: Notes on Race and Resegregation",
@@ -207,7 +207,7 @@
         "politics"
       ],
       "rating": 4.03,
-      "ratings": 2001,
+      "ratings": 2002,
       "reviews": 170
     },
     {
@@ -228,7 +228,7 @@
         "social-justice"
       ],
       "rating": 4.15,
-      "ratings": 1999,
+      "ratings": 2000,
       "reviews": 321
     },
     {
@@ -270,7 +270,7 @@
         "brazil"
       ],
       "rating": 4.33,
-      "ratings": 1981,
+      "ratings": 1982,
       "reviews": 175
     },
     {
@@ -295,27 +295,6 @@
       "reviews": 263
     },
     {
-      "title": "Sundown Towns: A Hidden Dimension of American Racism",
-      "url": "https://www.goodreads.com/book/show/52444.Sundown_Towns",
-      "id": "51159",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1426460305i/52444.jpg",
-      "authors": [
-        "James W. Loewen"
-      ],
-      "genres": [
-        "history",
-        "non-fiction",
-        "race",
-        "sociology",
-        "american-history",
-        "politics",
-        "social-justice"
-      ],
-      "rating": 4.3,
-      "ratings": 1963,
-      "reviews": 298
-    },
-    {
       "title": "Time's Undoing",
       "url": "https://www.goodreads.com/book/show/61261007-time-s-undoing",
       "id": "93984149",
@@ -333,8 +312,29 @@
         "race"
       ],
       "rating": 4.02,
-      "ratings": 1962,
-      "reviews": 377
+      "ratings": 1965,
+      "reviews": 378
+    },
+    {
+      "title": "Sundown Towns: A Hidden Dimension of American Racism",
+      "url": "https://www.goodreads.com/book/show/52444.Sundown_Towns",
+      "id": "51159",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1426460305i/52444.jpg",
+      "authors": [
+        "James W. Loewen"
+      ],
+      "genres": [
+        "history",
+        "non-fiction",
+        "race",
+        "sociology",
+        "american-history",
+        "politics",
+        "social-justice"
+      ],
+      "rating": 4.3,
+      "ratings": 1964,
+      "reviews": 298
     },
     {
       "title": "Give Us the Ballot: The Modern Struggle for Voting Rights in America",
@@ -354,7 +354,7 @@
         "audiobook"
       ],
       "rating": 4.39,
-      "ratings": 1960,
+      "ratings": 1961,
       "reviews": 345
     },
     {
@@ -375,7 +375,7 @@
         "politics"
       ],
       "rating": 4.47,
-      "ratings": 1953,
+      "ratings": 1955,
       "reviews": 151
     },
     {
@@ -417,29 +417,8 @@
         "social-justice"
       ],
       "rating": 4.66,
-      "ratings": 1931,
-      "reviews": 334
-    },
-    {
-      "title": "The Colonizer and the Colonized",
-      "url": "https://www.goodreads.com/book/show/822751.The_Colonizer_and_the_Colonized",
-      "id": "797812",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1393706195i/822751.jpg",
-      "authors": [
-        "Albert Memmi"
-      ],
-      "genres": [
-        "non-fiction",
-        "history",
-        "politics",
-        "philosophy",
-        "theory",
-        "race",
-        "psychology"
-      ],
-      "rating": 4.2,
-      "ratings": 1926,
-      "reviews": 175
+      "ratings": 1932,
+      "reviews": 333
     },
     {
       "title": "The Broken Heart of America: St. Louis and the Violent History of the United States",
@@ -459,8 +438,29 @@
         "social-justice"
       ],
       "rating": 4.39,
-      "ratings": 1925,
-      "reviews": 308
+      "ratings": 1930,
+      "reviews": 309
+    },
+    {
+      "title": "The Colonizer and the Colonized",
+      "url": "https://www.goodreads.com/book/show/822751.The_Colonizer_and_the_Colonized",
+      "id": "797812",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1393706195i/822751.jpg",
+      "authors": [
+        "Albert Memmi"
+      ],
+      "genres": [
+        "non-fiction",
+        "history",
+        "politics",
+        "philosophy",
+        "theory",
+        "race",
+        "psychology"
+      ],
+      "rating": 4.2,
+      "ratings": 1930,
+      "reviews": 175
     },
     {
       "title": "I Came As a Shadow: An Autobiography",
@@ -480,29 +480,29 @@
         "race"
       ],
       "rating": 4.47,
-      "ratings": 1922,
+      "ratings": 1923,
       "reviews": 297
     },
     {
-      "title": "The Colors of Us",
-      "url": "https://www.goodreads.com/book/show/19600.The_Colors_of_Us",
-      "id": "259318",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388289045i/19600.jpg",
+      "title": "Grading for Equity: What It Is, Why It Matters, and How It Can Transform Schools and Classrooms",
+      "url": "https://www.goodreads.com/book/show/40363882-grading-for-equity",
+      "id": "62644548",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1534165520i/40363882.jpg",
       "authors": [
-        "Karen Katz"
+        "Joe Feldman"
       ],
       "genres": [
-        "picture-books",
-        "childrens",
-        "cultural",
-        "race",
-        "friendship",
-        "art",
-        "fiction"
+        "education",
+        "teaching",
+        "non-fiction",
+        "school",
+        "social-justice",
+        "theory",
+        "race"
       ],
-      "rating": 4.34,
+      "rating": 4.19,
       "ratings": 1906,
-      "reviews": 358
+      "reviews": 249
     }
   ]
 }

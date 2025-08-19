@@ -1,6 +1,48 @@
 {
   "books": [
     {
+      "title": "SQL Antipatterns: Avoiding the Pitfalls of Database Programming",
+      "url": "https://www.goodreads.com/book/show/7959038-sql-antipatterns",
+      "id": "11753471",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348552520i/7959038.jpg",
+      "authors": [
+        "Bill Karwin"
+      ],
+      "genres": [
+        "programming",
+        "technology",
+        "software",
+        "non-fiction",
+        "computer-science",
+        "technical",
+        "reference"
+      ],
+      "rating": 4,
+      "ratings": 544,
+      "reviews": 70
+    },
+    {
+      "title": "Gray Hat Hacking : The Ethical Hacker's Handbook",
+      "url": "https://www.goodreads.com/book/show/61621.Gray_Hat_Hacking_",
+      "id": "59930",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1390348780i/61621.jpg",
+      "authors": [
+        "Shon Harris"
+      ],
+      "genres": [
+        "hackers",
+        "technology",
+        "computer-science",
+        "non-fiction",
+        "reference",
+        "programming",
+        "technical"
+      ],
+      "rating": 4.09,
+      "ratings": 533,
+      "reviews": 18
+    },
+    {
       "title": "Practical Statistics for Data Scientists: 50 Essential Concepts",
       "url": "https://www.goodreads.com/book/show/28646693-practical-statistics-for-data-scientists",
       "id": "48833594",
@@ -18,8 +60,50 @@
         "technology"
       ],
       "rating": 4.03,
-      "ratings": 525,
+      "ratings": 527,
       "reviews": 46
+    },
+    {
+      "title": "Quantum Computation and Quantum Information",
+      "url": "https://www.goodreads.com/book/show/153910.Quantum_Computation_and_Quantum_Information",
+      "id": "148546",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348285880i/153910.jpg",
+      "authors": [
+        "Michael A. Nielsen"
+      ],
+      "genres": [
+        "physics",
+        "science",
+        "computer-science",
+        "textbooks",
+        "mathematics",
+        "non-fiction",
+        "programming"
+      ],
+      "rating": 4.39,
+      "ratings": 527,
+      "reviews": 31
+    },
+    {
+      "title": "Explain the Cloud Like I'm 10",
+      "url": "https://www.goodreads.com/book/show/38598010-explain-the-cloud-like-i-m-10",
+      "id": "58134509",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1518792759i/38598010.jpg",
+      "authors": [
+        "Todd Hoff"
+      ],
+      "genres": [
+        "technology",
+        "programming",
+        "computer-science",
+        "non-fiction",
+        "technical",
+        "business",
+        "engineering"
+      ],
+      "rating": 4.36,
+      "ratings": 525,
+      "reviews": 73
     },
     {
       "title": "Database Internals: A deep-dive into how distributed data systems work",
@@ -64,6 +148,27 @@
       "reviews": 17
     },
     {
+      "title": "Learning React: Functional Web Development with React and Redux",
+      "url": "https://www.goodreads.com/book/show/29324861-learning-react",
+      "id": "49558043",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1494421362i/29324861.jpg",
+      "authors": [
+        "Alex Banks"
+      ],
+      "genres": [
+        "programming",
+        "technology",
+        "computer-science",
+        "technical",
+        "software",
+        "reference",
+        "non-fiction"
+      ],
+      "rating": 4.07,
+      "ratings": 513,
+      "reviews": 55
+    },
+    {
       "title": "Statistical Rethinking: A Bayesian Course with Examples in R and Stan",
       "url": "https://www.goodreads.com/book/show/26619686-statistical-rethinking",
       "id": "46656775",
@@ -106,27 +211,6 @@
       "reviews": 73
     },
     {
-      "title": "Flask Web Development: Developing Web Applications with Python",
-      "url": "https://www.goodreads.com/book/show/18774655-flask-web-development",
-      "id": "26679631",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1390432971i/18774655.jpg",
-      "authors": [
-        "Miguel Grinberg"
-      ],
-      "genres": [
-        "programming",
-        "computer-science",
-        "technology",
-        "coding",
-        "non-fiction",
-        "reference",
-        "software"
-      ],
-      "rating": 4.19,
-      "ratings": 508,
-      "reviews": 56
-    },
-    {
       "title": "UX for Beginners: A Crash Course in 100 Short Lessons",
       "url": "https://www.goodreads.com/book/show/26457147-ux-for-beginners",
       "id": "46459731",
@@ -146,6 +230,27 @@
       "rating": 4.05,
       "ratings": 508,
       "reviews": 58
+    },
+    {
+      "title": "Flask Web Development: Developing Web Applications with Python",
+      "url": "https://www.goodreads.com/book/show/18774655-flask-web-development",
+      "id": "26679631",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1390432971i/18774655.jpg",
+      "authors": [
+        "Miguel Grinberg"
+      ],
+      "genres": [
+        "programming",
+        "computer-science",
+        "technology",
+        "coding",
+        "non-fiction",
+        "reference",
+        "software"
+      ],
+      "rating": 4.19,
+      "ratings": 507,
+      "reviews": 56
     },
     {
       "title": "Quantum Computing for Everyone",

@@ -1,6 +1,27 @@
 {
   "books": [
     {
+      "title": "Scala for the Impatient",
+      "url": "https://www.goodreads.com/book/show/11335855-scala-for-the-impatient",
+      "id": "16264400",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348110005i/11335855.jpg",
+      "authors": [
+        "Cay S. Horstmann"
+      ],
+      "genres": [
+        "programming",
+        "technology",
+        "technical",
+        "computer-science",
+        "software",
+        "non-fiction",
+        "computers"
+      ],
+      "rating": 4.09,
+      "ratings": 638,
+      "reviews": 55
+    },
+    {
       "title": "The Software Engineer's Guidebook: Navigating senior, tech lead, and staff engineer positions at tech companies and startups",
       "url": "https://www.goodreads.com/book/show/201545491-the-software-engineer-s-guidebook",
       "id": "206444812",
@@ -18,8 +39,29 @@
         "non-fiction"
       ],
       "rating": 4.08,
-      "ratings": 624,
+      "ratings": 625,
       "reviews": 80
+    },
+    {
+      "title": "The Software Architect Elevator: Redefining the Architect's Role in the Digital Enterprise",
+      "url": "https://www.goodreads.com/book/show/49828197-the-software-architect-elevator",
+      "id": "74934396",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1585196491i/49828197.jpg",
+      "authors": [
+        "Gregor Hohpe"
+      ],
+      "genres": [
+        "technology",
+        "architecture",
+        "software",
+        "programming",
+        "non-fiction",
+        "technical",
+        "business"
+      ],
+      "rating": 4.39,
+      "ratings": 624,
+      "reviews": 70
     },
     {
       "title": "Game Engine Black Book, Wolfenstein 3D",
@@ -41,27 +83,6 @@
       "rating": 4.48,
       "ratings": 624,
       "reviews": 68
-    },
-    {
-      "title": "The Software Architect Elevator: Redefining the Architect's Role in the Digital Enterprise",
-      "url": "https://www.goodreads.com/book/show/49828197-the-software-architect-elevator",
-      "id": "74934396",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1585196491i/49828197.jpg",
-      "authors": [
-        "Gregor Hohpe"
-      ],
-      "genres": [
-        "technology",
-        "architecture",
-        "software",
-        "programming",
-        "non-fiction",
-        "technical",
-        "business"
-      ],
-      "rating": 4.38,
-      "ratings": 621,
-      "reviews": 70
     },
     {
       "title": "Effective STL: 50 Specific Ways to Improve Your Use of the Standard Template Library",
@@ -106,6 +127,27 @@
       "reviews": 34
     },
     {
+      "title": "Practical Malware Analysis: The Hands-On Guide to Dissecting Malicious Software",
+      "url": "https://www.goodreads.com/book/show/10677461-practical-malware-analysis",
+      "id": "15587160",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1344702932i/10677461.jpg",
+      "authors": [
+        "Michael Sikorski"
+      ],
+      "genres": [
+        "technology",
+        "hackers",
+        "computer-science",
+        "non-fiction",
+        "programming",
+        "computers",
+        "technical"
+      ],
+      "rating": 4.48,
+      "ratings": 605,
+      "reviews": 31
+    },
+    {
       "title": "The Principles of Object-Oriented JavaScript",
       "url": "https://www.goodreads.com/book/show/20799234-the-principles-of-object-oriented-javascript",
       "id": "40143152",
@@ -125,27 +167,6 @@
       "rating": 4.36,
       "ratings": 604,
       "reviews": 62
-    },
-    {
-      "title": "Practical Malware Analysis: The Hands-On Guide to Dissecting Malicious Software",
-      "url": "https://www.goodreads.com/book/show/10677461-practical-malware-analysis",
-      "id": "15587160",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1344702932i/10677461.jpg",
-      "authors": [
-        "Michael Sikorski"
-      ],
-      "genres": [
-        "technology",
-        "hackers",
-        "computer-science",
-        "non-fiction",
-        "programming",
-        "computers",
-        "technical"
-      ],
-      "rating": 4.48,
-      "ratings": 604,
-      "reviews": 30
     },
     {
       "title": "Black Hat Python: Python Programming for Hackers and Pentesters",
@@ -207,7 +228,7 @@
         "reference"
       ],
       "rating": 4.41,
-      "ratings": 592,
+      "ratings": 593,
       "reviews": 60
     },
     {
@@ -274,27 +295,6 @@
       "reviews": 24
     },
     {
-      "title": "Game Engine Architecture",
-      "url": "https://www.goodreads.com/book/show/6709076-game-engine-architecture",
-      "id": "6904910",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348115696i/6709076.jpg",
-      "authors": [
-        "Jason Gregory"
-      ],
-      "genres": [
-        "programming",
-        "computer-science",
-        "games",
-        "non-fiction",
-        "game-design",
-        "technology",
-        "technical"
-      ],
-      "rating": 4.41,
-      "ratings": 577,
-      "reviews": 29
-    },
-    {
       "title": "Mastering Ethereum: Building Smart Contracts and DApps",
       "url": "https://www.goodreads.com/book/show/33584554-mastering-ethereum",
       "id": "54397323",
@@ -337,6 +337,27 @@
       "reviews": 64
     },
     {
+      "title": "Game Engine Architecture",
+      "url": "https://www.goodreads.com/book/show/6709076-game-engine-architecture",
+      "id": "6904910",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348115696i/6709076.jpg",
+      "authors": [
+        "Jason Gregory"
+      ],
+      "genres": [
+        "programming",
+        "computer-science",
+        "games",
+        "non-fiction",
+        "game-design",
+        "technology",
+        "technical"
+      ],
+      "rating": 4.41,
+      "ratings": 575,
+      "reviews": 29
+    },
+    {
       "title": "Programming Rust: Fast, Safe Systems Development",
       "url": "https://www.goodreads.com/book/show/25550614-programming-rust",
       "id": "45344609",
@@ -354,7 +375,7 @@
         "computers"
       ],
       "rating": 4.63,
-      "ratings": 572,
+      "ratings": 573,
       "reviews": 64
     },
     {
@@ -375,7 +396,7 @@
         "engineering"
       ],
       "rating": 4.27,
-      "ratings": 567,
+      "ratings": 568,
       "reviews": 69
     },
     {
@@ -482,27 +503,6 @@
       "rating": 4.05,
       "ratings": 549,
       "reviews": 34
-    },
-    {
-      "title": "The Nature of Software Development",
-      "url": "https://www.goodreads.com/book/show/23016056-the-nature-of-software-development",
-      "id": "42582037",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1459593978i/23016056.jpg",
-      "authors": [
-        "Ron Jeffries"
-      ],
-      "genres": [
-        "programming",
-        "technology",
-        "software",
-        "non-fiction",
-        "computer-science",
-        "business",
-        "technical"
-      ],
-      "rating": 4.08,
-      "ratings": 548,
-      "reviews": 85
     }
   ]
 }

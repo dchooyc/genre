@@ -1,6 +1,48 @@
 {
   "books": [
     {
+      "title": "Mindstorms: Children, Computers, and Powerful Ideas",
+      "url": "https://www.goodreads.com/book/show/703532.Mindstorms",
+      "id": "689823",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348579820i/703532.jpg",
+      "authors": [
+        "Seymour Papert"
+      ],
+      "genres": [
+        "non-fiction",
+        "technology",
+        "psychology",
+        "computer-science",
+        "programming",
+        "computers",
+        "parenting"
+      ],
+      "rating": 4.31,
+      "ratings": 842,
+      "reviews": 97
+    },
+    {
+      "title": "High Performance Browser Networking",
+      "url": "https://www.goodreads.com/book/show/17985198-high-performance-browser-networking",
+      "id": "25220114",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1369754654i/17985198.jpg",
+      "authors": [
+        "Ilya Grigorik"
+      ],
+      "genres": [
+        "programming",
+        "technology",
+        "computer-science",
+        "software",
+        "technical",
+        "non-fiction",
+        "web"
+      ],
+      "rating": 4.51,
+      "ratings": 839,
+      "reviews": 89
+    },
+    {
       "title": "Design Patterns in Ruby",
       "url": "https://www.goodreads.com/book/show/2278064.Design_Patterns_in_Ruby",
       "id": "2284175",
@@ -39,7 +81,7 @@
         "engineering"
       ],
       "rating": 4.2,
-      "ratings": 813,
+      "ratings": 814,
       "reviews": 87
     },
     {
@@ -102,7 +144,7 @@
         "computers"
       ],
       "rating": 4.43,
-      "ratings": 776,
+      "ratings": 777,
       "reviews": 84
     },
     {
@@ -125,6 +167,27 @@
       "rating": 4.28,
       "ratings": 773,
       "reviews": 38
+    },
+    {
+      "title": "Simple and Usable Web, Mobile, and Interaction Design",
+      "url": "https://www.goodreads.com/book/show/8881346-simple-and-usable-web-mobile-and-interaction-design",
+      "id": "13757173",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1288723572i/8881346.jpg",
+      "authors": [
+        "Giles Colborne"
+      ],
+      "genres": [
+        "design",
+        "non-fiction",
+        "usability",
+        "website-design",
+        "programming",
+        "business",
+        "web"
+      ],
+      "rating": 4.04,
+      "ratings": 771,
+      "reviews": 41
     },
     {
       "title": "The Art of Computer Programming, Volumes 1-3 Boxed Set",
@@ -228,7 +291,7 @@
         "non-fiction"
       ],
       "rating": 4.26,
-      "ratings": 758,
+      "ratings": 759,
       "reviews": 76
     },
     {
@@ -249,7 +312,7 @@
         "technical"
       ],
       "rating": 4.25,
-      "ratings": 753,
+      "ratings": 752,
       "reviews": 39
     },
     {
@@ -270,7 +333,7 @@
         "non-fiction"
       ],
       "rating": 4.71,
-      "ratings": 750,
+      "ratings": 752,
       "reviews": 86
     },
     {
@@ -354,7 +417,7 @@
         "technology"
       ],
       "rating": 4.03,
-      "ratings": 732,
+      "ratings": 733,
       "reviews": 27
     },
     {
@@ -375,7 +438,7 @@
         "design"
       ],
       "rating": 4.66,
-      "ratings": 730,
+      "ratings": 731,
       "reviews": 192
     },
     {
@@ -396,7 +459,7 @@
         "technical"
       ],
       "rating": 4.15,
-      "ratings": 721,
+      "ratings": 722,
       "reviews": 96
     },
     {
@@ -421,48 +484,6 @@
       "reviews": 79
     },
     {
-      "title": "Understanding the Linux Kernel",
-      "url": "https://www.goodreads.com/book/show/227119.Understanding_the_Linux_Kernel",
-      "id": "219996",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388217897i/227119.jpg",
-      "authors": [
-        "Daniel P. Bovet"
-      ],
-      "genres": [
-        "programming",
-        "computer-science",
-        "technology",
-        "technical",
-        "reference",
-        "computers",
-        "non-fiction"
-      ],
-      "rating": 4.12,
-      "ratings": 710,
-      "reviews": 29
-    },
-    {
-      "title": "Java 8 in Action",
-      "url": "https://www.goodreads.com/book/show/20534354-java-8-in-action",
-      "id": "37712584",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1420231793i/20534354.jpg",
-      "authors": [
-        "Raoul-Gabriel Urma"
-      ],
-      "genres": [
-        "programming",
-        "technology",
-        "computer-science",
-        "technical",
-        "software",
-        "non-fiction",
-        "coding"
-      ],
-      "rating": 4.35,
-      "ratings": 709,
-      "reviews": 84
-    },
-    {
       "title": "Why Machines Learn: The Elegant Math Behind Modern AI",
       "url": "https://www.goodreads.com/book/show/195888801-why-machines-learn",
       "id": "197870335",
@@ -480,29 +501,8 @@
         "programming"
       ],
       "rating": 4.37,
-      "ratings": 707,
+      "ratings": 715,
       "reviews": 101
-    },
-    {
-      "title": "The Linux Programming Interface: A Linux and UNIX System Programming Handbook",
-      "url": "https://www.goodreads.com/book/show/7672214-the-linux-programming-interface",
-      "id": "10286833",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1391032547i/7672214.jpg",
-      "authors": [
-        "Michael Kerrisk"
-      ],
-      "genres": [
-        "programming",
-        "computer-science",
-        "technology",
-        "technical",
-        "reference",
-        "software",
-        "computers"
-      ],
-      "rating": 4.63,
-      "ratings": 702,
-      "reviews": 44
     }
   ]
 }

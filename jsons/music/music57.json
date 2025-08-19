@@ -1,42 +1,434 @@
 {
   "books": [
     {
-      "title": "Justin Bieber: Our World",
-      "url": "https://www.goodreads.com/book/show/7852841-justin-bieber",
-      "id": "10979720",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328766576i/7852841.jpg",
+      "title": "The Teddy Bears' Picnic",
+      "url": "https://www.goodreads.com/book/show/1218653.The_Teddy_Bears_Picnic",
+      "id": "1207128",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388305091i/1218653.jpg",
       "authors": [
-        "Millie Rowlands"
+        "Jimmy Kennedy"
       ],
       "genres": [
-        "biography",
-        "non-fiction",
+        "picture-books",
+        "childrens",
+        "fiction",
+        "classics",
+        "poetry",
+        "storytime",
         "music"
       ],
-      "rating": 4.49,
-      "ratings": 771,
-      "reviews": 22
+      "rating": 4.06,
+      "ratings": 795,
+      "reviews": 76
     },
     {
-      "title": "Never Look at the Empty Seats: A Memoir",
-      "url": "https://www.goodreads.com/book/show/34460593-never-look-at-the-empty-seats",
-      "id": "55576945",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1505319083i/34460593.jpg",
+      "title": "Solid State: The Story of Abbey Road and the End of the Beatles",
+      "url": "https://www.goodreads.com/book/show/45008408-solid-state",
+      "id": "25372304",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1566288409i/45008408.jpg",
       "authors": [
-        "Charlie Daniels"
+        "Kenneth Womack"
       ],
       "genres": [
-        "memoir",
         "music",
         "non-fiction",
         "biography",
-        "autobiography",
+        "history",
+        "audiobook",
+        "pop-culture"
+      ],
+      "rating": 4.18,
+      "ratings": 794,
+      "reviews": 130
+    },
+    {
+      "title": "Alan Cumming: Legal Immigrant",
+      "url": "https://www.goodreads.com/book/show/48919775-alan-cumming",
+      "id": "74317524",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1574520169i/48919775.jpg",
+      "authors": [
+        "Alan Cumming"
+      ],
+      "genres": [
+        "audiobook",
+        "non-fiction",
+        "memoir",
+        "humor",
+        "biography",
+        "music",
+        "lgbt"
+      ],
+      "rating": 4.12,
+      "ratings": 792,
+      "reviews": 90
+    },
+    {
+      "title": "Doris Day: Her Own Story",
+      "url": "https://www.goodreads.com/book/show/426916.Doris_Day",
+      "id": "415941",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1387743394i/426916.jpg",
+      "authors": [
+        "A.E. Hotchner"
+      ],
+      "genres": [
+        "biography",
+        "non-fiction",
         "biography-memoir",
+        "memoir",
+        "film",
+        "music",
+        "autobiography"
+      ],
+      "rating": 4.01,
+      "ratings": 792,
+      "reviews": 80
+    },
+    {
+      "title": "Industrial Culture Handbook",
+      "url": "https://www.goodreads.com/book/show/598293.Industrial_Culture_Handbook",
+      "id": "584919",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388293263i/598293.jpg",
+      "authors": [
+        "V. Vale"
+      ],
+      "genres": [
+        "music",
+        "non-fiction",
+        "art",
+        "cultural",
+        "reference",
+        "collections",
+        "punk"
+      ],
+      "rating": 4.31,
+      "ratings": 791,
+      "reviews": 22
+    },
+    {
+      "title": "Duet",
+      "url": "https://www.goodreads.com/book/show/59742942-duet",
+      "id": "94087998",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1638474939i/59742942.jpg",
+      "authors": [
+        "Julie Kriss"
+      ],
+      "genres": [
+        "romance",
+        "music",
+        "contemporary",
+        "contemporary-romance",
+        "audiobook",
+        "musicians"
+      ],
+      "rating": 4.16,
+      "ratings": 787,
+      "reviews": 103
+    },
+    {
+      "title": "David Bowie Is",
+      "url": "https://www.goodreads.com/book/show/15842729-david-bowie-is",
+      "id": "21584996",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1358992994i/15842729.jpg",
+      "authors": [
+        "Victoria Broackes"
+      ],
+      "genres": [
+        "music",
+        "non-fiction",
+        "art",
+        "biography",
+        "photography",
+        "fashion",
+        "reference"
+      ],
+      "rating": 4.61,
+      "ratings": 786,
+      "reviews": 64
+    },
+    {
+      "title": "Bird Lives!: The High Life & Hard Times of Charlie (Yardbird) Parker",
+      "url": "https://www.goodreads.com/book/show/553863.Bird_Lives_",
+      "id": "541092",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348587707i/553863.jpg",
+      "authors": [
+        "Ross Russell"
+      ],
+      "genres": [
+        "music",
+        "biography",
+        "jazz",
+        "non-fiction",
+        "history",
+        "art",
+        "music-biography"
+      ],
+      "rating": 4.18,
+      "ratings": 785,
+      "reviews": 41
+    },
+    {
+      "title": "Guarded Addiction",
+      "url": "https://www.goodreads.com/book/show/56297750-guarded-addiction",
+      "id": "87706440",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1617105779i/56297750.jpg",
+      "authors": [
+        "L. Ann"
+      ],
+      "genres": [
+        "romance",
+        "contemporary-romance",
+        "contemporary",
+        "dark",
+        "bdsm",
+        "music",
+        "suspense"
+      ],
+      "rating": 4.41,
+      "ratings": 785,
+      "reviews": 122
+    },
+    {
+      "title": "Hana Hashimoto, Sixth Violin",
+      "url": "https://www.goodreads.com/book/show/20675093-hana-hashimoto-sixth-violin",
+      "id": "39972649",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1396841033i/20675093.jpg",
+      "authors": [
+        "Chieri Uegaki"
+      ],
+      "genres": [
+        "picture-books",
+        "music",
+        "family",
+        "childrens",
+        "japan",
+        "cultural",
+        "realistic-fiction"
+      ],
+      "rating": 4.16,
+      "ratings": 785,
+      "reviews": 199
+    },
+    {
+      "title": "Edie: Girl on Fire",
+      "url": "https://www.goodreads.com/book/show/14605.Edie",
+      "id": "16629",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348322216i/14605.jpg",
+      "authors": [
+        "Melissa Painter"
+      ],
+      "genres": [
+        "biography",
+        "non-fiction",
+        "art",
+        "biography-memoir",
+        "music",
+        "pop-culture",
+        "memoir"
+      ],
+      "rating": 4.23,
+      "ratings": 784,
+      "reviews": 21
+    },
+    {
+      "title": "Dirty Duet",
+      "url": "https://www.goodreads.com/book/show/33009801-dirty-duet",
+      "id": "53654773",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1479508115i/33009801.jpg",
+      "authors": [
+        "Cari Quinn"
+      ],
+      "genres": [
+        "romance",
+        "music",
+        "contemporary",
+        "contemporary-romance",
+        "musicians",
+        "amazon",
+        "m-f-romance"
+      ],
+      "rating": 4.31,
+      "ratings": 783,
+      "reviews": 149
+    },
+    {
+      "title": "Our World",
+      "url": "https://www.goodreads.com/book/show/31848399-our-world",
+      "id": "52517442",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1476997035i/31848399.jpg",
+      "authors": [
+        "Little Mix"
+      ],
+      "genres": [
+        "non-fiction",
+        "autobiography",
+        "music",
+        "memoir",
+        "biography"
+      ],
+      "rating": 4.42,
+      "ratings": 781,
+      "reviews": 69
+    },
+    {
+      "title": "Fragile",
+      "url": "https://www.goodreads.com/book/show/58193699-fragile",
+      "id": "91217891",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1628505850i/58193699.jpg",
+      "authors": [
+        "A.K. Evans"
+      ],
+      "genres": [
+        "romance",
+        "contemporary",
+        "music",
+        "musicians"
+      ],
+      "rating": 4.28,
+      "ratings": 781,
+      "reviews": 93
+    },
+    {
+      "title": "Shut Up and Give Me the Mic",
+      "url": "https://www.goodreads.com/book/show/13259709-shut-up-and-give-me-the-mic",
+      "id": "18461211",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1333118227i/13259709.jpg",
+      "authors": [
+        "Dee Snider"
+      ],
+      "genres": [
+        "music",
+        "biography",
+        "non-fiction",
+        "memoir",
+        "musicians",
+        "book-club",
+        "autobiography"
+      ],
+      "rating": 4.06,
+      "ratings": 780,
+      "reviews": 96
+    },
+    {
+      "title": "LOVER",
+      "url": "https://www.goodreads.com/book/show/52417437-lover",
+      "id": "73059658",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1566751262l/52417437.jpg",
+      "authors": [
+        "Taylor Swift"
+      ],
+      "genres": [
+        "non-fiction",
+        "music",
+        "romance",
+        "biography",
+        "art"
+      ],
+      "rating": 4.85,
+      "ratings": 780,
+      "reviews": 103
+    },
+    {
+      "title": "Improvisation",
+      "url": "https://www.goodreads.com/book/show/341932.Improvisation",
+      "id": "332294",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388413180i/341932.jpg",
+      "authors": [
+        "Derek Bailey"
+      ],
+      "genres": [
+        "music",
+        "non-fiction",
+        "art",
+        "jazz",
+        "history"
+      ],
+      "rating": 4.18,
+      "ratings": 780,
+      "reviews": 48
+    },
+    {
+      "title": "Scarred Strings",
+      "url": "https://www.goodreads.com/book/show/61363891-scarred-strings",
+      "id": "95279881",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1656398937i/61363891.jpg",
+      "authors": [
+        "Tania Joyce"
+      ],
+      "genres": [
+        "romance",
+        "contemporary",
+        "contemporary-romance",
+        "music",
+        "fake-dating",
+        "fiction",
+        "celebrity"
+      ],
+      "rating": 4.28,
+      "ratings": 777,
+      "reviews": 89
+    },
+    {
+      "title": "Dangerous Rhythms: Jazz and the Underworld",
+      "url": "https://www.goodreads.com/book/show/59571998-dangerous-rhythms",
+      "id": "93819661",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1638754497i/59571998.jpg",
+      "authors": [
+        "T.J. English"
+      ],
+      "genres": [
+        "history",
+        "non-fiction",
+        "music",
+        "crime",
+        "true-crime",
+        "historical",
+        "jazz"
+      ],
+      "rating": 4.13,
+      "ratings": 777,
+      "reviews": 133
+    },
+    {
+      "title": "Respect Yourself: Stax Records and the Soul Explosion",
+      "url": "https://www.goodreads.com/book/show/15793499-respect-yourself",
+      "id": "21515473",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1382759064i/15793499.jpg",
+      "authors": [
+        "Robert Gordon"
+      ],
+      "genres": [
+        "music",
+        "history",
+        "non-fiction",
+        "biography",
+        "pop-culture",
+        "african-american",
+        "american"
+      ],
+      "rating": 4.31,
+      "ratings": 777,
+      "reviews": 119
+    },
+    {
+      "title": "My Friend Michael: An Ordinary Friendship with an Extraordinary Man",
+      "url": "https://www.goodreads.com/book/show/13082680-my-friend-michael",
+      "id": "18252302",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328325825i/13082680.jpg",
+      "authors": [
+        "Frank Cascio"
+      ],
+      "genres": [
+        "non-fiction",
+        "biography",
+        "music",
+        "biography-memoir",
+        "autobiography",
+        "memoir",
         "audiobook"
       ],
-      "rating": 4.24,
-      "ratings": 771,
-      "reviews": 132
+      "rating": 4.25,
+      "ratings": 775,
+      "reviews": 72
     },
     {
       "title": "The Promises We Make",
@@ -49,445 +441,53 @@
       "genres": [
         "romance",
         "friends-to-lovers",
+        "contemporary-romance",
         "contemporary",
-        "music",
-        "contemporary-romance"
+        "music"
       ],
-      "rating": 4.35,
-      "ratings": 770,
+      "rating": 4.36,
+      "ratings": 773,
       "reviews": 52
     },
     {
-      "title": "Elvis by the Presleys",
-      "url": "https://www.goodreads.com/book/show/235900.Elvis_by_the_Presleys",
-      "id": "2088243",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1424825425i/235900.jpg",
+      "title": "De Dirigent",
+      "url": "https://www.goodreads.com/book/show/48744739-de-dirigent",
+      "id": "74113998",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1576761002i/48744739.jpg",
       "authors": [
-        "David Ritz"
+        "Maria Peters"
       ],
       "genres": [
-        "music",
-        "biography",
-        "non-fiction",
-        "memoir",
-        "history",
-        "biography-memoir",
-        "family"
-      ],
-      "rating": 4.27,
-      "ratings": 770,
-      "reviews": 48
-    },
-    {
-      "title": "The Soundscape: Our Environment and the Tuning of the World",
-      "url": "https://www.goodreads.com/book/show/585024.The_Soundscape",
-      "id": "571873",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388338669i/585024.jpg",
-      "authors": [
-        "R. Murray Schafer"
-      ],
-      "genres": [
-        "music",
-        "non-fiction",
-        "art",
-        "science",
-        "history",
-        "philosophy",
-        "nature"
-      ],
-      "rating": 4.11,
-      "ratings": 769,
-      "reviews": 54
-    },
-    {
-      "title": "Who Was Michael Jackson?",
-      "url": "https://www.goodreads.com/book/show/25881649-who-was-michael-jackson",
-      "id": "45041314",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1436507503i/25881649.jpg",
-      "authors": [
-        "Megan Stine"
-      ],
-      "genres": [
-        "non-fiction",
-        "biography",
-        "music",
-        "childrens",
-        "history",
-        "biography-memoir",
-        "school"
-      ],
-      "rating": 4.2,
-      "ratings": 768,
-      "reviews": 85
-    },
-    {
-      "title": "Jason Molina: Riding with the Ghost",
-      "url": "https://www.goodreads.com/book/show/32959947-jason-molina",
-      "id": "53592984",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1480235580i/32959947.jpg",
-      "authors": [
-        "Erin Osmon"
-      ],
-      "genres": [
-        "music",
-        "non-fiction",
-        "biography",
-        "american"
-      ],
-      "rating": 4.05,
-      "ratings": 767,
-      "reviews": 88
-    },
-    {
-      "title": "Unapologetically Me",
-      "url": "https://www.goodreads.com/book/show/44525961-unapologetically-me",
-      "id": "69103572",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1552952272i/44525961.jpg",
-      "authors": [
-        "Danesha Little"
-      ],
-      "genres": [
-        "romance",
-        "music",
-        "african-american",
+        "historical-fiction",
         "audiobook",
-        "african-american-romance"
-      ],
-      "rating": 4.68,
-      "ratings": 767,
-      "reviews": 185
-    },
-    {
-      "title": "Hip Hop Speaks to Children: A Celebration of Poetry with a Beat",
-      "url": "https://www.goodreads.com/book/show/3743168-hip-hop-speaks-to-children",
-      "id": "3786988",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347353241i/3743168.jpg",
-      "authors": [
-        "Nikki Giovanni"
-      ],
-      "genres": [
-        "poetry",
-        "picture-books",
-        "music",
-        "childrens",
-        "african-american",
-        "cultural",
-        "audiobook"
-      ],
-      "rating": 4.32,
-      "ratings": 767,
-      "reviews": 207
-    },
-    {
-      "title": "Songwriters On Songwriting",
-      "url": "https://www.goodreads.com/book/show/313148.Songwriters_On_Songwriting",
-      "id": "304047",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347764123i/313148.jpg",
-      "authors": [
-        "Paul Zollo"
-      ],
-      "genres": [
-        "music",
-        "non-fiction",
-        "writing",
-        "poetry",
-        "reference",
-        "art",
-        "musicians"
-      ],
-      "rating": 4.32,
-      "ratings": 766,
-      "reviews": 62
-    },
-    {
-      "title": "True Norwegian Black Metal",
-      "url": "https://www.goodreads.com/book/show/2738508-true-norwegian-black-metal",
-      "id": "2764160",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1367256881i/2738508.jpg",
-      "authors": [
-        "Peter Beste"
-      ],
-      "genres": [
-        "music",
-        "non-fiction",
-        "art",
-        "photography",
-        "history",
-        "art-design"
-      ],
-      "rating": 4.46,
-      "ratings": 765,
-      "reviews": 44
-    },
-    {
-      "title": "Mozart: The Reign of Love",
-      "url": "https://www.goodreads.com/book/show/42117280-mozart",
-      "id": "65707558",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1585192473i/42117280.jpg",
-      "authors": [
-        "Jan Swafford"
-      ],
-      "genres": [
-        "biography",
-        "music",
-        "non-fiction",
-        "history",
-        "biography-memoir",
-        "classical-music",
-        "european-history"
-      ],
-      "rating": 4.34,
-      "ratings": 763,
-      "reviews": 127
-    },
-    {
-      "title": "Hello, Neighbor!: The Kind and Caring World of Mister Rogers",
-      "url": "https://www.goodreads.com/book/show/52677294-hello-neighbor",
-      "id": "73101872",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1569897350i/52677294.jpg",
-      "authors": [
-        "Matthew Cordell"
-      ],
-      "genres": [
-        "picture-books",
-        "biography",
-        "non-fiction",
-        "childrens",
-        "biography-memoir",
-        "music",
-        "tv"
-      ],
-      "rating": 4.45,
-      "ratings": 761,
-      "reviews": 171
-    },
-    {
-      "title": "Before I Let You Go",
-      "url": "https://www.goodreads.com/book/show/59349772-before-i-let-you-go",
-      "id": "93511784",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1634241568i/59349772.jpg",
-      "authors": [
-        "Kimberly   Brown"
-      ],
-      "genres": [
-        "african-american-romance",
         "music",
         "romance",
-        "second-chance",
-        "novella"
+        "historical"
       ],
-      "rating": 4.41,
-      "ratings": 760,
-      "reviews": 85
+      "rating": 4,
+      "ratings": 772,
+      "reviews": 133
     },
     {
-      "title": "Delta Blues: The Life and Times of the Mississippi Masters Who Revolutionized American Music",
-      "url": "https://www.goodreads.com/book/show/4036010-delta-blues",
-      "id": "4082613",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1266474233i/4036010.jpg",
+      "title": "Lost Track",
+      "url": "https://www.goodreads.com/book/show/61997979-lost-track",
+      "id": "97728624",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1660681154i/61997979.jpg",
       "authors": [
-        "Ted Gioia"
-      ],
-      "genres": [
-        "music",
-        "history",
-        "non-fiction",
-        "american-history",
-        "biography",
-        "the-united-states-of-america",
-        "american"
-      ],
-      "rating": 4.3,
-      "ratings": 759,
-      "reviews": 73
-    },
-    {
-      "title": "A Chorus Line: The Complete Book of the Musical",
-      "url": "https://www.goodreads.com/book/show/1133129.A_Chorus_Line",
-      "id": "1120343",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1181253360i/1133129.jpg",
-      "authors": [
-        "James Kirkwood Jr."
-      ],
-      "genres": [
-        "plays",
-        "theatre",
-        "musicals",
-        "drama",
-        "fiction",
-        "music",
-        "lgbt"
-      ],
-      "rating": 4.25,
-      "ratings": 758,
-      "reviews": 22
-    },
-    {
-      "title": "You Said You Wouldn't!",
-      "url": "https://www.goodreads.com/book/show/53456862-you-said-you-wouldn-t",
-      "id": "83336080",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1622224940i/53456862.jpg",
-      "authors": [
-        "Brianna Jean"
+        "Heidi Hutchinson"
       ],
       "genres": [
         "romance",
-        "dark-romance",
-        "music",
-        "dark",
-        "mental-health",
-        "contemporary-romance",
-        "found-family"
-      ],
-      "rating": 4.32,
-      "ratings": 756,
-      "reviews": 159
-    },
-    {
-      "title": "Hallelujah: Cultivating Advent Traditions With Handel's Messiah",
-      "url": "https://www.goodreads.com/book/show/55503622-hallelujah",
-      "id": "86548387",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1601336510i/55503622.jpg",
-      "authors": [
-        "Cindy Rollins"
-      ],
-      "genres": [
-        "christmas",
-        "non-fiction",
-        "christian",
-        "music",
-        "faith",
-        "devotional",
-        "holiday"
-      ],
-      "rating": 4.56,
-      "ratings": 755,
-      "reviews": 131
-    },
-    {
-      "title": "Saddles and Sin",
-      "url": "https://www.goodreads.com/book/show/23043852-saddles-and-sin",
-      "id": "42608098",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1409030125i/23043852.jpg",
-      "authors": [
-        "Jessie Evans"
-      ],
-      "genres": [
-        "romance",
-        "westerns",
-        "contemporary-romance",
         "contemporary",
+        "contemporary-romance",
         "audiobook",
-        "adult",
+        "slow-burn",
+        "friends-to-lovers",
         "music"
       ],
-      "rating": 4.17,
-      "ratings": 753,
-      "reviews": 92
-    },
-    {
-      "title": "Row, Row, Row Your Boat",
-      "url": "https://www.goodreads.com/book/show/18554642-row-row-row-your-boat",
-      "id": "26282503",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1384186461i/18554642.jpg",
-      "authors": [
-        "Jane Cabrera"
-      ],
-      "genres": [
-        "picture-books",
-        "storytime",
-        "animals",
-        "childrens",
-        "nursery-rhymes",
-        "music",
-        "fiction"
-      ],
-      "rating": 4.15,
-      "ratings": 753,
-      "reviews": 122
-    },
-    {
-      "title": "Falling Star",
-      "url": "https://www.goodreads.com/book/show/36243978-falling-star",
-      "id": "57889159",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1517102328i/36243978.jpg",
-      "authors": [
-        "Terri Osburn"
-      ],
-      "genres": [
-        "contemporary-romance",
-        "contemporary",
-        "music",
-        "romance",
-        "audiobook",
-        "second-chance"
-      ],
-      "rating": 4.32,
-      "ratings": 753,
-      "reviews": 76
-    },
-    {
-      "title": "Ryder",
-      "url": "https://www.goodreads.com/book/show/55135061-ryder",
-      "id": "85137301",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1598624010i/55135061.jpg",
-      "authors": [
-        "Prescott Lane"
-      ],
-      "genres": [
-        "romance",
-        "contemporary-romance",
-        "second-chance",
-        "contemporary",
-        "music",
-        "amazon",
-        "second-chance-romance"
-      ],
-      "rating": 4.21,
-      "ratings": 752,
-      "reviews": 174
-    },
-    {
-      "title": "Broken Halo",
-      "url": "https://www.goodreads.com/book/show/59025256-broken-halo",
-      "id": "93065972",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1640086097i/59025256.jpg",
-      "authors": [
-        "L. Ann"
-      ],
-      "genres": [
-        "second-chance",
-        "romance",
-        "contemporary",
-        "contemporary-romance",
-        "second-chance-romance",
-        "music",
-        "audiobook"
-      ],
-      "rating": 4.51,
-      "ratings": 751,
-      "reviews": 112
-    },
-    {
-      "title": "Everything Was Possible: The Birth of the Musical Follies",
-      "url": "https://www.goodreads.com/book/show/257378.Everything_Was_Possible",
-      "id": "1152781",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348549331i/257378.jpg",
-      "authors": [
-        "Ted Chapin"
-      ],
-      "genres": [
-        "theatre",
-        "non-fiction",
-        "history",
-        "musicals",
-        "biography",
-        "music",
-        "drama"
-      ],
-      "rating": 4.51,
-      "ratings": 749,
-      "reviews": 97
+      "rating": 4.26,
+      "ratings": 771,
+      "reviews": 128
     }
   ]
 }

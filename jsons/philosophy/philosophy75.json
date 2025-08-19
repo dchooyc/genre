@@ -1,6 +1,90 @@
 {
   "books": [
     {
+      "title": "Anatomy of Criticism",
+      "url": "https://www.goodreads.com/book/show/318116.Anatomy_of_Criticism",
+      "id": "1050194",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1349129234i/318116.jpg",
+      "authors": [
+        "Northrop Frye"
+      ],
+      "genres": [
+        "literary-criticism",
+        "non-fiction",
+        "criticism",
+        "philosophy",
+        "essays",
+        "literature",
+        "theory"
+      ],
+      "rating": 4.09,
+      "ratings": 1945,
+      "reviews": 121
+    },
+    {
+      "title": "Il nostro bisogno di consolazione",
+      "url": "https://www.goodreads.com/book/show/1773183.Il_nostro_bisogno_di_consolazione",
+      "id": "97505688",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1404854617i/1773183.jpg",
+      "authors": [
+        "Stig Dagerman"
+      ],
+      "genres": [
+        "non-fiction",
+        "philosophy",
+        "essays",
+        "swedish-literature",
+        "poetry",
+        "classics",
+        "sweden"
+      ],
+      "rating": 4.2,
+      "ratings": 1945,
+      "reviews": 227
+    },
+    {
+      "title": "Courage Under Fire: Testing Epictetus's Doctrines in a Laboratory of Human Behavior",
+      "url": "https://www.goodreads.com/book/show/196158.Courage_Under_Fire",
+      "id": "189719",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1390098500i/196158.jpg",
+      "authors": [
+        "James B. Stockdale"
+      ],
+      "genres": [
+        "philosophy",
+        "non-fiction",
+        "biography",
+        "psychology",
+        "history",
+        "war",
+        "self-help"
+      ],
+      "rating": 4.33,
+      "ratings": 1941,
+      "reviews": 154
+    },
+    {
+      "title": "Economic Policy: Thoughts for Today and Tomorrow",
+      "url": "https://www.goodreads.com/book/show/1822167.Economic_Policy",
+      "id": "1941996",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1417864369i/1822167.jpg",
+      "authors": [
+        "Ludwig von Mises"
+      ],
+      "genres": [
+        "economics",
+        "politics",
+        "non-fiction",
+        "philosophy",
+        "history",
+        "classics",
+        "finance"
+      ],
+      "rating": 4.35,
+      "ratings": 1938,
+      "reviews": 173
+    },
+    {
       "title": "The Wisdom of the Native Americans: Including The Soul of an Indian and Other Writings of Ohiyesa and the Great Speeches of Red Jacket, Chief Joseph, and Chief Seattle",
       "url": "https://www.goodreads.com/book/show/316820.The_Wisdom_of_the_Native_Americans",
       "id": "307641",
@@ -18,29 +102,29 @@
         "native-americans"
       ],
       "rating": 4.3,
-      "ratings": 1933,
-      "reviews": 176
+      "ratings": 1936,
+      "reviews": 177
     },
     {
-      "title": "The Song of the Bird",
-      "url": "https://www.goodreads.com/book/show/345279.The_Song_of_the_Bird",
-      "id": "335602",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1404724884i/345279.jpg",
+      "title": "Consciousness and the Brain: Deciphering How the Brain Codes Our Thoughts",
+      "url": "https://www.goodreads.com/book/show/18079692-consciousness-and-the-brain",
+      "id": "25386984",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1375064245i/18079692.jpg",
       "authors": [
-        "Anthony de Mello"
+        "Stanislas Dehaene"
       ],
       "genres": [
-        "spirituality",
+        "science",
+        "psychology",
         "non-fiction",
+        "neuroscience",
         "philosophy",
-        "poetry",
-        "self-help",
-        "short-stories",
-        "theology"
+        "brain",
+        "audiobook"
       ],
-      "rating": 4.29,
-      "ratings": 1931,
-      "reviews": 182
+      "rating": 4.17,
+      "ratings": 1935,
+      "reviews": 243
     },
     {
       "title": "La llamada de la tribu",
@@ -60,8 +144,50 @@
         "history"
       ],
       "rating": 4.11,
-      "ratings": 1927,
+      "ratings": 1931,
       "reviews": 199
+    },
+    {
+      "title": "The Colonizer and the Colonized",
+      "url": "https://www.goodreads.com/book/show/822751.The_Colonizer_and_the_Colonized",
+      "id": "797812",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1393706195i/822751.jpg",
+      "authors": [
+        "Albert Memmi"
+      ],
+      "genres": [
+        "non-fiction",
+        "history",
+        "politics",
+        "philosophy",
+        "theory",
+        "race",
+        "psychology"
+      ],
+      "rating": 4.2,
+      "ratings": 1930,
+      "reviews": 175
+    },
+    {
+      "title": "The Song of the Bird",
+      "url": "https://www.goodreads.com/book/show/345279.The_Song_of_the_Bird",
+      "id": "335602",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1404724884i/345279.jpg",
+      "authors": [
+        "Anthony de Mello"
+      ],
+      "genres": [
+        "spirituality",
+        "non-fiction",
+        "philosophy",
+        "poetry",
+        "self-help",
+        "short-stories",
+        "theology"
+      ],
+      "rating": 4.29,
+      "ratings": 1930,
+      "reviews": 181
     },
     {
       "title": "Grundrisse: Foundations of the Critique of Political Economy",
@@ -85,25 +211,46 @@
       "reviews": 72
     },
     {
-      "title": "The Colonizer and the Colonized",
-      "url": "https://www.goodreads.com/book/show/822751.The_Colonizer_and_the_Colonized",
-      "id": "797812",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1393706195i/822751.jpg",
+      "title": "Right-Wing Women",
+      "url": "https://www.goodreads.com/book/show/377163.Right_Wing_Women",
+      "id": "1438012",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1342858899i/377163.jpg",
       "authors": [
-        "Albert Memmi"
+        "Andrea Dworkin"
       ],
       "genres": [
+        "feminism",
         "non-fiction",
-        "history",
         "politics",
         "philosophy",
+        "gender",
         "theory",
-        "race",
-        "psychology"
+        "womens"
       ],
-      "rating": 4.2,
+      "rating": 4.34,
       "ratings": 1926,
-      "reviews": 175
+      "reviews": 341
+    },
+    {
+      "title": "I Don't Want To Grow Up: Life, Liberty, and Happiness. Without a Career.",
+      "url": "https://www.goodreads.com/book/show/56600539-i-don-t-want-to-grow-up",
+      "id": "88423684",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1610173459i/56600539.jpg",
+      "authors": [
+        "Scott Stillman"
+      ],
+      "genres": [
+        "self-help",
+        "non-fiction",
+        "philosophy",
+        "psychology",
+        "adventure",
+        "mental-health",
+        "personal-development"
+      ],
+      "rating": 4.09,
+      "ratings": 1926,
+      "reviews": 236
     },
     {
       "title": "Perfectly Imperfect: The Art and Soul of Yoga Practice",
@@ -127,27 +274,6 @@
       "reviews": 151
     },
     {
-      "title": "I Don't Want To Grow Up: Life, Liberty, and Happiness. Without a Career.",
-      "url": "https://www.goodreads.com/book/show/56600539-i-don-t-want-to-grow-up",
-      "id": "88423684",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1610173459i/56600539.jpg",
-      "authors": [
-        "Scott Stillman"
-      ],
-      "genres": [
-        "self-help",
-        "non-fiction",
-        "psychology",
-        "philosophy",
-        "adventure",
-        "mental-health",
-        "personal-development"
-      ],
-      "rating": 4.09,
-      "ratings": 1923,
-      "reviews": 236
-    },
-    {
       "title": "On Sparta",
       "url": "https://www.goodreads.com/book/show/443095.On_Sparta",
       "id": "431876",
@@ -165,8 +291,29 @@
         "greece"
       ],
       "rating": 4.12,
-      "ratings": 1918,
+      "ratings": 1920,
       "reviews": 82
+    },
+    {
+      "title": "Culture and Value",
+      "url": "https://www.goodreads.com/book/show/124603.Culture_and_Value",
+      "id": "119993",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328873090i/124603.jpg",
+      "authors": [
+        "Ludwig Wittgenstein"
+      ],
+      "genres": [
+        "philosophy",
+        "non-fiction",
+        "cultural",
+        "art",
+        "german-literature",
+        "language",
+        "religion"
+      ],
+      "rating": 4.08,
+      "ratings": 1917,
+      "reviews": 117
     },
     {
       "title": "Post-Truth",
@@ -186,113 +333,8 @@
         "history"
       ],
       "rating": 4.03,
-      "ratings": 1918,
+      "ratings": 1917,
       "reviews": 254
-    },
-    {
-      "title": "Culture and Value",
-      "url": "https://www.goodreads.com/book/show/124603.Culture_and_Value",
-      "id": "119993",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328873090i/124603.jpg",
-      "authors": [
-        "Ludwig Wittgenstein"
-      ],
-      "genres": [
-        "philosophy",
-        "non-fiction",
-        "cultural",
-        "art",
-        "german-literature",
-        "language",
-        "religion"
-      ],
-      "rating": 4.09,
-      "ratings": 1916,
-      "reviews": 117
-    },
-    {
-      "title": "Rilke on Love and Other Difficulties: Translations and Considerations",
-      "url": "https://www.goodreads.com/book/show/49456.Rilke_on_Love_and_Other_Difficulties",
-      "id": "48375",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386924707i/49456.jpg",
-      "authors": [
-        "Rainer Maria Rilke"
-      ],
-      "genres": [
-        "poetry",
-        "non-fiction",
-        "philosophy",
-        "essays",
-        "classics",
-        "love",
-        "german-literature"
-      ],
-      "rating": 4.12,
-      "ratings": 1915,
-      "reviews": 183
-    },
-    {
-      "title": "Right-Wing Women",
-      "url": "https://www.goodreads.com/book/show/377163.Right_Wing_Women",
-      "id": "1438012",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1342858899i/377163.jpg",
-      "authors": [
-        "Andrea Dworkin"
-      ],
-      "genres": [
-        "feminism",
-        "non-fiction",
-        "politics",
-        "philosophy",
-        "gender",
-        "theory",
-        "womens"
-      ],
-      "rating": 4.34,
-      "ratings": 1915,
-      "reviews": 337
-    },
-    {
-      "title": "A Companion to Marx's Capital, Volume 1",
-      "url": "https://www.goodreads.com/book/show/7316687-a-companion-to-marx-s-capital",
-      "id": "8858828",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1712771966i/7316687.jpg",
-      "authors": [
-        "David Harvey"
-      ],
-      "genres": [
-        "economics",
-        "politics",
-        "philosophy",
-        "non-fiction",
-        "theory",
-        "sociology",
-        "history"
-      ],
-      "rating": 4.26,
-      "ratings": 1913,
-      "reviews": 93
-    },
-    {
-      "title": "Negative Dialectics",
-      "url": "https://www.goodreads.com/book/show/96714.Negative_Dialectics",
-      "id": "93215",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347517037i/96714.jpg",
-      "authors": [
-        "Theodor W. Adorno"
-      ],
-      "genres": [
-        "philosophy",
-        "theory",
-        "non-fiction",
-        "sociology",
-        "politics",
-        "german-literature",
-        "germany"
-      ],
-      "rating": 4.14,
-      "ratings": 1913,
-      "reviews": 62
     },
     {
       "title": "Schopenhauer's Porcupines: Intimacy and Its Dilemmas",
@@ -312,8 +354,29 @@
         "psychiatry"
       ],
       "rating": 4.28,
-      "ratings": 1913,
+      "ratings": 1916,
       "reviews": 148
+    },
+    {
+      "title": "Rilke on Love and Other Difficulties: Translations and Considerations",
+      "url": "https://www.goodreads.com/book/show/49456.Rilke_on_Love_and_Other_Difficulties",
+      "id": "48375",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386924707i/49456.jpg",
+      "authors": [
+        "Rainer Maria Rilke"
+      ],
+      "genres": [
+        "poetry",
+        "non-fiction",
+        "philosophy",
+        "essays",
+        "classics",
+        "love",
+        "german-literature"
+      ],
+      "rating": 4.12,
+      "ratings": 1916,
+      "reviews": 183
     },
     {
       "title": "The Machiavellians: Defenders of Freedom",
@@ -333,8 +396,71 @@
         "economics"
       ],
       "rating": 4.28,
-      "ratings": 1912,
-      "reviews": 198
+      "ratings": 1916,
+      "reviews": 199
+    },
+    {
+      "title": "This Craft of Verse",
+      "url": "https://www.goodreads.com/book/show/16570.This_Craft_of_Verse",
+      "id": "2359534",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1392006000i/16570.jpg",
+      "authors": [
+        "Jorge Luis Borges"
+      ],
+      "genres": [
+        "poetry",
+        "non-fiction",
+        "writing",
+        "essays",
+        "literature",
+        "literary-criticism",
+        "philosophy"
+      ],
+      "rating": 4.31,
+      "ratings": 1914,
+      "reviews": 247
+    },
+    {
+      "title": "A Companion to Marx's Capital, Volume 1",
+      "url": "https://www.goodreads.com/book/show/7316687-a-companion-to-marx-s-capital",
+      "id": "8858828",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1712771966i/7316687.jpg",
+      "authors": [
+        "David Harvey"
+      ],
+      "genres": [
+        "economics",
+        "politics",
+        "philosophy",
+        "non-fiction",
+        "theory",
+        "sociology",
+        "history"
+      ],
+      "rating": 4.26,
+      "ratings": 1914,
+      "reviews": 93
+    },
+    {
+      "title": "Negative Dialectics",
+      "url": "https://www.goodreads.com/book/show/96714.Negative_Dialectics",
+      "id": "93215",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347517037i/96714.jpg",
+      "authors": [
+        "Theodor W. Adorno"
+      ],
+      "genres": [
+        "philosophy",
+        "theory",
+        "non-fiction",
+        "sociology",
+        "politics",
+        "german-literature",
+        "germany"
+      ],
+      "rating": 4.15,
+      "ratings": 1913,
+      "reviews": 62
     },
     {
       "title": "The Web of Life: A New Scientific Understanding of Living Systems",
@@ -358,90 +484,6 @@
       "reviews": 130
     },
     {
-      "title": "This Craft of Verse",
-      "url": "https://www.goodreads.com/book/show/16570.This_Craft_of_Verse",
-      "id": "2359534",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1392006000i/16570.jpg",
-      "authors": [
-        "Jorge Luis Borges"
-      ],
-      "genres": [
-        "poetry",
-        "non-fiction",
-        "writing",
-        "essays",
-        "literature",
-        "literary-criticism",
-        "philosophy"
-      ],
-      "rating": 4.31,
-      "ratings": 1910,
-      "reviews": 246
-    },
-    {
-      "title": "Making Space: Creating a Home Meditation Practice",
-      "url": "https://www.goodreads.com/book/show/13024075-making-space",
-      "id": "18186899",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328692300i/13024075.jpg",
-      "authors": [
-        "Thich Nhat Hanh"
-      ],
-      "genres": [
-        "non-fiction",
-        "buddhism",
-        "spirituality",
-        "meditation",
-        "self-help",
-        "philosophy",
-        "audiobook"
-      ],
-      "rating": 4.11,
-      "ratings": 1908,
-      "reviews": 162
-    },
-    {
-      "title": "Makers of Modern Strategy from Machiavelli to the Nuclear Age",
-      "url": "https://www.goodreads.com/book/show/833962.Makers_of_Modern_Strategy_from_Machiavelli_to_the_Nuclear_Age",
-      "id": "1404128",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348718160i/833962.jpg",
-      "authors": [
-        "Peter Paret"
-      ],
-      "genres": [
-        "history",
-        "military-fiction",
-        "non-fiction",
-        "war",
-        "military-history",
-        "politics",
-        "philosophy"
-      ],
-      "rating": 4.03,
-      "ratings": 1907,
-      "reviews": 34
-    },
-    {
-      "title": "The Zen Teaching of Bodhidharma",
-      "url": "https://www.goodreads.com/book/show/238863.The_Zen_Teaching_of_Bodhidharma",
-      "id": "231386",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386924996i/238863.jpg",
-      "authors": [
-        "Bodhidharma"
-      ],
-      "genres": [
-        "buddhism",
-        "zen",
-        "philosophy",
-        "religion",
-        "spirituality",
-        "non-fiction",
-        "china"
-      ],
-      "rating": 4.37,
-      "ratings": 1907,
-      "reviews": 112
-    },
-    {
       "title": "A Simpler Life",
       "url": "https://www.goodreads.com/book/show/59692890-a-simpler-life",
       "id": "93996821",
@@ -459,50 +501,8 @@
         "essays"
       ],
       "rating": 4,
-      "ratings": 1903,
+      "ratings": 1911,
       "reviews": 176
-    },
-    {
-      "title": "Saving Simon: How a Rescue Donkey Taught Me the Meaning of Compassion",
-      "url": "https://www.goodreads.com/book/show/40779318-saving-simon",
-      "id": "40090512",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1531265314i/40779318.jpg",
-      "authors": [
-        "Jon Katz"
-      ],
-      "genres": [
-        "non-fiction",
-        "animals",
-        "memoir",
-        "biography",
-        "nature",
-        "philosophy",
-        "book-club"
-      ],
-      "rating": 4.13,
-      "ratings": 1903,
-      "reviews": 339
-    },
-    {
-      "title": "The Heart of Islam: Enduring Values for Humanity",
-      "url": "https://www.goodreads.com/book/show/142124.The_Heart_of_Islam",
-      "id": "137076",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1384259421i/142124.jpg",
-      "authors": [
-        "Seyyed Hossein Nasr"
-      ],
-      "genres": [
-        "islam",
-        "religion",
-        "history",
-        "philosophy",
-        "non-fiction",
-        "spirituality",
-        "faith"
-      ],
-      "rating": 4.31,
-      "ratings": 1902,
-      "reviews": 60
     }
   ]
 }

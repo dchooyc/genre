@@ -1,6 +1,90 @@
 {
   "books": [
     {
+      "title": "Escaping the Delta: Robert Johnson and the Invention of the Blues",
+      "url": "https://www.goodreads.com/book/show/685083.Escaping_the_Delta",
+      "id": "671466",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1177175039i/685083.jpg",
+      "authors": [
+        "Elijah Wald"
+      ],
+      "genres": [
+        "music",
+        "non-fiction",
+        "history",
+        "biography",
+        "biography-memoir",
+        "american-history",
+        "african-american"
+      ],
+      "rating": 4.02,
+      "ratings": 1475,
+      "reviews": 111
+    },
+    {
+      "title": "Gandhi Before India",
+      "url": "https://www.goodreads.com/book/show/18310148-gandhi-before-india",
+      "id": "25807195",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1396838643i/18310148.jpg",
+      "authors": [
+        "Ramachandra Guha"
+      ],
+      "genres": [
+        "history",
+        "biography",
+        "india",
+        "non-fiction",
+        "politics",
+        "biography-memoir",
+        "asia"
+      ],
+      "rating": 4.22,
+      "ratings": 1474,
+      "reviews": 194
+    },
+    {
+      "title": "Biko",
+      "url": "https://www.goodreads.com/book/show/178887.Biko",
+      "id": "172820",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348954885i/178887.jpg",
+      "authors": [
+        "Donald Woods"
+      ],
+      "genres": [
+        "biography",
+        "non-fiction",
+        "history",
+        "africa",
+        "south-africa",
+        "politics",
+        "biography-memoir"
+      ],
+      "rating": 4.24,
+      "ratings": 1474,
+      "reviews": 96
+    },
+    {
+      "title": "An American Caddie in St. Andrews: Growing Up, Girls, and Looping on the Old Course",
+      "url": "https://www.goodreads.com/book/show/18167280-an-american-caddie-in-st-andrews",
+      "id": "19176582",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1380033989i/18167280.jpg",
+      "authors": [
+        "Oliver Horovitz"
+      ],
+      "genres": [
+        "sports",
+        "non-fiction",
+        "biography",
+        "memoir",
+        "biography-memoir",
+        "travel",
+        "book-club"
+      ],
+      "rating": 4.3,
+      "ratings": 1473,
+      "reviews": 105
+    },
+    {
       "title": "Permanent Astonishment",
       "url": "https://www.goodreads.com/book/show/56808290-permanent-astonishment",
       "id": "88810199",
@@ -60,7 +144,7 @@
         "biography-memoir"
       ],
       "rating": 4.26,
-      "ratings": 1464,
+      "ratings": 1463,
       "reviews": 93
     },
     {
@@ -81,50 +165,8 @@
         "biography-memoir"
       ],
       "rating": 4.3,
-      "ratings": 1457,
+      "ratings": 1459,
       "reviews": 201
-    },
-    {
-      "title": "Lost on the Appalachian Trail (Triple Crown Trilogy",
-      "url": "https://www.goodreads.com/book/show/26047325-lost-on-the-appalachian-trail-triple-crown-trilogy",
-      "id": "47271506",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1438811264i/26047325.jpg",
-      "authors": [
-        "Kyle Rohrig"
-      ],
-      "genres": [
-        "travel",
-        "adventure",
-        "non-fiction",
-        "memoir",
-        "nature",
-        "outdoors",
-        "biography-memoir"
-      ],
-      "rating": 4.28,
-      "ratings": 1456,
-      "reviews": 135
-    },
-    {
-      "title": "The Accidental Adventurer",
-      "url": "https://www.goodreads.com/book/show/12614970-the-accidental-adventurer",
-      "id": "17634818",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1356451262i/12614970.jpg",
-      "authors": [
-        "Ben Fogle"
-      ],
-      "genres": [
-        "biography",
-        "non-fiction",
-        "travel",
-        "adventure",
-        "autobiography",
-        "memoir",
-        "biography-memoir"
-      ],
-      "rating": 4.14,
-      "ratings": 1456,
-      "reviews": 76
     },
     {
       "title": "Stories to Tell: A Memoir",
@@ -148,6 +190,48 @@
       "reviews": 279
     },
     {
+      "title": "The Accidental Adventurer",
+      "url": "https://www.goodreads.com/book/show/12614970-the-accidental-adventurer",
+      "id": "17634818",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1356451262i/12614970.jpg",
+      "authors": [
+        "Ben Fogle"
+      ],
+      "genres": [
+        "biography",
+        "non-fiction",
+        "travel",
+        "adventure",
+        "autobiography",
+        "memoir",
+        "biography-memoir"
+      ],
+      "rating": 4.14,
+      "ratings": 1456,
+      "reviews": 76
+    },
+    {
+      "title": "Lost on the Appalachian Trail (Triple Crown Trilogy",
+      "url": "https://www.goodreads.com/book/show/26047325-lost-on-the-appalachian-trail-triple-crown-trilogy",
+      "id": "47271506",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1438811264i/26047325.jpg",
+      "authors": [
+        "Kyle Rohrig"
+      ],
+      "genres": [
+        "travel",
+        "adventure",
+        "non-fiction",
+        "memoir",
+        "nature",
+        "outdoors",
+        "biography-memoir"
+      ],
+      "rating": 4.28,
+      "ratings": 1456,
+      "reviews": 135
+    },
+    {
       "title": "Featherhood: A Memoir of Two Fathers and a Magpie",
       "url": "https://www.goodreads.com/book/show/54304290-featherhood",
       "id": "84737527",
@@ -166,7 +250,7 @@
       ],
       "rating": 4.13,
       "ratings": 1451,
-      "reviews": 260
+      "reviews": 259
     },
     {
       "title": "Divine Invasions: A Life of Philip K. Dick",
@@ -207,8 +291,29 @@
         "biography-memoir"
       ],
       "rating": 4.89,
-      "ratings": 1447,
+      "ratings": 1448,
       "reviews": 230
+    },
+    {
+      "title": "O Brother",
+      "url": "https://www.goodreads.com/book/show/123125162-o-brother",
+      "id": "144412847",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1692962411i/123125162.jpg",
+      "authors": [
+        "John Niven"
+      ],
+      "genres": [
+        "non-fiction",
+        "memoir",
+        "biography",
+        "audiobook",
+        "biography-memoir",
+        "autobiography",
+        "scotland"
+      ],
+      "rating": 4.57,
+      "ratings": 1447,
+      "reviews": 143
     },
     {
       "title": "Steal Away Home: Charles Spurgeon and Thomas Johnson, Unlikely Friends on the Passage to Freedom",
@@ -228,7 +333,7 @@
         "biography-memoir"
       ],
       "rating": 4.38,
-      "ratings": 1444,
+      "ratings": 1445,
       "reviews": 258
     },
     {
@@ -249,29 +354,8 @@
         "counter-culture"
       ],
       "rating": 4.08,
-      "ratings": 1439,
+      "ratings": 1438,
       "reviews": 67
-    },
-    {
-      "title": "O Brother",
-      "url": "https://www.goodreads.com/book/show/123125162-o-brother",
-      "id": "144412847",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1692962411i/123125162.jpg",
-      "authors": [
-        "John Niven"
-      ],
-      "genres": [
-        "non-fiction",
-        "memoir",
-        "biography",
-        "audiobook",
-        "biography-memoir",
-        "autobiography",
-        "scotland"
-      ],
-      "rating": 4.57,
-      "ratings": 1439,
-      "reviews": 143
     },
     {
       "title": "Enormous Smallness",
@@ -291,29 +375,8 @@
         "biography-memoir"
       ],
       "rating": 4.28,
-      "ratings": 1436,
+      "ratings": 1438,
       "reviews": 291
-    },
-    {
-      "title": "Man on the Run: Paul McCartney in the 1970s",
-      "url": "https://www.goodreads.com/book/show/18525822-man-on-the-run",
-      "id": "26113649",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1384020751i/18525822.jpg",
-      "authors": [
-        "Tom   Doyle"
-      ],
-      "genres": [
-        "music",
-        "biography",
-        "non-fiction",
-        "pop-culture",
-        "biography-memoir",
-        "history",
-        "rock-n-roll"
-      ],
-      "rating": 4,
-      "ratings": 1432,
-      "reviews": 161
     },
     {
       "title": "Jackson Pollock: An American Saga",
@@ -333,8 +396,50 @@
         "book-club"
       ],
       "rating": 4.18,
-      "ratings": 1432,
+      "ratings": 1433,
       "reviews": 81
+    },
+    {
+      "title": "Man on the Run: Paul McCartney in the 1970s",
+      "url": "https://www.goodreads.com/book/show/18525822-man-on-the-run",
+      "id": "26113649",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1384020751i/18525822.jpg",
+      "authors": [
+        "Tom   Doyle"
+      ],
+      "genres": [
+        "music",
+        "biography",
+        "non-fiction",
+        "pop-culture",
+        "biography-memoir",
+        "history",
+        "rock-n-roll"
+      ],
+      "rating": 4,
+      "ratings": 1433,
+      "reviews": 161
+    },
+    {
+      "title": "Viewfinder: A Memoir of Seeing and Being Seen",
+      "url": "https://www.goodreads.com/book/show/209615830-viewfinder",
+      "id": "215824232",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1709869106i/209615830.jpg",
+      "authors": [
+        "Jon M. Chu"
+      ],
+      "genres": [
+        "memoir",
+        "non-fiction",
+        "audiobook",
+        "biography",
+        "film",
+        "autobiography",
+        "biography-memoir"
+      ],
+      "rating": 4.25,
+      "ratings": 1432,
+      "reviews": 245
     },
     {
       "title": "The Peabody Sisters",
@@ -375,134 +480,29 @@
         "biography-memoir"
       ],
       "rating": 4.41,
-      "ratings": 1429,
+      "ratings": 1431,
       "reviews": 229
     },
     {
-      "title": "Ambition and Desire: The Dangerous Life of Josephine Bonaparte",
-      "url": "https://www.goodreads.com/book/show/20758045-ambition-and-desire",
-      "id": "18121510",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1411919099i/20758045.jpg",
+      "title": "Marlene Dietrich",
+      "url": "https://www.goodreads.com/book/show/1394714.Marlene_Dietrich",
+      "id": "1384865",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1183251670i/1394714.jpg",
       "authors": [
-        "Kate Williams"
-      ],
-      "genres": [
-        "history",
-        "biography",
-        "non-fiction",
-        "france",
-        "historical",
-        "audiobook",
-        "biography-memoir"
-      ],
-      "rating": 4.03,
-      "ratings": 1428,
-      "reviews": 216
-    },
-    {
-      "title": "Who Was Elvis Presley?",
-      "url": "https://www.goodreads.com/book/show/1070398.Who_Was_Elvis_Presley_",
-      "id": "1057083",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348532010i/1070398.jpg",
-      "authors": [
-        "Geoff Edgers"
+        "Maria Riva"
       ],
       "genres": [
         "biography",
         "non-fiction",
-        "history",
-        "childrens",
-        "music",
-        "chapter-books",
-        "biography-memoir"
-      ],
-      "rating": 4.12,
-      "ratings": 1427,
-      "reviews": 143
-    },
-    {
-      "title": "Woody Guthrie",
-      "url": "https://www.goodreads.com/book/show/100213.Woody_Guthrie",
-      "id": "1220112",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1417406926i/100213.jpg",
-      "authors": [
-        "Joe Klein"
-      ],
-      "genres": [
-        "music",
-        "biography",
-        "non-fiction",
-        "history",
-        "biography-memoir",
-        "memoir",
-        "americana"
-      ],
-      "rating": 4.34,
-      "ratings": 1426,
-      "reviews": 121
-    },
-    {
-      "title": "Viewfinder: A Memoir of Seeing and Being Seen",
-      "url": "https://www.goodreads.com/book/show/209615830-viewfinder",
-      "id": "215824232",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1709869106i/209615830.jpg",
-      "authors": [
-        "Jon M. Chu"
-      ],
-      "genres": [
-        "memoir",
-        "non-fiction",
-        "audiobook",
-        "biography",
         "film",
-        "autobiography",
-        "biography-memoir"
-      ],
-      "rating": 4.25,
-      "ratings": 1426,
-      "reviews": 244
-    },
-    {
-      "title": "Kept: An American Househusband in India",
-      "url": "https://www.goodreads.com/book/show/41032201-kept",
-      "id": "64055702",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1533258587i/41032201.jpg",
-      "authors": [
-        "Gregory E. Buford"
-      ],
-      "genres": [
-        "non-fiction",
-        "india",
-        "memoir",
-        "travel",
-        "biography",
         "biography-memoir",
-        "humor"
-      ],
-      "rating": 4.45,
-      "ratings": 1425,
-      "reviews": 163
-    },
-    {
-      "title": "I Remember Laura: Laura Ingalls Wilder",
-      "url": "https://www.goodreads.com/book/show/8220.I_Remember_Laura",
-      "id": "11173",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386922797i/8220.jpg",
-      "authors": [
-        "Stephen W. Hines"
-      ],
-      "genres": [
-        "biography",
-        "non-fiction",
         "history",
-        "biography-memoir",
-        "womens",
-        "historical",
-        "childrens"
+        "memoir",
+        "autobiography"
       ],
-      "rating": 4.17,
-      "ratings": 1422,
-      "reviews": 30
+      "rating": 4.08,
+      "ratings": 1430,
+      "reviews": 130
     }
   ]
 }

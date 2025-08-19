@@ -1,6 +1,69 @@
 {
   "books": [
     {
+      "title": "All He Has Left",
+      "url": "https://www.goodreads.com/book/show/59554756-all-he-has-left",
+      "id": "93795099",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1652179430i/59554756.jpg",
+      "authors": [
+        "Chad Zunker"
+      ],
+      "genres": [
+        "thriller",
+        "mystery",
+        "fiction",
+        "mystery-thriller",
+        "suspense",
+        "crime",
+        "audiobook"
+      ],
+      "rating": 4.06,
+      "ratings": 17627,
+      "reviews": 804
+    },
+    {
+      "title": "Hot Blooded",
+      "url": "https://www.goodreads.com/book/show/545875.Hot_Blooded",
+      "id": "533148",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1694551748i/545875.jpg",
+      "authors": [
+        "Lisa  Jackson"
+      ],
+      "genres": [
+        "mystery",
+        "romantic-suspense",
+        "thriller",
+        "romance",
+        "suspense",
+        "fiction",
+        "mystery-thriller"
+      ],
+      "rating": 4.01,
+      "ratings": 17624,
+      "reviews": 758
+    },
+    {
+      "title": "Sunset Express",
+      "url": "https://www.goodreads.com/book/show/241934.Sunset_Express",
+      "id": "951598",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1344369358i/241934.jpg",
+      "authors": [
+        "Robert Crais"
+      ],
+      "genres": [
+        "mystery",
+        "fiction",
+        "crime",
+        "thriller",
+        "detective",
+        "mystery-thriller",
+        "suspense"
+      ],
+      "rating": 4.21,
+      "ratings": 17608,
+      "reviews": 517
+    },
+    {
       "title": "Smash Cut",
       "url": "https://www.goodreads.com/book/show/6054518-smash-cut",
       "id": "6230329",
@@ -18,8 +81,29 @@
         "audiobook"
       ],
       "rating": 4.09,
-      "ratings": 17562,
-      "reviews": 1163
+      "ratings": 17588,
+      "reviews": 1164
+    },
+    {
+      "title": "Man vs. Beast",
+      "url": "https://www.goodreads.com/book/show/828482.Man_vs_Beast",
+      "id": "4413358",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1361230976i/828482.jpg",
+      "authors": [
+        "Robert Muchamore"
+      ],
+      "genres": [
+        "young-adult",
+        "fiction",
+        "action",
+        "adventure",
+        "espionage",
+        "childrens",
+        "thriller"
+      ],
+      "rating": 4.15,
+      "ratings": 17581,
+      "reviews": 341
     },
     {
       "title": "White Hot",
@@ -39,50 +123,8 @@
         "contemporary"
       ],
       "rating": 4.06,
-      "ratings": 17559,
+      "ratings": 17581,
       "reviews": 827
-    },
-    {
-      "title": "Fatal Affair",
-      "url": "https://www.goodreads.com/book/show/58465270-fatal-affair",
-      "id": "14867965",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1625120557i/58465270.jpg",
-      "authors": [
-        "Marie Force"
-      ],
-      "genres": [
-        "romance",
-        "romantic-suspense",
-        "mystery",
-        "suspense",
-        "contemporary",
-        "contemporary-romance",
-        "thriller"
-      ],
-      "rating": 4.18,
-      "ratings": 17555,
-      "reviews": 1323
-    },
-    {
-      "title": "One Rough Man",
-      "url": "https://www.goodreads.com/book/show/9325874-one-rough-man",
-      "id": "14209101",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1389373972i/9325874.jpg",
-      "authors": [
-        "Brad Taylor"
-      ],
-      "genres": [
-        "thriller",
-        "fiction",
-        "action",
-        "mystery",
-        "suspense",
-        "espionage",
-        "spy-thriller"
-      ],
-      "rating": 4.1,
-      "ratings": 17529,
-      "reviews": 872
     },
     {
       "title": "Where Sleeping Girls Lie",
@@ -102,8 +144,50 @@
         "fiction"
       ],
       "rating": 4,
-      "ratings": 17518,
-      "reviews": 3632
+      "ratings": 17566,
+      "reviews": 3637
+    },
+    {
+      "title": "Fatal Affair",
+      "url": "https://www.goodreads.com/book/show/58465270-fatal-affair",
+      "id": "14867965",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1625120557i/58465270.jpg",
+      "authors": [
+        "Marie Force"
+      ],
+      "genres": [
+        "romance",
+        "romantic-suspense",
+        "mystery",
+        "suspense",
+        "contemporary",
+        "contemporary-romance",
+        "thriller"
+      ],
+      "rating": 4.18,
+      "ratings": 17562,
+      "reviews": 1325
+    },
+    {
+      "title": "One Rough Man",
+      "url": "https://www.goodreads.com/book/show/9325874-one-rough-man",
+      "id": "14209101",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1389373972i/9325874.jpg",
+      "authors": [
+        "Brad Taylor"
+      ],
+      "genres": [
+        "thriller",
+        "fiction",
+        "action",
+        "mystery",
+        "suspense",
+        "espionage",
+        "spy-thriller"
+      ],
+      "rating": 4.1,
+      "ratings": 17542,
+      "reviews": 872
     },
     {
       "title": "Liar Liar",
@@ -123,7 +207,7 @@
         "audiobook"
       ],
       "rating": 4.11,
-      "ratings": 17507,
+      "ratings": 17529,
       "reviews": 1366
     },
     {
@@ -144,7 +228,7 @@
         "psychological-thriller"
       ],
       "rating": 4.15,
-      "ratings": 17506,
+      "ratings": 17525,
       "reviews": 1976
     },
     {
@@ -165,29 +249,8 @@
         "suspense"
       ],
       "rating": 4.04,
-      "ratings": 17497,
+      "ratings": 17501,
       "reviews": 1052
-    },
-    {
-      "title": "Bullseye",
-      "url": "https://www.goodreads.com/book/show/18709246-bullseye---an-original-will-robie-the-camel-club-short-story",
-      "id": "26566338",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1387315490i/18709246.jpg",
-      "authors": [
-        "David Baldacci"
-      ],
-      "genres": [
-        "thriller",
-        "fiction",
-        "mystery",
-        "audiobook",
-        "short-stories",
-        "suspense",
-        "action"
-      ],
-      "rating": 4.09,
-      "ratings": 17489,
-      "reviews": 803
     },
     {
       "title": "Skagboys",
@@ -207,8 +270,29 @@
         "dark"
       ],
       "rating": 4.06,
-      "ratings": 17484,
-      "reviews": 827
+      "ratings": 17500,
+      "reviews": 829
+    },
+    {
+      "title": "Bullseye",
+      "url": "https://www.goodreads.com/book/show/18709246-bullseye",
+      "id": "26566338",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1387315490i/18709246.jpg",
+      "authors": [
+        "David Baldacci"
+      ],
+      "genres": [
+        "thriller",
+        "fiction",
+        "mystery",
+        "audiobook",
+        "short-stories",
+        "suspense",
+        "action"
+      ],
+      "rating": 4.09,
+      "ratings": 17500,
+      "reviews": 803
     },
     {
       "title": "She Can Tell",
@@ -228,7 +312,7 @@
         "audiobook"
       ],
       "rating": 4.28,
-      "ratings": 17472,
+      "ratings": 17482,
       "reviews": 497
     },
     {
@@ -249,7 +333,7 @@
         "mystery-thriller"
       ],
       "rating": 4.22,
-      "ratings": 17432,
+      "ratings": 17452,
       "reviews": 1319
     },
     {
@@ -270,29 +354,8 @@
         "post-apocalyptic"
       ],
       "rating": 4.18,
-      "ratings": 17428,
-      "reviews": 787
-    },
-    {
-      "title": "Symphony of Secrets",
-      "url": "https://www.goodreads.com/book/show/61111253-symphony-of-secrets",
-      "id": "96320274",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1670796966i/61111253.jpg",
-      "authors": [
-        "Brendan Slocumb"
-      ],
-      "genres": [
-        "fiction",
-        "mystery",
-        "historical-fiction",
-        "music",
-        "audiobook",
-        "mystery-thriller",
-        "thriller"
-      ],
-      "rating": 4.26,
-      "ratings": 17377,
-      "reviews": 2644
+      "ratings": 17434,
+      "reviews": 789
     },
     {
       "title": "Ofrenda a la tormenta",
@@ -312,8 +375,8 @@
         "suspense"
       ],
       "rating": 4.13,
-      "ratings": 17370,
-      "reviews": 1232
+      "ratings": 17410,
+      "reviews": 1235
     },
     {
       "title": "Echo Road",
@@ -333,29 +396,29 @@
         "detective"
       ],
       "rating": 4.54,
-      "ratings": 17363,
+      "ratings": 17407,
       "reviews": 716
     },
     {
-      "title": "The One Man",
-      "url": "https://www.goodreads.com/book/show/40409185-the-one-man",
-      "id": "48249613",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1528314965i/40409185.jpg",
+      "title": "Symphony of Secrets",
+      "url": "https://www.goodreads.com/book/show/61111253-symphony-of-secrets",
+      "id": "96320274",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1670796966i/61111253.jpg",
       "authors": [
-        "Andrew Gross"
+        "Brendan Slocumb"
       ],
       "genres": [
-        "historical-fiction",
         "fiction",
-        "thriller",
-        "world-war-ii",
-        "holocaust",
-        "war",
-        "historical"
+        "mystery",
+        "historical-fiction",
+        "music",
+        "audiobook",
+        "mystery-thriller",
+        "thriller"
       ],
-      "rating": 4.33,
-      "ratings": 17348,
-      "reviews": 2299
+      "rating": 4.26,
+      "ratings": 17403,
+      "reviews": 2647
     },
     {
       "title": "El juego del alma",
@@ -374,93 +437,9 @@
         "crime",
         "adult"
       ],
-      "rating": 4.18,
-      "ratings": 17348,
-      "reviews": 1727
-    },
-    {
-      "title": "Girls with Bright Futures",
-      "url": "https://www.goodreads.com/book/show/53279745-girls-with-bright-futures",
-      "id": "84459838",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1590431551i/53279745.jpg",
-      "authors": [
-        "Tracy Dobmeier"
-      ],
-      "genres": [
-        "fiction",
-        "book-club",
-        "thriller",
-        "contemporary",
-        "mystery",
-        "audiobook",
-        "mystery-thriller"
-      ],
-      "rating": 4.04,
-      "ratings": 17341,
-      "reviews": 1624
-    },
-    {
-      "title": "Midnight Obsession",
-      "url": "https://www.goodreads.com/book/show/30178438-midnight-obsession",
-      "id": "75643141",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1476292877i/30178438.jpg",
-      "authors": [
-        "Melinda Leigh"
-      ],
-      "genres": [
-        "romantic-suspense",
-        "mystery",
-        "suspense",
-        "thriller",
-        "romance",
-        "fiction",
-        "audiobook"
-      ],
-      "rating": 4.32,
-      "ratings": 17322,
-      "reviews": 416
-    },
-    {
-      "title": "Among the Wicked",
-      "url": "https://www.goodreads.com/book/show/26031833-among-the-wicked",
-      "id": "45958249",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1466979733i/26031833.jpg",
-      "authors": [
-        "Linda  Castillo"
-      ],
-      "genres": [
-        "mystery",
-        "thriller",
-        "fiction",
-        "amish",
-        "audiobook",
-        "suspense",
-        "crime"
-      ],
-      "rating": 4.23,
-      "ratings": 17318,
-      "reviews": 1691
-    },
-    {
-      "title": "Dawn Girl",
-      "url": "https://www.goodreads.com/book/show/196240422-dawn-girl",
-      "id": "51584179",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1691742215i/196240422.jpg",
-      "authors": [
-        "Leslie Wolfe"
-      ],
-      "genres": [
-        "thriller",
-        "mystery",
-        "crime",
-        "fiction",
-        "suspense",
-        "mystery-thriller",
-        "serial-killer"
-      ],
-      "rating": 4.33,
-      "ratings": 17316,
-      "reviews": 896
+      "rating": 4.17,
+      "ratings": 17400,
+      "reviews": 1730
     },
     {
       "title": "Las madres",
@@ -480,29 +459,50 @@
         "noir"
       ],
       "rating": 4.12,
-      "ratings": 17298,
-      "reviews": 1506
+      "ratings": 17365,
+      "reviews": 1511
     },
     {
-      "title": "Red Sky Mourning",
-      "url": "https://www.goodreads.com/book/show/199897972-red-sky-mourning",
-      "id": "204371028",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1699720331i/199897972.jpg",
+      "title": "Girls with Bright Futures",
+      "url": "https://www.goodreads.com/book/show/53279745-girls-with-bright-futures",
+      "id": "84459838",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1590431551i/53279745.jpg",
       "authors": [
-        "Jack Carr"
+        "Tracy Dobmeier"
       ],
       "genres": [
         "fiction",
+        "book-club",
         "thriller",
+        "contemporary",
+        "mystery",
         "audiobook",
-        "military-fiction",
-        "mystery-thriller",
-        "action",
-        "mystery"
+        "mystery-thriller"
       ],
-      "rating": 4.49,
-      "ratings": 17271,
-      "reviews": 924
+      "rating": 4.04,
+      "ratings": 17358,
+      "reviews": 1627
+    },
+    {
+      "title": "The One Man",
+      "url": "https://www.goodreads.com/book/show/40409185-the-one-man",
+      "id": "48249613",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1528314965i/40409185.jpg",
+      "authors": [
+        "Andrew Gross"
+      ],
+      "genres": [
+        "historical-fiction",
+        "fiction",
+        "thriller",
+        "world-war-ii",
+        "holocaust",
+        "war",
+        "historical"
+      ],
+      "rating": 4.33,
+      "ratings": 17353,
+      "reviews": 2300
     }
   ]
 }

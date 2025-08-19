@@ -1,6 +1,90 @@
 {
   "books": [
     {
+      "title": "Kotlin in Action",
+      "url": "https://www.goodreads.com/book/show/29242249-kotlin-in-action",
+      "id": "49486079",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1508987882i/29242249.jpg",
+      "authors": [
+        "Dmitry Jemerov"
+      ],
+      "genres": [
+        "programming",
+        "computer-science",
+        "technology",
+        "technical",
+        "software",
+        "non-fiction",
+        "reference"
+      ],
+      "rating": 4.41,
+      "ratings": 593,
+      "reviews": 60
+    },
+    {
+      "title": "Design Systems: A practical guide to creating design languages for digital products",
+      "url": "https://www.goodreads.com/book/show/35857970-design-systems",
+      "id": "57377068",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1508598756i/35857970.jpg",
+      "authors": [
+        "Alla Kholmatova"
+      ],
+      "genres": [
+        "design",
+        "non-fiction",
+        "business",
+        "website-design",
+        "technology",
+        "programming",
+        "art"
+      ],
+      "rating": 4.14,
+      "ratings": 592,
+      "reviews": 45
+    },
+    {
+      "title": "Java Puzzlers: Traps, Pitfalls, and Corner Cases",
+      "url": "https://www.goodreads.com/book/show/127931.Java_Puzzlers",
+      "id": "123206",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348585328i/127931.jpg",
+      "authors": [
+        "Joshua Bloch"
+      ],
+      "genres": [
+        "programming",
+        "computer-science",
+        "technology",
+        "non-fiction",
+        "software",
+        "technical",
+        "reference"
+      ],
+      "rating": 4.24,
+      "ratings": 591,
+      "reviews": 24
+    },
+    {
+      "title": "The AI-Driven Leader: Harnessing AI to Make Faster, Smarter Decisions",
+      "url": "https://www.goodreads.com/book/show/216125077-the-ai-driven-leader",
+      "id": "222530405",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1720205510i/216125077.jpg",
+      "authors": [
+        "Geoff Woods"
+      ],
+      "genres": [
+        "business",
+        "artificial-intelligence",
+        "leadership",
+        "non-fiction",
+        "audiobook",
+        "technology",
+        "self-help"
+      ],
+      "rating": 4.05,
+      "ratings": 591,
+      "reviews": 65
+    },
+    {
       "title": "Bank 4.0: Banking everywhere, never at a bank",
       "url": "https://www.goodreads.com/book/show/40722446-bank-4-0",
       "id": "63346117",
@@ -19,6 +103,27 @@
       "rating": 4.06,
       "ratings": 590,
       "reviews": 62
+    },
+    {
+      "title": "Google It: A History of Google",
+      "url": "https://www.goodreads.com/book/show/37901985-google-it",
+      "id": "59607505",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1524786081i/37901985.jpg",
+      "authors": [
+        "Anna Crowley Redding"
+      ],
+      "genres": [
+        "non-fiction",
+        "business",
+        "history",
+        "technology",
+        "biography",
+        "google",
+        "science"
+      ],
+      "rating": 4.01,
+      "ratings": 589,
+      "reviews": 133
     },
     {
       "title": "Introduction to Machine Learning with Python: A Guide for Data Scientists",
@@ -40,27 +145,6 @@
       "rating": 4.34,
       "ratings": 587,
       "reviews": 52
-    },
-    {
-      "title": "Google It: A History of Google",
-      "url": "https://www.goodreads.com/book/show/37901985-google-it",
-      "id": "59607505",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1524786081i/37901985.jpg",
-      "authors": [
-        "Anna Crowley Redding"
-      ],
-      "genres": [
-        "non-fiction",
-        "business",
-        "history",
-        "technology",
-        "biography",
-        "google",
-        "science"
-      ],
-      "rating": 4.01,
-      "ratings": 586,
-      "reviews": 132
     },
     {
       "title": "Grand Transitions: How the Modern World Was Made",
@@ -126,27 +210,6 @@
       "reviews": 24
     },
     {
-      "title": "Game Engine Architecture",
-      "url": "https://www.goodreads.com/book/show/6709076-game-engine-architecture",
-      "id": "6904910",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348115696i/6709076.jpg",
-      "authors": [
-        "Jason Gregory"
-      ],
-      "genres": [
-        "programming",
-        "computer-science",
-        "games",
-        "non-fiction",
-        "game-design",
-        "technology",
-        "technical"
-      ],
-      "rating": 4.41,
-      "ratings": 577,
-      "reviews": 29
-    },
-    {
       "title": "Python for Kids: A Playful Introduction to Programming",
       "url": "https://www.goodreads.com/book/show/13221155-python-for-kids",
       "id": "18408013",
@@ -165,7 +228,7 @@
       ],
       "rating": 4.16,
       "ratings": 577,
-      "reviews": 55
+      "reviews": 54
     },
     {
       "title": "Mastering Ethereum: Building Smart Contracts and DApps",
@@ -210,25 +273,25 @@
       "reviews": 64
     },
     {
-      "title": "The AI-Driven Leader: Harnessing AI to Make Faster, Smarter Decisions",
-      "url": "https://www.goodreads.com/book/show/216125077-the-ai-driven-leader",
-      "id": "222530405",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1720205510i/216125077.jpg",
+      "title": "Game Engine Architecture",
+      "url": "https://www.goodreads.com/book/show/6709076-game-engine-architecture",
+      "id": "6904910",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348115696i/6709076.jpg",
       "authors": [
-        "Geoff Woods"
+        "Jason Gregory"
       ],
       "genres": [
-        "business",
-        "artificial-intelligence",
-        "leadership",
+        "programming",
+        "computer-science",
+        "games",
         "non-fiction",
-        "audiobook",
+        "game-design",
         "technology",
-        "self-help"
+        "technical"
       ],
-      "rating": 4.06,
-      "ratings": 573,
-      "reviews": 64
+      "rating": 4.41,
+      "ratings": 575,
+      "reviews": 29
     },
     {
       "title": "Programming Rust: Fast, Safe Systems Development",
@@ -248,7 +311,7 @@
         "computers"
       ],
       "rating": 4.63,
-      "ratings": 572,
+      "ratings": 573,
       "reviews": 64
     },
     {
@@ -294,6 +357,27 @@
       "reviews": 54
     },
     {
+      "title": "Clojure for the Brave and True",
+      "url": "https://www.goodreads.com/book/show/20873338-clojure-for-the-brave-and-true",
+      "id": "40212034",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1432497082i/20873338.jpg",
+      "authors": [
+        "Daniel Higginbotham"
+      ],
+      "genres": [
+        "programming",
+        "computer-science",
+        "technology",
+        "non-fiction",
+        "technical",
+        "software",
+        "engineering"
+      ],
+      "rating": 4.27,
+      "ratings": 568,
+      "reviews": 69
+    },
+    {
       "title": "Moon Lander: How We Developed the Apollo Lunar Module",
       "url": "https://www.goodreads.com/book/show/1526298.Moon_Lander",
       "id": "1518240",
@@ -313,27 +397,6 @@
       "rating": 4.27,
       "ratings": 567,
       "reviews": 38
-    },
-    {
-      "title": "Clojure for the Brave and True",
-      "url": "https://www.goodreads.com/book/show/20873338-clojure-for-the-brave-and-true",
-      "id": "40212034",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1432497082i/20873338.jpg",
-      "authors": [
-        "Daniel Higginbotham"
-      ],
-      "genres": [
-        "programming",
-        "computer-science",
-        "technology",
-        "non-fiction",
-        "technical",
-        "software",
-        "engineering"
-      ],
-      "rating": 4.27,
-      "ratings": 567,
-      "reviews": 69
     },
     {
       "title": "Measuring the User Experience: Collecting, Analyzing, and Presenting Usability Metrics",
@@ -437,71 +500,8 @@
         "christian-living"
       ],
       "rating": 4.1,
-      "ratings": 558,
+      "ratings": 559,
       "reviews": 100
-    },
-    {
-      "title": "Linux Basics for Hackers: Getting Started with Networking, Scripting, and Security in Kali",
-      "url": "https://www.goodreads.com/book/show/37845940-linux-basics-for-hackers",
-      "id": "59539763",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1515306341i/37845940.jpg",
-      "authors": [
-        "OccupyTheWeb"
-      ],
-      "genres": [
-        "hackers",
-        "programming",
-        "computer-science",
-        "technology",
-        "non-fiction",
-        "technical",
-        "coding"
-      ],
-      "rating": 4.13,
-      "ratings": 555,
-      "reviews": 72
-    },
-    {
-      "title": "The Internet of Garbage",
-      "url": "https://www.goodreads.com/book/show/25910719-the-internet-of-garbage",
-      "id": "45797432",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1436910309i/25910719.jpg",
-      "authors": [
-        "Sarah Jeong"
-      ],
-      "genres": [
-        "non-fiction",
-        "technology",
-        "internet",
-        "politics",
-        "social-science",
-        "cultural",
-        "history"
-      ],
-      "rating": 4.07,
-      "ratings": 554,
-      "reviews": 72
-    },
-    {
-      "title": "Become an Effective Software Engineering Manager",
-      "url": "https://www.goodreads.com/book/show/50363684-become-an-effective-software-engineering-manager",
-      "id": "75312733",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1578513196i/50363684.jpg",
-      "authors": [
-        "James Stanier"
-      ],
-      "genres": [
-        "management",
-        "leadership",
-        "business",
-        "engineering",
-        "technology",
-        "non-fiction",
-        "software"
-      ],
-      "rating": 4.36,
-      "ratings": 553,
-      "reviews": 61
     }
   ]
 }

@@ -1,6 +1,48 @@
 {
   "books": [
     {
+      "title": "How to Prove It: A Structured Approach",
+      "url": "https://www.goodreads.com/book/show/739735.How_to_Prove_It",
+      "id": "3322644",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348436668i/739735.jpg",
+      "authors": [
+        "Daniel J. Velleman"
+      ],
+      "genres": [
+        "mathematics",
+        "non-fiction",
+        "science",
+        "textbooks",
+        "logic",
+        "computer-science",
+        "stem"
+      ],
+      "rating": 4.29,
+      "ratings": 963,
+      "reviews": 54
+    },
+    {
+      "title": "Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman",
+      "url": "https://www.goodreads.com/book/show/5608045-apprenticeship-patterns",
+      "id": "5779422",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328834807i/5608045.jpg",
+      "authors": [
+        "Dave Hoover"
+      ],
+      "genres": [
+        "programming",
+        "technology",
+        "software",
+        "computer-science",
+        "non-fiction",
+        "technical",
+        "coding"
+      ],
+      "rating": 4.11,
+      "ratings": 959,
+      "reviews": 131
+    },
+    {
       "title": "The Joy of Clojure",
       "url": "https://www.goodreads.com/book/show/8129142-the-joy-of-clojure",
       "id": "12924863",
@@ -61,7 +103,7 @@
       ],
       "rating": 4.2,
       "ratings": 952,
-      "reviews": 95
+      "reviews": 94
     },
     {
       "title": "But How Do It Know? The Basic Principles of Computers for Everyone",
@@ -148,6 +190,27 @@
       "reviews": 71
     },
     {
+      "title": "Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications",
+      "url": "https://www.goodreads.com/book/show/60715378-designing-machine-learning-systems",
+      "id": "95721327",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1653945265i/60715378.jpg",
+      "authors": [
+        "Chip Huyen"
+      ],
+      "genres": [
+        "artificial-intelligence",
+        "technology",
+        "computer-science",
+        "technical",
+        "programming",
+        "software",
+        "non-fiction"
+      ],
+      "rating": 4.47,
+      "ratings": 903,
+      "reviews": 84
+    },
+    {
       "title": "Python for Everybody: Exploring Data in Python 3",
       "url": "https://www.goodreads.com/book/show/31134574-python-for-everybody",
       "id": "50390184",
@@ -167,27 +230,6 @@
       "rating": 4.27,
       "ratings": 902,
       "reviews": 73
-    },
-    {
-      "title": "Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications",
-      "url": "https://www.goodreads.com/book/show/60715378-designing-machine-learning-systems",
-      "id": "95721327",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1653945265i/60715378.jpg",
-      "authors": [
-        "Chip Huyen"
-      ],
-      "genres": [
-        "artificial-intelligence",
-        "technology",
-        "computer-science",
-        "technical",
-        "programming",
-        "software",
-        "non-fiction"
-      ],
-      "rating": 4.47,
-      "ratings": 900,
-      "reviews": 84
     },
     {
       "title": "The Kubernetes Book",
@@ -333,7 +375,7 @@
         "non-fiction"
       ],
       "rating": 4.33,
-      "ratings": 862,
+      "ratings": 863,
       "reviews": 49
     },
     {
@@ -417,8 +459,29 @@
         "web"
       ],
       "rating": 4.51,
-      "ratings": 838,
-      "reviews": 88
+      "ratings": 839,
+      "reviews": 89
+    },
+    {
+      "title": "Fundamentals of Data Engineering: Plan and Build Robust Data Systems",
+      "url": "https://www.goodreads.com/book/show/61218623-fundamentals-of-data-engineering",
+      "id": "95753796",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1654271050i/61218623.jpg",
+      "authors": [
+        "Joe Reis"
+      ],
+      "genres": [
+        "programming",
+        "technology",
+        "technical",
+        "computer-science",
+        "non-fiction",
+        "software",
+        "engineering"
+      ],
+      "rating": 4.2,
+      "ratings": 814,
+      "reviews": 87
     },
     {
       "title": "Design Patterns in Ruby",
@@ -440,69 +503,6 @@
       "rating": 4.16,
       "ratings": 814,
       "reviews": 50
-    },
-    {
-      "title": "Fundamentals of Data Engineering: Plan and Build Robust Data Systems",
-      "url": "https://www.goodreads.com/book/show/61218623-fundamentals-of-data-engineering",
-      "id": "95753796",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1654271050i/61218623.jpg",
-      "authors": [
-        "Joe Reis"
-      ],
-      "genres": [
-        "programming",
-        "technology",
-        "technical",
-        "computer-science",
-        "non-fiction",
-        "software",
-        "engineering"
-      ],
-      "rating": 4.2,
-      "ratings": 813,
-      "reviews": 87
-    },
-    {
-      "title": "Reinforcement Learning: An Introduction",
-      "url": "https://www.goodreads.com/book/show/739791.Reinforcement_Learning",
-      "id": "725961",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348086685i/739791.jpg",
-      "authors": [
-        "Richard S. Sutton"
-      ],
-      "genres": [
-        "computer-science",
-        "artificial-intelligence",
-        "textbooks",
-        "technology",
-        "technical",
-        "non-fiction",
-        "science"
-      ],
-      "rating": 4.54,
-      "ratings": 795,
-      "reviews": 83
-    },
-    {
-      "title": "Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript",
-      "url": "https://www.goodreads.com/book/show/13705402-effective-javascript",
-      "id": "19337911",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1372042097i/13705402.jpg",
-      "authors": [
-        "David  Herman"
-      ],
-      "genres": [
-        "programming",
-        "technology",
-        "software",
-        "computer-science",
-        "non-fiction",
-        "technical",
-        "coding"
-      ],
-      "rating": 4.3,
-      "ratings": 785,
-      "reviews": 61
     }
   ]
 }

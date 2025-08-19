@@ -1,6 +1,48 @@
 {
   "books": [
     {
+      "title": "Endings",
+      "url": "https://www.goodreads.com/book/show/34628948-endings",
+      "id": "50222729",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1489975336i/34628948.jpg",
+      "authors": [
+        "K.M. Shea"
+      ],
+      "genres": [
+        "fantasy",
+        "time-travel",
+        "romance",
+        "young-adult",
+        "retellings",
+        "adventure",
+        "historical"
+      ],
+      "rating": 4.56,
+      "ratings": 1898,
+      "reviews": 189
+    },
+    {
+      "title": "Memorial: An Excavation of the Iliad",
+      "url": "https://www.goodreads.com/book/show/12841067-memorial",
+      "id": "17991750",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328464217i/12841067.jpg",
+      "authors": [
+        "Alice Oswald"
+      ],
+      "genres": [
+        "poetry",
+        "classics",
+        "mythology",
+        "fiction",
+        "retellings",
+        "war",
+        "historical-fiction"
+      ],
+      "rating": 4.22,
+      "ratings": 1898,
+      "reviews": 289
+    },
+    {
       "title": "Midsummer's Mayhem",
       "url": "https://www.goodreads.com/book/show/42201922-midsummer-s-mayhem",
       "id": "62418913",
@@ -17,72 +59,9 @@
         "magical-realism",
         "magic"
       ],
-      "rating": 4.09,
-      "ratings": 1882,
+      "rating": 4.1,
+      "ratings": 1883,
       "reviews": 488
-    },
-    {
-      "title": "Apollo",
-      "url": "https://www.goodreads.com/book/show/54337577-apollo",
-      "id": "84792473",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1601650127i/54337577.jpg",
-      "authors": [
-        "Carly Spade"
-      ],
-      "genres": [
-        "romance",
-        "mythology",
-        "fantasy",
-        "greek-mythology",
-        "paranormal",
-        "contemporary",
-        "retellings"
-      ],
-      "rating": 4,
-      "ratings": 1863,
-      "reviews": 232
-    },
-    {
-      "title": "Thorn",
-      "url": "https://www.goodreads.com/book/show/43294395-thorn",
-      "id": "67183840",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1545312037i/43294395.jpg",
-      "authors": [
-        "Anna  Burke"
-      ],
-      "genres": [
-        "fantasy",
-        "romance",
-        "lgbt",
-        "lesbian",
-        "retellings",
-        "queer",
-        "fiction"
-      ],
-      "rating": 4.08,
-      "ratings": 1853,
-      "reviews": 262
-    },
-    {
-      "title": "Soul of Stars",
-      "url": "https://www.goodreads.com/book/show/38880852-soul-of-stars",
-      "id": "60423327",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1539641929i/38880852.jpg",
-      "authors": [
-        "Ashley Poston"
-      ],
-      "genres": [
-        "science-fiction",
-        "young-adult",
-        "fantasy",
-        "romance",
-        "lgbt",
-        "retellings",
-        "space"
-      ],
-      "rating": 4.03,
-      "ratings": 1832,
-      "reviews": 308
     },
     {
       "title": "Inked in Ashes",
@@ -102,29 +81,113 @@
         "magic"
       ],
       "rating": 4.36,
-      "ratings": 1828,
-      "reviews": 251
+      "ratings": 1869,
+      "reviews": 254
     },
     {
-      "title": "Two Peas in a Pod",
-      "url": "https://www.goodreads.com/book/show/36127426-two-peas-in-a-pod",
-      "id": "57722899",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1523887526i/36127426.jpg",
+      "title": "Apollo",
+      "url": "https://www.goodreads.com/book/show/54337577-apollo",
+      "id": "84792473",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1601650127i/54337577.jpg",
       "authors": [
-        "Sarah Mlynowski"
+        "Carly Spade"
+      ],
+      "genres": [
+        "romance",
+        "mythology",
+        "fantasy",
+        "greek-mythology",
+        "paranormal",
+        "contemporary",
+        "retellings"
+      ],
+      "rating": 4,
+      "ratings": 1866,
+      "reviews": 232
+    },
+    {
+      "title": "Before Dorothy",
+      "url": "https://www.goodreads.com/book/show/219301734-before-dorothy",
+      "id": "226222708",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1731288256i/219301734.jpg",
+      "authors": [
+        "Hazel Gaynor"
+      ],
+      "genres": [
+        "historical-fiction",
+        "fiction",
+        "historical",
+        "retellings",
+        "audiobook",
+        "family",
+        "magic"
+      ],
+      "rating": 4.23,
+      "ratings": 1856,
+      "reviews": 402
+    },
+    {
+      "title": "Thorn",
+      "url": "https://www.goodreads.com/book/show/43294395-thorn",
+      "id": "67183840",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1545312037i/43294395.jpg",
+      "authors": [
+        "Anna  Burke"
       ],
       "genres": [
         "fantasy",
-        "middle-grade",
-        "fairy-tales",
-        "audiobook",
-        "fiction",
+        "romance",
+        "lgbt",
+        "lesbian",
         "retellings",
-        "childrens"
+        "queer",
+        "fiction"
       ],
-      "rating": 4.32,
-      "ratings": 1825,
-      "reviews": 105
+      "rating": 4.07,
+      "ratings": 1854,
+      "reviews": 263
+    },
+    {
+      "title": "The Ashfire King",
+      "url": "https://www.goodreads.com/book/show/60910208-the-ashfire-king",
+      "id": "96073773",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1660765872i/60910208.jpg",
+      "authors": [
+        "Chelsea Abdullah"
+      ],
+      "genres": [
+        "fantasy",
+        "fiction",
+        "mythology",
+        "adult",
+        "high-fantasy",
+        "retellings",
+        "adventure"
+      ],
+      "rating": 4.02,
+      "ratings": 1843,
+      "reviews": 499
+    },
+    {
+      "title": "Soul of Stars",
+      "url": "https://www.goodreads.com/book/show/38880852-soul-of-stars",
+      "id": "60423327",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1539641929i/38880852.jpg",
+      "authors": [
+        "Ashley Poston"
+      ],
+      "genres": [
+        "science-fiction",
+        "young-adult",
+        "fantasy",
+        "romance",
+        "lgbt",
+        "retellings",
+        "space"
+      ],
+      "rating": 4.03,
+      "ratings": 1833,
+      "reviews": 308
     },
     {
       "title": "If the Boot Fits",
@@ -144,8 +207,29 @@
         "retellings"
       ],
       "rating": 4.34,
-      "ratings": 1825,
+      "ratings": 1829,
       "reviews": 401
+    },
+    {
+      "title": "Two Peas in a Pod",
+      "url": "https://www.goodreads.com/book/show/36127426-two-peas-in-a-pod",
+      "id": "57722899",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1523887526i/36127426.jpg",
+      "authors": [
+        "Sarah Mlynowski"
+      ],
+      "genres": [
+        "fantasy",
+        "middle-grade",
+        "fairy-tales",
+        "audiobook",
+        "fiction",
+        "retellings",
+        "childrens"
+      ],
+      "rating": 4.32,
+      "ratings": 1823,
+      "reviews": 105
     },
     {
       "title": "Cinder Luna",
@@ -165,7 +249,7 @@
         "cinderella"
       ],
       "rating": 4.01,
-      "ratings": 1813,
+      "ratings": 1814,
       "reviews": 472
     },
     {
@@ -186,7 +270,7 @@
         "clean-romance"
       ],
       "rating": 4.07,
-      "ratings": 1811,
+      "ratings": 1812,
       "reviews": 119
     },
     {
@@ -207,29 +291,8 @@
         "retellings"
       ],
       "rating": 4.29,
-      "ratings": 1808,
+      "ratings": 1811,
       "reviews": 150
-    },
-    {
-      "title": "The Ashfire King",
-      "url": "https://www.goodreads.com/book/show/60910208-the-ashfire-king",
-      "id": "96073773",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1660765872i/60910208.jpg",
-      "authors": [
-        "Chelsea Abdullah"
-      ],
-      "genres": [
-        "fantasy",
-        "fiction",
-        "mythology",
-        "adult",
-        "high-fantasy",
-        "retellings",
-        "adventure"
-      ],
-      "rating": 4.03,
-      "ratings": 1806,
-      "reviews": 492
     },
     {
       "title": "La bambinaia francese",
@@ -249,8 +312,8 @@
         "retellings"
       ],
       "rating": 4.21,
-      "ratings": 1793,
-      "reviews": 67
+      "ratings": 1794,
+      "reviews": 68
     },
     {
       "title": "A Wolf for a Spell",
@@ -270,7 +333,7 @@
         "childrens"
       ],
       "rating": 4.01,
-      "ratings": 1786,
+      "ratings": 1788,
       "reviews": 392
     },
     {
@@ -292,7 +355,7 @@
       ],
       "rating": 4.11,
       "ratings": 1771,
-      "reviews": 251
+      "reviews": 250
     },
     {
       "title": "King of Spades",
@@ -337,27 +400,6 @@
       "reviews": 372
     },
     {
-      "title": "Before Dorothy",
-      "url": "https://www.goodreads.com/book/show/219301734-before-dorothy",
-      "id": "226222708",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1731288256i/219301734.jpg",
-      "authors": [
-        "Hazel Gaynor"
-      ],
-      "genres": [
-        "historical-fiction",
-        "fiction",
-        "historical",
-        "retellings",
-        "audiobook",
-        "family",
-        "magic"
-      ],
-      "rating": 4.23,
-      "ratings": 1751,
-      "reviews": 380
-    },
-    {
       "title": "Circus",
       "url": "https://www.goodreads.com/book/show/24799229-circus",
       "id": "44436514",
@@ -396,8 +438,8 @@
         "retellings"
       ],
       "rating": 4.21,
-      "ratings": 1741,
-      "reviews": 251
+      "ratings": 1744,
+      "reviews": 252
     },
     {
       "title": "Shadow",
@@ -417,8 +459,8 @@
         "adventure"
       ],
       "rating": 4.25,
-      "ratings": 1737,
-      "reviews": 485
+      "ratings": 1740,
+      "reviews": 486
     },
     {
       "title": "A Drop of Venom",
@@ -438,7 +480,7 @@
         "young-adult-fantasy"
       ],
       "rating": 4.05,
-      "ratings": 1727,
+      "ratings": 1732,
       "reviews": 423
     },
     {
@@ -459,50 +501,8 @@
         "mythology"
       ],
       "rating": 4.24,
-      "ratings": 1691,
+      "ratings": 1698,
       "reviews": 219
-    },
-    {
-      "title": "Pheme the Gossip",
-      "url": "https://www.goodreads.com/book/show/15801150-pheme-the-gossip",
-      "id": "21524511",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1374779475i/15801150.jpg",
-      "authors": [
-        "Joan Holub"
-      ],
-      "genres": [
-        "mythology",
-        "fantasy",
-        "middle-grade",
-        "greek-mythology",
-        "fiction",
-        "childrens",
-        "retellings"
-      ],
-      "rating": 4.16,
-      "ratings": 1679,
-      "reviews": 75
-    },
-    {
-      "title": "Dance With The Sword",
-      "url": "https://www.goodreads.com/book/show/57529204-dance-with-the-sword",
-      "id": "90085971",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1616720366i/57529204.jpg",
-      "authors": [
-        "Sarah K.L. Wilson"
-      ],
-      "genres": [
-        "fantasy",
-        "romance",
-        "retellings",
-        "fae",
-        "audiobook",
-        "young-adult",
-        "fantasy-romance"
-      ],
-      "rating": 4.17,
-      "ratings": 1677,
-      "reviews": 211
     }
   ]
 }

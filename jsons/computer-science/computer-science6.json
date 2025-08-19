@@ -1,6 +1,27 @@
 {
   "books": [
     {
+      "title": "Hacker's Delight",
+      "url": "https://www.goodreads.com/book/show/276079.Hacker_s_Delight",
+      "id": "267727",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1385216522i/276079.jpg",
+      "authors": [
+        "Henry S. Warren Jr."
+      ],
+      "genres": [
+        "programming",
+        "computer-science",
+        "technology",
+        "non-fiction",
+        "computers",
+        "technical",
+        "software"
+      ],
+      "rating": 4.2,
+      "ratings": 1135,
+      "reviews": 24
+    },
+    {
       "title": "Kubernetes: Up & Running",
       "url": "https://www.goodreads.com/book/show/26759355-kubernetes",
       "id": "46784618",
@@ -18,7 +39,7 @@
         "reference"
       ],
       "rating": 4.06,
-      "ratings": 1129,
+      "ratings": 1128,
       "reviews": 121
     },
     {
@@ -60,7 +81,7 @@
         "biography"
       ],
       "rating": 4.41,
-      "ratings": 1115,
+      "ratings": 1117,
       "reviews": 156
     },
     {
@@ -106,6 +127,27 @@
       "reviews": 58
     },
     {
+      "title": "NoSQL Distilled: A Brief Guide to the Emerging World of Polyglot Persistence",
+      "url": "https://www.goodreads.com/book/show/13610343-nosql-distilled",
+      "id": "19208232",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1372049889i/13610343.jpg",
+      "authors": [
+        "Pramod J. Sadalage"
+      ],
+      "genres": [
+        "programming",
+        "technology",
+        "computer-science",
+        "technical",
+        "software",
+        "non-fiction",
+        "architecture"
+      ],
+      "rating": 4.12,
+      "ratings": 1098,
+      "reviews": 123
+    },
+    {
       "title": "Python Tricks: A Buffet of Awesome Python Features",
       "url": "https://www.goodreads.com/book/show/36990732-python-tricks",
       "id": "58290658",
@@ -144,7 +186,7 @@
         "non-fiction"
       ],
       "rating": 4.16,
-      "ratings": 1089,
+      "ratings": 1091,
       "reviews": 135
     },
     {
@@ -169,27 +211,6 @@
       "reviews": 77
     },
     {
-      "title": "Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith",
-      "url": "https://www.goodreads.com/book/show/44144499-monolith-to-microservices",
-      "id": "68652897",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1566123566i/44144499.jpg",
-      "authors": [
-        "Sam Newman"
-      ],
-      "genres": [
-        "technology",
-        "programming",
-        "computer-science",
-        "software",
-        "technical",
-        "architecture",
-        "non-fiction"
-      ],
-      "rating": 4.28,
-      "ratings": 1069,
-      "reviews": 99
-    },
-    {
       "title": "More Effective C++: 35 New Ways to Improve Your Programs and Designs",
       "url": "https://www.goodreads.com/book/show/105123.More_Effective_C_",
       "id": "2098008",
@@ -211,6 +232,27 @@
       "reviews": 38
     },
     {
+      "title": "Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith",
+      "url": "https://www.goodreads.com/book/show/44144499-monolith-to-microservices",
+      "id": "68652897",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1566123566i/44144499.jpg",
+      "authors": [
+        "Sam Newman"
+      ],
+      "genres": [
+        "technology",
+        "programming",
+        "computer-science",
+        "software",
+        "technical",
+        "architecture",
+        "non-fiction"
+      ],
+      "rating": 4.28,
+      "ratings": 1069,
+      "reviews": 99
+    },
+    {
       "title": "A Tour of C++",
       "url": "https://www.goodreads.com/book/show/18197265-a-tour-of-c",
       "id": "25607519",
@@ -229,7 +271,7 @@
       ],
       "rating": 4.3,
       "ratings": 1067,
-      "reviews": 117
+      "reviews": 116
     },
     {
       "title": "Quantum Computing Since Democritus",
@@ -249,29 +291,8 @@
         "history"
       ],
       "rating": 4.15,
-      "ratings": 1045,
+      "ratings": 1047,
       "reviews": 103
-    },
-    {
-      "title": "The Ruby Programming Language: Everything You Need to Know",
-      "url": "https://www.goodreads.com/book/show/2485075.The_Ruby_Programming_Language",
-      "id": "2492280",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328834776i/2485075.jpg",
-      "authors": [
-        "David Flanagan"
-      ],
-      "genres": [
-        "programming",
-        "reference",
-        "technology",
-        "computer-science",
-        "non-fiction",
-        "technical",
-        "computers"
-      ],
-      "rating": 4.02,
-      "ratings": 1043,
-      "reviews": 35
     },
     {
       "title": "The Fourth Age: Smart Robots, Conscious Computers, and the Future of Humanity",
@@ -291,8 +312,29 @@
         "computer-science"
       ],
       "rating": 4.01,
-      "ratings": 1041,
+      "ratings": 1043,
       "reviews": 119
+    },
+    {
+      "title": "The Ruby Programming Language: Everything You Need to Know",
+      "url": "https://www.goodreads.com/book/show/2485075.The_Ruby_Programming_Language",
+      "id": "2492280",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328834776i/2485075.jpg",
+      "authors": [
+        "David Flanagan"
+      ],
+      "genres": [
+        "programming",
+        "reference",
+        "technology",
+        "computer-science",
+        "non-fiction",
+        "technical",
+        "computers"
+      ],
+      "rating": 4.02,
+      "ratings": 1042,
+      "reviews": 35
     },
     {
       "title": "Python Cookbook, Third Edition",
@@ -316,27 +358,6 @@
       "reviews": 53
     },
     {
-      "title": "The Data Warehouse Toolkit: The Complete Guide to Dimensional Modeling",
-      "url": "https://www.goodreads.com/book/show/748203.The_Data_Warehouse_Toolkit",
-      "id": "734345",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347291991i/748203.jpg",
-      "authors": [
-        "Ralph Kimball"
-      ],
-      "genres": [
-        "computer-science",
-        "technology",
-        "technical",
-        "programming",
-        "non-fiction",
-        "business",
-        "reference"
-      ],
-      "rating": 4.17,
-      "ratings": 1006,
-      "reviews": 60
-    },
-    {
       "title": "Lean from the Trenches: Managing Large-Scale Projects with Kanban",
       "url": "https://www.goodreads.com/book/show/12693642-lean-from-the-trenches",
       "id": "17320508",
@@ -358,25 +379,25 @@
       "reviews": 83
     },
     {
-      "title": "C++ Primer",
-      "url": "https://www.goodreads.com/book/show/768080.C_Primer",
-      "id": "754144",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347564002i/768080.jpg",
+      "title": "The Data Warehouse Toolkit: The Complete Guide to Dimensional Modeling",
+      "url": "https://www.goodreads.com/book/show/748203.The_Data_Warehouse_Toolkit",
+      "id": "734345",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347291991i/748203.jpg",
       "authors": [
-        "Stanley B. Lippman"
+        "Ralph Kimball"
       ],
       "genres": [
-        "programming",
         "computer-science",
         "technology",
-        "reference",
+        "technical",
+        "programming",
         "non-fiction",
-        "computers",
-        "software"
+        "business",
+        "reference"
       ],
-      "rating": 4.23,
-      "ratings": 987,
-      "reviews": 51
+      "rating": 4.17,
+      "ratings": 1005,
+      "reviews": 60
     },
     {
       "title": "Red Team Field Manual",
@@ -398,6 +419,27 @@
       "rating": 4.23,
       "ratings": 987,
       "reviews": 33
+    },
+    {
+      "title": "C++ Primer",
+      "url": "https://www.goodreads.com/book/show/768080.C_Primer",
+      "id": "754144",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347564002i/768080.jpg",
+      "authors": [
+        "Stanley B. Lippman"
+      ],
+      "genres": [
+        "programming",
+        "computer-science",
+        "technology",
+        "reference",
+        "non-fiction",
+        "computers",
+        "software"
+      ],
+      "rating": 4.23,
+      "ratings": 987,
+      "reviews": 51
     },
     {
       "title": "Software Estimation: Demystifying the Black Art",
@@ -442,10 +484,10 @@
       "reviews": 53
     },
     {
-      "title": "Terraform: Up and Running: Writing Infrastructure as Code",
-      "url": "https://www.goodreads.com/book/show/62683905-terraform",
+      "title": "Terraform: Up & Running: Writing Infrastructure as Code",
+      "url": "https://www.goodreads.com/book/show/42589303-terraform",
       "id": "54111011",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1663799415i/62683905.jpg",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1552510581i/42589303.jpg",
       "authors": [
         "Yevgeniy Brikman"
       ],
@@ -459,50 +501,8 @@
         "engineering"
       ],
       "rating": 4.25,
-      "ratings": 973,
+      "ratings": 972,
       "reviews": 93
-    },
-    {
-      "title": "How to Prove It: A Structured Approach",
-      "url": "https://www.goodreads.com/book/show/739735.How_to_Prove_It",
-      "id": "3322644",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348436668i/739735.jpg",
-      "authors": [
-        "Daniel J. Velleman"
-      ],
-      "genres": [
-        "mathematics",
-        "non-fiction",
-        "science",
-        "textbooks",
-        "logic",
-        "computer-science",
-        "stem"
-      ],
-      "rating": 4.29,
-      "ratings": 963,
-      "reviews": 54
-    },
-    {
-      "title": "Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman",
-      "url": "https://www.goodreads.com/book/show/5608045-apprenticeship-patterns",
-      "id": "5779422",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328834807i/5608045.jpg",
-      "authors": [
-        "Dave Hoover"
-      ],
-      "genres": [
-        "programming",
-        "technology",
-        "software",
-        "computer-science",
-        "non-fiction",
-        "technical",
-        "coding"
-      ],
-      "rating": 4.11,
-      "ratings": 959,
-      "reviews": 131
     }
   ]
 }

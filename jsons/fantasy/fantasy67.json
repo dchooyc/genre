@@ -1,6 +1,48 @@
 {
   "books": [
     {
+      "title": "Haunted",
+      "url": "https://www.goodreads.com/book/show/23225.Haunted",
+      "id": "3239545",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388187648i/23225.jpg",
+      "authors": [
+        "Meg Cabot"
+      ],
+      "genres": [
+        "young-adult",
+        "paranormal",
+        "fantasy",
+        "romance",
+        "ghosts",
+        "fiction",
+        "supernatural"
+      ],
+      "rating": 4.14,
+      "ratings": 40068,
+      "reviews": 977
+    },
+    {
+      "title": "Predestined",
+      "url": "https://www.goodreads.com/book/show/13323842-predestined",
+      "id": "18530561",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327068385i/13323842.jpg",
+      "authors": [
+        "Abbi Glines"
+      ],
+      "genres": [
+        "paranormal",
+        "young-adult",
+        "romance",
+        "fantasy",
+        "paranormal-romance",
+        "supernatural",
+        "ghosts"
+      ],
+      "rating": 4.05,
+      "ratings": 40066,
+      "reviews": 1627
+    },
+    {
       "title": "Curious George Goes to the Hospital",
       "url": "https://www.goodreads.com/book/show/899962.Curious_George_Goes_to_the_Hospital",
       "id": "885147",
@@ -18,92 +60,8 @@
         "fantasy"
       ],
       "rating": 4.26,
-      "ratings": 40059,
+      "ratings": 40061,
       "reviews": 212
-    },
-    {
-      "title": "Age of Myth",
-      "url": "https://www.goodreads.com/book/show/26863057-age-of-myth",
-      "id": "24657657",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1507307691i/26863057.jpg",
-      "authors": [
-        "Michael J. Sullivan"
-      ],
-      "genres": [
-        "fantasy",
-        "fiction",
-        "audiobook",
-        "epic-fantasy",
-        "high-fantasy",
-        "adult",
-        "magic"
-      ],
-      "rating": 4.22,
-      "ratings": 40012,
-      "reviews": 3928
-    },
-    {
-      "title": "The Grey King",
-      "url": "https://www.goodreads.com/book/show/222576.The_Grey_King",
-      "id": "2887072",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1390358853i/222576.jpg",
-      "authors": [
-        "Susan Cooper"
-      ],
-      "genres": [
-        "fantasy",
-        "young-adult",
-        "fiction",
-        "childrens",
-        "middle-grade",
-        "arthurian",
-        "adventure"
-      ],
-      "rating": 4.16,
-      "ratings": 40009,
-      "reviews": 1212
-    },
-    {
-      "title": "The Copper Gauntlet",
-      "url": "https://www.goodreads.com/book/show/13612962-the-copper-gauntlet",
-      "id": "25129083",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1526297061i/13612962.jpg",
-      "authors": [
-        "Holly Black"
-      ],
-      "genres": [
-        "fantasy",
-        "middle-grade",
-        "young-adult",
-        "magic",
-        "fiction",
-        "adventure",
-        "audiobook"
-      ],
-      "rating": 4.11,
-      "ratings": 39996,
-      "reviews": 3151
-    },
-    {
-      "title": "Prince of Wolves",
-      "url": "https://www.goodreads.com/book/show/11947156-prince-of-wolves",
-      "id": "16908743",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327878769i/11947156.jpg",
-      "authors": [
-        "Quinn Loftis"
-      ],
-      "genres": [
-        "paranormal",
-        "young-adult",
-        "fantasy",
-        "werewolves",
-        "romance",
-        "paranormal-romance",
-        "shapeshifters"
-      ],
-      "rating": 4.03,
-      "ratings": 39983,
-      "reviews": 3010
     },
     {
       "title": "Boy's Life",
@@ -123,8 +81,92 @@
         "magical-realism"
       ],
       "rating": 4.4,
-      "ratings": 39977,
-      "reviews": 4941
+      "ratings": 40042,
+      "reviews": 4948
+    },
+    {
+      "title": "Age of Myth",
+      "url": "https://www.goodreads.com/book/show/26863057-age-of-myth",
+      "id": "24657657",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1507307691i/26863057.jpg",
+      "authors": [
+        "Michael J. Sullivan"
+      ],
+      "genres": [
+        "fantasy",
+        "fiction",
+        "audiobook",
+        "epic-fantasy",
+        "high-fantasy",
+        "adult",
+        "magic"
+      ],
+      "rating": 4.22,
+      "ratings": 40036,
+      "reviews": 3927
+    },
+    {
+      "title": "The Copper Gauntlet",
+      "url": "https://www.goodreads.com/book/show/13612962-the-copper-gauntlet",
+      "id": "25129083",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1526297061i/13612962.jpg",
+      "authors": [
+        "Holly Black"
+      ],
+      "genres": [
+        "fantasy",
+        "middle-grade",
+        "young-adult",
+        "magic",
+        "fiction",
+        "adventure",
+        "audiobook"
+      ],
+      "rating": 4.11,
+      "ratings": 40019,
+      "reviews": 3151
+    },
+    {
+      "title": "The Grey King",
+      "url": "https://www.goodreads.com/book/show/222576.The_Grey_King",
+      "id": "2887072",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1390358853i/222576.jpg",
+      "authors": [
+        "Susan Cooper"
+      ],
+      "genres": [
+        "fantasy",
+        "young-adult",
+        "fiction",
+        "childrens",
+        "middle-grade",
+        "arthurian",
+        "adventure"
+      ],
+      "rating": 4.16,
+      "ratings": 40015,
+      "reviews": 1213
+    },
+    {
+      "title": "Prince of Wolves",
+      "url": "https://www.goodreads.com/book/show/11947156-prince-of-wolves",
+      "id": "16908743",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327878769i/11947156.jpg",
+      "authors": [
+        "Quinn Loftis"
+      ],
+      "genres": [
+        "paranormal",
+        "young-adult",
+        "fantasy",
+        "werewolves",
+        "romance",
+        "paranormal-romance",
+        "shapeshifters"
+      ],
+      "rating": 4.03,
+      "ratings": 39987,
+      "reviews": 3010
     },
     {
       "title": "Bloodhound",
@@ -144,29 +186,8 @@
         "adventure"
       ],
       "rating": 4.28,
-      "ratings": 39851,
+      "ratings": 39858,
       "reviews": 1328
-    },
-    {
-      "title": "Kiss of Death",
-      "url": "https://www.goodreads.com/book/show/7091713-kiss-of-death",
-      "id": "7241833",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1270564957i/7091713.jpg",
-      "authors": [
-        "Rachel Caine"
-      ],
-      "genres": [
-        "vampires",
-        "young-adult",
-        "paranormal",
-        "fantasy",
-        "urban-fantasy",
-        "romance",
-        "supernatural"
-      ],
-      "rating": 4.2,
-      "ratings": 39842,
-      "reviews": 1121
     },
     {
       "title": "Worlds Collide",
@@ -186,8 +207,29 @@
         "audiobook"
       ],
       "rating": 4.48,
-      "ratings": 39821,
-      "reviews": 2340
+      "ratings": 39857,
+      "reviews": 2341
+    },
+    {
+      "title": "Kiss of Death",
+      "url": "https://www.goodreads.com/book/show/7091713-kiss-of-death",
+      "id": "7241833",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1270564957i/7091713.jpg",
+      "authors": [
+        "Rachel Caine"
+      ],
+      "genres": [
+        "vampires",
+        "young-adult",
+        "paranormal",
+        "fantasy",
+        "urban-fantasy",
+        "romance",
+        "supernatural"
+      ],
+      "rating": 4.2,
+      "ratings": 39848,
+      "reviews": 1121
     },
     {
       "title": "Judas Unchained",
@@ -207,29 +249,8 @@
         "aliens"
       ],
       "rating": 4.3,
-      "ratings": 39785,
-      "reviews": 1626
-    },
-    {
-      "title": "Devil May Cry",
-      "url": "https://www.goodreads.com/book/show/84133.Devil_May_Cry",
-      "id": "81224",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442795932i/84133.jpg",
-      "authors": [
-        "Sherrilyn Kenyon"
-      ],
-      "genres": [
-        "paranormal-romance",
-        "paranormal",
-        "romance",
-        "fantasy",
-        "vampires",
-        "urban-fantasy",
-        "mythology"
-      ],
-      "rating": 4.3,
-      "ratings": 39777,
-      "reviews": 1249
+      "ratings": 39804,
+      "reviews": 1629
     },
     {
       "title": "Moonrise",
@@ -249,8 +270,29 @@
         "adventure"
       ],
       "rating": 4.3,
-      "ratings": 39777,
+      "ratings": 39803,
       "reviews": 1110
+    },
+    {
+      "title": "Devil May Cry",
+      "url": "https://www.goodreads.com/book/show/84133.Devil_May_Cry",
+      "id": "81224",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442795932i/84133.jpg",
+      "authors": [
+        "Sherrilyn Kenyon"
+      ],
+      "genres": [
+        "paranormal-romance",
+        "paranormal",
+        "romance",
+        "fantasy",
+        "vampires",
+        "urban-fantasy",
+        "mythology"
+      ],
+      "rating": 4.3,
+      "ratings": 39780,
+      "reviews": 1249
     },
     {
       "title": "Key of Valor",
@@ -270,8 +312,50 @@
         "contemporary"
       ],
       "rating": 4.15,
-      "ratings": 39723,
+      "ratings": 39750,
       "reviews": 1056
+    },
+    {
+      "title": "Die Herren von Winterfell",
+      "url": "https://www.goodreads.com/book/show/8341706-die-herren-von-winterfell",
+      "id": "45629367",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327145994i/8341706.jpg",
+      "authors": [
+        "George R.R. Martin"
+      ],
+      "genres": [
+        "fantasy",
+        "fiction",
+        "high-fantasy",
+        "german-literature",
+        "epic-fantasy",
+        "audiobook",
+        "adult"
+      ],
+      "rating": 4.27,
+      "ratings": 39718,
+      "reviews": 1014
+    },
+    {
+      "title": "Sin & Chocolate",
+      "url": "https://www.goodreads.com/book/show/42196479-sin-chocolate",
+      "id": "65113967",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1745955041i/42196479.jpg",
+      "authors": [
+        "K.F. Breene"
+      ],
+      "genres": [
+        "fantasy",
+        "paranormal",
+        "urban-fantasy",
+        "magic",
+        "paranormal-romance",
+        "mythology",
+        "audiobook"
+      ],
+      "rating": 4.21,
+      "ratings": 39688,
+      "reviews": 2625
     },
     {
       "title": "Aurora Burning",
@@ -291,7 +375,7 @@
         "space"
       ],
       "rating": 4.25,
-      "ratings": 39656,
+      "ratings": 39676,
       "reviews": 6859
     },
     {
@@ -312,50 +396,8 @@
         "holiday"
       ],
       "rating": 4.14,
-      "ratings": 39654,
-      "reviews": 1341
-    },
-    {
-      "title": "Die Herren von Winterfell",
-      "url": "https://www.goodreads.com/book/show/8341706-die-herren-von-winterfell",
-      "id": "45629367",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327145994i/8341706.jpg",
-      "authors": [
-        "George R.R. Martin"
-      ],
-      "genres": [
-        "fantasy",
-        "fiction",
-        "high-fantasy",
-        "german-literature",
-        "epic-fantasy",
-        "audiobook",
-        "adult"
-      ],
-      "rating": 4.27,
-      "ratings": 39648,
-      "reviews": 1012
-    },
-    {
-      "title": "Sin & Chocolate",
-      "url": "https://www.goodreads.com/book/show/42196479-sin-chocolate",
-      "id": "65113967",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1745955041i/42196479.jpg",
-      "authors": [
-        "K.F. Breene"
-      ],
-      "genres": [
-        "fantasy",
-        "paranormal",
-        "urban-fantasy",
-        "magic",
-        "paranormal-romance",
-        "mythology",
-        "audiobook"
-      ],
-      "rating": 4.21,
-      "ratings": 39640,
-      "reviews": 2621
+      "ratings": 39660,
+      "reviews": 1342
     },
     {
       "title": "Arrows of the Queen",
@@ -375,8 +417,8 @@
         "adventure"
       ],
       "rating": 4.14,
-      "ratings": 39545,
-      "reviews": 1532
+      "ratings": 39553,
+      "reviews": 1534
     },
     {
       "title": "Shards of Honour",
@@ -396,29 +438,8 @@
         "science-fiction-fantasy"
       ],
       "rating": 4.07,
-      "ratings": 39507,
-      "reviews": 2896
-    },
-    {
-      "title": "Hard Bitten",
-      "url": "https://www.goodreads.com/book/show/9581001-hard-bitten",
-      "id": "12773071",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1372850762i/9581001.jpg",
-      "authors": [
-        "Chloe Neill"
-      ],
-      "genres": [
-        "urban-fantasy",
-        "vampires",
-        "paranormal",
-        "fantasy",
-        "romance",
-        "paranormal-romance",
-        "magic"
-      ],
-      "rating": 4.14,
-      "ratings": 39487,
-      "reviews": 2524
+      "ratings": 39526,
+      "reviews": 2900
     },
     {
       "title": "Lore Olympus: Volume Four",
@@ -438,29 +459,29 @@
         "greek-mythology"
       ],
       "rating": 4.47,
-      "ratings": 39469,
-      "reviews": 2686
+      "ratings": 39521,
+      "reviews": 2689
     },
     {
-      "title": "Fire Falling",
-      "url": "https://www.goodreads.com/book/show/26047438-fire-falling",
-      "id": "45977131",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1440388938i/26047438.jpg",
+      "title": "Hard Bitten",
+      "url": "https://www.goodreads.com/book/show/9581001-hard-bitten",
+      "id": "12773071",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1372850762i/9581001.jpg",
       "authors": [
-        "Elise Kova"
+        "Chloe Neill"
       ],
       "genres": [
+        "urban-fantasy",
+        "vampires",
+        "paranormal",
         "fantasy",
         "romance",
-        "young-adult",
-        "magic",
-        "high-fantasy",
-        "young-adult-fantasy",
-        "fantasy-romance"
+        "paranormal-romance",
+        "magic"
       ],
-      "rating": 4.13,
-      "ratings": 39432,
-      "reviews": 3396
+      "rating": 4.14,
+      "ratings": 39488,
+      "reviews": 2524
     },
     {
       "title": "Tomie",
@@ -480,29 +501,8 @@
         "japan"
       ],
       "rating": 4.15,
-      "ratings": 39402,
-      "reviews": 4261
-    },
-    {
-      "title": "Life Expectancy",
-      "url": "https://www.goodreads.com/book/show/16435.Life_Expectancy",
-      "id": "4536957",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1308458308i/16435.jpg",
-      "authors": [
-        "Dean Koontz"
-      ],
-      "genres": [
-        "horror",
-        "fiction",
-        "thriller",
-        "mystery",
-        "suspense",
-        "fantasy",
-        "humor"
-      ],
-      "rating": 4.02,
-      "ratings": 39367,
-      "reviews": 2393
+      "ratings": 39469,
+      "reviews": 4264
     }
   ]
 }

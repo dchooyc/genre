@@ -1,46 +1,88 @@
 {
   "books": [
     {
-      "title": "Shades of Twilight",
-      "url": "https://www.goodreads.com/book/show/439941.Shades_of_Twilight",
-      "id": "2873329",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1338706097i/439941.jpg",
+      "title": "Gifts",
+      "url": "https://www.goodreads.com/book/show/211287626-gifts",
+      "id": "56507886",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1713023252i/211287626.jpg",
       "authors": [
-        "Linda Howard"
+        "Brynne Asher"
+      ],
+      "genres": [
+        "romance",
+        "contemporary",
+        "romantic-suspense",
+        "contemporary-romance",
+        "suspense",
+        "military-fiction",
+        "audiobook"
+      ],
+      "rating": 4.48,
+      "ratings": 11107,
+      "reviews": 717
+    },
+    {
+      "title": "Trusting Skylar",
+      "url": "https://www.goodreads.com/book/show/53539903-trusting-skylar",
+      "id": "77841540",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1590635266i/53539903.jpg",
+      "authors": [
+        "Susan Stoker"
       ],
       "genres": [
         "romance",
         "romantic-suspense",
-        "contemporary-romance",
+        "military-fiction",
         "contemporary",
         "suspense",
-        "mystery",
-        "fiction"
+        "contemporary-romance",
+        "audiobook"
       ],
-      "rating": 4.11,
-      "ratings": 11064,
-      "reviews": 633
+      "rating": 4.28,
+      "ratings": 11100,
+      "reviews": 814
     },
     {
-      "title": "The Fool's Run",
-      "url": "https://www.goodreads.com/book/show/801180.The_Fool_s_Run",
-      "id": "787143",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388198793i/801180.jpg",
+      "title": "The Perfect Assassin",
+      "url": "https://www.goodreads.com/book/show/60383020-the-perfect-assassin",
+      "id": "95155906",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1662443834i/60383020.jpg",
       "authors": [
-        "John Camp"
+        "James  Patterson"
+      ],
+      "genres": [
+        "thriller",
+        "mystery",
+        "fiction",
+        "audiobook",
+        "mystery-thriller",
+        "suspense",
+        "action"
+      ],
+      "rating": 4.07,
+      "ratings": 11092,
+      "reviews": 799
+    },
+    {
+      "title": "Bloody Mary",
+      "url": "https://www.goodreads.com/book/show/234668.Bloody_Mary",
+      "id": "565019",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1702918453i/234668.jpg",
+      "authors": [
+        "J.A. Konrath"
       ],
       "genres": [
         "mystery",
-        "fiction",
         "thriller",
-        "mystery-thriller",
+        "fiction",
         "crime",
         "suspense",
-        "detective"
+        "mystery-thriller",
+        "humor"
       ],
-      "rating": 4.02,
-      "ratings": 11061,
-      "reviews": 383
+      "rating": 4.04,
+      "ratings": 11085,
+      "reviews": 762
     },
     {
       "title": "L'uomo del labirinto",
@@ -60,8 +102,29 @@
         "suspense"
       ],
       "rating": 4.18,
-      "ratings": 11042,
-      "reviews": 1019
+      "ratings": 11081,
+      "reviews": 1020
+    },
+    {
+      "title": "Without a Trace",
+      "url": "https://www.goodreads.com/book/show/15869688-without-a-trace",
+      "id": "1856766",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348888676i/15869688.jpg",
+      "authors": [
+        "Colleen Coble"
+      ],
+      "genres": [
+        "mystery",
+        "christian-fiction",
+        "fiction",
+        "christian",
+        "suspense",
+        "romance",
+        "contemporary"
+      ],
+      "rating": 4.13,
+      "ratings": 11076,
+      "reviews": 778
     },
     {
       "title": "One for Sorrow",
@@ -80,9 +143,51 @@
         "suspense",
         "mystery-thriller"
       ],
-      "rating": 4.06,
-      "ratings": 11041,
-      "reviews": 778
+      "rating": 4.05,
+      "ratings": 11072,
+      "reviews": 780
+    },
+    {
+      "title": "The Fool's Run",
+      "url": "https://www.goodreads.com/book/show/801180.The_Fool_s_Run",
+      "id": "787143",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388198793i/801180.jpg",
+      "authors": [
+        "John Camp"
+      ],
+      "genres": [
+        "mystery",
+        "fiction",
+        "thriller",
+        "mystery-thriller",
+        "crime",
+        "suspense",
+        "detective"
+      ],
+      "rating": 4.02,
+      "ratings": 11069,
+      "reviews": 384
+    },
+    {
+      "title": "Shades of Twilight",
+      "url": "https://www.goodreads.com/book/show/439941.Shades_of_Twilight",
+      "id": "2873329",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1338706097i/439941.jpg",
+      "authors": [
+        "Linda Howard"
+      ],
+      "genres": [
+        "romance",
+        "romantic-suspense",
+        "contemporary-romance",
+        "contemporary",
+        "suspense",
+        "mystery",
+        "fiction"
+      ],
+      "rating": 4.11,
+      "ratings": 11067,
+      "reviews": 631
     },
     {
       "title": "The Secret Child",
@@ -102,7 +207,7 @@
         "suspense"
       ],
       "rating": 4.3,
-      "ratings": 11040,
+      "ratings": 11048,
       "reviews": 480
     },
     {
@@ -123,7 +228,7 @@
         "amazon"
       ],
       "rating": 4.32,
-      "ratings": 11039,
+      "ratings": 11045,
       "reviews": 366
     },
     {
@@ -144,8 +249,8 @@
         "suspense"
       ],
       "rating": 4.04,
-      "ratings": 11027,
-      "reviews": 1147
+      "ratings": 11031,
+      "reviews": 1148
     },
     {
       "title": "Bodily Harm",
@@ -165,7 +270,7 @@
         "crime"
       ],
       "rating": 4.41,
-      "ratings": 11016,
+      "ratings": 11029,
       "reviews": 406
     },
     {
@@ -186,7 +291,7 @@
         "mystery"
       ],
       "rating": 4.29,
-      "ratings": 11011,
+      "ratings": 11020,
       "reviews": 507
     },
     {
@@ -207,29 +312,8 @@
         "suspense"
       ],
       "rating": 4.43,
-      "ratings": 11006,
+      "ratings": 11015,
       "reviews": 602
-    },
-    {
-      "title": "Scream for Me",
-      "url": "https://www.goodreads.com/book/show/2212540.Scream_for_Me",
-      "id": "2218328",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348985553i/2212540.jpg",
-      "authors": [
-        "Karen      Rose"
-      ],
-      "genres": [
-        "romantic-suspense",
-        "romance",
-        "thriller",
-        "suspense",
-        "crime",
-        "mystery",
-        "fiction"
-      ],
-      "rating": 4.25,
-      "ratings": 11004,
-      "reviews": 514
     },
     {
       "title": "Say You're Sorry",
@@ -249,8 +333,50 @@
         "audiobook"
       ],
       "rating": 4.14,
-      "ratings": 11003,
-      "reviews": 1131
+      "ratings": 11011,
+      "reviews": 1130
+    },
+    {
+      "title": "A Perfect Wife",
+      "url": "https://www.goodreads.com/book/show/56886421-a-perfect-wife",
+      "id": "88952629",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1612010620i/56886421.jpg",
+      "authors": [
+        "Elle Gray"
+      ],
+      "genres": [
+        "mystery",
+        "thriller",
+        "crime",
+        "audiobook",
+        "suspense",
+        "fiction",
+        "mystery-thriller"
+      ],
+      "rating": 4.51,
+      "ratings": 11008,
+      "reviews": 265
+    },
+    {
+      "title": "Scream for Me",
+      "url": "https://www.goodreads.com/book/show/2212540.Scream_for_Me",
+      "id": "2218328",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348985553i/2212540.jpg",
+      "authors": [
+        "Karen      Rose"
+      ],
+      "genres": [
+        "romantic-suspense",
+        "romance",
+        "thriller",
+        "suspense",
+        "crime",
+        "mystery",
+        "fiction"
+      ],
+      "rating": 4.25,
+      "ratings": 11007,
+      "reviews": 514
     },
     {
       "title": "Bonnie",
@@ -270,7 +396,7 @@
         "paranormal"
       ],
       "rating": 4.11,
-      "ratings": 11003,
+      "ratings": 11004,
       "reviews": 804
     },
     {
@@ -291,7 +417,7 @@
         "crime"
       ],
       "rating": 4.22,
-      "ratings": 10993,
+      "ratings": 10994,
       "reviews": 309
     },
     {
@@ -312,50 +438,8 @@
         "suspense"
       ],
       "rating": 4.54,
-      "ratings": 10976,
+      "ratings": 10988,
       "reviews": 721
-    },
-    {
-      "title": "A Perfect Wife",
-      "url": "https://www.goodreads.com/book/show/56886421-a-perfect-wife",
-      "id": "88952629",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1612010620i/56886421.jpg",
-      "authors": [
-        "Elle Gray"
-      ],
-      "genres": [
-        "mystery",
-        "thriller",
-        "crime",
-        "audiobook",
-        "suspense",
-        "fiction",
-        "mystery-thriller"
-      ],
-      "rating": 4.51,
-      "ratings": 10973,
-      "reviews": 263
-    },
-    {
-      "title": "The Twenty-Three",
-      "url": "https://www.goodreads.com/book/show/29429982-the-twenty-three",
-      "id": "49694492",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1458146838i/29429982.jpg",
-      "authors": [
-        "Linwood Barclay"
-      ],
-      "genres": [
-        "thriller",
-        "mystery",
-        "fiction",
-        "mystery-thriller",
-        "suspense",
-        "crime",
-        "audiobook"
-      ],
-      "rating": 4.05,
-      "ratings": 10973,
-      "reviews": 1073
     },
     {
       "title": "Light Has Weight, but Darkness Does Not",
@@ -375,8 +459,29 @@
         "suspense"
       ],
       "rating": 4.33,
-      "ratings": 10970,
+      "ratings": 10980,
       "reviews": 398
+    },
+    {
+      "title": "The Twenty-Three",
+      "url": "https://www.goodreads.com/book/show/29429982-the-twenty-three",
+      "id": "49694492",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1458146838i/29429982.jpg",
+      "authors": [
+        "Linwood Barclay"
+      ],
+      "genres": [
+        "thriller",
+        "mystery",
+        "fiction",
+        "mystery-thriller",
+        "suspense",
+        "crime",
+        "audiobook"
+      ],
+      "rating": 4.05,
+      "ratings": 10979,
+      "reviews": 1074
     },
     {
       "title": "The Body Keeper",
@@ -396,113 +501,8 @@
         "suspense"
       ],
       "rating": 4.51,
-      "ratings": 10967,
+      "ratings": 10978,
       "reviews": 712
-    },
-    {
-      "title": "Cause to Kill",
-      "url": "https://www.goodreads.com/book/show/31285780-cause-to-kill",
-      "id": "51945218",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1469739651i/31285780.jpg",
-      "authors": [
-        "Blake Pierce"
-      ],
-      "genres": [
-        "mystery",
-        "thriller",
-        "crime",
-        "fiction",
-        "mystery-thriller",
-        "suspense",
-        "audiobook"
-      ],
-      "rating": 4.02,
-      "ratings": 10966,
-      "reviews": 709
-    },
-    {
-      "title": "Fourth Debt",
-      "url": "https://www.goodreads.com/book/show/25371482-fourth-debt",
-      "id": "43199828",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1439288788i/25371482.jpg",
-      "authors": [
-        "Pepper Winters"
-      ],
-      "genres": [
-        "dark",
-        "dark-romance",
-        "romance",
-        "erotica",
-        "contemporary",
-        "suspense",
-        "abuse"
-      ],
-      "rating": 4.25,
-      "ratings": 10956,
-      "reviews": 927
-    },
-    {
-      "title": "Darkness Falls",
-      "url": "https://www.goodreads.com/book/show/43909210-darkness-falls",
-      "id": "68327450",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1614692664i/43909210.jpg",
-      "authors": [
-        "Robert Bryndza"
-      ],
-      "genres": [
-        "thriller",
-        "mystery",
-        "crime",
-        "fiction",
-        "mystery-thriller",
-        "suspense",
-        "audiobook"
-      ],
-      "rating": 4.26,
-      "ratings": 10940,
-      "reviews": 893
-    },
-    {
-      "title": "Darkness Before Dawn",
-      "url": "https://www.goodreads.com/book/show/17251561-darkness-before-dawn",
-      "id": "23841321",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1367281221i/17251561.jpg",
-      "authors": [
-        "Claire Contreras"
-      ],
-      "genres": [
-        "romance",
-        "new-adult",
-        "contemporary",
-        "mystery",
-        "contemporary-romance",
-        "abuse",
-        "suspense"
-      ],
-      "rating": 4.14,
-      "ratings": 10930,
-      "reviews": 909
-    },
-    {
-      "title": "Serial",
-      "url": "https://www.goodreads.com/book/show/49523517-serial",
-      "id": "15360183",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1569502029l/49523517.jpg",
-      "authors": [
-        "Casey Hill"
-      ],
-      "genres": [
-        "mystery",
-        "thriller",
-        "fiction",
-        "mystery-thriller",
-        "crime",
-        "suspense",
-        "ireland"
-      ],
-      "rating": 4.06,
-      "ratings": 10902,
-      "reviews": 784
     }
   ]
 }

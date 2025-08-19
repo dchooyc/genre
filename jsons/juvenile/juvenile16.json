@@ -1,6 +1,131 @@
 {
   "books": [
     {
+      "title": "Mrs. Yonkers Is Bonkers!",
+      "url": "https://www.goodreads.com/book/show/1443663.Mrs_Yonkers_Is_Bonkers_",
+      "id": "1434313",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348242319i/1443663.jpg",
+      "authors": [
+        "Dan Gutman"
+      ],
+      "genres": [
+        "fiction",
+        "childrens",
+        "humor",
+        "chapter-books",
+        "audiobook",
+        "juvenile"
+      ],
+      "rating": 4.24,
+      "ratings": 1451,
+      "reviews": 47
+    },
+    {
+      "title": "The Stolen Sapphire: A Samantha Mystery",
+      "url": "https://www.goodreads.com/book/show/89148.The_Stolen_Sapphire",
+      "id": "86041",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1407305011i/89148.jpg",
+      "authors": [
+        "Sarah Masters Buckey"
+      ],
+      "genres": [
+        "historical-fiction",
+        "mystery",
+        "childrens",
+        "middle-grade",
+        "fiction",
+        "historical",
+        "juvenile"
+      ],
+      "rating": 4.07,
+      "ratings": 1445,
+      "reviews": 83
+    },
+    {
+      "title": "The Power of Poppy Pendle",
+      "url": "https://www.goodreads.com/book/show/13546433-the-power-of-poppy-pendle",
+      "id": "19111551",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1357593996i/13546433.jpg",
+      "authors": [
+        "Natasha Lowe"
+      ],
+      "genres": [
+        "fantasy",
+        "middle-grade",
+        "childrens",
+        "magic",
+        "witches",
+        "fiction",
+        "juvenile"
+      ],
+      "rating": 4.04,
+      "ratings": 1444,
+      "reviews": 249
+    },
+    {
+      "title": "Cyclone",
+      "url": "https://www.goodreads.com/book/show/32333319-cyclone",
+      "id": "52969542",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1494759526i/32333319.jpg",
+      "authors": [
+        "Doreen Cronin"
+      ],
+      "genres": [
+        "middle-grade",
+        "realistic-fiction",
+        "fiction",
+        "family",
+        "childrens",
+        "juvenile",
+        "young-adult"
+      ],
+      "rating": 4.08,
+      "ratings": 1442,
+      "reviews": 225
+    },
+    {
+      "title": "I Survived the Wellington Avalanche, 1910",
+      "url": "https://www.goodreads.com/book/show/59806062-i-survived-the-wellington-avalanche-1910",
+      "id": "94196613",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1661568660i/59806062.jpg",
+      "authors": [
+        "Lauren Tarshis"
+      ],
+      "genres": [
+        "historical-fiction",
+        "middle-grade",
+        "fiction",
+        "childrens",
+        "juvenile",
+        "adventure",
+        "audiobook"
+      ],
+      "rating": 4.17,
+      "ratings": 1438,
+      "reviews": 143
+    },
+    {
+      "title": "The Berenstain Bears and the Trouble with Chores",
+      "url": "https://www.goodreads.com/book/show/201139.The_Berenstain_Bears_and_the_Trouble_with_Chores",
+      "id": "194613",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1346804900i/201139.jpg",
+      "authors": [
+        "Stan Berenstain"
+      ],
+      "genres": [
+        "childrens",
+        "picture-books",
+        "fiction",
+        "juvenile",
+        "animals",
+        "family",
+        "young-adult"
+      ],
+      "rating": 4.11,
+      "ratings": 1437,
+      "reviews": 40
+    },
+    {
       "title": "Across the Puddingstone Dam",
       "url": "https://www.goodreads.com/book/show/363075.Across_the_Puddingstone_Dam",
       "id": "2755970",
@@ -22,27 +147,6 @@
       "reviews": 49
     },
     {
-      "title": "Summer of the Woods",
-      "url": "https://www.goodreads.com/book/show/23299454-summer-of-the-woods",
-      "id": "25321740",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1412282798i/23299454.jpg",
-      "authors": [
-        "Steven K.  Smith"
-      ],
-      "genres": [
-        "mystery",
-        "middle-grade",
-        "childrens",
-        "fiction",
-        "adventure",
-        "juvenile",
-        "chapter-books"
-      ],
-      "rating": 4.13,
-      "ratings": 1422,
-      "reviews": 190
-    },
-    {
       "title": "Blue",
       "url": "https://www.goodreads.com/book/show/580323.Blue",
       "id": "567221",
@@ -60,8 +164,29 @@
         "school"
       ],
       "rating": 4.38,
-      "ratings": 1418,
+      "ratings": 1421,
       "reviews": 275
+    },
+    {
+      "title": "Summer of the Woods",
+      "url": "https://www.goodreads.com/book/show/23299454-summer-of-the-woods",
+      "id": "25321740",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1412282798i/23299454.jpg",
+      "authors": [
+        "Steven K.  Smith"
+      ],
+      "genres": [
+        "mystery",
+        "middle-grade",
+        "childrens",
+        "fiction",
+        "adventure",
+        "juvenile",
+        "chapter-books"
+      ],
+      "rating": 4.13,
+      "ratings": 1421,
+      "reviews": 190
     },
     {
       "title": "Great Northern? A Scottish Adventure of Swallows & Amazons",
@@ -102,8 +227,8 @@
         "juvenile"
       ],
       "rating": 4.41,
-      "ratings": 1414,
-      "reviews": 247
+      "ratings": 1417,
+      "reviews": 246
     },
     {
       "title": "Eugenia Lincoln and the Unexpected Package",
@@ -123,7 +248,7 @@
         "audiobook"
       ],
       "rating": 4.24,
-      "ratings": 1410,
+      "ratings": 1411,
       "reviews": 211
     },
     {
@@ -143,30 +268,9 @@
         "fantasy",
         "juvenile"
       ],
-      "rating": 4.67,
-      "ratings": 1406,
-      "reviews": 255
-    },
-    {
-      "title": "Ms. Coco Is Loco!",
-      "url": "https://www.goodreads.com/book/show/20164832-ms-coco-is-loco",
-      "id": "2670304",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1394332438i/20164832.jpg",
-      "authors": [
-        "Dan Gutman"
-      ],
-      "genres": [
-        "humor",
-        "fiction",
-        "childrens",
-        "chapter-books",
-        "audiobook",
-        "juvenile",
-        "comedy"
-      ],
-      "rating": 4.21,
-      "ratings": 1401,
-      "reviews": 56
+      "rating": 4.66,
+      "ratings": 1409,
+      "reviews": 257
     },
     {
       "title": "What About Worms!?",
@@ -186,8 +290,29 @@
         "juvenile"
       ],
       "rating": 4.23,
-      "ratings": 1400,
+      "ratings": 1401,
       "reviews": 252
+    },
+    {
+      "title": "Ms. Coco Is Loco!",
+      "url": "https://www.goodreads.com/book/show/20164832-ms-coco-is-loco",
+      "id": "2670304",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1394332438i/20164832.jpg",
+      "authors": [
+        "Dan Gutman"
+      ],
+      "genres": [
+        "humor",
+        "fiction",
+        "childrens",
+        "chapter-books",
+        "audiobook",
+        "juvenile",
+        "comedy"
+      ],
+      "rating": 4.2,
+      "ratings": 1401,
+      "reviews": 56
     },
     {
       "title": "Big Little: (A Playful Concept Book of Opposites for Babies and Toddlers)",
@@ -212,7 +337,7 @@
     },
     {
       "title": "New in Town",
-      "url": "https://www.goodreads.com/book/show/103455737-curlfriends",
+      "url": "https://www.goodreads.com/book/show/103455737-new-in-town",
       "id": "126783507",
       "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1677551453i/103455737.jpg",
       "authors": [
@@ -228,8 +353,8 @@
         "childrens"
       ],
       "rating": 4.25,
-      "ratings": 1393,
-      "reviews": 231
+      "ratings": 1398,
+      "reviews": 232
     },
     {
       "title": "Horrid Henry's Stinkbomb",
@@ -249,7 +374,7 @@
         "comedy"
       ],
       "rating": 4.02,
-      "ratings": 1389,
+      "ratings": 1392,
       "reviews": 57
     },
     {
@@ -270,8 +395,8 @@
         "juvenile"
       ],
       "rating": 4.16,
-      "ratings": 1386,
-      "reviews": 162
+      "ratings": 1388,
+      "reviews": 163
     },
     {
       "title": "Curious George and the Puppies",
@@ -291,7 +416,7 @@
         "adventure"
       ],
       "rating": 4.01,
-      "ratings": 1384,
+      "ratings": 1387,
       "reviews": 81
     },
     {
@@ -312,7 +437,7 @@
         "juvenile"
       ],
       "rating": 4.07,
-      "ratings": 1380,
+      "ratings": 1379,
       "reviews": 169
     },
     {
@@ -333,8 +458,29 @@
         "2nd-grade"
       ],
       "rating": 4.13,
-      "ratings": 1371,
+      "ratings": 1372,
       "reviews": 125
+    },
+    {
+      "title": "Collection (2 Books) Superfudge / Tales of a Fourth Grade Nothing",
+      "url": "https://www.goodreads.com/book/show/894684.Collection_2_Books_Superfudge_Tales_of_a_Fourth_Grade_Nothing",
+      "id": "19049150",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1179261391i/894684.jpg",
+      "authors": [
+        "Judy Blume"
+      ],
+      "genres": [
+        "childrens",
+        "fiction",
+        "young-adult",
+        "middle-grade",
+        "realistic-fiction",
+        "classics",
+        "juvenile"
+      ],
+      "rating": 4.19,
+      "ratings": 1369,
+      "reviews": 33
     },
     {
       "title": "Pig the Stinker",
@@ -354,154 +500,8 @@
         "juvenile"
       ],
       "rating": 4.11,
-      "ratings": 1369,
-      "reviews": 158
-    },
-    {
-      "title": "Collection (2 Books) Superfudge / Tales of a Fourth Grade Nothing",
-      "url": "https://www.goodreads.com/book/show/894684.Fudge_Bind_up",
-      "id": "19049150",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1179261391i/894684.jpg",
-      "authors": [
-        "Judy Blume"
-      ],
-      "genres": [
-        "childrens",
-        "fiction",
-        "young-adult",
-        "middle-grade",
-        "realistic-fiction",
-        "classics",
-        "juvenile"
-      ],
-      "rating": 4.19,
       "ratings": 1368,
-      "reviews": 33
-    },
-    {
-      "title": "Dr. Carbles Is Losing His Marbles!",
-      "url": "https://www.goodreads.com/book/show/1000173.Dr_Carbles_Is_Losing_His_Marbles_",
-      "id": "985664",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1436676623i/1000173.jpg",
-      "authors": [
-        "Dan Gutman"
-      ],
-      "genres": [
-        "humor",
-        "childrens",
-        "chapter-books",
-        "fiction",
-        "audiobook",
-        "realistic-fiction",
-        "juvenile"
-      ],
-      "rating": 4.2,
-      "ratings": 1360,
-      "reviews": 57
-    },
-    {
-      "title": "Night-Night, Little Pookie",
-      "url": "https://www.goodreads.com/book/show/6557873-night-night-little-pookie",
-      "id": "6750516",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320449011i/6557873.jpg",
-      "authors": [
-        "Sandra Boynton"
-      ],
-      "genres": [
-        "childrens",
-        "picture-books",
-        "animals",
-        "fiction",
-        "juvenile",
-        "kids"
-      ],
-      "rating": 4.24,
-      "ratings": 1359,
-      "reviews": 83
-    },
-    {
-      "title": "Harold & Hog Pretend For Real!",
-      "url": "https://www.goodreads.com/book/show/41717242-harold-hog-pretend-for-real",
-      "id": "65073199",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1553767473i/41717242.jpg",
-      "authors": [
-        "Dan Santat"
-      ],
-      "genres": [
-        "picture-books",
-        "humor",
-        "friendship",
-        "childrens",
-        "animals",
-        "fiction",
-        "juvenile"
-      ],
-      "rating": 4.15,
-      "ratings": 1358,
-      "reviews": 252
-    },
-    {
-      "title": "Miss Happiness and Miss Flower",
-      "url": "https://www.goodreads.com/book/show/3797.Miss_Happiness_and_Miss_Flower",
-      "id": "1737278",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1400176459i/3797.jpg",
-      "authors": [
-        "Rumer Godden"
-      ],
-      "genres": [
-        "childrens",
-        "fiction",
-        "japan",
-        "fantasy",
-        "classics",
-        "juvenile",
-        "chapter-books"
-      ],
-      "rating": 4.28,
-      "ratings": 1352,
-      "reviews": 133
-    },
-    {
-      "title": "Mr. Louie Is Screwy!",
-      "url": "https://www.goodreads.com/book/show/1000174.Mr_Louie_Is_Screwy_",
-      "id": "985665",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348249693i/1000174.jpg",
-      "authors": [
-        "Dan Gutman"
-      ],
-      "genres": [
-        "humor",
-        "childrens",
-        "fiction",
-        "chapter-books",
-        "audiobook",
-        "juvenile",
-        "realistic-fiction"
-      ],
-      "rating": 4.2,
-      "ratings": 1343,
-      "reviews": 61
-    },
-    {
-      "title": "Polar Bear's Underwear",
-      "url": "https://www.goodreads.com/book/show/22553705-polar-bear-s-underwear",
-      "id": "42012520",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1415582181i/22553705.jpg",
-      "authors": [
-        "Tupera Tupera"
-      ],
-      "genres": [
-        "picture-books",
-        "animals",
-        "storytime",
-        "childrens",
-        "humor",
-        "fiction",
-        "juvenile"
-      ],
-      "rating": 4.02,
-      "ratings": 1342,
-      "reviews": 226
+      "reviews": 158
     }
   ]
 }

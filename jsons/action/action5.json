@@ -1,25 +1,46 @@
 {
   "books": [
     {
-      "title": "Dark State",
-      "url": "https://www.goodreads.com/book/show/59836138-dark-state",
-      "id": "72402302",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1639677841i/59836138.jpg",
+      "title": "The Killing",
+      "url": "https://www.goodreads.com/book/show/828483.The_Killing",
+      "id": "4413351",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1409557087i/828483.jpg",
       "authors": [
-        "Jack     Slater"
+        "Robert Muchamore"
+      ],
+      "genres": [
+        "young-adult",
+        "fiction",
+        "action",
+        "adventure",
+        "espionage",
+        "childrens",
+        "thriller"
+      ],
+      "rating": 4.15,
+      "ratings": 21433,
+      "reviews": 499
+    },
+    {
+      "title": "Dead Eye",
+      "url": "https://www.goodreads.com/book/show/17166242-dead-eye",
+      "id": "23593050",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1364849324i/17166242.jpg",
+      "authors": [
+        "Mark Greaney"
       ],
       "genres": [
         "thriller",
         "fiction",
-        "mystery",
-        "spy-thriller",
         "action",
-        "mystery-thriller",
-        "audiobook"
+        "audiobook",
+        "espionage",
+        "suspense",
+        "spy-thriller"
       ],
-      "rating": 4.43,
-      "ratings": 21372,
-      "reviews": 823
+      "rating": 4.42,
+      "ratings": 21374,
+      "reviews": 813
     },
     {
       "title": "The Eye of God",
@@ -39,29 +60,8 @@
         "mystery-thriller"
       ],
       "rating": 4.13,
-      "ratings": 21356,
-      "reviews": 1326
-    },
-    {
-      "title": "Dead Eye",
-      "url": "https://www.goodreads.com/book/show/17166242-dead-eye",
-      "id": "23593050",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1364849324i/17166242.jpg",
-      "authors": [
-        "Mark Greaney"
-      ],
-      "genres": [
-        "thriller",
-        "fiction",
-        "action",
-        "audiobook",
-        "espionage",
-        "spy-thriller",
-        "suspense"
-      ],
-      "rating": 4.42,
-      "ratings": 21351,
-      "reviews": 812
+      "ratings": 21373,
+      "reviews": 1327
     },
     {
       "title": "The Hunters",
@@ -81,8 +81,8 @@
         "action"
       ],
       "rating": 4.44,
-      "ratings": 21122,
-      "reviews": 654
+      "ratings": 21130,
+      "reviews": 655
     },
     {
       "title": "Excavation",
@@ -102,8 +102,8 @@
         "suspense"
       ],
       "rating": 4.05,
-      "ratings": 21055,
-      "reviews": 811
+      "ratings": 21064,
+      "reviews": 812
     },
     {
       "title": "Flood Tide",
@@ -123,7 +123,7 @@
         "mystery-thriller"
       ],
       "rating": 4.04,
-      "ratings": 20963,
+      "ratings": 20975,
       "reviews": 492
     },
     {
@@ -139,13 +139,13 @@
         "thriller",
         "audiobook",
         "mystery-thriller",
+        "action",
         "suspense",
-        "mystery",
-        "action"
+        "mystery"
       ],
       "rating": 4.31,
-      "ratings": 20911,
-      "reviews": 1131
+      "ratings": 20923,
+      "reviews": 1132
     },
     {
       "title": "Enemy of the State",
@@ -165,8 +165,8 @@
         "action"
       ],
       "rating": 4.33,
-      "ratings": 20808,
-      "reviews": 947
+      "ratings": 20832,
+      "reviews": 948
     },
     {
       "title": "Out of the Dark",
@@ -186,8 +186,8 @@
         "crime"
       ],
       "rating": 4.41,
-      "ratings": 20634,
-      "reviews": 1652
+      "ratings": 20656,
+      "reviews": 1653
     },
     {
       "title": "Lethal Agent",
@@ -207,8 +207,8 @@
         "espionage"
       ],
       "rating": 4.39,
-      "ratings": 20555,
-      "reviews": 1051
+      "ratings": 20573,
+      "reviews": 1050
     },
     {
       "title": "Gunmetal Gray",
@@ -228,7 +228,7 @@
         "suspense"
       ],
       "rating": 4.46,
-      "ratings": 20292,
+      "ratings": 20322,
       "reviews": 816
     },
     {
@@ -249,7 +249,7 @@
         "suspense"
       ],
       "rating": 4.05,
-      "ratings": 20211,
+      "ratings": 20218,
       "reviews": 1037
     },
     {
@@ -270,8 +270,8 @@
         "suspense"
       ],
       "rating": 4.41,
-      "ratings": 19750,
-      "reviews": 699
+      "ratings": 19778,
+      "reviews": 700
     },
     {
       "title": "Ice Station Zebra",
@@ -291,8 +291,8 @@
         "audiobook"
       ],
       "rating": 4.01,
-      "ratings": 19742,
-      "reviews": 468
+      "ratings": 19747,
+      "reviews": 469
     },
     {
       "title": "Area 7",
@@ -312,7 +312,7 @@
         "mystery-thriller"
       ],
       "rating": 4.11,
-      "ratings": 19498,
+      "ratings": 19508,
       "reviews": 630
     },
     {
@@ -333,7 +333,7 @@
         "mystery-thriller"
       ],
       "rating": 4.06,
-      "ratings": 19477,
+      "ratings": 19488,
       "reviews": 688
     },
     {
@@ -375,8 +375,8 @@
         "suspense"
       ],
       "rating": 4.09,
-      "ratings": 19405,
-      "reviews": 585
+      "ratings": 19422,
+      "reviews": 587
     },
     {
       "title": "The Guns of Navarone",
@@ -396,7 +396,7 @@
         "classics"
       ],
       "rating": 4.13,
-      "ratings": 19400,
+      "ratings": 19404,
       "reviews": 574
     },
     {
@@ -417,7 +417,7 @@
         "adventure"
       ],
       "rating": 4.12,
-      "ratings": 19100,
+      "ratings": 19110,
       "reviews": 810
     },
     {
@@ -438,7 +438,7 @@
         "mystery-thriller"
       ],
       "rating": 4.09,
-      "ratings": 19067,
+      "ratings": 19080,
       "reviews": 1315
     },
     {
@@ -459,7 +459,7 @@
         "mystery-thriller"
       ],
       "rating": 4.23,
-      "ratings": 19009,
+      "ratings": 19018,
       "reviews": 637
     },
     {
@@ -480,8 +480,8 @@
         "suspense"
       ],
       "rating": 4.29,
-      "ratings": 18839,
-      "reviews": 903
+      "ratings": 18851,
+      "reviews": 902
     },
     {
       "title": "Reborn! Vol. 01: Reborn Arrives!",

@@ -1,6 +1,27 @@
 {
   "books": [
     {
+      "title": "Testing Business Ideas: A Field Guide for Rapid Experimentation",
+      "url": "https://www.goodreads.com/book/show/44056365-testing-business-ideas",
+      "id": "68501548",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1569897834i/44056365.jpg",
+      "authors": [
+        "David J. Bland"
+      ],
+      "genres": [
+        "business",
+        "entrepreneurship",
+        "design",
+        "non-fiction",
+        "management",
+        "research",
+        "technology"
+      ],
+      "rating": 4.25,
+      "ratings": 988,
+      "reviews": 69
+    },
+    {
       "title": "Red Team Field Manual",
       "url": "https://www.goodreads.com/book/show/21419959-red-team-field-manual",
       "id": "40723153",
@@ -43,25 +64,25 @@
       "reviews": 130
     },
     {
-      "title": "Software Estimation: Demystifying the Black Art",
-      "url": "https://www.goodreads.com/book/show/93891.Software_Estimation",
-      "id": "90512",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1396830924i/93891.jpg",
+      "title": "C++ Primer",
+      "url": "https://www.goodreads.com/book/show/768080.C_Primer",
+      "id": "754144",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347564002i/768080.jpg",
       "authors": [
-        "Steve McConnell"
+        "Stanley B. Lippman"
       ],
       "genres": [
         "programming",
-        "software",
-        "management",
-        "technology",
-        "non-fiction",
         "computer-science",
-        "technical"
+        "technology",
+        "reference",
+        "non-fiction",
+        "computers",
+        "software"
       ],
-      "rating": 4.05,
-      "ratings": 984,
-      "reviews": 69
+      "rating": 4.23,
+      "ratings": 987,
+      "reviews": 51
     },
     {
       "title": "Crack-Up Capitalism: Market Radicals and the Dream of a World Without Democracy",
@@ -81,8 +102,29 @@
         "technology"
       ],
       "rating": 4.12,
-      "ratings": 980,
-      "reviews": 174
+      "ratings": 984,
+      "reviews": 177
+    },
+    {
+      "title": "Software Estimation: Demystifying the Black Art",
+      "url": "https://www.goodreads.com/book/show/93891.Software_Estimation",
+      "id": "90512",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1396830924i/93891.jpg",
+      "authors": [
+        "Steve McConnell"
+      ],
+      "genres": [
+        "programming",
+        "software",
+        "management",
+        "technology",
+        "non-fiction",
+        "computer-science",
+        "technical"
+      ],
+      "rating": 4.05,
+      "ratings": 984,
+      "reviews": 69
     },
     {
       "title": "UNIX and Linux System Administration Handbook",
@@ -123,14 +165,35 @@
         "asia"
       ],
       "rating": 4.27,
-      "ratings": 975,
-      "reviews": 169
+      "ratings": 976,
+      "reviews": 170
     },
     {
-      "title": "Terraform: Up and Running: Writing Infrastructure as Code",
-      "url": "https://www.goodreads.com/book/show/62683905-terraform",
+      "title": "El enemigo conoce el sistema",
+      "url": "https://www.goodreads.com/book/show/49411111-el-enemigo-conoce-el-sistema",
+      "id": "71306902",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1563702625l/49411111.jpg",
+      "authors": [
+        "Marta Peirano"
+      ],
+      "genres": [
+        "non-fiction",
+        "politics",
+        "technology",
+        "spanish-literature",
+        "social",
+        "sociology",
+        "science"
+      ],
+      "rating": 4.13,
+      "ratings": 972,
+      "reviews": 131
+    },
+    {
+      "title": "Terraform: Up & Running: Writing Infrastructure as Code",
+      "url": "https://www.goodreads.com/book/show/42589303-terraform",
       "id": "54111011",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1663799415i/62683905.jpg",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1552510581i/42589303.jpg",
       "authors": [
         "Yevgeniy Brikman"
       ],
@@ -144,7 +207,7 @@
         "engineering"
       ],
       "rating": 4.25,
-      "ratings": 973,
+      "ratings": 972,
       "reviews": 93
     },
     {
@@ -167,27 +230,6 @@
       "rating": 4.16,
       "ratings": 970,
       "reviews": 91
-    },
-    {
-      "title": "El enemigo conoce el sistema",
-      "url": "https://www.goodreads.com/book/show/49411111-el-enemigo-conoce-el-sistema",
-      "id": "71306902",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1563702625l/49411111.jpg",
-      "authors": [
-        "Marta Peirano"
-      ],
-      "genres": [
-        "non-fiction",
-        "politics",
-        "technology",
-        "spanish-literature",
-        "social",
-        "sociology",
-        "science"
-      ],
-      "rating": 4.13,
-      "ratings": 968,
-      "reviews": 131
     },
     {
       "title": "Strategize: Product Strategy and Product Roadmap Practices for the Digital Age",
@@ -313,7 +355,7 @@
       ],
       "rating": 4.2,
       "ratings": 952,
-      "reviews": 95
+      "reviews": 94
     },
     {
       "title": "Speculative Everything: Design, Fiction, and Social Dreaming",
@@ -418,7 +460,28 @@
       ],
       "rating": 4,
       "ratings": 928,
-      "reviews": 118
+      "reviews": 117
+    },
+    {
+      "title": "It Came from Something Awful: How a Toxic Troll Army Accidentally Memed Donald Trump into Office",
+      "url": "https://www.goodreads.com/book/show/41150398-it-came-from-something-awful",
+      "id": "64320830",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1554386615i/41150398.jpg",
+      "authors": [
+        "Dale Beran"
+      ],
+      "genres": [
+        "non-fiction",
+        "politics",
+        "history",
+        "audiobook",
+        "internet",
+        "technology",
+        "sociology"
+      ],
+      "rating": 4.05,
+      "ratings": 924,
+      "reviews": 137
     },
     {
       "title": "How to Make a Spaceship: A Band of Renegades, an Epic Race, and the Birth of Private Spaceflight",
@@ -440,69 +503,6 @@
       "rating": 4.14,
       "ratings": 922,
       "reviews": 124
-    },
-    {
-      "title": "It Came from Something Awful: How a Toxic Troll Army Accidentally Memed Donald Trump into Office",
-      "url": "https://www.goodreads.com/book/show/41150398-it-came-from-something-awful",
-      "id": "64320830",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1554386615i/41150398.jpg",
-      "authors": [
-        "Dale Beran"
-      ],
-      "genres": [
-        "non-fiction",
-        "politics",
-        "history",
-        "audiobook",
-        "internet",
-        "technology",
-        "sociology"
-      ],
-      "rating": 4.05,
-      "ratings": 922,
-      "reviews": 137
-    },
-    {
-      "title": "Decoding the Universe: How the New Science of Information Is Explaining Everything in the Cosmos, from Our Brains to Black Holes",
-      "url": "https://www.goodreads.com/book/show/116623.Decoding_the_Universe",
-      "id": "112301",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1403169488i/116623.jpg",
-      "authors": [
-        "Charles Seife"
-      ],
-      "genres": [
-        "science",
-        "non-fiction",
-        "physics",
-        "mathematics",
-        "astronomy",
-        "philosophy",
-        "technology"
-      ],
-      "rating": 4.09,
-      "ratings": 919,
-      "reviews": 91
-    },
-    {
-      "title": "The Ultimate Guide to Red Light Therapy: How to Use Red and Near-Infrared Light Therapy for Anti-Aging, Fat Loss, Muscle Gain, Performance Enhancement, and Brain Optimization",
-      "url": "https://www.goodreads.com/book/show/40780641-the-ultimate-guide-to-red-light-therapy",
-      "id": "63484008",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1531281532i/40780641.jpg",
-      "authors": [
-        "Ari Whitten"
-      ],
-      "genres": [
-        "health",
-        "non-fiction",
-        "science",
-        "reference",
-        "personal-development",
-        "biology",
-        "technology"
-      ],
-      "rating": 4.14,
-      "ratings": 919,
-      "reviews": 76
     }
   ]
 }

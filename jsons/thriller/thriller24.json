@@ -1,6 +1,27 @@
 {
   "books": [
     {
+      "title": "The Long Goodbye",
+      "url": "https://www.goodreads.com/book/show/2054.The_Long_Goodbye",
+      "id": "998106",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1655478371i/2054.jpg",
+      "authors": [
+        "Raymond Chandler"
+      ],
+      "genres": [
+        "mystery",
+        "fiction",
+        "crime",
+        "noir",
+        "classics",
+        "detective",
+        "thriller"
+      ],
+      "rating": 4.19,
+      "ratings": 45680,
+      "reviews": 3106
+    },
+    {
       "title": "Live to Tell",
       "url": "https://www.goodreads.com/book/show/7180727-live-to-tell",
       "id": "7192827",
@@ -18,8 +39,8 @@
         "audiobook"
       ],
       "rating": 4.18,
-      "ratings": 45557,
-      "reviews": 2612
+      "ratings": 45589,
+      "reviews": 2616
     },
     {
       "title": "The Thirst",
@@ -39,8 +60,8 @@
         "detective"
       ],
       "rating": 4.18,
-      "ratings": 45344,
-      "reviews": 3148
+      "ratings": 45370,
+      "reviews": 3149
     },
     {
       "title": "Capturing the Devil",
@@ -60,8 +81,8 @@
         "thriller"
       ],
       "rating": 4.19,
-      "ratings": 45319,
-      "reviews": 6692
+      "ratings": 45352,
+      "reviews": 6696
     },
     {
       "title": "The Last Child",
@@ -81,8 +102,8 @@
         "suspense"
       ],
       "rating": 4.15,
-      "ratings": 45299,
-      "reviews": 5157
+      "ratings": 45323,
+      "reviews": 5158
     },
     {
       "title": "A Killer's Wife",
@@ -102,71 +123,8 @@
         "suspense"
       ],
       "rating": 4.31,
-      "ratings": 45199,
-      "reviews": 2860
-    },
-    {
-      "title": "Heartless",
-      "url": "https://www.goodreads.com/book/show/3047848-heartless",
-      "id": "3078639",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1265496817i/3047848.jpg",
-      "authors": [
-        "Sara Shepard"
-      ],
-      "genres": [
-        "young-adult",
-        "mystery",
-        "fiction",
-        "contemporary",
-        "romance",
-        "thriller",
-        "chick-lit"
-      ],
-      "rating": 4.02,
-      "ratings": 44996,
-      "reviews": 1773
-    },
-    {
-      "title": "The Cold Dish",
-      "url": "https://www.goodreads.com/book/show/109901.The_Cold_Dish",
-      "id": "105919",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1398028367i/109901.jpg",
-      "authors": [
-        "Craig Johnson"
-      ],
-      "genres": [
-        "mystery",
-        "fiction",
-        "westerns",
-        "crime",
-        "audiobook",
-        "mystery-thriller",
-        "thriller"
-      ],
-      "rating": 4.12,
-      "ratings": 44995,
-      "reviews": 4776
-    },
-    {
-      "title": "The Body",
-      "url": "https://www.goodreads.com/book/show/11574.The_Body",
-      "id": "2334601",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328182521i/11574.jpg",
-      "authors": [
-        "Robin Waterfield"
-      ],
-      "genres": [
-        "horror",
-        "fiction",
-        "short-stories",
-        "coming-of-age",
-        "thriller",
-        "audiobook",
-        "mystery"
-      ],
-      "rating": 4.3,
-      "ratings": 44992,
-      "reviews": 1409
+      "ratings": 45232,
+      "reviews": 2864
     },
     {
       "title": "The Water Keeper",
@@ -186,8 +144,71 @@
         "thriller"
       ],
       "rating": 4.27,
-      "ratings": 44965,
-      "reviews": 4009
+      "ratings": 45087,
+      "reviews": 4016
+    },
+    {
+      "title": "The Cold Dish",
+      "url": "https://www.goodreads.com/book/show/109901.The_Cold_Dish",
+      "id": "105919",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1398028367i/109901.jpg",
+      "authors": [
+        "Craig Johnson"
+      ],
+      "genres": [
+        "mystery",
+        "fiction",
+        "westerns",
+        "crime",
+        "audiobook",
+        "mystery-thriller",
+        "thriller"
+      ],
+      "rating": 4.12,
+      "ratings": 45021,
+      "reviews": 4779
+    },
+    {
+      "title": "Heartless",
+      "url": "https://www.goodreads.com/book/show/3047848-heartless",
+      "id": "3078639",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1265496817i/3047848.jpg",
+      "authors": [
+        "Sara Shepard"
+      ],
+      "genres": [
+        "young-adult",
+        "mystery",
+        "fiction",
+        "contemporary",
+        "romance",
+        "thriller",
+        "chick-lit"
+      ],
+      "rating": 4.02,
+      "ratings": 45019,
+      "reviews": 1772
+    },
+    {
+      "title": "The Body",
+      "url": "https://www.goodreads.com/book/show/11574.The_Body",
+      "id": "2334601",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328182521i/11574.jpg",
+      "authors": [
+        "Robin Waterfield"
+      ],
+      "genres": [
+        "horror",
+        "fiction",
+        "short-stories",
+        "coming-of-age",
+        "thriller",
+        "audiobook",
+        "mystery"
+      ],
+      "rating": 4.3,
+      "ratings": 45005,
+      "reviews": 1409
     },
     {
       "title": "The Silent Girl",
@@ -207,8 +228,50 @@
         "audiobook"
       ],
       "rating": 4.15,
-      "ratings": 44864,
+      "ratings": 44895,
       "reviews": 2467
+    },
+    {
+      "title": "Think Twice",
+      "url": "https://www.goodreads.com/book/show/198494009-think-twice",
+      "id": "201489030",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1697047908i/198494009.jpg",
+      "authors": [
+        "Harlan Coben"
+      ],
+      "genres": [
+        "mystery",
+        "thriller",
+        "fiction",
+        "crime",
+        "mystery-thriller",
+        "suspense",
+        "audiobook"
+      ],
+      "rating": 4.24,
+      "ratings": 44814,
+      "reviews": 3335
+    },
+    {
+      "title": "Beyond Reach",
+      "url": "https://www.goodreads.com/book/show/21720.Beyond_Reach",
+      "id": "1952659",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388342699i/21720.jpg",
+      "authors": [
+        "Karin Slaughter"
+      ],
+      "genres": [
+        "thriller",
+        "mystery",
+        "crime",
+        "fiction",
+        "mystery-thriller",
+        "suspense",
+        "audiobook"
+      ],
+      "rating": 4.2,
+      "ratings": 44791,
+      "reviews": 2854
     },
     {
       "title": "The Stand: Soul Survivors",
@@ -232,25 +295,25 @@
       "reviews": 139
     },
     {
-      "title": "Beyond Reach",
-      "url": "https://www.goodreads.com/book/show/21720.Beyond_Reach",
-      "id": "1952659",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388342699i/21720.jpg",
+      "title": "A Place Called Freedom",
+      "url": "https://www.goodreads.com/book/show/825509.A_Place_Called_Freedom",
+      "id": "995847",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1748443729i/825509.jpg",
       "authors": [
-        "Karin Slaughter"
+        "Ken Follett"
       ],
       "genres": [
-        "thriller",
-        "mystery",
-        "crime",
+        "historical-fiction",
         "fiction",
-        "mystery-thriller",
-        "suspense",
-        "audiobook"
+        "historical",
+        "audiobook",
+        "thriller",
+        "romance",
+        "scotland"
       ],
-      "rating": 4.2,
-      "ratings": 44730,
-      "reviews": 2848
+      "rating": 4.07,
+      "ratings": 44693,
+      "reviews": 2172
     },
     {
       "title": "Not a Penny More, Not a Penny Less",
@@ -270,50 +333,8 @@
         "suspense"
       ],
       "rating": 4.04,
-      "ratings": 44675,
-      "reviews": 1627
-    },
-    {
-      "title": "Think Twice",
-      "url": "https://www.goodreads.com/book/show/198494009-think-twice",
-      "id": "201489030",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1697047908i/198494009.jpg",
-      "authors": [
-        "Harlan Coben"
-      ],
-      "genres": [
-        "mystery",
-        "thriller",
-        "fiction",
-        "crime",
-        "mystery-thriller",
-        "suspense",
-        "audiobook"
-      ],
-      "rating": 4.24,
-      "ratings": 44641,
-      "reviews": 3324
-    },
-    {
-      "title": "A Place Called Freedom",
-      "url": "https://www.goodreads.com/book/show/825509.A_Place_Called_Freedom",
-      "id": "995847",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1748443729i/825509.jpg",
-      "authors": [
-        "Ken Follett"
-      ],
-      "genres": [
-        "historical-fiction",
-        "fiction",
-        "historical",
-        "audiobook",
-        "thriller",
-        "romance",
-        "scotland"
-      ],
-      "rating": 4.07,
-      "ratings": 44640,
-      "reviews": 2170
+      "ratings": 44681,
+      "reviews": 1628
     },
     {
       "title": "Close to Home",
@@ -333,8 +354,8 @@
         "suspense"
       ],
       "rating": 4.31,
-      "ratings": 44635,
-      "reviews": 1760
+      "ratings": 44671,
+      "reviews": 1764
     },
     {
       "title": "The Innocent",
@@ -354,8 +375,8 @@
         "audiobook"
       ],
       "rating": 4.01,
-      "ratings": 44587,
-      "reviews": 2555
+      "ratings": 44609,
+      "reviews": 2556
     },
     {
       "title": "Silent Scream",
@@ -375,8 +396,29 @@
         "suspense"
       ],
       "rating": 4.07,
-      "ratings": 44562,
-      "reviews": 3475
+      "ratings": 44603,
+      "reviews": 3479
+    },
+    {
+      "title": "The Butcher",
+      "url": "https://www.goodreads.com/book/show/18775334-the-butcher",
+      "id": "26325820",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1649202335i/18775334.jpg",
+      "authors": [
+        "Jennifer Hillier"
+      ],
+      "genres": [
+        "thriller",
+        "mystery",
+        "mystery-thriller",
+        "horror",
+        "audiobook",
+        "fiction",
+        "suspense"
+      ],
+      "rating": 4.1,
+      "ratings": 44419,
+      "reviews": 4296
     },
     {
       "title": "14th Deadly Sin",
@@ -396,7 +438,7 @@
         "mystery-thriller"
       ],
       "rating": 4.1,
-      "ratings": 44321,
+      "ratings": 44340,
       "reviews": 2424
     },
     {
@@ -417,8 +459,8 @@
         "audiobook"
       ],
       "rating": 4.1,
-      "ratings": 44196,
-      "reviews": 2496
+      "ratings": 44230,
+      "reviews": 2500
     },
     {
       "title": "Protect and Defend",
@@ -438,71 +480,29 @@
         "suspense"
       ],
       "rating": 4.36,
-      "ratings": 43916,
-      "reviews": 1140
+      "ratings": 43936,
+      "reviews": 1141
     },
     {
-      "title": "The Butcher",
-      "url": "https://www.goodreads.com/book/show/18775334-the-butcher",
-      "id": "26325820",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1649202335i/18775334.jpg",
+      "title": "The House",
+      "url": "https://www.goodreads.com/book/show/448784.The_House",
+      "id": "437439",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328475339i/448784.jpg",
       "authors": [
-        "Jennifer Hillier"
+        "Michael McDowell"
       ],
       "genres": [
-        "thriller",
-        "mystery",
-        "mystery-thriller",
         "horror",
-        "audiobook",
+        "fantasy",
         "fiction",
-        "suspense"
-      ],
-      "rating": 4.1,
-      "ratings": 43729,
-      "reviews": 4240
-    },
-    {
-      "title": "The Blackhouse",
-      "url": "https://www.goodreads.com/book/show/10305247-the-blackhouse",
-      "id": "7307773",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328052791i/10305247.jpg",
-      "authors": [
-        "Peter  May"
-      ],
-      "genres": [
+        "gothic",
+        "historical-fiction",
         "mystery",
-        "crime",
-        "fiction",
-        "scotland",
-        "thriller",
-        "mystery-thriller",
-        "audiobook"
+        "thriller"
       ],
-      "rating": 4.09,
-      "ratings": 43643,
-      "reviews": 4225
-    },
-    {
-      "title": "Hell's Corner",
-      "url": "https://www.goodreads.com/book/show/8045080-hell-s-corner",
-      "id": "15254849",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1330171863i/8045080.jpg",
-      "authors": [
-        "David Baldacci"
-      ],
-      "genres": [
-        "fiction",
-        "thriller",
-        "mystery",
-        "suspense",
-        "crime",
-        "mystery-thriller",
-        "audiobook"
-      ],
-      "rating": 4.19,
-      "ratings": 43637,
-      "reviews": 2231
+      "rating": 4.15,
+      "ratings": 43724,
+      "reviews": 4629
     }
   ]
 }

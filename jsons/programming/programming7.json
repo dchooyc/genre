@@ -1,6 +1,48 @@
 {
   "books": [
     {
+      "title": "The Data Warehouse Toolkit: The Complete Guide to Dimensional Modeling",
+      "url": "https://www.goodreads.com/book/show/748203.The_Data_Warehouse_Toolkit",
+      "id": "734345",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347291991i/748203.jpg",
+      "authors": [
+        "Ralph Kimball"
+      ],
+      "genres": [
+        "computer-science",
+        "technology",
+        "technical",
+        "programming",
+        "non-fiction",
+        "business",
+        "reference"
+      ],
+      "rating": 4.17,
+      "ratings": 1005,
+      "reviews": 60
+    },
+    {
+      "title": "Red Team Field Manual",
+      "url": "https://www.goodreads.com/book/show/21419959-red-team-field-manual",
+      "id": "40723153",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1436338407i/21419959.jpg",
+      "authors": [
+        "Ben Clark"
+      ],
+      "genres": [
+        "hackers",
+        "technology",
+        "computer-science",
+        "technical",
+        "reference",
+        "non-fiction",
+        "programming"
+      ],
+      "rating": 4.23,
+      "ratings": 987,
+      "reviews": 33
+    },
+    {
       "title": "C++ Primer",
       "url": "https://www.goodreads.com/book/show/768080.C_Primer",
       "id": "754144",
@@ -64,10 +106,10 @@
       "reviews": 53
     },
     {
-      "title": "Terraform: Up and Running: Writing Infrastructure as Code",
-      "url": "https://www.goodreads.com/book/show/62683905-terraform",
+      "title": "Terraform: Up & Running: Writing Infrastructure as Code",
+      "url": "https://www.goodreads.com/book/show/42589303-terraform",
       "id": "54111011",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1663799415i/62683905.jpg",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1552510581i/42589303.jpg",
       "authors": [
         "Yevgeniy Brikman"
       ],
@@ -81,29 +123,8 @@
         "engineering"
       ],
       "rating": 4.25,
-      "ratings": 973,
+      "ratings": 972,
       "reviews": 93
-    },
-    {
-      "title": "The Joy of Clojure",
-      "url": "https://www.goodreads.com/book/show/8129142-the-joy-of-clojure",
-      "id": "12924863",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1272940175i/8129142.jpg",
-      "authors": [
-        "Michael Fogus"
-      ],
-      "genres": [
-        "programming",
-        "computer-science",
-        "technology",
-        "technical",
-        "computers",
-        "software",
-        "non-fiction"
-      ],
-      "rating": 4.18,
-      "ratings": 959,
-      "reviews": 50
     },
     {
       "title": "Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman",
@@ -125,6 +146,27 @@
       "rating": 4.11,
       "ratings": 959,
       "reviews": 131
+    },
+    {
+      "title": "The Joy of Clojure",
+      "url": "https://www.goodreads.com/book/show/8129142-the-joy-of-clojure",
+      "id": "12924863",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1272940175i/8129142.jpg",
+      "authors": [
+        "Michael Fogus"
+      ],
+      "genres": [
+        "programming",
+        "computer-science",
+        "technology",
+        "technical",
+        "computers",
+        "software",
+        "non-fiction"
+      ],
+      "rating": 4.18,
+      "ratings": 959,
+      "reviews": 50
     },
     {
       "title": "Software Craftsman, The: Professionalism, Pragmatism, Pride",
@@ -166,7 +208,7 @@
       ],
       "rating": 4.2,
       "ratings": 952,
-      "reviews": 95
+      "reviews": 94
     },
     {
       "title": "But How Do It Know? The Basic Principles of Computers for Everyone",
@@ -253,6 +295,27 @@
       "reviews": 71
     },
     {
+      "title": "Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications",
+      "url": "https://www.goodreads.com/book/show/60715378-designing-machine-learning-systems",
+      "id": "95721327",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1653945265i/60715378.jpg",
+      "authors": [
+        "Chip Huyen"
+      ],
+      "genres": [
+        "artificial-intelligence",
+        "technology",
+        "computer-science",
+        "technical",
+        "programming",
+        "software",
+        "non-fiction"
+      ],
+      "rating": 4.47,
+      "ratings": 903,
+      "reviews": 84
+    },
+    {
       "title": "Python for Everybody: Exploring Data in Python 3",
       "url": "https://www.goodreads.com/book/show/31134574-python-for-everybody",
       "id": "50390184",
@@ -272,27 +335,6 @@
       "rating": 4.27,
       "ratings": 902,
       "reviews": 73
-    },
-    {
-      "title": "Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications",
-      "url": "https://www.goodreads.com/book/show/60715378-designing-machine-learning-systems",
-      "id": "95721327",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1653945265i/60715378.jpg",
-      "authors": [
-        "Chip Huyen"
-      ],
-      "genres": [
-        "artificial-intelligence",
-        "technology",
-        "computer-science",
-        "technical",
-        "programming",
-        "software",
-        "non-fiction"
-      ],
-      "rating": 4.47,
-      "ratings": 900,
-      "reviews": 84
     },
     {
       "title": "The Kubernetes Book",
@@ -379,6 +421,27 @@
       "reviews": 47
     },
     {
+      "title": "MAKE: Bootstrapper's Handbook",
+      "url": "https://www.goodreads.com/book/show/39165640-make",
+      "id": "60748088",
+      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1520858702i/39165640.jpg",
+      "authors": [
+        "Pieter Levels"
+      ],
+      "genres": [
+        "business",
+        "entrepreneurship",
+        "non-fiction",
+        "technology",
+        "software",
+        "self-help",
+        "programming"
+      ],
+      "rating": 4.08,
+      "ratings": 863,
+      "reviews": 136
+    },
+    {
       "title": "Linux Kernel Development",
       "url": "https://www.goodreads.com/book/show/8474434-linux-kernel-development",
       "id": "219997",
@@ -396,29 +459,8 @@
         "non-fiction"
       ],
       "rating": 4.33,
-      "ratings": 862,
+      "ratings": 863,
       "reviews": 49
-    },
-    {
-      "title": "MAKE: Bootstrapper's Handbook",
-      "url": "https://www.goodreads.com/book/show/39165640-make",
-      "id": "60748088",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1520858702i/39165640.jpg",
-      "authors": [
-        "Pieter Levels"
-      ],
-      "genres": [
-        "business",
-        "entrepreneurship",
-        "non-fiction",
-        "technology",
-        "software",
-        "self-help",
-        "programming"
-      ],
-      "rating": 4.07,
-      "ratings": 861,
-      "reviews": 136
     },
     {
       "title": "Expert C Programming: Deep C Secrets",
@@ -461,48 +503,6 @@
       "rating": 4.15,
       "ratings": 847,
       "reviews": 53
-    },
-    {
-      "title": "Mindstorms: Children, Computers, and Powerful Ideas",
-      "url": "https://www.goodreads.com/book/show/703532.Mindstorms",
-      "id": "689823",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348579820i/703532.jpg",
-      "authors": [
-        "Seymour Papert"
-      ],
-      "genres": [
-        "non-fiction",
-        "technology",
-        "psychology",
-        "computer-science",
-        "programming",
-        "computers",
-        "parenting"
-      ],
-      "rating": 4.31,
-      "ratings": 842,
-      "reviews": 97
-    },
-    {
-      "title": "High Performance Browser Networking",
-      "url": "https://www.goodreads.com/book/show/17985198-high-performance-browser-networking",
-      "id": "25220114",
-      "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1369754654i/17985198.jpg",
-      "authors": [
-        "Ilya Grigorik"
-      ],
-      "genres": [
-        "programming",
-        "technology",
-        "computer-science",
-        "software",
-        "technical",
-        "non-fiction",
-        "web"
-      ],
-      "rating": 4.51,
-      "ratings": 838,
-      "reviews": 88
     }
   ]
 }
